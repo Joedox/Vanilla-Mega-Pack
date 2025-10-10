@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: tilled soil -->
+<VCE_TilledSoil.label>terre labourée</VCE_TilledSoil.label>
+<!-- EN: Tillage is the agricultural preparation of soil by mechanical agitation of various types, increasing terrain fertility. Tilling soil can only be done on normal soil (not rich soil). When a plant is harvested on a plowed soil, the floor becomes a normal soil again and needs to be plowed again manually. -->
+<VCE_TilledSoil.description>Le travail du sol est la préparation agricole du sol par agitation mécanique de différents types, augmentant la fertilité du terrain. Le labourage du sol ne peut se faire que sur un sol normal (pas un sol riche). Lorsqu'une plante est récoltée sur un sol labouré, celui-ci redevient un sol normal et doit être à nouveau labouré manuellement.</VCE_TilledSoil.description>
+<!-- EN: tilling soil. -->
+<VCE_TilledSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>laboure le sol.</VCE_TilledSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+<!-- EN: dirt -->
+<VCE_TilledSoil.tools.dirt.label>terre</VCE_TilledSoil.tools.dirt.label>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFE_DrugCabinet.label>armoire à pharmacie</VFE_DrugCabinet.label>
+<VFE_DrugCabinet.description>Augmente la vitesse de travail lorsqu'il est placé près d'un laboratoire chimique. L’armoire à pharmacie peut relier jusqu’à deux laboratoires.</VFE_DrugCabinet.description>
+
+<VFE_MachiningCabinet.label>armoire d'usinage</VFE_MachiningCabinet.label>
+<VFE_MachiningCabinet.description>Augmente la vitesse de travail lorsqu'il est placé près d'un établi d'assemblage. L’armoire d'usinage peut relier jusqu'à deux établis d'assemblage.</VFE_MachiningCabinet.description>
+
+<VFE_SmithyCabinet.label>armoire de forgeron</VFE_SmithyCabinet.label>
+<VFE_SmithyCabinet.description>Augmente la vitesse de travail lorsqu'il est placé près d'un établi de forgeron. L’armoire de forgeron peut relier jusqu'à deux établis de forgeron.</VFE_SmithyCabinet.description>
+
+<VFE_KitchenSinkCabinet.label>armoire évier</VFE_KitchenSinkCabinet.label>
+<VFE_KitchenSinkCabinet.description>Augmente la vitesse de travail lorsqu'il est placé à proximité d'une cuisinière.</VFE_KitchenSinkCabinet.description>
+
+<VFE_TailorCabinet.label>armoire à couture</VFE_TailorCabinet.label>
+<VFE_TailorCabinet.description>Augmente la vitesse de travail lorsqu'il est placé près d'un établi de tissage. L’armoire à couture peut relier jusqu'à deux établis de tissage.</VFE_TailorCabinet.description>
+
+<VFE_FabricationCabinet.label>armoire de fabrication</VFE_FabricationCabinet.label>
+<VFE_FabricationCabinet.description>Augmente la vitesse de travail lorsqu'il est placé près d'un atelier de fabrication. L’armoire de fabrication peut relier jusqu'à deux ateliers de fabrication.</VFE_FabricationCabinet.description>
+
+<VFE_TableMachiningLarge.label>atelier d'assemblage</VFE_TableMachiningLarge.label>
+<VFE_TableMachiningLarge.description>Une grande table munie d’outils servant à assembler et a désassembler des machines telles que des armures ou des carcasses de Mécanoïde. Consomme de l'énergie.</VFE_TableMachiningLarge.description>
+
+<VFE_TableSmithyLarge.label>atelier de forgeron</VFE_TableSmithyLarge.label>
+<VFE_TableSmithyLarge.description>Un atelier qui fonctionne à l’électricité pour forger et assembler des armes et des outils sans mécanismes. Consomme beaucoup d'énergie.</VFE_TableSmithyLarge.description>
+
+<VFE_TableStoveLarge.label>grande cuisinière</VFE_TableStoveLarge.label>
+<VFE_TableStoveLarge.description>Une cuisinière de fabrication de grande taille ainsi que plusieurs fours pour préparer les repas et cuisiner beaucoup plus rapidement.</VFE_TableStoveLarge.description>
+
+<VFE_TableTailorLarge.label>atelier de tissage</VFE_TableTailorLarge.label>
+<VFE_TableTailorLarge.description>Un atelier de tissage de grande taille avec plusieurs outils pour les designers et une machine à coudre pour coudre rapide des vêtements. Peut fonctionner sans électricité à 33% de sa vitesse normale.</VFE_TableTailorLarge.description>
+
+<VFE_ComponentFabricationBench.label>établi de fabrication</VFE_ComponentFabricationBench.label>
+<VFE_ComponentFabricationBench.description>Un établi équipé d'outils avancés pour la production de merveilles technologiques à partir de matériaux plus simples.</VFE_ComponentFabricationBench.description>
+
+<VFE_TableButcherElectric.label>établi de boucher électrique</VFE_TableButcherElectric.label>
+<VFE_TableButcherElectric.description>Une table motorisée avec une lame de scie rotative pour dépecer des créatures en pièce de viandes crues. Consomme beaucoup d'énergie.</VFE_TableButcherElectric.description>
+
+<VFE_TableDrugLabElectric.label>laboratoire chimique électrique</VFE_TableDrugLabElectric.label>
+<VFE_TableDrugLabElectric.description>Un banc de travail avancé équipé de récipients, de réchauds et de dispositifs de mesure pour produire divers médicaments avec plus d'efficacité. Consomme beaucoup d'énergie.</VFE_TableDrugLabElectric.description>
+
+<VFE_FueledSmelter.label>fonderie à combustible</VFE_FueledSmelter.label>
+<VFE_FueledSmelter.description>Une fonderie qui fonctionne par la combustion de bois pour extraire le métal réutilisable des débris et objets métalliques.</VFE_FueledSmelter.description>
+
+<VFE_TableStonecutterElectric.label>établi de tailleur de pierre électrique</VFE_TableStonecutterElectric.label>
+<VFE_TableStonecutterElectric.description>Une table de travail avancée avec des scies électriques et des supports pour couper des morceaux de pierre en blocs utilisables en un temps réduit sur une chaîne de montage. Consomme beaucoup d'énergie.</VFE_TableStonecutterElectric.description>
+
+
+</LanguageData>

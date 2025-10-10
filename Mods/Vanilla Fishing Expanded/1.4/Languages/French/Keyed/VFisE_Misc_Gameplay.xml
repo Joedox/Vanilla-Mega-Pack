@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Various -->
+
+<VCEF_FishingGrowingZone>Zone de pêche</VCEF_FishingGrowingZone>
+<VCEF_FishingGrowingZoneDesc>Créer une zone où vos colons tenteront de pêcher.</VCEF_FishingGrowingZoneDesc>
+
+<VCEF_ChooseFish>Choisir la prise</VCEF_ChooseFish>
+<VCEF_ChooseFishDesc>Déterminer la taille du poisson à attraper parmi ceux qui peuplent ce biome. Les petits poissons prennent moins de temps mais sont moins nourrissants, tandis que les gros poissons prennent plus de temps mais sont plus nourrissants. Les poissons de taille moyenne sont équilibrés entre les deux . Il y a toujours une chance d'attraper des poissons différents ou des objets spéciaux.</VCEF_ChooseFishDesc>
+
+
+<VCEF_ChooseFishSmallLabel>Petit</VCEF_ChooseFishSmallLabel>
+<VCEF_ChooseFishMediumLabel>Moyen</VCEF_ChooseFishMediumLabel>
+<VCEF_ChooseFishLargeLabel>Gros</VCEF_ChooseFishLargeLabel>
+
+<VCEF_CommandAllowFishing>Autoriser la pêche</VCEF_CommandAllowFishing>
+<VCEF_CommandAllowFishingDesc>Autoriser la pêche dans cette zone.</VCEF_CommandAllowFishingDesc>
+
+<VCEF_ZoneSetTo>Une zone de {0} cases est destinée à pêcher des poissons de taille </VCEF_ZoneSetTo>
+<VCEF_FishesInThisZone>Type de poisson : </VCEF_FishesInThisZone>
+<VCEF_IsZoneOceanZone>Zone océanique : </VCEF_IsZoneOceanZone>
+<VCEF_Yes>Oui</VCEF_Yes>
+<VCEF_No>Non</VCEF_No>
+<VCEF_ZoneTooSmall>Cette zone est trop petite ({0} cases). Les zones de pêche doivent avoir une taille minimum de {1} cases pour être valides (calcul effectué toutes les quelques secondes : enlever la pause pour mettre à jour).</VCEF_ZoneTooSmall>
+
+<VCEF_NoFish>Aucun poisson à pêcher dans ce biome (cela peut arriver avec les biomes moddés, demander au propriétaire d'ajouter le support ! Ou peut-être que vous êtes dans un biome sans vie).</VCEF_NoFish>
+
+<VCEF_CaughtSpecial>Pendant la pêche, {0} a attrapé quelque chose de spécial : {1}</VCEF_CaughtSpecial>
+
+<!-- Options -->
+
+<VCEF_minimumZoneSize>Taille minimum de la zone de pêche </VCEF_minimumZoneSize>
+<VCEF_minimumZoneSizeTooltip>Taille minimum de la zone de pêche, 25 cases par défaut.</VCEF_minimumZoneSizeTooltip>
+
+<VCEF_smallFishDurationFactor>Durée de pêche de base en ticks </VCEF_smallFishDurationFactor>
+<VCEF_smallFishDurationFactorTooltip>La valeur par défaut est 4500 pour les petits poissons. Les poissons moyens prennent le double cette fois, tandis que les gros poissons en prennent trois fois plus. Diminuer cela augmente le rendement alimentaire par jour, et vice versa.</VCEF_smallFishDurationFactorTooltip>
+
+<VCEF_chanceForSpecials>Probabilité d'obtenir un objet spécial au lieu d'un poisson </VCEF_chanceForSpecials>
+<VCEF_chanceForSpecialsTooltip>Chance d'obtenir un objet spécial à la place d'un poisson. La valeur par défaut est de 1% par opération de pêche.</VCEF_chanceForSpecialsTooltip>
+
+<VCEF_minMapTempForLowFish>Température minimum de la carte pour un rendement réduit de la pêche </VCEF_minMapTempForLowFish>
+<VCEF_minMapTempForLowFishTooltip>En dessous de cette température, le rendement de la pêche sera considérablement réduit. La valeur par défaut est 0ºC.</VCEF_minMapTempForLowFishTooltip>
+
+<VCEF_maxMapTempForLowFish>Température maximum de la carte pour un rendement réduit de la pêche </VCEF_maxMapTempForLowFish>
+<VCEF_maxMapTempForLowFishTooltip>Au-dessus de cette température, le rendement de la pêche sera considérablement réduit. La valeur par défaut est 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+
+
+
+<VCEF_dropFish>Le pêcheur laisse tomber le poisson au sol au lieu de le transporter dans un stockage.</VCEF_dropFish>
+
+<!-- Biotech -->
+
+<VCEF_TooPolluted>Cette zone de pêche est trop polluée pour y pêcher</VCEF_TooPolluted>
+
+
+</LanguageData>

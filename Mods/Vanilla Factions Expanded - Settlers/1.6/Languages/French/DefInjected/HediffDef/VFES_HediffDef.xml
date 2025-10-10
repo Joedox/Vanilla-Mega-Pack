@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: chemshine -->
+<Chemshined.label>chemshine</Chemshined.label>
+<!-- EN: Seems someone drank something volatile. -->
+<Chemshined.description>On dirait que quelqu'un a bu quelque chose de volatile.</Chemshined.description>
+<!-- EN: chemshined -->
+<Chemshined.labelNoun>chemshiné</Chemshined.labelNoun>
+<!-- EN: chemshined(minor) -->
+<Chemshined.stages.chemshinedminor.label>chemshiné (mineur)</Chemshined.stages.chemshinedminor.label>
+<!-- EN: chemshined -->
+<Chemshined.stages.chemshined.label>chemshiné</Chemshined.stages.chemshined.label>
+<!-- EN: chemshined(major) -->
+<Chemshined.stages.chemshinedmajor.label>chemshiné (sévère)</Chemshined.stages.chemshinedmajor.label>
+<!-- EN: chemshined(extreme) -->
+<Chemshined.stages.chemshinedextreme.label>chemshiné (extrême)</Chemshined.stages.chemshinedextreme.label>
+
+
+<!-- EN: wanted -->
+<Wanted.label>recherché</Wanted.label>
+<!-- EN: This one is considered a criminal by a faction. -->
+<Wanted.description>Celui-ci est considéré comme un criminel par une faction.</Wanted.description>
+<!-- EN: wanted -->
+<Wanted.labelNoun>recherché</Wanted.labelNoun>
+<!-- EN: wanted -->
+<Wanted.stages.wanted.label>recherché</Wanted.stages.wanted.label>
+
+
+</LanguageData>

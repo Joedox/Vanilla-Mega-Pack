@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Fleshmass Regenerator -->
+<FleshmassHealnodeSTNL.label>régénérateur de masse de chair</FleshmassHealnodeSTNL.label>
+<!-- EN: A mini-fleshmass heart, can be consumed to obtain strong regenerative capabilities for a day. -->
+<FleshmassHealnodeSTNL.description>Un mini-cœur de masse de chair, qui peut être consommé pour obtenir de fortes capacités de régénération pendant une journée.</FleshmassHealnodeSTNL.description>
+<!-- EN: Take {0} -->
+<FleshmassHealnodeSTNL.ingestible.ingestCommandString>Prendre un {0}</FleshmassHealnodeSTNL.ingestible.ingestCommandString>
+<!-- EN: Taking {0}. -->
+<FleshmassHealnodeSTNL.ingestible.ingestReportString>Prend le {0}.</FleshmassHealnodeSTNL.ingestible.ingestReportString>
+
+<!-- EN: fleshmass hive -->
+<FleshmassHiveSTNL.label>ruche de masse de chair</FleshmassHiveSTNL.label>
+<!-- EN: A hive of giant creatures of flesh. It will spawn Fleshbeasts over time. -->
+<FleshmassHiveSTNL.description>Une ruche de créatures géantes de chair. Elle engendre des abominations de chair au fil du temps.</FleshmassHiveSTNL.description>
+
+<!-- EN: Meat Node -->
+<MeatNodeSTNL.label>nœud de viande</MeatNodeSTNL.label>
+<!-- EN: Periodically spews out twisted meat. -->
+<MeatNodeSTNL.description>Crache périodiquement de la viande difforme.</MeatNodeSTNL.description>
+
+
+</LanguageData>

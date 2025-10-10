@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<PH.EnableProxyHeat>Activer le rayonnement thermique</PH.EnableProxyHeat>
+<PH.EnableProxyHeatEffectIndoors>Activer le rayonnement thermique à l’intérieur</PH.EnableProxyHeatEffectIndoors>
+<PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Autoriser la croissance des plantes avec le rayonnement thermique en extérieur</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+<PH.ProxyHeatBuildings>Paramètres du rayonnement thermique des constructions :</PH.ProxyHeatBuildings>
+<PH.ProxyHeatRadius>Rayonnement thermique </PH.ProxyHeatRadius>
+<PH.MinTemperature>Seuil de température minimum </PH.MinTemperature>
+<PH.MaxTemperature>Seuil de température maximum </PH.MaxTemperature>
+<PN.NotSet> (non défini)</PN.NotSet>
+<PH.TemperatureOutput>Delta de la température </PH.TemperatureOutput>
+<PH.Search>Rcher : </PH.Search>
+<PH.BuildingHasTemperatureControl>Possède son propre système de contrôle de la température</PH.BuildingHasTemperatureControl>
+<VTE.MustPlaceHeaterWithFreeSpaces>Le côté chaud de l'appareil doit être dégagé.</VTE.MustPlaceHeaterWithFreeSpaces>
+<VTE.MustPlaceUnderRoof>Doit être placé sous un toit.</VTE.MustPlaceUnderRoof>
+<VTE.CannotPlaceAdjacentCeilingFan>Ne peut être placé à côté d'un ventilateur de plafond.</VTE.CannotPlaceAdjacentCeilingFan>
+<VTE.Efficiency>Efficacité du réseau </VTE.Efficiency>
+<VTE.NetworkTargetTemp>Température cible du réseau </VTE.NetworkTargetTemp>
+<VTE.Production>Production </VTE.Production>
+<VTE.Consumption>Consommation </VTE.Consumption>
+<VTE.TotalProduction>Production totale </VTE.TotalProduction>
+<VTE.TotalConsumption>Consommation totale </VTE.TotalConsumption>
+<VTE.Relink>Température de lien</VTE.Relink>
+<VTE.Unlink>Dissocier la température</VTE.Unlink>
+<VTE.AcRelinkDescription>Relie cette unité AC au système, en héritant de la température souhaitée.</VTE.AcRelinkDescription>
+<VTE.AcUnlinkDescription>Dissocie cette unité AC de l'héritage de la température souhaitée par le système.</VTE.AcUnlinkDescription>
+<VTE.MissingCompressors>Ne fonctionne pas : Pas assez d'évaporateurs connectés</VTE.MissingCompressors>
+<VTE.MissingController>Ne fonctionne pas : Unité de contrôle AC manquante</VTE.MissingController>
+<VTE.TooManyControllers>Ne fonctionne pas : Connecté à plus d'une unité de contrôle AC</VTE.TooManyControllers>
+<VTE.CompressorCovered>Ne fonctionne pas : Couvert par un toit</VTE.CompressorCovered>
+<VTE_VentValve>Ouvrir / Fermer</VTE_VentValve>
+<VTE_VentValveDesc>Ouvre / Ferme le flux d'air conditionné. Un colon viendra bientôt pour actionner la vanne.</VTE_VentValveDesc>
+
+
+</LanguageData>

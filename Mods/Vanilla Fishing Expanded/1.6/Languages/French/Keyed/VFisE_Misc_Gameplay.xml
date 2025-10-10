@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- Various -->
+
+<!-- EN: Fishing Zone -->
+<VCEF_FishingGrowingZone>Zone de pêche</VCEF_FishingGrowingZone>
+<!-- EN: Create a zone where your colonists will try to fish -->
+<VCEF_FishingGrowingZoneDesc>Créer une zone où vos colons tenteront de pêcher.</VCEF_FishingGrowingZoneDesc>
+
+<!-- EN: Choose catch -->
+<VCEF_ChooseFish>Choisir la prise</VCEF_ChooseFish>
+<!-- EN: Choose prefered fish size to catch from those inhabiting this biome. Smaller fish take less time but are less nutritive, while larger fish take longer and are more nutritive. Medium fish are balanced between the two extremes. There is always a chance to catch some different fish or special items -->
+<VCEF_ChooseFishDesc>Déterminer la taille du poisson à attraper parmi ceux qui peuplent ce biome. Les petits poissons prennent moins de temps mais sont moins nourrissants, tandis que les gros poissons prennent plus de temps mais sont plus nourrissants. Les poissons de taille moyenne sont équilibrés entre les deux . Il y a toujours une chance d'attraper des poissons différents ou des objets spéciaux.</VCEF_ChooseFishDesc>
+
+
+<!-- EN: Catch Small Fish -->
+<VCEF_ChooseFishSmallLabel>Petit</VCEF_ChooseFishSmallLabel>
+<!-- EN: Catch Medium Fish -->
+<VCEF_ChooseFishMediumLabel>Moyen</VCEF_ChooseFishMediumLabel>
+<!-- EN: Catch Large Fish -->
+<VCEF_ChooseFishLargeLabel>Gros</VCEF_ChooseFishLargeLabel>
+
+<!-- EN: Allow Fishing -->
+<VCEF_CommandAllowFishing>Autoriser la pêche</VCEF_CommandAllowFishing>
+<!-- EN: Allow fishing to take place in this fishing zone -->
+<VCEF_CommandAllowFishingDesc>Autoriser la pêche dans cette zone.</VCEF_CommandAllowFishingDesc>
+
+<!-- EN: This zone of size {0} is set to catch fish of size -->
+<VCEF_ZoneSetTo>Une zone de {0} cases est destinée à pêcher des poissons de taille </VCEF_ZoneSetTo>
+<!-- EN: Fish in this zone:  -->
+<VCEF_FishesInThisZone>Type de poisson : </VCEF_FishesInThisZone>
+<!-- EN: Oceanic fishing zone:  -->
+<VCEF_IsZoneOceanZone>Zone océanique : </VCEF_IsZoneOceanZone>
+<!-- EN: Yes -->
+<VCEF_Yes>Oui</VCEF_Yes>
+<!-- EN: No -->
+<VCEF_No>Non</VCEF_No>
+<!-- EN: This zone is too small (size {0}). Fishing zones need to be at least {1} tiles to be valid (this calculation is made every few seconds: unpause to update). -->
+<VCEF_ZoneTooSmall>Cette zone est trop petite ({0} cases). Les zones de pêche doivent avoir une taille minimum de {1} cases pour être valides (calcul effectué toutes les quelques secondes : enlever la pause pour mettre à jour).</VCEF_ZoneTooSmall>
+
+<!-- EN: No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome) -->
+<VCEF_NoFish>Aucun poisson à pêcher dans ce biome (cela peut arriver avec les biomes moddés, demander au propriétaire d'ajouter le support ! Ou peut-être que vous êtes dans un biome sans vie).</VCEF_NoFish>
+
+<!-- EN: While fishing, {0} has caught something special: {1} -->
+<VCEF_CaughtSpecial>Pendant la pêche, {0} a attrapé quelque chose de spécial : {1}</VCEF_CaughtSpecial>
+
+<!-- Options -->
+
+<!-- EN: Minimum Fishing Zone size -->
+<VCEF_minimumZoneSize>Taille minimum de la zone de pêche </VCEF_minimumZoneSize>
+<!-- EN: Minimum Fishing Zone size, default is 25 tiles -->
+<VCEF_minimumZoneSizeTooltip>Taille minimum de la zone de pêche, 25 cases par défaut.</VCEF_minimumZoneSizeTooltip>
+
+<!-- EN: Base Fishing Duration in ticks -->
+<VCEF_smallFishDurationFactor>Durée de pêche de base en ticks </VCEF_smallFishDurationFactor>
+<!-- EN: Base Fishing Duration in ticks. Default is 4500 for small fish. Medium fish take double this time, while large fish take three times as much. Decreasing this increases food yield per day, and viceversa. -->
+<VCEF_smallFishDurationFactorTooltip>La valeur par défaut est 4500 pour les petits poissons. Les poissons moyens prennent le double cette fois, tandis que les gros poissons en prennent trois fois plus. Diminuer cela augmente le rendement alimentaire par jour, et vice versa.</VCEF_smallFishDurationFactorTooltip>
+
+<!-- EN: Chance to get an special item instead of fish -->
+<VCEF_chanceForSpecials>Probabilité d'obtenir un objet spécial au lieu d'un poisson </VCEF_chanceForSpecials>
+<!-- EN: Chance to get an special item instead of fish. Default is 1% per fishing operation. -->
+<VCEF_chanceForSpecialsTooltip>Chance d'obtenir un objet spécial à la place d'un poisson. La valeur par défaut est de 1% par action de pêche.</VCEF_chanceForSpecialsTooltip>
+<!-- EN: Chance to get an special item instead of fish. Default is 1% per fishing operation. Bear in mind in Odyssey there is by default a 5 day timer between "rare" catches, that you can tweak via these options too. -->
+<VCEF_chanceForSpecialsTooltip_Odyssey>Chance d'obtenir un objet spécial à la place du poisson. La valeur par défaut est de 1% par action de pêche. A noter que dans Odyssey, il y a par défaut un délai de 5 jours entre les prises "rares", que vous pouvez également modifier via ces options.</VCEF_chanceForSpecialsTooltip_Odyssey>
+
+<!-- EN: Minimum days between rare catches -->
+<VCEF_minDaysBetweenRareCatches>Nombre de jours minimum entre les captures rares </VCEF_minDaysBetweenRareCatches>
+<!-- EN: By default in Odyssey "rare" catches can only happen when 5 days have passed since the last "rare" catch. You can change that minimum interval here. -->
+<VCEF_minDaysBetweenRareCatchesTootip>Par défaut, dans Odyssey, les captures "rares" ne peuvent avoir lieu que lorsque 5 jours se sont écoulés depuis la dernière capture "rares". Vous pouvez modifier cet intervalle minimum ici.</VCEF_minDaysBetweenRareCatchesTootip>
+
+<!-- EN: Minimum map temperature for reduced fish yield -->
+<VCEF_minMapTempForLowFish>Température minimum de la carte pour un rendement réduit de la pêche </VCEF_minMapTempForLowFish>
+<!-- EN: Minimum map temperature for reduced fish yield. Below this temperature fish yield will be greatly reduced. Default is 0ºC. -->
+<VCEF_minMapTempForLowFishTooltip>En dessous de cette température, le rendement de la pêche sera considérablement réduit. La valeur par défaut est 0ºC.</VCEF_minMapTempForLowFishTooltip>
+
+<!-- EN: Maximum map temperature for reduced fish yield -->
+<VCEF_maxMapTempForLowFish>Température maximum de la carte pour un rendement réduit de la pêche </VCEF_maxMapTempForLowFish>
+<!-- EN: Maximum map temperature for reduced fish yield. Above this temperature fish yield will be greatly reduced. Default is 50ºC. -->
+<VCEF_maxMapTempForLowFishTooltip>Au-dessus de cette température, le rendement de la pêche sera considérablement réduit. La valeur par défaut est 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+
+<!-- EN: Fishing Yield multiplier -->
+<VCEF_fishingYieldMultiplier>Multiplicateur de rendement de pêche </VCEF_fishingYieldMultiplier>
+<!-- EN: The amount of fish caught will be scaled by this multiplier. -->
+<VCEF_fishingYieldMultiplierTooltip>La quantité de poissons pêchés sera calculée en fonction de ce multiplicateur.</VCEF_fishingYieldMultiplierTooltip>
+
+<!-- EN: Fishing Speed multiplier -->
+<VCEF_fishingSpeedMultiplier>Multiplicateur de vitesse de pêche </VCEF_fishingSpeedMultiplier>
+<!-- EN: The speed to catch the fish will be scaled by this multiplier. -->
+<VCEF_fishingSpeedMultiplierTooltip>La vitesse de pêche est multipliée par ce multiplicateur.</VCEF_fishingSpeedMultiplierTooltip>
+
+<!-- EN: Max fish population multiplier -->
+<VCEF_maxFishPopulationMultiplier>Multiplicateur de la population piscicole maximale </VCEF_maxFishPopulationMultiplier>
+<!-- EN: In Odyssey, max fish population in a body of water is defined per biome. This multiplier will be applied to that limit. -->
+<VCEF_maxFishPopulationMultiplierTooltip>Dans Odyssey, la population maximale de poissons dans une étendue d'eau est définie par biome. Ce multiplicateur sera appliqué à cette limite.</VCEF_maxFishPopulationMultiplierTooltip>
+
+<!-- EN: Fish amount (in fishing zone) multiplier -->
+<VCEF_fishAmountMultiplier>Multiplicateur de la quantité de poisson (dans la zone de pêche) </VCEF_fishAmountMultiplier>
+<!-- EN: Amount of fish that will be present on a fishing zone. This multiplier will be applied to that amount. -->
+<VCEF_fishAmountMultiplierTooltip>Quantité de poisson qui sera présente dans une zone de pêche. Ce multiplicateur sera appliqué à cette quantité.</VCEF_fishAmountMultiplierTooltip>
+
+<!-- EN: Fisher drops fish on the ground instead of hauling to stockpiles -->
+<VCEF_dropFish>Le pêcheur laisse tomber le poisson au sol au lieu de le transporter dans un stockage.</VCEF_dropFish>
+
+<!-- Miotech -->
+
+<!-- EN: This fishing zone is too polluted to fish -->
+<VCEF_TooPolluted>Cette zone de pêche est trop polluée pour y pêcher.</VCEF_TooPolluted>
+
+
+</LanguageData>

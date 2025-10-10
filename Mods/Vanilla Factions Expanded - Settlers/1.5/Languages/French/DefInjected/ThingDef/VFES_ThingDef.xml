@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Chemshine.label>chemshine</Chemshine.label>
+<Chemshine.description>Un alcool dangereux généralement consommé par les prospecteurs de rimworld et les colons industriels. Tandis qu'il enlève la tristesse et la douleur, le chemshine enivre le sang du buveur avec du chemfuel, résultant en une puissante explosion à la mort.</Chemshine.description>
+<Chemshine.ingestible.ingestCommandString>boire du {0}</Chemshine.ingestible.ingestCommandString>
+<Chemshine.ingestible.ingestReportString>boit du {0}.</Chemshine.ingestible.ingestReportString>
+
+<!-- +++++ Bandana +++++ -->
+<VFES_Headgear_Bandana.label>bandana</VFES_Headgear_Bandana.label>
+<VFES_Headgear_Bandana.description>Un long morceau de tissu chaud qui protège le bas du visage de l'exposition au vent. Rend difficile à reconnaitre la personne.</VFES_Headgear_Bandana.description>
+
+<!-- +++++ Sombrero +++++ -->
+<VFES_Headgear_Sombrero.label>sombrero</VFES_Headgear_Sombrero.label>
+<VFES_Headgear_Sombrero.description>Utilisé pour protéger le porteur du soleil. Requis pour tout type de pause.</VFES_Headgear_Sombrero.description>
+
+<!-- +++++ Flat Cap +++++ -->
+<VFES_Headgear_FlatCap.label>casquette plate</VFES_Headgear_FlatCap.label>
+<VFES_Headgear_FlatCap.description>Une casquette plate et pratique. Protége un peu du soleil. Porté par les colons lors de leurs occupations quotidiennes.</VFES_Headgear_FlatCap.description>
+
+<Apparel_Vest.label>gilet</Apparel_Vest.label>
+<Apparel_Vest.description>Un simple gilet, offrant une bonne couche d'isolation contre la chaleur et le froid. Il améliore grandement les interactions sociales.</Apparel_Vest.description>
+
+<Apparel_GreatDress.label>belle robe</Apparel_GreatDress.label>
+<Apparel_GreatDress.description>Une belle robe, le plus souvent portée par des dames et des suffragettes. Elle améliore grandement les interactions sociales.</Apparel_GreatDress.description>
+
+<ChemBoiler.label>chaudière à chemfuel</ChemBoiler.label>
+<ChemBoiler.description>Dispositif qui convertit le chemfuel en chaleur. Une simple machine ne permet pas de régler la température.</ChemBoiler.description>
+
+<Chemlamp.label>chemLampe</Chemlamp.label>
+<Chemlamp.description>Une lampe alimentée par du chemfuel. Peut être placée en toute sécurité à l'extérieur.</Chemlamp.description>
+
+<ChemlampPost.label>chemLampadaire</ChemlampPost.label>
+<ChemlampPost.description>Un lampadaire à chemfuel préindustrielle. Peut être placé en toute sécurité à l'extérieur.</ChemlampPost.description>
+
+<Plant_Chemroot.label>chemRacine</Plant_Chemroot.label>
+<Plant_Chemroot.description>Cette racine très volatile est cultivée pour son carburant chimique. Elle est difficile à récolter et ne pousse que dans un sol extrêmement fertile. Malgré le risque d'une explosion en chaîne, ces plantes sont souvent cultivées par des éleveurs désespérés et des sociétés agricoles impériales.</Plant_Chemroot.description>
+
+<Building_ChemshineBarrel.label>baril de chemshine</Building_ChemshineBarrel.label>
+<Building_ChemshineBarrel.description>Un baril pour la fermentation du chemshine.</Building_ChemshineBarrel.description>
+
+<DoorSaloon.label>porte de saloon</DoorSaloon.label>
+<DoorSaloon.description>Une porte de saloon pour les besoins de votre pays. Bien qu'elle n'offre pas une grande protection, elle s'ouvre presque instantanément.</DoorSaloon.description>
+
+<Post.label>poteau</Post.label>
+<Post.description>Un poteau de style ancien pour soutenir un toit.</Post.description>
+
+<!-- Double-Action Revolver -->
+<VFES_Gun_DoubleActionRevolver.label>revolver à double action</VFES_Gun_DoubleActionRevolver.label>
+<VFES_Gun_DoubleActionRevolver.description>Un ancien modèle de revolver à double action. Il n'est pas très précis, mais a une vitesse de tir raisonnable pour un pistolet et il est rapide à dégainer.</VFES_Gun_DoubleActionRevolver.description>
+<VFES_Gun_DoubleActionRevolver.tools.grip.label>poignée</VFES_Gun_DoubleActionRevolver.tools.grip.label>
+<VFES_Gun_DoubleActionRevolver.tools.barrel.label>canon</VFES_Gun_DoubleActionRevolver.tools.barrel.label>
+<VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>revolver à double action</VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>
+
+<!-- Double-Barreled Shotgun -->
+<VFES_Gun_DoubleBarreledShotgun.label>fusil à pompe à double canon</VFES_Gun_DoubleBarreledShotgun.label>
+<VFES_Gun_DoubleBarreledShotgun.description>Un ancien modèle de fusil à pompe avec deux canons chargés individuellement, qui projette des plombs bien compacts.</VFES_Gun_DoubleBarreledShotgun.description>
+<VFES_Gun_DoubleBarreledShotgun.tools.stock.label>crosse</VFES_Gun_DoubleBarreledShotgun.tools.stock.label>
+<VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>canon</VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>
+<VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>fusil à pompe à double canon</VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>
+
+<!-- Hunting Rifle -->
+<VFES_Gun_HuntingRifle.label>fusil de chasse</VFES_Gun_HuntingRifle.label>
+<VFES_Gun_HuntingRifle.description>Un ancien fusil à verrou avec une lunette de visée. Avec sa portée exceptionnelle et sa faible cadence de tir, il est peu probable que les animaux se vengent, ce qui en fait un excellent choix pour la chasse.</VFES_Gun_HuntingRifle.description>
+<VFES_Gun_HuntingRifle.tools.stock.label>crosse</VFES_Gun_HuntingRifle.tools.stock.label>
+<VFES_Gun_HuntingRifle.tools.barrel.label>canon</VFES_Gun_HuntingRifle.tools.barrel.label>
+<VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>fusil de chasse</VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>
+
+<!-- Dynamite -->
+<VFES_Weapon_GrenadeDynamite.label>dynamite</VFES_Weapon_GrenadeDynamite.label>
+<VFES_Weapon_GrenadeDynamite.description>Un bâton explosif de fortune de chemfuel. Il peut être lancé sur une courte distance et explosera après un certain temps.</VFES_Weapon_GrenadeDynamite.description>
+<VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>lancer la dynamite</VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>
+<VFES_Proj_Dynamite.label>dynamite</VFES_Proj_Dynamite.label>
+
+<!-- Tomahawk -->
+<VFES_Tomahawk.label>tomahawk</VFES_Tomahawk.label>
+<VFES_Tomahawk.description>Un tomahawk à une main ressemblant à une hache. Suffisamment léger pour être lancé avec précision à moyenne portée.</VFES_Tomahawk.description>
+<VFES_Tomahawk.tools.handle.label>manche</VFES_Tomahawk.tools.handle.label>
+<VFES_Tomahawk.tools.blade.label>lame</VFES_Tomahawk.tools.blade.label>
+<VFES_Tomahawk_Thrown.label>lancer un tomahawk</VFES_Tomahawk_Thrown.label>
+<VFES_Tomahawk.verbs.Verb_Shoot.label>tomahawk</VFES_Tomahawk.verbs.Verb_Shoot.label>
+
+<StoolBar.label>tabouret de bar</StoolBar.label>
+<StoolBar.description>Un simple tabouret de bar.</StoolBar.description>
+
+<TableCircular.label>table ronde</TableCircular.label>
+<TableCircular.description>Une table simple, ronde, sur laquelle on peut manger.</TableCircular.description>
+
+<TableFaro.label>table de faro</TableFaro.label>
+<TableFaro.description>Une table à reliure souple pour jouer au faro. Permet à deux colons de jouer à la fois.</TableFaro.description>
+
+<TableFiveFingerFilet.label>table jeu du couteau</TableFiveFingerFilet.label>
+<TableFiveFingerFilet.description>Une table en bois pour jouer au jeu du couteau. Cette activité entraîne des coupures aux doigts des joueurs, mais aussi un lent entraînement à la technique de mêlée.</TableFiveFingerFilet.description>
+
+<Mote_HoldingKnife.label>Mote</Mote_HoldingKnife.label>
+
+<Gun_GatlingGun.label>mitrailleuse Gatling</Gun_GatlingGun.label>
+<Gun_GatlingGun.description>Une simple arme automatique conçue pour être montée sur une tourelle.</Gun_GatlingGun.description>
+<Gun_GatlingGun.verbs.Verb_Shoot.label>Mitrailleuse Gatling</Gun_GatlingGun.verbs.Verb_Shoot.label>
+
+<Bullet_GatlingGun.label>balle gatling</Bullet_GatlingGun.label>
+
+<Turret_GatlingGun.label>tourelle mitrailleuse Gatling</Turret_GatlingGun.label>
+<Turret_GatlingGun.description>Une tourelle portable à l'ancienne. Besoin d'un colon pour pouvoir être utilisé. Nécessite de l'acier pour remettre à neuf son canon après un usage intensif. La vitesse de tir augmente au fur et à mesure que la tourelle tire. Peut exploser lorsqu'elle est endommagée.</Turret_GatlingGun.description>
+<Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>
+<Turret_GatlingGun.comps.CompRefuelable.fuelLabel>Nombre de tirs avant le changement du canon</Turret_GatlingGun.comps.CompRefuelable.fuelLabel>
+<Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>nécessite un nouveau canon</Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>
+
+<Windmill.label>moulin à vent</Windmill.label>
+<Windmill.description>Un générateur électrique éolien de fabrication ancienne. Nécessite un grand espace libre devant et derrière pour une circulation d'air optimale.</Windmill.description>
+
+
+</LanguageData>

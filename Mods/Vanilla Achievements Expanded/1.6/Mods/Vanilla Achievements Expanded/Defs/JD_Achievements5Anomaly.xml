@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- TaGoule -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Anomaly">
+		<defName>JD_TaGoule</defName>
+		<label>Tagoule</label>
+		<description>Lose a total of 20 ghouls.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.KillTracker">
+			<kindDef>Ghoul</kindDef>
+			<count>20</count>
+		</tracker>
+
+		<texPath>Achievements/JD_TaGoule</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Gouldorak -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Anomaly">
+		<defName>JD_Gouldorak</defName>
+		<label>Gouldorak</label>
+		<description>Have a ghoul plating and a metalblood heart on the same ghoul.</description>
+		<tab>VAE_DLCTab</tab>
+		
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>GhoulPlating</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>MetalbloodHeart</key>
+					<value>1</value>
+				</li>
+			</defs>
+			<onlyCountGhouls>True</onlyCountGhouls>
+		</tracker>
+
+		<texPath>Achievements/JD_Gouldorak</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Astérism -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Anomaly">
+		<defName>JD_Asterism</defName>
+		<label>Astérism!</label>
+		<description>Have all 3 obelisks on your map.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<thingList>
+				<li>
+					<key>WarpedObelisk_Abductor</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>WarpedObelisk_Duplicator</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>WarpedObelisk_Mutator</key>
+					<value>1</value>
+				</li>
+			</thingList>
+			<mustHaveAll>true</mustHaveAll>
+		</tracker>
+
+		<texPath>Achievements/JD_Asterism</texPath>
+		<points>50</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Legoulas Ne fonctionne pas
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Anomaly">
+		<defName>JD_Legoulas</defName>
+		<label>Legoulas</label>
+		<description>Avoir une goule avec 20 dans la compétence tir.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker>
+		<li Class="AchievementsExpanded.KindDefTracker">
+			<kindDefs>
+				<li>
+					<key>Ghoul</key>
+					<value>1</value>
+				</li>
+			</kindDefs>
+		</li>
+
+		<li Class="AchievementsExpanded.SkillTracker">
+			<def>Shooting</def>
+			<level>20</level>
+		</li>
+		</tracker>
+		
+		<texPath>Achievements/Sharpshooter</texPath>
+		<points>50</points>
+	</AchievementsExpanded.AchievementDef>-->
+
+
+</Defs>

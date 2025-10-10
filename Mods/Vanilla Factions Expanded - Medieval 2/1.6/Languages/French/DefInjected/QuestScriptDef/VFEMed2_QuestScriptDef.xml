@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has informed us about a siege camp belonging to [siteFaction_name], set up near your location. They seem to be gathering numbers and will imminently attack your colony at [map_definite].\nIf you choose to attack preemptively, you will only need to face:\n[ListOfEnemies]\n\nIf you wait, they are bound to increase their numbers and will eventually attack you with a much larger force:\n[ListOfPotentialEnemies]</li>
+  <li>questDescription(askerIsNull==true)->You have found out that there is a siege camp belonging to [siteFaction_name], set up near your location. They seem to be gathering numbers and will imminently attack your colony at [map_definite].\nIf you choose to attack preemptively, you will only need to face:\n[ListOfEnemies]\n\nIf you wait, they are bound to increase their numbers and will eventually attack you with a much larger force:\n[ListOfPotentialEnemies]</li>
+-->
+<VFEM2_OpportunitySite_SiegeCamp.questDescriptionRules.rulesStrings>
+  <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], vous a signalé l'existence d'un camp de siège appartenant à [siteFaction_name], installé à proximité de votre position. Il semble qu'ils soient en train de se regrouper et qu'ils vont bientôt attaquer votre colonie à [map_definite].\nSi vous choisissez d'attaquer de manière préventive, vous n'aurez qu'à faire face à :\n[ListOfEnemies]\n\nSi vous attendez, ils ne manqueront pas d'augmenter leur nombre et finiront par vous attaquer avec une force beaucoup plus importante :\n[ListOfPotentialEnemies]</li>
+  <li>questDescription(askerIsNull==true)->Vous avez découvert qu'un camp de siège appartenant à [siteFaction_name] est installé près de votre position. Il semble qu'ils soient en train de se regrouper et qu'ils attaqueront bientôt votre colonie à [map_definite].\nSi vous choisissez d'attaquer préventivement, vous n'aurez qu'à faire face à :\n[ListOfEnemies]\n\nSi vous attendez, ils augmenteront leurs effectifs et finiront par vous attaquer avec une force bien plus importante :\n[ListOfPotentialEnemies]</li>
+</VFEM2_OpportunitySite_SiegeCamp.questDescriptionRules.rulesStrings>
+<!-- EN:
+  <li>questName->[siteFaction_name]'s siege camp</li>
+-->
+<VFEM2_OpportunitySite_SiegeCamp.questNameRules.rulesStrings>
+  <li>questName->Le camp de siège de [siteFaction_name]</li>
+</VFEM2_OpportunitySite_SiegeCamp.questNameRules.rulesStrings>
+<!-- EN: Quest expired: [resolvedQuestName] -->
+<VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<!-- EN: The siege camp was not defeated in time. The quest [resolvedQuestName] has expired, and the enemy forces are now raiding your colony. -->
+<VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Le camp de siège n'a pas été vaincu à temps. La quête [resolvedQuestName] a expiré et les forces ennemies attaquent maintenant votre colonie.</VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<!-- EN: Camp defeated -->
+<VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.label.slateRef>Camp vaincu</VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.label.slateRef>
+<!-- EN: You have successfully defeated the siege camp and the enemy forces! -->
+<VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.text.slateRef>Vous avez réussi à vaincre le camp de siège et les forces ennemies !</VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.text.slateRef>
+
+
+<!-- EN:
+  <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has requested our help in a skirmish against [siteFaction_name].\n\nA small force from [askerFaction_name] is engaging a larger group of [siteFaction_pawnsPlural]. The friendlies will attack immediately upon arrival, but their chances of victory without our help are slim.\n\nThis is an opportunity to strengthen our bond with [askerFaction_name]. However, the enemy force is significant, and this battle will not be without risk.\n\n\nAllied forces include:\n[FriendlyUnitList]\n\n\nEnemies from [siteFaction_name]:\n[EnemyUnitList]</li>
+-->
+<VFEM2_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+  <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], sollicite votre aide dans une escarmouche contre [siteFaction_name].\n\nUne petite force de [askerFaction_name] a engagé un groupe plus important de [siteFaction_pawnsPlural]. Les alliés attaqueront dès leur arrivée, mais leurs chances de victoire sans vôtre aide sont minces.\n\nC'est l'occasion de renforcer votre lien avec [askerFaction_name]. Cependant, les forces ennemies sont importantes et cette bataille ne sera pas sans risque.\n\n\nLes forces alliées comprennent :\n[FriendlyUnitList]\n\n\nEnnemis de [siteFaction_name] :\n[EnemyUnitList]</li>
+</VFEM2_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+<!-- EN:
+  <li>questName->[askerFaction_name] requests aid</li>
+  <li>questName->[askerFaction_name]'s [skirmish]</li>
+  <li>questName->Aid [askerFaction_name] in battle</li>
+  <li>questName->[askerFaction_name] clashes with [enemy_faction_name]</li>
+  <li>questName->[askerFaction_name]'s fight</li>
+  <li>questName->Battle for [askerFaction_name]</li>
+  <li>questName->[askerFaction_name]'s call to arms</li>
+  <li>questName->Defend [askerFaction_name]</li>
+  <li>questName->Support [askerFaction_name]</li>
+  <li>questName->[askerFaction_name]'s Skirmish</li>
+  <li>skirmish->Skirmish</li>
+  <li>skirmish->Battle</li>
+  <li>skirmish->Clash</li>
+  <li>skirmish->Conflict</li>
+-->
+<VFEM2_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+  <li>questName->[askerFaction_name] demande de l'aide</li>
+  <li>questName->[skirmish] de [askerFaction_name]</li>
+  <li>questName->Aider [askerFaction_name] dans la bataille</li>
+  <li>questName->[askerFaction_name] se heurte à [enemy_faction_name]</li>
+  <li>questName->Le combat de [askerFaction_name]</li>
+  <li>questName->Bataille pour [askerFaction_name]</li>
+  <li>questName->L'appel aux armes de [askerFaction_name]</li>
+  <li>questName->Défendre [askerFaction_name]</li>
+  <li>questName->Soutenir [askerFaction_name]</li>
+  <li>questName->L'escarmouche de [askerFaction_name]</li>
+  <li>skirmish->Escarmouche</li>
+  <li>skirmish->Bataille</li>
+  <li>skirmish->Affrontement</li>
+  <li>skirmish->Conflit</li>
+</VFEM2_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+<!-- EN: Quest expired: [resolvedQuestName] -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<!-- EN: The allied faction was defeated in the skirmish. The quest [resolvedQuestName] has expired. -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>La faction alliée a été vaincue lors de l'escarmouche. La quête [resolvedQuestName] a expiré.</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<!-- EN: Quest failed: [resolvedQuestName] -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Quête échouée : [resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+<!-- EN: After leaving the site, the battle resolved itself without your help. The quest [resolvedQuestName] has ended. -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Après avoir quitté le site, la bataille s'est résolue d'elle-même sans votre aide. La quête [resolvedQuestName] est terminée.</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+<!-- EN: Payment arrived -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>Paiement arrivé</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>
+<!-- EN: You have defeated the enemy forces!\n\nThe payment from [asker_faction_name] has arrived. -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>Vous avez vaincu les forces ennemies !\n\nLe paiement de [asker_faction_name] est arrivé.</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>
+<!-- EN: [asker_faction_royalFavorLabel] -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+<!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+<VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Ces colons ont participé à la quête [resolvedQuestName]. Pour ce service, [asker_definite] vous demande qui doit recevoir les [royalFavorReward_amount] points de [asker_faction_royalFavorLabel].</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+
+</LanguageData>

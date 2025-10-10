@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: make eggnog -->
+<VCE_MakeEggnog.label>préparer du lait de poule</VCE_MakeEggnog.label>
+<!-- EN: Make a rich and creamy beverage crafted from eggs, perfect for festive occasions or a sweet treat. -->
+<VCE_MakeEggnog.description>Préparer une boisson riche et crémeuse à base d'œufs, parfaite pour les occasions festives ou pour une gâterie sucrée.</VCE_MakeEggnog.description>
+<!-- EN: eggs -->
+<VCE_MakeEggnog.ingredients.0.filter.customSummary>œufs</VCE_MakeEggnog.ingredients.0.filter.customSummary>
+<!-- EN: Making eggnog. -->
+<VCE_MakeEggnog.jobString>prépare le lait de poule.</VCE_MakeEggnog.jobString>
+
+<!-- EN: make hot cocoa -->
+<VCE_MakeHotCocoa.label>préparer du chocolat chaud</VCE_MakeHotCocoa.label>
+<!-- EN: Make a comforting and creamy beverage offering a rich chocolate flavor that warms both body and soul. -->
+<VCE_MakeHotCocoa.description>Préparer une boisson réconfortante et crémeuse au riche goût de chocolat qui réchauffe le corps et l'esprit.</VCE_MakeHotCocoa.description>
+<!-- EN: Making hot cocoa. -->
+<VCE_MakeHotCocoa.jobString>prépare le chocolat chaud</VCE_MakeHotCocoa.jobString>
+
+<!-- 20 décembre -->
+<!-- EN: make milk and cookies -->
+<VCE_MakeMilkAndCookies.label>préparer du lait et des cookies</VCE_MakeMilkAndCookies.label>
+<!-- EN: Make a sweet and tasty dessert bound to make anyone happy. -->
+<VCE_MakeMilkAndCookies.description>Préparer un dessert sucré et savoureux qui fera plaisir à tout le monde.</VCE_MakeMilkAndCookies.description>
+<!-- EN: Making milk and cookies -->
+<VCE_MakeMilkAndCookies.jobString>prépare le lait et les cookies.</VCE_MakeMilkAndCookies.jobString>
+
+<!-- 21 décembre -->
+<!-- EN: make a plushie toy -->
+<VCE_MakeToy_Cloth.label>fabriquer une peluche</VCE_MakeToy_Cloth.label>
+<!-- EN: Make a small toy out of cloth. -->
+<VCE_MakeToy_Cloth.description>Fabriquer un petit jouet en tissu.</VCE_MakeToy_Cloth.description>
+<!-- EN: Making toy out of cloth. -->
+<VCE_MakeToy_Cloth.jobString>fabrique la peluche.</VCE_MakeToy_Cloth.jobString>
+
+<!-- EN: make a metal toy -->
+<VCE_MakeToy_Metal.label>fabriquer un jouet métallique</VCE_MakeToy_Metal.label>
+<!-- EN: Make a small toy out of steel. -->
+<VCE_MakeToy_Metal.description>Fabriquer un petit jouet en acier.</VCE_MakeToy_Metal.description>
+<!-- EN: Making toy out of steel. -->
+<VCE_MakeToy_Metal.jobString>fabrique le jouet métallique.</VCE_MakeToy_Metal.jobString>
+
+<!-- EN: make a wooden toy -->
+<VCE_MakeToy_Wooden.label>fabriquer un jouet en bois</VCE_MakeToy_Wooden.label>
+<!-- EN: Make a small toy out of wood -->
+<VCE_MakeToy_Wooden.description>Fabriquer un petit jouet en bois.</VCE_MakeToy_Wooden.description>
+<!-- EN: Making toy out of wood. -->
+<VCE_MakeToy_Wooden.jobString>fabrique le jouet en bois.</VCE_MakeToy_Wooden.jobString>
+
+
+</LanguageData>

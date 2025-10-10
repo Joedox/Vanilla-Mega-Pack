@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: swan nest -->
+<VAERoy_SwanNest.label>nid de cygne</VAERoy_SwanNest.label>
+<!-- EN: A beautiful nest of a swan. -->
+<VAERoy_SwanNest.description>Un magnifique nid de cygne.</VAERoy_SwanNest.description>
+
+
+<!-- EN: crane egg (fert.) -->
+<VAERoy_EggCraneFertilized.label>œuf de grue (fécondé)</VAERoy_EggCraneFertilized.label>
+<!-- EN: A fertilized crane egg. If all goes well, it should hatch into a baby crane. It can be eaten raw, but it's much better cooked. -->
+<VAERoy_EggCraneFertilized.description>Un œuf de grue fécondé. Si tout va bien, il devrait éclore en un gruau. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggCraneFertilized.description>
+
+<!-- EN: crane egg (unfert.) -->
+<VAERoy_EggCraneUnfertilized.label>œuf de grue (non fécondé)</VAERoy_EggCraneUnfertilized.label>
+<!-- EN: An unfertilized crane egg. It can be eaten raw, but it's much, much better cooked. -->
+<VAERoy_EggCraneUnfertilized.description>Un œuf de grue non fécondé. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggCraneUnfertilized.description>
+
+<!-- EN: megachicken egg (fert.) -->
+<VAERoy_EggMegaChickenFertilized.label>œuf de méga-poule (fécondé)</VAERoy_EggMegaChickenFertilized.label>
+<!-- EN: A fertilized megachicken egg. If all goes well, it should hatch into a megachicken. It can be eaten raw, but it's much better cooked. -->
+<VAERoy_EggMegaChickenFertilized.description>Un œuf de méga-poule fécondé. Si tout va bien, il devrait éclore en un méga-poussin. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggMegaChickenFertilized.description>
+
+<!-- EN: megachicken egg (unfert.) -->
+<VAERoy_EggMegaChickenUnfertilized.label>œuf de méga-poule (non fécondé)</VAERoy_EggMegaChickenUnfertilized.label>
+<!-- EN: An unfertilized megachicken egg. It can be eaten raw, but it's much, much better cooked. -->
+<VAERoy_EggMegaChickenUnfertilized.description>Un œuf de méga-poule non fécondé. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggMegaChickenUnfertilized.description>
+
+<!-- EN: pheasant egg (fert.) -->
+<VAERoy_EggPheasantFertilized.label>œuf de faisan (fécondé)</VAERoy_EggPheasantFertilized.label>
+<!-- EN: A fertilized pheasant egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked. -->
+<VAERoy_EggPheasantFertilized.description>Un œuf de faisan fécondé. Si tout va bien, il devrait éclore en un faisandeau. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggPheasantFertilized.description>
+
+<!-- EN: pheasant egg (unfert.) -->
+<VAERoy_EggPheasantUnfertilized.label>œuf de faisan (non fécondé)</VAERoy_EggPheasantUnfertilized.label>
+<!-- EN: An unfertilized pheasant egg. It can be eaten raw, but it's much, much better cooked. -->
+<VAERoy_EggPheasantUnfertilized.description>Un œuf de faisan non fécondé. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggPheasantUnfertilized.description>
+
+
+<!-- EN: royal poultry -->
+<VAERoy_QuailMeat.label>volaille royale</VAERoy_QuailMeat.label>
+<!-- EN: Raw meat from a quail, extremely tasty. Instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations. -->
+<VAERoy_QuailMeat.description>Viande crue de caille, extrêmement savoureuse. Elle transforme instantanément n'importe quel plat simple ou raffiné en un plat gastronomique. Elle transforme également les grillades et les pâtisseries de Vanilla Cooking Expanded en leurs versions gastronomiques.</VAERoy_QuailMeat.description>
+
+
+<!-- EN: angora rabbit -->
+<VAERoy_AngoraRabbit.label>lapin angora</VAERoy_AngoraRabbit.label>
+<!-- EN: Small, domestic rabbit that has developed an ability to enhance the neural heat dissipation of anyone they bond with. Unfortunately, as a side effect, it the bonded master of the angora rabbit dies, the rabbit will also die of sadness and loss.\n\n<color=#E5E54C>Gameplay effect:</color> As long as an Angora Rabbit is bonded to a colonist, this colonist will receive a psychic connection that helps with neural heat dissipation. -->
+<VAERoy_AngoraRabbit.description>Petit lapin domestique qui a développé la capacité d'améliorer la dissipation d'échauffement neuronal de toute personne avec laquelle il est lié. Malheureusement, comme effet secondaire, si le maître du lapin angora meurt, le lapin mourra aussi de tristesse et de chagrin.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Tant qu'un lapin angora est lié à un colon, ce dernier reçoit une connexion psychique qui aide à la dissipation d'échauffement neuronal.</VAERoy_AngoraRabbit.description>
+<!-- EN: head -->
+<VAERoy_AngoraRabbit.tools.head.label>tête</VAERoy_AngoraRabbit.tools.head.label>
+
+
+<!-- EN: crane -->
+<VAERoy_Crane.label>grue</VAERoy_Crane.label>
+<!-- EN: A large, long legged bird species, cranes are a symbol of royalty and nobility and often populate royal gardens. It is believed that people of imperial rank will appreciate having plenty of cranes around them.\n\n<color=#E5E54C>Gameplay effect:</color> If you have at least 5 cranes under your control, any pawn with a nobility rank of any kind receives a +5 mood boost. -->
+<VAERoy_Crane.description>Espèce de grand oiseau à longues pattes, la grue est un symbole de la royauté et de la noblesse et peuple souvent les jardins royaux. On pense que les personnes de rang impérial apprécient d'avoir de nombreuses grues autour d'elles.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Si vous avez au moins 5 grues sous votre contrôle, tout colon ayant un rang de noblesse, quel qu'il soit, reçoit un bonus d'humeur de +5.</VAERoy_Crane.description>
+<!-- EN: claws -->
+<VAERoy_Crane.tools.claws.label>griffes</VAERoy_Crane.tools.claws.label>
+<!-- EN: beak -->
+<VAERoy_Crane.tools.beak.label>bec</VAERoy_Crane.tools.beak.label>
+<!-- EN: head -->
+<VAERoy_Crane.tools.head.label>tête</VAERoy_Crane.tools.head.label>
+
+
+<!-- EN: megachicken -->
+<VAERoy_Megachicken.label>méga-poulet</VAERoy_Megachicken.label>
+<!-- EN: The unusual royal farm bird, the megachicken is raised by spoiled royalty as a pet project. This bird simply never stops growing, and if taken care of, it can reach gargantuan sizes. Royalty is known to compare their megacocks, and usually the one with the biggest specimen wins. Those that lose often argue that it’s not about the size, it’s about what you do with it.\n\n<color=#E5E54C>Gameplay effect:</color> Megachicken have five growth stages, at 0, 3, 8, 12 and 18 years of age. Their abilities get increasingly powerful as they age. -->
+<VAERoy_Megachicken.description>Oiseau de ferme royal peu commun, le méga-poulet est élevé par une royauté gâtée comme un projet d'animal de compagnie. Cet oiseau ne cesse de grandir, si on en prend soin, il peut atteindre une taille gargantuesque. Les membres de la royauté sont connus pour comparer leurs méga-poulets, et généralement celui qui a le plus gros spécimen gagne. Ceux qui perdent affirment souvent que l'important n'est pas la taille, mais ce que l'on en fait.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Les méga-poulets ont cinq stades de croissance, 0, 3, 8, 12 et 18 ans. Leurs capacités deviennent de plus en plus puissantes à mesure qu'ils vieillissent.</VAERoy_Megachicken.description>
+<!-- EN: claws -->
+<VAERoy_Megachicken.tools.claws.label>griffes</VAERoy_Megachicken.tools.claws.label>
+<!-- EN: beak -->
+<VAERoy_Megachicken.tools.beak.label>bec</VAERoy_Megachicken.tools.beak.label>
+<!-- EN: head -->
+<VAERoy_Megachicken.tools.head.label>tête</VAERoy_Megachicken.tools.head.label>
+
+
+<!-- EN: orangutan -->
+<VAERoy_Orangutan.label>orang-outan</VAERoy_Orangutan.label>
+<!-- EN: A great ape invented and patented on Sophiamunda, orangutans are intelligent and can hold a normal conversation with humans. They are often used as home teachers in the Empire, educating young nobles in history, arts and correct etiquette.\n\n<color=#E5E54C>Gameplay effect:</color> When holding sophisticated conversations with humans, they boost their social recreation. Furthermore, each conversation with an orangutan gives a little bit of XP to a random skill. -->
+<VAERoy_Orangutan.description>Grand singe inventé et breveté sur Sophiamunda, l'orang-outan est intelligent et peut tenir une conversation normale avec les humains. Ils sont souvent utilisés comme professeurs à domicile dans l'Empire, éduquant les jeunes nobles en histoire, en arts et en savoir-vivre.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Lorsqu'ils tiennent des conversations sophistiquées avec des humains, ils augmentent leur récréation sociale. De plus, chaque conversation avec un orang-outan donne un peu d'XP à une compétence aléatoire.</VAERoy_Orangutan.description>
+<!-- EN: primate meat -->
+<VAERoy_Orangutan.race.meatLabel>viande de primate</VAERoy_Orangutan.race.meatLabel>
+<!-- EN: left fist -->
+<VAERoy_Orangutan.tools.left_fist.label>poing gauche</VAERoy_Orangutan.tools.left_fist.label>
+<!-- EN: right fist -->
+<VAERoy_Orangutan.tools.right_fist.label>poing droit</VAERoy_Orangutan.tools.right_fist.label>
+<!-- EN: head -->
+<VAERoy_Orangutan.tools.head.label>tête</VAERoy_Orangutan.tools.head.label>
+
+
+<!-- EN: pheasant -->
+<VAERoy_Pheasant.label>faisan</VAERoy_Pheasant.label>
+<!-- EN: Small, noble poultry that was genetically engineered to be an excellent small game animal. When pheasants run away from danger, they emit a psychic invisibility blast, making their allies hidden from sight.\n\n<color=#E5E54C>Gameplay effect:</color> Whenever a pheasant is in danger (it starts fleeing), it emits a psychic shockwave in radius of 6 cells around itself. It only does it once every 24 hours. This shockwave gives all pawns under player control in that radius Psychic Invisibility for a short period of time, making them untargetable by enemies. -->
+<VAERoy_Pheasant.description>Petite volaille noble qui a été génétiquement modifiée pour devenir un excellent petit gibier. Lorsque les faisans fuient un danger, ils émettent un souffle psychique d'invisibilité, rendant leurs alliés invisibles.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Lorsqu'un faisan est en danger (il commence à fuir), il émet une onde de choc psychique dans un rayon de 6 cases autour de lui. Il ne peut le faire qu'une fois toutes les 24 heures. Cette onde de choc donne à tous les colons du joueur dans ce rayon une Invisibilité psychique pendant une courte période, les rendant non ciblables par les ennemis.</VAERoy_Pheasant.description>
+<!-- EN: claws -->
+<VAERoy_Pheasant.tools.claws.label>griffes</VAERoy_Pheasant.tools.claws.label>
+<!-- EN: beak -->
+<VAERoy_Pheasant.tools.beak.label>bec</VAERoy_Pheasant.tools.beak.label>
+<!-- EN: head -->
+<VAERoy_Pheasant.tools.head.label>tête</VAERoy_Pheasant.tools.head.label>
+
+
+<!-- EN: royal tiger -->
+<VAERoy_RoyalTiger.label>tigre royal</VAERoy_RoyalTiger.label>
+<!-- EN: A large, genetically engineered sabretooth tiger that evolved in captivity. Nobility often buys them for their spoiled children, as in reality, royal tiger is not dangerous at all, and prefers fleeing at the first sight of danger. -->
+<VAERoy_RoyalTiger.description>Un grand tigre à dents de sabre génétiquement modifié qui a évolué en captivité. Les nobles les achètent souvent pour leurs enfants gâtés, car en réalité, le tigre royal n'est pas du tout dangereux, il préfère fuir à la première vue du danger.</VAERoy_RoyalTiger.description>
+<!-- EN: left claw -->
+<VAERoy_RoyalTiger.tools.left_claw.label>griffe gauche</VAERoy_RoyalTiger.tools.left_claw.label>
+<!-- EN: right claw -->
+<VAERoy_RoyalTiger.tools.right_claw.label>griffe droite</VAERoy_RoyalTiger.tools.right_claw.label>
+<!-- EN: head -->
+<VAERoy_RoyalTiger.tools.head.label>tête</VAERoy_RoyalTiger.tools.head.label>
+
+
+</LanguageData>

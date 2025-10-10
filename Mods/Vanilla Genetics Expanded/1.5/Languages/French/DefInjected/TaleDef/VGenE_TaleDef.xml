@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<GR_Transcended.label>a participé au réveil Archotech</GR_Transcended.label>
+<GR_Transcended.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] participe à l'éveil d'Archotech</li>
+    <li>image->[PAWN_nameFull] bascule sur l'IA archotech [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tremble de peur devant l'IA archotech [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] regarde avec inquiétude l'IA archotech [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] vérifie l'intégrité du projet archotech [circumstance_group]</li>
+    <li>circumstance_phrase->devant un [TerrainFeature]</li>
+    <li>circumstance_phrase->avec une incroyable intelligence</li>
+    <li>circumstance_phrase->dans une blouse de laboratoire</li>
+    <li>circumstance_phrase->avec l'électricité qui s'enroule de façon spectaculaire</li>
+    <li>circumstance_phrase->en riant comme un fou</li>
+    <li>desc_sentence->[PAWN_pronoun] se concentre intensément sur les commandes.</li>
+    <li>desc_sentence->[PAWN_pronoun] a les yeux plissés et semble confiant.</li>
+    <li>desc_sentence->[PAWN_pronoun] s'agite, ses yeux sont grands ouverts.</li>
+    <li>desc_sentence->[PAWN_pronoun] sourit avec une joie sinistre.</li>
+    <li>desc_sentence->[PAWN_pronoun] semble avoir le contrôle total de la situation (mais en réaaaaaaalité, pas du tout).</li>
+    <li>desc_sentence->Il y a une trace d'ozone dans l'air.</li>
+    <li>desc_sentence->Un [Animal] à proximité lève les yeux, effrayé.</li>
+    <li>desc_sentence->Un [Animal] fuit le laboratoire de peur.</li>
+    <li>desc_sentence->Il y a un [TerrainFeature] à l'arrière-plan.</li>
+    <li>desc_sentence->Un [PersonJob] observe silencieusement de loin, craignant pour son avenir.</li>
+</GR_Transcended.rulePack.rulesStrings>
+
+
+</LanguageData>

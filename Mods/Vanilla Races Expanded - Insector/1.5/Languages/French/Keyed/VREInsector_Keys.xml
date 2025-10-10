@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Manage genelines -->
+<VRE_ManageGenelines>Gérer les lignes génétiques</VRE_ManageGenelines>
+<!-- EN: Change the currently selected geneline or create new genelines. -->
+<VRE_ManageGenelinesDesc>Modifie la ligne génétique actuellement sélectionnée ou crée de nouvelles lignes génétiques.</VRE_ManageGenelinesDesc>
+<!-- EN: Edit geneline -->
+<VRE_EditGeneline>Éditer</VRE_EditGeneline>
+<!-- EN: Geneline {0} -->
+<VRE_GenelineName>Ligne génétique {0}</VRE_GenelineName>
+<!-- EN: Delete this geneline. Removing it will result in all insectors with this geneline immediately entering the metapod stage and turning into baseline insectors. -->
+<VRE_DeleteThisGeneline>Supprimer cette ligne génétique. En la supprimant, tous les insecteurs possédant cette ligne génétique entreront immédiatement dans le stade métacocon et se transformeront en insecteurs de base.</VRE_DeleteThisGeneline>
+<!-- EN: Create a new geneline -->
+<VRE_CreateGeneline>Nouvelle ligne génétique</VRE_CreateGeneline>
+<!-- EN: You can edit existing genelines or create a brand new geneline. Remember that changing a geneline will require your insectors to enter a metapod stage which will last 24 hours. -->
+<VRE_CreateGenelineExplanation>Vous pouvez modifier les lignes génétiques existantes ou en créer de nouvelles. N'oubliez pas que si vous modifiez une ligne génétique, vos insecteurs entreront dans une phase de métacocon qui durera 24 heures.</VRE_CreateGenelineExplanation>
+<!-- EN: Geneline name cannot be empty. -->
+<VRE_GenelineNameCannotBeEmpty>Le nom de la ligne génétique ne peut pas être vide.</VRE_GenelineNameCannotBeEmpty>
+<!-- EN: Cannot save geneline with multiple conflicting genes. -->
+<VRE_MessageConflictingGenesPresent>Impossible de sauvegarder une ligne génétique avec plusieurs gènes en conflit.</VRE_MessageConflictingGenesPresent>
+<!-- EN: Evolutions -->
+<VRE_Evolutions>Évolutions</VRE_Evolutions>
+<!-- EN: Evolutions -->
+<VRE_EvolutionsDesc>Les gènes d'évolutions pour cette ligne génétique.</VRE_EvolutionsDesc>
+<!-- EN: Degrades -->
+<VRE_Degrades>Dégradations</VRE_Degrades>
+<!-- EN: text.todo -->
+<VRE_DegradesDesc>Les gènes de dégradations pour cette ligne génétique.</VRE_DegradesDesc>
+<!-- EN: Save geneline -->
+<VRE_SaveGeneline>Sauvegarder</VRE_SaveGeneline>
+<!-- EN: Needs equal amount of evolutions and degrades. -->
+<VRE_NeedEqualAmount>Nécessite un nombre égal d'évolutions et de dégradations.</VRE_NeedEqualAmount>
+<!-- EN: Changing the genes of a geneline will cause all insectors that are a part of that geneline to enter the metapod stage. The metapod stage will last 24 hours, during which the insectors will be unavailable. -->
+<VRE_ChangingGenelineExplanation>La modification des gènes d'une ligne génétique entraîne l'entrée en phase de métacocon de tous les insecteurs qui font partie de cette ligne génétique. Le stade métacocon dure 24 heures, pendant lesquelles les insecteurs sont indisponibles.</VRE_ChangingGenelineExplanation>
+<!-- EN: Cannot save: {0} -->
+<VRE_CannotSave>Impossible de sauvegarder : {0}</VRE_CannotSave>
+<!-- EN: Change to: {0} -->
+<VRE_ChangeTo>Modifier par : {0}</VRE_ChangeTo>
+<!-- EN: You are about to remove a geneline that’s used by some of your colonists. Removing it will result in these insectors immediately entering the metapod stage and turning into baseline insectors.\nInsector colonists that will be affected:\n\n{0}\n-->
+<VRE_DeleteGenelineConfirmation>Vous êtes sur le point de supprimer une ligne génétique utilisée par certains de vos colons. En la supprimant, ces insecteurs passeront immédiatement au stade de métacocon et se transformeront en insecteurs de base.\nColons insecteurs concernés :\n\n{0}\n</VRE_DeleteGenelineConfirmation>
+<!-- EN: Genelines -->
+<VRE_Genelines>Lignes génétiques</VRE_Genelines>
+<!-- EN: text.todo -->
+<VRE_GenelinesDesc>text.todo</VRE_GenelinesDesc>
+<!-- EN: Time until {PAWN_nameDef} emerges: {1}\nInsert insect jelly into the metapod to speed up the process significantly. -->
+<VRE_MetapodTimer>Temps restant à l'émergence de {PAWN_nameDef} : {1}\nInsérer de la gelée d'insectes dans le métacocon pour accélérer considérablement le processus.</VRE_MetapodTimer>
+<!-- EN: Cannot change genelines due to metapod sickness. -->
+<VRE_MetapodSicknessCannotChangeGeneline>Impossible de modifier la ligne génétique en raison de la maladie métacocon.</VRE_MetapodSicknessCannotChangeGeneline>
+<!-- EN: Chestburst pregnancy -->
+<VRE_ChestburstPregnancyReady>Grossesse thoracique</VRE_ChestburstPregnancyReady>
+<!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+<VRE_ChestburstPregnancyReadyDesc>Lorsqu'un colon possédant le gène de grossesse thoracique tombe enceinte, il doit désigner un autre individu, consentant ou non, pour implanter le fœtus. Une fois que le fœtus a atteint sa maturité, il jaillit de la cage thoracique de la victime, tuant son hôte. S'il ne le fait pas avant le début du deuxième trimestre (6 jours), la grossesse sera interrompue.</VRE_ChestburstPregnancyReadyDesc>
+<!-- EN: Chestburst implantation needed -->
+<VRE_ChestburstImplantationNeeded>Implantation thoracique nécessaire</VRE_ChestburstImplantationNeeded>
+<!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to implant a fetus:\n\n{0} -->
+<VRE_ChestburstImplantationNeededDesc>Lorsqu'un colon possédant le gène de grossesse thoracique tombe enceinte, il doit désigner un autre individu, consentant ou non, pour implanter le fœtus. Une fois que le fœtus a atteint sa maturité, il jaillit de la cage thoracique de la victime, tuant son hôte. S'il ne le fait pas avant le début du deuxième trimestre (6 jours), la grossesse sera interrompue. Ces colons doivent implanter un fœtus :\n\n{0}</VRE_ChestburstImplantationNeededDesc>
+<!-- EN: Inject chestburst fetus -->
+<VRE_InjectChestburstFetus>Injecter le fœtus thoracique</VRE_InjectChestburstFetus>
+<!-- EN:  Inject the victim with the fetus, which will burst out of the victim’s chest when mature, killing the host. -->
+<VRE_InjectChestburstFetusDesc>Injecte à la victime le fœtus, qui sortira de la poitrine de la victime à maturité et tuera son hôte.</VRE_InjectChestburstFetusDesc>
+<!-- EN: Needs to be injected on a humanoid target or adult animal with body size higher than 1 -->
+<VRE_NeedsHumanoidOrAnimal>Doit être injecté sur une cible humanoïde ou un animal adulte dont la taille du corps est supérieure à 1.</VRE_NeedsHumanoidOrAnimal>
+<!-- EN: Can't be injected on ghouls -->
+<VRE_CantImplantOnGhoul>Ne peut être injecté aux goules.</VRE_CantImplantOnGhoul>
+<!-- EN: Can't be injected on shamblers -->
+<VRE_CantImplantOnShambler>Ne peut être injecté dans les zombies.</VRE_CantImplantOnShambler>
+<!-- EN: Chestburst birth -->
+<VRE_ChestburstBirthLabel>Naissance du thoracique</VRE_ChestburstBirthLabel>
+<!-- EN: A newborn, {0}, has hatched from a host, killing it in the process -->
+<VRE_ChestburstBirth>Un nouveau-né, {0}, a éclos de son hôte, le tuant au passage.</VRE_ChestburstBirth>
+<!-- EN: Chestburst birth! -->
+<VRE_ChestburstBirthHiddenLabel>Naissance du thoracique !</VRE_ChestburstBirthHiddenLabel>
+<!-- EN: {0} was unknowingly carrying a chestburst pregnancy! A newborn Insector, {1}, has hatched from the host, killing it in the process! -->
+<VRE_ChestburstBirthHidden>{0} était sans le savoir enceinte d'un thoracique ! Un nouveau-né insecteur, {1}, a éclos de son hôte, le tuant au passage !</VRE_ChestburstBirthHidden>
+<!-- EN: Self-impregnate -->
+<VRE_SelfImpregnate>Auto-imprégnation</VRE_SelfImpregnate>
+<!-- EN: Female individual self-impregnates, creating a fetus that’s a perfect copy of the parent. -->
+<VRE_SelfImpregnateDesc>Une femelle s'auto-imprègne, créant un fœtus qui est une copie parfaite du parent.</VRE_SelfImpregnateDesc>
+<!-- EN: Only available for females -->
+<VRE_PawnIsMale>Uniquement disponible pour les femelles</VRE_PawnIsMale>
+<!-- EN: Parthenogenesis can only be targeted on self -->
+<VRE_OnlyOnSelf>La parthénogenèse ne peut être ciblée que sur soi.</VRE_OnlyOnSelf>
+<!-- EN: Individual is already pregnant -->
+<VRE_AlreadyPregnant>La personne est déjà enceinte.</VRE_AlreadyPregnant>
+<!-- EN: {0} has self-impregnated! -->
+<VRE_GotPregnant>{0} s'est fécondée toute seule !</VRE_GotPregnant>
+<!-- EN: {0} is too young! -->
+<VRE_PawnIsTooYoung>{0} est trop jeune !</VRE_PawnIsTooYoung>
+<!-- EN: {0} is still suffering from implantation fatigue -->
+<VRE_TempSterile>{0} souffre encore de la fatigue d'implantation.</VRE_TempSterile>
+<!-- EN: Swarm synapse gene -->
+<VRE_SwarmSynapseOffset>Gène de synapse d'essaim</VRE_SwarmSynapseOffset>
+<!-- EN: Consume {0} to unlock a new mutation / evolution -->
+<VRE_IngestPherocore>Consommer un {0} pour débloquer une nouvelle mutation / évolution.</VRE_IngestPherocore>
+<!-- EN: Consuming {0} has unlocked the {1} {2} for all carriers of the geneline evolution gene -->
+<VRE_PherocoreConsumed>La consommation d'un {0} a débloqué la {2} {1} pour tous les porteurs du gène évolution ligne génétique.</VRE_PherocoreConsumed>
+<!-- EN: No more genes can be unlocked with the {0} -->
+<VRE_NoUnlockableGenes>Aucun autre gène ne peut être déverrouillé avec le {0}.</VRE_NoUnlockableGenes>
+
+
+</LanguageData>

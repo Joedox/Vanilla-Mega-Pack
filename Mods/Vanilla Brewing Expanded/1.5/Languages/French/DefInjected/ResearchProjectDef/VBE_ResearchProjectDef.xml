@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: liquor brewing -->
+<VBE_LiquorBrewing.label>brassage d'alcool</VBE_LiquorBrewing.label>
+<!-- EN: Utilize advanced brewing techniques that allow distillation and fermenting of harder spirits with unique effects. -->
+<VBE_LiquorBrewing.description>Vous permet d'utiliser des techniques de brassage avancées qui permettent la distillation et la fermentation d'alcools plus forts aux effets uniques.</VBE_LiquorBrewing.description>
+<!-- EN:
+  <li>subject->the symphony of flavors</li>
+  <li>subject_story->mastered the electric alchemy of mixology, blending science and art to stir the soul with every sip</li>
+  <li>subject_story->introduced an era of sophistication in drink, where the bar becomes a stage for the dance of flavors</li>
+  <li>subject_story->engineered machines for perfect fermenting and bottling, ensuring each concoction is a masterpiece</li>
+  <li>subject_story->pioneered the creation of cocktails that are not merely drinks, but experiences, evoking moments and memories</li>
+  <li>subject_gerund->crafting elixirs that captivate the senses, blending tradition with innovation at the bar workbench</li>
+-->
+<VBE_LiquorBrewing.generalRules.rulesStrings>
+  <li>subject->la symphonie des saveurs</li>
+  <li>subject_story->a maîtrisé l'alchimie électrique de la mixologie, mélangeant la science et l'art pour faire vibrer l'âme à chaque gorgée</li>
+  <li>subject_story->a introduit une ère de sophistication dans la boisson, où le bar devient une scène pour la danse des saveurs</li>
+  <li>subject_story->des machines conçues pour une fermentation et une mise en bouteille parfaites, garantissant que chaque concoction est un chef-d'œuvre</li>
+  <li>subject_story->a été le pionnier de la création de cocktails qui ne sont pas simplement des boissons, mais des expériences, évoquant des moments et des souvenirs</li>
+  <li>subject_gerund->créer des élixirs qui captivent les sens, en mêlant tradition et innovation au bar</li>
+</VBE_LiquorBrewing.generalRules.rulesStrings>
+
+<!-- EN: mixology -->
+<VBE_MixologyResearch.label>mixologie</VBE_MixologyResearch.label>
+<!-- EN: Allows construction of advanced machines that utilize electricity for perfect fermenting, industrial bottling, and the mixing of cocktails at the bar workbench. -->
+<VBE_MixologyResearch.description>Vous permet la construction de machines avancées qui utilisent l'électricité pour une fermentation parfaite, une mise en bouteille industrielle et le mélange de cocktails à l'établi du bar.</VBE_MixologyResearch.description>
+<!-- EN:
+  <li>subject->the alchemy of spirits</li>
+  <li>subject_story->harnessed the ancient secrets of distillation, refining the craft to produce spirits that warm the soul and embolden the heart</li>
+  <li>subject_story->elevated brewing from simple fermentation to an art form, creating liquors with unparalleled depth and character</li>
+  <li>subject_story->cultivated a legacy of craftsmanship, where each drop tells the story of its making</li>
+  <li>subject_gerund->distilling the essence of tradition into spirits of distinction</li>
+-->
+<VBE_MixologyResearch.generalRules.rulesStrings>
+  <li>subject->l'alchimie des spiritueux</li>
+  <li>subject_story->a maîtrisé les secrets anciens de la distillation, affinant l'art pour produire des spiritueux qui réchauffent l'âme et enhardissent le cœur</li>
+  <li>subject_story->a fait passer le brassage d'une simple fermentation à une forme d'art, créant des liqueurs d'une profondeur et d'un caractère inégalés</li>
+  <li>subject_story->a cultivé un héritage d'artisanat, où chaque goutte raconte l'histoire de sa fabrication</li>
+  <li>subject_gerund->distiller l'essence de la tradition dans des spiritueux de qualité</li>
+</VBE_MixologyResearch.generalRules.rulesStrings>
+
+
+</LanguageData>

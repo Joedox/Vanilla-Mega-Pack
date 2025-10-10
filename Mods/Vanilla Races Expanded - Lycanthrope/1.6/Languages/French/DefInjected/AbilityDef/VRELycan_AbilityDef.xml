@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: morph -->
+<VRE_Morph.label>métamorphose</VRE_Morph.label>
+<!-- EN: Morph into a different xenotype. -->
+<VRE_Morph.description>Se transforme en un xénotype différent.</VRE_Morph.description>
+
+<!-- EN: implant genes -->
+<VRE_ReimplantGermline.label>implanter germinaux</VRE_ReimplantGermline.label>
+<!-- EN: Implant this person's germline into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their germline and die in the process.\n\nWhen implanted, a germline will overwrite the target's germline. Xenogenes will be unaffected. -->
+<VRE_ReimplantGermline.description>Implanter les gènes germinaux de cette personne dans un sujet consentant en utilisant un organe d'injection spécial. Si les gènes de cette personne sont en phase de régénération, elle implantera ses gènes germinaux et mourra dans le processus.\n\nUne fois implantée, les gènes germinaux écraseront ceux de la cible. Les xénogènes ne seront pas affectés.</VRE_ReimplantGermline.description>
+
+<!-- EN: war howl -->
+<VRE_WarHowl.label>hurleguerre</VRE_WarHowl.label>
+<!-- EN: Emit a loud war howl that increases stacking combat capabilities of allies nearby. -->
+<VRE_WarHowl.description>Un puissant hurlement de guerre qui augmente les capacités de combat des alliés à proximité.</VRE_WarHowl.description>
+
+
+</LanguageData>

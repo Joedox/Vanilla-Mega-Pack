@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: animal sarcophagus -->
+<VFE_AnimalSarcophagus.label>sarcophage animal</VFE_AnimalSarcophagus.label>
+<!-- EN: An ornamented burial receptacle for the honored dead animals. -->
+<VFE_AnimalSarcophagus.description>Un réceptacle funéraire orné pour honorer les animaux morts.</VFE_AnimalSarcophagus.description>
+
+
+<!-- EN: simple bed -->
+<Bed_Simple.label>lit simple</Bed_Simple.label>
+<!-- EN: A somewhat comfy net and pillow rested on a sturdy frame. Due to the simple construction, quality is not a factor in this bed. -->
+<Bed_Simple.description>Un treillis et un oreiller quelque peu confortables reposent sur un cadre solide. En raison de la simplicité de la construction, la qualité n'est pas un facteur déterminant pour ce lit.</Bed_Simple.description>
+
+<!-- EN: chiseled bed -->
+<Bed_StoneSlab.label>lit stèle</Bed_StoneSlab.label>
+<!-- EN: A simple yet beautiful stone slab used for sleeping. It offers minimal comfort but is durable and fireproof. -->
+<Bed_StoneSlab.description>Une simple mais belle dalle de pierre utilisée pour dormir. Elle offre un confort minimal, mais elle est durable et résistante au feu.</Bed_StoneSlab.description>
+
+<!-- EN: simple double bed -->
+<VFE_Bed_SimpleDouble.label>lit simple double</VFE_Bed_SimpleDouble.label>
+<!-- EN: A somewhat comfy net and pillow rested on a sturdy frame that fits two people. Due to the simple construction, quality is not a factor in this bed. -->
+<VFE_Bed_SimpleDouble.description>Un treillis et un oreiller quelque peu confortables reposent sur un cadre solide qui convient à deux personnes. En raison de la simplicité de la construction, la qualité n'est pas un facteur déterminant pour ce lit.</VFE_Bed_SimpleDouble.description>
+
+<!-- EN: chiseled double bed -->
+<VFE_Bed_StoneSlabDouble.label>lit stèle double</VFE_Bed_StoneSlabDouble.label>
+<!-- EN: A simple yet beautiful stone slab used for sleeping that fits two people. It offers minimal comfort but is durable and fireproof. -->
+<VFE_Bed_StoneSlabDouble.description>Une simple mais belle dalle de pierre utilisée pour dormir et pouvant accueillir deux personnes. Elle offre un confort minimal, mais elle est durable et résistante au feu.</VFE_Bed_StoneSlabDouble.description>
+
+
+<!-- EN: bench -->
+<Seat_Bench.label>banc</Seat_Bench.label>
+<!-- EN: A simple long platform on which multiple people may sit at the same time, not very comfortable but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+<Seat_Bench.description>Une longue plate-forme simple sur laquelle plusieurs personnes peuvent s'asseoir en même temps, pas très confortable mais mieux que rien. Peut être utilisé avec des tables, des postes de travail et même ailleurs.</Seat_Bench.description>
+
+<!-- EN: sitting cushion -->
+<Seat_Cushion.label>coussin d'assise</Seat_Cushion.label>
+<!-- EN: A soft cushion designed for sitting. More comfortable than a stool but still a simple seating option. -->
+<Seat_Cushion.description>Coussin souple conçu pour s'asseoir. Plus confortable qu'un tabouret, il n'en reste pas moins une simple possibilité de s'asseoir.</Seat_Cushion.description>
+
+<!-- EN: school chair -->
+<Seat_SquareChair.label>chaise d'école</Seat_SquareChair.label>
+<!-- EN: An uncomfortable school chair. Can be used at tables, work stations, and elsewhere. Improves the learning rate when adjacent to the school desk. -->
+<Seat_SquareChair.description>Une chaise d'école inconfortable. Peut être utilisé avec des tables, des postes de travail et même ailleurs. Améliore le taux d'apprentissage lorsqu'elle est adjacente au bureau de l'école.</Seat_SquareChair.description>
+
+
+<!-- EN: table (1x1) -->
+<Table_1x1c.label>table (1x1)</Table_1x1c.label>
+<!-- EN: People eat off tables when chairs are placed facing them. -->
+<Table_1x1c.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_1x1c.description>
+
+<!-- EN: counter -->
+<Table_Counter.label>comptoir de cuisine</Table_Counter.label>
+<!-- EN: People eat off counters when chairs are placed facing them -->
+<Table_Counter.description>Une surface lisse, à hauteur de la taille, sur laquelle on peut manger, que l'on trouve couramment dans les cuisines et les bars.</Table_Counter.description>
+
+<!-- EN: coffee table -->
+<VFE_CoffeeTable.label>table basse</VFE_CoffeeTable.label>
+<!-- EN: A small table which makes nearby armchairs and couches a little bit more comfortable. Must be placed directly adjacent to the couch or an armchair. Placing more than one coffee table near the same couch has no effect. -->
+<VFE_CoffeeTable.description>Une petite table qui rend les fauteuils et les canapés voisins un peu plus confortables. Elle doit être placée directement à côté du canapé ou d'un fauteuil. Placer plus d'une table basse près du même canapé n'a aucun effet.</VFE_CoffeeTable.description>
+
+
+<!-- EN: firepit -->
+<Stone_Campfire.label>feu de camp</Stone_Campfire.label>
+<!-- EN: Cooks meals and produces heat, but burns wood in the process. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+<Stone_Campfire.description>Une source de chaleur temporaire utilisable pour la cuisine, qui brûle pendant quelques jours et plus longtemps qu’un feu de camp standard. Comme toutes les sources de chaleur, il doit être placé en intérieur pour réchauffer un lieu clos. Peut-être réalimenté en bois.</Stone_Campfire.description>
+
+
+<!-- EN: dark firepit -->
+<Stone_DarklightCampfire.label>feu de camp tamisé</Stone_DarklightCampfire.label>
+<!-- EN: A specially-treated firepit that produces a dim light over a large area. People who prefer darklight work best with this light source. Cooks meals and produces heat, but burns wood in the process. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+<Stone_DarklightCampfire.description>Permet de cuire les repas, produit moins de chaleur mais plus de lumière, s'éteint plus lentement qu'un feu de camp classique. Les personnes qui préfèrent la lumière tamisée travaillent mieux avec cette source de lumière. Comme toutes les sources de chaleur, il doit être placé en intérieur pour réchauffer un lieu clos. Peut-être réalimenté en bois.</Stone_DarklightCampfire.description>
+
+
+<!-- EN: arcade machine -->
+<Joy_Arcade.label>borne d'arcade</Joy_Arcade.label>
+<!-- EN: A bulky, coin-operated arcade cabinet with an aging CRT screen and colorful buttons. Though outdated, it still provides hours of digital entertainment. Classic games never truly die. -->
+<Joy_Arcade.description>Une borne d'arcade encombrante, fonctionnant avec des pièces de monnaie, dotée d'un écran CRT vieillissant et de boutons colorés. Bien que dépassée, elle offre encore des heures de divertissement numérique. Les jeux classiques ne meurent jamais vraiment.</Joy_Arcade.description>
+
+<!-- EN: darts board -->
+<Joy_DartsBoard.label>jeu de fléchettes</Joy_DartsBoard.label>
+<!-- EN: A simple dartboard mounted on a stand. A fun way to practice accuracy and hand-eye coordination. It trains shooting ability. -->
+<Joy_DartsBoard.description>Une simple cible de fléchettes montée sur un support. Un moyen amusant de s'entraîner à la précision et à la coordination œil-main. Elle entraîne la compétence de tir.</Joy_DartsBoard.description>
+
+<!-- EN: old computer -->
+<Joy_InudstrialComputer.label>ordinateur ancien</Joy_InudstrialComputer.label>
+<!-- EN: A bulky, outdated computer standing on a small desk. The screen flickers, the keys stick, and it hums with age, but it still runs simple programs. There's always some archaic software waiting to be used. -->
+<Joy_InudstrialComputer.description>Un ordinateur encombrant et obsolète posé sur un petit bureau. L'écran scintille, les touches collent et il ronronne avec l'âge, mais il exécute encore des programmes simples. Il y a toujours un logiciel archaïque qui attend d'être utilisé.</Joy_InudstrialComputer.description>
+
+<!-- EN: modern computer -->
+<Joy_ModernComputer.label>ordinateur moderne</Joy_ModernComputer.label>
+<!-- EN: A sleek, high-performance computing station housed on a sturdy desk. Equipped with a fast processor, an ergonomic keyboard, and a crisp, flat-panel display, it offers a vast range of software: whether for research, entertainment, or light interstellar networking. -->
+<Joy_ModernComputer.description>Une station informatique élégante et performante, logée sur un bureau solide. Équipée d'un processeur rapide, d'un clavier ergonomique et d'un écran plat, elle offre une vaste gamme de logiciels, que ce soit pour la recherche, le divertissement ou les petits réseaux interstellaires.</Joy_ModernComputer.description>
+
+<!-- EN: upright piano -->
+<Joy_Piano.label>piano droit</Joy_Piano.label>
+<!-- EN: A compact upright piano designed for musical recreation. A great way to develop artistic skills and entertain others. -->
+<Joy_Piano.description>Un grand piano sur lequel on peut s'exercer, c'est très agréable et c'est un excellent moyen de développer des talents artistiques.</Joy_Piano.description>
+
+<!-- EN: punching bag -->
+<Joy_PunchingBag.label>sac de boxe</Joy_PunchingBag.label>
+<!-- EN: A sturdy, stand-mounted punching bag for combat training and stress relief. It trains melee combat ability. -->
+<Joy_PunchingBag.description>Un sac de frappe rempli de tissu sur lequel vous pouvez vous défouler. Peut être assez relaxant et aide à entraîner l'aptitude au combat de mêlée.</Joy_PunchingBag.description>
+
+<!-- EN: roulette table -->
+<Joy_RouletteTable.label>table de roulette</Joy_RouletteTable.label>
+<!-- EN: A sophisticated gambling table designed for playing roulette. A thrilling mix of chance and strategy, making it a centerpiece of any high-end casino or social space. -->
+<Joy_RouletteTable.description>Une table de jeu sophistiquée conçue pour jouer à la roulette. Un mélange passionnant de hasard et de stratégie, qui en fait la pièce maîtresse de tout casino ou espace social haut de gamme.</Joy_RouletteTable.description>
+
+<!-- EN: industrial radio -->
+<Radio_Industrial.label>poste radio TSF</Radio_Industrial.label>
+<!-- EN: An industrial-era radio for playing music and spoken broadcasts. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. Provides passive music recreation to those that can hear it. -->
+<Radio_Industrial.description>Une radio TSF (Télégraphie Sans Fil) de l'ère industrielle pour diffuser de la musique et des émissions audio. Même sur Rimworld, il y a souvent un vieil émetteur qui diffuse quelque chose d'au moins un peu intéressant. Permet à ceux qui peuvent l'entendre de se divertir passivement en écoutant de la musique.</Radio_Industrial.description>
+
+<!-- EN: longwave radio -->
+<Radio_Spacer.label>poste radio</Radio_Spacer.label>
+<!-- EN: A state-of-the-art, high-fidelity radio that uses advanced longwave transmission to deliver crystal-clear music, broadcasts, and interstellar transmissions. Even on the rimworlds, someone out there is always transmitting something - whether it’s news, music, or distant voices from the void.. -->
+<Radio_Spacer.description>Une radio haute fidélité à la pointe de la technologie qui utilise une transmission par ondes longues avancée pour diffuser de la musique, des émissions et des transmissions interstellaires d'une clarté cristalline. Même sur Rimworld, il y a toujours quelqu'un qui transmet quelque chose, qu'il s'agisse d'informations, de musique ou de voix lointaines venant du néant.</Radio_Spacer.description>
+
+<!-- EN: lounger -->
+<VFE_Lounger.label>transat</VFE_Lounger.label>
+<!-- EN: A reclining cushioned lounger designed for relaxation. Offers superior comfort but is not ideal for deep, restful sleep. Allows for sunbathing recreation. -->
+<VFE_Lounger.description>Une chaise longue inclinable et rembourrée conçue pour la relaxation. Elle offre un confort supérieur mais n'est pas idéale pour un sommeil profond et réparateur. Permet de prendre des bains de soleil.</VFE_Lounger.description>
+
+
+<!-- EN: large bin -->
+<Bin_Large.label>poubelle conteneur</Bin_Large.label>
+<!-- EN: A spacious waste disposal unit that efficiently keeps the surrounding area clean. Slowly removes trash and filth in a 15-cell radius. -->
+<Bin_Large.description>Une grande poubelle pour aider à garder la zone autour d'elle propre. Enlève lentement les saletés et les déchets dans un rayon de 15 cases.</Bin_Large.description>
+
+<!-- EN: small bin -->
+<Bin_Small.label>poubelle</Bin_Small.label>
+<!-- EN: A small bin to help keep the surrounding area somewhat clean. Slowly removes trash and filth in a 10-cell radius. -->
+<Bin_Small.description>Une petite poubelle pour aider à garder la zone autour d'elle un peu plus propre. Enlève lentement les saletés et les déchets dans un rayon de 10 cases.</Bin_Small.description>
+
+<!-- EN: filing cabinet -->
+<Misc_FileCabinet.label>armoire à dossiers</Misc_FileCabinet.label>
+<!-- EN: Increases research speed when placed near a research bench. One research bench can use up to two filing cabinets. -->
+<Misc_FileCabinet.description>Augmente la vitesse de recherche lorsqu'il est placé près d'un poste de recherche. Un banc de recherche peut utiliser jusqu'à deux armoires à dossiers.</Misc_FileCabinet.description>
+
+<!-- EN: weapon rack -->
+<Shelf_WeaponRack.label>support d'armes</Shelf_WeaponRack.label>
+<!-- EN: A shelf for storing weapons. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+<Shelf_WeaponRack.description>Une étagère pour ranger les armes. Les objets qui y sont rangés n'affecteront pas la beauté de la pièce et ne se détérioreront pas, même s'ils sont à l'extérieur.</Shelf_WeaponRack.description>
+
+<!-- EN: desk lamp -->
+<VFE_DeskLamp.label>lampe de bureau</VFE_DeskLamp.label>
+<!-- EN: An electrical desk lamp that lights a small area. People need light to move and work at full speed. -->
+<VFE_DeskLamp.description>Une lampe de bureau électrique qui éclaire une petite surface. Les personnes ont besoin de lumière pour se déplacer et travailler à pleine vitesse.</VFE_DeskLamp.description>
+
+<!-- EN: floor lamp -->
+<VFE_FloorLamp.label>lampe de sol</VFE_FloorLamp.label>
+<!-- EN: A low-profile light source embedded into the floor. While not as bright as a standing lamp, it provides subtle, even lighting without obstructing movement. Does not short circuit in rain. -->
+<VFE_FloorLamp.description>Une source lumineuse discrète encastrée dans le sol. Bien qu'elle ne soit pas aussi lumineuse qu'une lampe sur pied, elle fournit un éclairage subtil et uniforme sans gêner les mouvements. Ne court-circuite pas en cas de pluie.</VFE_FloorLamp.description>
+
+<!-- EN: long plant pot -->
+<VFE_LongPlantPot.label>pot de fleurs long</VFE_LongPlantPot.label>
+<!-- EN: Plant decorative flowers here to improve the mood of people nearby. Designed to be combined with other plant pots to form various shapes. -->
+<VFE_LongPlantPot.description>Plantez-y des fleurs décoratives pour améliorer l'humeur des personnes aux alentours. Conçus pour être combinés avec d'autres pots de plantes pour former des formes variées.</VFE_LongPlantPot.description>
+
+
+<!-- EN: ergonomic double bed -->
+<Bed_DoubleErgonomic.label>lit ergonomique double</Bed_DoubleErgonomic.label>
+<!-- EN: A modern, adjustable bed designed for maximum comfort and proper spinal support. Fits two people. -->
+<Bed_DoubleErgonomic.description>Un lit moderne et réglable, conçu pour un confort maximal et un bon soutien de la colonne vertébrale. Convient à deux personnes.</Bed_DoubleErgonomic.description>
+
+<!-- EN: ergonomic bed -->
+<Bed_Ergonomic.label>lit ergonomique</Bed_Ergonomic.label>
+<!-- EN: A modern, adjustable bed designed for maximum comfort and proper spinal support. -->
+<Bed_Ergonomic.description>Un lit moderne et réglable, conçu pour un confort maximal et un bon soutien de la colonne vertébrale.</Bed_Ergonomic.description>
+
+<!-- EN: ergonomic chair -->
+<Seat_ModernChair.label>chaise ergonomique</Seat_ModernChair.label>
+<!-- EN: A modern, well-designed chair with excellent back support and padding, providing high comfort. -->
+<Seat_ModernChair.description>UUne chaise moderne, bien conçue, avec un excellent soutien du dos et un rembourrage, offrant un grand confort.</Seat_ModernChair.description>
+
+<!-- EN: wardrobe -->
+<Table_Wardrobe.label>garde-robe</Table_Wardrobe.label>
+<!-- EN: A tall wardrobe for storing clothing and other items. Gives a small comfort bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect. -->
+<Table_Wardrobe.description>Une grande garde-robe pour ranger les vêtements et autres objets. Elle donne un petit bonus de confort à tous les lits proches. Placer plus d'une garde-robe près du même lit n'a aucun effet.</Table_Wardrobe.description>
+
+
+<!-- EN: modular couch -->
+<VFE_ModularCouch.label>canapé modulaire</VFE_ModularCouch.label>
+<!-- EN: A compact, cushioned seat designed to be combined with others to create larger couches or corner seating arrangements. Ideal for large rec rooms, lounges, or social areas. -->
+<VFE_ModularCouch.description>Un siège compact et rembourré conçu pour être combiné avec d'autres pour créer des canapés plus grands ou des sièges d'angle. Idéal pour les grandes salles de jeux, les salons ou les espaces sociaux.</VFE_ModularCouch.description>
+<!-- EN: Down-left (Inner) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.0.name>Bas-gauche (intérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.0.name>
+<!-- EN: Down-left (Outer) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.1.name>Bas-gauche (extérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.1.name>
+<!-- EN: Down-left (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.2.name>Bas-gauche (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.2.name>
+<!-- EN: Down-middle (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.3.name>Bas-milieu (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.3.name>
+<!-- EN: Down-right (Inner) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.4.name>Bas-droite (intérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.4.name>
+<!-- EN: Down-right (Outer) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.5.name>Bas-droite (extérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.5.name>
+<!-- EN: Down-right (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.6.name>Bas-droite (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.6.name>
+<!-- EN: Left-down (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.7.name>Gauche-bas (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.7.name>
+<!-- EN: Left-middle (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.8.name>Gauche-milieu (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.8.name>
+<!-- EN: Left-up (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.9.name>Gauche-haut (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.9.name>
+<!-- EN: Omnidirectional -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.10.name>Omnidirectionnel</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.10.name>
+<!-- EN: Right-down (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.11.name>Droite-bas (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.11.name>
+<!-- EN: Right-middle (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.12.name>Droite-milieu (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.12.name>
+<!-- EN: Right-up (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.13.name>Droite-haute (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.13.name>
+<!-- EN: Up-left (Inner) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.14.name>Haut-gauche (intérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.14.name>
+<!-- EN: Up-left (Outer) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.15.name>Haut-gauche (extérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.15.name>
+<!-- EN: Up-left (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.16.name>Haut-gauche (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.16.name>
+<!-- EN: Up-middle (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.17.name>Haut-milieu (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.17.name>
+<!-- EN: Up-right (Inner) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.18.name>Haut-droite (intérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.18.name>
+<!-- EN: Up-right (Outer) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.19.name>Haut-droite (extérieur)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.19.name>
+<!-- EN: Up-right (Straight) -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.20.name>Haut-droite (droit)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.20.name>
+<!-- EN: Set the visuals for the couch to create a seamless seating arrangement. -->
+<VFE_ModularCouch.comps.CompCustomizableGraphic.gizmoDescription>Définit les éléments visuels du canapé pour créer un ensemble homogène de sièges.</VFE_ModularCouch.comps.CompCustomizableGraphic.gizmoDescription>
+
+
+<!-- EN: outdoor lamp -->
+<Light_Streetlamp.label>lampe extérieure</Light_Streetlamp.label>
+<!-- EN: A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+<Light_Streetlamp.description>Une grande lampe électrique qui éclaire une zone, pouvant être placée à l'extérieur sans prendre feu, ce qui la rend idéale pour l'éclairage des routes et elle ne s'allume que la nuit.</Light_Streetlamp.description>
+<!-- EN: Off due to sufficient sunlight. -->
+<Light_Streetlamp.comps.CompScheduleExtended.offMessage>Éteinte dû à un ensoleillement suffisant.</Light_Streetlamp.comps.CompScheduleExtended.offMessage>
+
+
+<!-- EN: royal poster bed -->
+<Bed_Kingsize.label>lit à baldaquin royal</Bed_Kingsize.label>
+<!-- EN: An extravagant four-poster bed fit for nobility, adorned with intricate carvings. Extremely comfy and luxurious, its imposing frame and detailed craftsmanship make it a work of art. Fits two. -->
+<Bed_Kingsize.description>Un lit à baldaquin extravagant, digne de la noblesse, orné de sculptures complexes. Extrêmement confortable et luxueux, son cadre imposant et sa fabrication détaillée en font une œuvre d'art. Pour deux personnes.</Bed_Kingsize.description>
+
+<!-- EN: royal dresser -->
+<Table_RoyalDresser.label>commode royale</Table_RoyalDresser.label>
+<!-- EN: A luxurious dresser, adorned with solid gold and elegant in design, making nearby beds more comfortable.Placing more than one end table near the same bed has no effect. -->
+<Table_RoyalDresser.description>Une commode luxueuse, ornée d'or massif et de conception élégante, rendant les lits à proximité plus confortables. Placer plus d'une commode royale près du même lit n'a aucun effet.</Table_RoyalDresser.description>
+
+<!-- EN: royal end table -->
+<Table_RoyalEndTable.label>table de nuit royale</Table_RoyalEndTable.label>
+<!-- EN: A finely crafted bedside table adorned with gold inlays and exquisite detailing. Enhances the comfort of nearby beds, providing a touch of nobility to any sleeping quarters. Must be placed directly adjacent to the head of the bed. Placing more than one near the same bed has no effect. -->
+<Table_RoyalEndTable.description>Une table de nuit finement travaillée, ornée d'incrustations d'or et de détails exquis. Elle rehausse le confort des lits voisins et confère une touche de noblesse à toute chambre à coucher. Doit être placée directement à côté de la tête du lit. En placer plusieurs près du même lit n'a aucun effet.</Table_RoyalEndTable.description>
+
+<!-- EN: royal standing lamp -->
+<VFE_RoyalLamp.label>lampe sur pied royale</VFE_RoyalLamp.label>
+<!-- EN: A beautifully crafted standing lamp adorned with gold trim and elegant design. -->
+<VFE_RoyalLamp.description>Une lampe sur pied de belle facture, ornée d'une bordure dorée et d'un design élégant.</VFE_RoyalLamp.description>
+
+<!-- EN: royal wardrobe -->
+<VFE_RoyalWardrobe.label>garde-robe royale</VFE_RoyalWardrobe.label>
+<!-- EN: A grand, gold-trimmed wardrobe designed for nobility. Gives a small comfort bonus to all nearby beds. Placing more than one royal wardrobe near the same bed has no effect. -->
+<VFE_RoyalWardrobe.description>Une grande armoire dorée conçue pour la noblesse. Elle donne un petit bonus de confort à tous les lits proches. Placer plus d'une garde-robe royale près du même lit n'a aucun effet.</VFE_RoyalWardrobe.description>
+
+
+<!-- EN: royal armchair -->
+<Seat_RoyalArmchair.label>fauteuil royal</Seat_RoyalArmchair.label>
+<!-- EN: A grand, exquisitely crafted armchair with deep cushions, fine upholstery, and ornate detailing. Can be used at tables, work stations, and elsewhere. -->
+<Seat_RoyalArmchair.description>Un grand siège doux et luxueux. Monté dans un cadre doré réservé aux élites les plus riches. Peut être utilisé avec des tables, des postes de travail et même ailleurs.</Seat_RoyalArmchair.description>
+
+<!-- EN: royal chair -->
+<Seat_RoyalChair.label>chaise royale</Seat_RoyalChair.label>
+<!-- EN: A luxurious, high-backed dining chair adorned with fine upholstery and intricate craftsmanship. Can be used at tables, work stations, and elsewhere. -->
+<Seat_RoyalChair.description>Un siège confortable et rembourré à l’intérieur d’un cadre doré. Peut être utilisé avec des tables, des postes de travail et même ailleurs.</Seat_RoyalChair.description>
+
+
+<!-- EN: royal table (1x1) -->
+<Table_Royal1x1c.label>table royale (1x1)</Table_Royal1x1c.label>
+<!-- EN: A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them. -->
+<Table_Royal1x1c.description>Une table impressionnante pour manger, avec un rebord extérieur doré et des extrémités arrondies, pour les personnes fortunées. Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_Royal1x1c.description>
+
+<!-- EN: royal table (1x2) -->
+<Table_Royal1x2c.label>table royale (1x2)</Table_Royal1x2c.label>
+<!-- EN: A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them. -->
+<Table_Royal1x2c.description>Une table impressionnante pour manger, avec un rebord extérieur doré et des extrémités arrondies, pour les personnes fortunées. Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_Royal1x2c.description>
+
+<!-- EN: royal table (2x2) -->
+<Table_Royal2x2c.label>table royale (2x2)</Table_Royal2x2c.label>
+<!-- EN: A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them. -->
+<Table_Royal2x2c.description>Une table impressionnante pour manger, avec un rebord extérieur doré et des extrémités arrondies, pour les personnes fortunées. Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_Royal2x2c.description>
+
+<!-- EN: royal table (2x4) -->
+<Table_Royal2x4c.label>table royale (2x4)</Table_Royal2x4c.label>
+<!-- EN: A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them. -->
+<Table_Royal2x4c.description>Une table impressionnante pour manger, avec un rebord extérieur doré et des extrémités arrondies, pour les personnes fortunées. Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_Royal2x4c.description>
+
+<!-- EN: royal table (3x3) -->
+<Table_Royal3x3c.label>table royale (3x3)</Table_Royal3x3c.label>
+<!-- EN: A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them. -->
+<Table_Royal3x3c.description>Une table impressionnante pour manger, avec un rebord extérieur doré et des extrémités arrondies, pour les personnes fortunées. Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_Royal3x3c.description>
+
+
+<!-- EN: Mote -->
+<Mote_FlyingDart.label>Mote</Mote_FlyingDart.label>
+
+<!-- EN: Mote -->
+<Mote_HoldingChips.label>Mote</Mote_HoldingChips.label>
+
+<!-- EN: Mote -->
+<Mote_HoldingGloves.label>Mote</Mote_HoldingGloves.label>
+
+<!-- EN: Mote -->
+<Mote_MusicalNoteA.label>Mote</Mote_MusicalNoteA.label>
+
+
+</LanguageData>

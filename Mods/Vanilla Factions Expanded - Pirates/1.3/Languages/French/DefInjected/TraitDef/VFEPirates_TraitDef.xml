@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEP_WarcasketTrait.degreeDatas.warcasket.label>sarcophage</VFEP_WarcasketTrait.degreeDatas.warcasket.label>
+<VFEP_WarcasketTrait.degreeDatas.warcasket.description>{PAWN_nameDef} est enterré dans un sarcophage. Aucune douleur n'aura d'effet sur [PAWN_objective], et [PAWN_pronoun] ne pourra jamais subir un choc à la douleur ou perdre connaissance à cause de la douleur. À cause de l'encombrement de l'armure et de la quantité d'énergie nécessaire pour l'utiliser, {PAWN_nameDef} n'est plus en mesure d'effectuer le moindre travail.</VFEP_WarcasketTrait.degreeDatas.warcasket.description>
+
+<VFEP_Shellcasket.degreeDatas.shellcasket.label>hors du sarcophage</VFEP_Shellcasket.degreeDatas.shellcasket.label>
+<VFEP_Shellcasket.degreeDatas.shellcasket.description>{PAWN_nameDef} a été enterré dans un sarcophage, puis brutalement retiré de celui-ci. Les lésions neurales et nerveuses causées par le débranchement sont si graves que {PAWN_nameDef} souffre constamment de douleurs atroces et peut à peine rassembler ses pensées. Seule la réinstallation de {PAWN_nameDef} dans un sarcophage peut guérir les symptômes.</VFEP_Shellcasket.degreeDatas.shellcasket.description>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEV_DrunkChitchat.label>conversations alcoolisés</VFEV_DrunkChitchat.label>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] et [RECIPIENT_nameDef] ont [talkedabout] [TalkTopicLight].</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.0>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] à [talkedabout] [TalkTopicLight] avec [RECIPIENT_nameDef].</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.1>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] à [RECIPIENT_nameDef].</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.2>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->parlé de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.3>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.4>talkedabout->partagé un mot sur</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.4>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.5>talkedabout->parlé de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.5>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.6>talkedabout->bavardé à propos de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.6>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.7>talkedabout->parlé de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.7>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.8>talkedabout->plaisanté à propos de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.8>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.9>talkedabout->plaisanté à propos de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.9>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.10>commentedabout->a dit quelque chose à propos de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.10>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.11>commentedabout->a dit un mot</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.11>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.12>commentedabout->a fait un commentaire sur</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.12>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.13>commentedabout->a commenté</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.13>
+<VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.14>commentedabout->a raconté une blague à propos de</VFEV_DrunkChitchat.logRulesInitiator.rulesStrings.14>
+
+<VFEV_VeryDrunkChitchat.label>conversations très alcoolisés</VFEV_VeryDrunkChitchat.label>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] et [RECIPIENT_nameDef] ont [talkedabout] [TalkTopicLight].</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.0>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] à [talkedabout] [TalkTopicLight] avec [RECIPIENT_nameDef].</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.1>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] à [RECIPIENT_nameDef].</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.2>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->parlé de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.3>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.4>talkedabout->partagé un mot sur</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.4>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.5>talkedabout->parlé de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.5>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.6>talkedabout->bavardé à propos de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.6>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.7>talkedabout->parlé de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.7>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.8>talkedabout->plaisanté à propos de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.8>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.9>talkedabout->plaisanté à propos de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.9>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.10>commentedabout->a dit quelque chose à propos de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.10>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.11>commentedabout->a dit un mot</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.11>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.12>commentedabout->a fait un commentaire sur</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.12>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.13>commentedabout->a commenté</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.13>
+<VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.14>commentedabout->a raconté une blague à propos de</VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings.14>
+
+
+</LanguageData>

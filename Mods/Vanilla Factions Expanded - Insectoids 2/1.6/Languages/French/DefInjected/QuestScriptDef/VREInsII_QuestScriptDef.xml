@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A new insectoid hive has emerged in a nearby area. If not destroyed, it will soon form a new colony, spreading infestation in the region. The hive is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the hive, which means eliminating all insectoids and nests. [asker_label] says that [sitePart0_description].</li>
+-->
+<VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
+  <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nous a envoyé un message. Une nouvelle ruche insectoïde est apparue dans une zone voisine. Si elle n'est pas détruite, elle formera bientôt une nouvelle colonie, propageant l'infestation dans la région. La ruche est contrôlée par [siteFaction_name].\n\n[asker_nameDef] nous demande de détruire la ruche, c'est-à-dire d'éliminer tous les insectoïdes et les nids. [asker_label] dit que [sitePart0_description].</li>
+</VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
+<!-- EN:
+  <li>questName->The [insectoid] [hive]</li>
+  <li>questName->[insectoid] [hive]</li>
+  <li>questName->[asker_nameDef] and the [hive]</li>
+  <li>hive->Hive</li>
+  <li>hive->Nest</li>
+  <li>hive->Colony</li>
+  <li>hive->Swarm</li>
+  <li>insectoid->Insectoid</li>
+  <li>insectoid->Creeping</li>
+  <li>insectoid->Chitinous</li>
+  <li>insectoid->Feral</li>
+  <li>insectoid->Voracious</li>
+-->
+<VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings>
+  <li>questName->[hive]</li>
+  <li>questName->[asker_nameDef] et [hiveAsker]</li>
+  <li>hive->[La] ruche  [insectoidF]</li>
+  <li>hive->[Le] nid [insectoidM]</li>
+  <li>hive->[La] colonie [insectoidF]</li>
+  <li>hive->[Le] essaim [insectoidM]</li>
+    <li>Le->Le</li>
+    <li>Le-></li>
+    <li>La->La</li>
+    <li>La-></li>
+  <li>hiveAsker->la ruche</li>
+  <li>hiveAsker->le nid</li>
+  <li>hiveAsker->la colonie</li>
+  <li>hiveAsker->l'essaim</li>
+  <li>insectoidM->insectoïde</li>
+  <li>insectoidF->insectoïde</li>
+  <li>insectoidM->rampant</li>
+  <li>insectoidF->rampante</li>
+  <li>insectoidM->chitineux</li>
+  <li>insectoidF->chitineuse</li>
+  <li>insectoidM->sauvage</li>
+  <li>insectoidF->sauvage</li>
+  <li>insectoidM->vorace</li>
+  <li>insectoidF->vorace</li>
+</VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings>
+<!-- EN: Quest expired: [resolvedQuestName] -->
+<VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<!-- EN: The insectoid hive has established a new colony. The quest [resolvedQuestName] has expired. -->
+<VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>La ruche insectoïde a établi une nouvelle colonie. La quête [resolvedQuestName] a expiré.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<!-- EN: Payment arrived -->
+<VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterLabel.slateRef>Paiement arrivé</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterLabel.slateRef>
+<!-- EN: You have destroyed the insectoid hive!\n\nThe payment from [asker_faction_name] has arrived. -->
+<VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterText.slateRef>Vous avez détruit la ruche insectoïde !\n\nLe paiement de [asker_faction_name] est arrivé.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterText.slateRef>
+<!-- EN: [asker_faction_royalFavorLabel] -->
+<VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+<!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+<VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Ces colons ont participé à la quête [resolvedQuestName]. Pour ce service, [asker_definite] vous demande qui doit recevoir les [royalFavorReward_amount] points de [asker_faction_royalFavorLabel].</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+<!-- EN: <rulesStrings><li>root->there are (*Threat)[count] insectoid hives(/Threat)</li></rulesStrings> -->
+<VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+  <rulesStrings>
+    <li>root->il y a (*Threat)[count] ruches insectoïdes(/Threat)</li>
+  </rulesStrings>
+</VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+
+
+</LanguageData>

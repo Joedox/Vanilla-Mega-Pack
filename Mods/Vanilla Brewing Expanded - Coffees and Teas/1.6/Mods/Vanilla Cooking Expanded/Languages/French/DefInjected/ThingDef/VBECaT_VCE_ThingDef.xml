@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: dalgona coffee -->
+<VBE_DalgonaCoffee.label>café dalgona</VBE_DalgonaCoffee.label>
+<!-- EN: A trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking. Arguably the perfect drink to sip on while studying or reading. -->
+<VBE_DalgonaCoffee.description>Une nouvelle boisson à la mode dans le monde du café qui proviendrait de mondes lointains. Des grains de café sont rapidement mélangés à du sucre pour former une mousse épaisse et délicieusement sucrée. Ensuite, la mousse est dispersée sur du lait soigneusement refroidi avant d'être consommée. C'est sans doute la boisson parfaite à siroter en étudiant ou en lisant.</VBE_DalgonaCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_DalgonaCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_DalgonaCoffee.ingestible.ingestReportString>Boit le {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+
+<!-- EN: green tea -->
+<VBE_GreenTea.label>thé vert</VBE_GreenTea.label>
+<!-- EN: A light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor. -->
+<VBE_GreenTea.description>Un thé vert léger, aux agrumes, agrémenté de sucre pour créer un goût de beurre, presque de noix.</VBE_GreenTea.description>
+<!-- EN: Drink {0} -->
+<VBE_GreenTea.ingestible.ingestCommandString>Boire un {0}</VBE_GreenTea.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_GreenTea.ingestible.ingestReportString>Boit le {0}.</VBE_GreenTea.ingestible.ingestReportString>
+
+<!-- EN: masala chai -->
+<VBE_MasalaChai.label>Masala Chaï</VBE_MasalaChai.label>
+<!-- EN: A musty, warm, almost woody tea crafted by simple leaves and complex spices. Masala chai acts as a home remedy against wound infections, reducing the severity of a random infection by 5%. -->
+<VBE_MasalaChai.description>Un thé aux épices, chaud et presque boisé, composé de feuilles simples et d'épices complexes. Présumé être bon contre un taux de cholestérol élevé.</VBE_MasalaChai.description>
+<!-- EN: Drink {0} -->
+<VBE_MasalaChai.ingestible.ingestCommandString>Boire un {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_MasalaChai.ingestible.ingestReportString>Boit le {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+
+<!-- EN: mint coffee -->
+<VBE_MintCoffee.label>café à la menthe</VBE_MintCoffee.label>
+<!-- EN: Bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath. -->
+<VBE_MintCoffee.description>Un expresso amer mélangé à de la crème ou du lait, puis mélangé à de la menthe et garni. Le café frais et velouté laisse place à un arrière-goût encore plus frais et apaisant, sans parler de l'haleine qui sent bon.</VBE_MintCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_MintCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_MintCoffee.ingestible.ingestReportString>Boit le {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+
+<!-- EN: mint tea -->
+<VBE_MintTea.label>thé à la menthe</VBE_MintTea.label>
+<!-- EN: Black tea leaves mixed with mint leaves and deeply steeped, then garnished with additional mint leaves. Leaves your breath surprisingly fresh. -->
+<VBE_MintTea.description>Des feuilles de thé noir mélangées à des feuilles de menthe et longuement infusées, puis garnies de feuilles de menthe supplémentaires. Votre haleine sera d'une fraîcheur surprenante.</VBE_MintTea.description>
+<!-- EN: Drink {0} -->
+<VBE_MintTea.ingestible.ingestCommandString>Boire un {0}</VBE_MintTea.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_MintTea.ingestible.ingestReportString>Boit le {0}.</VBE_MintTea.ingestible.ingestReportString>
+
+<!-- EN: noon chai -->
+<VBE_NoonChai.label>Chaï de midi</VBE_NoonChai.label>
+<!-- EN: An ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Used for treating muscle parasites. -->
+<VBE_NoonChai.description>Un ancien thé du Cachemire mélangeant des feuilles de thé, une pincée de sel et du bicarbonate de soude, ce qui donne une boisson d'un rose éclatant, réputée pour être non seulement délicieuse mais aussi saine pour l'organisme. Très efficace pour traiter les personnes souffrant d'hypertension artérielle.</VBE_NoonChai.description>
+<!-- EN: Drink {0} -->
+<VBE_NoonChai.ingestible.ingestCommandString>Boire un {0}</VBE_NoonChai.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_NoonChai.ingestible.ingestReportString>Boit le {0}.</VBE_NoonChai.ingestible.ingestReportString>
+
+<!-- EN: mint leaves -->
+<VBE_MintLeaves.label>feuilles de menthe</VBE_MintLeaves.label>
+<!-- EN: Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Mint leaves rot quite fast. -->
+<VBE_MintLeaves.description>Les feuilles de menthe sont célèbres pour leur effet rafraîchissant dans la bouche, ainsi que pour leur facilité à l’infuser dans une multitude de thés ou à garnir finement un plat. Les feuilles de menthe se dégradent rapidement.</VBE_MintLeaves.description>
+
+
+<!-- EN: mint plant -->
+<VBE_MintPlant.label>menthe</VBE_MintPlant.label>
+<!-- EN: A plant sprouting into an array of mint leaves. Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Flourishes indoors and in plant pots, while being pleasant to look at. -->
+<VBE_MintPlant.description>Une plante qui donne naissance à un ensemble de feuilles de menthe. Les feuilles de menthe sont célèbres pour leur effet rafraîchissant dans la bouche, ainsi que pour leur facilité à l’infuser dans une multitude de thés ou à garnir finement un plat. Elle fleurit à l'intérieur et dans les pots de fleurs, tout en étant agréable à regarder.</VBE_MintPlant.description>
+
+
+</LanguageData>

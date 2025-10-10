@@ -1,0 +1,862 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: mead -->
+<VFEM2_Mead.label>hydromel</VFEM2_Mead.label>
+<!-- EN: A drink akin to wine, made of fermented honey and water, aged in a simple barrel. This sweet, crisp drink is known be nursed over time and has a reputation of being particularly comforting. Consuming mead lowers psychic sensitivity. -->
+<VFEM2_Mead.description>Boisson proche du vin, composée de miel fermenté et d'eau, vieillie dans un simple tonneau. Cette boisson douce et pétillante est connue pour être bue au fil du temps et a la réputation d'être particulièrement réconfortante. La consommation d'hydromel diminue la sensibilité psychique.</VFEM2_Mead.description>
+<!-- EN: Drink {0} -->
+<VFEM2_Mead.ingestible.ingestCommandString>Boire de l'{0}</VFEM2_Mead.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VFEM2_Mead.ingestible.ingestReportString>Boit de l'{0}.</VFEM2_Mead.ingestible.ingestReportString>
+
+
+<!-- EN: wine -->
+<VFEM2_Wine.label>vin</VFEM2_Wine.label>
+<!-- EN: A large bottle of a strong alcoholic beverage that is made from fermented grapes. Excessive consumption can lead to alcohol blackouts and, over time, addiction. Consuming wine increases psychic sensitivity. -->
+<VFEM2_Wine.description>Grande bouteille d'une boisson alcoolisée forte fabriquée à partir de raisins fermentés. Une consommation excessive peut entraîner des évanouissements dus à l'alcool et, avec le temps, une dépendance. La consommation de vin augmente la sensibilité psychique.</VFEM2_Wine.description>
+<!-- EN: Drink {0} -->
+<VFEM2_Wine.ingestible.ingestCommandString>Boire du {0}</VFEM2_Wine.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VFEM2_Wine.ingestible.ingestReportString>Boit du {0}.</VFEM2_Wine.ingestible.ingestReportString>
+
+
+<!-- EN: cap -->
+<VFEM2_Apparel_Cap.label>béret d'archer</VFEM2_Apparel_Cap.label>
+<!-- EN: A sleek, feathered cap worn by skilled archers and woodland hunters. Its lightweight design keeps vision clear and focus sharp, making it easier to land precise shots. -->
+<VFEM2_Apparel_Cap.description>Une coiffe à plumes élégante portée par les archers chevronnés et les chasseurs en forêt. Sa conception légère permet de conserver une vision claire et une mise au point précise, ce qui facilite les tirs de précision.</VFEM2_Apparel_Cap.description>
+
+<!-- EN: chaperon -->
+<VFEM2_Apparel_Chaperon.label>chaperon</VFEM2_Apparel_Chaperon.label>
+<!-- EN: A stylish and versatile hood with a wrapped tail, favored by diplomats and merchants. It lends an air of authority, subtly improving negotiation skills. -->
+<VFEM2_Apparel_Chaperon.description>Une coiffure élégante et polyvalente avec une queue enveloppée, appréciée par les diplomates et les marchands. Elle confère un air d'autorité et améliore subtilement les compétences en matière de négociation.</VFEM2_Apparel_Chaperon.description>
+
+<!-- EN: dame hat -->
+<VFEM2_Apparel_DameHat.label>hennin</VFEM2_Apparel_DameHat.label>
+<!-- EN: A beautiful long cone hat for a dame. -->
+<VFEM2_Apparel_DameHat.description>Un beau chapeau à long cône pour une dame.</VFEM2_Apparel_DameHat.description>
+
+<!-- EN: heavy leather helmet -->
+<VFEM2_Apparel_HeavyLeatherHelmet.label>casque en cuir lourd</VFEM2_Apparel_HeavyLeatherHelmet.label>
+<!-- EN: A strong medieval helmet that provides full-head coverage. While it offers fantastic protection, one's vision is greatly obscured, thus it is only recommended for front line infantry, particularly those foregoing shields. -->
+<VFEM2_Apparel_HeavyLeatherHelmet.description>Un casque médiéval solide qui couvre toute la tête. Bien qu'il offre une protection fantastique, la vision est fortement obstruée. Il n'est donc recommandé que pour l'infanterie de première ligne, en particulier pour ceux qui renoncent aux boucliers.</VFEM2_Apparel_HeavyLeatherHelmet.description>
+
+<!-- EN: jester hat -->
+<VFEM2_Apparel_JesterHat.label>chapeau de bouffon</VFEM2_Apparel_JesterHat.label>
+<!-- EN: A hat worthy of a jester. Each half is different from the other one in color. -->
+<VFEM2_Apparel_JesterHat.description>Un chapeau digne d'un bouffon. Chaque moitié est différente de l'autre par sa couleur.</VFEM2_Apparel_JesterHat.description>
+
+<!-- EN: king's crown -->
+<VFEM2_Apparel_KingsCrown.label>couronne du roi</VFEM2_Apparel_KingsCrown.label>
+<!-- EN: A beautiful metal crown. The wearer becomes very influential, but at the same time they will refuse to do any work. -->
+<VFEM2_Apparel_KingsCrown.description>Une belle couronne en métal. Le porteur devient très influent, mais en même temps il refuse de travailler.</VFEM2_Apparel_KingsCrown.description>
+
+<!-- EN: leather helmet -->
+<VFEM2_Apparel_LeatherHelmet.label>casque en cuir</VFEM2_Apparel_LeatherHelmet.label>
+<!-- EN: A simple leather helmet designed to not block ones communication during combat. Often worn by front line, shield-wielding infantry to soak damage. -->
+<VFEM2_Apparel_LeatherHelmet.description>Un simple casque en cuir conçu pour ne pas bloquer la communication pendant le combat. Il est souvent porté par les fantassins en première ligne, munis de boucliers, afin d'absorber les dégâts.</VFEM2_Apparel_LeatherHelmet.description>
+
+<!-- EN: padded helmet -->
+<VFEM2_Apparel_PaddedHelmet.label>casque rembourré</VFEM2_Apparel_PaddedHelmet.label>
+<!-- EN: A simple leather helmet designed to not block one's communication during combat. Often worn by front line, shield-wielding infantry to soak damage. -->
+<VFEM2_Apparel_PaddedHelmet.description>Un simple casque en cuir conçu pour ne pas bloquer la communication pendant le combat. Il est souvent porté par l'infanterie de première ligne munie de boucliers afin d'absorber les dégâts.</VFEM2_Apparel_PaddedHelmet.description>
+
+<!-- EN: plague mask -->
+<VFEM2_Apparel_PlagueMask.label>masque de peste</VFEM2_Apparel_PlagueMask.label>
+<!-- EN: A mask with a long ‘beak’ filled with herbal medicine that keeps infected pawns at a distance. -->
+<VFEM2_Apparel_PlagueMask.description>Un masque avec un long "bec" rempli de plantes médicinales qui maintient les personnes infectées à distance.</VFEM2_Apparel_PlagueMask.description>
+
+<!-- EN: heavy plate helmet -->
+<VFEM2_Apparel_PlateHelmetHeavy.label>casque de plates lourd</VFEM2_Apparel_PlateHelmetHeavy.label>
+<!-- EN: A bulky medieval helmet that provides full-head coverage. Offers a considerable amount of protection but restricts the wearer's field of vision. -->
+<VFEM2_Apparel_PlateHelmetHeavy.description>Casque médiéval volumineux qui couvre toute la tête. Il offre une protection considérable mais restreint le champ de vision de son porteur.</VFEM2_Apparel_PlateHelmetHeavy.description>
+
+
+<!-- EN: torch belt -->
+<VFEM2_Apparel_TorchBelt.label>ceinture de torche</VFEM2_Apparel_TorchBelt.label>
+<!-- EN: A belt with a number of wooden torches strapped to it. They can be lit up and thrown to set things ablaze. Can be refueled with wood. -->
+<VFEM2_Apparel_TorchBelt.description>Une ceinture à laquelle sont attachées plusieurs torches en bois. Elles peuvent être allumées et lancées pour enflammer des objets. Doit être ravitaillée en bois.</VFEM2_Apparel_TorchBelt.description>
+<!-- EN: torch -->
+<VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.chargeNoun>torche</VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.chargeNoun>
+<!-- EN: on cooldown -->
+<VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.cooldownGerund>
+<!-- EN: throw torch -->
+<VFEM2_Apparel_TorchBelt.verbs.throw_torch.label>jeter une torche</VFEM2_Apparel_TorchBelt.verbs.throw_torch.label>
+
+<!-- EN: thrown torch -->
+<VFEM2_Proj_GrenadeTorch.label>torche enflammée</VFEM2_Proj_GrenadeTorch.label>
+
+
+<!-- EN: dame dress -->
+<VFEM2_Apparel_DameDress.label>robe de dame</VFEM2_Apparel_DameDress.label>
+<!-- EN: A beautiful full body dress for a dame. Wearing such clothes will inevitably lead to getting used to luxury, so the user will not be capable of dumb labor. -->
+<VFEM2_Apparel_DameDress.description>Une belle robe complète pour une dame. Porter de tels vêtements conduira inévitablement à s'habituer au luxe, de sorte que l'utilisateur ne sera pas capable d'effectuer des travaux ménagers.</VFEM2_Apparel_DameDress.description>
+
+<!-- EN: heavy leather armor -->
+<VFEM2_Apparel_HeavyLeatherArmor.label>armure en cuir lourde</VFEM2_Apparel_HeavyLeatherArmor.label>
+<!-- EN: A heavy leather breastplate meant to provide warmth and protection to heavy infantry during battles in frigid tundras. Unfortunately, this armor leaves one slowed and more vulnerable to melee attacks. -->
+<VFEM2_Apparel_HeavyLeatherArmor.description>Un lourd plastron de cuir destiné à fournir chaleur et protection à l'infanterie lourde lors des batailles dans les toundras glaciales. Malheureusement, cette armure ralentit son porteur et le rend plus vulnérable aux attaques de mêlée.</VFEM2_Apparel_HeavyLeatherArmor.description>
+
+<!-- EN: jester outfit -->
+<VFEM2_Apparel_JesterOutfit.label>tenue de bouffon</VFEM2_Apparel_JesterOutfit.label>
+<!-- EN: A colorful jester outfit. It predisposes to conversation, but it's impossible to learn anything in such a suit. -->
+<VFEM2_Apparel_JesterOutfit.description>Un costume de bouffon coloré. Il prédispose à la conversation, mais il est impossible d'apprendre quoi que ce soit dans un tel costume.</VFEM2_Apparel_JesterOutfit.description>
+
+<!-- EN: king’s robes -->
+<VFEM2_Apparel_KingsRobes.label>robe du roi</VFEM2_Apparel_KingsRobes.label>
+<!-- EN: A long robe with golden chestplate, worthy of a king. Extremely beautiful. -->
+<VFEM2_Apparel_KingsRobes.description>Longue robe avec plastron en or, digne d'un roi. D'une grande beauté.</VFEM2_Apparel_KingsRobes.description>
+
+<!-- EN: leather armor -->
+<VFEM2_Apparel_LeatherArmor.label>armure en cuir</VFEM2_Apparel_LeatherArmor.label>
+<!-- EN: This armor is made much more carefully and tightly out of processed leathers, sacrificing some insulation in favor of extra protection against damage. Intended to be worn by front-line troops and often accompanied by a shield. -->
+<VFEM2_Apparel_LeatherArmor.description>Cette armure est fabriquée avec beaucoup plus de soin et d'étanchéité à partir de cuirs transformés, sacrifiant une partie de l'isolation au profit d'une protection supplémentaire contre les dommages. Destinée à être portée par les troupes de première ligne, elle est souvent accompagnée d'un bouclier.</VFEM2_Apparel_LeatherArmor.description>
+
+<!-- EN: mantle -->
+<VFEM2_Apparel_Mantle.label>pèlerine</VFEM2_Apparel_Mantle.label>
+<!-- EN: A light cloak covering shoulders and neck, providing some protection from the elements. -->
+<VFEM2_Apparel_Mantle.description>Une cape légère couvrant les épaules et le cou, offrant une certaine protection contre les éléments.</VFEM2_Apparel_Mantle.description>
+
+<!-- EN: padded armor -->
+<VFEM2_Apparel_PaddedArmor.label>armure rembourrée</VFEM2_Apparel_PaddedArmor.label>
+<!-- EN: A thick, quilted garment designed to absorb impacts and provide moderate protection. Often used by foot soldiers or worn under heavier armor. -->
+<VFEM2_Apparel_PaddedArmor.description>Vêtement épais et matelassé conçu pour absorber les chocs et offrir une protection modérée. Souvent utilisé par les fantassins ou porté sous une armure plus lourde.</VFEM2_Apparel_PaddedArmor.description>
+
+<!-- EN: heavy plate armor -->
+<VFEM2_Apparel_PlateArmorHeavy.label>armure de plates lourde</VFEM2_Apparel_PlateArmorHeavy.label>
+<!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. The plates have been reinforced which offers significantly more protection, but at the cost of mobility. -->
+<VFEM2_Apparel_PlateArmorHeavy.description>Des plaques d'armure solides et superposées couvrent l'ensemble du corps, du cou aux pieds. Les plaques ont été renforcées, ce qui offre une protection nettement supérieure, mais au détriment de la mobilité.</VFEM2_Apparel_PlateArmorHeavy.description>
+
+<!-- EN: tabard -->
+<VFEM2_Apparel_Tabard.label>tabard</VFEM2_Apparel_Tabard.label>
+<!-- EN: A sleeveless cloth overgarment worn over armor or clothing, designed to display the wearer's heraldry. Though it provides no protection, it proudly showcases the colors and symbol of their allegiance. -->
+<VFEM2_Apparel_Tabard.description>Vêtement en tissu sans manche porté par-dessus une armure ou des vêtements, conçu pour afficher les armoiries du porteur. Bien qu'il n'offre aucune protection, il met fièrement en valeur les couleurs et le symbole de l'allégeance.</VFEM2_Apparel_Tabard.description>
+
+
+<!-- EN: apiary -->
+<VFEM2_Apiary.label>ruche</VFEM2_Apiary.label>
+<!-- EN: A wooden box-like structure with a series of shelves, lattices, and chambers. When placed near flowers the apiary will naturally attract wild bees which will make it their new home. Over time these bees will produce honey which can be harvested and eaten directly, or later fermented into mead. -->
+<VFEM2_Apiary.description>Une structure en forme de boîte en bois avec une série d'étagères, de treillis et de chambres. Placé à proximité de fleurs, la ruche attirera naturellement les abeilles sauvages qui en feront leur nouveau domicile. Au fil du temps, ces abeilles produiront du miel qui pourra être récolté et consommé directement ou, plus tard, fermenté en hydromel.</VFEM2_Apiary.description>
+
+
+<!-- EN: castle door (medium) -->
+<VFEM2_2x1CastleDoor.label>porte du château (moyenne)</VFEM2_2x1CastleDoor.label>
+<!-- EN: An incredibly resistant door made out of oversized stone blocks. Very slow to build. It’s a good choice if you want to keep the enemies out - or in. The door requires walls on either side to function. -->
+<VFEM2_2x1CastleDoor.description>Une porte incroyablement résistante faite de blocs de pierre surdimensionnés. Très lente à construire. C'est un bon choix si vous voulez empêcher les ennemis d'entrer ou de sortir. La porte nécessite des murs de chaque côté pour fonctionner.</VFEM2_2x1CastleDoor.description>
+
+<!-- EN: castle gate (medium) -->
+<VFEM2_2x1CastleGate.label>herse du château (moyenne)</VFEM2_2x1CastleGate.label>
+<!-- EN: An incredibly resistant door made out of oversized stone blocks, with a latticed grille protecting the passage. Very slow to build. It’s a good choice if you want to keep the enemies out - or in. The door requires walls on either side to function. Castle gates take a long time to open. -->
+<VFEM2_2x1CastleGate.description>Une porte incroyablement résistante faite de blocs de pierre surdimensionnés, avec une grille en treillis protégeant le passage. Très lente à construire. C'est un bon choix si vous voulez empêcher les ennemis d'entrer ou de sortir. La porte nécessite des murs de chaque côté pour fonctionner. Les herses du château sont longues à ouvrir.</VFEM2_2x1CastleGate.description>
+
+<!-- EN: castle door (large) -->
+<VFEM2_3x1CastleDoor.label>porte du château (large)</VFEM2_3x1CastleDoor.label>
+<!-- EN: An incredibly resistant door made out of oversized stone blocks. Very slow to build. It’s a good choice if you want to keep the enemies out - or in. The door requires walls on either side to function. -->
+<VFEM2_3x1CastleDoor.description>Une porte incroyablement résistante faite de blocs de pierre surdimensionnés. Très lente à construire. C'est un bon choix si vous voulez empêcher les ennemis d'entrer ou de sortir. La porte nécessite des murs de chaque côté pour fonctionner.</VFEM2_3x1CastleDoor.description>
+
+<!-- EN: castle gate (large) -->
+<VFEM2_3x1CastleGate.label>herse du château (large)</VFEM2_3x1CastleGate.label>
+<!-- EN: An incredibly resistant door made out of oversized stone blocks, with a latticed grille protecting the passage. Very slow to build. It’s a good choice if you want to keep the enemies out - or in. The door requires walls on either side to function. Castle gates take a long time to open. -->
+<VFEM2_3x1CastleGate.description>Une porte incroyablement résistante faite de blocs de pierre surdimensionnés, avec une grille en treillis protégeant le passage. Très lente à construire. C'est un bon choix si vous voulez empêcher les ennemis d'entrer ou de sortir. La porte nécessite des murs de chaque côté pour fonctionner. Les herses du château sont longues à ouvrir.</VFEM2_3x1CastleGate.description>
+
+<!-- EN: castle door (grand) -->
+<VFEM2_4x1CastleDoor.label>porte du château (grande)</VFEM2_4x1CastleDoor.label>
+<!-- EN: An incredibly resistant door made out of oversized stone blocks. Very slow to build. It’s a good choice if you want to keep the enemies out - or in. The door requires walls on either side to function. -->
+<VFEM2_4x1CastleDoor.description>Une porte incroyablement résistante faite de blocs de pierre surdimensionnés. Très lente à construire. C'est un bon choix si vous voulez empêcher les ennemis d'entrer ou de sortir. La porte nécessite des murs de chaque côté pour fonctionner.</VFEM2_4x1CastleDoor.description>
+
+<!-- EN: castle gate (grand) -->
+<VFEM2_4x1CastleGate.label>herse du château (grande)</VFEM2_4x1CastleGate.label>
+<!-- EN: An incredibly resistant door made out of oversized stone blocks, with a latticed grille protecting the passage. Very slow to build. It’s a good choice if you want to keep the enemies out - or in. The door requires walls on either side to function. Castle gates take a long time to open. -->
+<VFEM2_4x1CastleGate.description>Une porte incroyablement résistante faite de blocs de pierre surdimensionnés, avec une grille en treillis protégeant le passage. Très lente à construire. C'est un bon choix si vous voulez empêcher les ennemis d'entrer ou de sortir. La porte nécessite des murs de chaque côté pour fonctionner. Les herses du château sont longues à ouvrir.</VFEM2_4x1CastleGate.description>
+
+
+<!-- EN: darklight hearth -->
+<VFEM2_HearthDarklight.label>foyer tamisé</VFEM2_HearthDarklight.label>
+<!-- EN: A large, tightly packed fire pit capable of holding high amounts of wood at once. Provides hefty warmth and light to thronerooms and halls alike and acts as a gathering spot for idle colonists. -->
+<VFEM2_HearthDarklight.description>Un grand foyer très compact, capable de contenir de grandes quantités de bois à la fois. Il apporte chaleur et lumière aux salles du trône et aux couloirs, et sert de lieu de rassemblement pour les colons désœuvrés.</VFEM2_HearthDarklight.description>
+
+
+<!-- EN: shelf -->
+<VFEM2_AutofillShelf.label>étagère</VFEM2_AutofillShelf.label>
+<!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+<VFEM2_AutofillShelf.description>Une étagère à trois piles qui peut contenir trois fois plus que le sol vide. Les objets stockés à l'intérieur ne se détérioreront jamais et n'affecteront pas la beauté de leur environnement.\n\nComme l'espace sur les étagères est limité, les étagères ne peuvent pas contenir de morceaux, de structures, de plantes et de gros cadavres.</VFEM2_AutofillShelf.description>
+
+<!-- EN: double fur bed -->
+<VFEM2_DoubleFurBed.label>lit double en fourrure</VFEM2_DoubleFurBed.label>
+<!-- EN: A two-person, wood-framed bed stuffed with dried grasses and covered in a variety of pelts and furs to provide extra insulation during frigid nights. The warmth of this bed counters hypothermia. -->
+<VFEM2_DoubleFurBed.description>Lit pour deux personnes, à armature de bois, rembourré d'herbes séchées et recouvert d'une variété de peaux et de fourrures pour fournir une isolation supplémentaire pendant les nuits glaciales. La chaleur de ce lit permet de lutter contre l'hypothermie.</VFEM2_DoubleFurBed.description>
+
+<!-- EN: fur bed -->
+<VFEM2_FurBed.label>lit en fourrure</VFEM2_FurBed.label>
+<!-- EN: A wood-framed bed stuffed with dried grasses and covered in a variety of pelts and furs to provide extra insulation during frigid nights. The warmth of this bed counters hypothermia. -->
+<VFEM2_FurBed.description>Un lit à armature de bois rembourré d'herbes séchées et recouvert d'une variété de peaux et de fourrures pour fournir une isolation supplémentaire pendant les nuits glaciales. La chaleur de ce lit permet de lutter contre l'hypothermie.</VFEM2_FurBed.description>
+
+<!-- EN: hearth -->
+<VFEM2_Hearth.label>foyer</VFEM2_Hearth.label>
+<!-- EN: A large, tightly packed fire pit capable of holding high amounts of wood at once. Provides hefty warmth and light to thronerooms and halls alike and acts as a gathering spot for idle colonists. -->
+<VFEM2_Hearth.description>Un grand foyer très compact, capable de contenir de grandes quantités de bois à la fois. Il apporte chaleur et lumière aux salles du trône et aux couloirs, et sert de lieu de rassemblement pour les colons désœuvrés.</VFEM2_Hearth.description>
+
+<!-- EN: heraldic standing banner -->
+<VFEM2_StandingBanner.label>bannière héraldique sur pied</VFEM2_StandingBanner.label>
+<!-- EN: A tall fabric banner mounted on a sturdy wooden frame, proudly displaying the heraldry of the faction. -->
+<VFEM2_StandingBanner.description>Une grande bannière en tissu montée sur un solide cadre en bois, arborant fièrement les armoiries de la faction.</VFEM2_StandingBanner.description>
+
+
+<!-- EN: archery target -->
+<VFEM2_ArcheryTarget.label>cible de tir à l'arc</VFEM2_ArcheryTarget.label>
+<!-- EN: A simple archery target mounted on a wooden stand. It's relaxing, and allows oneself to test their accuracy and train over time without risking fatal confrontation. -->
+<VFEM2_ArcheryTarget.description>Une simple cible de tir à l'arc montée sur un support en bois. C'est relaxant, cela permet de tester sa précision et de s'entraîner dans la durée sans risquer la confrontation fatale.</VFEM2_ArcheryTarget.description>
+
+<!-- EN: training dummy -->
+<VFEM2_TrainingDummy.label>mannequin d'entraînement</VFEM2_TrainingDummy.label>
+<!-- EN: A target dummy made out of wood, soil, and dried plant matter. Surprisingly durable, allows oneself to test their swordsmanship and train over time without risking fatal confrontation. -->
+<VFEM2_TrainingDummy.description>Un mannequin d'entraînement fait de bois, de terre et de matières végétales séchées. Étonnamment durable, il permet de tester son habileté à l'épée et de s'entraîner au fil du temps sans risquer une confrontation fatale.</VFEM2_TrainingDummy.description>
+
+
+<!-- EN: leather boilpot -->
+<VFEM2_LeatherBoilpot.label>marmite de cuir</VFEM2_LeatherBoilpot.label>
+<!-- EN: A wood-fueled metal pot used to boil patchleather. Consumes wood when working. -->
+<VFEM2_LeatherBoilpot.description>Une marmite en métal alimentée au bois, utilisée pour faire bouillir le cuir. Consomme du bois lorsqu'elle fonctionne.</VFEM2_LeatherBoilpot.description>
+
+
+<!-- EN: ailment's shelf -->
+<VFEM2_AilmentsShelf.label>étagère des affections</VFEM2_AilmentsShelf.label>
+<!-- EN: A small wooden cabinet that can be stocked with herbal remedies, tinctures, and basic medicinal tools. Items stored inside will never deteriorate and don't affect the beauty of their surroundings. -->
+<VFEM2_AilmentsShelf.description>Une petite armoire en bois qui peut contenir des remèdes à base de plantes, des teintures et des outils médicinaux de base. Les objets conservés à l'intérieur ne se détériorent jamais et n'altèrent pas la beauté de leur environnement.</VFEM2_AilmentsShelf.description>
+
+<!-- EN: art tool stand -->
+<VFEM2_ArtToolStand.label>support à outils d'art</VFEM2_ArtToolStand.label>
+<!-- EN: A rack with chisels, hammers, and other carving tools. Increases work speed when placed near an art bench. One workbench can only use one tool stand. -->
+<VFEM2_ArtToolStand.description>Un support avec des ciseaux, des marteaux et d'autres outils de sculpture. Il augmente la vitesse de travail lorsqu'il est placé près d'un établi. Un établi ne peut utiliser qu'un seul support d'outils.</VFEM2_ArtToolStand.description>
+
+<!-- EN: carving board -->
+<VFEM2_CarvingBoard.label>planche à découper</VFEM2_CarvingBoard.label>
+<!-- EN: A thick, well-worn wooden board that allows for precision cuts. Increases work speed when placed near a butchering table. The sharp blades allow the butcher to extract 10% more meat and leather from any butchered creature. One workbench can only use one carving board. -->
+<VFEM2_CarvingBoard.description>Une planche en bois épaisse et bien usée qui permet des coupes précises. Augmente la vitesse de travail lorsqu'elle est placée près d'une table de boucherie. Les lames tranchantes permettent au boucher d'extraire 10% de viande et de cuir en plus de toute créature dépecée. Un établi ne peut utiliser qu'une seule planche à découper.</VFEM2_CarvingBoard.description>
+
+<!-- EN: chisel rack -->
+<VFEM2_ChiselRack.label>casier à ciseaux</VFEM2_ChiselRack.label>
+<!-- EN: A small rack filled with various chisels. Increases work speed when placed near a stonecutter’s table. One workbench can only use one chisel rack. -->
+<VFEM2_ChiselRack.description>Un petit casier rempli de différents ciseaux. Il augmente la vitesse de travail lorsqu'il est placé près de la table de tailleur de pierre. Un établi ne peut utiliser qu'un seul casier à ciseaux.</VFEM2_ChiselRack.description>
+
+<!-- EN: cleaver rack -->
+<VFEM2_CleaverRack.label>porte-couteaux</VFEM2_CleaverRack.label>
+<!-- EN: A sturdy rack holding sharp cleavers and knives. Increases work speed when placed near a butchering table. One workbench can only use one cleaver rack. -->
+<VFEM2_CleaverRack.description>Un support solide pour les hachoirs et les couteaux tranchants. Il augmente la vitesse de travail lorsqu'il est placé près d'une table de boucherie. Un établi ne peut utiliser qu'un seul porte-couteaux.</VFEM2_CleaverRack.description>
+
+<!-- EN: forge bellows -->
+<VFEM2_ForgeBellows.label>soufflet de forge</VFEM2_ForgeBellows.label>
+<!-- EN: A manually operated bellows that boosts airflow to the smithy. Increases work speed when placed near a smithy. Bellows reduce the fuel consumption of the linked workbench by 20%. One workbench can only use one bellows. -->
+<VFEM2_ForgeBellows.description>Un soufflet à commande manuelle qui augmente le débit d'air dans la forge. Augmente la vitesse de travail lorsqu'il est placé près d'une forge. Les soufflets réduisent la consommation de carburant de l'établi lié de 20%. Un établi ne peut utiliser qu'un seul soufflet.</VFEM2_ForgeBellows.description>
+
+<!-- EN: mannequin stand -->
+<VFEM2_MannequinStand.label>support de mannequin</VFEM2_MannequinStand.label>
+<!-- EN: A basic mannequin used to measure and shape garments for more refined results. Increases work speed when placed near a tailoring bench. Mannequin stand allows for more precise measurements, reducing the cost of crafting apparel by 10%. One workbench can only use one mannequin. -->
+<VFEM2_MannequinStand.description>Un mannequin simple qui permet de mesurer et de façonner les vêtements pour obtenir des résultats plus raffinés. Il augmente la vitesse de travail lorsqu'il est placé près d'un établi de tissage. Le support de mannequin permet de prendre des mesures plus précises, ce qui réduit le coût de fabrication des vêtements de 10%. Un établi ne peut utiliser qu'un seul mannequin.</VFEM2_MannequinStand.description>
+
+<!-- EN: notes stack -->
+<VFEM2_NotesStack.label>pile de notes</VFEM2_NotesStack.label>
+<!-- EN: A small desk stocked with numerous notes and pieces of paper. Increases work speed when placed near a research bench. One workbench can only use one notes stack. -->
+<VFEM2_NotesStack.description>Un petit bureau garni de nombreuses notes et de morceaux de papier. Augmente la vitesse de travail lorsqu'il est placé près d'un poste de recherche. Un établi ne peut utiliser qu'une seule pile de notes.</VFEM2_NotesStack.description>
+
+<!-- EN: research board -->
+<VFEM2_ResearchBoard.label>tableau de recherche</VFEM2_ResearchBoard.label>
+<!-- EN: A slate or chalkboard for sketching diagrams and sharing ideas. Increases work speed when placed near a research bench. Up to two research benches can be linked to one chalkboard. -->
+<VFEM2_ResearchBoard.description>Une ardoise ou un tableau noir pour esquisser des diagrammes et partager des idées. Augmente la vitesse de travail lorsqu'il est placé près d'un poste de recherche. Il est possible de relier jusqu'à deux postes de recherche à un tableau noir.</VFEM2_ResearchBoard.description>
+
+<!-- EN: smithing anvil -->
+<VFEM2_SmithingAnvil.label>enclume de forge</VFEM2_SmithingAnvil.label>
+<!-- EN: A heavy steel anvil used to shape metalwork with greater precision. Increases work speed when placed near a smithy. Items of awful and poor quality crafted on the linked workbench have a chance of being upgraded by one quality level. One workbench can only use one anvil. -->
+<VFEM2_SmithingAnvil.description>Enclume en acier lourd utilisée pour façonner les métaux avec une plus grande précision. Augmente la vitesse de travail lorsqu'elle est placée près d'une forge. Les objets de qualité horrible ou médiocre fabriqués sur l'établi lié ont une chance d'être améliorés d'un niveau de qualité. Un établi ne peut utiliser qu'une seule enclume.</VFEM2_SmithingAnvil.description>
+
+<!-- EN: stone clamp -->
+<VFEM2_StoneClamp.label>pince à pierre</VFEM2_StoneClamp.label>
+<!-- EN: A simple clamp for holding large stones in place. Increases work speed when placed near a stonecutter’s table. The clamp allows higher productivity, increasing resource yield from all recipes by 10%. One workbench can only use one stone clamp. -->
+<VFEM2_StoneClamp.description>Une pince simple pour maintenir les grosses pierres en place. Elle augmente la vitesse de travail lorsqu'elle est placée près de la table d'un tailleur de pierre. La pince permet d'augmenter la productivité, en augmentant de 10% le rendement en ressources de toutes les recettes. Un établi ne peut utiliser qu'une seule pince à pierre.</VFEM2_StoneClamp.description>
+
+<!-- EN: stone polisher -->
+<VFEM2_StonePolisher.label>pierre à polir</VFEM2_StonePolisher.label>
+<!-- EN: A polishing wheel that ensures sculptures have a smooth and refined finish. Increases work speed when placed near an art bench. Stone sculptures of awful and poor quality crafted on the linked art bench have a high chance of being upgraded by one quality level  One workbench can only use one stone polisher. -->
+<VFEM2_StonePolisher.description>Une roue de polissage qui assure aux sculptures une finition lisse et raffinée. Augmente la vitesse de travail lorsqu'elle est placée près d'un établi. Les sculptures en pierre de qualité horrible ou médiocre réalisées sur l'établi lié ont de grandes chances d'être améliorées d'un niveau de qualité. Un établi ne peut utiliser qu'une seule pierre à polir.</VFEM2_StonePolisher.description>
+
+<!-- EN: surgical tools -->
+<VFEM2_SurgicalTools.label>outils chirurgicaux</VFEM2_SurgicalTools.label>
+<!-- EN: A small stand holding scalpels, clamps, and bone saws. Increases work speed when placed near a bed of any kind, including sleeping spots and hospital beds. One bed can only use one set of surgical tools. -->
+<VFEM2_SurgicalTools.description>Un petit support pour les scalpels, les pinces et les scies à os. Augmente la vitesse de travail lorsqu'il est placé près d'un lit, quel qu'il soit, y compris les lits de repos et les lits médicalisés. Un lit ne peut utiliser qu'un seul ensemble d'outils chirurgicaux.</VFEM2_SurgicalTools.description>
+
+<!-- EN: tailoring loom -->
+<VFEM2_TailoringLoom.label>métier à tisser</VFEM2_TailoringLoom.label>
+<!-- EN: A small loom for weaving thread. Increases work speed when placed near a tailoring bench. One workbench can only use one tailoring loom. -->
+<VFEM2_TailoringLoom.description>Petit métier à tisser le fil. Il augmente la vitesse de travail lorsqu'il est placé près d'un établi de tissage. Un établi ne peut utiliser qu'un seul métier à tisser.</VFEM2_TailoringLoom.description>
+
+
+<!-- EN: mead fermenting barrel -->
+<VFEM2_MeadFermentingBarrel.label>tonneau de fermentation d'hydromel</VFEM2_MeadFermentingBarrel.label>
+<!-- EN: A very simple barrel, held together with a series of mortise and tenon joints. Can turn honey into mead. -->
+<VFEM2_MeadFermentingBarrel.description>Un tonneau très simple, assemblé par une série de tenons et de mortaises. Il permet de transformer le miel en hydromel.</VFEM2_MeadFermentingBarrel.description>
+
+
+<!-- EN: fueled draught lab -->
+<VFEM2_AlchemicalWorkbench.label>laboratoire de breuvage à combustible</VFEM2_AlchemicalWorkbench.label>
+<!-- EN: A wood-fueled station for brewing various alchemical draughts. -->
+<VFEM2_AlchemicalWorkbench.description>Une station alimentée au bois pour brasser divers breuvages alchimiques.</VFEM2_AlchemicalWorkbench.description>
+
+<!-- EN: electric draught lab -->
+<VFEM2_AlchemicalWorkbench_Electric.label>laboratoire de breuvage électrique</VFEM2_AlchemicalWorkbench_Electric.label>
+<!-- EN: An electrically-powered station for brewing various alchemical draughts. -->
+<VFEM2_AlchemicalWorkbench_Electric.description>Une station alimentée électriquement pour la préparation de divers breuvages alchimiques.</VFEM2_AlchemicalWorkbench_Electric.description>
+
+
+<!-- EN: arbalest bolt -->
+<VFEM2_Bolt_ArbalestTurret.label>carreau d'arbalete</VFEM2_Bolt_ArbalestTurret.label>
+
+<!-- EN: arbalest -->
+<VFEM2_Gun_ArbalestTurret.label>arbalète</VFEM2_Gun_ArbalestTurret.label>
+<!-- EN: A stationary heavy arbalest mounted on a low castle wall to grant cover. While reload speed leaves a lot to be desired, arbalest has an extremely long range, provided there is line of sight on the target. -->
+<VFEM2_Gun_ArbalestTurret.description>Une arbalète lourde stationnaire montée sur un mur bas du château pour assurer la couverture. Bien que la vitesse de rechargement laisse à désirer, l'arbalète a une portée extrêmement grande, à condition d'avoir une ligne de mire sur la cible.</VFEM2_Gun_ArbalestTurret.description>
+<!-- EN: arbalest -->
+<VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>arbalète</VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>
+
+<!-- EN: arquebus -->
+<VFEM2_Gun_ArquebusTurret.label>arquebuse</VFEM2_Gun_ArquebusTurret.label>
+<!-- EN: A stationary arquebus mounted on a low castle wall to grant cover. Because of the added stability, the wall-mounted arquebus can fire much further than normal. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+<VFEM2_Gun_ArquebusTurret.description>Arquebuse stationnaire montée sur un mur bas du château pour assurer la couverture. Grâce à sa stabilité accrue, l'arquebuse murale peut tirer beaucoup plus loin que la normale. Les billes de plomb perdent de la vitesse et des dégâts avec la distance, et sont extrêmement inefficaces contre les armures. En raison de la réaction de la poudre noire lors du tir de l'arquebuse, des nuages de fumée aveuglante sont éjectés du canon.</VFEM2_Gun_ArquebusTurret.description>
+<!-- EN: arquebus -->
+<VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>arquebuse</VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>
+
+<!-- EN: wall-mounted arbalest -->
+<VFEM2_Turret_WallMountedArbalest.label>arbalète murale</VFEM2_Turret_WallMountedArbalest.label>
+<!-- EN: A stationary heavy arbalest mounted on a low castle wall to grant cover. While reload speed leaves a lot to be desired, arbalest has an extremely long range, provided there is line of sight on the target. -->
+<VFEM2_Turret_WallMountedArbalest.description>Une arbalète lourde stationnaire montée sur un mur bas du château pour assurer la couverture. Bien que la vitesse de rechargement laisse à désirer, l'arbalète a une portée extrêmement grande, à condition d'avoir une ligne de mire sur la cible.</VFEM2_Turret_WallMountedArbalest.description>
+<!-- EN: Arbalest bolts -->
+<VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>Carreaux d'arbalete</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Arbalest bolts loaded -->
+<VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>Carreaux d'arbalète chargés</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Needs reloading -->
+<VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>Doit être rechargé</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>
+
+<!-- EN: wall-mounted arquebus -->
+<VFEM2_Turret_WallMountedArquebus.label>arquebuse murale</VFEM2_Turret_WallMountedArquebus.label>
+<!-- EN: A stationary arquebus mounted on a low castle wall to grant cover. Because of the added stability, the wall-mounted arquebus can fire much further than normal. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+<VFEM2_Turret_WallMountedArquebus.description>Arquebuse stationnaire montée sur un mur bas du château pour assurer la couverture. Grâce à sa stabilité accrue, l'arquebuse murale peut tirer beaucoup plus loin que la normale. Les billes de plomb perdent de la vitesse et des dégâts avec la distance, et sont extrêmement inefficaces contre les armures. En raison de la réaction de la poudre noire lors du tir de l'arquebuse, des nuages de fumée aveuglante sont éjectés du canon.</VFEM2_Turret_WallMountedArquebus.description>
+<!-- EN: Barrel durability -->
+<VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Shots until barrel change -->
+<VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>Nombre de tirs avant le changement du canon</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>
+<!-- EN: Needs new barrel -->
+<VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>Nécessite un nouveau canon</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>
+
+
+<!-- EN: castle wall -->
+<VFEM2_CastleWall.label>mur du château</VFEM2_CastleWall.label>
+<!-- EN: An incredibly resistant impassable wall made out of oversized stone blocks. Very slow to build. Capable of holding a roof. If castle wall sustains enough damage, it becomes a chest-high passable cover that when repaired, turns into an impassable wall again. -->
+<VFEM2_CastleWall.description>Un mur infranchissable incroyablement résistant, fait de blocs de pierre surdimensionnés. Très lent à construire. Capable de tenir un toit. Si le mur du château subit suffisamment de dégâts, il devient une couverture franchissable à hauteur de poitrine qui, une fois réparé, il redevient un mur infranchissable.</VFEM2_CastleWall.description>
+
+<!-- EN: cloth wall -->
+<VFEM2_ClothWall.label>mur de toile</VFEM2_ClothWall.label>
+<!-- EN: An impassable wall made out of thick overlapping strips of fabric or leather stitched together. Quick to build, but extremely flammable. When deconstructed, returns all of the cloth used. -->
+<VFEM2_ClothWall.description>Mur infranchissable constitué d'épaisses bandes de tissu ou de cuir cousues ensemble et se chevauchant. Rapide à construire, mais extrêmement inflammable. Lorsqu'il est démoli, il restitue l'intégralité du tissu utilisé.</VFEM2_ClothWall.description>
+
+<!-- EN: damaged castle wall -->
+<VFEM2_DamagedCastleWall.label>mur du château endommagé</VFEM2_DamagedCastleWall.label>
+<!-- EN: An incredibly resistant impassable wall made out of oversized stone blocks. Very slow to build. Capable of holding a roof. If castle wall sustains enough damage, it becomes a chest-high passable cover that when repaired, turns into an impassable wall again. -->
+<VFEM2_DamagedCastleWall.description>Un mur infranchissable incroyablement résistant, fait de blocs de pierre surdimensionnés. Très lent à construire. Capable de tenir un toit. Si le mur du château subit suffisamment de dégâts, il devient une couverture franchissable à hauteur de poitrine qui, une fois réparé, il redevient un mur infranchissable.</VFEM2_DamagedCastleWall.description>
+
+<!-- EN: damaged low castle wall -->
+<VFEM2_DamagedLowCastleWall.label>muret du château endommagé</VFEM2_DamagedLowCastleWall.label>
+<!-- EN: An incredibly resistant chest-high wall made out of oversized stone blocks. Very slow to build. Incapable of holding a roof. If low castle wall sustains enough damage, it becomes a very low but  standable cover that when repaired, turns into the chest-high wall again. -->
+<VFEM2_DamagedLowCastleWall.description>Un mur incroyablement résistant, à hauteur de poitrine, fait de blocs de pierre surdimensionnés. Très lent à construire. Incapable de supporter un toit. Si le muret du château subit suffisamment de dégâts, il devient une couverture très basse mais solide qui, une fois réparée, se transforme à nouveau en muret à hauteur de poitrine.</VFEM2_DamagedLowCastleWall.description>
+
+<!-- EN: low castle wall -->
+<VFEM2_LowCastleWall.label>muret du château</VFEM2_LowCastleWall.label>
+<!-- EN: An incredibly resistant chest-high wall made out of oversized stone blocks. Very slow to build. Incapable of holding a roof. If low castle wall sustains enough damage, it becomes a very low but  standable cover that when repaired, turns into the chest-high wall again. -->
+<VFEM2_LowCastleWall.description>Un mur incroyablement résistant, à hauteur de poitrine, fait de blocs de pierre surdimensionnés. Très lent à construire. Incapable de supporter un toit. Si le muret du château subit suffisamment de dégâts, il devient une couverture très basse mais solide qui, une fois réparée, se transforme à nouveau en muret à hauteur de poitrine.</VFEM2_LowCastleWall.description>
+
+<!-- EN: palisade -->
+<VFEM2_Palisade.label>palissade</VFEM2_Palisade.label>
+<!-- EN: An impassable fence made out of vertically-standing wooden stakes. Slow to build but requires little resources. Incapable of holding a roof. -->
+<VFEM2_Palisade.description>Une clôture infranchissable faite de piquets de bois dressés verticalement. Lente à construire mais nécessite peu de ressources. Incapable de supporter un toit.</VFEM2_Palisade.description>
+
+<!-- EN: timbered wall -->
+<VFEM2_TimberedWall.label>mur à colombages</VFEM2_TimberedWall.label>
+<!-- EN: An impassable wall made out of stone blocks and heavy, carefully fitted timbers forming a box frame. Slow to build but much more resistant to damage. Flammable, but less so than ordinary wooden walls. Capable of holding a roof. -->
+<VFEM2_TimberedWall.description>Un mur infranchissable fait de blocs de pierre et de lourdes poutres soigneusement ajustées formant un cadre. Lent à construire mais beaucoup plus résistant aux dommages. Inflammable, mais moins que les murs en bois ordinaires. Capable de supporter un toit.</VFEM2_TimberedWall.description>
+
+
+<!-- EN: wine barrel -->
+<VFEM2_WineBarrel.label>tonneau de vin</VFEM2_WineBarrel.label>
+<!-- EN: A barrel for fermenting raw must into wine. -->
+<VFEM2_WineBarrel.description>Tonneau destiné à la fermentation du moût de raisin en vin.</VFEM2_WineBarrel.description>
+
+
+<!-- EN: heraldic rug (broad) -->
+<VFEM2_HeraldicRugBroad.label>tapis héraldique (large)</VFEM2_HeraldicRugBroad.label>
+<!-- EN: A large decorative rug featuring a bold heraldic design, perfect for displaying allegiance or family pride in any room. -->
+<VFEM2_HeraldicRugBroad.description>Un grand tapis décoratif au motif héraldique audacieux, parfait pour afficher son allégeance ou sa fierté familiale dans n'importe quelle pièce.</VFEM2_HeraldicRugBroad.description>
+
+<!-- EN: heraldic rug (grand) -->
+<VFEM2_HeraldicRugGrand.label>tapis héraldique (grand)</VFEM2_HeraldicRugGrand.label>
+<!-- EN: A massive decorative rug featuring a bold heraldic design, perfect for displaying allegiance or family pride in any room. -->
+<VFEM2_HeraldicRugGrand.description>Un tapis décoratif massif présentant un motif héraldique audacieux, parfait pour afficher l'allégeance ou la fierté familiale dans n'importe quelle pièce.</VFEM2_HeraldicRugGrand.description>
+
+<!-- EN: heraldic rug (narrow) -->
+<VFEM2_HeraldicRugNarrow.label>tapis héraldique (étroit)</VFEM2_HeraldicRugNarrow.label>
+<!-- EN: A narrow decorative rug featuring a bold heraldic design, perfect for displaying allegiance or family pride in any room. -->
+<VFEM2_HeraldicRugNarrow.description>Un tapis décoratif étroit présentant un motif héraldique audacieux, parfait pour afficher l'allégeance ou la fierté familiale dans n'importe quelle pièce.</VFEM2_HeraldicRugNarrow.description>
+
+
+<!-- EN: viking slab (broad) -->
+<VFEM2_Viking_Slab_Broad.label>dalle viking (grande)</VFEM2_Viking_Slab_Broad.label>
+<!-- EN: A stone bas relief of viking imagery for decorating a floor. -->
+<VFEM2_Viking_Slab_Broad.description>Un bas-relief en pierre d'images vikings pour décorer un sol.</VFEM2_Viking_Slab_Broad.description>
+
+<!-- EN: viking slab (medium) -->
+<VFEM2_Viking_Slab_Medium.label>dalle viking (moyenne)</VFEM2_Viking_Slab_Medium.label>
+<!-- EN: A stone bas relief of viking imagery for decorating a floor. -->
+<VFEM2_Viking_Slab_Medium.description>Un bas-relief en pierre d'images vikings pour décorer un sol.</VFEM2_Viking_Slab_Medium.description>
+
+
+<!-- EN: Mote -->
+<VFEM_Mote_CombatCommand.label>Mote</VFEM_Mote_CombatCommand.label>
+
+<!-- EN: Mote -->
+<VFEM_Mote_CombatCommandLinkLine.label>Mote</VFEM_Mote_CombatCommandLinkLine.label>
+
+
+<!-- EN: hemogen draught -->
+<VFEM2_HemogenDraught.label>breuvage d'hémogène</VFEM2_HemogenDraught.label>
+<!-- EN: A rich, crimson liquid crafted from concentrated hemogen packs. When the user drinks it, it enhances all traits and abilities tied to their hemogenic nature, boosting physical and mental capacities. Additionally, this draught replenishes the user's hemogen supply over time, maintaining their vitality and enhancing their overall function. -->
+<VFEM2_HemogenDraught.description>Un liquide riche et cramoisi fabriqué à partir de packs d'hémogène concentrés. Lorsque l'utilisateur le boit, il améliore toutes les caractéristiques et capacités liées à sa nature hémogène, renforçant ainsi ses capacités physiques et mentales. De plus, ce breuvage reconstitue la réserve d'hémogène de l'utilisateur au fil du temps, ce qui maintient sa vitalité et améliore son fonctionnement général.</VFEM2_HemogenDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_HemogenDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_HemogenDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_HemogenDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_HemogenDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_HemogenDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_HemogenDraught.ingestible.ingestReportString>
+
+
+<!-- EN: clarity draught -->
+<VFEM2_ClarityDraught.label>breuvage de lucidité</VFEM2_ClarityDraught.label>
+<!-- EN: A light blue liquid that’s sparkling with a subtle effervescence. When the user drinks it, it restores some of their psychic focus and enhances their psychic sensitivity, allowing for clearer mental processing and heightened awareness. However, this increased mental activity significantly raises the user's hunger rate, making them need to eat more often. Additionally, the relentless mental buzz from the draught leads to a noticeable drop in mood due to the overwhelming flow of thoughts. -->
+<VFEM2_ClarityDraught.description>Un liquide bleu clair qui pétille avec une effervescence subtile. Lorsque l'utilisateur le boit, il récupère une partie de sa concentration psychique et améliore sa sensibilité psychique, ce qui lui permet d'avoir un traitement mental plus clair et une conscience accrue. Cependant, cette activité mentale accrue augmente considérablement la sensation de faim de l'utilisateur, ce qui l'oblige à manger plus souvent. De plus, l'incessant bourdonnement mental provoqué par le breuvage entraîne une baisse notable de l'humeur en raison du flot de pensées qui l'envahit.</VFEM2_ClarityDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_ClarityDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_ClarityDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_ClarityDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_ClarityDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_ClarityDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_ClarityDraught.ingestible.ingestReportString>
+
+
+<!-- EN: amnesia draught -->
+<VFEM2_AmnesiaDraught.label>breuvage d'amnésie</VFEM2_AmnesiaDraught.label>
+<!-- EN: A crystal-clear, white liquid. When the user drinks it, it causes them to rapidly lose their memory. This effect makes both negative and positive memories fade much quicker than normal, leading to a transient experience of life's events. While this can alleviate the burden of painful memories, it also diminishes the joy and learning gained from positive experiences. -->
+<VFEM2_AmnesiaDraught.description>Un liquide blanc transparent comme du cristal. Lorsque l'utilisateur le boit, il perd rapidement la mémoire. Cet effet permet aux souvenirs négatifs et positifs de s'estomper beaucoup plus rapidement que la normale, ce qui conduit à une expérience éphémère des événements de la vie. Si cela permet d'alléger le poids des souvenirs douloureux, cela diminue également la joie et l'apprentissage tirés des expériences positives.</VFEM2_AmnesiaDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_AmnesiaDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_AmnesiaDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_AmnesiaDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_AmnesiaDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_AmnesiaDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_AmnesiaDraught.ingestible.ingestReportString>
+
+<!-- EN: antitox draught -->
+<VFEM2_AntitoxDraught.label>breuvage antitoxique</VFEM2_AntitoxDraught.label>
+<!-- EN: A clear, vibrant teal liquid. When the user drinks it, it enhances their resistance to toxins, fortifying their body against harmful substances. Additionally, this draught actively works to remove any existing toxic buildup within the user’s system, purifying their body and preventing the detrimental effects of toxins. -->
+<VFEM2_AntitoxDraught.description>Un liquide clair et vibrant de couleur turquoise. Lorsque l'utilisateur le boit, il améliore sa résistance aux toxines, fortifiant son corps contre les substances nocives. De plus, ce breuvage travaille activement à éliminer toute accumulation toxique existante dans le système de l'utilisateur, purifiant son corps et prévenant les effets néfastes des toxines.</VFEM2_AntitoxDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_AntitoxDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_AntitoxDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_AntitoxDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_AntitoxDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_AntitoxDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_AntitoxDraught.ingestible.ingestReportString>
+
+<!-- EN: coma draught -->
+<VFEM2_ComaDraught.label>breuvage de coma</VFEM2_ComaDraught.label>
+<!-- EN: A deep indigo liquid. When the user drinks it, it induces a chemically controlled coma, significantly slowing down their metabolism. This state allows the body to conserve energy and potentially aid in healing processes under controlled conditions. -->
+<VFEM2_ComaDraught.description>Un liquide d'un indigo profond. Lorsque l'utilisateur le boit, il induit un coma chimique contrôlé, ralentissant considérablement son métabolisme. Cet état permet au corps de conserver de l'énergie et d'aider potentiellement les processus de guérison dans des conditions contrôlées.</VFEM2_ComaDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_ComaDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_ComaDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_ComaDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_ComaDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_ComaDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_ComaDraught.ingestible.ingestReportString>
+
+<!-- EN: efficiency draught -->
+<VFEM2_EfficiencyDraught.label>breuvage d'efficacité</VFEM2_EfficiencyDraught.label>
+<!-- EN: A slate-gray liquid that when drunk, enhances the user’s global work speed and reduces their energy depletion, allowing them to work faster and longer without feeling tired. However, the intense boost in productivity comes at a significant risk, increasing the chance of a heart attack due to the strain on the body. After the potion's effects diminish, the user experiences a sharp increase in the rate at which they become sleepy, necessitating immediate rest to recover. -->
+<VFEM2_EfficiencyDraught.description>Un liquide gris ardoise qui, lorsqu'il est bu, augmente la vitesse générale de travail de l'utilisateur et réduit sa perte d'énergie, ce qui lui permet de travailler plus vite et plus longtemps sans se sentir fatigué. Cependant, l'augmentation intense de la productivité s'accompagne d'un risque important, celui d'une crise cardiaque en raison de la pression exercée sur le corps. Une fois que les effets de la potion s'estompent, l'utilisateur ressent une forte augmentation de la vitesse à laquelle il devient somnolent, ce qui l'oblige à se reposer immédiatement pour récupérer.</VFEM2_EfficiencyDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_EfficiencyDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_EfficiencyDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_EfficiencyDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_EfficiencyDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_EfficiencyDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_EfficiencyDraught.ingestible.ingestReportString>
+
+<!-- EN: fertility draught -->
+<VFEM2_FertilityDraught.label>breuvage de fécondité</VFEM2_FertilityDraught.label>
+<!-- EN: A gentle, rose-pink liquid. When the user drinks it, it artificially boosts their fertility, giving even those who are infertile a chance to conceive. This slight increase in fertility opens the possibility for individuals or couples struggling with infertility to become parents, focusing on enhancing natural reproductive processes. -->
+<VFEM2_FertilityDraught.description>Un liquide doux de couleur rose. Lorsque l'utilisateur le boit, il augmente artificiellement sa fertilité, donnant même aux personnes stériles une chance de procréer. Cette légère augmentation de la fertilité permet aux personnes ou aux couples qui luttent contre l'infertilité de devenir parents, en se concentrant sur l'amélioration des processus naturels de reproduction.</VFEM2_FertilityDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_FertilityDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_FertilityDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_FertilityDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_FertilityDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_FertilityDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_FertilityDraught.ingestible.ingestReportString>
+
+<!-- EN: focus draught -->
+<VFEM2_FocusDraught.label>breuvage de concentration</VFEM2_FocusDraught.label>
+<!-- EN: A crisp, energizing turquoise liquid that when drank, significantly enhances learning abilities of the user, enabling them to absorb and retain more information rapidly. Additionally, the draught increases the efficiency of eating and resting, allowing quicker nourishment and recovery. It also boosts the accumulation of psyfocus, enhancing mental clarity and psychic abilities. However, once the effects of the draught begin to fade, these enhancements reverse, leading to decreased learning capacity, slower eating and resting rates, and diminished psyfocus. -->
+<VFEM2_FocusDraught.description>Un liquide turquoise vif et énergisant qui, lorsqu'il est bu, améliore considérablement les capacités d'apprentissage de l'utilisateur, lui permettant d'absorber et de retenir plus d'informations rapidement. De plus, le breuvage augmente l'efficacité des repas et du repos, ce qui permet de se nourrir et de récupérer plus rapidement. Il stimule également la concentration psychique, améliorant la clarté mentale et les capacités psychiques. Cependant, lorsque les effets du breuvage commencent à s'estomper, ces améliorations s'inversent, entraînant une diminution de la capacité d'apprentissage, un ralentissement de l'alimentation et du repos, ainsi qu'une diminution de la concentration psychique.</VFEM2_FocusDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_FocusDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_FocusDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_FocusDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_FocusDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_FocusDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_FocusDraught.ingestible.ingestReportString>
+
+<!-- EN: healing draught -->
+<VFEM2_HealingDraught.label>breuvage de guérison</VFEM2_HealingDraught.label>
+<!-- EN: A vibrant red liquid. When the user drinks it, it greatly enhances their injury healing rate, speeding up the process of wound closure and tissue repair. This potion works by boosting the body’s natural healing mechanisms, making recovery from injuries much quicker. -->
+<VFEM2_HealingDraught.description>Un liquide rouge vif. Lorsque l'utilisateur le boit, il améliore considérablement son taux de guérison des blessures, accélérant le processus de fermeture des plaies et de réparation des tissus. Cette potion stimule les mécanismes naturels de guérison du corps, ce qui permet de se remettre plus rapidement d'une blessure.</VFEM2_HealingDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_HealingDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_HealingDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_HealingDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_HealingDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_HealingDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_HealingDraught.ingestible.ingestReportString>
+
+<!-- EN: immunization draught -->
+<VFEM2_ImmunizationDraught.label>breuvage immunitaire</VFEM2_ImmunizationDraught.label>
+<!-- EN: An amber-colored drink with tiny particles floating in it that bolsters the immune system of anyone that drinks it. While it helps them fight off sickness better, the downside is that it makes the user feel much more tired after drinking it, as well as overall makes the user get sleepy much faster than usual. The effects of the draught are strongest immediately after consumption, and then slowly fade away over the following days. -->
+<VFEM2_ImmunizationDraught.description>Une boisson ambrée dans laquelle flottent de minuscules particules qui renforcent le système immunitaire de quiconque la boit. Si elle permet de mieux lutter contre les maladies, l'inconvénient est que l'utilisateur se sent beaucoup plus fatigué après l'avoir bue et qu'il s'endort beaucoup plus vite que d'habitude. Les effets du breuvage sont les plus forts immédiatement après sa consommation, puis s'estompent lentement au cours des jours suivants.</VFEM2_ImmunizationDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_ImmunizationDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_ImmunizationDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_ImmunizationDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_ImmunizationDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_ImmunizationDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_ImmunizationDraught.ingestible.ingestReportString>
+
+<!-- EN: inspiration draught -->
+<VFEM2_InspirationDraught.label>breuvage d'inspiration</VFEM2_InspirationDraught.label>
+<!-- EN: A radiant, golden-colored liquid. When the user drinks it, it provides them with mental clarity, sharpening their focus specifically on acquiring new knowledge in areas they are passionate about. However, the draught comes at the cost of diminished combat capabilities, as the user's attention is diverted away from physical prowess and towards intellectual pursuits. -->
+<VFEM2_InspirationDraught.description>Un liquide radieux, de couleur dorée. Lorsque l'utilisateur le boit, il bénéficie d'une clarté mentale qui lui permet de se concentrer sur l'acquisition de nouvelles connaissances dans les domaines qui le passionnent. Cependant, ce breuvage diminue les capacités de combat, car l'attention de l'utilisateur est détournée des prouesses physiques au profit d'activités intellectuelles.</VFEM2_InspirationDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_InspirationDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_InspirationDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_InspirationDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_InspirationDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_InspirationDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_InspirationDraught.ingestible.ingestReportString>
+
+<!-- EN: painkiller draught -->
+<VFEM2_PainkillerDraught.label>breuvage d'antidouleur</VFEM2_PainkillerDraught.label>
+<!-- EN: A pale blue liquid known as Painkiller Draught. When the user drinks it, it effectively reduces their sensation of pain, providing relief from discomfort and injuries. However, the sedative components of the draught also diminish the user's productivity and focus, making it harder to concentrate and complete tasks efficiently. This makes it suitable for recovery periods but less ideal when active mental or physical effort is required. -->
+<VFEM2_PainkillerDraught.description>Un liquide bleu pâle connu sous le nom de breuvage d'antidouleur. Lorsque l'utilisateur le boit, il réduit efficacement sa sensation de douleur, ce qui le soulage de l'inconfort et des blessures. Cependant, les composants sédatifs du breuvage diminuent également la productivité et la concentration de l'utilisateur, ce qui l'empêche de se concentrer et d'accomplir ses tâches efficacement. Il convient donc aux périodes de récupération, mais n'est pas idéal lorsqu'un effort mental ou physique actif est nécessaire.</VFEM2_PainkillerDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_PainkillerDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_PainkillerDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_PainkillerDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_PainkillerDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_PainkillerDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_PainkillerDraught.ingestible.ingestReportString>
+
+<!-- EN: poison draught -->
+<VFEM2_PoisonDraught.label>breuvage de poison</VFEM2_PoisonDraught.label>
+<!-- EN: A dark, ominous green liquid. When consumed, it drastically reduces the user's consciousness, inducing a chemically forced coma. This state not only incapacitates the individual but also initiates a rapid decay of their organs. The effects of this draught are severe and irreversible, leading inevitably to death. -->
+<VFEM2_PoisonDraught.description>Un liquide vert sombre et inquiétant. Lorsqu'il est consommé, il réduit considérablement la conscience de l'utilisateur, provoquant un coma chimique forcé. Cet état ne se limite pas à l'incapacité de l'individu, mais déclenche également une décomposition rapide de ses organes. Les effets du breuvage sont graves et irréversibles, conduisant inévitablement à la mort.</VFEM2_PoisonDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_PoisonDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_PoisonDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_PoisonDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_PoisonDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_PoisonDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_PoisonDraught.ingestible.ingestReportString>
+
+<!-- EN: stoneskin draught -->
+<VFEM2_StoneskinDraught.label>breuvage blindant</VFEM2_StoneskinDraught.label>
+<!-- EN: A deep, slate-gray liquid. When the user drinks it, their skin undergoes a dramatic transformation, thickening and hardening to resemble a built-in suit of armor. The entire epidermis becomes tough enough to resist burns, while jointed exterior keratin plates form over the body, including the head and face, providing additional protection. This formidable physical shield makes it extremely difficult to inflict physical harm on the user. However, the appearance of the plates and hardened skin significantly reduces the user's physical attractiveness, impacting their social interactions. -->
+<VFEM2_StoneskinDraught.description>Un liquide gris ardoise profond. Lorsque l'utilisateur le boit, sa peau subit une transformation spectaculaire, s'épaississant et se durcissant pour ressembler à une armure intégrée. L'épiderme entier devient suffisamment solide pour résister aux brûlures, tandis que des plaques de kératine extérieures articulées se forment sur le corps, y compris sur la tête et le visage, offrant une protection supplémentaire. Grâce à ce formidable bouclier physique, il est extrêmement difficile d'infliger des blessures physiques à l'utilisateur. Cependant, l'apparence des plaques et de la peau durcie réduit considérablement l'attrait physique de l'utilisateur, ce qui a un impact sur ses interactions sociales.</VFEM2_StoneskinDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_StoneskinDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_StoneskinDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_StoneskinDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_StoneskinDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_StoneskinDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_StoneskinDraught.ingestible.ingestReportString>
+
+<!-- EN: strength draught -->
+<VFEM2_StrengthDraught.label>breuvage de force</VFEM2_StrengthDraught.label>
+<!-- EN: A bold, deep red liquid. When the user drinks it, it significantly increases their physical strength, giving them the power to perform feats they normally couldn't. However, the potion also raises the user's mental break threshold, making them more prone to psychological stress. Additionally, the intense surge of strength increases the likelihood of conflicts, leading to a higher chance of social fights. -->
+<VFEM2_StrengthDraught.description>Un liquide d'un rouge profond et audacieux. Lorsque l'utilisateur le boit, il augmente considérablement sa force physique, ce qui lui permet d'accomplir des exploits qu'il ne pourrait normalement pas réaliser. Cependant, la potion augmente également le seuil de crise de nerfs de l'utilisateur, ce qui le rend plus enclin à subir un stress psychologique. En outre, l'intense poussée de force augmente la probabilité de conflits, ce qui accroît le risque de bagarres sociales.</VFEM2_StrengthDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_StrengthDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_StrengthDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_StrengthDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_StrengthDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_StrengthDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_StrengthDraught.ingestible.ingestReportString>
+
+<!-- EN: torturer draught -->
+<VFEM2_TorturerDraught.label>breuvage de torture</VFEM2_TorturerDraught.label>
+<!-- EN: A dark, foreboding purple liquid. When the user drinks it, it induces severe pain, incapacitating them to the point where movement becomes impossible. For prisoners, this intense agony causes a rapid decline in their will to resist, breaking down any mental barriers they may have. In the case of slaves, the draught completely suppresses their spirit, leaving them entirely subdued. This potion is used with caution due to its extreme effects. -->
+<VFEM2_TorturerDraught.description>Un liquide violet sombre et inquiétant. Lorsque l'utilisateur le boit, il ressent une douleur intense qui le rend incapable de bouger. Pour les prisonniers, cette agonie intense provoque un déclin rapide de leur volonté de résister, brisant toutes les barrières mentales qu'ils peuvent avoir. Dans le cas des esclaves, le breuvage réprime complètement leur esprit, les laissant entièrement soumis. Cette potion est utilisée avec prudence en raison de ses effets extrêmes.</VFEM2_TorturerDraught.description>
+<!-- EN: Use {0_label} -->
+<VFEM2_TorturerDraught.comps.CompUsable.useLabel>Boire un {0_label}</VFEM2_TorturerDraught.comps.CompUsable.useLabel>
+<!-- EN: Ingest {0} -->
+<VFEM2_TorturerDraught.ingestible.ingestCommandString>Boire un {0}</VFEM2_TorturerDraught.ingestible.ingestCommandString>
+<!-- EN: Ingesting {0}. -->
+<VFEM2_TorturerDraught.ingestible.ingestReportString>Boit le {0}.</VFEM2_TorturerDraught.ingestible.ingestReportString>
+
+
+<!-- EN: sweetroll -->
+<VFEM2_Sweetroll.label>pain sucré</VFEM2_Sweetroll.label>
+<!-- EN: A baked treat made of an eggy bread base drizzled with a thick, sweetened glaze. Any trader selling these should be immediately concerned, as sweetrolls have a knack for being stolen. -->
+<VFEM2_Sweetroll.description>Une gourmandise faite d'une base de pain aux œufs, nappée d'un épais glaçage sucré. Tout commerçant qui en vend devrait s'inquiéter immédiatement, car les pains sucrés sont souvent volés.</VFEM2_Sweetroll.description>
+
+
+<!-- EN: grape must -->
+<VFEM2_Must.label>moût de raisin</VFEM2_Must.label>
+<!-- EN: Un-fermented wine. This substance needs to ferment in a wine barrel before it becomes drinkable wine. -->
+<VFEM2_Must.description>Vin non fermenté. Cette substance doit fermenter dans un tonneau de vin avant de pouvoir être bue.</VFEM2_Must.description>
+
+
+<!-- EN: raw honey -->
+<VFEM2_Honey.label>miel</VFEM2_Honey.label>
+<!-- EN: Raw, unprocessed honey harvested from an apiary, very sugary and fun to eat while also extremely long-lasting, perfect for taking on caravan trips, fermenting into mead, or baking into desserts. -->
+<VFEM2_Honey.description>Miel, non transformé, récolté dans une ruche, très sucré et agréable à manger, mais aussi très durable, parfait pour les voyages en caravane, pour la fermentation de l'hydromel ou pour la préparation de desserts.</VFEM2_Honey.description>
+
+
+<!-- EN: alocasia leaves -->
+<VFEM2_AlocasiaLeaves.label>feuilles d'alocasia</VFEM2_AlocasiaLeaves.label>
+<!-- EN: Extremely broad leaves of a plant that’s a commonly-recognized signifier of tropical forests. Alocasia leaves have been used by medieval civilizations in creation of different draughts. -->
+<VFEM2_AlocasiaLeaves.description>Feuilles extrêmement larges d'une plante qui est un symbole communément reconnu des forêts tropicales. Les feuilles d'alocasia ont été utilisées par les civilisations médiévales pour créer différents breuvages.</VFEM2_AlocasiaLeaves.description>
+
+<!-- EN: astragalus flowers -->
+<VFEM2_AstragalusFlowers.label>fleurs d'astragale</VFEM2_AstragalusFlowers.label>
+<!-- EN: Small perennial wildflowers that grow in alpine climates. Astragalus flowers have been used by medieval civilizations in creation of different draughts. -->
+<VFEM2_AstragalusFlowers.description>Petites fleurs sauvages vivaces qui poussent dans les climats alpins. Les fleurs d'astragale ont été utilisées par les civilisations médiévales pour créer différents breuvages.</VFEM2_AstragalusFlowers.description>
+
+<!-- EN: clivia petals -->
+<VFEM2_CliviaPetals.label>pétales de clivia</VFEM2_CliviaPetals.label>
+<!-- EN: Petals of an unusual plant with tall, pretty flowers, called ‘bush lily’ by some. Clivia petals have been used by medieval civilizations in creation of different draughts. -->
+<VFEM2_CliviaPetals.description>Pétales d'une plante inhabituelle aux fleurs hautes et jolies, appelée par certains "lis de brousse". Les pétales de clivia ont été utilisés par les civilisations médiévales pour créer différents breuvages.</VFEM2_CliviaPetals.description>
+
+<!-- EN: rafflesia petals -->
+<VFEM2_RafflesiaLeaves.label>pétales de rafflesia</VFEM2_RafflesiaLeaves.label>
+<!-- EN: Giant petals of the rafflesia flower. Smell like rotting flesh and are very likely to cause food poisoning when consumed raw. Rafflesia petals have been used by medieval civilizations in creation of different draughts. -->
+<VFEM2_RafflesiaLeaves.description>Pétales géants de la fleur de rafflesia. Ils sentent la chair en décomposition et sont très susceptibles de provoquer une intoxication alimentaire lorsqu'ils sont consommés crus. Les pétales de rafflesia ont été utilisés par les civilisations médiévales pour créer différents breuvages.</VFEM2_RafflesiaLeaves.description>
+
+<!-- EN: raw glowstool -->
+<VFEM2_RawGlowstool.label>pied-brillant cru</VFEM2_RawGlowstool.label>
+<!-- EN: Raw glowstool fungus obtained by harvesting glowstools growing in caves. Raw glowstool have been used by medieval civilizations in creation of different draughts. -->
+<VFEM2_RawGlowstool.description>Champignons crus obtenus par la récolte de pied-brillant poussant dans les grottes. Le pied-brillant cru a été utilisé par les civilisations médiévales dans la création de différents breuvages.</VFEM2_RawGlowstool.description>
+
+<!-- EN: grapes -->
+<VFEM2_RawGrapes.label>raisins</VFEM2_RawGrapes.label>
+<!-- EN: Raw grapes. Nice to eat, even when raw. Grapes can also be made into must which can then be used to make wine. -->
+<VFEM2_RawGrapes.description>Raisins crus. Agréable à manger, même cru. Le raisin peut également être transformé en moût, qui servira ensuite à produire du vin.</VFEM2_RawGrapes.description>
+
+
+<!-- EN: hardleather -->
+<VFEM2_HardLeather.label>cuir durci</VFEM2_HardLeather.label>
+<!-- EN: A hardened textile created from patchleather via the leather hardening process. It’s significantly harder and stronger than patchleather, but it’s still lacking in comparison to proper hard leather, such as rhinoceros or elephant hide. -->
+<VFEM2_HardLeather.description>Il s'agit d'un textile durci créé à partir de patchwork par le processus de durcissement du cuir. Il est nettement plus dur et plus résistant que le patchwork, mais il reste insuffisant par rapport au cuir dur véritable, comme la peau de rhinocéros ou d'éléphant.</VFEM2_HardLeather.description>
+
+
+<!-- EN: hardweave -->
+<VFEM2_Hardweave.label>tissu durci</VFEM2_Hardweave.label>
+<!-- EN: Woven from smokeleaf, hardweave, sometimes called canvas, has threads alternated over and under adjacent threads to create a strong and even surface. Whilst not as insulating as cloth, it’s much more resistant to damage. -->
+<VFEM2_Hardweave.description>Tissé à partir de feuilles de smokeleaf, le hardweave, parfois appelé toile, présente des fils alternés au-dessus et au-dessous des fils adjacents afin de créer une surface solide et régulière. Bien qu'il ne soit pas aussi isolant que le tissu, il est beaucoup plus résistant aux dommages.</VFEM2_Hardweave.description>
+
+<!-- EN: hayweave -->
+<VFEM2_Hayweave.label>tissefoin</VFEM2_Hayweave.label>
+<!-- EN: Made from woven haygrass, hayweave is a coarse and rough material, often used in desperate times for crafting rudimentary items. It provides minimal insulation and durability, making it a poor substitute for cloth, but it’s readily available and easy to produce. -->
+<VFEM2_Hayweave.description>Fabriquée à partir d'herbe à foin tressée, le tissefoin est un matériau grossier et rugueux, souvent utilisé dans les moments de désespoir pour fabriquer des objets rudimentaires. Il n'offre qu'une isolation et une solidité minimales, ce qui en fait un piètre substitut au tissu, mais il est facilement disponible et facile à produire.</VFEM2_Hayweave.description>
+
+
+<!-- EN: unfinished apparel -->
+<VFEM2_UnfinishedApparelNoStuff.label>vêtement inachevé</VFEM2_UnfinishedApparelNoStuff.label>
+<!-- EN: An unfinished piece of an apparel. -->
+<VFEM2_UnfinishedApparelNoStuff.description>Une pièce inachevée d'un vêtement.</VFEM2_UnfinishedApparelNoStuff.description>
+
+
+<!-- EN: claymore -->
+<VFEM2_MeleeWeapon_Claymore.label>claymore</VFEM2_MeleeWeapon_Claymore.label>
+<!-- EN: A brutal, ancient weapon of heavy knights, the claymore can be used cleave through enemies with ease.\n\nThis weapon has a chance to deal a critical strike, stunning the opponent. -->
+<VFEM2_MeleeWeapon_Claymore.description>Ancienne arme brutale des chevaliers lourds, la claymore peut être utilisée pour fendre les ennemis avec facilité.\n\nCette arme a une chance d'infliger un coup critique, ce qui étourdit l'adversaire.</VFEM2_MeleeWeapon_Claymore.description>
+<!-- EN: handle -->
+<VFEM2_MeleeWeapon_Claymore.tools.handle.label>poignée</VFEM2_MeleeWeapon_Claymore.tools.handle.label>
+<!-- EN: point -->
+<VFEM2_MeleeWeapon_Claymore.tools.point.label>pointe</VFEM2_MeleeWeapon_Claymore.tools.point.label>
+<!-- EN: edge -->
+<VFEM2_MeleeWeapon_Claymore.tools.edge.label>tranchant</VFEM2_MeleeWeapon_Claymore.tools.edge.label>
+
+<!-- EN: dane axe -->
+<VFEM2_MeleeWeapon_DaneAxe.label>hache danoise</VFEM2_MeleeWeapon_DaneAxe.label>
+<!-- EN: A mighty weapon on the battlefield in the right kind of hands. Made to cut through flesh and bones alike. The axe edge extends into what's called horns, ideal for cutting through light armor and flesh alike.\n\nThis weapon has a chance to deal a critical strike, stunning the opponent. -->
+<VFEM2_MeleeWeapon_DaneAxe.description>Une arme puissante sur le champ de bataille entre de bonnes mains. Faite pour couper la chair et les os. Le tranchant de la hache se prolonge par ce qu'on appelle des cornes, idéales pour couper les armures légères et la chair.\n\nCette arme a une chance d'infliger un coup critique, ce qui étourdit l'adversaire.</VFEM2_MeleeWeapon_DaneAxe.description>
+<!-- EN: handle -->
+<VFEM2_MeleeWeapon_DaneAxe.tools.handle.label>manche</VFEM2_MeleeWeapon_DaneAxe.tools.handle.label>
+<!-- EN: edge -->
+<VFEM2_MeleeWeapon_DaneAxe.tools.edge.label>tranchant</VFEM2_MeleeWeapon_DaneAxe.tools.edge.label>
+
+<!-- EN: flail -->
+<VFEM2_MeleeWeapon_Flail.label>fléau</VFEM2_MeleeWeapon_Flail.label>
+<!-- EN: A refined mace, with a spiked head connected to the handle with a chain, engineered for efficient swinging and deadly impacts. The randomness of the chain movement means that damage may fluctuate greatly. -->
+<VFEM2_MeleeWeapon_Flail.description>Une masse raffinée, avec une tête à pointes reliée au manche par une chaîne, conçue pour un balancement efficace et des impacts mortels. Le caractère aléatoire du mouvement de la chaîne fait que les dégâts peuvent varier considérablement.</VFEM2_MeleeWeapon_Flail.description>
+<!-- EN: handle -->
+<VFEM2_MeleeWeapon_Flail.tools.handle.label>poignée</VFEM2_MeleeWeapon_Flail.tools.handle.label>
+<!-- EN: head -->
+<VFEM2_MeleeWeapon_Flail.tools.head.label>tête</VFEM2_MeleeWeapon_Flail.tools.head.label>
+
+<!-- EN: halberd -->
+<VFEM2_MeleeWeapon_Halberd.label>hallebarde</VFEM2_MeleeWeapon_Halberd.label>
+<!-- EN: A long, unwieldy polearm with a sharp edge and a sharp point. The simple, ancient design concentrates cutting power generated from strong overhead swings. The reach of the halberd allows to strike enemies much further away. -->
+<VFEM2_MeleeWeapon_Halberd.description>Arme longue et peu maniable, dotée d'un tranchant et d'une pointe acérés. Sa conception simple et ancienne concentre la puissance de coupe générée par les coups puissants portés au-dessus de la tête. La portée de la hallebarde permet de frapper les ennemis à une distance bien plus grande.</VFEM2_MeleeWeapon_Halberd.description>
+<!-- EN: shaft -->
+<VFEM2_MeleeWeapon_Halberd.tools.shaft-0.label>manche</VFEM2_MeleeWeapon_Halberd.tools.shaft-0.label>
+<!-- EN: shaft -->
+<VFEM2_MeleeWeapon_Halberd.tools.shaft-1.label>manche</VFEM2_MeleeWeapon_Halberd.tools.shaft-1.label>
+<!-- EN: point -->
+<VFEM2_MeleeWeapon_Halberd.tools.point.label>pointe</VFEM2_MeleeWeapon_Halberd.tools.point.label>
+<!-- EN: edge -->
+<VFEM2_MeleeWeapon_Halberd.tools.edge.label>tranchant</VFEM2_MeleeWeapon_Halberd.tools.edge.label>
+
+<!-- EN: heavy mace -->
+<VFEM2_MeleeWeapon_HeavyMace.label>étoile du matin</VFEM2_MeleeWeapon_HeavyMace.label>
+<!-- EN: A heavy mace consisting of a shaft and a heavy ball adorned with spikes. Very effective at piercing plate armor, this weapon is often used by more vicious knights and mercenaries. -->
+<VFEM2_MeleeWeapon_HeavyMace.description>Une masse lourde composée d'un manche et d'une lourde boule ornée de pointes. Très efficace pour percer les armures de plaques, cette arme est souvent utilisée par les chevaliers et les mercenaires les plus vicieux.</VFEM2_MeleeWeapon_HeavyMace.description>
+<!-- EN: handle -->
+<VFEM2_MeleeWeapon_HeavyMace.tools.handle.label>manche</VFEM2_MeleeWeapon_HeavyMace.tools.handle.label>
+<!-- EN: head -->
+<VFEM2_MeleeWeapon_HeavyMace.tools.head.label>tête</VFEM2_MeleeWeapon_HeavyMace.tools.head.label>
+
+<!-- EN: pike -->
+<VFEM2_MeleeWeapon_Pike.label>pique</VFEM2_MeleeWeapon_Pike.label>
+<!-- EN: A long, unwieldy polearm tipped with a sharp point for stabbing opponents. The reach of the pike allows to strike enemies much further away. -->
+<VFEM2_MeleeWeapon_Pike.description>Arme longue et difficile à manier, munie d'une pointe acérée pour poignarder les adversaires. La portée de la pique permet de frapper les ennemis à une distance bien plus grande.</VFEM2_MeleeWeapon_Pike.description>
+<!-- EN: shaft -->
+<VFEM2_MeleeWeapon_Pike.tools.shaft-0.label>manche</VFEM2_MeleeWeapon_Pike.tools.shaft-0.label>
+<!-- EN: shaft -->
+<VFEM2_MeleeWeapon_Pike.tools.shaft-1.label>manche</VFEM2_MeleeWeapon_Pike.tools.shaft-1.label>
+<!-- EN: point -->
+<VFEM2_MeleeWeapon_Pike.tools.point.label>pointe</VFEM2_MeleeWeapon_Pike.tools.point.label>
+
+<!-- EN: shortsword -->
+<VFEM2_MeleeWeapon_Shortsword.label>épée courte</VFEM2_MeleeWeapon_Shortsword.label>
+<!-- EN: A versatile and compact blade designed for both thrusting and slashing. Its nimble design makes it effective in close-quarters combat, where quick strikes can overwhelm slower foes. -->
+<VFEM2_MeleeWeapon_Shortsword.description>Une lame polyvalente et compacte conçue pour les coups et les entailles. Sa conception agile la rend efficace dans les combats rapprochés, où les coups rapides peuvent écraser les ennemis plus lents.</VFEM2_MeleeWeapon_Shortsword.description>
+<!-- EN: handle -->
+<VFEM2_MeleeWeapon_Shortsword.tools.handle.label>poignée</VFEM2_MeleeWeapon_Shortsword.tools.handle.label>
+<!-- EN: point -->
+<VFEM2_MeleeWeapon_Shortsword.tools.point.label>pointe</VFEM2_MeleeWeapon_Shortsword.tools.point.label>
+<!-- EN: edge -->
+<VFEM2_MeleeWeapon_Shortsword.tools.edge.label>tranchant</VFEM2_MeleeWeapon_Shortsword.tools.edge.label>
+
+<!-- EN: heraldic standard -->
+<VFEM2_MeleeWeapon_Standard.label>étendard héraldique</VFEM2_MeleeWeapon_Standard.label>
+<!-- EN: A long wooden pole adorned with a flag bearing the heraldry of its bearer. While it inspires unity and bolsters morale as a rallying point for soldiers, the standard itself is poorly suited for combat, offering little in terms of offense or defense. -->
+<VFEM2_MeleeWeapon_Standard.description>Un long poteau en bois orné d'un drapeau portant les armoiries de son porteur. Bien qu'il inspire l'unité et soutienne le moral des soldats en tant que point de ralliement, l'étendard lui-même est mal adapté au combat et n'offre que peu d'avantages en termes d'attaque ou de défense.</VFEM2_MeleeWeapon_Standard.description>
+<!-- EN: Can’t use Rally: No enemies on the map. -->
+<VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>Impossible de l'activer, aucun ennemi sur la carte.</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>
+<!-- EN: Already using Rally. -->
+<VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>Déjà en cours d'utilisation.</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>
+<!-- EN: Create an aura that rallies everyone nearby, stopping their mental breaks and preventing them from breaking again. The effect lasts 12 hours and remains attached to the standard-bearer for the duration. -->
+<VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>Crée une aura qui rassemble tous ceux qui se trouvent à proximité, stoppant leurs crises de nerfs et en les empêchant dans refaire une. L'effet dure 12 heures et reste attaché au porte-étendard pendant toute la durée de l'effet.</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>
+<!-- EN: shaft -->
+<VFEM2_MeleeWeapon_Standard.tools.shaft-0.label>manche</VFEM2_MeleeWeapon_Standard.tools.shaft-0.label>
+<!-- EN: shaft -->
+<VFEM2_MeleeWeapon_Standard.tools.shaft-1.label>manche</VFEM2_MeleeWeapon_Standard.tools.shaft-1.label>
+
+
+<!-- EN: grape plant -->
+<VFEM2_Plant_Grape.label>vigne</VFEM2_Plant_Grape.label>
+<!-- EN: A medium-sized vine that yields grapes when harvested - an essential ingredient in the production of wine that also tastes nice when eaten raw. Takes a long time to initially grow but can be harvested repeatedly in a single lifespan. -->
+<VFEM2_Plant_Grape.description>Vigne de taille moyenne qui produit des raisins lorsqu'elle est récoltée - un ingrédient essentiel dans la production de vin qui a également un goût agréable lorsqu'il est mangé cru. Sa croissance initiale est longue, mais elle peut être récoltée à plusieurs reprises au cours d'une seule vie.</VFEM2_Plant_Grape.description>
+
+
+<!-- EN: arbalest -->
+<VFEM2_Arbalest.label>arbalète</VFEM2_Arbalest.label>
+<!-- EN: A powerful crossbow. Fires a heavy bolt over extreme distances, but takes a long time to cock it due to the need to use the cranequin. -->
+<VFEM2_Arbalest.description>Une arbalète puissante. Elle tire un carreau lourd sur des distances extrêmes, mais il faut beaucoup de temps pour l'armer en raison de la nécessité d'utiliser le cranequin.</VFEM2_Arbalest.description>
+<!-- EN: limb -->
+<VFEM2_Arbalest.tools.limb.label>branche</VFEM2_Arbalest.tools.limb.label>
+<!-- EN: arbalest -->
+<VFEM2_Arbalest.verbs.Verb_Shoot.label>arbalète</VFEM2_Arbalest.verbs.Verb_Shoot.label>
+
+<!-- EN: warbow arrow -->
+<VFEM2_Arrow_Warbow.label>flèche d'arc de guerre</VFEM2_Arrow_Warbow.label>
+
+<!-- EN: arbalest bolt -->
+<VFEM2_Bolt_Arbalest.label>carreau d'arbalete</VFEM2_Bolt_Arbalest.label>
+
+<!-- EN: arquebus grapeshot -->
+<VFEM2_Bullet_Arquebus.label>bille d'arquebuse</VFEM2_Bullet_Arquebus.label>
+
+<!-- EN: handcannon grapeshot -->
+<VFEM2_Bullet_HandCannon.label>bille de canon à main</VFEM2_Bullet_HandCannon.label>
+
+<!-- EN: arquebus -->
+<VFEM2_Gun_Arquebus.label>arquebuse</VFEM2_Gun_Arquebus.label>
+<!-- EN: An ancient firearm with a smoothbore barrel, the arquebus delivers powerful shots at decent range. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+<VFEM2_Gun_Arquebus.description>Ancienne arme à feu à canon lisse, l'arquebuse permet de tirer des coups puissants à bonne distance. Les billes de plomb perdent de la vitesse et des dégâts avec la distance, et sont extrêmement inefficaces contre les armures. En raison de la réaction de la poudre noire lors de la mise à feu de l'arquebuse, un nuage de fumée est évacué du canon.</VFEM2_Gun_Arquebus.description>
+<!-- EN: stock -->
+<VFEM2_Gun_Arquebus.tools.stock.label>crosse</VFEM2_Gun_Arquebus.tools.stock.label>
+<!-- EN: barrel -->
+<VFEM2_Gun_Arquebus.tools.barrel.label>canon</VFEM2_Gun_Arquebus.tools.barrel.label>
+<!-- EN: arquebus -->
+<VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>arquebuse</VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>
+
+<!-- EN: hand cannon -->
+<VFEM2_Gun_HandCannon.label>canon à main</VFEM2_Gun_HandCannon.label>
+<!-- EN: An ancient crude but deadly firearm, the hand cannon fires a devastating grapeshot over a short distance. The lead balls lose velocity and damage with distance, and are extremely ineffective against armor. Due to the chempowder reaction when firing the arquebus, plumes of blindsmoke are ejected from the barrel. -->
+<VFEM2_Gun_HandCannon.description>Ancienne arme à feu rudimentaire mais mortelle, le canon à main tire une mitraille dévastatrice sur une courte distance. Les billes de plomb perdent de la vitesse et des dégâts avec la distance, et sont extrêmement inefficaces contre les armures. En raison de la réaction de la poudre noire lors de la mise à feu du canon à main, un nuage de fumée est évacué du canon.</VFEM2_Gun_HandCannon.description>
+<!-- EN: stock -->
+<VFEM2_Gun_HandCannon.tools.stock.label>crosse</VFEM2_Gun_HandCannon.tools.stock.label>
+<!-- EN: barrel -->
+<VFEM2_Gun_HandCannon.tools.barrel.label>canon</VFEM2_Gun_HandCannon.tools.barrel.label>
+<!-- EN: hand cannon -->
+<VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>canon à main</VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>
+
+<!-- EN: throwing axe -->
+<VFEM2_ThrowingAxe.label>hache de lancer</VFEM2_ThrowingAxe.label>
+<!-- EN: A single-handed axe made for throwing. Light enough to be thrown accurately at medium range, it's also a great melee weapon in the hands of a capable warrior. -->
+<VFEM2_ThrowingAxe.description>Une hache à une main conçue pour le lancer. Suffisamment légère pour être lancée avec précision à moyenne distance, c'est aussi une excellente arme de mêlée dans les mains d'un guerrier compétent.</VFEM2_ThrowingAxe.description>
+<!-- EN: handle -->
+<VFEM2_ThrowingAxe.tools.handle.label>poignée</VFEM2_ThrowingAxe.tools.handle.label>
+<!-- EN: blade -->
+<VFEM2_ThrowingAxe.tools.blade.label>lame</VFEM2_ThrowingAxe.tools.blade.label>
+<!-- EN: throwing axe -->
+<VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>hache de lancer</VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>
+
+<!-- EN: warbow -->
+<VFEM2_Warbow.label>arc de guerre</VFEM2_Warbow.label>
+<!-- EN: A powerful, long variant of the greatbow. While it doesn’t excel at hitting nearby enemies, arrows fired from the warbow curve over walls and can be fired without requiring line of sight. -->
+<VFEM2_Warbow.description>Une variante puissante et longue du grand arc. Bien qu'il n'excelle pas à toucher les ennemis proches, les flèches tirées de l'arc de guerre se courbent au-dessus des murs et peuvent être tirées sans qu'il soit nécessaire d'avoir une ligne de mire.</VFEM2_Warbow.description>
+<!-- EN: limb -->
+<VFEM2_Warbow.tools.limb.label>branche</VFEM2_Warbow.tools.limb.label>
+<!-- EN: warbow -->
+<VFEM2_Warbow.verbs.Verb_Shoot.label>arc de guerre</VFEM2_Warbow.verbs.Verb_Shoot.label>
+
+<!-- EN: thrown axe -->
+<VFEM2V_ThrowingAxe_Thrown.label>hache lancée</VFEM2V_ThrowingAxe_Thrown.label>
+
+
+<!-- EN: Mote -->
+<VFEM2_RunePillar.label>Mote</VFEM2_RunePillar.label>
+
+
+<!-- EN: heater shield -->
+<VFEM2_Shield_Heater.label>écu</VFEM2_Shield_Heater.label>
+<!-- EN: A heavy medium-sized steel shield. Offers a significant amount of protection against melee and ranged attacks. -->
+<VFEM2_Shield_Heater.description>Bouclier en acier lourd de taille moyenne. Il offre une protection importante contre les attaques en mêlée et à distance.</VFEM2_Shield_Heater.description>
+<!-- EN: base -->
+<VFEM2_Shield_Heater.tools.base.label>base</VFEM2_Shield_Heater.tools.base.label>
+<!-- EN: centre -->
+<VFEM2_Shield_Heater.tools.centre.label>centre</VFEM2_Shield_Heater.tools.centre.label>
+
+<!-- EN: round shield -->
+<VFEM2_Shield_Round.label>bouclier rond</VFEM2_Shield_Round.label>
+<!-- EN: A wooden shield held together with a metal band. A leather strap and metal handle are also present on the back to allow for easy one-handed maneuvering during combat. -->
+<VFEM2_Shield_Round.description>Bouclier en bois maintenu par une bande de métal. Une lanière de cuir et une poignée de métal sont également présentes dans le dos pour faciliter les manœuvres à une main pendant le combat.</VFEM2_Shield_Round.description>
+<!-- EN: base -->
+<VFEM2_Shield_Round.tools.base.label>base</VFEM2_Shield_Round.tools.base.label>
+<!-- EN: centre -->
+<VFEM2_Shield_Round.tools.centre.label>centre</VFEM2_Shield_Round.tools.centre.label>
+
+
+</LanguageData>

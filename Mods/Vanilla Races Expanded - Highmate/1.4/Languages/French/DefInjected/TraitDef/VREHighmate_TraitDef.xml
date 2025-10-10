@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_Flirty.degreeDatas.flirty.label>flirt</VRE_Flirty.degreeDatas.flirty.label>
+<VRE_Flirty.degreeDatas.flirty.description>{PAWN_nameDef} est toujours prêt{PAWN_gender ? : e } à faire un commentaire charmant ou un compliment plaisant, ce qui remonte le moral de ceux qui l'entourent. {PAWN_pronoun} a le don de faire en sorte que les autres se sentent spéciaux et désirés, mais cela peut parfois conduire à des situations compliquées lorsque ses intentions ludiques sont mal interprétées.</VRE_Flirty.degreeDatas.flirty.description>
+
+<VRE_Distressed.degreeDatas.distressed.label>bouleversé</VRE_Distressed.degreeDatas.distressed.label>
+<VRE_Distressed.degreeDatas.distressed.labelFemale>bouleversée</VRE_Distressed.degreeDatas.distressed.labelFemale>
+<VRE_Distressed.degreeDatas.distressed.description>{PAWN_nameDef} est exceptionnellement empathique et sensible à la souffrance des autres. Chaque fois qu'{PAWN_pronoun} est témoin d'une souffrance ou d'une épreuve, cela l'affecte profondément et les souvenirs de ces événements l{PAWN_gender ? e : a } hantent pendant très longtemps.</VRE_Distressed.degreeDatas.distressed.description>
+
+
+</LanguageData>

@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Ghouls join -->
+<VSEWW_GhoulExcellent.label>Goule vous rejoint</VSEWW_GhoulExcellent.label>
+<!-- EN: A group of 5 ghouls joins the colony -->
+<VSEWW_GhoulExcellent.description>Un groupe de 5 goules rejoint la colonie.</VSEWW_GhoulExcellent.description>
+
+<!-- EN: Ghoul joins -->
+<VSEWW_GhoulNormal.label>Goule vous rejoint</VSEWW_GhoulNormal.label>
+<!-- EN: A single ghoul joins the colony -->
+<VSEWW_GhoulNormal.description>Une seule goule rejoint la colonie.</VSEWW_GhoulNormal.description>
+
+<!-- EN: Serum drop -->
+<VSEWW_SerumsExcellent.label>Capsule de sérum</VSEWW_SerumsExcellent.label>
+<!-- EN: Receive 10 random serums -->
+<VSEWW_SerumsExcellent.description>Recevez 10 sérums aléatoires.</VSEWW_SerumsExcellent.description>
+
+<!-- EN: Serum drop -->
+<VSEWW_SerumsGood.label>Capsule de sérum</VSEWW_SerumsGood.label>
+<!-- EN: Receive 5 random serums -->
+<VSEWW_SerumsGood.description>Recevez 5 sérums aléatoires.</VSEWW_SerumsGood.description>
+
+<!-- EN: Shamblers join -->
+<VSEWW_ShamblersExcellent.label>Zombie vous rejoint</VSEWW_ShamblersExcellent.label>
+<!-- EN: A horde of 30 shamblers joins the colony -->
+<VSEWW_ShamblersExcellent.description>Une horde de 30 zombies rejoint la colonie.</VSEWW_ShamblersExcellent.description>
+
+<!-- EN: Shamblers join -->
+<VSEWW_ShamblersNormal.label>Zombie vous rejoint</VSEWW_ShamblersNormal.label>
+<!-- EN: A horde of 10 shamblers joins the colony -->
+<VSEWW_ShamblersNormal.description>Une horde de 10 zombies rejoint la colonie.</VSEWW_ShamblersNormal.description>
+
+<!-- EN: Shard artifacts drop -->
+<VSEWW_ShardArtifactsDropExcellent.label>Capsule artefacts de fragment</VSEWW_ShardArtifactsDropExcellent.label>
+<!-- EN: Receive 7 random shard artifact items -->
+<VSEWW_ShardArtifactsDropExcellent.description>Recevez 7 objets artefacts fragments aléatoires.</VSEWW_ShardArtifactsDropExcellent.description>
+
+<!-- EN: Shard artifacts drop -->
+<VSEWW_ShardArtifactsDropGood.label>Capsule artefacts de fragment</VSEWW_ShardArtifactsDropGood.label>
+<!-- EN: Receive 4 random shard artifact items -->
+<VSEWW_ShardArtifactsDropGood.description>Recevez 4 objets artefacts fragments aléatoires.</VSEWW_ShardArtifactsDropGood.description>
+
+<!-- EN: Shard drop -->
+<VSEWW_ShardExcellent.label>Capsule de fragment</VSEWW_ShardExcellent.label>
+<!-- EN: Receive five scavenged fragments of dark archotechnology -->
+<VSEWW_ShardExcellent.description>Recevez 5 fragments d'archotechnologie occulte.</VSEWW_ShardExcellent.description>
+
+<!-- EN: Shard drop -->
+<VSEWW_ShardNormal.label>Capsule de fragment</VSEWW_ShardNormal.label>
+<!-- EN: Receive a single scavenged fragment of dark archotechnology -->
+<VSEWW_ShardNormal.description>Recevez un seul fragment d'archotechnologie occulte.</VSEWW_ShardNormal.description>
+
+
+<!-- EN: Mechanoids drop -->
+<VSEWW_FriendlyMechanoidsExcellent.label>Capsule de mécanoïde</VSEWW_FriendlyMechanoidsExcellent.label>
+<!-- EN: Receive a centipede burner, a centipede blaster and a tesseron -->
+<VSEWW_FriendlyMechanoidsExcellent.description>Recevez un centipède incendiaire, un centipède blaster et un tesseron.</VSEWW_FriendlyMechanoidsExcellent.description>
+
+<!-- EN: Mechanoids drop -->
+<VSEWW_FriendlyMechanoidsGood.label>Capsule de mécanoïde</VSEWW_FriendlyMechanoidsGood.label>
+<!-- EN: Receive a lancer, a scyther and a scorcher -->
+<VSEWW_FriendlyMechanoidsGood.description>Recevez un lancier, un faucheur et une fournaise.</VSEWW_FriendlyMechanoidsGood.description>
+
+<!-- EN: Mechanoids drop -->
+<VSEWW_FriendlyMechanoidsLegendary.label>Capsule de mécanoïde</VSEWW_FriendlyMechanoidsLegendary.label>
+<!-- EN: Receive 2 centipede blasters, 5 militors, a centurion and a diabolus -->
+<VSEWW_FriendlyMechanoidsLegendary.description>Recevez 2 centipèdes blaster, 5 militoïdes, 1 centurion et 1 diabolus.</VSEWW_FriendlyMechanoidsLegendary.description>
+
+<!-- EN: Mechanoids drop -->
+<VSEWW_FriendlyMechanoidsNormal.label>Capsule de mécanoïde</VSEWW_FriendlyMechanoidsNormal.label>
+<!-- EN: Receive 3 militors -->
+<VSEWW_FriendlyMechanoidsNormal.description>Recevez 3 militoïdes.</VSEWW_FriendlyMechanoidsNormal.description>
+
+<!-- EN: Mechanoids drop -->
+<VSEWW_FriendlyMechanoidsPoor.label>Capsule de mécanoïde</VSEWW_FriendlyMechanoidsPoor.label>
+<!-- EN: Receive a militor -->
+<VSEWW_FriendlyMechanoidsPoor.description>Recevez un seul militoïde.</VSEWW_FriendlyMechanoidsPoor.description>
+
+<!-- EN: Genetics drop -->
+<VSEWW_GeneticsExcellent.label>Capsule génétique</VSEWW_GeneticsExcellent.label>
+<!-- EN: Receive 7 random genepacks, an archite capsule and three gene banks -->
+<VSEWW_GeneticsExcellent.description>Recevez 7 packs de gènes aléatoires, 1 capsule d'archites et 3 banques de gènes.</VSEWW_GeneticsExcellent.description>
+
+<!-- EN: Genetics drop -->
+<VSEWW_GeneticsGood.label>Capsule génétique</VSEWW_GeneticsGood.label>
+<!-- EN: Receive 5 random genepacks -->
+<VSEWW_GeneticsGood.description>Recevez 5 packs de gènes aléatoires.</VSEWW_GeneticsGood.description>
+
+<!-- EN: Genetics drop -->
+<VSEWW_GeneticsLegendary.label>Capsule génétique</VSEWW_GeneticsLegendary.label>
+<!-- EN: Receive 20 random genepacks, 10 archite capsules and 10 gene banks -->
+<VSEWW_GeneticsLegendary.description>Recevez 20 packs de gènes aléatoires, 10 capsules d'archites et 10 banques de gènes.</VSEWW_GeneticsLegendary.description>
+
+<!-- EN: Genetics drop -->
+<VSEWW_GeneticsNormal.label>Capsule génétique</VSEWW_GeneticsNormal.label>
+<!-- EN: Receive 3 random genepacks -->
+<VSEWW_GeneticsNormal.description>Recevez 3 packs de gènes aléatoires.</VSEWW_GeneticsNormal.description>
+
+<!-- EN: Mechanitor drop -->
+<VSEWW_MechanitorExcellent.label>Capsule méchanitor</VSEWW_MechanitorExcellent.label>
+<!-- EN: Receive five random subcores, two random mech chips, three random mechanitor implants and an assortment of mech boosters -->
+<VSEWW_MechanitorExcellent.description>Recevez 5 sous-noyaux aléatoires, 2 puces mécanoïdes aléatoires, 3 implants de méchanitor aléatoires et un assortiment de boosters mechs.</VSEWW_MechanitorExcellent.description>
+
+<!-- EN: Mechanitor drop -->
+<VSEWW_MechanitorGood.label>Capsule méchanitor</VSEWW_MechanitorGood.label>
+<!-- EN: Receive five random subcores, a random mech chip and a mech booster -->
+<VSEWW_MechanitorGood.description>Recevez 5 sous-noyaux aléatoires, 1 puce mécanoïde aléatoire et 1 booster mech.</VSEWW_MechanitorGood.description>
+
+<!-- EN: Mechanitor drop -->
+<VSEWW_MechanitorLegendary.label>Capsule méchanitor</VSEWW_MechanitorLegendary.label>
+<!-- EN: Receive ten random subcores, five random mech chips, five random mechanitor implants and an assortment of mech boosters -->
+<VSEWW_MechanitorLegendary.description>Recevez 10 sous-noyaux aléatoires, 5 puces mécanoïdes aléatoires, 5 implants de méchanitor aléatoires et un assortiment de boosters mechs.</VSEWW_MechanitorLegendary.description>
+
+<!-- EN: Mechanitor drop -->
+<VSEWW_MechanitorNormal.label>Capsule méchanitor</VSEWW_MechanitorNormal.label>
+<!-- EN: Receive three random subcores and a random mech chip -->
+<VSEWW_MechanitorNormal.description>Recevez 3 sous-noyaux aléatoires et 1 puce mécanoïde aléatoire.</VSEWW_MechanitorNormal.description>
+
+<!-- EN: Sanguophage joins -->
+<VSEWW_RandomSanguophage_Excellent.label>Sanguophage vous rejoint</VSEWW_RandomSanguophage_Excellent.label>
+<!-- EN: A single sanguophage worth a minimum of 225 combat points joins the colony -->
+<VSEWW_RandomSanguophage_Excellent.description>Un seul sanguophage valant un minimum de 225 points de combat rejoint la colonie.</VSEWW_RandomSanguophage_Excellent.description>
+
+<!-- EN: Sanguophages join -->
+<VSEWW_RandomSanguophage_Legendary.label>Sanguophage vous rejoint</VSEWW_RandomSanguophage_Legendary.label>
+<!-- EN: Three sanguophages worth a minimum of 250 combat points join the colony -->
+<VSEWW_RandomSanguophage_Legendary.description>Trois sanguophages valant au minimum 250 points de combat rejoignent la colonie.</VSEWW_RandomSanguophage_Legendary.description>
+
+<!-- EN: Xenohumans join -->
+<VSEWW_RandomXenotypeJoins_Excellent.label>Xénohumain vous rejoint</VSEWW_RandomXenotypeJoins_Excellent.label>
+<!-- EN: A group of 5 xenohumans worth a minimum of 175 combat points joins the colony -->
+<VSEWW_RandomXenotypeJoins_Excellent.description>Un groupe de 5 xénohumains valant un minimum de 175 points de combat rejoint la colonie.</VSEWW_RandomXenotypeJoins_Excellent.description>
+
+<!-- EN: Xenohumans join -->
+<VSEWW_RandomXenotypeJoins_Good.label>Xénohumain vous rejoint</VSEWW_RandomXenotypeJoins_Good.label>
+<!-- EN: A group of 3 xenohumans worth a minimum 100 and up to 175 combat points joins the colony -->
+<VSEWW_RandomXenotypeJoins_Good.description>Un groupe de 3 xénohumains valant un minimum de 100 et jusqu'à 175 points de combat rejoint la colonie.</VSEWW_RandomXenotypeJoins_Good.description>
+
+<!-- EN: Xenohumans join -->
+<VSEWW_RandomXenotypeJoins_Legendary.label>Xénohumain vous rejoint</VSEWW_RandomXenotypeJoins_Legendary.label>
+<!-- EN: A group of 5 mercenary xenohuman colonists join -->
+<VSEWW_RandomXenotypeJoins_Legendary.description>Un groupe de 5 colons mercenaires xénohumains rejoint la colonie.</VSEWW_RandomXenotypeJoins_Legendary.description>
+
+<!-- EN: Xenohuman joins -->
+<VSEWW_RandomXenotypeJoins_Normal.label>Xénohumain vous rejoint</VSEWW_RandomXenotypeJoins_Normal.label>
+<!-- EN: A single xenohuman worth minimum 50 and up to 125 Combat points joins the colony -->
+<VSEWW_RandomXenotypeJoins_Normal.description>Un seul xénohumain valant un minimum de 50 et un maximum de 125 points de combat rejoint la colonie.</VSEWW_RandomXenotypeJoins_Normal.description>
+
+<!-- EN: Xenohuman joins -->
+<VSEWW_RandomXenotypeJoins_Poor.label>Xénohumain vous rejoint</VSEWW_RandomXenotypeJoins_Poor.label>
+<!-- EN: A single xenohuman worth up to 50 combat points joins the colony -->
+<VSEWW_RandomXenotypeJoins_Poor.description>Un seul xénohumain valant jusqu'à 50 points de combat rejoint la colonie.</VSEWW_RandomXenotypeJoins_Poor.description>
+
+
+<!-- EN: Delay next wave -->
+<VSEWW_DelayBy15.label>Retarder la prochaine vague</VSEWW_DelayBy15.label>
+<!-- EN: The next wave is delayed by 15 days -->
+<VSEWW_DelayBy15.description>La prochaine vague est retardée de 15 jours.</VSEWW_DelayBy15.description>
+
+<!-- EN: Archotech artifacts drop -->
+<VSEWW_ExcellentArchotechArtifactsDrop.label>Capsule artefacts d'Archotech</VSEWW_ExcellentArchotechArtifactsDrop.label>
+<!-- EN: Receive 8 random archotech items (can be uninstalled structures) -->
+<VSEWW_ExcellentArchotechArtifactsDrop.description>Recevez 8 objets archotech aléatoires (peuvent être des structures minifier).</VSEWW_ExcellentArchotechArtifactsDrop.description>
+
+<!-- EN: Excellent armor drop -->
+<VSEWW_ExcellentArmorDrop.label>Capsule d'armure (excellent)</VSEWW_ExcellentArmorDrop.label>
+<!-- EN: Cargo pods drop 5 random pieces of armor, quality is Excellent -->
+<VSEWW_ExcellentArmorDrop.description>Les capsules de largages contiennent 5 armure aléatoires, de qualité excellente.</VSEWW_ExcellentArmorDrop.description>
+
+<!-- EN: Cash -->
+<VSEWW_ExcellentCashDrop.label>Argent</VSEWW_ExcellentCashDrop.label>
+<!-- EN: Cargo pods drop 10000 silver and 500 gold -->
+<VSEWW_ExcellentCashDrop.description>Les capsules de largages contiennent 10 000 d'argent, 500 d'or.</VSEWW_ExcellentCashDrop.description>
+
+<!-- EN: Drugs drop -->
+<VSEWW_ExcellentDrugsDrop.label>Capsule de drogues</VSEWW_ExcellentDrugsDrop.label>
+<!-- EN: Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up and 200 go juice -->
+<VSEWW_ExcellentDrugsDrop.description>Recevez 100 ambrosie, 100 thé Pekoe, 200 bière, 200 joints smokeleaf, 200 flake, 200 yayo, 200 wake-up, 200 go juice.</VSEWW_ExcellentDrugsDrop.description>
+
+<!-- EN: Food and medicine drop -->
+<VSEWW_ExcellentFoodAndMedicineDrop.label>Capsule de survie</VSEWW_ExcellentFoodAndMedicineDrop.label>
+<!-- EN: Cargo pods drop 120 packaged survival meals, 20 glitterworld medicine and 100 medicine -->
+<VSEWW_ExcellentFoodAndMedicineDrop.description>Les capsules de largages contiennent 120 ration de survie, 20 médicaments avancés et 100 médicaments.</VSEWW_ExcellentFoodAndMedicineDrop.description>
+
+<!-- EN: Fuel drop -->
+<VSEWW_ExcellentFuelDrop.label>Capsule de carburant</VSEWW_ExcellentFuelDrop.label>
+<!-- EN: Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium -->
+<VSEWW_ExcellentFuelDrop.description>Les capsules de largages contiennent 1 000 chemfuel, 1 000 bois et 400 uranium.</VSEWW_ExcellentFuelDrop.description>
+
+<!-- EN: Colonists join -->
+<VSEWW_ExcellentPawnJoins.label>Colon vous rejoint</VSEWW_ExcellentPawnJoins.label>
+<!-- EN: A group of 5 colonists worth a minimum of 175 combat points joins the colony -->
+<VSEWW_ExcellentPawnJoins.description>Un groupe de 5 colons valant un minimum de 175 points de combat rejoint la colonie.</VSEWW_ExcellentPawnJoins.description>
+
+<!-- EN: Prosthetics drop -->
+<VSEWW_ExcellentProstheticsDrop.label>Capsule de prothèses</VSEWW_ExcellentProstheticsDrop.label>
+<!-- EN: Cargo pod drops 10 random bionics -->
+<VSEWW_ExcellentProstheticsDrop.description>La capsule de largage contient 10 prothèses bioniques aléatoires.</VSEWW_ExcellentProstheticsDrop.description>
+
+<!-- EN: Research boost -->
+<VSEWW_ExcellentReseachBoost.label>Recherche accélérée</VSEWW_ExcellentReseachBoost.label>
+<!-- EN: Instantly research 8 random research projects you meet prerequisites for -->
+<VSEWW_ExcellentReseachBoost.description>Rechercher instantanément 8 projets de recherche aléatoires pour lesquels vous remplissez les conditions préalables.</VSEWW_ExcellentReseachBoost.description>
+
+<!-- EN: Resource drop -->
+<VSEWW_ExcellentResourceDrop.label>Capsule de ressources</VSEWW_ExcellentResourceDrop.label>
+<!-- EN: Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel -->
+<VSEWW_ExcellentResourceDrop.description>Les capsules de largages contiennent 1 000 bois, 1 000 acier, 60 composants, 20 composants avancés et 300 plastacier.</VSEWW_ExcellentResourceDrop.description>
+
+<!-- EN: Skill boost -->
+<VSEWW_ExcellentSkillBoost.label>Augmentation des compétences</VSEWW_ExcellentSkillBoost.label>
+<!-- EN: Improve every skill of every colonist under your control by 3 -->
+<VSEWW_ExcellentSkillBoost.description>Améliorer chaque compétence de chaque colon sous votre contrôle par 3.</VSEWW_ExcellentSkillBoost.description>
+
+<!-- EN: Excellent weapons drop -->
+<VSEWW_ExcellentWeaponDrop.label>Capsule d'armes (excellent)</VSEWW_ExcellentWeaponDrop.label>
+<!-- EN: Cargo pods drop 5 random weapons, quality is Excellent -->
+<VSEWW_ExcellentWeaponDrop.description>Les capsules de largages contiennent 5 armes aléatoires, de qualité excellente.</VSEWW_ExcellentWeaponDrop.description>
+
+<!-- EN: Healer mech serum drop -->
+<VSEWW_MechSerumHealerDrop.label>Capsule de Sérum guérisseur</VSEWW_MechSerumHealerDrop.label>
+<!-- EN: Cargo pod drops 5 healer mech serums -->
+<VSEWW_MechSerumHealerDrop.description>La capsule de largage contient 5 mech-sérum guérisseur.</VSEWW_MechSerumHealerDrop.description>
+
+<!-- EN: Random Legendary reward -->
+<VSEWW_RandomLegendaryDrop.label>Récompense "Légendaire"</VSEWW_RandomLegendaryDrop.label>
+<!-- EN: Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward -->
+<VSEWW_RandomLegendaryDrop.description>Au lieu de ramasser une récompense spécifique de niveau "Excellent", obtenez une récompense de niveau "Légendaire" aléatoire.</VSEWW_RandomLegendaryDrop.description>
+
+<!-- EN: Targeters drop -->
+<VSEWW_TargetersDrop.label>Capsule de cibleur</VSEWW_TargetersDrop.label>
+<!-- EN: Receive an orbital beam targeter, orbital bombardment targeter and tornado generator -->
+<VSEWW_TargetersDrop.description>Recevez un focalisateur de faisceau d'énergie, un système de visée de bombardement orbital et un générateur de tornades.</VSEWW_TargetersDrop.description>
+
+<!-- EN: Wargs drop -->
+<VSEWW_WargDrop.label>Capsule de Wargs</VSEWW_WargDrop.label>
+<!-- EN: Cargo pod drops 10 tamed wargs -->
+<VSEWW_WargDrop.description>La capsule de largage contient 10 wargs apprivoisés.</VSEWW_WargDrop.description>
+
+
+<!-- EN: Allies! -->
+<VSEWW_Allies.label>Alliés !</VSEWW_Allies.label>
+<!-- EN: Next wave also brings allies that are 2x the regular size, to help you -->
+<VSEWW_Allies.description>La prochaine vague apporte également des alliés qui sont 2x plus grands que la taille normale, pour vous aider.</VSEWW_Allies.description>
+
+<!-- EN: Combat Animal drop -->
+<VSEWW_CombatAnimalDrop.label>Capsule d'animal de combat</VSEWW_CombatAnimalDrop.label>
+<!-- EN: Cargo pod drops 5 random, tamed combat animals -->
+<VSEWW_CombatAnimalDrop.description>La capsule de largage contient 5 animaux de combat apprivoisés et aléatoires.</VSEWW_CombatAnimalDrop.description>
+
+<!-- EN: Delay next wave -->
+<VSEWW_DelayBy7.label>Retarder la prochaine vague</VSEWW_DelayBy7.label>
+<!-- EN: Next wave is delayed by 7 days -->
+<VSEWW_DelayBy7.description>La prochaine vague est retardée de 7 jours.</VSEWW_DelayBy7.description>
+
+<!-- EN: Archotech artifacts drop -->
+<VSEWW_GoodArchotechArtifactsDrop.label>Capsule d'artefacts d'Archotech</VSEWW_GoodArchotechArtifactsDrop.label>
+<!-- EN: Receive 5 random archotech items (can be uninstalled structures) -->
+<VSEWW_GoodArchotechArtifactsDrop.description>Recevez 5 objets archotech aléatoires (peuvent être des structures minifier).</VSEWW_GoodArchotechArtifactsDrop.description>
+
+<!-- EN: Good armor drop -->
+<VSEWW_GoodArmorDrop.label>Capsule d'armure (bon)</VSEWW_GoodArmorDrop.label>
+<!-- EN: Cargo pods drop 3 random pieces of armor, quality is Good -->
+<VSEWW_GoodArmorDrop.description>Les capsules de largages contiennent 3 armures aléatoires, de qualité bonne.</VSEWW_GoodArmorDrop.description>
+
+<!-- EN: Cash -->
+<VSEWW_GoodCashDrop.label>Argent</VSEWW_GoodCashDrop.label>
+<!-- EN: Cargo pods drop 5000 silver and 250 gold -->
+<VSEWW_GoodCashDrop.description>Les capsules de largages contiennent 5 000 d'argent, 250 d'or.</VSEWW_GoodCashDrop.description>
+
+<!-- EN: Components drop -->
+<VSEWW_GoodComponentDrop.label>Capsule de composants</VSEWW_GoodComponentDrop.label>
+<!-- EN: Cargo pods drop 60 components and 15 advanced components -->
+<VSEWW_GoodComponentDrop.description>La capsule de largage contient 60 composants, 15 composants avancés.</VSEWW_GoodComponentDrop.description>
+
+<!-- EN: Drugs drop -->
+<VSEWW_GoodDrugsDrop.label>Capsule de drogues</VSEWW_GoodDrugsDrop.label>
+<!-- EN: Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up and 20 go juice -->
+<VSEWW_GoodDrugsDrop.description>Recevez 10 ambrosie, 10 thé Pekoe, 20 bière, 20 joints smokeleaf, 20 flake, 20 yayo, 20 wake-up, 20 go juice.</VSEWW_GoodDrugsDrop.description>
+
+<!-- EN: Food and medicine drop -->
+<VSEWW_GoodFoodAndMedicineDrop.label>Capsule de survie</VSEWW_GoodFoodAndMedicineDrop.label>
+<!-- EN: Cargo pods drop 100 packaged survival meals and 100 medicine -->
+<VSEWW_GoodFoodAndMedicineDrop.description>Les capsules de largages contiennent 100 rations de survie et 100 médicaments.</VSEWW_GoodFoodAndMedicineDrop.description>
+
+<!-- EN: Fuel drop -->
+<VSEWW_GoodFuelDrop.label>Capsule de carburant</VSEWW_GoodFuelDrop.label>
+<!-- EN: Cargo pods drop 800 chemfuel, 800 wood and 250 uranium -->
+<VSEWW_GoodFuelDrop.description>Les capsules de largages contiennent 800 chemfuel, 800 bois et 250 uranium.</VSEWW_GoodFuelDrop.description>
+
+<!-- EN: Colonists join -->
+<VSEWW_GoodPawnJoins.label>Colon vous rejoint</VSEWW_GoodPawnJoins.label>
+<!-- EN: A group of 3 colonists worth a minimum 100 and up to 175 combat points joins the colony -->
+<VSEWW_GoodPawnJoins.description>Un groupe de 3 colons valant au minimum 100 et jusqu'à 175 points de combat rejoint la colonie.</VSEWW_GoodPawnJoins.description>
+
+<!-- EN: Prosthetics drop -->
+<VSEWW_GoodProstheticsDrop.label>Capsule de de prothèses</VSEWW_GoodProstheticsDrop.label>
+<!-- EN: Cargo pod drops 5 random low-level prosthetics and 5 bionics -->
+<VSEWW_GoodProstheticsDrop.description>La capsule de largage contient 5 prothèses aléatoires de bas niveau et 5 prothèses bioniques.</VSEWW_GoodProstheticsDrop.description>
+
+<!-- EN: Research boost -->
+<VSEWW_GoodReseachBoost.label>Recherche accélérée</VSEWW_GoodReseachBoost.label>
+<!-- EN: Instantly research 5 random research projects you meet prerequisites for -->
+<VSEWW_GoodReseachBoost.description>Rechercher instantanément 5 projets de recherche aléatoires pour lesquels vous remplissez les conditions préalables.</VSEWW_GoodReseachBoost.description>
+
+<!-- EN: Resource drop -->
+<VSEWW_GoodResourceDrop.label>Capsule de ressources</VSEWW_GoodResourceDrop.label>
+<!-- EN: Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel -->
+<VSEWW_GoodResourceDrop.description>Les capsules de largages contiennent 500 bois, 500 acier, 30 composants et 200 plastacier.</VSEWW_GoodResourceDrop.description>
+
+<!-- EN: Skill boost -->
+<VSEWW_GoodSkillBoost.label>Augmentation des compétences</VSEWW_GoodSkillBoost.label>
+<!-- EN: Improve every skill of every colonist under your control by 2 -->
+<VSEWW_GoodSkillBoost.description>Améliorer chaque compétence de chaque colon sous votre contrôle par 2.</VSEWW_GoodSkillBoost.description>
+
+<!-- EN: Textile drop -->
+<VSEWW_GoodTextileDrop.label>Capsule de textile</VSEWW_GoodTextileDrop.label>
+<!-- EN: Cargo pod drops 1000 random pieces of leather or textile -->
+<VSEWW_GoodTextileDrop.description>La capsule de largage contient 1 000 pièces de cuir ou de textile aléatoires.</VSEWW_GoodTextileDrop.description>
+
+<!-- EN: Good weapons drop -->
+<VSEWW_GoodWeaponsDrop.label>Capsule d'armes (bon)</VSEWW_GoodWeaponsDrop.label>
+<!-- EN: Cargo pods drop 3 random weapons, quality is Good -->
+<VSEWW_GoodWeaponsDrop.description>Les capsules de largages contiennent 3 armes aléatoires, de qualité bonne.</VSEWW_GoodWeaponsDrop.description>
+
+<!-- EN: Orbital bombardment targeter -->
+<VSEWW_OrbitalTargeterBombardmentDrop.label>Système de bombardement orbital</VSEWW_OrbitalTargeterBombardmentDrop.label>
+<!-- EN: Receive an orbital bombardment targeter -->
+<VSEWW_OrbitalTargeterBombardmentDrop.description>Recevez un système de visée de bombardement orbital.</VSEWW_OrbitalTargeterBombardmentDrop.description>
+
+<!-- EN: Orbital beam targeter -->
+<VSEWW_OrbitalTargeterPowerBeamDrop.label>Faisceau d'énergie orbital</VSEWW_OrbitalTargeterPowerBeamDrop.label>
+<!-- EN: Receive an orbital beam targeter -->
+<VSEWW_OrbitalTargeterPowerBeamDrop.description>Recevez un focalisateur de faisceau d'énergie orbital.</VSEWW_OrbitalTargeterPowerBeamDrop.description>
+
+<!-- EN: Orbital Trader Arrival -->
+<VSEWW_OrbitalTraderArrival.label>Arrivée commerçant orbital</VSEWW_OrbitalTraderArrival.label>
+<!-- EN: Send a random orbital trader -->
+<VSEWW_OrbitalTraderArrival.description>Envoie d'un commerçant orbital aléatoire.</VSEWW_OrbitalTraderArrival.description>
+
+<!-- EN: Random Excellent reward -->
+<VSEWW_RandomExcellentDrop.label>Récompense "Excellent"</VSEWW_RandomExcellentDrop.label>
+<!-- EN: Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward -->
+<VSEWW_RandomExcellentDrop.description>Au lieu de ramasser une récompense spécifique de niveau "Bon", obtenez une récompense de niveau "Excellent" aléatoire.</VSEWW_RandomExcellentDrop.description>
+
+<!-- EN: Tornado generator -->
+<VSEWW_TornadoGeneratorDrop.label>Générateur de tornade</VSEWW_TornadoGeneratorDrop.label>
+<!-- EN: Receive a tornado generator -->
+<VSEWW_TornadoGeneratorDrop.description>Recevez un générateur de tornade.</VSEWW_TornadoGeneratorDrop.description>
+
+<!-- EN: Weaken next wave -->
+<VSEWW_Weaken50.label>Affaiblir la prochaine vague</VSEWW_Weaken50.label>
+<!-- EN: Next wave only has 50% combat points it would normally have -->
+<VSEWW_Weaken50.description>La prochaine vague n'a que 50% des points de combat qu'elle aurait normalement.</VSEWW_Weaken50.description>
+
+
+<!-- EN: Archotech body parts drop -->
+<VSEWW_ArchotechProstheticsDrop.label>Capsule de prothèses d'Archotech</VSEWW_ArchotechProstheticsDrop.label>
+<!-- EN: Cargo pod drops 10 random archotech body parts -->
+<VSEWW_ArchotechProstheticsDrop.description>La capsule de largage contient 10 parties du corps Archotech de façon aléatoire.</VSEWW_ArchotechProstheticsDrop.description>
+
+<!-- EN: Cash and Riches -->
+<VSEWW_CashAndRiches.label>Argent et richesses</VSEWW_CashAndRiches.label>
+<!-- EN: Cargo pods drop 25000 silver, 1000 gold and 1000 Jade -->
+<VSEWW_CashAndRiches.description>Les capsules de largages contiennent 25 000 d'argent, 1 000 d'or, 1 000 jade.</VSEWW_CashAndRiches.description>
+
+<!-- EN: Fuel drop -->
+<VSEWW_LegendaryFuelDrop.label>Capsule de carburant</VSEWW_LegendaryFuelDrop.label>
+<!-- EN: Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium -->
+<VSEWW_LegendaryFuelDrop.description>Les capsules de largages contiennent 2 000 chemfuel, 2 000 bois et 800 uranium.</VSEWW_LegendaryFuelDrop.description>
+
+<!-- EN: Legendary gear drop -->
+<VSEWW_LegendaryGearDrop.label>Capsule d'équipement légendaire</VSEWW_LegendaryGearDrop.label>
+<!-- EN: Cargo pods drop 5 random weapons and 5 random armors, quality is Legendary -->
+<VSEWW_LegendaryGearDrop.description>Les capsules de largages contiennent 5 armes et 5 armures aléatoires, de qualité légendaire.</VSEWW_LegendaryGearDrop.description>
+
+<!-- EN: Resource drop -->
+<VSEWW_LegendaryResourceDrop.label>Capsule de ressources</VSEWW_LegendaryResourceDrop.label>
+<!-- EN: Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components and 500 plasteel -->
+<VSEWW_LegendaryResourceDrop.description>Les capsules de largages contiennent 3 000 bois, 3 000 acier, 100 composants, 50 composants avancés, 500 plastacier.</VSEWW_LegendaryResourceDrop.description>
+
+<!-- EN: Skill boost -->
+<VSEWW_LegendarySkillBoost.label>Augmentation des compétences</VSEWW_LegendarySkillBoost.label>
+<!-- EN: Improve every skill of every colonist under your control by 5 -->
+<VSEWW_LegendarySkillBoost.description>Améliorer chaque compétence de chaque colon sous votre contrôle par 5.</VSEWW_LegendarySkillBoost.description>
+
+<!-- EN: Mass Heal -->
+<VSEWW_MassHeal.label>Guérison de masse</VSEWW_MassHeal.label>
+<!-- EN: Instantly heals all the wounds on all colonists under player control -->
+<VSEWW_MassHeal.description>Guérit instantanément toutes les blessures de tous les colons sous le contrôle du joueur.</VSEWW_MassHeal.description>
+
+<!-- EN: Colonists join -->
+<VSEWW_MercenaryJoins.label>Colon vous rejoint</VSEWW_MercenaryJoins.label>
+<!-- EN: A group of 5 mercenary colonists join -->
+<VSEWW_MercenaryJoins.description>Un groupe de 5 colons mercenaires mitrailleurs vous rejoint.</VSEWW_MercenaryJoins.description>
+
+<!-- EN: Survival means drop -->
+<VSEWW_SurvivalMeansDrop.label>Capsule de survie avancée</VSEWW_SurvivalMeansDrop.label>
+<!-- EN: Cargo pods drop 250 packaged survival meals, 50 glitterworld medicine, 5 healer mech serums and 200 medicine -->
+<VSEWW_SurvivalMeansDrop.description>Les capsules de largages contiennent 250 rations de survie, 50 médicaments avancés, 5 mech-sérum guérisseur et 200 médicaments.</VSEWW_SurvivalMeansDrop.description>
+
+<!-- EN: Thrumbo drop -->
+<VSEWW_ThrumboDrop.label>Capsule de Thrumbo</VSEWW_ThrumboDrop.label>
+<!-- EN: Cargo pod drops 3 tamed thrumbos -->
+<VSEWW_ThrumboDrop.description>La capsule de largage contient 3 thrumbos apprivoisés.</VSEWW_ThrumboDrop.description>
+
+
+<!-- EN: Caravan arrival -->
+<VSEWW_CaravanArrival.label>Arrivée d'une caravane</VSEWW_CaravanArrival.label>
+<!-- EN: A random caravan arrives -->
+<VSEWW_CaravanArrival.description>Une caravane aléatoire arrive.</VSEWW_CaravanArrival.description>
+
+<!-- EN: Delay next wave -->
+<VSEWW_DelayBy3.label>Retarder la prochaine vague</VSEWW_DelayBy3.label>
+<!-- EN: Next wave is delayed by 3 days -->
+<VSEWW_DelayBy3.description>La prochaine vague est retardée de 3 jours.</VSEWW_DelayBy3.description>
+
+<!-- EN: Meteorite impact -->
+<VSEWW_MeteoriteImpact.label>Impact de météorite</VSEWW_MeteoriteImpact.label>
+<!-- EN: Meteorite impact -->
+<VSEWW_MeteoriteImpact.description>Impact de météorite.</VSEWW_MeteoriteImpact.description>
+
+<!-- EN: Miniturret drop -->
+<VSEWW_MiniturretDrop.label>Capsule de mini-tourelle</VSEWW_MiniturretDrop.label>
+<!-- EN: Cargo pod drops 3 uninstalled mini-turrets -->
+<VSEWW_MiniturretDrop.description>La capsule de largage contient 3 mini-tourelles minifier.</VSEWW_MiniturretDrop.description>
+
+<!-- EN: Animal drop -->
+<VSEWW_NormalAnimalDrop.label>Capsule d'animaux</VSEWW_NormalAnimalDrop.label>
+<!-- EN: Cargo pod drops 2 random, tamed animals -->
+<VSEWW_NormalAnimalDrop.description>La capsule de largage contient 2 animaux apprivoisés aléatoires.</VSEWW_NormalAnimalDrop.description>
+
+<!-- EN: Cash -->
+<VSEWW_NormalCashDrop.label>Argent</VSEWW_NormalCashDrop.label>
+<!-- EN: Cargo pods drop 3000 silver -->
+<VSEWW_NormalCashDrop.description>Les capsules de largages contiennent 3 000 d'argent.</VSEWW_NormalCashDrop.description>
+
+<!-- EN: Component drop -->
+<VSEWW_NormalComponentDrop.label>Capsule de composant</VSEWW_NormalComponentDrop.label>
+<!-- EN: Cargo pods drop 20 components and 5 advanced components -->
+<VSEWW_NormalComponentDrop.description>Les capsules de largages contiennent 20 composants et 5 composants avancés.</VSEWW_NormalComponentDrop.description>
+
+<!-- EN: Food and medicine drop -->
+<VSEWW_NormalFoodAndMedicineDrop.label>Capsule de survie</VSEWW_NormalFoodAndMedicineDrop.label>
+<!-- EN: Cargo pods drop 30 packaged survival meals and 30 medicine -->
+<VSEWW_NormalFoodAndMedicineDrop.description>Les capsules de largages contiennent 30 rations de survie et 30 médicaments.</VSEWW_NormalFoodAndMedicineDrop.description>
+
+<!-- EN: Fuel drop -->
+<VSEWW_NormalFuelDrop.label>Capsule de carburant</VSEWW_NormalFuelDrop.label>
+<!-- EN: Cargo pods drop 500 chemfuel -->
+<VSEWW_NormalFuelDrop.description>Les capsules de largages contiennent 500 chemfuel.</VSEWW_NormalFuelDrop.description>
+
+<!-- EN: Colonist joins -->
+<VSEWW_NormalPawnJoins.label>Colon vous rejoint</VSEWW_NormalPawnJoins.label>
+<!-- EN: A single colonist worth minimum 50 and up to 125 combat points joins the colony -->
+<VSEWW_NormalPawnJoins.description>Un seul colon valant au minimum 50 et au maximum 125 points de combat rejoint la colonie.</VSEWW_NormalPawnJoins.description>
+
+<!-- EN: Prosthetics drop -->
+<VSEWW_NormalProstheticsDrop.label>Capsule de prothèses</VSEWW_NormalProstheticsDrop.label>
+<!-- EN: Cargo pod drops 5 random low-level prosthetics -->
+<VSEWW_NormalProstheticsDrop.description>La capsule de largage contient 5 prothèses de bas niveau aléatoires.</VSEWW_NormalProstheticsDrop.description>
+
+<!-- EN: Research boost -->
+<VSEWW_NormalReseachBoost.label>Recherche accélérée</VSEWW_NormalReseachBoost.label>
+<!-- EN: Instantly research 3 random research projects you meet prerequisites for -->
+<VSEWW_NormalReseachBoost.description>Rechercher instantanément 3 projets de recherche aléatoires pour lesquels vous remplissez les conditions préalables.</VSEWW_NormalReseachBoost.description>
+
+<!-- EN: Resource drop -->
+<VSEWW_NormalResourceDrop.label>Capsule de ressources</VSEWW_NormalResourceDrop.label>
+<!-- EN: Cargo pods drop 250 wood, 250 steel and 10 components -->
+<VSEWW_NormalResourceDrop.description>Les capsules de largages contiennent 250 bois, 250 acier, 10 composants.</VSEWW_NormalResourceDrop.description>
+
+<!-- EN: Textile drop -->
+<VSEWW_NormalTextileDrop.label>Capsule de textile</VSEWW_NormalTextileDrop.label>
+<!-- EN: Cargo pod drops 400 random pieces of leather or textile -->
+<VSEWW_NormalTextileDrop.description>La capsule de largage contient 400 pièces de cuir ou de textile aléatoires.</VSEWW_NormalTextileDrop.description>
+
+<!-- EN: Normal weapons drop -->
+<VSEWW_NormalWeaponsDrop.label>Capsule d'armes (normal)</VSEWW_NormalWeaponsDrop.label>
+<!-- EN: Cargo pods drop 3 random weapons, quality is normal -->
+<VSEWW_NormalWeaponsDrop.description>Les capsules de largages contiennent 3 armes aléatoires, de qualité normal.</VSEWW_NormalWeaponsDrop.description>
+
+<!-- EN: Plasteel drop -->
+<VSEWW_PlasteelDrop.label>Capsule de plastacier</VSEWW_PlasteelDrop.label>
+<!-- EN: Cargo pods drop 100 plasteel -->
+<VSEWW_PlasteelDrop.description>Les capsules de largages contiennent 100 plastacier.</VSEWW_PlasteelDrop.description>
+
+<!-- EN: Psychic Soothe -->
+<VSEWW_PsychicSoothe.label>Apaisement psychique</VSEWW_PsychicSoothe.label>
+<!-- EN: Psychic soothe -->
+<VSEWW_PsychicSoothe.description>Apaisement psychique.</VSEWW_PsychicSoothe.description>
+
+<!-- EN: Random Good reward -->
+<VSEWW_RandomGoodDrop.label>Récompense "Bon"</VSEWW_RandomGoodDrop.label>
+<!-- EN: Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward -->
+<VSEWW_RandomGoodDrop.description>Au lieu de ramasser une récompense spécifique de niveau "Normal", obtenez une récompense de niveau "Bon" aléatoire.</VSEWW_RandomGoodDrop.description>
+
+<!-- EN: Uranium drop -->
+<VSEWW_UraniumDrop.label>Capsule d'uranium</VSEWW_UraniumDrop.label>
+<!-- EN: Cargo pods drop 100 uranium -->
+<VSEWW_UraniumDrop.description>Les capsules de largages contiennent 100 uranium.</VSEWW_UraniumDrop.description>
+
+
+<!-- EN: Books drop -->
+<VSEWW_BooksDrop.label>Capsule de livre</VSEWW_BooksDrop.label>
+<!-- EN: Cargo pods drop 3 random books -->
+<VSEWW_BooksDrop.description>Les capsule de largage contiennent 3 livres aléatoires.</VSEWW_BooksDrop.description>
+
+<!-- EN: Food drop -->
+<VSEWW_FoodDrop.label>Capsule de nourriture</VSEWW_FoodDrop.label>
+<!-- EN: Cargo pods drop 30 packaged survival meals -->
+<VSEWW_FoodDrop.description>Les capsules de largages contiennent 30 rations de survie.</VSEWW_FoodDrop.description>
+
+<!-- EN: Leather drop -->
+<VSEWW_LeatherDrop.label>Capsule de cuir</VSEWW_LeatherDrop.label>
+<!-- EN: Cargo pod drops 300 random pieces of leather -->
+<VSEWW_LeatherDrop.description>La capsule de largage contient 300 morceaux de cuir aléatoires.</VSEWW_LeatherDrop.description>
+
+<!-- EN: Medicine drop -->
+<VSEWW_MedicineDrop.label>Capsule de médecine</VSEWW_MedicineDrop.label>
+<!-- EN: Cargo pods drop 30 medicine -->
+<VSEWW_MedicineDrop.description>Les capsules de largages contiennent 30 médicaments.</VSEWW_MedicineDrop.description>
+
+<!-- EN: Cash -->
+<VSEWW_PoorCashDrop.label>Argent</VSEWW_PoorCashDrop.label>
+<!-- EN: Cargo pods drop 1000 silver -->
+<VSEWW_PoorCashDrop.description>Les capsules de largages contiennent 1 000 d'argent.</VSEWW_PoorCashDrop.description>
+
+<!-- EN: Fuel drop -->
+<VSEWW_PoorFuelDrop.label>Capsule de carburant</VSEWW_PoorFuelDrop.label>
+<!-- EN: Cargo pods drop 200 chemfuel -->
+<VSEWW_PoorFuelDrop.description>Les capsules de largages contiennent 200 chemfuel.</VSEWW_PoorFuelDrop.description>
+
+<!-- EN: Colonist joins -->
+<VSEWW_PoorPawnJoins.label>Colon vous rejoint</VSEWW_PoorPawnJoins.label>
+<!-- EN: A single colonist worth up to 50 combat points joins the colony -->
+<VSEWW_PoorPawnJoins.description>Un seul colon valant jusqu'à 50 points de combat rejoint la colonie.</VSEWW_PoorPawnJoins.description>
+
+<!-- EN: Poor weapons drop -->
+<VSEWW_PoorWeaponsDrop.label>Capsule d'armes (médiocre)</VSEWW_PoorWeaponsDrop.label>
+<!-- EN: Cargo pods drop 3 random weapons, maximum quality is poor -->
+<VSEWW_PoorWeaponsDrop.description>Les capsules de largages contiennent 3 armes aléatoires, dont la qualité maximale est médiocre.</VSEWW_PoorWeaponsDrop.description>
+
+<!-- EN: Random normal reward -->
+<VSEWW_RandomNormalDrop.label>Récompense "Normal"</VSEWW_RandomNormalDrop.label>
+<!-- EN: Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward -->
+<VSEWW_RandomNormalDrop.description>Au lieu de ramasser une récompense spécifique de niveau "Médiocre", obtenez une récompense de niveau "Normal" aléatoire.</VSEWW_RandomNormalDrop.description>
+
+<!-- EN: Steel drop -->
+<VSEWW_SteelDrop.label>Capsule d'acier</VSEWW_SteelDrop.label>
+<!-- EN: Cargo pods drop 250 steel -->
+<VSEWW_SteelDrop.description>Les capsules de largages contiennent 250 d'acier.</VSEWW_SteelDrop.description>
+
+<!-- EN: Stone drop -->
+<VSEWW_StoneDrop.label>Capsule de blocs de pierre</VSEWW_StoneDrop.label>
+<!-- EN: Cargo pods drop 250 stone blocks -->
+<VSEWW_StoneDrop.description>Les capsules de largages contiennent 250 blocs de pierre.</VSEWW_StoneDrop.description>
+
+<!-- EN: Wood drop -->
+<VSEWW_WoodDrop.label>Capsule de bois</VSEWW_WoodDrop.label>
+<!-- EN: Cargo pods drop 250 wood -->
+<VSEWW_WoodDrop.description>Les capsules de largages contiennent 250 bois.</VSEWW_WoodDrop.description>
+
+
+<!-- EN: Receive honor -->
+<VSEWW_Honor_Excellent.label>Recevoir de l'honneur</VSEWW_Honor_Excellent.label>
+<!-- EN: A random colonist will receive 25 honor with the Empire -->
+<VSEWW_Honor_Excellent.description>Un colon choisi aléatoirement recevra 25 points d'honneur auprès de l'Empire.</VSEWW_Honor_Excellent.description>
+
+<!-- EN: Receive honor -->
+<VSEWW_Honor_Good.label>Recevoir de l'honneur</VSEWW_Honor_Good.label>
+<!-- EN: A random colonist will receive 10 honor with the Empire -->
+<VSEWW_Honor_Good.description>Un colon choisi aléatoirement recevra 10 points d'honneur auprès de l'Empire.</VSEWW_Honor_Good.description>
+
+<!-- EN: Receive honor -->
+<VSEWW_Honor_Legendary.label>Recevoir de l'honneur</VSEWW_Honor_Legendary.label>
+<!-- EN: A random colonist will receive 50 honor with the Empire -->
+<VSEWW_Honor_Legendary.description>Un colon choisi aléatoirement recevra 50 points d'honneur auprès de l'Empire.</VSEWW_Honor_Legendary.description>
+
+<!-- EN: Psylink neuroformer -->
+<VSEWW_PsylinkNeuroformer.label>Lien psychique</VSEWW_PsylinkNeuroformer.label>
+<!-- EN: Cargo pod drops a psylink neuroformer -->
+<VSEWW_PsylinkNeuroformer.description>La capsule de largage contient un neuro-formateur de lien psychique.</VSEWW_PsylinkNeuroformer.description>
+
+<!-- EN: Recharge psyfocus -->
+<VSEWW_RetorePsyfocus.label>Recharger la concentration</VSEWW_RetorePsyfocus.label>
+<!-- EN: Fully recharge the psyfocus of all the colony's psycasters -->
+<VSEWW_RetorePsyfocus.description>Recharge complètement la concentration psychique de tous les psylanceurs de la colonie.</VSEWW_RetorePsyfocus.description>
+
+
+</LanguageData>

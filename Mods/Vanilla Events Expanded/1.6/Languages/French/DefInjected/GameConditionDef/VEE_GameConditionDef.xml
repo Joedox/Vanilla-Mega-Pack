@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Global Warming -->
+<GlobalWarming.label>réchauffement climatique</GlobalWarming.label>
+<!-- EN: Global temperatures have suddenly risen to dangerous levels.\n\nFlora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
+<GlobalWarming.description>Les températures mondiales ont soudainement atteint des niveaux dangereux.\n\nLa flore et la faune souffrent de ces changements alors que les biomes se transforment en leurs homologues plus chauds. Les ressources deviennent rares, forçant les factions à entrer en conflit.\n\nIl durera entre une saison et plusieurs années.</GlobalWarming.description>
+<!-- EN: The global warming is ending -->
+<GlobalWarming.endMessage>Le réchauffement climatique se termine</GlobalWarming.endMessage>
+
+<!-- EN: Ice Age -->
+<IceAge.label>ère glaciaire</IceAge.label>
+<!-- EN: Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.\n\nFlora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
+<IceAge.description>La composition atmosphérique de la planète a radicalement changé, entraînant une baisse significative de la température.\n\nLa flore et la faune souffrent de ces changements alors que les biomes se transforment en leurs homologues plus froids. Les ressources deviennent rares, forçant les factions à entrer en conflit.\n\nElle durera entre une saison et plusieurs années.</IceAge.description>
+<!-- EN: The ice age is ending -->
+<IceAge.endMessage>L'ère glaciaire se termine.</IceAge.endMessage>
+
+<!-- EN: Long Night -->
+<LongNight.label>longue nuit</LongNight.label>
+<!-- EN: A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.\n\nTerrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.\n\nIt will last anywhere between a season to several years. -->
+<LongNight.description>Une entité spatiale de taille inimaginable a recouvert une étoile locale, ce qui provoque une éclipse de longue durée.\n\nTerrifiées par ce phénomène surnaturel, d'autres factions l’utiliseront comme prétexte pour faire la guerre et des conflits éclateront à travers le monde.\n\nElle durera entre une saison et plusieurs années.</LongNight.description>
+<!-- EN: The long night is ending -->
+<LongNight.endMessage>La longue nuit se termine</LongNight.endMessage>
+
+<!-- EN: Psychic Bloom -->
+<PsychicBloom.label>floraison psychique</PsychicBloom.label>
+<!-- EN: A strong psychic pulse emitted by a long forgotten entity changed the very genetical structure of local flora. Whilst the sky filled with a seemingly endless auroras, colourful flowers started sprouting everywhere. \n\nAll pawns will gain a positive mood buff for the time of the event. The rapidly spreading flowers will overgrow everything, including your fields. \n\nIt will last anywhere between a few days to a season. -->
+<PsychicBloom.description>Une forte impulsion psychique émise par une entité longtemps oubliée a modifié la structure génétique même de la flore locale. Tandis que le ciel se remplissait d'aurores apparemment sans fin, des fleurs colorées se sont mises à fleurir partout.\n\nTous les colons gagneront une humeur positive le temps de l'événement. Les fleurs qui se répandent rapidement vont tout envahir, y compris vos champs.\n\nElle durera entre quelques jours et une saison.</PsychicBloom.description>
+<!-- EN: The psychic bloom is ending -->
+<PsychicBloom.endMessage>La floraison psychique se termine</PsychicBloom.endMessage>
+
+<!-- EN: Psychic Rain -->
+<PsychicRain.label>pluie psychique</PsychicRain.label>
+<!-- EN: A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.\n\nA seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.\n\nIt will last anywhere between a season to several years. -->
+<PsychicRain.description>Une entité psychique dangereuse a provoqué des perturbations aux niveaux subatomiques, résonnant à travers toutes les particules de l'atmosphère.\n\nUne pluie surnaturelle apparemment interminable a commencé, modifiant la composition même du temps. Toute personne ou créature qui n'est pas sous un toit vieillira beaucoup plus rapidement.\n\nElle durera entre une saison et plusieurs années.</PsychicRain.description>
+<!-- EN: The psychic rain is ending -->
+<PsychicRain.endMessage>La pluie psychique se termine</PsychicRain.endMessage>
+
+
+<!-- EN: Drought -->
+<Drought.label>sécheresse</Drought.label>
+<!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can. -->
+<Drought.description>Une sécheresse inhabituelle s'est installée.\n\nLa sécheresse est dévastatrice pour la vie végétale et détruira rapidement toutes les cultures non plantées en basin hydroponique. Assurez-vous de récolter rapidement toutes les plantes que vous pouvez.</Drought.description>
+<!-- EN: The drought is ending. -->
+<Drought.endMessage>La sécheresse se termine</Drought.endMessage>
+<!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly prevent all the crops not planted in hydroponics or high fertility soil to grow. -->
+<Drought.letterText>Une sécheresse inhabituelle s'est installée.\n\nLa sécheresse est dévastatrice pour la vie végétale et détruira rapidement toutes les cultures non plantées en basin hydroponique. Assurez-vous de récolter rapidement toutes les plantes que vous pouvez.</Drought.letterText>
+
+<!-- EN: Space battle -->
+<SpaceBattle.label>bataille spatiale</SpaceBattle.label>
+<!-- EN: A space battle is raging in the sky, may last up to half a day. -->
+<SpaceBattle.description>Une bataille spatiale fait rage dans le ciel, peut durer jusqu'à 1 jour.</SpaceBattle.description>
+<!-- EN: The space battle is ending. -->
+<SpaceBattle.endMessage>La bataille spatiale se termine</SpaceBattle.endMessage>
+<!-- EN: Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires. -->
+<SpaceBattle.letterText>Plusieurs vaisseaux spatiaux massifs ont engagé le combat dans l'orbite de la planète. Les tirs manqués et les débris peuvent avoir un impact sur le sol dans cette zone. Cela peut conduire à de grands incendies.</SpaceBattle.letterText>
+
+
+</LanguageData>

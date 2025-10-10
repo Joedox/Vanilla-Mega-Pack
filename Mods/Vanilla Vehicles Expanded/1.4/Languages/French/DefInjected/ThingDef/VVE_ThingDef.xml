@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VVE_GarageCabinet.label>armoire de garagiste</VVE_GarageCabinet.label>
+<VVE_GarageCabinet.description>Une armoire pratique qui contient toute une série d'outils supplémentaires de différentes tailles et fonctions. Augmente la vitesse de travail lorsqu'elle est placée près d'un atelier de garagiste. Un atelier peut utiliser jusqu'à deux armoires de garagiste.</VVE_GarageCabinet.description>
+
+<VVE_GarageBench.label>atelier de garagiste</VVE_GarageBench.label>
+<VVE_GarageBench.description>Poste de travail spécialisé dans l'assemblage de pièces de véhicules. Pour ceux qui sont désespérés, les voitures rouillées et les blocs moteurs peuvent être récupérés pour en extraire les pièces fonctionnelles restantes.</VVE_GarageBench.description>
+
+<VVE_GarageDoor.label>porte de garage (1x4)</VVE_GarageDoor.label>
+<VVE_GarageDoor.description>Sépare les pièces. Le fonctionnement manuel permet aux personnes de l'ouvrir, tout en laissant passer les véhicules.</VVE_GarageDoor.description>
+
+<VVE_GarageDoorOpened.label>porte de garage (1x4)</VVE_GarageDoorOpened.label>
+<VVE_GarageDoorOpened.description>Sépare les pièces. Le fonctionnement manuel permet aux personnes de l'ouvrir, tout en laissant passer les véhicules.</VVE_GarageDoorOpened.description>
+
+<VVE_GarageDoorLarge.label>porte de garage (1x5)</VVE_GarageDoorLarge.label>
+<VVE_GarageDoorLarge.description>Sépare les pièces. Le fonctionnement manuel permet aux personnes de l'ouvrir, tout en laissant passer les véhicules.</VVE_GarageDoorLarge.description>
+
+<VVE_GarageDoorLargeOpened.label>porte de garage (1x5)</VVE_GarageDoorLargeOpened.label>
+<VVE_GarageDoorLargeOpened.description>Sépare les pièces. Le fonctionnement manuel permet aux personnes de l'ouvrir, tout en laissant passer les véhicules.</VVE_GarageDoorLargeOpened.description>
+
+<VVE_GarageAutoDoor.label>porte de garage auto. (1x4)</VVE_GarageAutoDoor.label>
+<VVE_GarageAutoDoor.description>Sépare les pièces. Le fonctionnement électrique permet à la porte de s'ouvrir sans intervention manuelle, laissant ainsi passer les véhicules.</VVE_GarageAutoDoor.description>
+
+<VVE_GarageAutoDoorOpened.label>porte de garage auto. (1x4)</VVE_GarageAutoDoorOpened.label>
+<VVE_GarageAutoDoorOpened.description>Sépare les pièces. Le fonctionnement électrique permet à la porte de s'ouvrir sans intervention manuelle, laissant ainsi passer les véhicules.</VVE_GarageAutoDoorOpened.description>
+
+<VVE_GarageAutoDoorLarge.label>porte de garage auto. (1x5)</VVE_GarageAutoDoorLarge.label>
+<VVE_GarageAutoDoorLarge.description>Sépare les pièces. Le fonctionnement électrique permet à la porte de s'ouvrir sans intervention manuelle, laissant ainsi passer les véhicules.</VVE_GarageAutoDoorLarge.description>
+
+<VVE_GarageAutoDoorLargeOpened.label>porte de garage auto. (1x5)</VVE_GarageAutoDoorLargeOpened.label>
+<VVE_GarageAutoDoorLargeOpened.description>Sépare les pièces. Le fonctionnement électrique permet à la porte de s'ouvrir sans intervention manuelle, laissant ainsi passer les véhicules.</VVE_GarageAutoDoorLargeOpened.description>
+
+<VVE_EngineBlock.label>bloc moteur</VVE_EngineBlock.label>
+<VVE_EngineBlock.description>Il s'agit littéralement de la pièce qui permet à un véhicule de se déplacer, et aucun véhicule ne peut être assemblé sans elle. Les véhicules très grands ou très lourds peuvent en nécessiter plusieurs.</VVE_EngineBlock.description>
+
+<VVE_CarAlternator.label>alternateur</VVE_CarAlternator.label>
+<VVE_CarAlternator.description>L'alternateur - batterie incluse - est une pièce de moteur extrêmement vitale pour tout véhicule doté d'un système électrique. Certains systèmes très basiques peuvent y échapper et certains véhicules plus complexes peuvent en nécessiter plusieurs.</VVE_CarAlternator.description>
+
+<VVE_CarExhaust.label>échappement</VVE_CarExhaust.label>
+<VVE_CarExhaust.description>Il s'agit d'une série de tuyaux, de catalyseurs et de raccords qui transfèrent les gaz d'échappement du moteur de la voiture loin de l'habitacle du conducteur. Les moteurs qui sont soumis à de fortes contraintes ont besoin d'un plus grand nombre d'échappements.</VVE_CarExhaust.description>
+
+<VVE_CarSuspension.label>suspension</VVE_CarSuspension.label>
+<VVE_CarSuspension.description>Série de transmissions, de ressorts et d'amortisseurs qui redirigent ou réduisent les forces transférées par les roues. En général, plus la masse et la capacité de chargement du véhicule sont importantes, plus les suspensions sont nécessaires.</VVE_CarSuspension.description>
+
+<VVE_CarWheel.label>roue</VVE_CarWheel.label>
+<VVE_CarWheel.description>L'une des technologies les plus anciennes développées par l'homme, la roue reçoit la puissance du moteur et la traduit en mouvement. Comme les roues doivent non seulement déplacer le véhicule dans la direction voulue, mais aussi supporter le poids combiné, les véhicules plus grands et plus lourds peuvent en nécessiter plusieurs, voire des dizaines.</VVE_CarWheel.description>
+
+<!--VVE_BangBus_Blueprint.label>combi</VVE_BangBus_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_BangBus_Blueprint.description>Transport de passagers rudimentaire, le Combi est un engin relativement peu coûteux à construire pour transporter des personnes sur des routes en terrain plat. Il est déconseillé de l'utiliser en hiver ou sur un terrain enneigé, ou les deux, car les légères plaques de blindage qui protègent les passagers ont un effet négatif sur son accélération.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_BangBus_Blueprint.description-->
+
+<VVE_BangBus.label>Combi</VVE_BangBus.label>
+<VVE_BangBus.description>Transport de passagers rudimentaire, le Combi est un engin relativement peu coûteux à construire pour transporter des personnes sur des routes en terrain plat. Il est déconseillé de l'utiliser en hiver ou sur un terrain enneigé, ou les deux, car les légères plaques de blindage qui protègent les passagers ont un effet négatif sur son accélération.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_BangBus.description>
+<VVE_BangBus.components.0.label>Moteur</VVE_BangBus.components.0.label>
+<VVE_BangBus.components.1.label>Roue avant gauche</VVE_BangBus.components.1.label>
+<VVE_BangBus.components.2.label>Roue avant droite</VVE_BangBus.components.2.label>
+<VVE_BangBus.components.3.label>Roue arrière gauche</VVE_BangBus.components.3.label>
+<VVE_BangBus.components.4.label>Roue arrière droite</VVE_BangBus.components.4.label>
+<VVE_BangBus.components.5.label>Suspension avant gauche</VVE_BangBus.components.5.label>
+<VVE_BangBus.components.6.label>Suspension avant droite</VVE_BangBus.components.6.label>
+<VVE_BangBus.components.7.label>Boîte de vitesses</VVE_BangBus.components.7.label>
+<VVE_BangBus.components.8.label>Panneau latéral gauche</VVE_BangBus.components.8.label>
+<VVE_BangBus.components.9.label>Panneau latéral droit</VVE_BangBus.components.9.label>
+<VVE_BangBus.components.10.label>Réservoir</VVE_BangBus.components.10.label>
+<VVE_BangBus.components.11.label>Pare-chocs avant</VVE_BangBus.components.11.label>
+<VVE_BangBus.components.12.label>Pare-chocs arrière</VVE_BangBus.components.12.label>
+<VVE_BangBus.components.13.label>Garniture</VVE_BangBus.components.13.label>
+<VVE_BangBus.components.14.label>Tableau de bord</VVE_BangBus.components.14.label>
+<VVE_BangBus.components.15.label>Volant</VVE_BangBus.components.15.label>
+<VVE_BangBus.components.16.label>Alternateur</VVE_BangBus.components.16.label>
+<VVE_BangBus.components.17.label>Capot</VVE_BangBus.components.17.label>
+<VVE_BangBus.components.18.label>Toit</VVE_BangBus.components.18.label>
+<!--VVE_BangBus.properties.healthLabel_Injured>Besoin de réparations</VVE_BangBus.properties.healthLabel_Injured-->
+<VVE_BangBus.properties.roles.0.label>Conducteur</VVE_BangBus.properties.roles.0.label>
+<VVE_BangBus.properties.roles.1.label>Tireur</VVE_BangBus.properties.roles.1.label>
+<VVE_BangBus.properties.roles.2.label>Passager arrière</VVE_BangBus.properties.roles.2.label>
+
+<!--VVE_Dinghy_Blueprint.label>annexe</VVE_Dinghy_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Dinghy_Blueprint.description>Bateau motorisé très rudimentaire, l'annexe est un moyen de transport sur l'eau incroyablement bon marché et discret. Il a une bonne capacité de chargement, mais risque d'être bloqué par le gel en hiver et se déplace lentement sur les rivières. Le moteur exposé à l'arrière est vulnérable aux attaques et il ne faut pas s'attendre à ce que le blindage de la coque résiste aux armes à projectiles.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Dinghy_Blueprint.description-->
+
+<VVE_Dinghy.label>Annexe</VVE_Dinghy.label>
+<VVE_Dinghy.description>Bateau motorisé très rudimentaire, l'Annexe est un moyen de transport sur l'eau incroyablement bon marché et discret. Il a une bonne capacité de chargement, mais risque d'être bloqué par le gel en hiver et se déplace lentement sur les rivières. Le moteur exposé à l'arrière est vulnérable aux attaques et il ne faut pas s'attendre à ce que le blindage de la coque résiste aux armes à projectiles.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Dinghy.description>
+<VVE_Dinghy.components.0.label>Moteur</VVE_Dinghy.components.0.label>
+<VVE_Dinghy.components.1.label>Coque latéral gauche</VVE_Dinghy.components.1.label>
+<VVE_Dinghy.components.2.label>Coque latéral droite</VVE_Dinghy.components.2.label>
+<!--VVE_Dinghy.properties.healthLabel_Injured>Besoin de réparations</VVE_Dinghy.properties.healthLabel_Injured-->
+<VVE_Dinghy.properties.roles.0.label>Conducteur</VVE_Dinghy.properties.roles.0.label>
+<VVE_Dinghy.properties.roles.1.label>Passager 1</VVE_Dinghy.properties.roles.1.label>
+<VVE_Dinghy.properties.roles.2.label>Passager 2</VVE_Dinghy.properties.roles.2.label>
+<VVE_Dinghy.properties.roles.3.label>Passager 3</VVE_Dinghy.properties.roles.3.label>
+<VVE_Dinghy.properties.roles.4.label>Passager 4</VVE_Dinghy.properties.roles.4.label>
+<VVE_Dinghy.properties.roles.5.label>Passager 5</VVE_Dinghy.properties.roles.5.label>
+
+<!--VVE_Dirtbike_Blueprint.label>motocross</VVE_Dirtbike_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Dirtbike_Blueprint.description>Moto tout-terrain rudimentaire, la motocross est un véhicule très bon marché qui permet à un seul utilisateur de se déplacer rapidement, efficacement et silencieusement. Incroyablement légère et pratiquement dépourvue de blindage, elle est peu performante en hiver ou dans la neige, voire les deux, et n'a absolument aucune capacité de chargement.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Dirtbike_Blueprint.description-->
+
+<VVE_Dirtbike.label>Motocross</VVE_Dirtbike.label>
+<VVE_Dirtbike.description>Moto tout-terrain rudimentaire, la Motocross est un véhicule très bon marché qui permet à un seul utilisateur de se déplacer rapidement, efficacement et silencieusement. Incroyablement légère et pratiquement dépourvue de blindage, elle est peu performante en hiver ou dans la neige, voire les deux, et n'a absolument aucune capacité de chargement.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Dirtbike.description>
+<VVE_Dirtbike.components.0.label>Roue avant</VVE_Dirtbike.components.0.label>
+<VVE_Dirtbike.components.1.label>Roue arrière</VVE_Dirtbike.components.1.label>
+<VVE_Dirtbike.components.2.label>Moteur</VVE_Dirtbike.components.2.label>
+<VVE_Dirtbike.components.3.label>Suspension avant</VVE_Dirtbike.components.3.label>
+<VVE_Dirtbike.components.4.label>Suspension arrière</VVE_Dirtbike.components.4.label>
+<!--VVE_Dirtbike.properties.healthLabel_Injured>Besoin de réparations</VVE_Dirtbike.properties.healthLabel_Injured-->
+<VVE_Dirtbike.properties.roles.0.label>Motard</VVE_Dirtbike.properties.roles.0.label>
+
+<!--VVE_Frog_Blueprint.label>grenouille</VVE_Frog_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Frog_Blueprint.description>Capsule de transport réutilisable rudimentaire, la grenouille est un véhicule relativement bon marché qui constitue la première option lorsqu'il s'agit de voler sans s'écraser au sol. Plus rapide que les capsules de transport conventionnelles et doté d'un blindage acceptable pour son unique passager, c'est un véhicule d'embuscade idéal.\n\nPire encore que les autres véhicules de niveau 1, l'efficacité énergétique n'est pas au rendez-vous avec ce moyen de transport. Il faut veiller à faire le plein sur le site d'atterrissage ou à voyager avec suffisamment de carburant en réserve pour effectuer le voyage de retour.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Opérateur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Frog_Blueprint.description-->
+
+<VVE_Frog.label>Grenouille</VVE_Frog.label>
+<VVE_Frog.description>Capsule de transport réutilisable rudimentaire, la grenouille est un véhicule relativement bon marché qui constitue la première option lorsqu'il s'agit de voler sans s'écraser au sol. Plus rapide que les capsules de transport conventionnelles et doté d'un blindage acceptable pour son unique passager, c'est un véhicule d'embuscade idéal.\n\nPire encore que les autres véhicules de niveau 1, l'efficacité énergétique n'est pas au rendez-vous avec ce moyen de transport. Il faut veiller à faire le plein sur le site d'atterrissage ou à voyager avec suffisamment de carburant en réserve pour effectuer le voyage de retour.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Opérateur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Frog.description>
+<VVE_Frog.components.0.label>Moteur</VVE_Frog.components.0.label>
+<VVE_Frog.components.1.label>Premier propulseur</VVE_Frog.components.1.label>
+<VVE_Frog.components.2.label>Deuxième propulseur</VVE_Frog.components.2.label>
+<VVE_Frog.components.3.label>Troisième propulseur</VVE_Frog.components.3.label>
+<VVE_Frog.components.4.label>Stabilisateurs</VVE_Frog.components.4.label>
+<!--VVE_Frog.properties.healthLabel_Injured>Besoin de réparations</VVE_Frog.properties.healthLabel_Injured-->
+<VVE_Frog.properties.roles.0.label>Opérateur</VVE_Frog.properties.roles.0.label>
+
+<!--VVE_Highwayman_Blueprint.label>highwayman</VVE_Highwayman_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Highwayman_Blueprint.description>Véhicule de combat d'infanterie rudimentaire, le Highwayman est l'option armée la moins chère pour le transport de trois personnes. Renforcé contre les tirs d'armes légères mais très vulnérable à l'arrière, il est destiné à fournir un appui-feu mobile à l'infanterie et à se déplacer rapidement sur les routes pavées.\n\nComme les autres véhicules de niveau 1, il consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes, il est également moins économe en carburant sur la carte monde.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Highwayman_Blueprint.description-->
+
+<VVE_Highwayman.label>Highwayman</VVE_Highwayman.label>
+<VVE_Highwayman.description>Véhicule de combat d'infanterie rudimentaire, le Highwayman est l'option armée la moins chère pour le transport de trois personnes. Renforcé contre les tirs d'armes légères mais très vulnérable à l'arrière, il est destiné à fournir un appui-feu mobile à l'infanterie et à se déplacer rapidement sur les routes pavées.\n\nComme les autres véhicules de niveau 1, il consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes, il est également moins économe en carburant sur la carte monde.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Highwayman.description>
+<VVE_Highwayman.components.0.label>Moteur</VVE_Highwayman.components.0.label>
+<VVE_Highwayman.components.1.label>Roue avant gauche</VVE_Highwayman.components.1.label>
+<VVE_Highwayman.components.2.label>Roue avant droite</VVE_Highwayman.components.2.label>
+<VVE_Highwayman.components.3.label>Roue arrière gauche</VVE_Highwayman.components.3.label>
+<VVE_Highwayman.components.4.label>Roue arrière droite</VVE_Highwayman.components.4.label>
+<VVE_Highwayman.components.5.label>Suspension avant gauche</VVE_Highwayman.components.5.label>
+<VVE_Highwayman.components.6.label>Suspension avant droite</VVE_Highwayman.components.6.label>
+<VVE_Highwayman.components.7.label>Suspension arrière gauche</VVE_Highwayman.components.7.label>
+<VVE_Highwayman.components.8.label>Suspension arrière droite</VVE_Highwayman.components.8.label>
+<VVE_Highwayman.components.9.label>Boîte de vitesses</VVE_Highwayman.components.9.label>
+<VVE_Highwayman.components.10.label>Plaque de blindage avant</VVE_Highwayman.components.10.label>
+<VVE_Highwayman.components.11.label>Plaque de blindage gauche</VVE_Highwayman.components.11.label>
+<VVE_Highwayman.components.12.label>Plaque de blindage droite</VVE_Highwayman.components.12.label>
+<VVE_Highwayman.components.13.label>Réservoir</VVE_Highwayman.components.13.label>
+<VVE_Highwayman.components.14.label>Pare-chocs avant</VVE_Highwayman.components.14.label>
+<VVE_Highwayman.components.15.label>Garniture</VVE_Highwayman.components.15.label>
+<VVE_Highwayman.components.16.label>Tableau de bord</VVE_Highwayman.components.16.label>
+<VVE_Highwayman.components.17.label>Volant</VVE_Highwayman.components.17.label>
+<VVE_Highwayman.components.18.label>Alternateur</VVE_Highwayman.components.18.label>
+<VVE_Highwayman.components.19.label>Toit</VVE_Highwayman.components.19.label>
+<VVE_Highwayman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Highwayman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!--VVE_Highwayman.properties.healthLabel_Injured>Besoin de réparations</VVE_Highwayman.properties.healthLabel_Injured-->
+<VVE_Highwayman.properties.roles.0.label>Conducteur</VVE_Highwayman.properties.roles.0.label>
+<VVE_Highwayman.properties.roles.1.label>Tireur</VVE_Highwayman.properties.roles.1.label>
+<VVE_Highwayman.properties.roles.2.label>Passager</VVE_Highwayman.properties.roles.2.label>
+
+<!--VVE_Mule_Blueprint.label>mule</VVE_Mule_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Mule_Blueprint.description>Véhicule de transport de marchandises rudimentaire, la Mule est un véhicule relativement bon marché qui peut transporter une grande quantité de marchandises sur des routes lisses et des terrains plats. Il n'est pas recommandé de l'utiliser en hiver ou sur un terrain enneigé, ou les deux, et son blindage est très léger pour économiser du poids.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes. Contrairement aux autres véhicules de niveau 1, celui-ci est plus performant sur la carte monde car il est légèrement plus rapide et plus économe en carburant.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Mule_Blueprint.description-->
+
+<VVE_Mule.label>Mule</VVE_Mule.label>
+<VVE_Mule.description>Véhicule de transport de marchandises rudimentaire, la Mule est un véhicule relativement bon marché qui peut transporter une grande quantité de marchandises sur des routes lisses et des terrains plats. Il n'est pas recommandé de l'utiliser en hiver ou sur un terrain enneigé, ou les deux, et son blindage est très léger pour économiser du poids.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes. Contrairement aux autres véhicules de niveau 1, celui-ci est plus performant sur la carte monde car il est légèrement plus rapide et plus économe en carburant.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Mule.description>
+<VVE_Mule.components.0.label>Moteur</VVE_Mule.components.0.label>
+<VVE_Mule.components.1.label>Roue avant gauche</VVE_Mule.components.1.label>
+<VVE_Mule.components.2.label>Roue avant droite</VVE_Mule.components.2.label>
+<VVE_Mule.components.3.label>Roue arrière gauche</VVE_Mule.components.3.label>
+<VVE_Mule.components.4.label>Roue arrière droite</VVE_Mule.components.4.label>
+<VVE_Mule.components.5.label>Suspension avant gauche</VVE_Mule.components.5.label>
+<VVE_Mule.components.6.label>Suspension avant droite</VVE_Mule.components.6.label>
+<VVE_Mule.components.7.label>Suspension arrière gauche</VVE_Mule.components.7.label>
+<VVE_Mule.components.8.label>Suspension arrière droite</VVE_Mule.components.8.label>
+<VVE_Mule.components.9.label>Boîte de vitesses</VVE_Mule.components.9.label>
+<VVE_Mule.components.10.label>Panneau latéral gauche</VVE_Mule.components.10.label>
+<VVE_Mule.components.11.label>Panneau latéral droit</VVE_Mule.components.11.label>
+<VVE_Mule.components.12.label>Réservoir</VVE_Mule.components.12.label>
+<VVE_Mule.components.13.label>Pare-chocs avant</VVE_Mule.components.13.label>
+<VVE_Mule.components.14.label>Pare-chocs arrière</VVE_Mule.components.14.label>
+<VVE_Mule.components.15.label>Garniture</VVE_Mule.components.15.label>
+<VVE_Mule.components.16.label>Tableau de bord</VVE_Mule.components.16.label>
+<VVE_Mule.components.17.label>Volant</VVE_Mule.components.17.label>
+<VVE_Mule.components.18.label>Alternateur</VVE_Mule.components.18.label>
+<VVE_Mule.components.19.label>Capot</VVE_Mule.components.19.label>
+<VVE_Mule.components.20.label>Toit</VVE_Mule.components.20.label>
+<!--VVE_Mule.properties.healthLabel_Injured>Besoin de réparations</VVE_Mule.properties.healthLabel_Injured-->
+<VVE_Mule.properties.roles.0.label>Conducteur</VVE_Mule.properties.roles.0.label>
+<VVE_Mule.properties.roles.1.label>Passager</VVE_Mule.properties.roles.1.label>
+
+<!--VVE_Prowler_Blueprint.label>rôdeur</VVE_Prowler_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Prowler_Blueprint.description>Véhicule d'exploration tout-terrain rudimentaire, le Rôdeur est relativement peu coûteux à construire et constitue une option efficace pour se déplacer par tous les temps sur des terrains accidentés. Très peu blindé et doté d'un moteur vulnérable monté à l'arrière, il est préférable de garder ce véhicule à usage unique à l'écart des combats.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Prowler_Blueprint.description-->
+
+<VVE_Prowler.label>Rôdeur</VVE_Prowler.label>
+<VVE_Prowler.description>Véhicule d'exploration tout-terrain rudimentaire, le Rôdeur est relativement peu coûteux à construire et constitue une option efficace pour se déplacer par tous les temps sur des terrains accidentés. Très peu blindé et doté d'un moteur vulnérable monté à l'arrière, il est préférable de garder ce véhicule à usage unique à l'écart des combats.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Prowler.description>
+<VVE_Prowler.components.0.label>Moteur</VVE_Prowler.components.0.label>
+<VVE_Prowler.components.1.label>Roue avant gauche</VVE_Prowler.components.1.label>
+<VVE_Prowler.components.2.label>Roue avant droite</VVE_Prowler.components.2.label>
+<VVE_Prowler.components.3.label>Roue arrière gauche</VVE_Prowler.components.3.label>
+<VVE_Prowler.components.4.label>Roue arrière droite</VVE_Prowler.components.4.label>
+<VVE_Prowler.components.5.label>Suspension avant gauche</VVE_Prowler.components.5.label>
+<VVE_Prowler.components.6.label>Suspension avant droite</VVE_Prowler.components.6.label>
+<VVE_Prowler.components.7.label>Suspension arrière gauche</VVE_Prowler.components.7.label>
+<VVE_Prowler.components.8.label>Suspension arrière droite</VVE_Prowler.components.8.label>
+<VVE_Prowler.components.9.label>Boîte de vitesses</VVE_Prowler.components.9.label>
+<VVE_Prowler.components.10.label>Panneau latéral gauche</VVE_Prowler.components.10.label>
+<VVE_Prowler.components.11.label>Panneau latéral droit</VVE_Prowler.components.11.label>
+<VVE_Prowler.components.12.label>Réservoir</VVE_Prowler.components.12.label>
+<VVE_Prowler.components.13.label>Pare-chocs avant</VVE_Prowler.components.13.label>
+<VVE_Prowler.components.14.label>Pare-chocs arrière</VVE_Prowler.components.14.label>
+<VVE_Prowler.components.15.label>Garniture</VVE_Prowler.components.15.label>
+<VVE_Prowler.components.16.label>Tableau de bord</VVE_Prowler.components.16.label>
+<VVE_Prowler.components.17.label>Volant</VVE_Prowler.components.17.label>
+<VVE_Prowler.components.18.label>Alternateur</VVE_Prowler.components.18.label>
+<VVE_Prowler.components.19.label>Capot</VVE_Prowler.components.19.label>
+<VVE_Prowler.components.20.label>Toit</VVE_Prowler.components.20.label>
+<!--VVE_Prowler.properties.healthLabel_Injured>Besoin de réparations</VVE_Prowler.properties.healthLabel_Injured-->
+<VVE_Prowler.properties.roles.0.label>Conducteur</VVE_Prowler.properties.roles.0.label>
+
+<!--VVE_Roadkill_Blueprint.label>roadkill</VVE_Roadkill_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Roadkill_Blueprint.description>Char moyen rudimentaire, le Roadkill est un véhicule blindé relativement bon marché, adapté aux engagements courts. Il est très bien blindé contre les attaques frontales, mais les attaques latérales peuvent bloquer les mouvements et le moteur exposé à l'arrière le rend vulnérable aux attaques de flanc.\n\nAlors que les autres véhicules de niveau 1 sont gourmands en carburant, celui-ci en consomme à une vitesse alarmante et il est extrêmement lent à réparer.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Roadkill_Blueprint.description-->
+
+<Bullet_Roadkill_MainTurret.label>obus hautement explosif</Bullet_Roadkill_MainTurret.label>
+
+<VVE_Roadkill.label>Roadkill</VVE_Roadkill.label>
+<VVE_Roadkill.description>Char moyen rudimentaire, le Roadkill est un véhicule blindé relativement bon marché, adapté aux engagements courts. Il est très bien blindé contre les attaques frontales, mais les attaques latérales peuvent bloquer les mouvements et le moteur exposé à l'arrière le rend vulnérable aux attaques de flanc.\n\nAlors que les autres véhicules de niveau 1 sont gourmands en carburant, celui-ci en consomme à une vitesse alarmante et il est extrêmement lent à réparer.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Roadkill.description>
+<VVE_Roadkill.components.0.label>Moteur</VVE_Roadkill.components.0.label>
+<VVE_Roadkill.components.1.label>Chenille gauche</VVE_Roadkill.components.1.label>
+<VVE_Roadkill.components.2.label>Chenille droite</VVE_Roadkill.components.2.label>
+<VVE_Roadkill.components.3.label>Roue barbotin gauche</VVE_Roadkill.components.3.label>
+<VVE_Roadkill.components.4.label>Roue barbotin droite</VVE_Roadkill.components.4.label>
+<VVE_Roadkill.components.5.label>Roue folle/tendeur gauche</VVE_Roadkill.components.5.label>
+<VVE_Roadkill.components.6.label>Roue folle/tendeur droite</VVE_Roadkill.components.6.label>
+<VVE_Roadkill.components.7.label>Boîte de vitesses</VVE_Roadkill.components.7.label>
+<VVE_Roadkill.components.8.label>Plaque de blindage gauche</VVE_Roadkill.components.8.label>
+<VVE_Roadkill.components.9.label>Plaque de blindage droite</VVE_Roadkill.components.9.label>
+<VVE_Roadkill.components.10.label>Plaque de blindage avant</VVE_Roadkill.components.10.label>
+<VVE_Roadkill.components.11.label>Réservoir</VVE_Roadkill.components.11.label>
+<VVE_Roadkill.components.12.label>Tableau de bord</VVE_Roadkill.components.12.label>
+<VVE_Roadkill.components.13.label>Appareil de pilotage</VVE_Roadkill.components.13.label>
+<VVE_Roadkill.components.14.label>Alternateur</VVE_Roadkill.components.14.label>
+<VVE_Roadkill.components.15.label>Toit</VVE_Roadkill.components.15.label>
+<VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!--VVE_Roadkill.properties.healthLabel_Injured>Besoin de réparations</VVE_Roadkill.properties.healthLabel_Injured-->
+<VVE_Roadkill.properties.roles.0.label>Conducteur</VVE_Roadkill.properties.roles.0.label>
+
+<!--VVE_Traveller_Blueprint.label>voyageur</VVE_Traveller_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Traveller_Blueprint.description>Véhicule routier rudimentaire adapté aux terrains plats, le Voyageur est une option relativement bon marché et rapide qui se comporte plutôt bien par temps froid et dans des conditions enneigées. Son blindage léger et son moteur frontal exposé l'incitent à fuir les ennuis plutôt qu'à les affronter.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes. La vitesse et l'accélération supplémentaires rendent le véhicule encore moins économe en carburant et plus long à réparer.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Traveller_Blueprint.description-->
+
+<VVE_Traveller.label>Voyageur</VVE_Traveller.label>
+<VVE_Traveller.description>Véhicule routier rudimentaire adapté aux terrains plats, le Voyageur est une option relativement bon marché et rapide qui se comporte plutôt bien par temps froid et dans des conditions enneigées. Son blindage léger et son moteur frontal exposé l'incitent à fuir les ennuis plutôt qu'à les affronter.\n\nComme les autres véhicules de niveau 1, il s'agit d'un véhicule qui consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes. La vitesse et l'accélération supplémentaires rendent le véhicule encore moins économe en carburant et plus long à réparer.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Traveller.description>
+<VVE_Traveller.components.0.label>Moteur</VVE_Traveller.components.0.label>
+<VVE_Traveller.components.1.label>Roue avant gauche</VVE_Traveller.components.1.label>
+<VVE_Traveller.components.2.label>Roue avant droite</VVE_Traveller.components.2.label>
+<VVE_Traveller.components.3.label>Roue arrière gauche</VVE_Traveller.components.3.label>
+<VVE_Traveller.components.4.label>Roue arrière droite</VVE_Traveller.components.4.label>
+<VVE_Traveller.components.5.label>Suspension avant gauche</VVE_Traveller.components.5.label>
+<VVE_Traveller.components.6.label>Suspension avant droite</VVE_Traveller.components.6.label>
+<VVE_Traveller.components.7.label>Suspension arrière gauche</VVE_Traveller.components.7.label>
+<VVE_Traveller.components.8.label>Suspension arrière droite</VVE_Traveller.components.8.label>
+<VVE_Traveller.components.9.label>Boîte de vitesses</VVE_Traveller.components.9.label>
+<VVE_Traveller.components.10.label>Panneau latéral gauche</VVE_Traveller.components.10.label>
+<VVE_Traveller.components.11.label>Panneau latéral droit</VVE_Traveller.components.11.label>
+<VVE_Traveller.components.12.label>Réservoir</VVE_Traveller.components.12.label>
+<VVE_Traveller.components.13.label>Pare-chocs avant</VVE_Traveller.components.13.label>
+<VVE_Traveller.components.14.label>Pare-chocs arrière</VVE_Traveller.components.14.label>
+<VVE_Traveller.components.15.label>Garniture</VVE_Traveller.components.15.label>
+<VVE_Traveller.components.16.label>Tableau de bord</VVE_Traveller.components.16.label>
+<VVE_Traveller.components.17.label>Volant</VVE_Traveller.components.17.label>
+<VVE_Traveller.components.18.label>Alternateur</VVE_Traveller.components.18.label>
+<VVE_Traveller.components.19.label>Capot</VVE_Traveller.components.19.label>
+<VVE_Traveller.components.20.label>Toit</VVE_Traveller.components.20.label>
+<!--VVE_Traveller.properties.healthLabel_Injured>Besoin de réparations</VVE_Traveller.properties.healthLabel_Injured-->
+<VVE_Traveller.properties.roles.0.label>Conducteur</VVE_Traveller.properties.roles.0.label>
+<VVE_Traveller.properties.roles.1.label>Passager</VVE_Traveller.properties.roles.1.label>
+
+<!--VVE_Bulldog_Blueprint.label>bulldog</VVE_Bulldog_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Bulldog_Blueprint.description>Char de combat général, le Bulldog est un véhicule de combat amélioré qui se comporte bien dans tous les engagements. Il est plus performant sur les terrains moins favorables, car il est blindé de tous les côtés, le blindage le plus fin se trouvant à l'arrière, près du moteur.\n\nContrairement aux autres véhicules de niveau 2, le Bulldog a une consommation de carburant normale et il est plutôt visible, ce qui constitue tout de même une amélioration par rapport au char d'assaut de niveau 1.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Bulldog_Blueprint.description-->
+
+<Bullet_Bulldog_MainTurret.label>obus hautement explosif</Bullet_Bulldog_MainTurret.label>
+
+<VVE_Bulldog.label>Bulldog</VVE_Bulldog.label>
+<VVE_Bulldog.description>Char de combat général, le Bulldog est un véhicule de combat amélioré qui se comporte bien dans tous les engagements. Il est plus performant sur les terrains moins favorables, car il est blindé de tous les côtés, le blindage le plus fin se trouvant à l'arrière, près du moteur.\n\nContrairement aux autres véhicules de niveau 2, le Bulldog a une consommation de carburant normale et il est plutôt visible, ce qui constitue tout de même une amélioration par rapport au char d'assaut de niveau 1.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Bulldog.description>
+<VVE_Bulldog.components.0.label>Moteur</VVE_Bulldog.components.0.label>
+<VVE_Bulldog.components.1.label>Chenille gauche</VVE_Bulldog.components.1.label>
+<VVE_Bulldog.components.2.label>Chenille droite</VVE_Bulldog.components.2.label>
+<VVE_Bulldog.components.3.label>Roue barbotin gauche</VVE_Bulldog.components.3.label>
+<VVE_Bulldog.components.4.label>Roue barbotin droite</VVE_Bulldog.components.4.label>
+<VVE_Bulldog.components.5.label>Roue folle/tendeur gauche</VVE_Bulldog.components.5.label>
+<VVE_Bulldog.components.6.label>Roue folle/tendeur droite</VVE_Bulldog.components.6.label>
+<VVE_Bulldog.components.7.label>Boîte de vitesses</VVE_Bulldog.components.7.label>
+<VVE_Bulldog.components.8.label>Plaque de blindage avant</VVE_Bulldog.components.8.label>
+<VVE_Bulldog.components.9.label>Plaque de blindage gauche</VVE_Bulldog.components.9.label>
+<VVE_Bulldog.components.10.label>Plaque de blindage droite</VVE_Bulldog.components.10.label>
+<VVE_Bulldog.components.11.label>Plaque de blindage arrière</VVE_Bulldog.components.11.label>
+<VVE_Bulldog.components.12.label>Réservoir</VVE_Bulldog.components.12.label>
+<VVE_Bulldog.components.13.label>Tableau de bord</VVE_Bulldog.components.13.label>
+<VVE_Bulldog.components.14.label>Appareil de pilotage</VVE_Bulldog.components.14.label>
+<VVE_Bulldog.components.15.label>Alternateur</VVE_Bulldog.components.15.label>
+<VVE_Bulldog.components.16.label>Toit</VVE_Bulldog.components.16.label>
+<VVE_Bulldog.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Bulldog.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!--VVE_Bulldog.properties.healthLabel_Injured>Besoin de réparations</VVE_Bulldog.properties.healthLabel_Injured-->
+<VVE_Bulldog.properties.roles.0.label>Conducteur</VVE_Bulldog.properties.roles.0.label>
+<VVE_Bulldog.properties.roles.1.label>Tireur</VVE_Bulldog.properties.roles.1.label>
+
+<!--VVE_Charley_Blueprint.label>charley</VVE_Charley_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Charley_Blueprint.description>Moto polyvalente, la Charley est un véhicule très efficace pour une personne seule, avec une petite capacité de chargement. Elle se comporte bien sur toutes les routes, sauf en hiver ou sur les terrains enneigés, ou les deux, avec une vitesse accrue sur la carte monde.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Charley_Blueprint.description-->
+
+<VVE_Charley.label>Charley</VVE_Charley.label>
+<VVE_Charley.description>Moto polyvalente, la Charley est un véhicule très efficace pour une personne seule, avec une petite capacité de chargement. Elle se comporte bien sur toutes les routes, sauf en hiver ou sur les terrains enneigés, ou les deux, avec une vitesse accrue sur la carte monde.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Charley.description>
+<VVE_Charley.components.0.label>Roue avant</VVE_Charley.components.0.label>
+<VVE_Charley.components.1.label>Roue arrière</VVE_Charley.components.1.label>
+<VVE_Charley.components.2.label>Moteur</VVE_Charley.components.2.label>
+<VVE_Charley.components.3.label>Suspension avant</VVE_Charley.components.3.label>
+<VVE_Charley.components.4.label>Suspension arrière</VVE_Charley.components.4.label>
+<!--VVE_Charley.properties.healthLabel_Injured>Besoin de réparations</VVE_Charley.properties.healthLabel_Injured-->
+<VVE_Charley.properties.roles.0.label>Motard</VVE_Charley.properties.roles.0.label>
+
+<!--VVE_Mosquito_Blueprint.label>mosquito</VVE_Mosquito_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Mosquito_Blueprint.description>Hélicoptère polyvalent, le Mosquito est un moyen de transport extrêmement rapide et mobile. Bien qu'il ne nécessite pas de piste d'atterrissage, il est plus lent que les avions et a une capacité de chargement moindre.\n\nComme les autres véhicules de niveau 2, il a une efficacité énergétique double sur la carte monde, ce qui le rend plus efficace que les véhicules de niveau 1.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Mosquito_Blueprint.description-->
+
+<VVE_Mosquito.label>Mosquito</VVE_Mosquito.label>
+<VVE_Mosquito.description>Hélicoptère polyvalent, le Mosquito est un moyen de transport extrêmement rapide et mobile. Bien qu'il ne nécessite pas de piste d'atterrissage, il est plus lent que les avions et a une capacité de chargement moindre.\n\nComme les autres véhicules de niveau 2, il a une efficacité énergétique double sur la carte monde, ce qui le rend plus efficace que les véhicules de niveau 1.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Mosquito.description>
+<VVE_Mosquito.components.0.label>Patin d'atterrissage gauche</VVE_Mosquito.components.0.label>
+<VVE_Mosquito.components.1.label>Patin d'atterrissage droit</VVE_Mosquito.components.1.label>
+<VVE_Mosquito.components.2.label>Stabilisateur gauche</VVE_Mosquito.components.2.label>
+<VVE_Mosquito.components.3.label>Stabilisateur droit</VVE_Mosquito.components.3.label>
+<VVE_Mosquito.components.4.label>Moteur</VVE_Mosquito.components.4.label>
+<VVE_Mosquito.components.5.label>Admission de carburant</VVE_Mosquito.components.5.label>
+<VVE_Mosquito.components.6.label>Transmission</VVE_Mosquito.components.6.label>
+<VVE_Mosquito.components.7.label>Empennage</VVE_Mosquito.components.7.label>
+<VVE_Mosquito.components.8.label>Panneau latéral gauche</VVE_Mosquito.components.8.label>
+<VVE_Mosquito.components.9.label>Panneau latéral droit</VVE_Mosquito.components.9.label>
+<VVE_Mosquito.components.10.label>Réservoir</VVE_Mosquito.components.10.label>
+<VVE_Mosquito.components.11.label>Mât du rotor</VVE_Mosquito.components.11.label>
+<VVE_Mosquito.components.12.label>Garniture</VVE_Mosquito.components.12.label>
+<VVE_Mosquito.components.13.label>Tableau de bord</VVE_Mosquito.components.13.label>
+<VVE_Mosquito.components.14.label>Pédale du palonnier</VVE_Mosquito.components.14.label>
+<VVE_Mosquito.components.15.label>Servomoteurs</VVE_Mosquito.components.15.label>
+<!--VVE_Mosquito.properties.healthLabel_Injured>Besoin de réparations</VVE_Mosquito.properties.healthLabel_Injured-->
+<VVE_Mosquito.properties.roles.0.label>Pilote</VVE_Mosquito.properties.roles.0.label>
+<VVE_Mosquito.properties.roles.1.label>Passager</VVE_Mosquito.properties.roles.1.label>
+
+<!--VVE_Roadrunner_Blueprint.label>pick-up</VVE_Roadrunner_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Roadrunner_Blueprint.description>Transporteur de marchandises, le Pick-up est un excellent véhicule pour transporter beaucoup de matériel d'un endroit à un autre. Mieux adapté aux routes plates, il éprouve quelques difficultés sur les collines, la neige ou les tuiles d'hiver.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Roadrunner_Blueprint.description-->
+
+<VVE_Roadrunner.label>Pick-up</VVE_Roadrunner.label>
+<VVE_Roadrunner.description>Transporteur de marchandises, le Pick-up est un excellent véhicule pour transporter beaucoup de matériel d'un endroit à un autre. Mieux adapté aux routes plates, il éprouve quelques difficultés sur les collines, la neige ou les tuiles d'hiver.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Roadrunner.description>
+<VVE_Roadrunner.components.0.label>Moteur</VVE_Roadrunner.components.0.label>
+<VVE_Roadrunner.components.1.label>Roue avant gauche</VVE_Roadrunner.components.1.label>
+<VVE_Roadrunner.components.2.label>Roue avant droite</VVE_Roadrunner.components.2.label>
+<VVE_Roadrunner.components.3.label>Roue arrière gauche</VVE_Roadrunner.components.3.label>
+<VVE_Roadrunner.components.4.label>Roue arrière droite</VVE_Roadrunner.components.4.label>
+<VVE_Roadrunner.components.5.label>Suspension avant gauche</VVE_Roadrunner.components.5.label>
+<VVE_Roadrunner.components.6.label>Suspension avant droite</VVE_Roadrunner.components.6.label>
+<VVE_Roadrunner.components.7.label>Suspension arrière gauche</VVE_Roadrunner.components.7.label>
+<VVE_Roadrunner.components.8.label>Suspension arrière droite</VVE_Roadrunner.components.8.label>
+<VVE_Roadrunner.components.9.label>Boîte de vitesses</VVE_Roadrunner.components.9.label>
+<VVE_Roadrunner.components.10.label>Panneau latéral gauche</VVE_Roadrunner.components.10.label>
+<VVE_Roadrunner.components.11.label>Panneau latéral droit</VVE_Roadrunner.components.11.label>
+<VVE_Roadrunner.components.12.label>Réservoir</VVE_Roadrunner.components.12.label>
+<VVE_Roadrunner.components.13.label>Pare-chocs avant</VVE_Roadrunner.components.13.label>
+<VVE_Roadrunner.components.14.label>Pare-chocs arrière</VVE_Roadrunner.components.14.label>
+<VVE_Roadrunner.components.15.label>Garniture</VVE_Roadrunner.components.15.label>
+<VVE_Roadrunner.components.16.label>Tableau de bord</VVE_Roadrunner.components.16.label>
+<VVE_Roadrunner.components.17.label>Volant</VVE_Roadrunner.components.17.label>
+<VVE_Roadrunner.components.18.label>Alternateur</VVE_Roadrunner.components.18.label>
+<VVE_Roadrunner.components.19.label>Capot</VVE_Roadrunner.components.19.label>
+<VVE_Roadrunner.components.20.label>Toit</VVE_Roadrunner.components.20.label>
+<!--VVE_Roadrunner.properties.healthLabel_Injured>Besoin de réparations</VVE_Roadrunner.properties.healthLabel_Injured-->
+<VVE_Roadrunner.properties.roles.0.label>Conducteur</VVE_Roadrunner.properties.roles.0.label>
+<VVE_Roadrunner.properties.roles.1.label>Passager</VVE_Roadrunner.properties.roles.1.label>
+
+<!--VVE_Smuggler_Blueprint.label>contrebandier</VVE_Smuggler_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Smuggler_Blueprint.description>Avion polyvalent, le Contrebandier est un moyen de transport extrêmement rapide et efficace. Bien qu'il soit plus rapide et puisse transporter plus de marchandises que les hélicoptères, il a besoin d'une piste d'atterrissage pour décoller et atterrir.\n\nContrairement aux autres véhicules de niveau 2, il a un rendement énergétique normal sur la carte monde, mais se déplace beaucoup plus rapidement en retour.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Smuggler_Blueprint.description-->
+
+<VVE_Smuggler.label>Contrebandier</VVE_Smuggler.label>
+<VVE_Smuggler.description>Avion polyvalent, le Contrebandier est un moyen de transport extrêmement rapide et efficace. Bien qu'il soit plus rapide et puisse transporter plus de marchandises que les hélicoptères, il a besoin d'une piste d'atterrissage pour décoller et atterrir.\n\nContrairement aux autres véhicules de niveau 2, il a un rendement énergétique normal sur la carte monde, mais se déplace beaucoup plus rapidement en retour.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Smuggler.description>
+<VVE_Smuggler.components.0.label>Moteur</VVE_Smuggler.components.0.label>
+<VVE_Smuggler.components.1.label>Train d'atterrissage gauche</VVE_Smuggler.components.1.label>
+<VVE_Smuggler.components.2.label>Train d'atterrissage droit</VVE_Smuggler.components.2.label>
+<VVE_Smuggler.components.3.label>Roue avant</VVE_Smuggler.components.3.label>
+<VVE_Smuggler.components.4.label>Stabilisateur gauche</VVE_Smuggler.components.4.label>
+<VVE_Smuggler.components.5.label>Stabilisateur droit</VVE_Smuggler.components.5.label>
+<VVE_Smuggler.components.6.label>Admission de carburant</VVE_Smuggler.components.6.label>
+<VVE_Smuggler.components.7.label>Transmission</VVE_Smuggler.components.7.label>
+<VVE_Smuggler.components.8.label>Empennage</VVE_Smuggler.components.8.label>
+<VVE_Smuggler.components.9.label>Fuselage</VVE_Smuggler.components.9.label>
+<VVE_Smuggler.components.10.label>Réservoir</VVE_Smuggler.components.10.label>
+<VVE_Smuggler.components.11.label>Aile gauche</VVE_Smuggler.components.11.label>
+<VVE_Smuggler.components.12.label>Aile droite</VVE_Smuggler.components.12.label>
+<VVE_Smuggler.components.13.label>Garniture</VVE_Smuggler.components.13.label>
+<VVE_Smuggler.components.14.label>Tableau de bord</VVE_Smuggler.components.14.label>
+<VVE_Smuggler.components.15.label>Servomoteurs</VVE_Smuggler.components.15.label>
+<!--VVE_Smuggler.properties.healthLabel_Injured>Besoin de réparations</VVE_Smuggler.properties.healthLabel_Injured-->
+<VVE_Smuggler.properties.roles.0.label>Pilote</VVE_Smuggler.properties.roles.0.label>
+<VVE_Smuggler.properties.roles.1.label>Passager</VVE_Smuggler.properties.roles.1.label>
+
+<!--VVE_Snatcher_Blueprint.label>van</VVE_Snatcher_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Snatcher_Blueprint.description>Le Van est un véhicule solide pour le transport de personnes vers différents endroits. Il est mieux adapté aux routes plates et a du mal à rouler dans la neige ou sur les collines.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Snatcher_Blueprint.description-->
+
+<VVE_Snatcher.label>Van</VVE_Snatcher.label>
+<VVE_Snatcher.description>Le Van est un véhicule solide pour le transport de personnes vers différents endroits. Il est mieux adapté aux routes plates et a du mal à rouler dans la neige ou sur les collines.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Snatcher.description>
+<VVE_Snatcher.components.0.label>Moteur</VVE_Snatcher.components.0.label>
+<VVE_Snatcher.components.1.label>Roue avant gauche</VVE_Snatcher.components.1.label>
+<VVE_Snatcher.components.2.label>Roue avant droite</VVE_Snatcher.components.2.label>
+<VVE_Snatcher.components.3.label>Roue arrière gauche</VVE_Snatcher.components.3.label>
+<VVE_Snatcher.components.4.label>Roue arrière droite</VVE_Snatcher.components.4.label>
+<VVE_Snatcher.components.5.label>Suspension avant gauche</VVE_Snatcher.components.5.label>
+<VVE_Snatcher.components.6.label>Suspension avant droite</VVE_Snatcher.components.6.label>
+<VVE_Snatcher.components.7.label>Boîte de vitesses</VVE_Snatcher.components.7.label>
+<VVE_Snatcher.components.8.label>Panneau latéral gauche</VVE_Snatcher.components.8.label>
+<VVE_Snatcher.components.9.label>Panneau latéral droit</VVE_Snatcher.components.9.label>
+<VVE_Snatcher.components.10.label>Réservoir</VVE_Snatcher.components.10.label>
+<VVE_Snatcher.components.11.label>Pare-chocs avant</VVE_Snatcher.components.11.label>
+<VVE_Snatcher.components.12.label>Pare-chocs arrière</VVE_Snatcher.components.12.label>
+<VVE_Snatcher.components.13.label>Garniture</VVE_Snatcher.components.13.label>
+<VVE_Snatcher.components.14.label>Tableau de bord</VVE_Snatcher.components.14.label>
+<VVE_Snatcher.components.15.label>Volant</VVE_Snatcher.components.15.label>
+<VVE_Snatcher.components.16.label>Alternateur</VVE_Snatcher.components.16.label>
+<VVE_Snatcher.components.17.label>Capot</VVE_Snatcher.components.17.label>
+<VVE_Snatcher.components.18.label>Toit</VVE_Snatcher.components.18.label>
+<!--VVE_Snatcher.properties.healthLabel_Injured>Besoin de réparations</VVE_Snatcher.properties.healthLabel_Injured-->
+<VVE_Snatcher.properties.roles.0.label>Conducteur</VVE_Snatcher.properties.roles.0.label>
+<VVE_Snatcher.properties.roles.1.label>Passager</VVE_Snatcher.properties.roles.1.label>
+
+<!--VVE_Tango_Blueprint.label>tango</VVE_Tango_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Tango_Blueprint.description>Véhicule blindé de transport de troupes à usage général, le Tango est un transport de troupes lent mais robuste. Il dispose de vastes soutes, d'un blindage renforcé, d'une capacité tout-terrain et d'une tourelle pouvant tirer de manière mobile ou stationnaire. Son principal inconvénient est sa consommation de carburant et son blindage légèrement plus fin à l'arrière.\n\nContrairement aux autres véhicules de niveau 2, ce véhicule a un rendement énergétique normal et est assez visible, son taux de consommation élevé limitant sa portée effective.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Passager x4\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Tango_Blueprint.description-->
+
+<VVE_Tango.label>Tango</VVE_Tango.label>
+<VVE_Tango.description>Véhicule blindé de transport de troupes à usage général, le Tango est un transport de troupes lent mais robuste. Il dispose de vastes soutes, d'un blindage renforcé, d'une capacité tout-terrain et d'une tourelle pouvant tirer de manière mobile ou stationnaire. Son principal inconvénient est sa consommation de carburant et son blindage légèrement plus fin à l'arrière.\n\nContrairement aux autres véhicules de niveau 2, ce véhicule a un rendement énergétique normal et est assez visible, son taux de consommation élevé limitant sa portée effective.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Passager x4\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Tango.description>
+<VVE_Tango.components.0.label>Moteur</VVE_Tango.components.0.label>
+<VVE_Tango.components.1.label>Chenille gauche</VVE_Tango.components.1.label>
+<VVE_Tango.components.2.label>Chenille droite</VVE_Tango.components.2.label>
+<VVE_Tango.components.3.label>Roue barbotin gauche</VVE_Tango.components.3.label>
+<VVE_Tango.components.4.label>Roue barbotin droite</VVE_Tango.components.4.label>
+<VVE_Tango.components.5.label>Roue folle/tendeur gauche</VVE_Tango.components.5.label>
+<VVE_Tango.components.6.label>Roue folle/tendeur droite</VVE_Tango.components.6.label>
+<VVE_Tango.components.7.label>Boîte de vitesses</VVE_Tango.components.7.label>
+<VVE_Tango.components.8.label>Plaque de blindage avant</VVE_Tango.components.8.label>
+<VVE_Tango.components.9.label>Plaque de blindage gauche</VVE_Tango.components.9.label>
+<VVE_Tango.components.10.label>Plaque de blindage droite</VVE_Tango.components.10.label>
+<VVE_Tango.components.11.label>Plaque de blindage arrière</VVE_Tango.components.11.label>
+<VVE_Tango.components.12.label>Réservoir</VVE_Tango.components.12.label>
+<VVE_Tango.components.13.label>Tableau de bord</VVE_Tango.components.13.label>
+<VVE_Tango.components.14.label>Appareil de pilotage</VVE_Tango.components.14.label>
+<VVE_Tango.components.15.label>Alternateur</VVE_Tango.components.15.label>
+<VVE_Tango.components.16.label>Toit</VVE_Tango.components.16.label>
+<VVE_Tango.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Tango.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!--VVE_Tango.properties.healthLabel_Injured>Besoin de réparations</VVE_Tango.properties.healthLabel_Injured-->
+<VVE_Tango.properties.roles.0.label>Conducteur</VVE_Tango.properties.roles.0.label>
+<VVE_Tango.properties.roles.1.label>Tireur</VVE_Tango.properties.roles.1.label>
+<VVE_Tango.properties.roles.2.label>Passager</VVE_Tango.properties.roles.2.label>
+
+<!--VVE_Trawler_Blueprint.label>chalutier</VVE_Trawler_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Trawler_Blueprint.description>Bateau polyvalent, le Chalutier est un moyen de transport efficace sur de longues distances en eaux libres. Ses performances sont plutôt médiocres sur les rivières et il doit voyager lentement pendant la saison hivernale.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Trawler_Blueprint.description-->
+
+<VVE_Trawler.label>Chalutier</VVE_Trawler.label>
+<VVE_Trawler.description>Bateau polyvalent, le Chalutier est un moyen de transport efficace sur de longues distances en eaux libres. Ses performances sont plutôt médiocres sur les rivières et il doit voyager lentement pendant la saison hivernale.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Trawler.description>
+<VVE_Trawler.components.0.label>Moteur</VVE_Trawler.components.0.label>
+<VVE_Trawler.components.1.label>Coque latéral gauche</VVE_Trawler.components.1.label>
+<VVE_Trawler.components.2.label>Coque latéral droite</VVE_Trawler.components.2.label>
+<!--VVE_Trawler.properties.healthLabel_Injured>Besoin de réparations</VVE_Trawler.properties.healthLabel_Injured-->
+<VVE_Trawler.properties.roles.0.label>Conducteur</VVE_Trawler.properties.roles.0.label>
+<VVE_Trawler.properties.roles.1.label>Passager</VVE_Trawler.properties.roles.1.label>
+
+<!--VVE_Wagon_Blueprint.label>break</VVE_Wagon_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Wagon_Blueprint.description>Véhicule polyvalent, le Break se comporte bien dans toutes les catégories, avec une bonne capacité de chargement et de transport de passagers. Mieux adapté aux routes plates, il éprouvera quelques difficultés sur les collines, la neige ou les tuiles d'hiver.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Wagon_Blueprint.description-->
+
+<VVE_Wagon.label>Break</VVE_Wagon.label>
+<VVE_Wagon.description>Véhicule polyvalent, le Break se comporte bien dans toutes les catégories, avec une bonne capacité de chargement et de transport de passagers. Mieux adapté aux routes plates, il éprouvera quelques difficultés sur les collines, la neige ou les tuiles d'hiver.\n\nComme les autres véhicules de niveau 2, ils ont une efficacité énergétique doublée sur la carte monde, ce qui les rend plus efficaces que les véhicules de niveau 1. Ils sont également moins visibles grâce à une meilleure fabrication.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Wagon.description>
+<VVE_Wagon.components.0.label>Moteur</VVE_Wagon.components.0.label>
+<VVE_Wagon.components.1.label>Roue avant gauche</VVE_Wagon.components.1.label>
+<VVE_Wagon.components.2.label>Roue avant droite</VVE_Wagon.components.2.label>
+<VVE_Wagon.components.3.label>Roue arrière gauche</VVE_Wagon.components.3.label>
+<VVE_Wagon.components.4.label>Roue arrière droite</VVE_Wagon.components.4.label>
+<VVE_Wagon.components.5.label>Suspension avant gauche</VVE_Wagon.components.5.label>
+<VVE_Wagon.components.6.label>Suspension avant droite</VVE_Wagon.components.6.label>
+<VVE_Wagon.components.7.label>Suspension arrière gauche</VVE_Wagon.components.7.label>
+<VVE_Wagon.components.8.label>Suspension arrière droite</VVE_Wagon.components.8.label>
+<VVE_Wagon.components.9.label>Boîte de vitesses</VVE_Wagon.components.9.label>
+<VVE_Wagon.components.10.label>Panneau latéral gauche</VVE_Wagon.components.10.label>
+<VVE_Wagon.components.11.label>Panneau latéral droit</VVE_Wagon.components.11.label>
+<VVE_Wagon.components.12.label>Réservoir</VVE_Wagon.components.12.label>
+<VVE_Wagon.components.13.label>Pare-chocs avant</VVE_Wagon.components.13.label>
+<VVE_Wagon.components.14.label>Pare-chocs arrière</VVE_Wagon.components.14.label>
+<VVE_Wagon.components.15.label>Garniture</VVE_Wagon.components.15.label>
+<VVE_Wagon.components.16.label>Tableau de bord</VVE_Wagon.components.16.label>
+<VVE_Wagon.components.17.label>Volant</VVE_Wagon.components.17.label>
+<VVE_Wagon.components.18.label>Alternateur</VVE_Wagon.components.18.label>
+<VVE_Wagon.components.19.label>Capot</VVE_Wagon.components.19.label>
+<VVE_Wagon.components.20.label>Toit</VVE_Wagon.components.20.label>
+<!--VVE_Wagon.properties.healthLabel_Injured>Besoin de réparations</VVE_Wagon.properties.healthLabel_Injured-->
+<VVE_Wagon.properties.roles.0.label>Conducteur</VVE_Wagon.properties.roles.0.label>
+<VVE_Wagon.properties.roles.1.label>Passager</VVE_Wagon.properties.roles.1.label>
+
+<!--VVE_Warbird_Blueprint.label>coucou</VVE_Warbird_Blueprint.label>  –[ Si traduit, le jeu le corrige et génère des erreurs. J’utilise un patche pour le traduire. ]–
+<VVE_Warbird_Blueprint.description>Avion de combat polyvalent, le Coucou est un appareil d'attaque incroyablement rapide et efficace. Doté d'une cargaison limitée à l'équipement de maintenance et au carburant, son objectif principal est d'engager d'autres aéronefs et d'effectuer des manœuvres de mitraillage.\n\nContrairement aux autres véhicules de niveau 2, il a un rendement énergétique normal sur la carte monde, mais se déplace beaucoup plus rapidement en retour.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Warbird_Blueprint.description-->
+
+<VVE_Warbird.label>Coucou</VVE_Warbird.label>
+<VVE_Warbird.description>Avion de combat polyvalent, le Coucou est un appareil d'attaque incroyablement rapide et efficace. Doté d'une cargaison limitée à l'équipement de maintenance et au carburant, son objectif principal est d'engager d'autres aéronefs et d'effectuer des manœuvres de mitraillage.\n\nContrairement aux autres véhicules de niveau 2, il a un rendement énergétique normal sur la carte monde, mais se déplace beaucoup plus rapidement en retour.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Warbird.description>
+<VVE_Warbird.components.0.label>Moteur</VVE_Warbird.components.0.label>
+<VVE_Warbird.components.1.label>Train d'atterrissage gauche</VVE_Warbird.components.1.label>
+<VVE_Warbird.components.2.label>Train d'atterrissage droit</VVE_Warbird.components.2.label>
+<VVE_Warbird.components.3.label>Roue avant</VVE_Warbird.components.3.label>
+<VVE_Warbird.components.4.label>Stabilisateur gauche</VVE_Warbird.components.4.label>
+<VVE_Warbird.components.5.label>Stabilisateur droit</VVE_Warbird.components.5.label>
+<VVE_Warbird.components.6.label>Admission de carburant</VVE_Warbird.components.6.label>
+<VVE_Warbird.components.7.label>Transmission</VVE_Warbird.components.7.label>
+<VVE_Warbird.components.8.label>Empennage</VVE_Warbird.components.8.label>
+<VVE_Warbird.components.9.label>Fuselage</VVE_Warbird.components.9.label>
+<VVE_Warbird.components.10.label>Réservoir</VVE_Warbird.components.10.label>
+<VVE_Warbird.components.11.label>Aile gauche</VVE_Warbird.components.11.label>
+<VVE_Warbird.components.12.label>Aile droite</VVE_Warbird.components.12.label>
+<VVE_Warbird.components.13.label>Garniture</VVE_Warbird.components.13.label>
+<VVE_Warbird.components.14.label>Tableau de bord</VVE_Warbird.components.14.label>
+<VVE_Warbird.components.15.label>Servomoteurs</VVE_Warbird.components.15.label>
+<!--VVE_Warbird.properties.healthLabel_Injured>Besoin de réparations</VVE_Warbird.properties.healthLabel_Injured-->
+<VVE_Warbird.properties.roles.0.label>Pilote</VVE_Warbird.properties.roles.0.label>
+
+<!--VVE_Bunsen_Blueprint.label>bunsen</VVE_Bunsen_Blueprint.label>
+<VVE_Bunsen_Blueprint.description>Char léger rudimentaire, le Bunsen est un véhicule blindé modifié conçu pour affronter les fortifications ennemies et l'infanterie exposée. Son blindage spécial pour éviter l'auto-immolation, combiné à son arme principale qui puise directement dans ses grands réservoirs de carburant, en font un modèle très précaire à mettre en œuvre.\n\nComme les autres véhicules de niveau 1, il consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes, il est également moins économe en carburant sur la carte monde.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Bunsen_Blueprint.description-->
+
+<VVE_Bullet_Bunsen.label>gerbe</VVE_Bullet_Bunsen.label>
+
+<VVE_Bunsen.label>Bunsen</VVE_Bunsen.label>
+<VVE_Bunsen.description>Char léger rudimentaire, le Bunsen est un véhicule blindé modifié conçu pour affronter les fortifications ennemies et l'infanterie exposée. Son blindage spécial pour éviter l'auto-immolation, combiné à son arme principale qui puise directement dans ses grands réservoirs de carburant, en font un modèle très précaire à mettre en œuvre.\n\nComme les autres véhicules de niveau 1, il consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes, il est également moins économe en carburant sur la carte monde.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Bunsen.description>
+<VVE_Bunsen.components.0.label>Moteur</VVE_Bunsen.components.0.label>
+<VVE_Bunsen.components.1.label>Chenille gauche</VVE_Bunsen.components.1.label>
+<VVE_Bunsen.components.2.label>Chenille droite</VVE_Bunsen.components.2.label>
+<VVE_Bunsen.components.3.label>Roue barbotin gauche</VVE_Bunsen.components.3.label>
+<VVE_Bunsen.components.4.label>Roue barbotin droite</VVE_Bunsen.components.4.label>
+<VVE_Bunsen.components.5.label>Roue folle/tendeur gauche</VVE_Bunsen.components.5.label>
+<VVE_Bunsen.components.6.label>Roue folle/tendeur droite</VVE_Bunsen.components.6.label>
+<VVE_Bunsen.components.7.label>Boîte de vitesses</VVE_Bunsen.components.7.label>
+<VVE_Bunsen.components.8.label>Plaque de blindage gauche</VVE_Bunsen.components.8.label>
+<VVE_Bunsen.components.9.label>Plaque de blindage droite</VVE_Bunsen.components.9.label>
+<VVE_Bunsen.components.10.label>Plaque de blindage avant</VVE_Bunsen.components.10.label>
+<VVE_Bunsen.components.11.label>Plaque de blindage arrière</VVE_Bunsen.components.11.label>
+<VVE_Bunsen.components.12.label>Réservoir</VVE_Bunsen.components.12.label>
+<VVE_Bunsen.components.13.label>Tableau de bord</VVE_Bunsen.components.13.label>
+<VVE_Bunsen.components.14.label>Appareil de pilotage</VVE_Bunsen.components.14.label>
+<VVE_Bunsen.components.15.label>Alternateur</VVE_Bunsen.components.15.label>
+<VVE_Bunsen.components.16.label>Toit</VVE_Bunsen.components.16.label>
+<VVE_Bunsen.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Bunsen.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<VVE_Bunsen.properties.roles.0.label>Conducteur</VVE_Bunsen.properties.roles.0.label>
+<VVE_Bunsen.properties.roles.1.label>Tireur</VVE_Bunsen.properties.roles.1.label>
+
+
+
+<VVE_CarBattery.label>batterie</VVE_CarBattery.label>
+<VVE_CarBattery.description>Batterie rechargeable isolée et câblée qui alimente de nombreuses fonctions électroniques. Elle sert de protection contre les surtensions pour les systèmes électroniques et plusieurs batteries peuvent augmenter ou même remplacer le moteur thermique d'un véhicule.</VVE_CarBattery.description>
+
+<VVE_CarFuelTank.label>réservoir</VVE_CarFuelTank.label>
+<VVE_CarFuelTank.description>Systèmes de stockage et d'injection de carburant fabriqués avec soin. Idéal pour les véhicules qui ont besoin d'une plus grande capacité de carburant, voire d'une consommation accrue, sans augmenter les risques de fuites de gaz ou d'endommager le moteur.</VVE_CarFuelTank.description>
+
+<VVE_CarTransmission.label>transmission</VVE_CarTransmission.label>
+<VVE_CarTransmission.description>Il s'agit d'un système de transmission automatique dédié, délicatement usiné à partir de matériaux robustes et durables. En raison de sa conception relativement complexe, ce système est utilisé dans les véhicules qui nécessitent un couple important ou des vitesses de rotation excessives.</VVE_CarTransmission.description>
+
+<VVE_CarRadiator.label>radiateur</VVE_CarRadiator.label>
+<VVE_CarRadiator.description>Il s'agit d'une série de tuyaux, de tubes, de ventilateurs, de pompes et du radiateur lui-même, prêts à être installés dans un véhicule devant supporter de lourdes charges. Plus le moteur est sollicité, plus il faut de radiateurs pour le refroidir.</VVE_CarRadiator.description>
+
+<VVE_CarWiring.label>câblage automobile</VVE_CarWiring.label>
+<VVE_CarWiring.description>Pièces de câblage renforcées et usinées pour améliorer la conductivité de l'électricité. Généralement requis dans les véhicules qui ont beaucoup de systèmes électroniques synchronisés ou délicats.</VVE_CarWiring.description>
+
+
+<!--VVE_Wisent_Blueprint.label>Wisent</VVE_Wisent_Blueprint.label>
+<VVE_Wisent_Blueprint.description>Transporteur militaire polyvalent, le Wisent est un puissant camion pouvant transporter d'importantes cargaisons et de soldats en territoire hostile. Très peu gourmand en carburant, il peut toutefois se faufiler rapidement sur des terrains accidentés.\n\nContrairement aux autres véhicules de niveau 2, il est moins efficace mais plus performant lorsqu'il s'éloigne des routes. Les passagers assis à l'arrière seront exposés aux tirs ennemis et le blindage n'est adapté qu'à des tirs minimes d'armes légères.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x7\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Wisent_Blueprint.description-->
+
+<VVE_Wisent.label>Wisent</VVE_Wisent.label>
+<VVE_Wisent.description>Transporteur militaire polyvalent, le Wisent est un puissant camion pouvant transporter d'importantes cargaisons et de soldats en territoire hostile. Très peu gourmand en carburant, il peut toutefois se faufiler rapidement sur des terrains accidentés.\n\nContrairement aux autres véhicules de niveau 2, il est moins efficace mais plus performant lorsqu'il s'éloigne des routes. Les passagers assis à l'arrière seront exposés aux tirs ennemis et le blindage n'est adapté qu'à des tirs minimes d'armes légères.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x7\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Wisent.description>
+<VVE_Wisent.components.0.label>Moteur</VVE_Wisent.components.0.label>
+<VVE_Wisent.components.1.label>Roue avant gauche</VVE_Wisent.components.1.label>
+<VVE_Wisent.components.2.label>Roue avant droite</VVE_Wisent.components.2.label>
+<VVE_Wisent.components.3.label>Roue milieu gauche</VVE_Wisent.components.3.label>
+<VVE_Wisent.components.4.label>Roue milieu droite</VVE_Wisent.components.4.label>
+<VVE_Wisent.components.5.label>Roue arrière gauche</VVE_Wisent.components.5.label>
+<VVE_Wisent.components.6.label>Roue arrière droite</VVE_Wisent.components.6.label>
+<VVE_Wisent.components.7.label>Suspension avant gauche</VVE_Wisent.components.7.label>
+<VVE_Wisent.components.8.label>Suspension avant droite</VVE_Wisent.components.8.label>
+<VVE_Wisent.components.9.label>Suspension milieu gauche</VVE_Wisent.components.9.label>
+<VVE_Wisent.components.10.label>Suspension milieu droite</VVE_Wisent.components.10.label>
+<VVE_Wisent.components.11.label>Suspension arrière gauche</VVE_Wisent.components.11.label>
+<VVE_Wisent.components.12.label>Suspension arrière droite</VVE_Wisent.components.12.label>
+<VVE_Wisent.components.13.label>Boîte de vitesses</VVE_Wisent.components.13.label>
+<VVE_Wisent.components.14.label>Plaque de blindage gauche</VVE_Wisent.components.14.label>
+<VVE_Wisent.components.15.label>Plaque de blindage droite</VVE_Wisent.components.15.label>
+<VVE_Wisent.components.16.label>Réservoir gauche</VVE_Wisent.components.16.label>
+<VVE_Wisent.components.17.label>Réservoir droit</VVE_Wisent.components.17.label>
+<VVE_Wisent.components.18.label>Plaque arrière gauche</VVE_Wisent.components.18.label>
+<VVE_Wisent.components.19.label>Plaque arrière droite</VVE_Wisent.components.19.label>
+<VVE_Wisent.components.20.label>Pare-chocs avant</VVE_Wisent.components.20.label>
+<VVE_Wisent.components.21.label>Pare-chocs arrière</VVE_Wisent.components.21.label>
+<VVE_Wisent.components.22.label>Garniture</VVE_Wisent.components.22.label>
+<VVE_Wisent.components.23.label>Tableau de bord</VVE_Wisent.components.23.label>
+<VVE_Wisent.components.24.label>Volant</VVE_Wisent.components.24.label>
+<VVE_Wisent.components.25.label>Alternateur</VVE_Wisent.components.25.label>
+<VVE_Wisent.components.26.label>Capot</VVE_Wisent.components.26.label>
+<VVE_Wisent.components.27.label>Toit</VVE_Wisent.components.27.label>
+<VVE_Wisent.properties.roles.0.label>Conducteur</VVE_Wisent.properties.roles.0.label>
+<VVE_Wisent.properties.roles.1.label>Passager 1</VVE_Wisent.properties.roles.1.label>
+<VVE_Wisent.properties.roles.2.label>Passager 2</VVE_Wisent.properties.roles.2.label>
+<VVE_Wisent.properties.roles.3.label>Passager 3</VVE_Wisent.properties.roles.3.label>
+<VVE_Wisent.properties.roles.4.label>Passager 4</VVE_Wisent.properties.roles.4.label>
+<VVE_Wisent.properties.roles.5.label>Passager 5</VVE_Wisent.properties.roles.5.label>
+<VVE_Wisent.properties.roles.6.label>Passager 6</VVE_Wisent.properties.roles.6.label>
+<VVE_Wisent.properties.roles.7.label>Passager 7</VVE_Wisent.properties.roles.7.label>
+<VVE_Wisent.properties.roles.8.label>Passager 8</VVE_Wisent.properties.roles.8.label>
+<VVE_Wisent.properties.roles.9.label>Passager 9</VVE_Wisent.properties.roles.9.label>
+
+
+
+<VVE_RefuelingPump.label>pompe de ravitaillement</VVE_RefuelingPump.label>
+<VVE_RefuelingPump.description>Une pompe de ravitaillement qui ravitaille automatiquement les véhicules fonctionnant au chemfuel qui se trouvent sur le lieu d'interaction. Doit être remplie de chemfuel.</VVE_RefuelingPump.description>
+
+<VVE_TankTrap.label>hérisson tchèque</VVE_TankTrap.label>
+<VVE_TankTrap.description>Fortification défensive destinée à bloquer les véhicules. Elle offre une petite couverture et peut être traversée à pied, mais n'est pas franchissable avec des véhicules.</VVE_TankTrap.description>
+
+
+<!--VVE_Scytheman_Blueprint.label>Scytheman</VVE_Scytheman_Blueprint.label>
+<VVE_Scytheman_Blueprint.description>Équipé d'un système de lance-roquettes multiples, le Scytheman est un véhicule agricole reconverti destiné à saturer un endroit avec des volées d'explosifs imprécises. De par sa conception, il n'est pas destiné à tirer des salves successives ou à être exposé aux tirs ennemis.\n\nComme les autres véhicules de niveau 1, il consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes. Ses performances sont moins bonnes en hiver, mais légèrement meilleures sur les routes plates et dégagées.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Scytheman_Blueprint.description-->
+
+<Rocket_Scytheman_MainTurret.label>roquette essaim</Rocket_Scytheman_MainTurret.label>
+
+<VVE_Scytheman.label>Scytheman</VVE_Scytheman.label>
+<VVE_Scytheman.description>Équipé d'un système de lance-roquettes multiples, le Scytheman est un véhicule agricole reconverti destiné à saturer un endroit avec des volées d'explosifs imprécises. De par sa conception, il n'est pas destiné à tirer des salves successives ou à être exposé aux tirs ennemis.\n\nComme les autres véhicules de niveau 1, il consomme beaucoup de carburant et il est préférable de l'utiliser sur des distances moyennes. Ses performances sont moins bonnes en hiver, mais légèrement meilleures sur les routes plates et dégagées.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Scytheman.description>
+<VVE_Scytheman.components.0.label>Moteur</VVE_Scytheman.components.0.label>
+<VVE_Scytheman.components.1.label>Roue avant gauche</VVE_Scytheman.components.1.label>
+<VVE_Scytheman.components.2.label>Roue avant droite</VVE_Scytheman.components.2.label>
+<VVE_Scytheman.components.3.label>Roue milieu gauche</VVE_Scytheman.components.3.label>
+<VVE_Scytheman.components.4.label>Roue milieu droite</VVE_Scytheman.components.4.label>
+<VVE_Scytheman.components.5.label>Roue arrière gauche</VVE_Scytheman.components.5.label>
+<VVE_Scytheman.components.6.label>Roue arrière droite</VVE_Scytheman.components.6.label>
+<VVE_Scytheman.components.7.label>Suspension avant gauche</VVE_Scytheman.components.7.label>
+<VVE_Scytheman.components.8.label>Suspension avant droit</VVE_Scytheman.components.8.label>
+<VVE_Scytheman.components.9.label>Suspension milieu gauche</VVE_Scytheman.components.9.label>
+<VVE_Scytheman.components.10.label>Suspension milieu droit</VVE_Scytheman.components.10.label>
+<VVE_Scytheman.components.11.label>Suspension arrière gauche</VVE_Scytheman.components.11.label>
+<VVE_Scytheman.components.12.label>Suspension arrière droit</VVE_Scytheman.components.12.label>
+<VVE_Scytheman.components.13.label>Boîte de vitesses</VVE_Scytheman.components.13.label>
+<VVE_Scytheman.components.14.label>Panneau latéral gauche</VVE_Scytheman.components.14.label>
+<VVE_Scytheman.components.15.label>Panneau latéral droit</VVE_Scytheman.components.15.label>
+<VVE_Scytheman.components.16.label>Réservoir</VVE_Scytheman.components.16.label>
+<VVE_Scytheman.components.17.label>Tableau de bord</VVE_Scytheman.components.17.label>
+<VVE_Scytheman.components.18.label>Volant</VVE_Scytheman.components.18.label>
+<VVE_Scytheman.components.19.label>Alternateur</VVE_Scytheman.components.19.label>
+<VVE_Scytheman.components.20.label>Capot</VVE_Scytheman.components.20.label>
+<VVE_Scytheman.components.21.label>Toit</VVE_Scytheman.components.21.label>
+<VVE_Scytheman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tube à roquettes</VVE_Scytheman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<VVE_Scytheman.properties.roles.0.label>Conducteur</VVE_Scytheman.properties.roles.0.label>
+
+
+<!--VVE_Toad_Blueprint.label>Crapaud</VVE_Toad_Blueprint.label>
+<VVE_Toad_Blueprint.description>Le Crapaud est une capsule de déploiement d'escouades et de mortiers. Il s'agit d'un véhicule quelque peu onéreux qui permet d'organiser rapidement un siège sur une zone voisine sans exposer les artilleurs au danger. Plus blindé qu'un char d'assaut et conçu pour être déployé depuis l'orbite, c'est un véhicule d'assaut semi-disponible.\n\nCe véhicule n'est pas conçu pour être économe en carburant, il ne peut être déployé que sur de courtes distances avec suffisamment de carburant pour revenir.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Opérateur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Toad_Blueprint.description-->
+
+<VVE_Toad.label>Crapaud</VVE_Toad.label>
+<VVE_Toad.description>Le Crapaud est une capsule de déploiement d'escouades et de mortiers. Il s'agit d'un véhicule quelque peu onéreux qui permet d'organiser rapidement un siège sur une zone voisine sans exposer les artilleurs au danger. Plus blindé qu'un char d'assaut et conçu pour être déployé depuis l'orbite, c'est un véhicule d'assaut semi-disponible.\n\nCe véhicule n'est pas conçu pour être économe en carburant, il ne peut être déployé que sur de courtes distances avec suffisamment de carburant pour revenir.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Opérateur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Toad.description>
+<VVE_Toad.components.0.label>Moteur</VVE_Toad.components.0.label>
+<VVE_Toad.components.1.label>Premier propulseur</VVE_Toad.components.1.label>
+<VVE_Toad.components.2.label>Deuxième propulseur</VVE_Toad.components.2.label>
+<VVE_Toad.components.3.label>Troisième propulseur</VVE_Toad.components.3.label>
+<VVE_Toad.components.4.label>Quatrième propulseur</VVE_Toad.components.4.label>
+<VVE_Toad.components.5.label>Réservoir</VVE_Toad.components.5.label>
+<VVE_Toad.components.6.label>Coque</VVE_Toad.components.6.label>
+<VVE_Toad.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Toad.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<VVE_Toad.properties.roles.0.label>Opérateur</VVE_Toad.properties.roles.0.label>
+<VVE_Toad.properties.roles.1.label>Passager</VVE_Toad.properties.roles.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFET_Fire.label>le feu</VFET_Fire.label>
+<VFET_Fire.description>Vous permet de débloquer la capacité d'utiliser et de maîtriser le feu à des fins diverses. Débloque le métier Pompier.</VFET_Fire.description>
+<VFET_Fire.generalRules.rulesStrings>
+    <li>subject->la découverte du feu</li>
+    <li>subject_story->a maîtrisé la force primitive du feu, éclairant les ténèbres et réchauffant le froid</li>
+    <li>subject_story->a transformé la nuit en une période d'activité et de sécurité, en éloignant les prédateurs</li>
+    <li>subject_story->a jeté les bases de la civilisation en maîtrisant cet élément sauvage</li>
+    <li>subject_gerund->la maîtrise de la flamme</li>
+</VFET_Fire.generalRules.rulesStrings>
+
+<VFET_Agriculture.label>l'agriculture</VFET_Agriculture.label>
+<VFET_Agriculture.description>Vous permet d'apprendre à cultiver diverses plantes de base. Débloque le métier Fermier.</VFET_Agriculture.description>
+<VFET_Agriculture.generalRules.rulesStrings>
+    <li>subject->la naissance de l'agriculture</li>
+    <li>subject_story->s'est détourné de la vie nomade pour semer les graines de l'avenir</li>
+    <li>subject_story->a nourri la terre pour qu'elle produise des récoltes abondantes, garantissant ainsi la prospérité</li>
+    <li>subject_story->a fondé les premières colonies, autour desquelles se sont développées des communautés</li>
+    <li>subject_gerund->la culture de la subsistance à partir du sol</li>
+</VFET_Agriculture.generalRules.rulesStrings>
+
+<VFET_Cultivation.label>la plantation</VFET_Cultivation.label>
+<VFET_Cultivation.description>Vous permet d'élargir la variété des cultures avec des plantes plus spécifiques et difficiles à cultiver, telles que le smokeleaf ou la plante psychoïde.</VFET_Cultivation.description>
+<VFET_Cultivation.generalRules.rulesStrings>
+    <li>subject->la diversification des cultures</li>
+    <li>subject_story->a exploré la culture de plantes exotiques, enrichissant l'alimentation et la médecine</li>
+    <li>subject_story->a bravé les cultures difficiles et s'est assuré une subsistance variée</li>
+    <li>subject_story->a élargi l'horizon de l'agriculture, embrassant la richesse de la nature</li>
+    <li>subject_gerund->l'expansion du jardin de la civilisation</li>
+</VFET_Cultivation.generalRules.rulesStrings>
+
+<VFET_Medicine.label>la médecine</VFET_Medicine.label>
+<VFET_Medicine.description>Vous permet d'introduire les soins médicaux de base et les méthodes de traitement à base de plantes. Débloque les métiers Médecin et Patient.</VFET_Medicine.description>
+<VFET_Medicine.generalRules.rulesStrings>
+    <li>subject->les fondements de la guérison</li>
+    <li>subject_story->a dévoilé les pouvoirs curatifs de la nature, en mélangeant des herbes pour créer les premiers remèdes</li>
+    <li>subject_story->a soigné les maux de ses proches avec des cataplasmes et des potions, nés de la nature</li>
+    <li>subject_story->a ouvert la voie aux arts de la guérison, en comblant le fossé entre le mal et la santé</li>
+    <li>subject_gerund->le tissage des premiers fils du bien-être</li>
+</VFET_Medicine.generalRules.rulesStrings>
+
+<VFET_AnimalHandling.label>l'élevage</VFET_AnimalHandling.label>
+<VFET_AnimalHandling.description>Vous permet de construire des structures et objets pour les animaux apprivoisés. Débloque le métier Dresseur.</VFET_AnimalHandling.description>
+<VFET_AnimalHandling.generalRules.rulesStrings>
+    <li>subject->le lien entre la bête et la famille</li>
+    <li>subject_story->a formé des alliances avec le règne animal, apprivoisant les animaux sauvages pour qu'ils lui tiennent compagnie et lui viennent en aide</li>
+    <li>subject_story->a exploité la force des bêtes, augmentant ainsi le potentiel de la tribu</li>
+    <li>subject_story->a fusionné son destin avec celui de ses congénères animaux, lui assurant une survie réciproque</li>
+    <li>subject_gerund->l'accueil des premiers compagnons</li>
+</VFET_AnimalHandling.generalRules.rulesStrings>
+
+<VFET_Mining.label>le minage</VFET_Mining.label>
+<VFET_Mining.description>Vous permet de développer des méthodes pour extraire les ressources de la terre en utilisant la force. Débloque le métier Mineur.</VFET_Mining.description>
+<VFET_Mining.generalRules.rulesStrings>
+    <li>subject->les secrets de la terre</li>
+    <li>subject_story->a plongé dans le ventre de la terre pour en extraire les richesses cachées</li>
+    <li>subject_story->a créé les premiers outils permettant de percer la pierre et de révéler les minéraux qu'elle contient</li>
+    <li>subject_story->a jeté les bases des progrès avec les matières premières du progrès</li>
+    <li>subject_gerund->le cisèlement de la voie vers la prospérité</li>
+</VFET_Mining.generalRules.rulesStrings>
+
+<VFET_Construction.label>la construction</VFET_Construction.label>
+<VFET_Construction.description>Vous permet d'apprendre les techniques de base de la construction et de la conception structurelle. Permet de construire des murs et des plafonds.</VFET_Construction.description>
+<VFET_Construction.generalRules.rulesStrings>
+    <li>subject->l'abri et la structure</li>
+    <li>subject_story->a érigé les premiers murs contre les éléments, créant des sanctuaires à partir de la nature</li>
+    <li>subject_story->a créé des lieux de rassemblement et de repos, favorisant la communauté et la sécurité</li>
+    <li>subject_story->s'est lancé dans l'aventure architecturale, posant la pierre angulaire du progrès</li>
+    <li>subject_gerund->la construction du berceau de la civilisation</li>
+</VFET_Construction.generalRules.rulesStrings>
+
+<VFET_Furniture.label>le mobilier</VFET_Furniture.label>
+<VFET_Furniture.description>Vous permet d'introduire la fabrication de meubles de base pour améliorer les conditions de vie.</VFET_Furniture.description>
+<VFET_Furniture.generalRules.rulesStrings>
+    <li>subject->le confort de l'artisanat</li>
+    <li>subject_story->a sculpté les premiers symboles de confort et d'utilité dans le bois de la nature</li>
+    <li>subject_story->a transformé des espaces de vie grâce à l'art du mobilier artisanal</li>
+    <li>subject_story->a élevé la vie quotidienne, de la survie à la vie, au niveau de la création</li>
+    <li>subject_gerund->la création du confort de la maison</li>
+</VFET_Furniture.generalRules.rulesStrings>
+
+<VFET_Tribalwear.label>vêtement tribal</VFET_Tribalwear.label>
+<VFET_Tribalwear.description>Vous permet d'apprendre à confectionner des vêtements tribaux traditionnels à des fins diverses.</VFET_Tribalwear.description>
+<VFET_Tribalwear.generalRules.rulesStrings>
+    <li>subject->le tissage de l'identité et de la protection</li>
+    <li>subject_story->a créé des vêtements qui parlent de culture et protègent contre les intempéries du monde</li>
+    <li>subject_story->a su allier fonctionnalité et tradition, en habillant l'esprit de son peuple</li>
+    <li>subject_story->a confectionné des vêtements qui allaient devenir la marque de l'identité de la tribu</li>
+    <li>subject_gerund->l'habillage de l'essence d'un peuple</li>
+</VFET_Tribalwear.generalRules.rulesStrings>
+
+<VFET_Hunting.label>la chasse</VFET_Hunting.label>
+<VFET_Hunting.description>Établir des méthodes de chasse et de traitement des ressources efficaces. Débloque le métier Chasseur et permet de fabriquer des piques.</VFET_Hunting.description>
+<VFET_Hunting.generalRules.rulesStrings>
+    <li>subject->la maîtrise de la chasse</li>
+    <li>subject_story->a perfectionné la danse primitive du prédateur et de la proie, assurant la subsistance de la tribu</li>
+    <li>subject_story->a fabriqué les outils de la chasse, apportant ses compétences au défi de la vie sauvage</li>
+    <li>subject_story->s'est assuré une place au sommet de la chaîne alimentaire, par la ruse et l'astuce</li>
+    <li>subject_gerund->la capture des richesses de la nature</li>
+</VFET_Hunting.generalRules.rulesStrings>
+
+<VFET_Weapons.label>les armes</VFET_Weapons.label>
+<VFET_Weapons.description>Vous permet d'introduire les armes de base pour se défendre contre les ennemis.</VFET_Weapons.description>
+<VFET_Weapons.generalRules.rulesStrings>
+    <li>subject->le tranchant de la survie</li>
+    <li>subject_story->a forgé les premières armes, permettant à la tribu de se protéger contre les menaces</li>
+    <li>subject_story->a équilibré la balance de la nature et des conflits avec l'art de l'armement</li>
+    <li>subject_story->a assuré leur survie en innovant en matière de défense et d'attaque</li>
+    <li>subject_gerund->l'armement des mains du destin</li>
+</VFET_Weapons.generalRules.rulesStrings>
+
+<VFET_Bow.label>l'arc</VFET_Bow.label>
+<VFET_Bow.description>Vous permet de débloquer la capacité de fabriquer l'élément de base du combat à distance : l'arc court.</VFET_Bow.description>
+<VFET_Bow.generalRules.rulesStrings>
+    <li>subject->l'arc de l'ascendance</li>
+    <li>subject_story->a tendu la corde du progrès, lançant des flèches vers l'horizon</li>
+    <li>subject_story->a maîtrisé l'arc, alliant patience, habileté et technologie</li>
+    <li>subject_story->a inauguré l'ère du combat à distance, modifiant la dynamique de la chasse et de la guerre</li>
+    <li>subject_gerund->l'extension de la portée au-delà de la saisie</li>
+</VFET_Bow.generalRules.rulesStrings>
+
+<VFET_Culture.label>la culture</VFET_Culture.label>
+<VFET_Culture.description>Débloquer la capacité à mener des recherches, ainsi qu'à développer des pensées idéologiques. Débloque le travail Intellectuel.</VFET_Culture.description>
+<VFET_Culture.generalRules.rulesStrings>
+    <li>subject->la tapisserie de la pensée</li>
+    <li>subject_story->a tissé la trame de leur culture, riche des fils de la connaissance et de la croyance</li>
+    <li>subject_story->a cultivé la croissance des activités intellectuelles, en nourrissant l'avenir d'idées</li>
+    <li>subject_story->s'est lancé dans la quête de la compréhension, élevant leur tribu par la sagesse</li>
+    <li>subject_gerund->l'entretien du jardin de l'esprit</li>
+</VFET_Culture.generalRules.rulesStrings>
+
+
+</LanguageData>

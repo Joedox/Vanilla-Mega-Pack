@@ -1,0 +1,681 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: hellpod -->
+<VFEI_HellpodActiveDropPod.label>hellpod</VFEI_HellpodActiveDropPod.label>
+
+<!-- EN: hellpod (incoming) -->
+<VFEI_HellpodIncoming.label>hellpod (en approche)</VFEI_HellpodIncoming.label>
+
+<!-- EN: hivestone wall -->
+<VFEI_HivestoneWall.label>mur en pierre ruche</VFEI_HivestoneWall.label>
+<!-- EN: An impassable rock wall reinforced with thick and solidified insect goop. Much stronger than standard rock wall, but flammable. Capable of holding up a roof. -->
+<VFEI_HivestoneWall.description>Un mur de roche infranchissable renforcé par une épaisse substance visqueuse d'insectes solidifiés. Beaucoup plus solide qu'un mur de pierre standard, mais inflammable. Capable de soutenir un toit.</VFEI_HivestoneWall.description>
+
+<!-- EN: hive wall -->
+<VFEI_HiveWall.label>mur de ruche</VFEI_HiveWall.label>
+<!-- EN: An impassable wall made from insectoid goop. Capable of holding up a roof. -->
+<VFEI_HiveWall.description>Un mur infranchissable fait de substance visqueuse insectoïde. Capable de soutenir un toit.</VFEI_HiveWall.description>
+
+<!-- EN: infested meteor (incoming) -->
+<VFEI_InfestedMeteorIncoming.label>météorite infestée (en approche)</VFEI_InfestedMeteorIncoming.label>
+
+<!-- EN: artificial basic hive -->
+<VFEI2_ArtificialBasicHive.label>ruche artificielle basique</VFEI2_ArtificialBasicHive.label>
+<!-- EN: An artificially constructed hive of giant insects. It is capable of spawning the most basic insectoids over time, as well as small amounts of valuable insect jelly. It requires no maintenance, but will still affect the maintenance of nearby hives. -->
+<VFEI2_ArtificialBasicHive.description>Une ruche d'insectes géants construite artificiellement. Elle est capable de produire les insectoïdes les plus élémentaires, ainsi que de petites quantités de gelée d'insecte de grande valeur. Elle ne nécessite aucun entretien, mais nuit à l'entretien des ruches voisines.</VFEI2_ArtificialBasicHive.description>
+
+<!-- EN: artificial chelis hive -->
+<VFEI2_ArtificialChelisHive.label>ruche artificielle chelis</VFEI2_ArtificialChelisHive.label>
+<!-- EN: An artificially constructed hive of giant insects. It is capable of spawning various Chelis geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required. -->
+<VFEI2_ArtificialChelisHive.description>Une ruche d'insectes géants construite artificiellement. Elle est capable d'engendrer divers insectoïdes de la lignée Chelis au fil du temps, ainsi qu'une certaine quantité de gelée d'insecte. Elle ne nécessite aucun entretien, mais nuit à l'entretien des ruches voisines.</VFEI2_ArtificialChelisHive.description>
+
+<!-- EN: artificial kemian hive -->
+<VFEI2_ArtificialKemianHive.label>ruche artificielle kemian</VFEI2_ArtificialKemianHive.label>
+<!-- EN: An artificially constructed hive of giant insects. It is capable of spawning various Kemian geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required. -->
+<VFEI2_ArtificialKemianHive.description>Une ruche d'insectes géants construite artificiellement. Elle est capable d'engendrer divers insectoïdes de la lignée Kemian au fil du temps, ainsi qu'une certaine quantité de gelée d'insecte. Elle ne nécessite aucun entretien, mais nuit à l'entretien des ruches voisines.</VFEI2_ArtificialKemianHive.description>
+
+<!-- EN: artificial nuchadus hive -->
+<VFEI2_ArtificialNuchadusHive.label>ruche artificielle nuchadus</VFEI2_ArtificialNuchadusHive.label>
+<!-- EN: An artificially constructed hive of giant insects. It is capable of spawning various Nuchadus geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required. -->
+<VFEI2_ArtificialNuchadusHive.description>Une ruche d'insectes géants construite artificiellement. Elle est capable d'engendrer divers insectoïdes de la lignée Nuchadus au fil du temps, ainsi qu'une certaine quantité de gelée d'insecte. Elle ne nécessite aucun entretien, mais nuit à l'entretien des ruches voisines.</VFEI2_ArtificialNuchadusHive.description>
+
+<!-- EN: artificial sorne hive -->
+<VFEI2_ArtificialSorneHive.label>ruche artificielle sorne</VFEI2_ArtificialSorneHive.label>
+<!-- EN: An artificially constructed hive of giant insects. It is capable of spawning various Sorne geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required. -->
+<VFEI2_ArtificialSorneHive.description>Une ruche d'insectes géants construite artificiellement. Elle est capable d'engendrer divers insectoïdes de la lignée Sorne au fil du temps, ainsi qu'une certaine quantité de gelée d'insecte. Elle ne nécessite aucun entretien, mais nuit à l'entretien des ruches voisines.</VFEI2_ArtificialSorneHive.description>
+
+<!-- EN: artificial xanides hive -->
+<VFEI2_ArtificialXanidesHive.label>ruche artificielle xanides</VFEI2_ArtificialXanidesHive.label>
+<!-- EN: An artificially constructed hive of giant insects. It is capable of spawning various Xanides geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required. -->
+<VFEI2_ArtificialXanidesHive.description>Une ruche d'insectes géants construite artificiellement. Elle est capable d'engendrer divers insectoïdes de la lignée Xanides au fil du temps, ainsi qu'une certaine quantité de gelée d'insecte. Elle ne nécessite aucun entretien, mais nuit à l'entretien des ruches voisines.</VFEI2_ArtificialXanidesHive.description>
+
+<!-- EN: thorn -->
+<VFEI2_Bullet_Thorn.label>épine</VFEI2_Bullet_Thorn.label>
+
+<!-- EN: chelis hive -->
+<VFEI2_ChelisHive.label>ruche chelis</VFEI2_ChelisHive.label>
+<!-- EN: A hive of giant insects of the Chelis geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+<VFEI2_ChelisHive.description>Une ruche d'insectes géants de la lignée Chelis. Si elle est activée, elle produira d'autres insectes et ruches au fil du temps, ainsi qu'une précieuse gelée d'insecte.</VFEI2_ChelisHive.description>
+
+<!-- EN: creeper -->
+<VFEI2_Creeper.label>muqueuse</VFEI2_Creeper.label>
+<!-- EN: A hive-like structure created by giant insects. It continuously extracts minerals and nutrition from the ground around it, feeding the hive and creating creep in surrounding area that greatly hinders the movement of anything that’s not an insectoid. If all area around a creeper is turned into creep, it will begin expunging insect jelly in regular intervals. -->
+<VFEI2_Creeper.description>Structure en forme de ruche créée par des insectes géants. Elle extrait continuellement des minéraux et de la nourriture du sol qui l'entoure, alimentant ainsi la ruche et créant du mucus dans la zone environnante, ce qui entrave considérablement les mouvements de tout ce qui n'est pas un insectoïde. Si toute la zone autour d'une muqueuse est recouverte de mucus, elle commencera à expulser de la gelée d'insecte à intervalles réguliers.</VFEI2_Creeper.description>
+
+<!-- EN: deep heater -->
+<VFEI2_DeepHeater.label>chauffage profond</VFEI2_DeepHeater.label>
+<!-- EN: A deep canal that connects to some underground steam caverns, dug up by giant insects. Sprays out superheated steam at random, similar to steam geysers. -->
+<VFEI2_DeepHeater.description>Un canal profond qui se connecte à des cavernes de vapeur souterraines, creusées par des insectes géants. Il projette de la vapeur surchauffée de façon aléatoire, comme les geysers.</VFEI2_DeepHeater.description>
+
+<!-- EN: foampod -->
+<VFEI2_FoamPod.label>glume de mousse</VFEI2_FoamPod.label>
+<!-- EN: An organic, firefoam pod produced by giant insects. When it senses fire, the pod pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. After some time has passed, it dies. -->
+<VFEI2_FoamPod.description>Il s'agit d'une capsule organique de mousse ignifuge produite par des insectes géants. Lorsqu'elle détecte un incendie, la glume éclate et pulvérise une mousse ignifuge dans une zone circulaire autour d'elle. Elle peut également être déclenchée manuellement. Au bout d'un certain temps, elle meurt.</VFEI2_FoamPod.description>
+
+<!-- EN: glow pod formation -->
+<VFEI2_GlowPodFormation.label>formation de glume lumineuse</VFEI2_GlowPodFormation.label>
+<!-- EN: A large cluster of bioluminescent pods produced by giant insects. Glows under its own light and does not perish with time. Needs to be constructed on the creep. -->
+<VFEI2_GlowPodFormation.description>Un grand groupe de glumes bioluminescentes produites par des insectes géants. Il brille sous sa propre lumière et ne disparaît pas avec le temps. Doit être construit sur du mucus.</VFEI2_GlowPodFormation.description>
+
+<!-- EN: glow pod spire -->
+<VFEI2_GlowPodSpire.label>flèche de glume lumineuse</VFEI2_GlowPodSpire.label>
+<!-- EN: An incredibly tall spire of bioluminescent pods produced by giant insects. Lights an area brightly enough to grow crops and does not perish with time. Needs to be constructed on the creep. -->
+<VFEI2_GlowPodSpire.description>Une flèche incroyablement haute de glumes bioluminescentes produites par des insectes géants. Elle éclaire une zone assez intensément pour y faire pousser des plantes et ne disparaît pas avec le temps. Doit être construit sur du mucus.</VFEI2_GlowPodSpire.description>
+
+<!-- EN: heat pod -->
+<VFEI2_HeatPod.label>glume chauffante</VFEI2_HeatPod.label>
+<!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
+<VFEI2_HeatPod.description>Une glume bioluminescente produite par des insectes géants. Brille de toute sa splendeur pendant un moment, avant de mourir.</VFEI2_HeatPod.description>
+
+<!-- EN: hivenode -->
+<VFEI2_Hivenode.label>nœud de ruche</VFEI2_Hivenode.label>
+<!-- EN: A large, exotic goop spire created by giant insects. Hivenodes lie in the center of the hive, nourishing nearby insectoid structures with required sustenance and warmth, removing any maintenance need. When destroyed, it may explode in a large, fiery explosion. -->
+<VFEI2_Hivenode.description>Une grande flèche de glume exotique créée par des insectes géants. Les nœuds de ruche se trouvent au centre de la ruche et alimentent les structures insectoïdes voisines en nourriture et en chaleur, supprimant ainsi tout besoin de maintenance. Lorsqu'il est détruit, il peut exploser dans une grande explosion enflammée.</VFEI2_Hivenode.description>
+
+<!-- EN: infested ship chunk -->
+<VFEI2_InfestedShipChunk.label>débris de vaisseau infesté</VFEI2_InfestedShipChunk.label>
+<!-- EN: A chunk of a spacecraft covered in biomass and insect jelly. Bizarre insect chittering can be heard within the hull. Can be deconstructed to yield useful steel and components. If left alone, it is impossible to tell when the insects will emerge from within. -->
+<VFEI2_InfestedShipChunk.description>Un morceau de vaisseau spatial couvert de biomasse et de gelée d'insecte. On peut entendre des bruits bizarres d'insectes à l'intérieur de la coque d'un vaisseau. Peut être démoli pour obtenir de l'acier et des composants utiles.\n\nS'il est laissé à lui-même, il est impossible de savoir quand les insectes sortiront de l'intérieur.</VFEI2_InfestedShipChunk.description>
+
+<!-- EN: infested ship module -->
+<VFEI2_InfestedShipModule.label>module de vaisseau infesté</VFEI2_InfestedShipModule.label>
+<!-- EN: A mysterious segment of a long destroyed spaceship. It may contain exotic materials, computers, even AI personas. It seems to be completely covered in biomass and lumps of insectoid jelly. It is fairly certain that this old wreckage may contain great dangers. Bizarre insect chittering can be heard within the hull. If left alone, it is impossible to tell when the insects will emerge from within. -->
+<VFEI2_InfestedShipModule.description>Un segment mystérieux d'un vaisseau spatial détruit depuis longtemps. Il peut contenir des matériaux exotiques, des ordinateurs, voire des IA de personnalité. Il semble être entièrement recouvert de biomasse et d'amas de gelée insectoïde. Il est à peu près certain que cette vieille épave recèle de grands dangers. On peut entendre des bruits bizarres d'insectes à l'intérieur de la coque.\n\nS'il est laissé à lui-même, il est impossible de savoir quand les insectes sortiront de l'intérieur.</VFEI2_InfestedShipModule.description>
+
+<!-- EN: infested ship part -->
+<VFEI2_InfestedShipPart.label>partie de vaisseau (infesté)</VFEI2_InfestedShipPart.label>
+<!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one seems to be covered in biomass and insect jelly. Bizarre insect chittering can be heard within the hull. If left alone, it is impossible to tell when the insects will emerge from within.\n\nA mysterious crashed piece of a spaceship. It may contain exotic materials, computers, even AI personas. This kind of technology can be dangerous. -->
+<VFEI2_InfestedShipPart.description>Une ancienne pièce de vaisseau, arrachée à un vaisseau d'origine inconnue. Elle pourrait avoir des milliers d'années.\n\nCelle-ci semble recouverte de biomasse et de gelée d'insecte. On peut entendre des bruits bizarres d'insectes à l'intérieur de la coque. Si elle est laissée à elle-même, il est impossible de savoir quand les insectes sortiront de l'intérieur.\n\nUn mystérieux morceau de vaisseau spatial écrasé. Il peut contenir des matériaux exotiques, des ordinateurs, voire des IA de personnalité. Ce type de technologie peut être dangereux.</VFEI2_InfestedShipPart.description>
+
+<!-- EN: insect jelly wall -->
+<VFEI2_InsectJellyWall.label>mur de gelée</VFEI2_InsectJellyWall.label>
+<!-- EN: An impassable wall made from insect jelly, constructed by the worker caste of an insectoid geneline. Capable of holding up a roof. -->
+<VFEI2_InsectJellyWall.description>Mur infranchissable fait de gelée d'insecte, construit par la caste des travailleurs d'une ligne insectoïde. Capable de soutenir un toit.</VFEI2_InsectJellyWall.description>
+
+<!-- EN: insectoid cocoon -->
+<VFEI2_InsectoidCocoon.label>cocon insectoïde</VFEI2_InsectoidCocoon.label>
+<!-- EN: These jelly cocoons keep swarmlings safe from fire, extreme temperatures, and other threats while they undergo a metamorphosis process. After some time has passed, the cocoon will burst, releasing a fully grown insectoid. -->
+<VFEI2_InsectoidCocoon.description>Ces cocons de gelée protègent les larvelings du feu, des températures extrêmes et d'autres menaces pendant qu'ils subissent un processus de métamorphose. Au bout d'un certain temps, le cocon éclate et libère un insectoïde adulte.</VFEI2_InsectoidCocoon.description>
+
+<!-- EN: insectoid cocoon -->
+<VFEI2_InsectoidCocoonHive.label>cocon insectoïde</VFEI2_InsectoidCocoonHive.label>
+<!-- EN: These jelly cocoons keep swarmlings safe from fire, extreme temperatures, and other threats while they undergo a metamorphosis process. After some time has passed, the cocoon will burst, releasing a fully grown insectoid. -->
+<VFEI2_InsectoidCocoonHive.description>Ces cocons de gelée protègent les larvelings du feu, des températures extrêmes et d'autres menaces pendant qu'ils subissent un processus de métamorphose. Au bout d'un certain temps, le cocon éclate et libère un insectoïde adulte.</VFEI2_InsectoidCocoonHive.description>
+
+<!-- EN: jelly farm -->
+<VFEI2_JellyFarm.label>bassin de gelée</VFEI2_JellyFarm.label>
+<!-- EN: A deep organic bioreactor constantly generating insect jelly from nearby minerals and nutrition, produced by giant insects. Needs to be constructed on the creep. -->
+<VFEI2_JellyFarm.description>Un bioréacteur organique profond générant en permanence de la gelée d'insecte à partir de minéraux et d'éléments nutritifs à proximité, produits par des insectes géants. Doit être construit sur du mucus.</VFEI2_JellyFarm.description>
+
+<!-- EN: jelly morpher -->
+<VFEI2_JellyMorpher.label>morpheur de gelée</VFEI2_JellyMorpher.label>
+<!-- EN: An exotic, pulsating bioformation that forces attached insect jelly to undergo a chemical process that changes it into royal jelly. Produced by giant insects. Needs to be constructed on the creep and requires refueling with insect jelly in order to produce the royal variant. -->
+<VFEI2_JellyMorpher.description>Une bioformation exotique et pulsante qui force la gelée d'insecte attachée à subir un processus chimique qui la transforme en gelée royale. Produite par des insectes géants. Doit être construit sur du mucus et doit être ravitaillé en gelée d'insecte pour produire la variante royale.</VFEI2_JellyMorpher.description>
+
+<!-- EN: kemian hive -->
+<VFEI2_KemianHive.label>ruche kemian</VFEI2_KemianHive.label>
+<!-- EN: A hive of giant insects of the Kemian geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+<VFEI2_KemianHive.description>Une ruche d'insectes géants de la lignée Kemian. Si elle est activée, elle produira d'autres insectes et ruches au fil du temps, ainsi qu'une précieuse gelée d'insecte.</VFEI2_KemianHive.description>
+
+<!-- EN: large glow pod -->
+<VFEI2_LargeGlowPod.label>grande glume lumineuse</VFEI2_LargeGlowPod.label>
+<!-- EN: A large bioluminescent pod produced by giant insects. Glows under its own light and does not perish with time. Needs to be constructed on the creep. -->
+<VFEI2_LargeGlowPod.description>Une grande capsule bioluminescente produite par des insectes géants. Brille de toute sa splendeur et ne disparaît pas avec le temps. Doit être construit sur du mucus.</VFEI2_LargeGlowPod.description>
+
+<!-- EN: tunnel -->
+<VFEI2_LargeTunnelHiveSpawner.label>tunnel</VFEI2_LargeTunnelHiveSpawner.label>
+
+<!-- EN: nuchadus hive -->
+<VFEI2_NuchadusHive.label>ruche nuchadus</VFEI2_NuchadusHive.label>
+<!-- EN: A hive of giant insects of the Nuchadus geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. May explode if damaged. -->
+<VFEI2_NuchadusHive.description>Une ruche d'insectes géants de la lignée Nuchadus. Si elle est activée, elle produira d'autres insectes et ruches au fil du temps, ainsi qu'une précieuse gelée d'insecte. Peut exploser si endommagé.</VFEI2_NuchadusHive.description>
+
+<!-- EN: petroglypher -->
+<VFEI2_Petroglypher.label>pétroglyphère</VFEI2_Petroglypher.label>
+<!-- EN: A hive-like structure created by giant insects. It continuously reinforces nearby rock formations with thick, resin-like insect goop, creating hivestone walls in the process. It will only turn natural rock walls into hivestone and will have no effect on any other wall types. If all walls around a petroglypher are turned into hivestone, it will begin expunging  chitin in regular intervals. -->
+<VFEI2_Petroglypher.description>Structure en forme de ruche créée par des insectes géants. Elle renforce continuellement les formations rocheuses avoisinantes à l'aide d'un épais mélange d'insectes ressemblant à de la résine, créant ainsi des murs en pierre ruche. Il ne transforme que les murs de roche naturelle en pierre ruche et n'a aucun effet sur les autres types de murs. Si tous les murs autour d'un pétroglyphère sont transformés en pierre ruche, il commencera à expulser de la chitine à intervalles réguliers.</VFEI2_Petroglypher.description>
+
+<!-- EN: royal jelly wall -->
+<VFEI2_RoyalJellyWall.label>mur de gelée royale</VFEI2_RoyalJellyWall.label>
+<!-- EN: An impassable, hard wall made from royal jelly, constructed by the worker caste of an insectoid geneline. Capable of holding up a roof. -->
+<VFEI2_RoyalJellyWall.description>Mur infranchissable en gelée royale, construit par la caste des travailleurs d'une ligne insectoïde. Capable de soutenir un toit.</VFEI2_RoyalJellyWall.description>
+
+<!-- EN: staticpod -->
+<VFEI2_StaticPod.label>glume statique</VFEI2_StaticPod.label>
+<!-- EN: A medium-sized hive structure capable of generating small amounts of electricity, produced by giant insects. Needs to be constructed on the creep and connected via conduits to batteries. -->
+<VFEI2_StaticPod.description>Ruche de taille moyenne capable de générer de petites quantités d'électricité, produite par des insectes géants. Doit être construite sur du mucus et reliée par des conduits à des batteries.</VFEI2_StaticPod.description>
+
+<!-- EN: tendril farm -->
+<VFEI2_TendrilFarm.label>glume de vrilles</VFEI2_TendrilFarm.label>
+<!-- EN: A pillar that slowly grows clusters of insectoid tendrilmoss. Needs to be constructed on the creep. While tendrilmoss generally acts as good and strong cover, it can be harvested and eaten. -->
+<VFEI2_TendrilFarm.description>Un pilier qui fait lentement pousser des amas de vrilles de mousse insectoïdes. Doit être construit sur du mucus. Bien que la vrille de mousse constitue généralement une bonne et solide couverture, elle peut être récoltée et mangée.</VFEI2_TendrilFarm.description>
+
+<!-- EN: thornpod -->
+<VFEI2_Thornpod.label>glume épineuse</VFEI2_Thornpod.label>
+<!-- EN: A volatile pod covered in sharp chitin thorns, produced by giant insects. If any target gets close to it, the pod expunges the thorns, after which it will take some time to grow them back. -->
+<VFEI2_Thornpod.description>Une glume volatile couverte d'épines de chitine acérées, produites par des insectes géants. Si une cible s'en approche, la glume expulse les épines, après quoi il lui faudra un certain temps pour les faire repousser.</VFEI2_Thornpod.description>
+
+<!-- EN: thornworm -->
+<VFEI2_Thornworm.label>ver d'épines</VFEI2_Thornworm.label>
+<!-- EN: A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornworm insectoid. This creature is capable of ejecting rapidly-growing chitin thorns at enemies nearby, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels. -->
+<VFEI2_Thornworm.description>Une petite excroissance servant d'entrée à un vaste ensemble de ruches souterraines, surmontée par l'émergence d'un insectoïde ver épines. Cette créature est capable d'éjecter des épines de chitine à croissance rapide sur les ennemis à proximité, à condition d'être régulièrement nourrie de gelée d'insecte.\n\nS'il est privé de nourriture, l'excroissance se détériore progressivement. Une fois complètement détérioré, le ver épines se retire dans les profondeurs des tunnels.</VFEI2_Thornworm.description>
+<!-- EN: Insect jelly -->
+<VFEI2_Thornworm.comps.CompRefuelable.fuelGizmoLabel>Gelée d'insecte</VFEI2_Thornworm.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Insect jelly -->
+<VFEI2_Thornworm.comps.CompRefuelable.fuelLabel>Gelée d'insecte</VFEI2_Thornworm.comps.CompRefuelable.fuelLabel>
+
+<!-- EN: thornworm -->
+<VFEI2_Thornworm_Gun.label>ver d'épines</VFEI2_Thornworm_Gun.label>
+<!-- EN: A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornworm insectoid. This creature is capable of ejecting rapidly-growing chitin thorns at enemies nearby, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels. -->
+<VFEI2_Thornworm_Gun.description>Une petite excroissance servant d'entrée à un vaste ensemble de ruches souterraines, surmontée par l'émergence d'un insectoïde ver d'épines. Cette créature est capable d'éjecter des épines de chitine à croissance rapide sur les ennemis à proximité, à condition d'être régulièrement nourrie de gelée d'insecte.\n\nS'il est privé de nourriture, l'excroissance se détériore progressivement. Une fois complètement détérioré, le ver d'épines se retire dans les profondeurs des tunnels.</VFEI2_Thornworm_Gun.description>
+<!-- EN: thornworm -->
+<VFEI2_Thornworm_Gun.verbs.Verb_MakeshiftShoot.label>ver d'épines</VFEI2_Thornworm_Gun.verbs.Verb_MakeshiftShoot.label>
+
+<!-- EN: thornworm projectile -->
+<VFEI2_Thornworm_Projectile.label>épines</VFEI2_Thornworm_Projectile.label>
+
+<!-- EN: vilelobber -->
+<VFEI2_Vilelobber.label>ver de bile</VFEI2_Vilelobber.label>
+<!-- EN: A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a vilelobber insectoid. This creature is adept at spitting large, corrosive acid blobs over considerable distances, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the vilelobber will retreat back into the deephive tunnels. -->
+<VFEI2_Vilelobber.description>Une petite excroissance servant d'entrée à un vaste ensemble de ruches souterraines, surmontée par l'émergence d'un insectoïde ver de bile. Cette créature est capable de cracher de grosses billes d'acide corrosif sur des distances considérables, à condition d'être régulièrement nourrie de gelée d'insecte.\n\nS'il est privé de nourriture, l'excroissance se détériore progressivement. Une fois complètement détérioré, le ver de bile se retire dans les profondeurs des tunnels.</VFEI2_Vilelobber.description>
+<!-- EN: Insect jelly -->
+<VFEI2_Vilelobber.comps.CompRefuelable.fuelGizmoLabel>Gelée d'insecte</VFEI2_Vilelobber.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Insect jelly -->
+<VFEI2_Vilelobber.comps.CompRefuelable.fuelLabel>Gelée d'insecte</VFEI2_Vilelobber.comps.CompRefuelable.fuelLabel>
+
+<!-- EN: vilelobber -->
+<VFEI2_Vilelobber_Gun.label>ver de bile</VFEI2_Vilelobber_Gun.label>
+<!-- EN: A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a vilelobber insectoid. This creature is adept at spitting large, corrosive acid blobs over considerable distances, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the vilelobber will retreat back into the deephive tunnels. -->
+<VFEI2_Vilelobber_Gun.description>Une petite excroissance servant d'entrée à un vaste ensemble de ruches souterraines, surmontée par l'émergence d'un insectoïde ver biles. Cette créature est capable de cracher de grosses billes d'acide corrosif sur des distances considérables, à condition d'être régulièrement nourrie de gelée d'insecte.\n\nS'il est privé de nourriture, l'excroissance se détériore progressivement. Une fois complètement détérioré, le ver biles se retire dans les profondeurs des tunnels.</VFEI2_Vilelobber_Gun.description>
+<!-- EN: vilelobber -->
+<VFEI2_Vilelobber_Gun.verbs.Verb_Shoot.label>ver de bile</VFEI2_Vilelobber_Gun.verbs.Verb_Shoot.label>
+
+<!-- EN: vilelobber projectile -->
+<VFEI2_Vilelobber_Projectile.label>bile</VFEI2_Vilelobber_Projectile.label>
+
+<!-- EN: xanides hive -->
+<VFEI2_XanidesHive.label>ruche xanides</VFEI2_XanidesHive.label>
+<!-- EN: A hive of giant insects of the Xanides geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+<VFEI2_XanidesHive.description>Une ruche d'insectes géants de la lignée Xanides. Si elle est activée, elle produira d'autres insectes et ruches au fil du temps, ainsi qu'une précieuse gelée d'insecte.</VFEI2_XanidesHive.description>
+
+
+<!-- EN: empress thumper -->
+<VFEI2_Thumper_Empress.label>marteleur impératrice</VFEI2_Thumper_Empress.label>
+<!-- EN: A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid empress to attack with its escorts. If you can defeat her, you can collect a special pherocore from her corpse. The thumps destabilise the thumper, so this building can only be used once. -->
+<VFEI2_Thumper_Empress.description>Un appareil produisant des vibrations. Lorsqu'il est activé, il émet de puissantes impulsions qui attirent une impératrice insectoïde qui attaque avec ses escortes. Si vous parvenez à la vaincre, vous pourrez récupérer un phérocœur spécial sur son cadavre. Les impacts déstabilisent le marteleur, de sorte que ce bâtiment ne peut être utilisé qu'une seule fois.</VFEI2_Thumper_Empress.description>
+<!-- EN: Activate thumper -->
+<VFEI2_Thumper_Empress.comps.CompUsable.useLabel>Activer le marteleur impératrice</VFEI2_Thumper_Empress.comps.CompUsable.useLabel>
+
+<!-- EN: gigamite thumper -->
+<VFEI2_Thumper_Gigamite.label>marteleur gigamite</VFEI2_Thumper_Gigamite.label>
+<!-- EN: A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid gigamite to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once. -->
+<VFEI2_Thumper_Gigamite.description>Un appareil produisant des vibrations. Lorsqu'il est activé, il émet de puissantes impulsions qui attirent une gigamite insectoïde qui attaque avec ses escortes. Si vous parvenez à la vaincre, vous pourrez récupérer un phérocœur spécial sur son cadavre. Les impacts déstabilisent le marteleur, de sorte que ce bâtiment ne peut être utilisé qu'une seule fois.</VFEI2_Thumper_Gigamite.description>
+<!-- EN: Activate thumper -->
+<VFEI2_Thumper_Gigamite.comps.CompUsable.useLabel>Activer le marteleur gigamite</VFEI2_Thumper_Gigamite.comps.CompUsable.useLabel>
+
+<!-- EN: silverfish thumper -->
+<VFEI2_Thumper_Silverfish.label>marteleur lépisme</VFEI2_Thumper_Silverfish.label>
+<!-- EN: A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid silverfish to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once. -->
+<VFEI2_Thumper_Silverfish.description>Un appareil produisant des vibrations. Lorsqu'il est activé, il émet de puissantes impulsions qui attirent un lépisme insectoïde qui attaque avec ses escortes. Si vous parvenez à la vaincre, vous pourrez récupérer un phérocœur spécial sur son cadavre. Les impacts déstabilisent le marteleur, de sorte que ce bâtiment ne peut être utilisé qu'une seule fois.</VFEI2_Thumper_Silverfish.description>
+<!-- EN: Activate thumper -->
+<VFEI2_Thumper_Silverfish.comps.CompUsable.useLabel>Activer le marteleur lépisme</VFEI2_Thumper_Silverfish.comps.CompUsable.useLabel>
+
+<!-- EN: teramantis thumper -->
+<VFEI2_Thumper_Teramantis.label>marteleur téramante</VFEI2_Thumper_Teramantis.label>
+<!-- EN: A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid teramantis to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once. -->
+<VFEI2_Thumper_Teramantis.description>Un appareil produisant des vibrations. Lorsqu'il est activé, il émet de puissantes impulsions qui attirent une téramante insectoïde qui attaque avec ses escortes. Si vous parvenez à la vaincre, vous pourrez récupérer un phérocœur spécial sur son cadavre. Les impacts déstabilisent le marteleur, de sorte que ce bâtiment ne peut être utilisé qu'une seule fois.</VFEI2_Thumper_Teramantis.description>
+<!-- EN: Activate thumper -->
+<VFEI2_Thumper_Teramantis.comps.CompUsable.useLabel>Activer le marteleur téramante</VFEI2_Thumper_Teramantis.comps.CompUsable.useLabel>
+
+<!-- EN: titantick thumper -->
+<VFEI2_Thumper_Titantick.label>marteleur titantique</VFEI2_Thumper_Titantick.label>
+<!-- EN: A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid titantick to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once. -->
+<VFEI2_Thumper_Titantick.description>Un appareil produisant des vibrations. Lorsqu'il est activé, il émet de puissantes impulsions qui attirent un titantique insectoïde qui attaque avec ses escortes. Si vous parvenez à la vaincre, vous pourrez récupérer un phérocœur spécial sur son cadavre. Les impacts déstabilisent le marteleur, de sorte que ce bâtiment ne peut être utilisé qu'une seule fois.</VFEI2_Thumper_Titantick.description>
+<!-- EN: Activate thumper -->
+<VFEI2_Thumper_Titantick.comps.CompUsable.useLabel>Activer le marteleur titantique</VFEI2_Thumper_Titantick.comps.CompUsable.useLabel>
+
+
+<!-- EN: Mote -->
+<VFEI_Mote_CocoonDestroyedFlyingPiece.label>Mote</VFEI_Mote_CocoonDestroyedFlyingPiece.label>
+
+<!-- EN: Mote -->
+<VFEI_Mote_CocoonDestroyedFlyingSlime.label>Mote</VFEI_Mote_CocoonDestroyedFlyingSlime.label>
+
+<!-- EN: Mote -->
+<VFEI_Mote_CocoonDestroyedMist.label>Mote</VFEI_Mote_CocoonDestroyedMist.label>
+
+
+<!-- EN: flying -->
+<VFEI2_Tunneler.label>vol</VFEI2_Tunneler.label>
+
+
+<!-- EN: flammable bile -->
+<VFEI2_Filth_FlammableBile.label>bile inflammable</VFEI2_Filth_FlammableBile.label>
+
+<!-- EN: insect jelly smear -->
+<VFEI2_Filth_InsectJelly.label>trainée de gelée d'insecte</VFEI2_Filth_InsectJelly.label>
+
+<!-- EN: royal jelly smear -->
+<VFEI2_Filth_RoyalJelly.label>trainée de gelée royale</VFEI2_Filth_RoyalJelly.label>
+
+
+<!-- EN: chelis pherocore -->
+<VFEI2_PherocoreChelis.label>phérocœur chelis</VFEI2_PherocoreChelis.label>
+<!-- EN: A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the great geneline from the planet Chelis, known for their locust-like appearance and ability to fly for thousands of miles. -->
+<VFEI2_PherocoreChelis.description>Micro-organisme contrôlant les phéromones. Il est nécessaire pour construire certains types de ruches insectoïdes. Les phérocœurs ont été intégrés profondément dans le cerveau de la lignée des leaders, ce qui a permis à d'anciennes civilisations de contrôler les ruches.\n\nCe phérocœur appartient à la grande lignée de la planète Chelis, connue pour son apparence de criquet et sa capacité à voler sur des milliers de kilomètres.</VFEI2_PherocoreChelis.description>
+<!-- EN: Use {0_labelShort} to increase the size of the hive -->
+<VFEI2_PherocoreChelis.comps.CompUsable.useLabel>Utiliser le {0_labelShort} pour augmenter la taille de la ruche.</VFEI2_PherocoreChelis.comps.CompUsable.useLabel>
+
+<!-- EN: kemian pherocore -->
+<VFEI2_PherocoreKemian.label>phérocœur kemian</VFEI2_PherocoreKemian.label>
+<!-- EN: A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the mutated geneline from the toxic world of Kemia, known for their ability to use toxins to dispose of their enemies. -->
+<VFEI2_PherocoreKemian.description>Micro-organisme contrôlant les phéromones. Il est nécessaire pour construire certains types de ruches insectoïdes. Les phérocœurs ont été intégrés profondément dans le cerveau de la lignée des leaders, ce qui a permis à d'anciennes civilisations de contrôler les ruches.\n\nCe phérocœur appartient à la lignée mutante du monde toxique de Kemia, connue pour sa capacité à utiliser des toxines pour se débarrasser de ses ennemis.</VFEI2_PherocoreKemian.description>
+<!-- EN: Use {0_labelShort} to increase the size of the hive -->
+<VFEI2_PherocoreKemian.comps.CompUsable.useLabel>Utiliser le {0_labelShort} pour augmenter la taille de la ruche.</VFEI2_PherocoreKemian.comps.CompUsable.useLabel>
+
+<!-- EN: nuchadus pherocore -->
+<VFEI2_PherocoreNuchadus.label>phérocœur nuchadus</VFEI2_PherocoreNuchadus.label>
+<!-- EN: A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the hyper-aggressive geneline from the volcanic planet Nuchadus. -->
+<VFEI2_PherocoreNuchadus.description>Micro-organisme contrôlant les phéromones. Il est nécessaire pour construire certains types de ruches insectoïdes. Les phérocœurs ont été intégrés profondément dans le cerveau de la lignée des leaders, ce qui a permis à d'anciennes civilisations de contrôler les ruches.\n\nCe phérocœur appartient à la lignée hyper-agressive de la planète volcanique Nuchadus.</VFEI2_PherocoreNuchadus.description>
+<!-- EN: Use {0_labelShort} to increase the size of the hive -->
+<VFEI2_PherocoreNuchadus.comps.CompUsable.useLabel>Utiliser le {0_labelShort} pour augmenter la taille de la ruche.</VFEI2_PherocoreNuchadus.comps.CompUsable.useLabel>
+
+<!-- EN: sorne pherocore -->
+<VFEI2_PherocoreSorne.label>phérocœur sorne</VFEI2_PherocoreSorne.label>
+<!-- EN: A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the oldest geneline from the planet Sorne, which is known for their great numbers and versatility. -->
+<VFEI2_PherocoreSorne.description>Micro-organisme contrôlant les phéromones. Il est nécessaire pour construire certains types de ruches insectoïdes. Les phérocœurs ont été intégrés profondément dans le cerveau de la lignée des leaders, ce qui a permis à d'anciennes civilisations de contrôler les ruches.\n\nCe phérocœur appartient à la plus ancienne lignée de la planète Sorne, connue pour son grand nombre et sa polyvalence.</VFEI2_PherocoreSorne.description>
+<!-- EN: Use {0_labelShort} to increase the size of the hive -->
+<VFEI2_PherocoreSorne.comps.CompUsable.useLabel>Utiliser le {0_labelShort} pour augmenter la taille de la ruche.</VFEI2_PherocoreSorne.comps.CompUsable.useLabel>
+
+<!-- EN: xanides pherocore -->
+<VFEI2_PherocoreXanides.label>phérocœur xanides</VFEI2_PherocoreXanides.label>
+<!-- EN: A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the Xanides geneline, which has evolved in a mineral-rich planet and create nearly impenetrable armor around themselves. -->
+<VFEI2_PherocoreXanides.description>Micro-organisme contrôlant les phéromones. Il est nécessaire pour construire certains types de ruches insectoïdes. Les phérocœurs ont été intégrés profondément dans le cerveau de la lignée des leaders, ce qui a permis à d'anciennes civilisations de contrôler les ruches.\n\nCe phérocœur appartient à la lignée des Xanides, qui ont évolué sur une planète riche en minéraux et se sont dotés d'une armure presque impénétrable.</VFEI2_PherocoreXanides.description>
+<!-- EN: Use {0_labelShort} to increase the size of the hive -->
+<VFEI2_PherocoreXanides.comps.CompUsable.useLabel>Utiliser le {0_labelShort} pour augmenter la taille de la ruche.</VFEI2_PherocoreXanides.comps.CompUsable.useLabel>
+
+
+<!-- EN: chitin -->
+<VFEI2_Chitin.label>chitine</VFEI2_Chitin.label>
+<!-- EN: An extremely thick composition of rare minerals and biomass, commonly found in a form of insect exoskeletons. -->
+<VFEI2_Chitin.description>Composition extrêmement épaisse de minéraux rares et de biomasse, que l'on trouve généralement sous forme d'exosquelettes d'insectes.</VFEI2_Chitin.description>
+
+
+<!-- EN: tendrilmoss -->
+<VFEI2_Tendrilmoss.label>vrille de mousse</VFEI2_Tendrilmoss.label>
+<!-- EN: Raw tendrilmoss obtained by harvesting tendrilmoss vines growing around insectoid tendril farms. -->
+<VFEI2_Tendrilmoss.description>La vrille de mousse crue est obtenue en récoltant les ronces de vrille de mousse qui poussent autour des glumes de vrilles insectoïdes.</VFEI2_Tendrilmoss.description>
+
+
+<!-- EN: tendrilmoss vines -->
+<VFEI2_TendrilmossVines.label>ronce de vrille de mousse</VFEI2_TendrilmossVines.label>
+<!-- EN: Twisted, nutrient-rich moss that grows cultivated by insectoids in clumps in hive areas. Moss takes a long time to grow, but is very frost-resistant. Significantly slows down movement speed, but acts as cover. -->
+<VFEI2_TendrilmossVines.description>Mousse torsadée, riche en nutriments, cultivée par les insectoïdes en amas dans les ruches. La mousse prend beaucoup de temps à pousser, mais elle est très résistante au gel. Elle ralentit considérablement la vitesse de déplacement, mais sert de couverture.</VFEI2_TendrilmossVines.description>
+
+
+<!-- EN: chemfuel spit -->
+<VFEI2_ChemfuelSpit.label>crachat de chemfuel</VFEI2_ChemfuelSpit.label>
+
+<!-- EN: acid -->
+<VFEI2_Proj_Acid.label>acide</VFEI2_Proj_Acid.label>
+
+
+<!-- EN: acidspitter -->
+<VFEI2_Acidspitter.label>cracheur d'acide</VFEI2_Acidspitter.label>
+<!-- EN: A giant, heavy insectoid with a large acid sack on the lower abdomen, that glides on a few tiny legs. While its armor is not thick, or its mandibles sharp, it is capable of utilizing its acid glands to spew gallons of corrosive acid forward. Due to being extremely slow, they are somewhat vulnerable to hit-and-run tactics. -->
+<VFEI2_Acidspitter.description>Un insectoïde géant et lourd, doté d'une grande poche d'acide sur le bas de l'abdomen, qui glisse sur des dizaines de petites pattes. Bien que son armure ne soit pas épaisse et que ses mandibules ne soient pas tranchantes, il est capable d'utiliser ses glandes d'acide pour cracher des litres d'acide corrosif vers l'avant. En raison de leur extrême lenteur, ils sont quelque peu vulnérables aux tactiques dites de "tir et cours".</VFEI2_Acidspitter.description>
+<!-- EN: head claw -->
+<VFEI2_Acidspitter.tools.head_claw.label>corne frontale</VFEI2_Acidspitter.tools.head_claw.label>
+<!-- EN: mandibles -->
+<VFEI2_Acidspitter.tools.mandibles.label>mandibules</VFEI2_Acidspitter.tools.mandibles.label>
+<!-- EN: head -->
+<VFEI2_Acidspitter.tools.head.label>tête</VFEI2_Acidspitter.tools.head.label>
+
+
+<!-- EN: boomtick -->
+<VFEI2_Boomtick.label>boomtique</VFEI2_Boomtick.label>
+<!-- EN: A large, genetically-engineered tick. Bred for the purpose of fuel refining on the molten planet of Nuchadus, boomtick is now often seen across many planets, where it is considered a dangerous, volatile pest. Its chemfuel sack explodes on death, setting everything nearby on fire. A eusocial creature, it cannot reproduce individually. -->
+<VFEI2_Boomtick.description>Une grosse tique génétiquement modifiée. Élevée à des fins de raffinage de carburant sur la planète en fusion Nuchadus, la boomtique est aujourd'hui souvent observée sur de nombreuses planètes, où elle est considérée comme un parasite dangereux et volatile. Sa poche de chemfuel explose à sa mort, mettant le feu à tout ce qui se trouve à proximité. Créature eusociale, elle ne peut pas se reproduire individuellement.</VFEI2_Boomtick.description>
+<!-- EN: mandibles -->
+<VFEI2_Boomtick.tools.mandibles.label>mandibules</VFEI2_Boomtick.tools.mandibles.label>
+<!-- EN: head -->
+<VFEI2_Boomtick.tools.head.label>tête</VFEI2_Boomtick.tools.head.label>
+
+
+<!-- EN: durapod -->
+<VFEI2_Durapod.label>durapode</VFEI2_Durapod.label>
+<!-- EN: A medium-sized bioengineered insectoid the size of a goat. The durapod is the lowest caste of the Xanides geneline, taking care of most work tasks. Its extremely thick rock carapace makes it very slow but also very durable, but excessive damage will chip away the armor exposing the weak spots. -->
+<VFEI2_Durapod.description>Insectoïde de taille moyenne issu de la bio-ingénierie, de la taille d'une chèvre. Le durapode est la caste la plus basse de la lignée des Xanides, s'occupant de la plupart des travaux. Sa carapace de roche extrêmement épaisse le rend très lent mais aussi très résistant, mais des dommages excessifs ébrécheront l'armure en exposant ses points faibles.</VFEI2_Durapod.description>
+<!-- EN: head claw -->
+<VFEI2_Durapod.tools.head_claw.label>corne frontale</VFEI2_Durapod.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Durapod.tools.head.label>tête</VFEI2_Durapod.tools.head.label>
+
+
+<!-- EN: empress -->
+<VFEI2_Empress.label>impératrice</VFEI2_Empress.label>
+<!-- EN: An incredibly rare and monstrously large insectoid of the Sorne geneline, the empress insectoid is incredibly effective at birthing offspring. Her specialized larval chambers allow her to spawn large swarms of swarmlings quickly. While she's not as dangerous in close quarters, the vast numbers of her offspring can easily swarm and overwhelm enemies. While all insectoids are almost equally terrifying, many who have seen the empress find the sight of her even more disturbing, as she embodies all that is wrong with genetic engineering. Upon death, it’s possible to extract a Sorne pherocore from her body. -->
+<VFEI2_Empress.description>Insectoïde extrêmement rare et monstrueusement grand de la lignée Sorne, l'impératrice insectoïde est incroyablement efficace pour engendrer une progéniture. Ses chambres larvaires spécialisées lui permettent d'engendrer rapidement de nombreuses larvelings. Bien qu'elle ne soit pas aussi dangereuse au corps à corps, le grand nombre de sa progéniture peut facilement essaimer et submerger les ennemis. Si tous les insectoïdes sont presque aussi terrifiants les uns des autres, beaucoup de ceux qui ont vu l'impératrice trouvent sa vue encore plus troublante, car elle incarne tout ce qui est mauvais dans le génie génétique.\n\nÀ sa mort, il est possible d'extraire un phérocœur Sorne de son corps.</VFEI2_Empress.description>
+<!-- EN: head claw -->
+<VFEI2_Empress.tools.head_claw.label>corne frontale</VFEI2_Empress.tools.head_claw.label>
+<!-- EN: front claw -->
+<VFEI2_Empress.tools.front_claw.label>griffe avant</VFEI2_Empress.tools.front_claw.label>
+<!-- EN: head -->
+<VFEI2_Empress.tools.head.label>tête</VFEI2_Empress.tools.head.label>
+
+
+<!-- EN: fuelmite -->
+<VFEI2_Fuelmite.label>combumite</VFEI2_Fuelmite.label>
+<!-- EN: A large, genetically-engineered mite native to the planet Nuchadus, where it fuels gigantic megaforges of the corporations. Fuelmites are capable of synthesising volatile chemfuel in their fuel sacks, and can eject it from their fuelglands over huge distances. While fuel itself is not dangerous, a single spark is enough to set the area on fire. It is, however, quite slow in open terrain. -->
+<VFEI2_Fuelmite.description>Grand acarien génétiquement modifié originaire de la planète Nuchadus, où il alimente les gigantesques mégaforces des corporations. Les combumites sont capables de synthétiser du chemfuel volatil dans leurs poches de carburant, et peuvent l'éjecter de ces poches sur d'immenses distances. Bien que le carburant en lui-même ne soit pas dangereux, une simple étincelle suffit à mettre le feu à la zone concernée. Cependant, il est assez lent en terrain découvert.</VFEI2_Fuelmite.description>
+<!-- EN: head claw -->
+<VFEI2_Fuelmite.tools.head_claw.label>corne frontale</VFEI2_Fuelmite.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Fuelmite.tools.head.label>tête</VFEI2_Fuelmite.tools.head.label>
+
+
+<!-- EN: gigalocust -->
+<VFEI2_Gigalocust.label>gigalocuste</VFEI2_Gigalocust.label>
+<!-- EN: A genetically-engineered hunter drone the size of an elephant. It can fly over long distances, dropping down on unsuspecting targets, ripping them to shreds with its several sets of ripper-blades and sharp mandibles. It is, however, quite slow in open terrain. -->
+<VFEI2_Gigalocust.description>Un drone chasseur génétiquement modifié de la taille d'un éléphant. Il peut voler sur de longues distances, se poser sur des cibles qui ne se doutent de rien et les réduire en lambeaux grâce à ses nombreuses lames et mandibules tranchantes. Cependant, il est assez lent en terrain découvert.</VFEI2_Gigalocust.description>
+<!-- EN: head claw -->
+<VFEI2_Gigalocust.tools.head_claw.label>corne frontale</VFEI2_Gigalocust.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Gigalocust.tools.head.label>tête</VFEI2_Gigalocust.tools.head.label>
+
+
+<!-- EN: gigamite -->
+<VFEI2_Gigamite.label>gigamite</VFEI2_Gigamite.label>
+<!-- EN: An incredibly rare and monstrously large insectoid of the Kemia geneline, the gigamite is a towering insectoid native to the most toxic planet ever discovered, renowned for its unique adaptation to the hostile environment. This creature features a massive acid gland, prominently mounted on its back, which produces a potent corrosive acid. While the gigamite lacks prowess in close-quarters combat, it compensates with its ability to project a continuous, high-velocity stream of acid over considerable distances. This devastating attack not only burns through organic matter but also rapidly corrodes structures and vehicles. Upon death, it’s possible to extract a Kemia pherocore from its body. -->
+<VFEI2_Gigamite.description>Insectoïde incroyablement rare et monstrueusement grand de la lignée Kemia, la gigamite est un insecte imposant originaire de la planète la plus toxique jamais découverte, réputée pour son adaptation unique à l'environnement hostile. Cette créature est dotée d'une énorme glande acide, placée en évidence sur son dos, qui produit un puissant acide corrosif. Si la gigamite manque de prouesses en combat rapproché, elle compense par sa capacité à projeter un jet d'acide continu et à grande vitesse sur des distances considérables. Cette attaque dévastatrice brûle non seulement la matière organique, mais corrode aussi rapidement les structures et les véhicules.\n\nÀ sa mort, il est possible d'extraire un phérocœur Kemia de son corps.</VFEI2_Gigamite.description>
+<!-- EN: head claw -->
+<VFEI2_Gigamite.tools.head_claw.label>corne frontale</VFEI2_Gigamite.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Gigamite.tools.head.label>tête</VFEI2_Gigamite.tools.head.label>
+
+
+<!-- EN: hellbeetle -->
+<VFEI2_Hellbeetle.label>scarabée des enfers</VFEI2_Hellbeetle.label>
+<!-- EN: Not actually a beetle, the hellbeetle is a genetically-engineered giant insectoid the size of a bear. Designed for the forges of the planet Nuchadus, hellbeetles have brittle armor, but are capable of spitting liquid fire from their giant jaws. In close quarters, the sharp horns and ripper-blades will dispose of flesh and metal alike. It is, however, quite slow in open terrain. -->
+<VFEI2_Hellbeetle.description>Le scarabée des enfers n'est pas un scarabée à proprement parler, mais un insectoïde géant génétiquement modifié de la taille d'un ours. Conçus pour les forges de la planète Nuchadus, les scarabées des enfers ont une armure fragile, mais sont capables de cracher du feu liquide à partir de leurs mâchoires géantes. Au corps à corps, ses cornes acérées et ses lames tranchantes détruisent aussi bien la chair que le métal. Il est cependant assez lent en terrain découvert.</VFEI2_Hellbeetle.description>
+<!-- EN: head claw -->
+<VFEI2_Hellbeetle.tools.head_claw.label>corne frontale</VFEI2_Hellbeetle.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Hellbeetle.tools.head.label>tête</VFEI2_Hellbeetle.tools.head.label>
+
+
+<!-- EN: ironclad -->
+<VFEI2_Ironclad.label>cuirassé</VFEI2_Ironclad.label>
+<!-- EN: A giant, genetically-engineered insectoid responsible for the hive defense. The incredible claws the size of a failed vidtuber’s ego can break and crush anything trying to harm the new spawn. Its extremely thick rock carapace makes it very slow but also very durable, but excessive damage will chip away the armor exposing the weak spots. -->
+<VFEI2_Ironclad.description>Un insectoïde géant, génétiquement modifié, responsable de la défense de la ruche. Ses griffes incroyables, de la taille de l'ego d'un vidtuber raté, peuvent briser et écraser tout ce qui tente de nuire à la nouvelle progéniture. Sa carapace de roche extrêmement épaisse le rend très lent mais aussi très résistant, mais des dommages excessifs ébrécheront l'armure en exposant ses points faibles.</VFEI2_Ironclad.description>
+<!-- EN: head claw -->
+<VFEI2_Ironclad.tools.head_claw.label>corne frontale</VFEI2_Ironclad.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Ironclad.tools.head.label>tête</VFEI2_Ironclad.tools.head.label>
+
+
+<!-- EN: macrofly -->
+<VFEI2_Macrofly.label>macromouche</VFEI2_Macrofly.label>
+<!-- EN: A medium-sized bioengineered flying insectoid the size of a pig. The macrofly is the lowest caste of the Chelis hive, responsible for most of the resource gathering and work. It’s capable of lunging towards enemies at incredible speed, and it uses the digging claws to rip them in close quarters. It's dangerous in combat, but slow on open ground. -->
+<VFEI2_Macrofly.description>Insectoïde volant de taille moyenne issu de la bio-ingénierie, de la taille d'un cochon. La macromouche est la caste la plus basse de la ruche Chelis, responsable de la plupart des activités de collecte de ressources et de travail. Elle est capable de s'élancer vers ses ennemis à une vitesse incroyable et d'utiliser ses griffes pour les déchiqueter au corps à corps. Elle est dangereuse au combat, mais lente en terrain découvert.</VFEI2_Macrofly.description>
+<!-- EN: head claw -->
+<VFEI2_Macrofly.tools.head_claw.label>corne frontale</VFEI2_Macrofly.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Macrofly.tools.head.label>tête</VFEI2_Macrofly.tools.head.label>
+
+
+<!-- EN: megapede -->
+<VFEI2_Megapede.label>mégapède</VFEI2_Megapede.label>
+<!-- EN: A giant, heavy insectoid that glides on dozens of tiny legs. Its thick chitin armor and sharp mandibles the size of an elephant’s tusk make it an excellent siege machine. Due to being extremely slow, they are somewhat vulnerable to hit-and-run tactics. -->
+<VFEI2_Megapede.description>Un insectoïde géant et lourd qui glisse sur des dizaines de petites pattes. Son épaisse armure de chitine et ses mandibules acérées de la taille d'une défense d'éléphant en font une excellente machine de siège. En raison de son extrême lenteur, il est quelque peu vulnérable aux tactiques dites de "tir et cours".</VFEI2_Megapede.description>
+<!-- EN: head claw -->
+<VFEI2_Megapede.tools.head_claw.label>corne frontale</VFEI2_Megapede.tools.head_claw.label>
+<!-- EN: mandibles -->
+<VFEI2_Megapede.tools.mandibles.label>mandibules</VFEI2_Megapede.tools.mandibles.label>
+<!-- EN: head -->
+<VFEI2_Megapede.tools.head.label>tête</VFEI2_Megapede.tools.head.label>
+
+
+<!-- EN: megathrips -->
+<VFEI2_Megathrips.label>mégathrips</VFEI2_Megathrips.label>
+<!-- EN: A large, genetically-engineered thrips. A worker caste of an artificial ecosystem of insectoids designed to fight against humans in large scale wars, it now often makes up for the majority of the kemian geneline hives. Megathrisp uses sharp mandibles to rip the armor into shreds, while overcharged acid glands coat the exposed flesh in corrosive substance, causing severe burns. A eusocial creature, it cannot reproduce individually. -->
+<VFEI2_Megathrips.description>Un grand thrips génétiquement modifié. Caste ouvrière d'un écosystème artificiel d'insectoïdes conçu pour lutter contre les humains dans les guerres à grande échelle, il constitue souvent la majorité des ruches de la lignée kemian. Le mégathrips utilise des mandibules acérées pour déchiqueter les armures, tandis que des glandes acides surchargées enduisent la chair exposée d'une substance corrosive, provoquant de graves brûlures. Créature eusociale, elle ne peut se reproduire individuellement.</VFEI2_Megathrips.description>
+<!-- EN: mandibles -->
+<VFEI2_Megathrips.tools.mandibles.label>mandibules</VFEI2_Megathrips.tools.mandibles.label>
+<!-- EN: head -->
+<VFEI2_Megathrips.tools.head.label>tête</VFEI2_Megathrips.tools.head.label>
+
+
+<!-- EN: megawasp -->
+<VFEI2_Megawasp.label>mégaguêpe</VFEI2_Megawasp.label>
+<!-- EN: Not actually a wasp, the megawasp is a genetically-engineered giant flying insectoid the size of a cow. Designed as the hunter and the hive defender, megawasp soars through the air to engage enemies in close quarters, where it uses long and sharp ripper-blades and mandibles to cut anyone they face into pieces. The sharpness of the claws means that they are capable of eliminating even the most heavily armored enemies. It is, however, quite slow in open terrain. -->
+<VFEI2_Megawasp.description>La mégaguêpe n'est pas une guêpe, mais un insectoïde volant géant génétiquement modifié, de la taille d'une vache. Conçu pour être à la fois le chasseur et le défenseur de la ruche, la mégaguêpe s'élève dans les airs pour attaquer ses ennemis au corps-à-corps, où elle utilise de longues lames tranchantes et des mandibules pour découper en morceaux tous ceux qu'elle affronte. Le tranchant de ses griffes lui permet d'éliminer même les ennemis les plus lourdement armés. Cependant, elle est assez lente en terrain découvert.</VFEI2_Megawasp.description>
+<!-- EN: head claw -->
+<VFEI2_Megawasp.tools.head_claw.label>corne frontale</VFEI2_Megawasp.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Megawasp.tools.head.label>tête</VFEI2_Megawasp.tools.head.label>
+
+
+<!-- EN: insectoid queen -->
+<VFEI2_Queen.label>reine insectoïde</VFEI2_Queen.label>
+<!-- EN: A giant, genetically-engineered insectoid responsible for creating new spawn. A mother to the insects in her hive, a queen doesn’t do heavy work, and tries to avoid combat if possible. As massive as an adult thrumbo, the queen instills fear in most opponents. Her thick chitinous armor makes her hard to kill, whilst long, deadly blades can tear through plasteel shielding in seconds. Despite being quite slow in open terrain, an insectoid queen is capable of creating new swarmlings at a rapid pace, and should never be allowed to settle down. -->
+<VFEI2_Queen.description>Insectoïde géant génétiquement modifié chargé de créer de nouvelles générations. Mère des insectes de sa ruche, la reine ne fait pas de gros travaux et essaie d'éviter le combat si possible. Aussi massive qu'un thrumbo adulte, la reine inspire la crainte à la plupart de ses adversaires. Son épaisse armure en chitine la rend difficile à tuer, tandis que ses longues lames mortelles peuvent déchirer un bouclier en plastacier en quelques secondes. Bien qu'elle soit assez lente en terrain découvert, une reine insectoïde est capable de créer de nouvelles larvelings à un rythme rapide, et il ne faut jamais la laisser s'installer.</VFEI2_Queen.description>
+<!-- EN: head claw -->
+<VFEI2_Queen.tools.head_claw.label>corne frontale</VFEI2_Queen.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Queen.tools.head.label>tête</VFEI2_Queen.tools.head.label>
+
+
+<!-- EN: silverfish -->
+<VFEI2_Silverfish.label>lépisme</VFEI2_Silverfish.label>
+<!-- EN: An incredibly rare and monstrously large insectoid of the Xanides geneline, the silverfish, a colossal bug from the mineral-rich planet of Xanides, is encased in a nearly impenetrable exoskeleton composed of rocky formations. Despite its slow movement, this giant insectoid is highly effective at tunneling through the planet's dense terrain, using its massive pincer claws to dig wide tunnels and dismantle defensive structures with ease. Although its rocky armor shields it from most attacks, strategically targeted shots can expose vulnerable spots beneath its hardened exterior. Upon death, it’s possible to extract a Xanides pherocore from its body. -->
+<VFEI2_Silverfish.description>Insectoïde incroyablement rare et monstrueusement grand de la lignée des Xanides, le lépisme, insecte colossal de la planète riche en minerais des Xanides, est enveloppé d'un exosquelette presque impénétrable composé de formations rocheuses. Malgré la lenteur de ses mouvements, cet insectoïde géant est très efficace pour creuser des tunnels à travers le terrain dense de la planète, utilisant ses pinces massives pour creuser de larges tunnels et démanteler les structures défensives avec facilité. Bien que son armure rocheuse le protège de la plupart des attaques, des tirs ciblés peuvent révéler des points vulnérables sous sa carapace durcie.\n\nÀ sa mort, il est possible d'extraire un phérocœur Xanides de son corps.</VFEI2_Silverfish.description>
+<!-- EN: right claw -->
+<VFEI2_Silverfish.tools.right_claw.label>pince droite</VFEI2_Silverfish.tools.right_claw.label>
+<!-- EN: left claw -->
+<VFEI2_Silverfish.tools.left_claw.label>pince gauche</VFEI2_Silverfish.tools.left_claw.label>
+<!-- EN: head -->
+<VFEI2_Silverfish.tools.head.label>tête</VFEI2_Silverfish.tools.head.label>
+
+
+<!-- EN: swarmlings -->
+<VFEI2_Swarmling.label>larvelings</VFEI2_Swarmling.label>
+<!-- EN: The juvenile form of insectoids, swarmlings are more or less harmless, slow and easy to kill. After some time has passed, they undergo a metamorphosis, forming a cocoon from which an adult insectoid will emerge. There is no way to tell what kind of insect will crawl out of its cocoon. -->
+<VFEI2_Swarmling.description>Forme juvénile des insectoïdes, les larvelings sont plus ou moins inoffensifs, lents et faciles à tuer. Après un certain temps, ils se métamorphosent, formant un cocon d'où sortira un insectoïde adulte. Il n'y a aucun moyen de savoir quel type d'insecte sortira du cocon.</VFEI2_Swarmling.description>
+<!-- EN: mouth -->
+<VFEI2_Swarmling.tools.mouth.label>gueule</VFEI2_Swarmling.tools.mouth.label>
+
+
+<!-- EN: tankroach -->
+<VFEI2_Tankroach.label>chafard</VFEI2_Tankroach.label>
+<!-- EN: A giant, heavy insectoid that glides on dozens of tiny legs. Its extremely thick rock carapace makes it very slow but also very durable, but excessive damage will chip away the armor exposing the weak spots. -->
+<VFEI2_Tankroach.description>Un insectoïde géant et lourd qui glisse sur des dizaines de petites pattes. Sa carapace de roche extrêmement épaisse le rend très lent mais aussi très résistant, mais les dégâts excessifs ébrécheront l'armure, exposant ses points faibles.</VFEI2_Tankroach.description>
+<!-- EN: head claw -->
+<VFEI2_Tankroach.tools.head_claw.label>corne frontale</VFEI2_Tankroach.tools.head_claw.label>
+<!-- EN: mandibles -->
+<VFEI2_Tankroach.tools.mandibles.label>mandibules</VFEI2_Tankroach.tools.mandibles.label>
+<!-- EN: head -->
+<VFEI2_Tankroach.tools.head.label>tête</VFEI2_Tankroach.tools.head.label>
+
+
+<!-- EN: teramantis -->
+<VFEI2_Teramantis.label>téramante</VFEI2_Teramantis.label>
+<!-- EN: An incredibly rare and monstrously large insectoid of the Chelis geneline, the teramantis is the formidable leader of insectoid hives on the steppe planets of Chelis. Known as a prime male, this massive insectoid is equipped with lethal ripper claws sharp enough to cleave armored vehicles in two. Complementing its fearsome offensive capabilities, the teramantis boasts a large set of wings, granting it the ability to soar across the vast landscapes in pursuit of prey for hundreds of miles. Its aerial prowess and deadly strength make it a dreaded apex predator on Chelis, commanding respect and fear from all who dwell within its territory. Upon death, it’s possible to extract a Chelis pherocore from its body. -->
+<VFEI2_Teramantis.description>Insectoïde incroyablement rare et monstrueusement grand de la lignée Chelis, la téramante est le redoutable chef des ruches d'insectoïdes sur les planètes steppes de Chelis. Connu sous le nom de mâle primitif, cet insectoïde massif est équipé de griffes meurtrières assez tranchantes pour couper des véhicules blindés en deux. En plus de ses redoutables capacités offensives, la téramante possède de grandes ailes qui lui permettent de s'envoler sur des centaines de kilomètres à travers les vastes paysages à la poursuite de ses proies. Ses prouesses aériennes et sa force meurtrière en font un prédateur redouté sur Chelis, inspirant respect et crainte à tous ceux qui vivent sur son territoire.\n\nÀ sa mort, il est possible d'extraire un phérocœur Chelis de son corps.</VFEI2_Teramantis.description>
+<!-- EN: head claw -->
+<VFEI2_Teramantis.tools.head_claw.label>corne frontale</VFEI2_Teramantis.tools.head_claw.label>
+<!-- EN: right claw -->
+<VFEI2_Teramantis.tools.right_claw.label>griffe droite</VFEI2_Teramantis.tools.right_claw.label>
+<!-- EN: left claw -->
+<VFEI2_Teramantis.tools.left_claw.label>griffe gauche</VFEI2_Teramantis.tools.left_claw.label>
+<!-- EN: head -->
+<VFEI2_Teramantis.tools.head.label>tête</VFEI2_Teramantis.tools.head.label>
+
+
+<!-- EN: titantick -->
+<VFEI2_Titantick.label>titantique</VFEI2_Titantick.label>
+<!-- EN: An incredibly rare and monstrously large insectoid of the Nuchadus geneline, the titantick is a formidable engineered tick, designed to serve as a mobile fuel depot on the harsh magma planet of Nuchadus. This creature features an enormous chemfuel sack attached to its lower abdomen, which is prone to leaking vast quantities of fuel when damaged. In addition to its capacity to store fuel, the titantick can also project streams of burning chemfuel over long distances, making it a dangerous adversary in combat. The volatile nature of its fuel sack means that upon death, the titantick will explode spectacularly, but it’s still possible to extract a Nuchadus pherocore from his body. -->
+<VFEI2_Titantick.description>Insectoïde incroyablement rare et monstrueusement grand de la lignée de Nuchadus, le titantique est une formidable tique artificielle, conçue pour servir de dépôt de carburant mobile sur la dure planète magmatique de Nuchadus. Cette créature est dotée d'une énorme poche de chemfuel attachée au bas de son abdomen, qui a tendance à laisser s'échapper de grandes quantités de carburant lorsqu'elle est endommagée. Outre sa capacité à stocker du carburant, le titantique peut également projeter des jets de chemfuel brûlant sur de longues distances, ce qui en fait un dangereux adversaire au combat. La nature volatile de son carburant fait qu'à sa mort, le titantique explose de façon spectaculaire.\n\nIl est toujours possible d'extraire un phérocœur Nuchadus de son corps.</VFEI2_Titantick.description>
+<!-- EN: head horn -->
+<VFEI2_Titantick.tools.head_horn.label>corne de tête</VFEI2_Titantick.tools.head_horn.label>
+<!-- EN: head -->
+<VFEI2_Titantick.tools.head.label>tête</VFEI2_Titantick.tools.head.label>
+
+
+<!-- EN: venomite -->
+<VFEI2_Venomite.label>venomite</VFEI2_Venomite.label>
+<!-- EN: Not actually a mite, the venomite is a genetically-engineered giant insectoid the size of a lion. Designed to inflict maximum damage to organic enemies, venomite is capable of spitting globs of highly corrosive acid over long distances. Upon impact, it will cause severe burns, but won’t result in permanent damage. Relatively easy to defeat in close quarters due to shorter ripper blades than the Sorne variety. It is quite slow in open terrain. -->
+<VFEI2_Venomite.description>Le venomite n'est pas un acarien, mais un insectoïde géant génétiquement modifié de la taille d'un lion. Conçu pour infliger un maximum de dégâts aux ennemis organiques, le venomite est capable de cracher des boules d'acide hautement corrosif sur de longues distances. En cas d'impact, il provoque de graves brûlures, mais ne cause pas de dégâts permanents. Il est relativement facile à vaincre au corps à corps car ses lames sont plus courtes que celles de la variété Sorne. Il est assez lent en terrain découvert.</VFEI2_Venomite.description>
+<!-- EN: head claw -->
+<VFEI2_Venomite.tools.head_claw.label>corne frontale</VFEI2_Venomite.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_Venomite.tools.head.label>tête</VFEI2_Venomite.tools.head.label>
+
+
+<!-- EN: royal insect jelly -->
+<VFEI2_RoyalInsectJelly.label>gelée royale d'insecte</VFEI2_RoyalInsectJelly.label>
+<!-- EN: A golden, shining jelly used by the insect queens to create new spawn. It is smooth, rich, and brings joy to those who consume it. Because of its unique biological composition, it boosts immunity and nourishes anyone who has a taste of it. Addiction to royal jelly can compromise the immunity system of the addict. It is also known to increase the speed of gestating hive leaders in victims. -->
+<VFEI2_RoyalInsectJelly.description>Une gelée dorée et brillante utilisée par les reines d'insectes pour créer de nouveaux œufs. Elle est onctueuse, riche et apporte de la joie à ceux qui la consomment. Grâce à sa composition biologique unique, elle renforce l'immunité et nourrit tous ceux qui y goûtent. La dépendance à la gelée royale peut compromettre le système immunitaire du consommateur. Elle est également connue pour augmenter la vitesse de gestation des leaders de ruche chez les victimes.</VFEI2_RoyalInsectJelly.description>
+
+
+<!-- EN: tunnel -->
+<VFEI2_SmallBurrowSpawner.label>tunnel</VFEI2_SmallBurrowSpawner.label>
+<!-- EN: small insect burrow -->
+<VFEI2_SmallBurrow.label>petit terrier d'insectes</VFEI2_SmallBurrow.label>
+<!-- EN: A small insectoid-made hole connecting to some unseen cave network deep under the surface. The walls are covered in insectoid goop and are too slippery to climb down. Insectoid chittering can be heard from the tunnels beneath. They will emerge regularly in decreasing intervals until the burrow collapses or is destroyed. Burrows can only be damaged by explosions. -->
+<VFEI2_SmallBurrow.description>Un trou de petite taille creusé par des insectoïdes, qui se connecte à un réseau de grottes invisible, profondément enfoui sous la surface. Les parois sont recouvertes de gelée insectoïde et sont trop glissantes pour qu'on puisse y descendre. Les tunnels souterrains laissent échapper des claquements d'insectoïdes. Ils émergeront régulièrement à intervalles décroissants jusqu'à ce que le terrier s'effondre ou soit détruit. Les terriers ne peuvent être endommagés que par des explosions.</VFEI2_SmallBurrow.description>
+
+<!-- EN: tunnel -->
+<VFEI2_MediumBurrowSpawner.label>tunnel</VFEI2_MediumBurrowSpawner.label>
+<!-- EN: insect burrow -->
+<VFEI2_MediumBurrow.label>terrier d'insectes</VFEI2_MediumBurrow.label>
+<!-- EN: A medium-sized insectoid-made hole connecting to some unseen cave network deep under the surface. The walls are covered in insectoid goop and are too slippery to climb down. Insectoid chittering can be heard from the tunnels beneath. They will emerge regularly in decreasing intervals until the burrow collapses or is destroyed. Burrows can only be damaged by explosions. -->
+<VFEI2_MediumBurrow.description>Un trou de taille moyenne creusé par des insectoïdes, qui se connecte à un réseau de grottes invisible, profondément enfoui sous la surface. Les parois sont recouvertes de gelée insectoïde et sont trop glissantes pour qu'on puisse y descendre. Les tunnels souterrains laissent échapper des claquements d'insectoïdes. Ils émergeront régulièrement à intervalles décroissants jusqu'à ce que le terrier s'effondre ou soit détruit. Les terriers ne peuvent être endommagés que par des explosions.</VFEI2_MediumBurrow.description>
+
+<!-- EN: tunnel -->
+<VFEI2_LargeBurrowSpawner.label>tunnel</VFEI2_LargeBurrowSpawner.label>
+<!-- EN: large insect burrow -->
+<VFEI2_LargeBurrow.label>grand terrier d'insectes</VFEI2_LargeBurrow.label>
+<!-- EN: zzzzz -->
+<VFEI2_LargeBurrow.description>Un trou massif creusé par des insectoïdes et relié à un réseau de galeries invisible, profondément enfoui sous la surface. Les parois sont recouvertes de gelée insectoïde et sont trop glissantes pour qu'on puisse y descendre. Les tunnels souterrains laissent échapper des claquements d'insectoïdes. Ils émergeront régulièrement à intervalles réguliers jusqu'à ce que le terrier s'effondre ou soit détruit. Les terriers ne peuvent être endommagés que par des explosions.</VFEI2_LargeBurrow.description>
+
+
+<!-- EN: thornspitter -->
+<VFEI2_Thornspitter.label>cracheur d'épines</VFEI2_Thornspitter.label>
+<!-- EN: A tiny mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornspitter insectoid. This creature is capable of ejecting inaccurate chitin thorns at enemies close-by, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels. -->
+<VFEI2_Thornspitter.description>Un minuscule monticule servant d'entrée à un vaste ensemble de ruches souterraines, surmonté par l'émergence d'un insectoïde cracheur d'épines. Cette créature est capable d'éjecter des épines de chitine imprécises sur les ennemis proches, à condition d'être régulièrement nourrie de gelée d'insecte. S'il est privé de nourriture, le monticule se détériore progressivement. Une fois complètement détérioré, le ver d'épine se retire dans les tunnels de la ruche.</VFEI2_Thornspitter.description>
+<!-- EN: Insect jelly -->
+<VFEI2_Thornspitter.comps.CompRefuelable.fuelGizmoLabel>Gelée d'insecte</VFEI2_Thornspitter.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Insect jelly -->
+<VFEI2_Thornspitter.comps.CompRefuelable.fuelLabel>Gelée d'insecte</VFEI2_Thornspitter.comps.CompRefuelable.fuelLabel>
+
+
+<!-- EN: thornspitter -->
+<VFEI2_Thornspitter_Gun.label>cracheur d'épines</VFEI2_Thornspitter_Gun.label>
+<!-- EN: A tiny mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornspitter insectoid. This creature is capable of ejecting inaccurate chitin thorns at enemies close-by, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels. -->
+<VFEI2_Thornspitter_Gun.description>Un minuscule monticule servant d'entrée à un vaste ensemble de ruches souterraines, surmonté par l'émergence d'un insectoïde cracheur d'épines. Cette créature est capable d'éjecter des épines de chitine imprécises sur les ennemis proches, à condition d'être régulièrement nourrie de gelée d'insecte. S'il est privé de nourriture, le monticule se détériore progressivement. Une fois complètement détérioré, le ver d'épine se retire dans les tunnels de la ruche.</VFEI2_Thornspitter_Gun.description>
+<!-- EN: thornspitter -->
+<VFEI2_Thornspitter_Gun.verbs.Verb_Shoot.label>cracheur d'épines</VFEI2_Thornspitter_Gun.verbs.Verb_Shoot.label>
+
+<!-- EN: thornspitter projectile -->
+<VFEI2_Thornspitter_Projectile.label>épines</VFEI2_Thornspitter_Projectile.label>
+
+
+<!-- EN: hive door -->
+<VFEI2_HiveDoor.label>porte de ruche</VFEI2_HiveDoor.label>
+<!-- EN: A passable insect door made from insectoid goop. Capable of holding up a roof. -->
+<VFEI2_HiveDoor.description>Une porte d'insecte utilisable, fabriquée avec de la bouillie insectoïde. Capable de soutenir un toit.</VFEI2_HiveDoor.description>
+
+
+<!-- EN: jellyspreader -->
+<VFEI2_Jellyspreader.label>épandeur de gelée</VFEI2_Jellyspreader.label>
+<!-- EN: A hive-like formation of insectoid jelly that slowly pumps that jelly into the creep around it, nourishing it and creating a soft jelly terrain in a large radius. Jelly terrain created this way can support insectoid structures and in many ways behaves similar to creep, except it’s easier to clean and slows down non-insectoid movement even more. It needs to be fueled with insect jelly, otherwise it will stop transforming creep around itself. -->
+<VFEI2_Jellyspreader.description>Une formation de gelée insectoïde en forme de ruche qui pompe lentement la gelée dans le mucus qui l'entoure, le nourrissant et créant un sol en gelée mou dans un large rayon. Le sol en gelée ainsi créé peut accueillir des structures insectoïdes et se comporte de la même manière que le mucus, sauf qu'il est plus facile à nettoyer et qu'il ralentit encore plus les mouvements des non-insectoïdes. Il doit être approvisionné en gelée d'insecte, sinon il cessera de transformer le mucus autour de lui.</VFEI2_Jellyspreader.description>
+<!-- EN: Insect jelly -->
+<VFEI2_Jellyspreader.comps.CompRefuelable.fuelGizmoLabel>Gelée d'insecte</VFEI2_Jellyspreader.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Insect jelly -->
+<VFEI2_Jellyspreader.comps.CompRefuelable.fuelLabel>Gelée d'insecte</VFEI2_Jellyspreader.comps.CompRefuelable.fuelLabel>
+
+<!-- EN: jellyspreader royal -->
+<VFEI2_RoyalJellyspreader.label>épandeur de gelée royale</VFEI2_RoyalJellyspreader.label>
+<!-- EN: A hive-like formation of royal insectoid jelly that enriches nearby insectoid jellyfloors with the royal molecules. Royal jelly terrain created this way can support insectoid structures and in many ways behaves similar to creep, except it’s much easier to clean, cannot burn and slows down non-insectoid movement even more. It needs to be fueled with royal insect jelly, otherwise it will stop enriching jellyfloors around it. -->
+<VFEI2_RoyalJellyspreader.description>Une formation de gelée royale insectoïde en forme de ruche qui enrichit le sol de gelée royale insectoïde à proximité avec les molécules royales. Le sol en gelée royale ainsi créé peut supporter des structures insectoïdes et se comporte à bien des égards comme le mucus, à ceci près qu'il est beaucoup plus facile à nettoyer, qu'il ne peut pas brûler et qu'il ralentit encore plus les mouvements des non-insectoïdes. Il doit être alimenté en gelée royale d'insecte, sinon il cessera d'enrichir le sol de gelée qui l'entoure.</VFEI2_RoyalJellyspreader.description>
+<!-- EN: Royal insect jelly -->
+<VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelGizmoLabel>Gelée royale d'insecte</VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Royal insect jelly -->
+<VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelLabel>Gelée royale d'insecte</VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelLabel>
+
+
+<!-- EN: flying -->
+<VFEI2_PawnFlyer_Stun.label>en vol</VFEI2_PawnFlyer_Stun.label>
+
+
+<!-- EN: patriarch -->
+<VFEI2_Patriarch.label>patriarche</VFEI2_Patriarch.label>
+<!-- EN: The gargantuan patriarch of the Sorne geneline serves as the primary male responsible for the survival and protection of the royal caste. His immense digger claws, essential for both hive construction and defense, double as formidable shields capable of absorbing extraordinary amounts of damage. Mounted on his back are vast insect jelly sacks, which provide the resources necessary for rapidly constructing any hive defenses. In battle, his sets of extremely sharp ripper blades and razor-sharp mandibles can efficiently dispatch any threat to the hive. The Patriarch possesses the ability to summon royal caste insectoids from deep underground tunnels, enabling reinforcements to swiftly emerge onto the surface. Upon death, it’s possible to extract a Sorne pherocore from his body. -->
+<VFEI2_Patriarch.description>Le gargantuesque patriarche de la lignée de Sorne est le principal mâle responsable de la survie et de la protection de la caste royale. Ses immenses griffes de terrassier, essentielles à la construction et à la défense de la ruche, sont de formidables boucliers capables d'absorber des quantités extraordinaires de dégâts. Il porte sur son dos de vastes sacs de gelée d'insectes, qui lui fournissent les ressources nécessaires à la construction rapide des défenses de la ruche. Au combat, ses lames extrêmement tranchantes et ses mandibules aiguisées comme des rasoirs permettent d'éliminer efficacement toute menace pesant sur la ruche. Le patriarche a la capacité d'invoquer des insectoïdes de la caste royale depuis les profonds tunnels souterrains, ce qui permet aux renforts d'émerger rapidement à la surface. À sa mort, il est possible d'extraire un phérocœur sorne de son corps.</VFEI2_Patriarch.description>
+<!-- EN: head claw -->
+<VFEI2_Patriarch.tools.head_claw.label>corne frontale</VFEI2_Patriarch.tools.head_claw.label>
+<!-- EN: front claw -->
+<VFEI2_Patriarch.tools.front_claw.label>griffe avant</VFEI2_Patriarch.tools.front_claw.label>
+<!-- EN: head -->
+<VFEI2_Patriarch.tools.head.label>tête</VFEI2_Patriarch.tools.head.label>
+
+<!-- EN: royal megascarab -->
+<VFEI2_RoyalMegascarab.label>mégascarabée royal</VFEI2_RoyalMegascarab.label>
+<!-- EN: A medium-sized naturally-evolved insectoid the size of a sheep. Being part of the royal hive, these larger megascarabs act as a worker caste of the primary hives, and are always seen serving around the hive leaders. Its size and hard shell make it dangerous when it attacks. Unlike their bioengineered cousins, these insectoids have been created by the hive leaders to protect the most important hives, and their genetic composition and evolution path are a mystery to scientists. -->
+<VFEI2_RoyalMegascarab.description>Insectoïde de taille moyenne, naturellement évolué, de la taille d'un mouton. Faisant partie de la ruche royale, ces grands mégascarabées agissent comme une caste d'ouvriers dans les ruches primaires, et on les voit toujours servir autour des chefs de ruche. Sa taille et sa carapace dure le rendent dangereux lorsqu'il attaque. Contrairement à leurs cousins issus de la bio-ingénierie, ces insectoïdes ont été créés par les chefs de ruche pour protéger les ruches les plus importantes, et leur composition génétique ainsi que leur évolution restent un mystère pour les scientifiques.</VFEI2_RoyalMegascarab.description>
+<!-- EN: mandibles -->
+<VFEI2_RoyalMegascarab.tools.mandibles.label>mandibules</VFEI2_RoyalMegascarab.tools.mandibles.label>
+<!-- EN: head -->
+<VFEI2_RoyalMegascarab.tools.head.label>tête</VFEI2_RoyalMegascarab.tools.head.label>
+
+<!-- EN: royal megaspider -->
+<VFEI2_RoyalMegaspider.label>mégaraignée royale</VFEI2_RoyalMegaspider.label>
+<!-- EN: Not actually a spider, the royal megaspider is a naturally-evolved insectoid the size of an elephant. Its thick chitin armor and a pair of strong ripper-blades makes it a perfect designated primary hive defender and hunter. Unlike their bioengineered cousins, these insectoids have been created by the hive leaders to protect the most important hives, and their genetic composition and evolution path are a mystery to scientists. -->
+<VFEI2_RoyalMegaspider.description>La mégaraignée royale n'est pas une araignée à proprement parler, mais un insectoïde naturellement évolué de la taille d'un éléphant. Son épaisse armure de chitine et sa paire de lames puissantes en font un parfait défenseur et chasseur de la ruche. Contrairement à leurs cousins issus de la bio-ingénierie, ces insectoïdes ont été créés par les chefs de ruche pour protéger les ruches les plus importantes. Leur composition génétique et leur évolution restent un mystère pour les scientifiques.</VFEI2_RoyalMegaspider.description>
+<!-- EN: head claw -->
+<VFEI2_RoyalMegaspider.tools.head_claw.label>corne frontale</VFEI2_RoyalMegaspider.tools.head_claw.label>
+<!-- EN: mandibles -->
+<VFEI2_RoyalMegaspider.tools.mandibles.label>mandibules</VFEI2_RoyalMegaspider.tools.mandibles.label>
+<!-- EN: head -->
+<VFEI2_RoyalMegaspider.tools.head.label>tête</VFEI2_RoyalMegaspider.tools.head.label>
+
+<!-- EN: royal spelopede -->
+<VFEI2_RoyalSpelopede.label>spélopède royal</VFEI2_RoyalSpelopede.label>
+<!-- EN: A naturally-evolved insectoid the size of a bear. Royal spelopedes are the middle caste of the primary hives and act as defenders and workers of the insectoid hive leaders. Their thick chitinous armor makes them very hard to kill, while the strong digging claws allow them to take care of most of the tasks at hand. Unlike their bioengineered cousins, these insectoids have been created by the hive leaders to protect the most important hives, and their genetic composition and evolution path are a mystery to scientists. -->
+<VFEI2_RoyalSpelopede.description>Un insectoïde naturellement évolué de la taille d'un ours. Les spélopèdes royaux constituent la caste intermédiaire des ruches primaires et servent de défenseurs et d'ouvriers aux chefs de ruche insectoïdes. Leur épaisse armure de chitine les rend très difficiles à tuer, tandis que leurs puissantes griffes creuses leur permettent de s'acquitter de la plupart des tâches qui leur incombent. Contrairement à leurs cousins issus de la bio-ingénierie, ces insectoïdes ont été créés par les chefs de ruche pour protéger les ruches les plus importantes. Leur composition génétique et leur évolution restent un mystère pour les scientifiques.</VFEI2_RoyalSpelopede.description>
+<!-- EN: head claw -->
+<VFEI2_RoyalSpelopede.tools.head_claw.label>corne frontale</VFEI2_RoyalSpelopede.tools.head_claw.label>
+<!-- EN: head -->
+<VFEI2_RoyalSpelopede.tools.head.label>tête</VFEI2_RoyalSpelopede.tools.head.label>
+
+
+<!-- EN: burrow wall -->
+<VFEI_BurrowWall.label>mur de terrier</VFEI_BurrowWall.label>
+<!-- EN: A compact mix of dirt, rock, and insect secretion. -->
+<VFEI_BurrowWall.description>Un mélange compact de terre, de roches et de sécrétions d'insectes.</VFEI_BurrowWall.description>
+
+
+</LanguageData>

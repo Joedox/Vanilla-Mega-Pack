@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_HemogenPipe.label>tuyau d'hémogène</VRE_HemogenPipe.label>
+<VRE_HemogenPipe.description>Tuyau utilisé pour transporter l'hémogène entre les robinets, les vidanges, les cuves et les structures alimentées en hémogène.</VRE_HemogenPipe.description>
+
+<VRE_UndergroundHemogenPipe.label>tuyau d'hémogène souterrain</VRE_UndergroundHemogenPipe.label>
+<VRE_UndergroundHemogenPipe.description>Tuyaux d'acier souterrains conçus pour transporter l'hémogène entre les robinets, les vidanges, les cuves et les structures alimentées en l'hémogène.</VRE_UndergroundHemogenPipe.description>
+
+<VRE_HemogenValve.label>valve d'hémogène</VRE_HemogenValve.label>
+<VRE_HemogenValve.description>Permet d'activer ou de désactiver le flux d'hémogène.</VRE_HemogenValve.description>
+
+<VRE_HemogenVat.label>cuve d'hémogène</VRE_HemogenVat.label>
+<VRE_HemogenVat.description>Une cuve de stockage de liquide industriel destinée à stocker l'hémogène fourni par le réseau de tuyaux d'hémogène. Les cuves peuvent être désignées pour être siphonnées afin d'obtenir de l'hémogène utilisable en cas de besoin.</VRE_HemogenVat.description>
+
+<VRE_HemogenTap.label>robinet d'hémogène</VRE_HemogenTap.label>
+<VRE_HemogenTap.description>Un bassin de stockage en forme de trémie destiné à distribuer de l'hémogène pour une utilisation ultérieure.</VRE_HemogenTap.description>
+
+<VRE_HemogenDrain.label>vidange d'hémogène</VRE_HemogenDrain.label>
+<VRE_HemogenDrain.description>Un bassin de stockage en forme de trémie destiné à introduire de l'hémogène dans le réseau, remplissant les cuves connectées.</VRE_HemogenDrain.description>
+
+<VRE_Draincasket.label>cercueil de drainage</VRE_Draincasket.label>
+<VRE_Draincasket.description>Un sinistre appareil conçu pour extraire l'hémogène d'un individu tout en maintenant sa force vitale au strict minimum. Ce cercueil sombre et inquiétant abrite son occupant dans un état crépusculaire, son corps étant lentement vidé de son précieux hémogène. Lié à son cercueil de drainage, l'occupant ne peut survivre que s'il est nourri régulièrement, car il peut toujours mourir de faim.\n\nIl produit un pack d'hémogène par jour tant que l'occupant a de la nourriture et que le cercueil est relié à un réseau d'hémogène. S'il est privé de nourriture, le cercueil tuera son occupant au bout de 2 jours environ.\n\nSi vous disposez de Vanilla Nutrient Paste Expanded, il puisera des nutriments dans ce réseau, tant qu'il y a plus d'une unité de repas disponible.</VRE_Draincasket.description>
+
+<VRE_InvocationMatrix.label>matrice d'invocation</VRE_InvocationMatrix.label>
+<VRE_InvocationMatrix.description>Un dispositif sophistiqué qui insuffle aux personnes en repos de torpeur des capacités rares et puissantes de sanguophage, puisant dans l'essence même de leur nature vampirique. Grâce à un système complexe de conduits de sang et de résonateurs d'essence, la matrice se connecte à un cercueil médicalisé et canalise la force vitale de son occupant pour libérer le potentiel caché de sa lignée. Alors que la personne sommeille dans son état de torpeur, la matrice d'invocation lui confère un pouvoir unique et spécifique. Ce bâtiment nécessite un apport constant d'hémogène pour fonctionner.</VRE_InvocationMatrix.description>
+<VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Hémogène</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
+
+<VRE_HemodynamicAccelerator.label>accélérateur hémodynamique</VRE_HemodynamicAccelerator.label>
+<VRE_HemodynamicAccelerator.description>Un appareil de pointe conçu pour accélérer le processus du repos de torpeur au prix d'une consommation de sang. En se connectant à une personne en train de mourir, cet appareil utilise des analyses sanguines complexes et de puissants stimulants sanguins pour maximiser l'efficacité du cercueil médicalisé. Alors qu'il accélère la guérison du personnage, l'Accélérateur Hémodynamique nécessite un apport continu d'hémogène pour alimenter son puissant fonctionnement. Pour fonctionner, il doit être connecté à un cercueil médicalisé, ce qui garantit la régénération rapide de son occupant.</VRE_HemodynamicAccelerator.description>
+<VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Hémogène</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
+
+<VRE_HemogenSolidifier.label>durcisseur d'hémogène</VRE_HemogenSolidifier.label>
+<VRE_HemogenSolidifier.description>Un dispositif spécialement conçu pour améliorer la durabilité des personnes en repos de torpeur en manipulant la structure moléculaire de leur peau. Utilisant un ensemble de projecteurs biorésonants et de nano-agents à base de sang, le durcisseur cible l'hémogène dans le corps du personnage, fortifiant et épaississant les molécules de la peau. Pendant que l'individu en état de torpeur dort, le durcisseur d'hémogène tisse une couche protectrice dense autour de lui, rendant sa peau plus résistante aux dégâts et à l'usure. Le dispositif doit être connecté à un cercueil médicalisé pour fonctionner, garantissant que son occupant émerge de son repos avec une capacité défensive accrue.</VRE_HemogenSolidifier.description>
+<VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hémogène</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
+
+<VRE_SmallHemogenAmplifier.label>petit amplificateur d'hémogène</VRE_SmallHemogenAmplifier.label>
+<VRE_SmallHemogenAmplifier.description>Cet appareil laisse un dormeur de torpeur dans un état hémogénique amplifié afin qu'il obtienne un peu plus d'hémogène depuis n'importe quelle source d'hémogène. À l'aide d'une sonde glandulaire et d'un analyseur de sang, il se connecte à un dormeur de torpeur en sommeil, stimulant les glandes hémogènes pour les rendre plus actives. Il doit être connecté à un cercueil médicalisé pour fonctionner.\n\nCette structure a besoin de consommer de l'hémogène pour fonctionner.</VRE_SmallHemogenAmplifier.description>
+<VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hémogène</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
+
+<VRE_SmallHemopump.label>petite hémopompe</VRE_SmallHemopump.label>
+<VRE_SmallHemopump.description>Cette petite pompe d'affinage du sang augmente la quantité d'hémogène qu'une personne en repos de torpeur peut stocker dans son corps. Elle doit être connectée à un cercueil médicalisé pour fonctionner.\n\nCette structure a besoin de consommer de l'hémogène pour fonctionner.</VRE_SmallHemopump.description>
+<VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hémogène</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+
+<VRE_HemogenPack_Animal.label>pack d'hémogène (animal)</VRE_HemogenPack_Animal.label>
+<VRE_HemogenPack_Animal.description>Hémogène d'origine animale. Augmente les capacités de régénération et de combat de l'utilisateur, mais diminue fortement sa capacité à communiquer avec les autres.</VRE_HemogenPack_Animal.description>
+<!-- Utilise un Patche pour la traduction
+<VRE_HemogenPack_Corpse.label>pack d'hémogène (cadavre)</VRE_HemogenPack_Corpse.label>
+<VRE_HemogenPack_Corpse.description>Hémogène vicié et pourri provenant d'un cadavre. Affaiblit considérablement le porteur de ce type d'hémogène, mais augmente considérablement la filtration du sang.</VRE_HemogenPack_Corpse.description>
+-->
+<VRE_HemogenPack_Sanguophage.label>pack d'hémogène (sanguophage)</VRE_HemogenPack_Sanguophage.label>
+<VRE_HemogenPack_Sanguophage.description>Hémogène pur et épais d'un autre hémogénique. Le plus rare de tous les hémogènes, il donne au porteur une puissante amélioration de toutes ses capacités.</VRE_HemogenPack_Sanguophage.description>
+
+<VRE_FilthGoo.label>gelée visqueuse</VRE_FilthGoo.label>
+<VRE_Proj_Goo.label>gelée</VRE_Proj_Goo.label>
+
+
+</LanguageData>

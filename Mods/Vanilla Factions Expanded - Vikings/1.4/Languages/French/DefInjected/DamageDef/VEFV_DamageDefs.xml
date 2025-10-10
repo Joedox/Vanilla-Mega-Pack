@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Damages_MeleeWeapon +++++ -->
+<VFEV_Cut.label>couper</VFEV_Cut.label>
+<VFEV_Cut.deathMessage>{0} a été tailladé à mort.</VFEV_Cut.deathMessage>
+
+		<!-- +++++ Damages_RangedWeapon +++++ -->
+<VFEV_CryptoDamageBullet.label>balle cryo</VFEV_CryptoDamageBullet.label>
+<VFEV_CryptoDamageBullet.deathMessage>{0} a été tué par balle cryo.</VFEV_CryptoDamageBullet.deathMessage>
+
+<VFEV_CryptoDamageBolt.label>carreau cryo</VFEV_CryptoDamageBolt.label>
+<VFEV_CryptoDamageBolt.deathMessage>{0} a été tué par un carreau d'arbalète cryo.</VFEV_CryptoDamageBolt.deathMessage>
+
+		<!-- +++++ Damages_Sting +++++ -->
+<VFEV_DamageSting.label>piqûre</VFEV_DamageSting.label>
+<VFEV_DamageSting.deathMessage>{0} a été piqué à mort.</VFEV_DamageSting.deathMessage>
+
+
+</LanguageData>

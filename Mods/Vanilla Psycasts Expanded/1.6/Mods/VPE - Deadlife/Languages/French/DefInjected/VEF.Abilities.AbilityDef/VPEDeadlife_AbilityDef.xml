@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Grave Digger -->
+<VPE_CorpseAOESTNL.label>fossoyeur</VPE_CorpseAOESTNL.label>
+<!-- EN: Skip 9 corpses from local graves to your location. -->
+<VPE_CorpseAOESTNL.description>Téléporte 9 cadavres des tombes locales vers votre emplacement.</VPE_CorpseAOESTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CorpseAOESTNL.jobReportString>Utilise la capacité : {0}</VPE_CorpseAOESTNL.jobReportString>
+<!-- EN: Grave Digger -->
+<VPE_CorpseAOESTNL.verbProperties.label>fossoyeur</VPE_CorpseAOESTNL.verbProperties.label>
+
+<!-- EN: Deadlife Harvest -->
+<VPE_CorpseEmergenceSTNL.label>récolte de résurrection</VPE_CorpseEmergenceSTNL.label>
+<!-- EN: Transform the targeted corpse into deadlife dust used to obtain health regeneration and slightly enhanced pain tolerance. -->
+<VPE_CorpseEmergenceSTNL.description>Transforme le cadavre ciblé en résurrection permettant d'obtenir une régénération de santé et une tolérance à la douleur légèrement améliorée.</VPE_CorpseEmergenceSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CorpseEmergenceSTNL.jobReportString>Utilise la capacité : {0}</VPE_CorpseEmergenceSTNL.jobReportString>
+<!-- EN: Deadlife Harvest -->
+<VPE_CorpseEmergenceSTNL.verbProperties.label>récolte de résurrection</VPE_CorpseEmergenceSTNL.verbProperties.label>
+
+<!-- EN: Crimson Deadlife Storm -->
+<VPE_CrimsonStormSTNL.label>tempête cramoisie de résurrection</VPE_CrimsonStormSTNL.label>
+<!-- EN: Hack a distant engine of archotech origins to corrupt it, causing the area to become filled with deadlife dust and storms for a day and a half. The shamblers raised by this phenomenon will fight for your side. -->
+<VPE_CrimsonStormSTNL.description>Pirate un moteur lointain d'origine archotech pour le corrompre, ce qui a pour effet de remplir la zone de poussière de résurrection et de tempêtes pendant une demi-journée. Les zombies engendrés par ce phénomène se battront à vos côtés.</VPE_CrimsonStormSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CrimsonStormSTNL.jobReportString>Utilise la capacité : {0}</VPE_CrimsonStormSTNL.jobReportString>
+<!-- EN: Crimson Deadlife Storm -->
+<VPE_CrimsonStormSTNL.verbProperties.label>tempête cramoisie de résurrection</VPE_CrimsonStormSTNL.verbProperties.label>
+
+<!-- EN: Deadlife Cloud -->
+<VPE_DeadlifecloudSTNL.label>nuage de résurrection</VPE_DeadlifecloudSTNL.label>
+<!-- EN: Manifest a leaking deadlife shell to resurrect shamblers at range. -->
+<VPE_DeadlifecloudSTNL.description>Manifeste un obus de résurrection qui répand de la poussière de résurrection pour ressusciter des cadavres à distance.</VPE_DeadlifecloudSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DeadlifecloudSTNL.jobReportString>Utilise la capacité : {0}</VPE_DeadlifecloudSTNL.jobReportString>
+<!-- EN: Deadlife Cloud -->
+<VPE_DeadlifecloudSTNL.verbProperties.label>nuage de résurrection</VPE_DeadlifecloudSTNL.verbProperties.label>
+
+<!-- EN: Deadlife Sacks -->
+<VPE_DeadlifesacksSTNL.label>poches de résurrection</VPE_DeadlifesacksSTNL.label>
+<!-- EN: Alter yourself or your target to obtain the ability to spew out deadlife dust. -->
+<VPE_DeadlifesacksSTNL.description>Modifie votre apparence ou celle de votre cible pour obtenir la capacité de libérer de la poussière de résurrection.</VPE_DeadlifesacksSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DeadlifesacksSTNL.jobReportString>Utilise la capacité : {0}</VPE_DeadlifesacksSTNL.jobReportString>
+<!-- EN: Deadlife Sacks -->
+<VPE_DeadlifesacksSTNL.verbProperties.label>poches de résurrection</VPE_DeadlifesacksSTNL.verbProperties.label>
+
+<!-- EN: Extended Deadlife Resurrection -->
+<VPE_ExtendedRessurectionSTNL.label>résurrection prolongée</VPE_ExtendedRessurectionSTNL.label>
+<!-- EN: Summon an enhanced deadlife dust clump inside of corpses to raise them as shamblers for far longer than a normal deadlife dust exposure would. (15D) -->
+<VPE_ExtendedRessurectionSTNL.description>Invoque un amas de poussière de résurrection amélioré à l'intérieur des cadavres pour les élever au rang de zombies bien plus longtemps que ne le ferait une exposition normale à la poussière de résurrection. (15 jours)</VPE_ExtendedRessurectionSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ExtendedRessurectionSTNL.jobReportString>Utilise la capacité : {0}</VPE_ExtendedRessurectionSTNL.jobReportString>
+<!-- EN: Extended Deadlife Resurrection -->
+<VPE_ExtendedRessurectionSTNL.verbProperties.label>résurrection prolongée</VPE_ExtendedRessurectionSTNL.verbProperties.label>
+
+<!-- EN: Mass Deadlife Resurrection -->
+<VPE_ResurrectAOESTNL.label>résurrection de masse</VPE_ResurrectAOESTNL.label>
+<!-- EN: Summon an enhanced deadlife dust mass above the targets causing them to resurrect in a normal state as it falls on them. The process requires extreme psychic efforts and will prevent this pawn from using psychic abilities for 11 days. -->
+<VPE_ResurrectAOESTNL.description>Invoque une masse de poussière de résurrection améliorée au-dessus des cibles, les faisant ressusciter dans un état normal lorsqu'elle leur tombe dessus. Le processus nécessite des efforts psychiques extrêmes et empêchera le pyslanceur d'utiliser des capacités psychiques pendant 11 jours.</VPE_ResurrectAOESTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ResurrectAOESTNL.jobReportString>Utilise la capacité : {0}</VPE_ResurrectAOESTNL.jobReportString>
+<!-- EN: Mass Deadlife Resurrection -->
+<VPE_ResurrectAOESTNL.verbProperties.label>résurrection de masse</VPE_ResurrectAOESTNL.verbProperties.label>
+
+<!-- EN: Pure Deadlife Resurrection -->
+<VPE_ResurrectSTNL.label>résurrection pure</VPE_ResurrectSTNL.label>
+<!-- EN: Summon an enhanced deadlife dust mass above the target causing them to resurrect in a normal state as it falls on them. The process requires extreme psychic efforts and will prevent this pawn from using psychic abilities for a day and 6 hours. -->
+<VPE_ResurrectSTNL.description>Invoque une masse de poussière de résurrection améliorée au-dessus de la cible, qui ressuscite dans un état normal lorsqu'elle lui tombe dessus. Le processus nécessite des efforts psychiques extrêmes et empêchera le pyslanceur d'utiliser des capacités psychiques pendant 1 jour et 6 heures.</VPE_ResurrectSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ResurrectSTNL.jobReportString>Utilise la capacité : {0}</VPE_ResurrectSTNL.jobReportString>
+<!-- EN: Pure Deadlife Resurrection -->
+<VPE_ResurrectSTNL.verbProperties.label>résurrection pure</VPE_ResurrectSTNL.verbProperties.label>
+
+<!-- EN: Shambler Extinction -->
+<VPE_ShamblerWipeSTNL.label>extinction de zombies</VPE_ShamblerWipeSTNL.label>
+<!-- EN: Kill all of your shamblers. -->
+<VPE_ShamblerWipeSTNL.description>Tue tous vos zombies.</VPE_ShamblerWipeSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShamblerWipeSTNL.jobReportString>Utilise la capacité : {0}</VPE_ShamblerWipeSTNL.jobReportString>
+<!-- EN: Shambler Extinction -->
+<VPE_ShamblerWipeSTNL.verbProperties.label>extinction de zombies</VPE_ShamblerWipeSTNL.verbProperties.label>
+
+<!-- EN: Mass Shamblerification -->
+<VPE_zombifyAOESTNL.label>zombification de masse</VPE_zombifyAOESTNL.label>
+<!-- EN: Transform the targets into shamblers that will fight for you. -->
+<VPE_zombifyAOESTNL.description>Transforme les cibles en zombies qui se battront pour vous.</VPE_zombifyAOESTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_zombifyAOESTNL.jobReportString>Utilise la capacité : {0}</VPE_zombifyAOESTNL.jobReportString>
+<!-- EN: Mass Shamblerification -->
+<VPE_zombifyAOESTNL.verbProperties.label>zombification de masse</VPE_zombifyAOESTNL.verbProperties.label>
+
+<!-- EN: Shamblerification -->
+<VPE_zombifySTNL.label>zombification</VPE_zombifySTNL.label>
+<!-- EN: Transform the target into a shambler that will fight for you. -->
+<VPE_zombifySTNL.description>Transforme la cible en un zombie qui se battra pour vous.</VPE_zombifySTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_zombifySTNL.jobReportString>Utilise la capacité : {0}</VPE_zombifySTNL.jobReportString>
+<!-- EN: Shamblerification -->
+<VPE_zombifySTNL.verbProperties.label>zombification</VPE_zombifySTNL.verbProperties.label>
+
+
+</LanguageData>

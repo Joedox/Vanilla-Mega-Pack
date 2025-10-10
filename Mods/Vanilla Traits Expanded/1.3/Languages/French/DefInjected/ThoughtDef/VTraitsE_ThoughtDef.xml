@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VTE_BondedAnimalDiedHater.stages.bonded_animal_died.label>animal lié {0} est mort</VTE_BondedAnimalDiedHater.stages.bonded_animal_died.label>
+<VTE_BondedAnimalDiedHater.stages.bonded_animal_died.description>Un animal si répugnant et ennuyeux. Je suis content qu'il soit mort !</VTE_BondedAnimalDiedHater.stages.bonded_animal_died.description>
+
+<VTE_BondedAnimalLostHater.stages.bonded_animal_lost.label>animal lié {0} perdu</VTE_BondedAnimalLostHater.stages.bonded_animal_lost.label>
+<VTE_BondedAnimalLostHater.stages.bonded_animal_lost.description>Un animal si répugnant et ennuyeux. Je suis content qu'il soit parti !</VTE_BondedAnimalLostHater.stages.bonded_animal_lost.description>
+
+<VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.label>animal lié {0} banni</VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.label>
+<VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.description>Mon animal de compagnie a été banni, enfin.</VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.description>
+
+<VTE_NuzzledHater.stages.nuzzled.label>câlin</VTE_NuzzledHater.stages.nuzzled.label>
+<VTE_NuzzledHater.stages.nuzzled.description>Un animal répugnant m'a fait un câlin.</VTE_NuzzledHater.stages.nuzzled.description>
+
+<VTE_KilledMyBondedAnimalHater.stages.killed_my_bonded_animal.label>tué mon animal lié</VTE_KilledMyBondedAnimalHater.stages.killed_my_bonded_animal.label>
+
+<VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.label>animal lié donné</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.label>
+<VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.description>Mon vilain animal lié a été donné, il était temps !</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.description>
+<VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.labelSocial>a donné mon animal lié</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.labelSocial>
+
+<VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.label>animal lié donné</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.label>
+<VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.description>Mon vilain animal lié a été donné, il était temps !</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.description>
+<VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.labelSocial>a donné mon animal lié</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.labelSocial>
+
+<VTE_KilledColonyAnimalHater.stages.killed_colony_animal.label>animal de la colonie tué</VTE_KilledColonyAnimalHater.stages.killed_colony_animal.label>
+
+<VTE_BondedAnimalMasterHater.stages.s_master.label>maître de {0}</VTE_BondedAnimalMasterHater.stages.s_master.label>
+<VTE_BondedAnimalMasterHater.stages.s_master.description>Être à proximité de cette vilaine chose me fait détester la vie elle-même.</VTE_BondedAnimalMasterHater.stages.s_master.description>
+<VTE_BondedAnimalMasterHater.stages.master_of.label>maître de {0}</VTE_BondedAnimalMasterHater.stages.master_of.label>
+<VTE_BondedAnimalMasterHater.stages.master_of.description>Être à proximité de cette vilaine chose me fait détester la vie elle-même.</VTE_BondedAnimalMasterHater.stages.master_of.description>
+
+<VTE_NotBondedAnimalMasterHater.stages.not_s_master.label>n'est pas le maître de {0}</VTE_NotBondedAnimalMasterHater.stages.not_s_master.label>
+<VTE_NotBondedAnimalMasterHater.stages.not_s_master.description>Cette chose m'aime peut-être, mais je ne l'aime pas en retour - je suis content que quelqu'un d'autre l'ait pris.</VTE_NotBondedAnimalMasterHater.stages.not_s_master.description>
+<VTE_NotBondedAnimalMasterHater.stages.not_master_of.label>pas le maître de {0}</VTE_NotBondedAnimalMasterHater.stages.not_master_of.label>
+<VTE_NotBondedAnimalMasterHater.stages.not_master_of.description>Cette chose m'aime peut-être, mais je ne l'aime pas en retour - je suis content que quelqu'un d'autre l'ait pris.</VTE_NotBondedAnimalMasterHater.stages.not_master_of.description>
+
+<VTE_CreatedLowQualityItem.stages.Created_low_quality_item.label>Création d'un article de mauvaise qualité</VTE_CreatedLowQualityItem.stages.Created_low_quality_item.label>
+<VTE_CreatedLowQualityItem.stages.Created_low_quality_item.description>J'ai fabriqué de la camelote. J'ai l'impression de ne rien pouvoir faire de bien.</VTE_CreatedLowQualityItem.stages.Created_low_quality_item.description>
+
+<VTE_CouldNotFinishItem.stages.ould_not_finish_item.label>objet non fini</VTE_CouldNotFinishItem.stages.ould_not_finish_item.label>
+<VTE_CouldNotFinishItem.stages.ould_not_finish_item.description>Je ne réussis pas à finir mon travail, les choses n’avancent pas comme je le souhaite.</VTE_CouldNotFinishItem.stages.ould_not_finish_item.description>
+
+<VTE_PassionateCleaningWork.stages.Passionately_cleaning.label>Passionné de nettoyage</VTE_PassionateCleaningWork.stages.Passionately_cleaning.label>
+<VTE_PassionateCleaningWork.stages.Passionately_cleaning.description>En réalité, j'aime vraiment bien ranger et nettoyer cet endroit.</VTE_PassionateCleaningWork.stages.Passionately_cleaning.description>
+
+<VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.label>Mes rivaux sont vivants</VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.label>
+<VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.description>Je les déteste. Pourquoi méritent-ils de vivre ?</VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.description>
+
+<VTE_MechanoidIsKilled.stages.Mechanoid_died.label>mécanoïde mort</VTE_MechanoidIsKilled.stages.Mechanoid_died.label>
+<VTE_MechanoidIsKilled.stages.Mechanoid_died.description>Ces machines diaboliques ne méritent pas de fonctionner.</VTE_MechanoidIsKilled.stages.Mechanoid_died.description>
+
+<VTE_ObservedManyBlood.stages.observed_much_blood.label>a vu beaucoup de sang</VTE_ObservedManyBlood.stages.observed_much_blood.label>
+<VTE_ObservedManyBlood.stages.observed_much_blood.description>J'ai vu tellement de sang et de morceaux. Le simple fait de m'en souvenir me donne la nausée.</VTE_ObservedManyBlood.stages.observed_much_blood.description>
+
+<VTE_WatchedTelevisor.stages.Watched_television_recently.label>a regardé la télévision récemment</VTE_WatchedTelevisor.stages.Watched_television_recently.label>
+<VTE_WatchedTelevisor.stages.Watched_television_recently.description>J'ai pu me détendre et rattraper mes émissions.</VTE_WatchedTelevisor.stages.Watched_television_recently.description>
+
+<VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.label>Aucun laboratoire dédié</VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.label>
+<VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.description>Je n'ai aucun endroit où étudier en paix, comme c'est agaçant.</VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.description>
+
+<VTE_AnimalsInColony.stages.No_animals_in_the_colony.label>Aucun animal dans la colonie</VTE_AnimalsInColony.stages.No_animals_in_the_colony.label>
+<VTE_AnimalsInColony.stages.No_animals_in_the_colony.description>Nous n'avons pas un seul animal.</VTE_AnimalsInColony.stages.No_animals_in_the_colony.description>
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.label>Presque aucun animal dans la colonie</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.label>
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.description>Nous n'avons presque pas d'animaux dans la colonie, ça craint.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.description>
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.label>Presque aucun animal dans la colonie</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.label>
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.description>Nous n'avons presque pas d'animaux dans la colonie, c'est plutôt bien, je suppose.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.description>
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.label>Presque aucun animal dans la colonie</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.label>
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.description>Nous n'avons presque pas d'animaux dans la colonie, c'est plutôt bien, je suppose.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.description>
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.label>Quelques animaux dans la colonie</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.label>
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.description>Nous avons quelques animaux dans la colonie, c'est bien.</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.description>
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.label>Quelques animaux dans la colonie</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.label>
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.description>Nous avons quelques animaux dans la colonie, c'est bien.</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.description>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.label>Plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.label>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.description>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.label>Plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.label>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.description>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.label>Plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.label>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.description>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.label>Plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.label>
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.description>
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.label>Beaucoup d'animaux dans la colonie</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.label>
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.description>Nous avons beaucoup d'animaux dans la colonie maintenant, ils sont merveilleux.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.description>
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.label>Beaucoup d'animaux dans la colonie</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.label>
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.description>Nous avons beaucoup d'animaux dans la colonie maintenant, ils sont merveilleux.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.description>
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.label>Beaucoup d'animaux dans la colonie</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.label>
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.description>Nous avons beaucoup d'animaux dans la colonie maintenant, ils sont merveilleux.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.description>
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.label>Une tonne d'animaux dans la colonie</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.label>
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.description>Nous avons tellement d'animaux maintenant ! Ça me rend si heureux de tous les voir !</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.description>
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.label>Une tonne d'animaux dans la colonie</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.label>
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.description>Nous avons tellement d'animaux maintenant ! Ça me rend si heureux de tous les voir !</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.description>
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.label>Une tonne d'animaux dans la colonie</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.label>
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.description>Nous avons tellement d'animaux maintenant ! Ça me rend si heureux de tous les voir !</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.description>
+
+<VTE_ChildOfSea.stages.Ocean_lover.label>Amoureux de l'océan</VTE_ChildOfSea.stages.Ocean_lover.label>
+<VTE_ChildOfSea.stages.Ocean_lover.description>J'aime être près de l'océan et des rivières, l'eau est magnifique.</VTE_ChildOfSea.stages.Ocean_lover.description>
+
+<VTE_ChildOfMountain.stages.Mountain_lover.label>Amoureux de la montagne</VTE_ChildOfMountain.stages.Mountain_lover.label>
+<VTE_ChildOfMountain.stages.Mountain_lover.description>J'adore être près de la montagne, elle me coupe le souffle.</VTE_ChildOfMountain.stages.Mountain_lover.description>
+
+<VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.label>Pas d’organe prélevé</VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.label>
+<VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.description>Je suis de plus en plus impatient et lassé, j'ai besoin de plus de sujets.</VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.description>
+
+<VTE_HarvestedOrgans.stages.Harvested_organs.label>Organes prélevés</VTE_HarvestedOrgans.stages.Harvested_organs.label>
+<VTE_HarvestedOrgans.stages.Harvested_organs.description>L'opération s'est déroulée comme prévu, ma collection s'est agrandie.</VTE_HarvestedOrgans.stages.Harvested_organs.description>
+
+<VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.label>N'a pas quitté la colonie</VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.label>
+<VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.description>Je n'ai pas quitté la région depuis longtemps, j'aimerais vraiment voyager pour commercer.</VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.description>
+
+<VTE_SoakingWetChildOfTheSea.stages.soaking_wet.label>trempé</VTE_SoakingWetChildOfTheSea.stages.soaking_wet.label>
+<VTE_SoakingWetChildOfTheSea.stages.soaking_wet.description>Je suis trempé. J'adore ça.</VTE_SoakingWetChildOfTheSea.stages.soaking_wet.description>
+
+<VTE_EnvironmentDark.stages.darkness.label>obscurité</VTE_EnvironmentDark.stages.darkness.label>
+<VTE_EnvironmentDark.stages.darkness.description>Je suis dans le noir depuis un moment. J'aime ça.</VTE_EnvironmentDark.stages.darkness.description>
+
+<VTE_Dunce.stages.Dunce.label>Cancre</VTE_Dunce.stages.Dunce.label>
+<VTE_Dunce.stages.Dunce.description>Je ne comprends pas vraiment pourquoi tout le monde est si énervé tout le temps.</VTE_Dunce.stages.Dunce.description>
+
+
+</LanguageData>

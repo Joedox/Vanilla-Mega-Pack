@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- En: large pollution pump -->
+<PollutionPumpLargeSTNL.label>grande pompe à pollution</PollutionPumpLargeSTNL.label>
+<!-- EN: A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. -->
+<PollutionPumpLargeSTNL.description>Une pompe de filtration des eaux souterraines qui nettoie lentement les terrains pollués. La pollution extraite est transformée en déchets toxiques qui doivent être évacués.</PollutionPumpLargeSTNL.description>
+
+<!-- En: temporary pollution pump -->
+<PollutionPumpSmolSTNL.label>pompe à pollution temporaire</PollutionPumpSmolSTNL.label>
+<!-- EN: A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. Will destroy itself after a short time. -->
+<PollutionPumpSmolSTNL.description>Une pompe de filtration des eaux souterraines qui nettoie lentement les terrains pollués. La pollution extraite est transformée en déchets toxiques qui doivent être évacués. S'autodétruit après un court laps de temps.</PollutionPumpSmolSTNL.description>
+
+<!-- EN: massive pollution pump -->
+<PollutionPumpSTNL.label>pompe à pollution massive</PollutionPumpSTNL.label>
+<!-- EN: A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. Self powered by using a waste-fueled internal generator. -->
+<PollutionPumpSTNL.description>Une pompe de filtration des eaux souterraines qui nettoie lentement les terrains pollués. La pollution extraite est transformée en déchets toxiques qui doivent être évacués. Autonome en énergie grâce à un générateur interne alimenté par les déchets.</PollutionPumpSTNL.description>
+
+<!-- EN: broken reactor -->
+<ToxifierGeneratorSTNL.label>réacteur cassé</ToxifierGeneratorSTNL.label>
+<!-- EN: This electrical generator is failing, causing it to produce extreme amounts of pollution without any power output. -->
+<ToxifierGeneratorSTNL.description>Ce générateur électrique est défaillant, ce qui l'amène à produire des quantités extrêmes de pollution sans aucune production d'énergie.</ToxifierGeneratorSTNL.description>
+
+<!-- EN: unstable toxic IED -->
+<TrapIED_ToxgasSTNL.label>piège tox improvisé instable</TrapIED_ToxgasSTNL.label>
+<!-- EN: An highly unstable toxic gas IED, the slightest amount of damage will set it off. -->
+<TrapIED_ToxgasSTNL.description>Il s'agit d'un piège à gaz toxique hautement instable, qui se déclenche au moindre dégât.</TrapIED_ToxgasSTNL.description>
+
+<!-- EN: reconfigured wastepack atomizer -->
+<WastepackAtomizerSTNL.label>atomiseur de déchets reconfiguré</WastepackAtomizerSTNL.label>
+<!-- EN: A glittertech device that deconstructs toxic wastepacks into inert gases using advanced molecular processes. The process requires considerable amounts of power. -->
+<WastepackAtomizerSTNL.description>Un appareil glittertech qui décompose les déchets toxiques en gaz inertes à l'aide de processus moléculaires très avancés. Le processus nécessite des quantités considérables d'énergie.</WastepackAtomizerSTNL.description>
+
+
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: make grape must -->
+<VFEM2_Make_Must.label>fabriquer du moût de raisin</VFEM2_Make_Must.label>
+<!-- EN: Make must from grapes. -->
+<VFEM2_Make_Must.description>Fabriquer du moût à partir de raisins.</VFEM2_Make_Must.description>
+<!-- EN: Making must. -->
+<VFEM2_Make_Must.jobString>fabrique le moût de raisin.</VFEM2_Make_Must.jobString>
+
+<!-- EN: make sweetrolls -->
+<VFEM2_Make_Sweetroll.label>cuisiner des pains sucrés</VFEM2_Make_Sweetroll.label>
+<!-- EN: Make sweetrolls out of honey and eggs. -->
+<VFEM2_Make_Sweetroll.description>Cuisiner des pains sucrés avec du miel et des œufs.</VFEM2_Make_Sweetroll.description>
+<!-- EN: Making sweetrolls. -->
+<VFEM2_Make_Sweetroll.jobString>Cuisine les pains sucrés</VFEM2_Make_Sweetroll.jobString>
+
+
+<!-- EN: make chemfuel from organics -->
+<VFEM2_Make_ChemfuelFromOrganics.label>raffiner du chemfuel à partir de matières organiques</VFEM2_Make_ChemfuelFromOrganics.label>
+<!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+<VFEM2_Make_ChemfuelFromOrganics.description>Produire des barils de chemfuel en extrayant le biocarburant à partir de matières premières organiques.</VFEM2_Make_ChemfuelFromOrganics.description>
+<!-- EN: feedstock -->
+<VFEM2_Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>matière première</VFEM2_Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+<!-- EN: Refining chemfuel from organics. -->
+<VFEM2_Make_ChemfuelFromOrganics.jobString>raffine le chemfuel à partir de matières organiques.</VFEM2_Make_ChemfuelFromOrganics.jobString>
+
+<!-- EN: make chemfuel from wood -->
+<VFEM2_Make_ChemfuelFromWood.label>raffiner du chemfuel à partir de bois</VFEM2_Make_ChemfuelFromWood.label>
+<!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+<VFEM2_Make_ChemfuelFromWood.description>Produire des barils de chemfuel par la gazéification de bûches de bois.</VFEM2_Make_ChemfuelFromWood.description>
+<!-- EN: Refining chemfuel from wood. -->
+<VFEM2_Make_ChemfuelFromWood.jobString>raffine le chemfuel à partir de bois.</VFEM2_Make_ChemfuelFromWood.jobString>
+
+<!-- EN: weave hardweave from smokeleaf leaves -->
+<VFEM2_Make_Hardweave.label>tisser des feuilles de smokeleaf en tissu durci</VFEM2_Make_Hardweave.label>
+<!-- EN: Weave smokeleaf threads together to create resistant alternative to cloth. -->
+<VFEM2_Make_Hardweave.description>Tisser des fils de feuilles de smokeleaf ensemble pour créer une alternative résistante au tissu.</VFEM2_Make_Hardweave.description>
+<!-- EN: Weaving hardweave. -->
+<VFEM2_Make_Hardweave.jobString>tisse les feuilles de smokeleaf en tissu durci.</VFEM2_Make_Hardweave.jobString>
+
+<!-- EN: weave hayweave from hay -->
+<VFEM2_Make_Hayweave.label>tisser du foin en tissefoin</VFEM2_Make_Hayweave.label>
+<!-- EN: Weave hay strands together to create a brittle, inferior fabric known as hayweave. -->
+<VFEM2_Make_Hayweave.description>Tisser des brins de foin ensemble pour créer un tissu cassant et de qualité inférieure appelé "tissefoin".</VFEM2_Make_Hayweave.description>
+<!-- EN: Weaving hayweave. -->
+<VFEM2_Make_Hayweave.jobString>tisse le foin en tissefoin.</VFEM2_Make_Hayweave.jobString>
+
+<!-- EN: make herbal medicine x3 -->
+<VFEM2_MakeHerbalMedicine.label>fabriquer des herbes médicinales x3</VFEM2_MakeHerbalMedicine.label>
+<!-- EN: Make a small batch of herbal medicine from different alchemical ingredients. -->
+<VFEM2_MakeHerbalMedicine.description>Fabriquer un petit lot d'herbes médicinales à partir de différents ingrédients alchimiques.</VFEM2_MakeHerbalMedicine.description>
+<!-- EN: making herbal medicine. -->
+<VFEM2_MakeHerbalMedicine.jobString>fabrique les herbes médicinales.</VFEM2_MakeHerbalMedicine.jobString>
+
+
+</LanguageData>

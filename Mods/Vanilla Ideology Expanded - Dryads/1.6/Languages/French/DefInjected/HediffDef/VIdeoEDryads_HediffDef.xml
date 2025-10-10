@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: no pain sensitivity -->
+<VDE_NoPain.label>aucune sensibilité à la douleur</VDE_NoPain.label>
+<!-- EN: This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+<VDE_NoPain.description>Cet animal a une sensibilité réduite à la douleur et il met plus de temps à être abattu par la douleur.</VDE_NoPain.description>
+
+<!-- EN: separation sickness -->
+<VDE_SeparationSickness.label>maladie de séparation</VDE_SeparationSickness.label>
+
+<!-- EN: weakened -->
+<VDE_SeparationSickness.stages.weakened.label>affaibli</VDE_SeparationSickness.stages.weakened.label>
+<!-- EN: withering -->
+<VDE_SeparationSickness.stages.withering.label>dépérit</VDE_SeparationSickness.stages.withering.label>
+<!-- EN: vanishing -->
+<VDE_SeparationSickness.stages.vanishing.label>disparaît</VDE_SeparationSickness.stages.vanishing.label>
+
+
+</LanguageData>

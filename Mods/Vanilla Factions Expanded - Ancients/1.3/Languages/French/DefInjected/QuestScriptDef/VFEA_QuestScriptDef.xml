@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+    <!-- No asker -->
+        <li>questDescription(askerIsNull==true)->Nous avons intercepté des messages à propos d'un abri abandonné pas loin de [map_definite].\n\nIl semble qu'[allSitePartsDescriptionsExceptFirst]</li>
+    <!-- Faction leader asker -->
+        <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] de [asker_faction_name], nous a informés de l'existence d'un abri abandonné non loin de chez nous. Il est peut-être encore possible de récupérer ce qu'il en reste.\n\n[asker_label] dit qu'[allSitePartsDescriptionsExceptFirst]</li>
+</VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+<VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[path] de [asker_nameDef] vers [ruins]</li>
+    <li>questName->[stash] dans [ruins]</li>
+    <li>path->Le voyage</li>
+    <li>path->L'expédition</li>
+    <li>path->L'aventure</li>
+    <li>ruins->les ruines d'un abri</li>
+    <li>ruins->l'abri en ruine</li>
+    <li>ruins->l'abri détruit</li>
+    <li>ruins->l'abri vide</li>
+    <li>stash->La cachette</li>
+    <li>stash->La réserve</li>
+    <li>stash->Le trésor</li>
+</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+<VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Les communications interceptées indiquent que l'abri a été entièrement pillé par d'autres personnes. La quête [resolvedQuestName] a expiré.</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+
+
+<VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+    <!-- No asker since it can be acquired only using broadcast station -->
+        <li>questDescription(askerIsNull==true)->Nous avons intercepté des messages à propos d'un abri scellé non loin de [map_definite]. Le site regorge de technologies et de reliques anciennes.\n\nIl semble être toujours défendu par d'anciens soldats.</li>
+</VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+<VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[journey] dans [ruins]</li>
+    <li>journey->Voyage</li>
+    <li>journey->Expédition</li>
+    <li>journey->Chasse au trésor</li>
+    <li>journey->Adventure</li>
+    <li>ruins->l'abri scellé</li>
+    <li>ruins->l'abri verrouillé</li>
+    <li>ruins->l'ancien abri</li>
+    <li>ruins->l'abri sécurisé</li>
+    <li>ruins->l'abri caché</li>
+</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+<VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Les communications interceptées indiquent que l'abri scellé a été ouvert et fouillé par d'autres personnes. La quête [resolvedQuestName] a expiré.</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+
+</LanguageData>

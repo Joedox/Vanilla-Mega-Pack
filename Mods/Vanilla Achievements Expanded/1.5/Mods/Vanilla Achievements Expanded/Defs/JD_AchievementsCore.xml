@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Insolation -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Insolation</defName>
+		<label>Isn't it hot in here?</label>
+		<description>Killing a colon by heatstroke.</description>
+
+		<tracker Class="AchievementsExpanded.HediffDeathTracker">
+			<def>Heatstroke</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Insolation</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Hypothermie -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Hypothermie</defName>
+		<label>JI can't feel my feet</label>
+		<description>Killing a colon by hypothermia.</description>
+
+		<tracker Class="AchievementsExpanded.HediffDeathTracker">
+			<def>Hypothermia</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Hypothermie</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Alzheimer -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Alzheimers</defName>
+		<label>Who are you?</label>
+		<description>Having a colon with Alzheimer's disease.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>Alzheimers</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Alzheimers</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Asthme -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Asthme</defName>
+		<label>I'm out of breath</label>
+		<description>Having a colon with asthma.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>Asthma</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Asthme</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Cataracte -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Cataracte</defName>
+		<label>Who turned out the lights?</label>
+		<description>Having a cataract colon.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>Cataract</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Cataracte</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Démence -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Demence</defName>
+		<label>I'm not crazy, you know</label>
+		<description>Having a colon with dementia.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>Dementia</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Demence</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Surdité -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Surdite</defName>
+		<label>How?</label>
+		<description>Having a deaf colon.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>HearingLoss</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Surdite</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Syndrome du savant -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Savant</defName>
+		<label>E = mc²</label>
+		<description>Having a colon suffers from savant syndrome.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>TraumaSavant</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Savant</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Penoxycyline -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Penoxycyline</defName>
+		<label>It's not automatic</label>
+		<description>Having a colon on penoxycyline.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>PenoxycylineHigh</def>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Penoxycyline</texPath>
+		<points>5</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- T-1000 -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_T-1000</defName>
+		<label>T-1000</label>
+		<description>Having a colon with Archotech eyes, arms and legs.</description>
+
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>ArchotechArm</key>
+					<value>2</value>
+				</li>
+				<li>
+					<key>ArchotechEye</key>
+					<value>2</value>
+				</li>
+				<li>
+					<key>ArchotechLeg</key>
+					<value>2</value>
+				</li>
+			</defs>
+		</tracker>
+
+		<texPath>Achievements/JD_T1000</texPath>
+		<points>100</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Wolverine -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Wolverine</defName>
+		<label>Wolverine</label>
+		<description>Having a colon with two energy claws.</description>
+
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>PowerClaw</key>
+					<value>2</value>
+				</li>
+			</defs>
+		</tracker>
+
+		<texPath>Achievements/JD_Wolverine</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Couvert de mousse ignifuge -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Ignifuge</defName>
+		<label>Foam party!</label>
+		<description>Spray a total of 100 of your settlers with flame retardant foam.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>CoveredInFirefoam</def>
+			<count>100</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Ignifuge</texPath>
+		<points>20</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+</Defs>

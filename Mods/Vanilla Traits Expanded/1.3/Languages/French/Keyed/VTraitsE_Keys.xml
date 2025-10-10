@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VTE.HasDestroyedItem>{PAWN_nameDef} a détruit l'objet qu'{PAWN_pronoun} vient de fabriquer car celui-ci n'était pas de qualité suffisante.</VTE.HasDestroyedItem>
+<VTE.GotBruise>{PAWN_nameDef} a eu un bleu à cause de sa maladresse.</VTE.GotBruise>
+<VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} a le sommeil trop profond pour être mobilisé.</VTE.CantBeWokenUpHeavySleeper>
+<VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} a renoncé à {0} pour le moment car {PAWN_pronoun} est perfectionniste.</VTE.DecisesInterruptCurrentCostructionJob>
+<VTE.CavaranSpeedIsDoubledWanderlusts>Les colons Nomade traverseront les lieux extérieurs à une vitesse accrue.</VTE.CavaranSpeedIsDoubledWanderlusts>
+<VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} a volé un bien n'appartenant pas à votre faction, ce qui peut nuire à vos relations entre cette faction et votre faction.</VTE.KleptomaniacStealsItemFrom>
+<VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} a été surpris en train d'essayer de voler les biens d'une autre faction, ce qui pourrait nuire aux relations entre cette faction et votre faction.</VTE.KleptomaniacFailedToStealItemFrom>
+<VTE.PawnBreaksChairs>{PAWN_nameDef} a endommagé {0} à cause de son poids ou d'une étrange posture.</VTE.PawnBreaksChairs>
+<VTE.PawnStoleItem>{PAWN_nameDef} a volé {0} à {VICTIM_nameDef}</VTE.PawnStoleItem>
+<VTE.PawnFailedToStealItem>{PAWN_nameDef} n'a pas réussi à voler {0} à {VICTIM_nameDef}. Cela a provoqué la colère de la faction de {VICTIM_nameDef}.</VTE.PawnFailedToStealItem>
+<VTE.PawnCowardlyFlees>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyFlees>
+<VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyExitMapHostile>
+<VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyExitMapAlly>
+<VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyExitMapNeutral>
+<VTE.PawnStopsForcedJob>{PAWN_nameDef} a refusé ou oublié ses ordres et a cessé de travailler pour le moment.</VTE.PawnStopsForcedJob>
+<VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} a désarmé {VICTIM_nameDef} en combat de mêlée.</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>

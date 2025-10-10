@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Tale_UsedPunchingBag.label>sac de boxe utilisé</Tale_UsedPunchingBag.label>
+<Tale_UsedPunchingBag.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] passe sa colère sur le [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] regarde avec colère le [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] s'amuse sur le [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] frappe le [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->tense with energy</li>
+    <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+    <li>circumstance_phrase->gently massaging [PAWN_possessive] wrists</li>
+    <li>circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->wrapping their hands in tape</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->Une aurore [Color] brille à l'arrière-plan.</li>
+    <li>desc_sentence->Au loin, [Community] est visible.</li>
+    <li>desc_sentence->Au loin, [TerrainFeature] est visible.</li>
+    <li>desc_sentence->Les traits de [PAWN_nameDef] sont exagérés.</li>
+    <li>desc_sentence->[PAWN_nameDef] surplombe la scène.</li>
+</Tale_UsedPunchingBag.rulePack.rulesStrings>
+
+
+
+<Tale_UsedComputer.label>ordinateur utilisé</Tale_UsedComputer.label>
+<Tale_UsedComputer.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] se concentre sur l'[OBJECT_label] en face d'[PAWN_possessive]</li>
+    <li>tale_noun->[PAWN_nameDef] regardant avec colère l'[OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] s'amuse devant l'[OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->concentrating</li>
+    <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+    <li>circumstance_phrase->leaning back in [PAWN_possessive] chair</li>
+    <li>desc_sentence->Une aurore [Color] brille à l'arrière-plan.</li>
+    <li>desc_sentence->Au loin, [Community] est visible.</li>
+    <li>desc_sentence->Au loin, [TerrainFeature] est visible.</li>
+    <li>desc_sentence->[PAWN_nameDef] se concentre sur l'écran.</li>
+    <li>desc_sentence->[PAWN_nameDef] domine la scène.</li>
+</Tale_UsedComputer.rulePack.rulesStrings>
+
+
+</LanguageData>

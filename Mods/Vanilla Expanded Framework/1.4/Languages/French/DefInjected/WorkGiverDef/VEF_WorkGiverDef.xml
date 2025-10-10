@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VEF_AnimalResource.label>récolter les ressources animales</VEF_AnimalResource.label>
+<VEF_AnimalResource.gerund>récolte des ressources animales</VEF_AnimalResource.gerund>
+<VEF_AnimalResource.verb>récolter les ressources animales</VEF_AnimalResource.verb>
+
+<VEF_DestroyItems.label>détruire des objets</VEF_DestroyItems.label>
+<VEF_DestroyItems.gerund>destruction de l'objet</VEF_DestroyItems.gerund>
+<VEF_DestroyItems.verb>détruire les objets</VEF_DestroyItems.verb>
+
+<IP_InsertFirstIngredient.label>apporter l'ingrédient n°1</IP_InsertFirstIngredient.label>
+<IP_InsertFirstIngredient.gerund>apporte de l'ingrédient</IP_InsertFirstIngredient.gerund>
+<IP_InsertFirstIngredient.verb>apporter l'ingrédient n°1</IP_InsertFirstIngredient.verb>
+
+<IP_InsertSecondIngredient.label>apporter l'ingrédient n°2</IP_InsertSecondIngredient.label>
+<IP_InsertSecondIngredient.gerund>apporte de l'ingrédient</IP_InsertSecondIngredient.gerund>
+<IP_InsertSecondIngredient.verb>apporter l'ingrédient n°2</IP_InsertSecondIngredient.verb>
+
+<IP_InsertThirdIngredient.label>apporter l'ingrédient n°3</IP_InsertThirdIngredient.label>
+<IP_InsertThirdIngredient.gerund>apporte de l'ingrédient</IP_InsertThirdIngredient.gerund>
+<IP_InsertThirdIngredient.verb>apporter l'ingrédient n°3</IP_InsertThirdIngredient.verb>
+
+<IP_RemoveProduct.label>retirer le produit fini</IP_RemoveProduct.label>
+<IP_RemoveProduct.gerund>retrait du produit fini</IP_RemoveProduct.gerund>
+<IP_RemoveProduct.verb>retirer le produit fini</IP_RemoveProduct.verb>
+
+<PS_DrainOutOfStorage.label>vidanger le stockage</PS_DrainOutOfStorage.label>
+<PS_DrainOutOfStorage.gerund>vidange du stockage</PS_DrainOutOfStorage.gerund>
+<PS_DrainOutOfStorage.verb>vidanger le stockage</PS_DrainOutOfStorage.verb>
+
+<PS_FillStorage.label>remplir le stockage</PS_FillStorage.label>
+<PS_FillStorage.gerund>remplissage du stockage</PS_FillStorage.gerund>
+<PS_FillStorage.verb>remplir le stockage</PS_FillStorage.verb>
+
+<PS_PickUpProcessor.label>récupérer le résultat du processus</PS_PickUpProcessor.label>
+<PS_PickUpProcessor.gerund>récupération du résultat</PS_PickUpProcessor.gerund>
+<PS_PickUpProcessor.verb>récupérer le résultat</PS_PickUpProcessor.verb>
+
+<PS_BringToProcessor.label>apporter l'ingrédient au processus</PS_BringToProcessor.label>
+<PS_BringToProcessor.gerund>apporte de l'ingrédient</PS_BringToProcessor.gerund>
+<PS_BringToProcessor.verb>apporter l'ingrédient</PS_BringToProcessor.verb>
+
+
+<!-- TODO -->
+<VEF_Art_ConstructFinishFrames.label>construct placed frames</VEF_Art_ConstructFinishFrames.label>
+<VEF_Art_ConstructFinishFrames.gerund>working on</VEF_Art_ConstructFinishFrames.gerund>
+<VEF_Art_ConstructFinishFrames.verb>work on</VEF_Art_ConstructFinishFrames.verb>
+
+<VEF_Art_ConstructDeliverResourcesToFrames.label>deliver resources to frames</VEF_Art_ConstructDeliverResourcesToFrames.label>
+<VEF_Art_ConstructDeliverResourcesToFrames.gerund>working on</VEF_Art_ConstructDeliverResourcesToFrames.gerund>
+<VEF_Art_ConstructDeliverResourcesToFrames.verb>work on</VEF_Art_ConstructDeliverResourcesToFrames.verb>
+
+<VEF_Art_ConstructDeliverResourcesToBlueprints.label>deliver resources to blueprints</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+<VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>working on</VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>
+<VEF_Art_ConstructDeliverResourcesToBlueprints.verb>work on</VEF_Art_ConstructDeliverResourcesToBlueprints.verb>
+<!-- TODO -->
+
+
+</LanguageData>

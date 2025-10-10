@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Wine.label>vin</VFEM_Wine.label>
+  <VFEM_Wine.description>Une grande bouteille d'une boisson alcoolisée forte à base de raisins fermentés. Une consommation excessive peut entraîner des dépendance à l'alcool au fil du temps.</VFEM_Wine.description>
+  <VFEM_Wine.tools.bottle.label>bouteille</VFEM_Wine.tools.bottle.label>
+  <VFEM_Wine.tools.neck.label>goulot</VFEM_Wine.tools.neck.label>
+  <VFEM_Wine.ingestible.ingestCommandString>Boire {0}</VFEM_Wine.ingestible.ingestCommandString>
+  <VFEM_Wine.ingestible.ingestReportString>Boit {0}.</VFEM_Wine.ingestible.ingestReportString>
+
+  <VFEM_Must.label>moût de raisin</VFEM_Must.label>
+  <VFEM_Must.description>Vin non fermenté. Cette substance doit fermenter dans un tonneau à vin avant de devenir du vin buvable.</VFEM_Must.description>
+
+
+</LanguageData>

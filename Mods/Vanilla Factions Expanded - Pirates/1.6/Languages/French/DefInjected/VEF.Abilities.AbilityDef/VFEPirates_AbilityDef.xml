@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Blast off -->
+<VFEP_BlastOff.label>décollage</VFEP_BlastOff.label>
+<!-- EN: Fire a large propulsion engine strapped to the back of your armor and designate a location on the world map to drop pod into. This will create a large explosion at the destination, but will most likely leave you stranded without fuel for the trip back. -->
+<VFEP_BlastOff.description>Allumez un gros moteur de propulsion attaché à l'arrière de votre armure et désignez un endroit sur la carte du monde pour y larguer la capsule. Cela créera une grande explosion à la destination, et vous laissera très probablement sans carburant pour le voyage du retour.</VFEP_BlastOff.description>
+<!-- EN: Using ability: {0} -->
+<VFEP_BlastOff.jobReportString>Utilise la capacité : {0}</VFEP_BlastOff.jobReportString>
+<!-- EN: décollage -->
+<VFEP_BlastOff.verbProperties.label>Décollage</VFEP_BlastOff.verbProperties.label>
+
+<!-- EN: grappling hook -->
+<VFEP_GrapplingHook.label>grappin</VFEP_GrapplingHook.label>
+<!-- EN: Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again. -->
+<VFEP_GrapplingHook.description>Le grappin se connecte aux murs et à la roche solide et permet aux utilisateurs de se déplacer rapidement à l'endroit souhaité. Le grappin ne nécessite pas de munitions, mais il faut prévoir du temps entre les tirs pour le remonter.</VFEP_GrapplingHook.description>
+<!-- EN: Using ability: {0} -->
+<VFEP_GrapplingHook.jobReportString>Utilise la capacité : {0}</VFEP_GrapplingHook.jobReportString>
+<!-- EN: reload grappling hook -->
+<VFEP_GrapplingHook.modExtensions.0.labelUnloaded>réarme le grappin</VFEP_GrapplingHook.modExtensions.0.labelUnloaded>
+<!-- EN: grappin -->
+<VFEP_GrapplingHook.verbProperties.label>grappin</VFEP_GrapplingHook.verbProperties.label>
+
+<!-- EN: Power jump -->
+<VFEP_PowerJump.label>saut de puissance</VFEP_PowerJump.label>
+<!-- EN: Use shoulder-mounted jump packs to travel a short distance and create a small explosion at both start and end of the flight. -->
+<VFEP_PowerJump.description>Utilisez des packs de saut fixés aux épaules pour parcourir une courte distance et créer une petite explosion au début et à la fin du vol.</VFEP_PowerJump.description>
+<!-- EN: Using ability: {0} -->
+<VFEP_PowerJump.jobReportString>Utilise la capacité : {0}</VFEP_PowerJump.jobReportString>
+<!-- EN: saut de puissance -->
+<VFEP_PowerJump.verbProperties.label>Saut de puissance</VFEP_PowerJump.verbProperties.label>
+
+<!-- EN: Siege Mode -->
+<VFEP_SiegeMode.label>mode siège</VFEP_SiegeMode.label>
+<!-- EN: Drill yourself into the ground in order to gain more stability and turn yourself into a stationary artillery unit, increasing the attack range and reload efficiency drastically. -->
+<VFEP_SiegeMode.description>Percez le sol pour gagner en stabilité et vous transformer en une unité d'artillerie stationnaire, en augmentant considérablement la portée de l'attaque et l'efficacité du rechargement.</VFEP_SiegeMode.description>
+<!-- EN: Using ability: {0} -->
+<VFEP_SiegeMode.jobReportString>Utilise la capacité : {0}</VFEP_SiegeMode.jobReportString>
+<!-- EN: mode siège -->
+<VFEP_SiegeMode.verbProperties.label>Mode siège</VFEP_SiegeMode.verbProperties.label>
+
+
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Auto Drill -->
+
+<!-- EN: Drill for {0} -->
+<VFE_ChunkToMine>Forage de {0}</VFE_ChunkToMine>
+<!-- EN: Drill for Random Chunks -->
+<VFE_ChunkRandomMine>Forage de Gravats aléatoires</VFE_ChunkRandomMine>
+<!-- EN: Choose chunk type to drill -->
+<VFE_ChooseMine>Choisir le type de gravats</VFE_ChooseMine>
+<!-- EN: Choose chunk type to drill. You can choose any of the map's rock types, or random -->
+<VFE_ChooseMineDesc>Choisir le type de gravats à extraire. Vous pouvez choisir n'importe quel type de gravats de la carte, ou aléatoirement.</VFE_ChooseMineDesc>
+<!-- EN: Random chunk -->
+<VFE_RandomRock>Gravats aléatoire</VFE_RandomRock>
+<!-- EN: Select machine output -->
+<VFE_PleaseSelectOutput>Sélectionner la sortie de la machine</VFE_PleaseSelectOutput>
+<!-- EN: This building must be placed on water -->
+<VFE_NeedsWater>Ce bâtiment doit être placé sur l'eau.</VFE_NeedsWater>
+
+<!-- Random Building Graphics -->
+
+<!-- EN: Random Graphic -->
+<VFE_ChangeGraphic>Modifier la texture</VFE_ChangeGraphic>
+<!-- EN: Change Graphic of this building randomly between those available -->
+<VFE_ChangeGraphicDesc>Change la texture graphique de cet objet de façon aléatoire parmi celles disponibles.</VFE_ChangeGraphicDesc>
+
+<!-- EN: Choose Graphic -->
+<VFE_ChooseGraphic>Choisir la texture</VFE_ChooseGraphic>
+<!-- EN: Choose Graphic of this building via a menu with all available options -->
+<VFE_ChooseGraphicDesc>Choisissez la texture graphique de cet objet via un menu avec toutes les options disponibles.</VFE_ChooseGraphicDesc>
+
+<!-- EN: This building doesn't have extra random graphics to choose from. Some modder added the comp class to the building without alternative graphics, which is weird -->
+<VFE_NoGraphics>Cet objet n'a pas de graphiques supplémentaires aléatoires à choisir. Un moddeur a ajouté la classe comp à cet objet sans graphiques alternatifs, ce qui est étrange.</VFE_NoGraphics>
+
+<!-- Random Building Graphics, Options -->
+
+<!--<VFE_RandomOrSequentially>"Change Graphic" button changes graphic randomly (deselect for sequentially)</VFE_RandomOrSequentially>-->
+<!-- EN: Hide the "Random Graphic" and "Choose Graphic" buttons -->
+<VFE_HideRandomizeButton>Cacher le bouton "Modifier la texture"</VFE_HideRandomizeButton>
+<!-- EN: Make random graphics buildings NOT start randomized -->
+<VFE_RandomBuildingsDontStartRandom>Les objets nouvellement construits n’auront pas une texture aléatoire (si activé).</VFE_RandomBuildingsDontStartRandom>
+
+<!-- EN: Switch light color -->
+<VFE.SwitchLightColor>Modifier la couleur</VFE.SwitchLightColor>
+<!-- EN: Change current light colour. -->
+<VFE.SwitchLightColorDesc>Modifie la couleur de la lumière actuelle.</VFE.SwitchLightColorDesc>
+<!-- EN: Change color to {0} -->
+<VFE.ChangeColorTo>Changer la couleur pour {0}</VFE.ChangeColorTo>
+<!-- EN: Power is off. Impossible to switch color. -->
+<VFE.ColorSwitchPowerOff>L'alimentation est coupée. Impossible de changer la couleur.</VFE.ColorSwitchPowerOff>
+
+
+</LanguageData>

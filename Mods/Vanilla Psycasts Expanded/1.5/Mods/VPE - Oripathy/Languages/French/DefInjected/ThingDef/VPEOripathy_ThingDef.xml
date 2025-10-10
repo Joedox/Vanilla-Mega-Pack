@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Stabilized Originite -->
+<md_originite_crystalSTNL.label>originite stabilisée</md_originite_crystalSTNL.label>
+<!-- EN: Piece of a crystal containing a stabilized strain of the oripathy disease that slowly gets destroyed by the immune system. Raises the infection by one level. -->
+<md_originite_crystalSTNL.description>Morceau de cristal contenant une souche stabilisée de la maladie d'oripathy qui est lentement détruite par le système immunitaire. Augmente l'infection d'un niveau.</md_originite_crystalSTNL.description>
+<!-- EN: Take {0} -->
+<md_originite_crystalSTNL.ingestible.ingestCommandString>Prendre de l'{0}</md_originite_crystalSTNL.ingestible.ingestCommandString>
+<!-- EN: Taking {0}. -->
+<md_originite_crystalSTNL.ingestible.ingestReportString>Prend l'{0}.</md_originite_crystalSTNL.ingestible.ingestReportString>
+
+<!-- EN: Overcharged Originite -->
+<oc_originite_crystalSTNL.label>originite surchargée</oc_originite_crystalSTNL.label>
+<!-- EN: Piece of a crystal containing an hyper concentrated oripathy disease cluster that raises the infection by one level...Best not to consume it. Unless you're feeding this to a prisoner. -->
+<oc_originite_crystalSTNL.description>Morceau de cristal contenant une grappe de la maladie d'oripathy hyper concentrée qui augmente l'infection d'un niveau... Mieux vaut ne pas le consommer. Sauf si vous le donnez à manger à un prisonnier.</oc_originite_crystalSTNL.description>
+<!-- EN: Take {0} -->
+<oc_originite_crystalSTNL.ingestible.ingestCommandString>Prendre de l'{0}</oc_originite_crystalSTNL.ingestible.ingestCommandString>
+<!-- EN: Taking {0}. -->
+<oc_originite_crystalSTNL.ingestible.ingestReportString>Prend l'{0}.</oc_originite_crystalSTNL.ingestible.ingestReportString>
+
+<!-- EN: Originite -->
+<originite_crystalSTNL.label>originite</originite_crystalSTNL.label>
+<!-- EN: Piece of a crystal containing the oripathy disease...Best not to consume it. Unless you're feeding this to a prisoner. -->
+<originite_crystalSTNL.description>Morceau de cristal contenant la maladie de l'oripathy... Mieux vaut ne pas le consommer. A moins que vous ne le donniez à manger à un prisonnier.</originite_crystalSTNL.description>
+<!-- EN: Take {0} -->
+<originite_crystalSTNL.ingestible.ingestCommandString>Prendre de l'{0}</originite_crystalSTNL.ingestible.ingestCommandString>
+<!-- EN: Taking {0}. -->
+<originite_crystalSTNL.ingestible.ingestReportString>Prend l'{0}.</originite_crystalSTNL.ingestible.ingestReportString>
+
+
+<!-- EN: Orig-inhibitor -->
+<OripathyInhibitorSTNL.label>inhibiteur d'oripathy</OripathyInhibitorSTNL.label>
+<!-- EN: A dose of overcharged originite mixed with luciferium mechanites, specially created to grant the ability to reset the infection back its starting point. The process allows the user to tune their oripathy in a manner that grants them the ability to reverse their situation, meaning that only injecting yourself with this syringe won't be enough. You'll need to focus your Arts. (Additional note, the ability to reverse your condition isn't permanent, you will have 2 hours to use the ability otherwise the dose will be wasted.) -->
+<OripathyInhibitorSTNL.description>Une dose d'originite surchargée mélangée à des mécanites de luciferium, spécialement créée pour permettre de rétablir l'infection à son point de départ. Ce procédé permet à l'utilisateur d'ajuster son oripathy de manière à inverser la situation. Une simple injection avec cette seringue ne suffira donc pas. Il vous faudra concentrer vos arts.\n\nRemarque : l'effet d'inversion n'est pas permanent ; vous disposerez de deux heures après l'injection pour utiliser la capacité, sinon la dose sera gaspillée.</OripathyInhibitorSTNL.description>
+<!-- EN: Use {0_label} -->
+<OripathyInhibitorSTNL.comps.CompUsable.useLabel>Utiliser {0_label}</OripathyInhibitorSTNL.comps.CompUsable.useLabel>
+
+
+</LanguageData>

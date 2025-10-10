@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: farming outpost -->
+<Outpost_Farming.label>avant-poste agricole</Outpost_Farming.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Farming.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans le semis et la récolte de végétation facile à cultiver, ne peut être placé sur des déserts. Une fois qu'une quantité suffisante a été récoltée, une livraison sera effectuée à la périphérie de la colonie principale de la faction.</Outpost_Farming.description>
+<!-- EN: Choose which plant this outpost should plant -->
+<Outpost_Farming.modExtensions.0.ChooseDesc>Choisir la plante que cet avant-poste doit cultiver.</Outpost_Farming.modExtensions.0.ChooseDesc>
+<!-- EN: Choose plant -->
+<Outpost_Farming.modExtensions.0.ChooseLabel>Choisir la récolte</Outpost_Farming.modExtensions.0.ChooseLabel>
+
+<!-- EN: hunting outpost -->
+<Outpost_Hunting.label>avant-poste de chasse</Outpost_Hunting.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Hunting.description>Emplacement d'un camp temporaire, dirigé de manière autonome, spécialisé dans la chasse et le dépeçage des animaux sauvages. Une fois qu'une quantité suffisante a été amassé, une livraison sera faite à la périphérie de la colonie principale de la faction.</Outpost_Hunting.description>
+<!-- EN: Choose what animal to hunt at this outpost -->
+<Outpost_Hunting.modExtensions.0.ChooseDesc>Choisir l'animal à chasser dans cet avant-poste.</Outpost_Hunting.modExtensions.0.ChooseDesc>
+<!-- EN: Hunting {0} -->
+<Outpost_Hunting.modExtensions.0.ChooseLabel>Chasse {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+
+<!-- EN: logging outpost -->
+<Outpost_Logging.label>avant-poste forestier</Outpost_Logging.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Logging.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la collecte de bois à partir des arbres de la zone, ne peut être placé sur un désert. Une fois qu'une quantité adéquate de bois a été obtenue, une livraison sera effectuée à la périphérie de la colonie principale de la faction.</Outpost_Logging.description>
+
+<!-- EN: mining outpost -->
+<Outpost_Mining.label>avant-poste minier</Outpost_Mining.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Mining.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans le minage et le traitement de la pierre ou du métal, ne peut être placé que sur une colline ou une montagne. Une fois qu'une quantité adéquate a été minée, une livraison sera effectuée à la périphérie de la colonie principale de la faction.</Outpost_Mining.description>
+<!-- EN: Click to change mining target. -->
+<Outpost_Mining.modExtensions.0.ChooseDesc>Choisir la ressource à minier dans cet avant-poste.</Outpost_Mining.modExtensions.0.ChooseDesc>
+<!-- EN: Mining {0} -->
+<Outpost_Mining.modExtensions.0.ChooseLabel>Mine {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+
+
+</LanguageData>

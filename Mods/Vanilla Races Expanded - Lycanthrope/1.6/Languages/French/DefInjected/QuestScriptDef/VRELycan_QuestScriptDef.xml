@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>wolfmanShuttleCrashedLetterLabel->Crashed shuttle</li>
+  <li>wolfmanShuttleCrashedLetterText->A shuttle containing a wolfman leader and [WolfmenCount] wolfmen refugees has crashed nearby. They will exit the crashed craft and prepare to venture on.</li>
+  <li>reinforcementsArrivedLetterLabel->Wolfmen reinforcements</li>
+  <li>reinforcementsArrivedLetterText->Wolfmen are arriving in drop pods to reinforce the crashed refugees.</li>
+  <li>letterLabelBeggarsBetrayed->Betrayed refugees</li>
+  <li>letterTextBeggarsBetrayed->The wolfmen refugees are betrayed by your actions and will try to defend themselves.</li>
+-->
+<VRE_WolfmenTransport.questContentRules.rulesStrings>
+  <li>wolfmanShuttleCrashedLetterLabel->Navette écrasée</li>
+  <li>wolfmanShuttleCrashedLetterText->Une navette contenant un chef des hommes-loups et [WolfmenCount] réfugiés hommes-loups s'est écrasée à proximité. Ils sortiront de la navette écrasée et se prépareront à poursuivre leur route.</li>
+  <li>reinforcementsArrivedLetterLabel->Hommes-loups en renfort</li>
+  <li>reinforcementsArrivedLetterText->Des hommes-loups arrivent dans des nacelles de largage pour renforcer les réfugiés écrasés.</li>
+  <li>letterLabelBeggarsBetrayed->Réfugiés trahis</li>
+  <li>letterTextBeggarsBetrayed->Les réfugiés hommes-loups ont été trahis par vos actions et tenteront de se défendre.</li>
+</VRE_WolfmenTransport.questContentRules.rulesStrings>
+<!-- EN:
+  <li>questDescription->You have intercepted a distress signal! A shuttle carrying a group of wolfmen refugees is having trouble with staying airborne. Their leader, alongside [WolfmenCount] other refugees is begging you to allow them to crash near [map_definite]. \n\nOnce the ship has crashed, wolfmen will try to regroup and venture on. They offer to transform one of your colonists into a wolfman if you allow them to crash near you. You can also use this opportunity to fight or arrest them. If you can capture any of them, you can force them to turn one of your colonists into a wolfman.\n\n[wolfmenInfo]</li>
+  <li>wolfmenInfo->(*Gray)About wolfmen: Wolfmen have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others. Their lycan form, on the other hand, has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.(/Gray)</li>
+-->
+<VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+  <li>questDescription->Vous avez intercepté un signal de détresse ! Une navette transportant un groupe de réfugiés hommes-loups peine à rester dans les airs. Leur chef, ainsi que [WolfmenCount] autres réfugiés, vous supplie de les laisser s'écraser près de [map_definite].\n\nUne fois que le vaisseau se sera écrasé, les hommes-loups essaieront de se regrouper et de poursuivre leur route. Ils vous proposent de transformer l'un de vos colons en homme-loup si vous les laissez s'écraser près de vous. Vous pouvez également en profiter pour les combattre ou les arrêter. Si vous parvenez à capturer l'un d'entre eux, vous pourrez le forcer à transformer l'un de vos colons en homme-loup.\n\n[wolfmenInfo]</li>
+  <li>wolfmenInfo->(*Gray)À propos des hommes-loups : Les hommes-loups se sont propagés sans entrave dans l'espace colonisé pour revendiquer des territoires et établir des meutes ou des clans plus importants. Leur forme d'homme-loup a des capacités nocturnes réduites, échangeant de nombreux avantages contre la possibilité de partager leur xénogerme avec d'autres. Leur forme de lycan, en revanche, présente des avantages nocturnes, une meilleure efficacité au combat rapproché, une vitesse et une régénération surnaturelles, ainsi qu'un hurlement vivifiant qui empêche de parler et qui s'améliore à mesure que d'autres membres de la meute se joignent à eux.(/Gray)</li>
+</VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+<!-- EN:
+  <li>questName->[shipAdjective] [shipNoun]</li>
+  <li>shipAdjective->wolfmen</li>
+  <li>shipAdjective->wolf</li>
+  <li>shipAdjective->lycan</li>
+  <li>shipAdjective->werewolf</li>
+  <li>shipAdjective->nocturnal</li>
+  <li>shipAdjective->howling</li>
+  <li>shipAdjective->furry</li>
+  <li>shipAdjective->canine</li>
+  <li>shipNoun->ship</li>
+  <li>shipNoun->shuttle</li>
+  <li>shipNoun->craft</li>
+  <li>shipNoun->hulk</li>
+  <li>shipNoun->crash</li>
+  <li>shipNoun->wreck</li>
+-->
+<VRE_WolfmenTransport.questNameRules.rulesStrings>
+  <li>questName->[shipNoun] [shipAdjective]</li>
+  <li>shipAdjective->des hommes-loups</li>
+  <li>shipAdjective->loup</li>
+  <li>shipAdjective->lycan</li>
+  <li>shipAdjective->loup-garou</li>
+  <li>shipAdjective->nocturne</li>
+  <li>shipAdjective->hurlant</li>
+  <li>shipAdjective->à fourrure</li>
+  <li>shipAdjective->canine</li>
+  <li>shipNoun->navire</li>
+  <li>shipNoun->navette</li>
+  <li>shipNoun->aero-craft</li>
+  <li>shipNoun->hulk</li>
+  <li>shipNoun->crash</li>
+  <li>shipNoun->épave</li>
+</VRE_WolfmenTransport.questNameRules.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- 10, 11, 12, 13 décembre -->
+<!-- EN: festive cold -->
+<VCE_ColdSnap.label>froid festif</VCE_ColdSnap.label>
+<!-- EN: A festive cold snap is freezing the region. -->
+<VCE_ColdSnap.description>Une vague de froid festive gèle la région.</VCE_ColdSnap.description>
+<!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
+<VCE_ColdSnap.descriptionFuture>un front d'air froid refroidira la zone autour de [map_definite] pendant [gameConditionDuration_duration], nuisant aux cultures et à toute personne ou animal sans protection adéquate</VCE_ColdSnap.descriptionFuture>
+<!-- EN: The festive cold is over. -->
+<VCE_ColdSnap.endMessage>Le froid festif est terminé.</VCE_ColdSnap.endMessage>
+<!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+<VCE_ColdSnap.letterText>Une vague de froid inhabituelle s'est installée.\n\nLes vagues de froid peuvent tuer rapidement par hypothermie. Assurez-vous de construire un espace chauffé pour survivre, portez des vêtements appropriés et essayez de récolter les cultures avant qu'elles ne gèlent et ne meurent.</VCE_ColdSnap.letterText>
+
+
+</LanguageData>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- 1ére étape vers l'orbite -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+		<defName>JD_Gravlite</defName>
+		<label>1st step towards orbit</label>
+		<description>Have 500 gravlite panel.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>GravlitePanel</def>
+			<count>500</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Gravlite</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Mon 1er vaisseau -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+		<defName>JD_PVaisseau</defName>
+		<label>My first ship</label>
+		<description>Build a small gravity ship (Pilot console, Small chemfuel tank, Small thruster).</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<thingList>
+				<li>
+					<key>PilotConsole</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>ChemfuelTank</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>SmallThruster</key>
+					<value>1</value>
+				</li>
+			</thingList>
+			<mustHaveAll>true</mustHaveAll>
+		</tracker>
+
+		<texPath>Achievements/JD_PVaisseau</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Vers l'infini et au-delà ! -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+		<defName>JD_GVaisseau</defName>
+		<label>To infinity and beyond!</label>
+		<description>Build a large gravity ship (Oxygen pump, Large chemfuel tank, Large thruster, Gravship shield generator, Fuel optimizer).</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<thingList>
+				<li>
+					<key>OxygenPump</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>LargeChemfuelTank</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>LargeThruster</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>GravshipShieldGenerator</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>FuelOptimizer</key>
+					<value>1</value>
+				</li>
+			</thingList>
+			<mustHaveAll>true</mustHaveAll>
+		</tracker>
+
+		<texPath>Achievements/JD_GVaisseau</texPath>
+		<points>30</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Volière -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+		<defName>JD_Voliere</defName>
+		<label>Aviary</label>
+		<description>Have all 14 birds (macaw, quail, duck, crow, swan, flamingo, heron, penguin, bluebird, sparrow, goose, peacock, chicken, vulture).</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.KindDefTracker">
+			<kindDefs>
+				<li>
+					<key>Bluebird</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Crow</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Flamingo</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Heron</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Macaw</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Peacock</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Penguin</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Quail</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Sparrow</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Swan</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Vulture</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Chicken</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Duck</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Goose</key>
+					<value>1</value>
+				</li>
+			</kindDefs>
+		</tracker>
+
+		<texPath>Achievements/JD_Voliere</texPath>
+		<points>100</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+</Defs>

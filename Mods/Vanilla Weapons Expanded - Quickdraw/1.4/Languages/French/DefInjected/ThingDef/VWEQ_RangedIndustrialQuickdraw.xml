@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Automatic Pistol -->
+
+  <VWE_Gun_AutomaticPistol.label>pistolet automatique</VWE_Gun_AutomaticPistol.label>
+  <VWE_Gun_AutomaticPistol.description>Un pistolet automatique. Il n'a pas le pouvoir d'arrêt, mais il est facile à dégainer. Tire en rafale de trois coups.</VWE_Gun_AutomaticPistol.description>
+  <VWE_Gun_AutomaticPistol.tools.grip.label>poignée</VWE_Gun_AutomaticPistol.tools.grip.label>
+  <VWE_Gun_AutomaticPistol.tools.barrel.label>canon</VWE_Gun_AutomaticPistol.tools.barrel.label>
+  <VWE_Gun_AutomaticPistol.verbs.Verb_Shoot.label>pistolet automatique</VWE_Gun_AutomaticPistol.verbs.Verb_Shoot.label>
+
+
+  <!-- Bullpup Rifle -->
+
+  <VWE_Gun_BullpupRifle.label>fusil d'assaut bullpup</VWE_Gun_BullpupRifle.label>
+  <VWE_Gun_BullpupRifle.description>Un fusil d'assaut avec un chargeur derrière la détente. Il a une bonne portée, une puissance décente, une bonne précision et grâce à son matériau léger, il est également rapide à dégainer pour tirer.</VWE_Gun_BullpupRifle.description>
+  <VWE_Gun_BullpupRifle.tools.stock.label>chargeur</VWE_Gun_BullpupRifle.tools.stock.label>
+  <VWE_Gun_BullpupRifle.tools.barrel.label>canon</VWE_Gun_BullpupRifle.tools.barrel.label>
+  <VWE_Gun_BullpupRifle.verbs.Verb_Shoot.label>fusil d'assaut bullpup</VWE_Gun_BullpupRifle.verbs.Verb_Shoot.label>
+
+
+  <!-- Bullpup DMR -->
+
+  <Bullet_BullpupDMR.label>balle fusil de précision bullpup</Bullet_BullpupDMR.label>
+
+  <VWE_Gun_BullpupDMR.label>fusil de précision bullpup</VWE_Gun_BullpupDMR.label>
+  <VWE_Gun_BullpupDMR.description>Un fusil de tireur d'élite désigné bullpup.\n\nBien qu'il présente des similitudes avec un fusil à verrou standard, il troque ses dégâts pour tirer deux coups successifs rapides. Grâce à son matériau léger, il est rapide à dégainer pour tirer.</VWE_Gun_BullpupDMR.description>
+  <VWE_Gun_BullpupDMR.tools.stock.label>chargeur</VWE_Gun_BullpupDMR.tools.stock.label>
+  <VWE_Gun_BullpupDMR.tools.barrel.label>canon</VWE_Gun_BullpupDMR.tools.barrel.label>
+  <VWE_Gun_BullpupDMR.verbs.Verb_Shoot.label>fusil de précision bullpup</VWE_Gun_BullpupDMR.verbs.Verb_Shoot.label>
+
+
+  <!-- PDW -->
+
+  <VWE_Gun_PDW.label>pistolet-mitrailleur bullpup</VWE_Gun_PDW.label>
+  <VWE_Gun_PDW.description>Une mitraillette compacte et légère utilisée comme arme de défense personnelle. Rapide à dégainer pour tirer.</VWE_Gun_PDW.description>
+  <VWE_Gun_PDW.tools.grip.label>poignée</VWE_Gun_PDW.tools.grip.label>
+  <VWE_Gun_PDW.tools.barrel.label>canon</VWE_Gun_PDW.tools.barrel.label>
+  <VWE_Gun_PDW.verbs.Verb_Shoot.label>pistolet-mitrailleur bullpup</VWE_Gun_PDW.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

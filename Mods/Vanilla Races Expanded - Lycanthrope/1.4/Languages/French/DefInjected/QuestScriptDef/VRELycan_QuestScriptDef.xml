@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_WolfmenTransport.questContentRules.rulesStrings>
+    <li>wolfmanShuttleCrashedLetterLabel->Navette écrasée</li>
+    <li>wolfmanShuttleCrashedLetterText->Une navette contenant un chef des hommes-loups et [WolfmenCount] réfugiés hommes-loups s'est écrasée à proximité. Ils sortiront de la navette écrasée et se prépareront à poursuivre leur route.</li>
+
+    <li>reinforcementsArrivedLetterLabel->Hommes-loups en renfort</li>
+    <li>reinforcementsArrivedLetterText->Des hommes-loups arrivent dans des nacelles de largage pour renforcer les réfugiés écrasés.</li>
+
+    <li>letterLabelBeggarsBetrayed->Réfugiés trahis</li>
+    <li>letterTextBeggarsBetrayed->Les réfugiés hommes-loups ont été trahis par vos actions et tenteront de se défendre.</li>
+</VRE_WolfmenTransport.questContentRules.rulesStrings>
+
+
+<VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+    <li>questDescription->Vous avez intercepté un signal de détresse ! Une navette transportant un groupe de réfugiés hommes-loups peine à rester dans les airs. Leur chef, ainsi que [WolfmenCount] autres réfugiés, vous supplie de les laisser s'écraser près de [map_definite].\n\nUne fois que le vaisseau se sera écrasé, les hommes-loups essaieront de se regrouper et de poursuivre leur route. Ils vous proposent de transformer l'un de vos colons en homme-loup si vous les laissez s'écraser près de vous. Vous pouvez également en profiter pour les combattre ou les arrêter. Si vous parvenez à capturer l'un d'entre eux, vous pourrez le forcer à transformer l'un de vos colons en homme-loup.\n\n[wolfmenInfo]</li>
+
+    <li>wolfmenInfo->(*Gray)À propos des hommes-loups : Les hommes-loups se sont propagés sans entrave dans l'espace colonisé pour revendiquer des territoires et établir des meutes ou des clans plus importants. Leur forme d'homme-loup a des capacités nocturnes réduites, échangeant de nombreux avantages contre la possibilité de partager leur xénogerme avec d'autres. Leur forme de lycan, en revanche, présente des avantages nocturnes, une meilleure efficacité au combat rapproché, une vitesse et une régénération surnaturelles, ainsi qu'un hurlement vivifiant qui empêche de parler et qui s'améliore à mesure que d'autres membres de la meute se joignent à eux.(/Gray)</li>
+</VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+
+
+<VRE_WolfmenTransport.questNameRules.rulesStrings>
+    <li>questName->[shipNoun] [shipAdjective]</li>
+    <li>shipAdjective->des hommes-loups</li>
+    <li>shipAdjective->loup</li>
+    <li>shipAdjective->lycan</li>
+    <li>shipAdjective->loup-garou</li>
+    <li>shipAdjective->nocturne</li>
+    <li>shipAdjective->hurlant</li>
+    <li>shipAdjective->à fourrure</li>
+    <li>shipAdjective->canine</li>
+    <li>shipNoun->navire</li>
+    <li>shipNoun->navette</li>
+    <li>shipNoun->aero-craft</li>
+    <li>shipNoun->hulk</li>
+    <li>shipNoun->crash</li>
+    <li>shipNoun->épave</li>
+</VRE_WolfmenTransport.questNameRules.rulesStrings>
+
+
+</LanguageData>

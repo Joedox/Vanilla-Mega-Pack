@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: VFE - Insectoids 2 -->
+<VFEI_ModNameForSettings>VFE - Insectoids 2 </VFEI_ModNameForSettings>
+
+
+<!-- EN: Infested area -->
+<VFEI_InsectTerritoryScale>Zone infestée</VFEI_InsectTerritoryScale>
+<!-- EN: Infestation -->
+<VFEI_Infestation>Infestation</VFEI_Infestation>
+<!-- EN: Whether this tile is under the effects of an insectoid infestation.\n\nAreas around insectoid hives are often teeming with insects, with various insect-built structures affecting the environment. Infestations are much more likely to occur, and travelling parties may find roaming insectoids. -->
+<VFEI_InfestationTooltip>Indique si cette tuile est sous l'effet d'une infestation d'insectoïdes.\n\nLes zones entourant les ruches d'insectoïdes sont souvent grouillantes d'insectes, avec diverses structures construites par les insectes qui affectent l'environnement. Les infestations sont beaucoup plus fréquentes, et les voyageurs peuvent tomber sur des insectoïdes errants.</VFEI_InfestationTooltip>
+<!-- EN: Present -->
+<VFEI_Present>Présente</VFEI_Present>
+<!-- EN: This tile is near an insectoid hive, so there will be an ever-present insectoid influence on it. Infestations will happen every {0} days. Large infestations are much more likely to happen, and may occur anywhere, not just in dark areas. Megaspiders, spelopedes and megascarabs are roaming free, and travelling caravans may have to fend off insectoid swarms. -->
+<VFEI_SettleWarning>Cette tuile est proche d'une ruche d'insectoïdes, il y aura donc une influence insectoïde omniprésente sur celle-ci. Les infestations se produisent tous les {0} jours. Les grandes infestations sont plus probables et peuvent se produire n'importe où, pas seulement dans les zones sombres. Les mégaraignées, les spélopèdes et les mégascarabées sont en liberté, et les caravanes peuvent devoir repousser des essaims d'insectoïdes.</VFEI_SettleWarning>
+
+<!-- EN: {0} before next swarmling spawn. -->
+<VFEI_LarvaeTimeSpawn>{0} avant la prochaine apparition de larvelings.</VFEI_LarvaeTimeSpawn>
+<!-- EN: Queen is resting. -->
+<VFEI_NoMoreSpawningAllowed>La reine se repose.</VFEI_NoMoreSpawningAllowed>
+
+<!-- EN: Royal insect jelly fullness: -->
+<VFEI2_RoyalInsectJelly>Poche de gelée royale pleine </VFEI2_RoyalInsectJelly>
+<!-- EN: Chemfuel fullness: -->
+<VFEI2_Chemfuel>Poche de chemfuel pleine </VFEI2_Chemfuel>
+<!-- EN: Shedding chitin in: -->
+<VFEI2_Chitin>Mue de chitine dans </VFEI2_Chitin>
+<!-- EN: {0} before insect spawn. -->
+<VFEI_CocoonInsectSpawnIn>{0} avant l'éclosion.</VFEI_CocoonInsectSpawnIn>
+<!-- EN: {0} to create cocoon -->
+<VFEI_CreatingCocoon>{0} avant sa mutation en cocon.</VFEI_CreatingCocoon>
+<!-- EN: Cannot be placed close to other creeper. -->
+<VFEI_CannotPlaceCloseToOtherCreeper>Ne peut pas être placé dans une zone d’effet d’une autre muqueuse.</VFEI_CannotPlaceCloseToOtherCreeper>
+<!-- EN: Cannot be placed close to other jelly farm. -->
+<VFEI_CannotPlaceCloseToOtherJellyFarm>Ne peut pas être placé à proximité d'un autre bassin de gelée.</VFEI_CannotPlaceCloseToOtherJellyFarm>
+<!-- EN: Insectoids -->
+<VFEI_Insectoids>Insectoïdes</VFEI_Insectoids>
+<!-- EN: Choose insectoid {0} color -->
+<VFEI_ChooseInsectoidColor>Choisir la couleur : {0}</VFEI_ChooseInsectoidColor>
+<!-- EN: Defender insectoids vigilantly protect their hive by attacking any hostile entities that come within a designated radius. -->
+<VFEI_DefenderDesc>Les défenseurs insectoïdes protègent leur ruche en attaquant toutes les entités hostiles qui se trouvent dans un rayon déterminé.</VFEI_DefenderDesc>
+<!-- EN: Hunter insectoids proactively search for and hunt wildlife near their hive, bringing back and storing kills for communal consumption. -->
+<VFEI_HunterDesc>Les chasseurs insectoïdes recherchent et chassent de manière proactive les animaux sauvages à proximité de leur ruche, ramenant et stockant les animaux tués pour une consommation collective.</VFEI_HunterDesc>
+<!-- EN: Worker insectoids are tasked with constructing and maintaining insectoid-specific structures, as well as performing essential hauling and mining duties. -->
+<VFEI_WorkerDesc>Les ouvriers insectoïdes sont chargés de construire et d'entretenir les structures spécifiques aux insectoïdes, ainsi que d'effectuer des tâches essentielles de transport et d'exploitation minière.</VFEI_WorkerDesc>
+<!-- EN: {0} will be spawned in: {1} -->
+<VFEI_InsectoidWillBeSpawnedIn>{0} apparaîtra dans : {1}</VFEI_InsectoidWillBeSpawnedIn>
+<!-- EN: Spawning stopped: maximum amount reached. -->
+<VFEI_SpawningStoppedMaxCapacity>Ponte arrêtée : quantité maximale atteinte.</VFEI_SpawningStoppedMaxCapacity>
+<!-- EN: already activated -->
+<VFEI_AlreadyActivated>déjà activé</VFEI_AlreadyActivated>
+<!-- EN: will be available in {0} -->
+<VFEI_OnCooldown>disponible dans {0}</VFEI_OnCooldown>
+<!-- EN: other thumper is active -->
+<VFEI_OtherThumperIsActive>un autre marteleur est actif</VFEI_OtherThumperIsActive>
+<!-- EN: {0} can only be used on an {1}. -->
+<VFEI_PherocoreCanBeUsedOnHive>Un {0} ne peut être utilisé que sur un {1}.</VFEI_PherocoreCanBeUsedOnHive>
+<!-- EN: Cannot upgrade: reached maximum size of the {0}. -->
+<VFEI_HiveCannotBeUpgradedMore>Impossible à améliorer : la taille maximale de la {0} a été atteinte.</VFEI_HiveCannotBeUpgradedMore>
+<!-- EN: Quest failed: {0} -->
+<VFEI_InfestationHasSpread>Quête échouée : {0}</VFEI_InfestationHasSpread>
+<!-- EN: The insectoid hive has spread. The quest {0} has ended. -->
+<VFEI_InfestationHasSpreadDesc>La ruche insectoïde s'est propagée. La quête {0} est terminée.</VFEI_InfestationHasSpreadDesc>
+<!-- EN: Activating the {0} will summon the following hostile insects:\n\n{PAWNS}\n\nAre you ready to fight? -->
+<VFEI_InsectSummonWarning>L'activation du {0} permet d'invoquer les insectes hostiles suivants :\n\n{PAWNS}\n\nÊtes-vous prêts à vous battre ?</VFEI_InsectSummonWarning>
+<!-- EN: {0} summoned -->
+<VFEI_LetterLabelInsectWaveSummoned>{0} invoqué</VFEI_LetterLabelInsectWaveSummoned>
+<!-- EN: Attracted by your thumper vibrations, an insectoid leader from {0} will emerge from the ground soon. Be prepared. -->
+<VFEI_LetterInsectWaveSummoned>Attiré par vos vibrations, un monstrueux insectoïde des {0} va bientôt émerger du sol. Préparez-vous.</VFEI_LetterInsectWaveSummoned>
+<!-- EN: {0} arrived -->
+<VFEI_LetterLabelInsectWaveArrived>{0} est arrivé</VFEI_LetterLabelInsectWaveArrived>
+<!-- EN: An insectoid leader from {0} has come to eradicate you, along with escorts.\n\nThe assault group is composed of the following insects:\n\n{1} -->
+<VFEI_LetterInsectWaveArrived>Un monstrueux insectoïde des {0} est venu vous éradiquer, accompagné de son escorte.\n\nLe groupe d'assaut est composé des insectes suivants :\n\n{1}</VFEI_LetterInsectWaveArrived>
+<!-- EN: {0} incoming -->
+<VFEI_AlertInsectWaveIncoming>{0} en approche</VFEI_AlertInsectWaveIncoming>
+<!-- EN: Alerted by your thumper, a hostile {0} with an army of insectoids are digging their way towards the surface. They will arrive in a few hours. -->
+<VFEI_AlertInsectWaveIncomingDesc>Alerté par votre marteleur, un(e) {0} hostile avec une armée d'insectoïdes creuse un chemin vers la surface. Ils arriveront dans quelques heures.</VFEI_AlertInsectWaveIncomingDesc>
+<!-- EN: Hive area -->
+<VFEI_HiveArea>Zone de ruche</VFEI_HiveArea>
+<!-- EN: Clear hive area -->
+<VFEI_HiveAreaClear>Retirer la zone de ruche</VFEI_HiveAreaClear>
+<!-- EN: Removes a hive area. Your insectoids will no longer work, look for prey and attack hostile targets here. -->
+<VFEI_HiveAreaClearDesc>Supprime une zone de ruche. Vos insectoïdes ne travailleront plus, ne chercheront plus de proies et n'attaqueront plus les cibles hostiles ici.</VFEI_HiveAreaClearDesc>
+<!-- EN: Hive area -->
+<VFEI_HiveAreaExpand>Zone de ruche</VFEI_HiveAreaExpand>
+<!-- EN: Create a hive area where your insectoid hives will work, look for prey and attack hostile targets. Your insectoids will not leave the hive area. -->
+<VFEI_HiveAreaExpandDesc>Crée une zone de ruche où vos insectoïdes travailleront, chercheront des proies et attaqueront les cibles hostiles. Vos insectoïdes ne quitteront pas la zone de ruche.</VFEI_HiveAreaExpandDesc>
+<!-- EN: Constructing artificial hives in close proximity to each other will increase their maintenance need. -->
+<VFEI_HiveCloseProximityWarning>La construction de ruches artificielles à proximité les unes des autres augmentera leur besoin de maintenance.</VFEI_HiveCloseProximityWarning>
+<!-- EN: Maintenance loss speed: {0} -->
+<VFEI_MaintenanceLossSpeed>Vitesse de détérioration : {0}</VFEI_MaintenanceLossSpeed>
+<!-- EN: Nearby artificial hive distance penalty -->
+<VFEI_MinHiveStabilityDistance>Pénalité de proximité de la ruche artificielle </VFEI_MinHiveStabilityDistance>
+<!-- EN: Stability Hive maintenance penalty -->
+<VFEI_StabilityHiveMaintenancePenalty>Pénalité de maintenance due à la proximité </VFEI_StabilityHiveMaintenancePenalty>
+<!-- EN: Caster is in a roofed area. -->
+<VFEI_CannotUseRoofed>Le lanceur se situe sous une zone couverte.</VFEI_CannotUseRoofed>
+<!-- EN: Jelly farm production amount -->
+<VFEI_JellyFarmProductionAmount>Quantité de production du bassin de gelée </VFEI_JellyFarmProductionAmount>
+<!-- EN: Creeper spawn speed -->
+<VFEI_CreeperSpawnSpeed>Vitesse d'apparition du mucus </VFEI_CreeperSpawnSpeed>
+<!-- EN: Tendril farm spawn speed -->
+<VFEI_TendrilmossSpawnSpeed>Vitesse d'apparition des vrilles de mousse </VFEI_TendrilmossSpawnSpeed>
+<!-- EN: Base artificial hive insect count -->
+<VFEI_BaseArtificalInsectCount>Nombre d'insecte d'une ruche artificielle </VFEI_BaseArtificalInsectCount>
+<!-- EN: Time until thorns regrow: {0} -->
+<VFEI_TimeUntilThornsRegrow>Renouvellement des épines : {0}</VFEI_TimeUntilThornsRegrow>
+<!-- EN: Maintained by hivenode -->
+<VFEI_MaintainedByHivenode>Maintenu par un nœud de ruche.</VFEI_MaintainedByHivenode>
+<!-- EN: Due for maintenance in {0} -->
+<VFEI_NeedsToBeMaintainedIn>Maintenance prévue dans {0}.</VFEI_NeedsToBeMaintainedIn>
+<!-- EN: Due for maintenance. {0} until it starts deteriorating. -->
+<VFEI_DueForMaintenance>Maintenance nécessaire, {0} avant détérioration.</VFEI_DueForMaintenance>
+
+
+
+<!-- EN: Cannot be placed close to other artificial basic hive -->
+<VFEI_CannotPlaceCloseToOtherBasicHive>Ne peut être placée à proximité d'une autre ruche artificielle.</VFEI_CannotPlaceCloseToOtherBasicHive>
+<!-- EN: Next insectoid burrowing in: {0} -->
+<VFEI_NextInsectBurrowing>Prochaine émergence d'insectoïdes : {0}</VFEI_NextInsectBurrowing>
+<!-- EN: {0} insectoid waves out of {1} -->
+<VFEI_BurrowWaves>{0} vague{0_multiple ? s : } insectoïde{0_multiple ? s : } sur {1}</VFEI_BurrowWaves>
+<!-- EN: Insectoid burrow has become unstable and collapsed. -->
+<VFEI_BurrowCollapsed>Le terrier insectoïde est devenu instable et s'est effondré.</VFEI_BurrowCollapsed>
+<!-- EN: This Patriarch is under player control and therefore has no connection to a wild hive -->
+<VFEI_NotForPlayers>Ce patriarche est sous le contrôle du joueur et n'a donc aucun lien avec une ruche sauvage.</VFEI_NotForPlayers>
+<!-- EN: Base time between Han Horde-mode waves -->
+<VFEI_BaseTimeBetweenHanHordeWaves>Temps entre les vagues de Han Horde </VFEI_BaseTimeBetweenHanHordeWaves>
+<!-- EN: {0} has been unlocked for completing the wave. -->
+<VFEI_ResearchUnlockedForCompletingWave>{0} a été débloqué pour avoir terminé la vague.</VFEI_ResearchUnlockedForCompletingWave>
+<!-- EN: Cargo pods have been sent for completing the wave. -->
+<VFEI_CargoPodsSentForCompletingWave>Des capsules de transport ont été envoyées pour compléter la vague.</VFEI_CargoPodsSentForCompletingWave>
+<!-- EN: Activity: {0}.
+Wave size multiplier: {1}.
+Time before the wave: {2}.
+Chosen geneline: {3}. -->
+<VFEI_WaveActivityOverlay>Activité : {0}
+Multiplicateur de taille de vague : {1}
+Temps avant la vague : {2}
+Lignée choisie : {3}</VFEI_WaveActivityOverlay>
+<!-- EN: Enemies coming: -->
+<VFEI_EnemiesComing>Ennemis en approche :</VFEI_EnemiesComing>
+<!-- EN: {0_label} needs {1} underneath. -->
+<VFEI_RequiresFloor>{0_label} a besoin de {1} en dessous de lui.</VFEI_RequiresFloor>
+
+
+</LanguageData>

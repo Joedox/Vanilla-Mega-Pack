@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: 隐形 -->
+<Invisibility.label>invisible</Invisibility.label>
+<!-- EN: 处于隐形立场中。 -->
+<Invisibility.description>L'unité est invisible grâce au psysort champ de camouflage.</Invisibility.description>
+
+<!-- EN: 爆炸范围内 -->
+<PTA_ExplosionRange.label>dans la zone d'explosion</PTA_ExplosionRange.label>
+<!-- EN: 单位处于净化新星的爆炸范围内，请尽快远离。 -->
+<PTA_ExplosionRange.description>L'unité se trouve dans la zone d'explosion de nova purificatrice. Éloignez-vous rapidement.</PTA_ExplosionRange.description>
+
+<!-- EN: 免疫地形减速 -->
+<PTA_ImmuneTerrainSpeedReduction.label>aérien</PTA_ImmuneTerrainSpeedReduction.label>
+<!-- EN: 该单位不会受到地形减速影响。 -->
+<PTA_ImmuneTerrainSpeedReduction.description>L'unité n'est pas affectée par la pénalité de mouvement du terrain.</PTA_ImmuneTerrainSpeedReduction.description>
+
+<!-- EN: Psionic Blades -->
+<PTA_PsiBlades.label>lames psioniques</PTA_PsiBlades.label>
+<!-- EN: Characters can use psionic blades in combat. -->
+<PTA_PsiBlades.description>Ce psylanceur utilise des lames psioniques en combat au corps à corps.</PTA_PsiBlades.description>
+<!-- EN: PsionicBlades edge -->
+<PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.0.label>tranchant</PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.0.label>
+<!-- EN: PsionicBlades point -->
+<PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.1.label>pointe</PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.1.label>
+
+<!-- EN: 刚毅护盾 -->
+<PTA_Psy_HardenedShield.label>bouclier renforcé</PTA_Psy_HardenedShield.label>
+<!-- EN: 刚毅护盾可以大幅吸收即将到来的伤害。 -->
+<PTA_Psy_HardenedShield.description>Le bouclier renforcé est capable d'absorber une grande partie des dégâts.</PTA_Psy_HardenedShield.description>
+
+<!-- EN: 灵能护盾 -->
+<PTA_Psy_Shield.label>bouclier psionique</PTA_Psy_Shield.label>
+<!-- EN: 灵能护盾可以吸收即将到来的伤害。 -->
+<PTA_Psy_Shield.description>Le bouclier psionique est capable d'absorber les dégâts reçus.</PTA_Psy_Shield.description>
+
+<!-- EN: 隐形立场 -->
+<PTA_PsychicInvisibility.label>champ de camouflage</PTA_PsychicInvisibility.label>
+<!-- EN: 隐身立场可以令周围的友军隐形。 -->
+<PTA_PsychicInvisibility.description>Le champ de camouflage rend invisible les alliés alentours.</PTA_PsychicInvisibility.description>
+
+<!-- EN: 爆炸范围 -->
+<PTA_PurificationNova_Hediff.label>zone d'explosion</PTA_PurificationNova_Hediff.label>
+<!-- EN: 实时指示净化新星的爆炸范围，小心误伤。 -->
+<PTA_PurificationNova_Hediff.description>Indication en temps réel de la zone d'explosion de nova purificatrice. Attention aux blessures involontaires.</PTA_PurificationNova_Hediff.description>
+
+<!-- EN: 时空扭曲 -->
+<PTA_TimeWarp.label>distorsion temporelle</PTA_TimeWarp.label>
+<!-- EN: 该区域内操作能力和移动速度都将减少。 -->
+<PTA_TimeWarp.description>Les unités situées dans cette zone verront leurs capacités de mouvement et de manipulation réduites.</PTA_TimeWarp.description>
+
+<!-- EN: 动能震荡 -->
+<ResonanceCoil.label>oscillation cinétique</ResonanceCoil.label>
+<!-- EN: 残留的强大能量在持续造成伤害。 -->
+<ResonanceCoil.description>La puissante énergie résiduelle continue de faire des dégâts.</ResonanceCoil.description>
+<!-- EN: shredded scar -->
+<ResonanceCoil.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de déchirure</ResonanceCoil.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- EN: Torn off -->
+<ResonanceCoil.injuryProps.destroyedLabel>Déchiré(e)</ResonanceCoil.injuryProps.destroyedLabel>
+<!-- EN: Torn out -->
+<ResonanceCoil.injuryProps.destroyedOutLabel>Arraché(e)</ResonanceCoil.injuryProps.destroyedOutLabel>
+<!-- EN: 持续的动能震荡 -->
+<ResonanceCoil.labelNoun>une oscillation cinétique</ResonanceCoil.labelNoun>
+<!-- EN: {0} in the {1} -->
+<ResonanceCoil.labelNounPretty>une {0} au/à la {1}</ResonanceCoil.labelNounPretty>
+
+
+</LanguageData>

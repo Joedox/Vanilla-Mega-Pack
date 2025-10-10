@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VREH_Dutiful.label>obéissant</VREH_Dutiful.label>
+<VREH_Dutiful.description>Les porteurs de ce gène ont un sens du devoir considérablement accru et ne craqueront jamais lorsqu'ils seront mobilisés.</VREH_Dutiful.description>
+<VREH_Dutiful.symbolPack.prefixSymbols.0.symbol>obéissant</VREH_Dutiful.symbolPack.prefixSymbols.0.symbol>
+<VREH_Dutiful.symbolPack.prefixSymbols.1.symbol>loyal</VREH_Dutiful.symbolPack.prefixSymbols.1.symbol>
+<VREH_Dutiful.symbolPack.prefixSymbols.2.symbol>consciencieux</VREH_Dutiful.symbolPack.prefixSymbols.2.symbol>
+<VREH_Dutiful.symbolPack.prefixSymbols.3.symbol>inébranlable</VREH_Dutiful.symbolPack.prefixSymbols.3.symbol>
+<VREH_Dutiful.symbolPack.prefixSymbols.4.symbol>stable</VREH_Dutiful.symbolPack.prefixSymbols.4.symbol>
+<VREH_Dutiful.symbolPack.prefixSymbols.5.symbol>formé</VREH_Dutiful.symbolPack.prefixSymbols.5.symbol>
+
+<VREH_BulletproofSkin.label>peau pare-balles</VREH_BulletproofSkin.label>
+<VREH_BulletproofSkin.description>Les porteurs de ce gène voient leur peau renforcée par des fils organiques ressemblant à du kevlar, ce qui leur permet de dévier des balles de petit calibre et de ne souffrir que de contusions.</VREH_BulletproofSkin.description>
+<VREH_BulletproofSkin.symbolPack.prefixSymbols.0.symbol>kevlar</VREH_BulletproofSkin.symbolPack.prefixSymbols.0.symbol>
+<VREH_BulletproofSkin.symbolPack.suffixSymbols.0.symbol>résistant</VREH_BulletproofSkin.symbolPack.suffixSymbols.0.symbol>
+<VREH_BulletproofSkin.symbolPack.wholeNameSymbols.0.symbol>pare-balles</VREH_BulletproofSkin.symbolPack.wholeNameSymbols.0.symbol>
+
+<VREH_Giant.label>géant</VREH_Giant.label>
+<VREH_Giant.description>Les porteurs de ce gène sont légèrement plus grands que les humains de base.</VREH_Giant.description>
+
+<VREH_Toughness.label>robustesse</VREH_Toughness.label>
+<VREH_Toughness.description>Les porteurs de ce gène ont une peau épaisse, une chair dense et des os résistants, et ils subissent beaucoup moins de dégâts que les autres personnes ayant reçu les mêmes coups.</VREH_Toughness.description>
+<VREH_Toughness.symbolPack.prefixSymbols.0.symbol>dur</VREH_Toughness.symbolPack.prefixSymbols.0.symbol>
+<VREH_Toughness.symbolPack.prefixSymbols.1.symbol>coriace</VREH_Toughness.symbolPack.prefixSymbols.1.symbol>
+<VREH_Toughness.symbolPack.prefixSymbols.2.symbol>fort</VREH_Toughness.symbolPack.prefixSymbols.2.symbol>
+<VREH_Toughness.symbolPack.prefixSymbols.3.symbol>solide</VREH_Toughness.symbolPack.prefixSymbols.3.symbol>
+
+<VREH_Arrogant.label>arrogant</VREH_Arrogant.label>
+<VREH_Arrogant.description>Les porteurs de ce gène n'ont pas de filtre et disent toujours ce qu'ils pensent, même si cela froisse les autres.</VREH_Arrogant.description>
+<VREH_Arrogant.symbolPack.prefixSymbols.0.symbol>impoli</VREH_Arrogant.symbolPack.prefixSymbols.0.symbol>
+<VREH_Arrogant.symbolPack.prefixSymbols.1.symbol>mauvais</VREH_Arrogant.symbolPack.prefixSymbols.1.symbol>
+<VREH_Arrogant.symbolPack.prefixSymbols.2.symbol>méchant</VREH_Arrogant.symbolPack.prefixSymbols.2.symbol>
+<VREH_Arrogant.symbolPack.wholeNameSymbols.0.symbol>arrogant</VREH_Arrogant.symbolPack.wholeNameSymbols.0.symbol>
+
+<VREH_Unconstrained.label>sans contrainte</VREH_Unconstrained.label>
+<VREH_Unconstrained.description>Les porteurs de ce gène ne subissent pas les pénalités de vitesse de déplacement causées par le port de vêtements qui les ralentiraient normalement.</VREH_Unconstrained.description>
+
+<VREH_ChemicalDependency_Luciferium.label>dépendance</VREH_ChemicalDependency_Luciferium.label>
+<VREH_ChemicalDependency_Luciferium.description>Les porteurs de ce gène on besoin d'une consommation régulièrement de luciferium pour survivre. Après 10 jours sans luciferium, les porteurs souffriront d'un manque en luciferium. Après 20 jours, ils tomberont dans le coma. Après 30 jours, ils mourront.</VREH_ChemicalDependency_Luciferium.description>
+<VREH_ChemicalDependency_Luciferium.labelShortAdj>luciferium-dépendant</VREH_ChemicalDependency_Luciferium.labelShortAdj>
+<VREH_ChemicalDependency_Luciferium.symbolPack.prefixSymbols.0.symbol>luci</VREH_ChemicalDependency_Luciferium.symbolPack.prefixSymbols.0.symbol>
+<VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>férium</VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>
+<VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.1.symbol>diable</VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.1.symbol>
+
+<VREH_Glidewings.label>planeur</VREH_Glidewings.label>
+<VREH_Glidewings.description>Les porteurs de ce gène font pousser une petite paire d'ailes à partir de leurs omoplates. Ils ne sont pas capables de voler, mais ils ne sont pas ralentis par les obstacles.</VREH_Glidewings.description>
+
+
+</LanguageData>

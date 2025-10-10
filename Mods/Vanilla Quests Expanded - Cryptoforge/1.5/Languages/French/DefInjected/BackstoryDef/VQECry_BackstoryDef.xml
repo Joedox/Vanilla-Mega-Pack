@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Born beneath the towering chimneys of the Grand Forge, [PAWN_nameDef] grew up with fire and steel as [PAWN_possessive] only companions. While others played, [PAWN_pronoun] watched the master smiths shape metal into weapons of legend. By the time [PAWN_pronoun] could walk, [PAWN_pronoun] had learned the weight of a hammer. By the time [PAWN_pronoun] could read, [PAWN_pronoun] had memorized the blueprints of masterwork armor. Elders whispered that [PAWN_nameDef] was destined to craft wonders beyond imagination, a future shaped by the ringing of steel on anvil. -->
+<VQE_ChildhoodLegendaryBlacksmith.description>Né{PAWN_gender ? : e } sous les imposantes cheminées de la Grand Forge, {PAWN_nameDef} a grandi avec le feu et l'acier pour seuls compagnons. Pendant que les autres jouaient, {PAWN_pronoun} regardait les maîtres forgerons façonner le métal pour en faire des armes de légende. Lorsqu'{PAWN_pronoun} a su marcher, {PAWN_pronoun} a appris le poids d'un marteau. Lorsqu'{PAWN_pronoun} sut lire, {PAWN_pronoun} avait mémorisé les plans d'une armure de maître. Les anciens murmuraient que {PAWN_nameDef} était destiné{PAWN_gender ? : e } à fabriquer des merveilles dépassant l'imagination, un avenir façonné par le tintement de l'acier sur l'enclume.</VQE_ChildhoodLegendaryBlacksmith.description>
+<!-- EN: child of the forge -->
+<VQE_ChildhoodLegendaryBlacksmith.title>enfant de la forge</VQE_ChildhoodLegendaryBlacksmith.title>
+<!-- EN: forgeborn -->
+<VQE_ChildhoodLegendaryBlacksmith.titleShort>forge né</VQE_ChildhoodLegendaryBlacksmith.titleShort>
+<VQE_ChildhoodLegendaryBlacksmith.titleShortFemale>forge née</VQE_ChildhoodLegendaryBlacksmith.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was the last of [PAWN_possessive] kind, the final master of an art lost to time. In a world where steel had become obsolete, [PAWN_pronoun] forged weapons that could cut through plasteel and armor that could withstand railgun fire. Every strike of [PAWN_possessive] hammer wrote history in tempered alloys, cryptofused plating, and weapons that defied physics itself. But when [PAWN_possessive] ship fell, the forges cooled and the secrets of the craft faded into legend. Now, wandering among the ruins of [PAWN_possessive] past, [PAWN_pronoun] carries the weight of a lost age, the guilt of being the last one. -->
+<VQE_LegendaryBlacksmithAdulthood.description>{PAWN_nameDef} était l{PAWN_gender ? e : a } derni{PAWN_gender ? er : ère } de son espèce, le dernier maître d'un art perdu dans le temps. Dans un monde où l'acier est devenu obsolète, {PAWN_pronoun} a forgé des armes capables de couper le plastacier et des armures capables de résister aux tirs de railgun. Chaque coup de marteau écrivait l'histoire dans des alliages trempés, des revêtements crypto-fondus et des armes qui défiaient la physique elle-même. Mais lorsque son vaisseau s'est écrasé, les forges se sont refroidies et les secrets du vaisseau sont entrés dans la légende. Aujourd'hui, errant{PAWN_gender ? : e } parmi les ruines de son passé, {PAWN_pronoun} porte le poids d'une époque perdue, la culpabilité d'être l{PAWN_gender ? e : a } derni{PAWN_gender ? er : ère }.</VQE_LegendaryBlacksmithAdulthood.description>
+<!-- EN: legendary blacksmith -->
+<VQE_LegendaryBlacksmithAdulthood.title>forgeron légendaire</VQE_LegendaryBlacksmithAdulthood.title>
+<VQE_LegendaryBlacksmithAdulthood.titleFemale>forgeronne légendaire</VQE_LegendaryBlacksmithAdulthood.titleFemale>
+<!-- EN: legendary smith -->
+<VQE_LegendaryBlacksmithAdulthood.titleShort>forgeron légendaire</VQE_LegendaryBlacksmithAdulthood.titleShort>
+<VQE_LegendaryBlacksmithAdulthood.titleShortFemale>forgeronne légendaire</VQE_LegendaryBlacksmithAdulthood.titleShortFemale>
+
+
+</LanguageData>

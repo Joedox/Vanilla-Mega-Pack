@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SmallFish>Petit poisson</SmallFish>
+<MediumFish>Moyen poisson</MediumFish>
+<LargeFish>Gros poisson</LargeFish>
+<GizmoDescriptionSmall>Faites en sorte que le pêcheur attrape des petits poissons.</GizmoDescriptionSmall>
+<GizmoDescriptionMedium>Faites en sorte que le pêcheur attrape des moyens poissons.</GizmoDescriptionMedium>
+<GizmoDescriptionLarge>Faites en sorte que le pêcheur attrape des gros poissons.</GizmoDescriptionLarge>
+<VFE_FishTrapperGizmoLabelSmall>Petit poisson</VFE_FishTrapperGizmoLabelSmall>
+<VFE_FishTrapperGizmoLabelMedium>Moyen poisson</VFE_FishTrapperGizmoLabelMedium>
+<VFE_FishTrapperGizmoLabelLarge>Gros poisson</VFE_FishTrapperGizmoLabelLarge>
+<VFEM.PropagandaMode>Mode : {0}</VFEM.PropagandaMode>
+<VFEM.RelaxingMusic>Musique relaxante</VFEM.RelaxingMusic>
+<VFEM.InspirationalMusic>Musique inspirante</VFEM.InspirationalMusic>
+<VFEM.IdeoPropaganda>Propagande d'idéologie</VFEM.IdeoPropaganda>
+<VFEM.Recruitment>Recruter les prisonniers</VFEM.Recruitment>
+
+<VFEM.RelaxingMusicDesc>Jouer de la musique relaxante qui rendra tous ceux qui l'entendront un peu plus heureux.</VFEM.RelaxingMusicDesc>
+<VFEM.InspirationalMusicDesc>Jouer de la musique inspirante, pour motiver les colons à travailler plus dur.</VFEM.InspirationalMusicDesc>
+<VFEM.IdeoPropagandaDesc>Jouer de la musique de propagande, augmentant la certitude des colons.</VFEM.IdeoPropagandaDesc>
+<VFEM.RecruitmentDesc>Jouer de la musique qui est appréciée par les prisonniers, ce qui réduit leur résistance.</VFEM.RecruitmentDesc>
+<VFEM.SelectIdeology>Choisir l'idéologie</VFEM.SelectIdeology>
+<VFEM.SelectIdeologyDesc>Sélectionner l'idéologie sur laquelle l'auto-diffuseur doit accorder sa musique.</VFEM.SelectIdeologyDesc>
+<VFEM.CurrentIdeology>Idéologie actuelle : {0}</VFEM.CurrentIdeology>
+<VFEM.MustHaveAnotherIdeology>Doit croire en une autre idéologie</VFEM.MustHaveAnotherIdeology>
+<VFEM.CannotEnter>Impossible d'entrer : {0}</VFEM.CannotEnter>
+
+
+</LanguageData>

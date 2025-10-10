@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEM_Candle.label>bougie</VFEM_Candle.label>
+<VFEM_Candle.description>Une bougie primitive fabriquée à partir de viande et de graisse. Elle peut brûler longtemps, mais elle n'éclaire pas bien la zone.</VFEM_Candle.description>
+<VFEM_Candle.comps.CompRefuelable.fuelLabel>Combustible</VFEM_Candle.comps.CompRefuelable.fuelLabel>
+
+<VFEM_WallTorchLamp.label>torche murale</VFEM_WallTorchLamp.label>
+<VFEM_WallTorchLamp.description>Une torche murale en bois pour éclairer un endroit, car les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse. La torche murale peut-être automatiquement ravitaillée avec du bois. Elle produit un peu de chaleur.</VFEM_WallTorchLamp.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: dynamite belt -->
+<VWE_Apparel_DynamiteBelt.label>ceinture dynamite</VWE_Apparel_DynamiteBelt.label>
+<!-- EN: Makeshift explosive sticks of chemfuel strapped to a belt. They can be thrown a short distance, where they will explode after a random amount of time. Can be reloaded using dynamite. -->
+<VWE_Apparel_DynamiteBelt.description>Attachés à la ceinture, ces bâtonnets explosifs improvisés de chemfuel peuvent être lancés sur une courte distance et explosent après un laps de temps aléatoire.\n\nPeut-être rechargées avec une dynamite.</VWE_Apparel_DynamiteBelt.description>
+<!-- EN: dynamite -->
+<VWE_Apparel_DynamiteBelt.comps.CompApparelReloadable.chargeNoun>dynamite</VWE_Apparel_DynamiteBelt.comps.CompApparelReloadable.chargeNoun>
+<!-- EN: throw dynamite -->
+<VWE_Apparel_DynamiteBelt.verbs.throw_dynamite.label>lancer une dynamite</VWE_Apparel_DynamiteBelt.verbs.throw_dynamite.label>
+<!-- EN: on cooldown -->
+<VWE_Apparel_DynamiteBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</VWE_Apparel_DynamiteBelt.comps.CompApparelReloadable.cooldownGerund>
+
+
+</LanguageData>

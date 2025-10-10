@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] a remercié [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] a ri joyeusement avec [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] est devenu excité et a remercié [INITIATOR_nameDef] pour le compliment.</li>
+</VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+
+
+<VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] a ignoré le compliment.</li>
+    <li>sent->[RECIPIENT_nameDef] a ignoré le flirt.</li>
+    <li>sent->[RECIPIENT_nameDef] lui a tourné le dos.</li>
+    <li>sent->[RECIPIENT_nameDef] s'est détourné.</li>
+    <li>sent->[RECIPIENT_nameDef] a répondu de façon sommaire.</li>
+    <li>sent->[RECIPIENT_nameDef] n'a pas répondu.</li>
+    <li>sent->[RECIPIENT_nameDef] l'a réprimandé.</li>
+</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VFEArch_LogWall.label>mur en rondins</VFEArch_LogWall.label>
+<VFEArch_LogWall.description>Un mur en rondins de bois placés horizontalement, pour une sensation agréable et familiale. Capable de soutenir un plafond.</VFEArch_LogWall.description>
+
+<VFEArch_ChainlinkFence.label>clôture à mailles</VFEArch_ChainlinkFence.label>
+<VFEArch_ChainlinkFence.description>Clôture métallique composée de poteaux reliés par des mailles de chaîne utilisées pour la construction d’enclos pour certains types d’animaux. Certains types d’animaux peuvent franchir les clôtures. Les prédateurs ne chasseront pas les créatures de l’autres cote d’une clôture, mais peuvent toujours errer à l’intérieur.</VFEArch_ChainlinkFence.description>
+
+<VFEArch_PicketFence.label>palissade</VFEArch_PicketFence.label>
+<VFEArch_PicketFence.description>Une clôture constituée de poteaux reliés par des planches de bois verticales utilisées pour la construction d’enclos pour certains types d’animaux. Certains types d’animaux peuvent franchir les clôtures. Les prédateurs ne chasseront pas les créatures de l’autres cote d’une clôture, mais peuvent toujours errer à l’intérieur.\n\nLes palissades sont nettement plus belles que les autres et évoquent un sentiment de bien-être.</VFEArch_PicketFence.description>
+
+<VFEArch_BrickFence.label>clôture de briques</VFEArch_BrickFence.label>
+<VFEArch_BrickFence.description>Une clôture en briques composée de hauts piliers en briques utilisées pour la construction d’enclos pour certains types d’animaux. Certains types d’animaux peuvent franchir les clôtures. Les prédateurs ne chasseront pas les créatures de l’autres cote d’une clôture, mais peuvent toujours errer à l’intérieur.</VFEArch_BrickFence.description>
+
+<VFEArch_InvisibleFence.label>clôture invisible</VFEArch_InvisibleFence.label>
+<VFEArch_InvisibleFence.description>Une clôture invisible, pour les joueurs souhaitant créer leurs propres enclos sans clôture, ou pour faire en sorte que les rivières ou les arbres agissent comme des barrières de clôture. Elle n'a pas de coût de déplacement, ce qui ne ralentit pas les colons qui veulent la traverser.</VFEArch_InvisibleFence.description>
+
+<VFEArch_LowFence.label>clôture basse</VFEArch_LowFence.label>
+<VFEArch_LowFence.description>Une clôture constituée de poteaux reliés par des barres transversales utilisées pour la construction d’enclos pour certains types d’animaux. Certains types d’animaux peuvent franchir les clôtures. Les prédateurs ne chasseront pas les créatures de l’autres cote d’une clôture, mais peuvent toujours errer à l’intérieur.</VFEArch_LowFence.description>
+
+<VFEArch_HedgeWall.label>mur de haie</VFEArch_HedgeWall.label>
+<VFEArch_HedgeWall.description>Un mur infranchissable fait de fausse haie. Très inflammable.</VFEArch_HedgeWall.description>
+
+<VFEArch_CellWall.label>barreau de prison</VFEArch_CellWall.label>
+<VFEArch_CellWall.description>Un mur infranchissable constitué de barreaux de prison. Ne peut pas être attaqué par les prisonniers.</VFEArch_CellWall.description>
+
+<VFEArch_CellDoor.label>porte de prison</VFEArch_CellDoor.label>
+<VFEArch_CellDoor.description>Une porte à mouvement lent qui sépare deux pièces. Les portes de prison ne peuvent pas être attaquées par les prisonniers.</VFEArch_CellDoor.description>
+
+<VFEArch_ArmoredWall.label>mur blindé</VFEArch_ArmoredWall.label>
+<VFEArch_ArmoredWall.description>Un mur lourd et infranchissable avec de multiples couches de blindage. Pratiquement insensible aux explosifs et aux outils de destruction.</VFEArch_ArmoredWall.description>
+
+<VFEArch_ArmoredDoor.label>porte blindée</VFEArch_ArmoredDoor.label>
+<VFEArch_ArmoredDoor.description>Sépare les pièces. Doit être actionnée manuelement, ce qui ralentit les personnes. Les portes blindées sont pratiquement insensible aux explosifs et aux outils de destruction.</VFEArch_ArmoredDoor.description>
+
+<VFEArch_SingleDoor.label>porte simple</VFEArch_SingleDoor.label>
+<VFEArch_SingleDoor.description>Sépare les pièces. Doit être actionnée manuelement, ce qui ralentit les personnes. Le ralentissement ne dépend pas du type de matériau de la porte.</VFEArch_SingleDoor.description>
+
+<VFEArch_AnimalGate.label>barrière à animaux</VFEArch_AnimalGate.label>
+<VFEArch_AnimalGate.description>Une porte assez facile à ouvrir pour les animaux. Elle permet aux animaux de passer, mais n'isole pas la pièce. Les portes pour animaux sont souvent utilisées comme entrées d'étables dans les climats plus chauds.</VFEArch_AnimalGate.description>
+
+<VFEArch_FineWall.label>mur raffiné</VFEArch_FineWall.label>
+<VFEArch_FineWall.description>Un magnifique mur infranchissable. Capable de soutenir un plafond.</VFEArch_FineWall.description>
+
+
+</LanguageData>

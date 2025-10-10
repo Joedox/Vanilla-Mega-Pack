@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+<VBE.Book>Livre</VBE.Book>
+<VBE.ReadBook>Lire le livre</VBE.ReadBook>
+
+<VBE.CantReadSkillBookTooSimple>Ne peut le lire : Ce livre est inférieur à la compétence du lecteur.</VBE.CantReadSkillBookTooSimple>
+
+<VBE.ReadNewsPaper>Lire le journal</VBE.ReadNewsPaper>
+<VBE.NewspaperRelevantUntil>Pertinent jusqu'au : </VBE.NewspaperRelevantUntil>
+<VBE.CantReadNewsPaperExpired>Ne peut le lire : Ce journal est périmé.</VBE.CantReadNewsPaperExpired>
+
+<VBE.ReadBlueprint>Lire le plan</VBE.ReadBlueprint>
+<VBE.CantReadBlueprintAlreadyResearched>Ne peut le lire : Cette technologie est déjà connue.</VBE.CantReadBlueprintAlreadyResearched>
+<VBE.CantReadBlueprintTooAdvanced>Ne peut le lire : Cette technologie est trop avancée.</VBE.CantReadBlueprintTooAdvanced>
+<VBE.CantReadBlueprintUsed>Ne peut le lire : Ce plan a déjà été utilisé.</VBE.CantReadBlueprintUsed>
+
+<VBE.ReadMap>Lire la carte</VBE.ReadMap>
+<VBE.CantReadMapUsed>Ne peut le lire : Cette carte a déjà été utilisée</VBE.CantReadMapUsed>
+<VBE.LocationsOpened>Nouveau site trouvé</VBE.LocationsOpened>
+<VBE.LocationsOpenedDesc>La lecture de la carte a débloqué un nouvel emplacement.</VBE.LocationsOpenedDesc>
+	
+</LanguageData>

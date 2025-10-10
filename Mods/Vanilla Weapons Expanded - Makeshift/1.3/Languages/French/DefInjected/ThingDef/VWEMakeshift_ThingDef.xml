@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_Gun_MakeshiftPistol.label>pistolet improvisé</VWE_Gun_MakeshiftPistol.label>
+<VWE_Gun_MakeshiftPistol.description>Un pistolet à chargement automatique improvisé, rudimentaire, de conception ancienne, fonctionnant avec un système de rétro-soufflage. Il manque de puissance d'arrêt et de portée et a tendance à s'enrayer.</VWE_Gun_MakeshiftPistol.description>
+<VWE_Gun_MakeshiftPistol.tools.grip.label>poignée</VWE_Gun_MakeshiftPistol.tools.grip.label>
+<VWE_Gun_MakeshiftPistol.tools.barrel.label>canon</VWE_Gun_MakeshiftPistol.tools.barrel.label>
+<VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>pistolet improvisé</VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>
+<VWE_Bullet_MakeshiftPistol.label>balle de pistolet improvisé</VWE_Bullet_MakeshiftPistol.label>
+
+<VWE_Gun_MakeshiftSMG.label>pistolet-mitrailleur improvisé</VWE_Gun_MakeshiftSMG.label>
+<VWE_Gun_MakeshiftSMG.description>Un petit pistolet-mitrailleur de fabrication artisanale. Il a une faible portée et a tendance à s'enrayer en raison de sa conception grossière et de ses éléments défectueux. Sa cadence de tir compense cette faiblesse.</VWE_Gun_MakeshiftSMG.description>
+<VWE_Gun_MakeshiftSMG.tools.grip.label>poignée</VWE_Gun_MakeshiftSMG.tools.grip.label>
+<VWE_Gun_MakeshiftSMG.tools.barrel.label>canon</VWE_Gun_MakeshiftSMG.tools.barrel.label>
+<VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>pistolet-mitrailleur improvisé</VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>
+<VWE_Bullet_MakeshiftSMG.label>balle de pistolet-mitrailleur improvisé</VWE_Bullet_MakeshiftSMG.label>
+
+<VWE_Gun_MakeshiftRifle.label>fusil improvisé</VWE_Gun_MakeshiftRifle.label>
+<VWE_Gun_MakeshiftRifle.description>Un fusil d'assaut improvisé à usage général fonctionnant au gaz, utilisant divers composants récupérés montés sur un récepteur de fusil de milice. Il a une bonne portée, une puissance décente et une bonne précision, mais il a tendance à s'enrayer.</VWE_Gun_MakeshiftRifle.description>
+<VWE_Gun_MakeshiftRifle.tools.stock.label>crosse</VWE_Gun_MakeshiftRifle.tools.stock.label>
+<VWE_Gun_MakeshiftRifle.tools.barrel.label>canon</VWE_Gun_MakeshiftRifle.tools.barrel.label>
+<VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>fusil improvisé</VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>
+<VWE_Bullet_MakeshiftRifle.label>balle de fusil improvisé</VWE_Bullet_MakeshiftRifle.label>
+
+<VWE_Gun_MakeshiftShotgun.label>fusil à pompe improvisé</VWE_Gun_MakeshiftShotgun.label>
+<VWE_Gun_MakeshiftShotgun.description>Un fusil à pompe puissant de conception improvisée qui émet un large barrage de plombs. Mortel, mais à courte portée. En raison de nombreux défauts de conception, la quantité de plombs tirés varie d'un coup à l'autre.</VWE_Gun_MakeshiftShotgun.description>
+<VWE_Gun_MakeshiftShotgun.tools.stock.label>crosse</VWE_Gun_MakeshiftShotgun.tools.stock.label>
+<VWE_Gun_MakeshiftShotgun.tools.barrel.label>canon</VWE_Gun_MakeshiftShotgun.tools.barrel.label>
+<VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>fusil à pompe improvisé</VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>
+<VWE_Bullet_MakeshiftShotgun.label>grenaille  de fusil à pompe improvisé</VWE_Bullet_MakeshiftShotgun.label>
+
+<VWE_Gun_MakeshiftLMG.label>mitrailleuse improvisée</VWE_Gun_MakeshiftLMG.label>
+<VWE_Gun_MakeshiftLMG.description>Une mitrailleuse légère improvisée, fonctionnant au gaz. Peu maniable et imprécise, elle est également très susceptible de s'enrayer. Ses longues rafales de tir sont efficaces contre les groupes d'ennemis, mais leur nombre de tirs est totalement aléatoire.</VWE_Gun_MakeshiftLMG.description>
+<VWE_Gun_MakeshiftLMG.tools.stock.label>crosse</VWE_Gun_MakeshiftLMG.tools.stock.label>
+<VWE_Gun_MakeshiftLMG.tools.barrel.label>canon</VWE_Gun_MakeshiftLMG.tools.barrel.label>
+<VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>mitrailleuse improvisée</VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>
+<VWE_Bullet_MakeshiftLMG.label>balle de mitrailleuse improvisée</VWE_Bullet_MakeshiftLMG.label>
+
+
+</LanguageData>

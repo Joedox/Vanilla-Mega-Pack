@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Ferment Ambrandy Must into Ambrandy -->
+<VBE_AmbrandyMustToAmbrandy.label>Distillation du moût d'ambrandie en ambrandie</VBE_AmbrandyMustToAmbrandy.label>
+<!-- EN: Turns 1 Ambrandy Must into 3 Ambrandy. -->
+<VBE_AmbrandyMustToAmbrandy.description>Transformer 1 moût d'ambrandie en 3 ambrandie.</VBE_AmbrandyMustToAmbrandy.description>
+<!-- EN: Turn 1 Ambrandy Must into 3 Ambrandy. -->
+<VBE_AmbrandyMustToAmbrandy.labelOverride>Distiller 1 moût d'ambrandie en 3 ambrandie.</VBE_AmbrandyMustToAmbrandy.labelOverride>
+
+<!-- EN: Ferment gin mush into gin -->
+<VBE_GinMushToGin.label>Distillation du moût de baie en gin</VBE_GinMushToGin.label>
+<!-- EN: Turn 25 gin mush into 25 gin. -->
+<VBE_GinMushToGin.description>Transformer 25 moût de baie en 25 gin.</VBE_GinMushToGin.description>
+<VBE_GinMushToGin.labelOverride>Distiller 25 moût de baie en 25 gin.</VBE_GinMushToGin.labelOverride>
+
+<!-- EN: Turn syrup into soda -->
+<VBE_SyrupToSoda.label>Dilution du sirop de soda en soda</VBE_SyrupToSoda.label>
+<!-- EN: Turn 25 syrup into 25 soda. -->
+<VBE_SyrupToSoda.description>Transformer 25 sirop de soda en 25 soda.</VBE_SyrupToSoda.description>
+<VBE_SyrupToSoda.labelOverride>Diluer 25 sirop de soda en 25 soda.</VBE_SyrupToSoda.labelOverride>
+
+<!-- EN: Ferment tequila must into tequila -->
+<VBE_TequilaMustToTequila.label>Distillation du moût d'agave en tequila</VBE_TequilaMustToTequila.label>
+<!-- EN: Turn 25 tequila must into 25 tequila. -->
+<VBE_TequilaMustToTequila.description>Transformer 25 moût d'agave en 25 tequila.</VBE_TequilaMustToTequila.description>
+<VBE_TequilaMustToTequila.labelOverride>Distiller 25 moût d'agave en 25 tequila.</VBE_TequilaMustToTequila.labelOverride>
+
+<!-- EN: Ferment vodka mash into vodka -->
+<VBE_VodkaMashToVodka.label>Fermentation du moût de pomme de terre en vodka</VBE_VodkaMashToVodka.label>
+<!-- EN: Turn 25 vodka mash into 25 vodka. -->
+<VBE_VodkaMashToVodka.description>Transformer 25 moût de pomme de terre en 25 vodka.</VBE_VodkaMashToVodka.description>
+<VBE_VodkaMashToVodka.labelOverride>Fermenter 25 moût de pomme de terre en 25 vodka.</VBE_VodkaMashToVodka.labelOverride>
+
+<!-- EN: Ferment whiskey mash into whiskey -->
+<VBE_WhiskeyMashToWhiskey.label>Fermentation du moût de maîs en whisky</VBE_WhiskeyMashToWhiskey.label>
+<!-- EN: Turn 50 whiskey mash into 50 whiskey. -->
+<VBE_WhiskeyMashToWhiskey.description>Transformer 50 moût de maîs en 50 whisky.</VBE_WhiskeyMashToWhiskey.description>
+<VBE_WhiskeyMashToWhiskey.labelOverride>Fermenter 50 moût de maîs en 50 whisky.</VBE_WhiskeyMashToWhiskey.labelOverride>
+
+<!-- EN: Ferment whiskey into double whiskey -->
+<VBE_WhiskeyToDoubleWhiskey.label>Fermentation du whisky en whisky à double maturation</VBE_WhiskeyToDoubleWhiskey.label>
+<!-- EN: Turn 50 whiskey into 50 double whiskey. -->
+<VBE_WhiskeyToDoubleWhiskey.description>Transformer 50 whisky en 50 whisky à double maturation.</VBE_WhiskeyToDoubleWhiskey.description>
+<VBE_WhiskeyToDoubleWhiskey.labelOverride>Fermenter 50 whisky en 50 whisky à double maturation.</VBE_WhiskeyToDoubleWhiskey.labelOverride>
+
+
+</LanguageData>

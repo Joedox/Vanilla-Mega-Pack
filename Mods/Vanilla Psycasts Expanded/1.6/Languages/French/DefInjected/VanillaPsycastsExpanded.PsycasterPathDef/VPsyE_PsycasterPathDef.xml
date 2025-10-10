@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: archon -->
+<VPE_Archon.label>archonte</VPE_Archon.label>
+<!-- EN: Archon path is the path of a psychic leader, providing various buffs to the entire colony, but also ruling with an iron fist. It’s also a path that allows you to drain enemy psycasters and gain Psycast levels this way. -->
+<VPE_Archon.description>La voie d'archonte est la voie d'un chef psychique, qui fournit divers buffs à toute la colonie, mais qui gouverne aussi d'une main de fer. C'est aussi la voie qui vous permet de drainer les psylanceurs ennemis et de gagner des niveaux de sorts.</VPE_Archon.description>
+<!-- EN: The path of kings, archons often occupy the highest seats in their local governments. Being able to easily bond with others, manipulate their enemies either through friendship or pain, with powerful archons strengthening themselves by draining the psyessence of other psycasters. -->
+<VPE_Archon.tooltip>La voie des rois, les archontes occupent souvent les plus hauts sièges de leurs gouvernements locaux. Ils sont capables de se lier facilement aux autres, de manipuler leurs ennemis par l'amitié ou la douleur, les archontes puissants se renforçant en drainant l'énergie psychique des autres psylanceurs.</VPE_Archon.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Archon.tab>Psysorts</VPE_Archon.tab>
+
+<!-- EN: archotechist -->
+<VPE_Archotechist.label>archotechiste</VPE_Archotechist.label>
+<!-- EN: Archotechist path is a special path locked only for Empire-based psycasters. It allows spreading insanity, using psychic shock to down any wrong-doers, and to offload neural heat to others, as well as use neural heat in combat. -->
+<VPE_Archotechist.description>La voie des archotechistes est une voie spéciale verrouillée uniquement pour les psylanceurs de l'Empire. Elle permet de répandre la folie, d'utiliser le choc psychique pour abattre les malfaiteurs et de décharger l'échauffement neuronal sur les autres, ainsi que d'utiliser l'échauffement neuronal en combat.</VPE_Archotechist.description>
+<!-- EN: Imperials only -->
+<VPE_Archotechist.lockedReason>Empire</VPE_Archotechist.lockedReason>
+<!-- EN: A path so mysterious only imperial scholars can confirm rumours, archotechists are able to tap into archotech engines and exert power so ridiculous and bizarre that it really makes one question their sanity. Archotechists can simply drive entire armies to insanity, and can even manipulate neural heat to mutilate their adversaries. -->
+<VPE_Archotechist.tooltip>Voie si mystérieuse que seuls les érudits impériaux peuvent confirmer les rumeurs, les archotechistes sont capables de puiser dans les moteurs archotech et d'exercer un pouvoir si ridicule et bizarre qu'on en vient à s'interroger sur leur santé mentale. Les archotechistes peuvent tout simplement rendre des armées entières folles, et peuvent même manipuler l'échauffement neuronal pour mutiler leurs adversaires.</VPE_Archotechist.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Archotechist.tab>Psysorts</VPE_Archotechist.tab>
+
+<!-- EN: chronopath -->
+<VPE_Chronopath.label>chronopathe</VPE_Chronopath.label>
+<!-- EN: Chronopath path is focused on manipulating time, making things older, completing growth of plants, or de-aging your pawns. -->
+<VPE_Chronopath.description>La voie du chronopathe est axée sur la manipulation du temps, le vieillissement des objets, l'achèvement de la croissance des plantes ou le rajeunissement de vos colons.</VPE_Chronopath.description>
+<!-- EN: Chronopaths are rare and mysterious psycasters, capable of manipulating the fabric of time itself. By creating skipgates through time rather than space, chronopaths can have weapons assemble themselves, alter someone’s age at will, and even create bizarre timequakes that accelerate the time of everything around them by dozens of years. -->
+<VPE_Chronopath.tooltip>Les chronopathes sont des psylanceurs rares et mystérieux, capables de manipuler le tissu temporel lui-même. En créant des sauts dans le temps plutôt que dans l'espace, les chronopathes peuvent assembler des armes, modifier l'âge de quelqu'un à volonté, et même créer des séismes temporels bizarres qui accélèrent le temps de tout ce qui les entoure de plusieurs dizaines d'années.</VPE_Chronopath.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Chronopath.tab>Psysorts</VPE_Chronopath.tab>
+
+<!-- EN: conflagrator -->
+<VPE_Conflagrator.label>conflagrateur</VPE_Conflagrator.label>
+<!-- EN: Conflagrator path is focused on manipulating fire, heat and energy to eliminate enemies. -->
+<VPE_Conflagrator.description>La voie du conflagrateur est axée sur la manipulation du feu, de la chaleur et de l'énergie pour éliminer les ennemis.</VPE_Conflagrator.description>
+<!-- EN: Conflagrators are the masters of flame, capable of eradicating entire regiments of enemy infantry using powerful fire tornadoes and explosions. Greatly respected across all psycaster paths, conflagrators bring fear, death and the stench of burnt meat wherever they go. -->
+<VPE_Conflagrator.tooltip>Les conflagrateurs sont les maîtres des flammes, capables d'éradiquer des régiments entiers d'infanterie ennemie à l'aide de puissantes tornades de feu et d'explosions. Très respectés dans toutes les voies des psylanceurs, les conflagrateurs apportent la peur, la mort et la puanteur de chair brûlée partout où ils passent.</VPE_Conflagrator.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Conflagrator.tab>Psysorts</VPE_Conflagrator.tab>
+
+<!-- EN: empath -->
+<VPE_Empath.label>empathe</VPE_Empath.label>
+<!-- EN: Empath psycasts are focused on enhancing the mood of others, one way or another. -->
+<VPE_Empath.description>Les psylanceurs Empathes se concentrent sur l'amélioration de l'humeur des autres, d'une manière ou d'une autre.</VPE_Empath.description>
+<!-- EN: Empaths are psycasters committed to serving their community and boosting their kin’s spirits. Known to inspire joy with but a few words, as well as snap people out of mental states, particularly powerful empaths can emit strong psychic soothes or even skip blood-related family members from across the globe. -->
+<VPE_Empath.tooltip>Les Empathes sont des psylanceurs qui s'engagent à servir leur communauté et à remonter le moral de leurs proches. Connus pour inspirer la joie avec seulement quelques mots, ainsi que pour faire sortir les gens de leurs états mentaux, les Empathes particulièrement puissants peuvent émettre de puissants apaisements psychiques ou même faire disparaître les liens du sang des membres de leur famille à travers le monde.</VPE_Empath.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Empath.tab>Psysorts</VPE_Empath.tab>
+
+<!-- EN: frostshaper -->
+<VPE_Frostshaper.label>façonneur de givre</VPE_Frostshaper.label>
+<!-- EN: Frostshaper is a path about manipulating the elements, particularly the cold, to your advantage. Not only you get to use the cold to freeze and slow enemies, frostshapers also gain access to many utility psycasts that either construct shelters out of ice blocks, or create cooling crystals that can be used both as a temporary fridge, and a trap. -->
+<VPE_Frostshaper.description>Le façonneur de givre est une voie qui consiste à manipuler les éléments, en particulier le froid, à votre avantage. Non seulement vous pouvez utiliser le froid pour geler et ralentir vos ennemis, mais les façonneurs de givre ont également accès à de nombreux sorts utilitaires qui permettent de construire des abris à partir de blocs de glace, ou de créer des cristaux de refroidissement qui peuvent être utilisés comme réfrigérateur temporaire ou comme piège.</VPE_Frostshaper.description>
+<!-- EN: Frostshapers are psycaster who devoted their life to pursue the cold embrace of frost. This makes them equally as deadly as conflagrators, capable of breathing freezing air and creating localised cold zones that freeze everything in seconds. Frostshapers can also create walls and obstacles out of ice, as well as summon crystals of pure entropy that plunge entire rooms into subzero temperatures. -->
+<VPE_Frostshaper.tooltip>Les façonneurs de givre sont des psylanceurs qui ont consacré leur vie à poursuivre l'étreinte froide du gel. Cela les rend aussi mortels que les Conflagrators, capables de respirer de l'air glacé et de créer des zones de froid localisées qui gèlent tout en quelques secondes. Les façonneurs de givre peuvent également créer des murs et des obstacles en glace, ainsi qu'invoquer des cristaux d'entropie pure qui plongent des pièces entières dans des températures négatives.</VPE_Frostshaper.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Frostshaper.tab>Psysorts</VPE_Frostshaper.tab>
+
+<!-- EN: harmonist -->
+<VPE_Harmonist.label>harmonisateur</VPE_Harmonist.label>
+<!-- EN: Harmonists are all about manipulating the balance of the universe. Their abilities are never a clear benefit or a drawback, and they always come with a price one way or another. -->
+<VPE_Harmonist.description>Les harmonisateurs manipulent l'équilibre de l'univers. Leurs capacités ne sont jamais clairement un avantage ou un inconvénient, et elles ont toujours un prix, d'une manière ou d'une autre.</VPE_Harmonist.description>
+<!-- EN: Harmonists alter the probability, luck and balance of the universe. They are able to peak under the veil and adjust the scales as they desire, controlling the minds of unsuspecting foes, changing what has happened,influencing what might happen or even overriding the personal history of others. -->
+<VPE_Harmonist.tooltip>Les harmonisateurs modifient la probabilité, la chance et l'équilibre de l'univers. Ils sont capables de passer sous le voile et d'ajuster la balance comme ils le souhaitent, en contrôlant l'esprit d'ennemis peu méfiants, en changeant ce qui s'est passé, en influençant ce qui pourrait se passer ou même en annulant l'histoire personnelle des autres.</VPE_Harmonist.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Harmonist.tab>Psysorts</VPE_Harmonist.tab>
+
+<!-- EN: necropath -->
+<VPE_Necropath.label>nécropathe</VPE_Necropath.label>
+<!-- EN: Necropath is a path focused on distributing fear and death, whilst also gaining from death and corpses. You can resurrect fallen allies, prohibit them from dying and raise hordes of skeletons to fight for your cause. -->
+<VPE_Necropath.description>La voie nécropathe est axée sur la propagation de la peur et de la mort, tout en tirant profit de la mort et des cadavres. Vous pouvez ressusciter des alliés tombés au combat, leur interdire de mourir et lever des hordes de squelettes qui se battront pour votre cause.</VPE_Necropath.description>
+<!-- EN: Masters of the dark arts, necropaths live to defy death itself. They can cast fear into the hearts of their enemies, emit a paralytic pulse to knock attackers down, rot away the flesh of living bodies and ultimately summon the dead - either through wicked enthrallment or sacred resurrection. -->
+<VPE_Necropath.tooltip>Maîtres des arts sombres, les nécropathes vivent pour défier la mort elle-même. Ils peuvent semer la peur dans le cœur de leurs ennemis, émettre une impulsion paralysante pour assommer les attaquants, faire pourrir la chair des corps vivants et finalement invoquer les morts - soit par un enchantement maléfique, soit par une résurrection sacrée.</VPE_Necropath.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Necropath.tab>Psysorts</VPE_Necropath.tab>
+
+<!-- EN: Nightstalker -->
+<VPE_Nightstalker.label>traqueur nocturne</VPE_Nightstalker.label>
+<!-- EN: Nightstalkers are warriors of the dark, gaining many combat related benefits when shrouded in the shadows. -->
+<VPE_Nightstalker.description>Les traqueurs nocturne sont des guerriers de l'obscurité, qui bénéficient de nombreux avantages liés au combat lorsqu'ils se cachent dans les ombres.</VPE_Nightstalker.description>
+<!-- EN: Silent assassins who strike from the shadows, nightstalkers move under the cover of darkness, gaining power from the absence of light. They are capable of skipping to wherever  darkness prevails and executing multiple, near-simultaneous strikes to their target’s heart. -->
+<VPE_Nightstalker.tooltip>Assassins silencieux qui frappent dans l'ombre, les traqueurs nocturne se déplacent sous le couvert de l'obscurité, gagnant en puissance grâce à l'absence de lumière. Ils sont capables de se rendre partout où l'obscurité règne et d'exécuter des attaques multiples et quasi simultanées au cœur de leur cible.</VPE_Nightstalker.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Nightstalker.tab>Psysorts</VPE_Nightstalker.tab>
+
+<!-- EN: protector -->
+<VPE_Protector.label>protecteur</VPE_Protector.label>
+<!-- EN: Protector path is focused on providing aid and protection to your pawns, stopping them from dying and allowing you to escape from dangerous situations unscratched. -->
+<VPE_Protector.description>La voie du protecteur vise à apporter aide et protection à vos colons, à les empêcher de mourir et à vous permettre de vous sortir indemne de situations dangereuses.</VPE_Protector.description>
+<!-- EN: Protectors serve on the front lines, defending the brave soldiers from harm. Not only can they stop projectiles using powerful skipshields, but they can also help the body recover from wounds, as well as boost the natural regeneration and immunity of those in need. -->
+<VPE_Protector.tooltip>Les protecteurs servent sur les lignes de front, défendant les braves soldats contre les dangers. Non seulement ils peuvent arrêter les projectiles à l'aide de puissants boucliers, mais ils peuvent également aider le corps à se remettre des blessures, ainsi que stimuler la régénération naturelle et l'immunité de ceux qui en ont besoin.</VPE_Protector.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Protector.tab>Psysorts</VPE_Protector.tab>
+
+<!-- EN: skipmaster -->
+<VPE_Skipmaster.label>maître des sauts</VPE_Skipmaster.label>
+<!-- EN: Skipmaster psycasts are focused on using skipgates to change the course of battle or the life of the colony. -->
+<VPE_Skipmaster.description>Les psylanceurs maître des sauts se concentrent sur l'utilisation des portails de saut pour changer le cours d'une bataille ou de la vie de la colonie.</VPE_Skipmaster.description>
+<!-- EN: Skipmasters often served the Empire by establishing convoluted skipdoor networks. Masters of logistics and bending space, they can skip people to desired locations and can even use skipgates for everyday chores - such as creating solar pinholes or skipping water to extinguish flames. -->
+<VPE_Skipmaster.tooltip>Les maîtres des sauts ont souvent servi l'Empire en établissant des réseaux de portes de saut alambiqués. Maîtres de la logistique et de la déformation spatiale, ils peuvent faire sauter des personnes jusqu'à l'endroit désiré et même utiliser les portails de saut pour des tâches quotidiennes - comme créer des trous d'épingle solaires ou faire sauter de l'eau pour éteindre des incendies.</VPE_Skipmaster.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Skipmaster.tab>Psysorts</VPE_Skipmaster.tab>
+
+<!-- EN: staticlord -->
+<VPE_Staticlord.label>seigneur statique</VPE_Staticlord.label>
+<!-- EN: Staticlord is a path focused on blasting enemies with electricity, disabling electronics and controlling the storm itself. -->
+<VPE_Staticlord.description>Le seigneur statique est une voie axée sur l'explosion des ennemis avec de l'électricité, la désactivation de l'électronique et le contrôle de la tempête elle-même.</VPE_Staticlord.description>
+<!-- EN: Lords of thunder and lightning, staticlords are excellent psycasters when it comes to controlling the flow of electricity and fighting against mechanoid swarms. They can summon powerful lightning bolts in many shapes and forms, as well as manipulate the weather to generate localised lightning storms and hurricanes. -->
+<VPE_Staticlord.tooltip>Seigneurs du tonnerre et de la foudre, les seigneurs statique sont d'excellents psylanceurs lorsqu'il s'agit de contrôler le flux d'électricité et de lutter contre les essaims de mécanoïdes. Ils peuvent invoquer de puissants éclairs sous de nombreuses formes, ainsi que manipuler la météo pour générer des tempêtes d'éclairs et des ouragans localisés.</VPE_Staticlord.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Staticlord.tab>Psysorts</VPE_Staticlord.tab>
+
+<!-- EN: technomancer -->
+<VPE_Technomancer.label>technomancien</VPE_Technomancer.label>
+<!-- EN: Technomancers are masters of technology, knowledge and research, capable of using psychic energy to aid in concept exploration, but also to breathe life into small-scale constructs that can help and defend them. -->
+<VPE_Technomancer.description>Les technomanciens sont des maîtres de la technologie, de la connaissance et de la recherche, capables d'utiliser l'énergie psychique pour faciliter l'exploration de concepts, mais aussi pour donner vie à des constructions à petite échelle qui peuvent les aider et les défendre.</VPE_Technomancer.description>
+<!-- EN: Masters of knowledge and technology, technomancers can improve existing technology, generate infinite power, create constructs out of seemingly worthless materials as well as reverse engineer anything they can get their hands on. Especially powerful technomancers can even use eltex to create psyrings, essentially sharing their knowledge of the psycasting art with other amateur psycasters. -->
+<VPE_Technomancer.tooltip>Maîtres de la connaissance et de la technologie, les technomanciens peuvent améliorer la technologie existante, générer une puissance infinie, créer des constructions à partir de matériaux apparemment sans valeur et faire du rétro-ingénierie sur tout ce qui leur tombe sous la main. Les technomanciens particulièrement puissants peuvent même utiliser l'eltex pour créer des anneaux en eltex, partageant ainsi leurs connaissances de l'art psychique avec d'autres amateurs psylanceurs.</VPE_Technomancer.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Technomancer.tab>Psysorts</VPE_Technomancer.tab>
+
+<!-- EN: warlord -->
+<VPE_Warlord.label>seigneur de guerre</VPE_Warlord.label>
+<!-- EN: Warlord path is focused on upgrading the warfare capabilities of the Psycaster and psycaster alone - as all the Warlord psycasts are to an extent self-cast. -->
+<VPE_Warlord.description>La voie du seigneur de guerre est axée sur l'amélioration des capacités de guerre du psylanceur et du psylanceur seul - car tous les psylanceurs seigneurs de guerre sont, dans une certaine mesure, auto-lancés.</VPE_Warlord.description>
+<!-- EN: Masters of warfare, warlords serve only themselves, able to improve their perception, reflexes, speed and stamina at will. Feared anywhere they go, a powerful warlord will never miss a shot and their blade will always find its target. -->
+<VPE_Warlord.tooltip>Maîtres de guerre, les seigneurs de guerre ne servent qu'eux-mêmes, capables d'améliorer à volonté leur perception, leurs réflexes, leur vitesse et leur endurance. Redouté partout où il va, un puissant seigneur de guerre ne manquera jamais un coup et sa lame trouvera toujours sa cible.</VPE_Warlord.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Warlord.tab>Psysorts</VPE_Warlord.tab>
+
+<!-- EN: wildspeaker -->
+<VPE_Wildspeaker.label>orateur sauvage</VPE_Wildspeaker.label>
+<!-- EN: Wildspeaker path is a special path locked only for Tribal-based psycasters. It’s all about controlling nature and animals for defense and survival. -->
+<VPE_Wildspeaker.description>La voie des orateurs sauvage est une voie spécifiquement réservée aux psylanceurs des tribus. Il s'agit de contrôler la nature et les animaux pour se défendre et survivre.</VPE_Wildspeaker.description>
+<!-- EN: Tribals only -->
+<VPE_Wildspeaker.lockedReason>Tribale</VPE_Wildspeaker.lockedReason>
+<!-- EN: A secret path of the tribal communities, wildspeaking is the art of living in harmony with the forest and nature, and being able to summon the aid of the forest when needed. Tribal wildspeakers are known to control packs of territorial animals, be protected from all damage by an impenetrable shield, and they can also seem to make brambles and trees sprout out of the ground on a whim. -->
+<VPE_Wildspeaker.tooltip>Voie secrète des communautés tribales, l'orateur sauvage est l'art de vivre en harmonie avec la forêt et la nature, et d'être capable d'invoquer l'aide de la forêt en cas de besoin. Les orateurs sauvage tribaux sont connus pour pouvoir contrôler des meutes d'animaux, être protégés de tous les dommages par un bouclier impénétrable, et ils peuvent également faire jaillir des ronces et des arbres du sol sur un coup de tête.</VPE_Wildspeaker.tooltip>
+<!-- EN: Psycasts -->
+<VPE_Wildspeaker.tab>Psysorts</VPE_Wildspeaker.tab>
+
+
+</LanguageData>

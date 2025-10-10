@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Races_AdvancedMechanoid +++++ -->
+<VFE_Mech_AdvancedCentipede.label>centipède avancé</VFE_Mech_AdvancedCentipede.label>
+<VFE_Mech_AdvancedCentipede.description>Une version encore plus lourde et blindée du centipède mécanoïde, propulsée par des centaines de petites pattes. Contrairement à leurs homologues plus anciens et moins avancés, cette unité en particulier est beaucoup plus intelligente et cherchera à se mettre à l'abri avant de tenter de briser les lignes de défense.</VFE_Mech_AdvancedCentipede.description>
+<VFE_Mech_AdvancedCentipede.tools.head.label>tête</VFE_Mech_AdvancedCentipede.tools.head.label>
+
+<VFE_Mech_AdvancedLancer.label>lancier avancé</VFE_Mech_AdvancedLancer.label>
+<VFE_Mech_AdvancedLancer.description>Un mécanoïde d'infanterie à longue portée fraîchement fabriqué et fortement amélioré. Contrairement à leurs homologues plus anciens et moins avancés, cette unité en particulier est beaucoup plus intelligente et cherchera à se mettre à couvert, ce qui en fait un adversaire beaucoup plus difficile au combat de mêlée.</VFE_Mech_AdvancedLancer.description>
+<VFE_Mech_AdvancedLancer.tools.left_fist.label>poing gauche</VFE_Mech_AdvancedLancer.tools.left_fist.label>
+<VFE_Mech_AdvancedLancer.tools.right_fist.label>poing droit</VFE_Mech_AdvancedLancer.tools.right_fist.label>
+<VFE_Mech_AdvancedLancer.tools.head.label>tête</VFE_Mech_AdvancedLancer.tools.head.label>
+
+<VFE_Mech_AdvancedKnight.label>chevalier avancé</VFE_Mech_AdvancedKnight.label>
+<VFE_Mech_AdvancedKnight.description>L'un des deux mécanoïdes d'infanterie lourde équipés de multiples améliorations. Cette variante particulière du Chevalier semble avoir une cellule d'énergie suralimentée, permettant des mouvements plus rapides et un bouclier énergétique plus puissant. Comme sa variante non améliorée, le Chevalier est équipé d'un blaster de charge dévastateur avec un tir en rafale, tandis que son module de ciblage semble être beaucoup plus avancé.</VFE_Mech_AdvancedKnight.description>
+<VFE_Mech_AdvancedKnight.tools.left_fist.label>poing gauche</VFE_Mech_AdvancedKnight.tools.left_fist.label>
+<VFE_Mech_AdvancedKnight.tools.right_fist.label>poing droit</VFE_Mech_AdvancedKnight.tools.right_fist.label>
+<VFE_Mech_AdvancedKnight.tools.head.label>tête</VFE_Mech_AdvancedKnight.tools.head.label>
+
+<VFE_Mech_AdvancedInquisitor.label>inquisiteur avancé</VFE_Mech_AdvancedInquisitor.label>
+<VFE_Mech_AdvancedInquisitor.description>Un des deux mécanoïdes d'infanterie lourde équipés de multiples améliorations. Malgré des réservoirs de carburant chimique beaucoup plus grands, cette variante de l'Inquisiteur est en quelque sorte plus rapide que son homologue. Moins d'une douzaine d'affrontements avec ce mécanoïde ont été signalés et moins de la moitié d'entre eux se sont soldés par une victoire. Cet Inquisiteur ne se contente pas de foncer sur les cibles principales avec des pluies de feu, il est également équipé d'un système explosif de sécurité beaucoup plus mortel qui fait exploser sa structure et enveloppe les cibles voisines dans un feu de carburant chimique.</VFE_Mech_AdvancedInquisitor.description>
+<VFE_Mech_AdvancedInquisitor.tools.left_fist.label>poing gauche</VFE_Mech_AdvancedInquisitor.tools.left_fist.label>
+<VFE_Mech_AdvancedInquisitor.tools.right_fist.label>poing droit</VFE_Mech_AdvancedInquisitor.tools.right_fist.label>
+<VFE_Mech_AdvancedInquisitor.tools.head.label>tête</VFE_Mech_AdvancedInquisitor.tools.head.label>
+
+<VFE_Mech_AdvancedScyther.label>faucheur avancé</VFE_Mech_AdvancedScyther.label>
+<VFE_Mech_AdvancedScyther.description>Une unité faucheur dense, effilée et très intelligente qui semble avoir été fraîchement fabriquée avec des améliorations supplémentaires. Cette unité semble utiliser les propriétés de l'antigravité pour se propulser beaucoup plus rapidement que ses anciennes versions, mais aussi de surchauffer ses lames fixées sur ses bras pour couper plus facilement la chair et le métal.</VFE_Mech_AdvancedScyther.description>
+<VFE_Mech_AdvancedScyther.tools.left_blade.label>lame gauche</VFE_Mech_AdvancedScyther.tools.left_blade.label>
+<VFE_Mech_AdvancedScyther.tools.right_blade.label>lame droite</VFE_Mech_AdvancedScyther.tools.right_blade.label>
+<VFE_Mech_AdvancedScyther.tools.head.label>tête</VFE_Mech_AdvancedScyther.tools.head.label>
+
+<VFE_Mech_AdvancedPikeman.label>piquier avancé</VFE_Mech_AdvancedPikeman.label>
+<VFE_Mech_AdvancedPikeman.description>Un mécanoïde de combat multi-pattes spécialisé comme plateforme d'armes à longue portée. Cette unité en particulier semble avoir été améliorée avec des membres supplémentaires pour des mouvements plus rapides ainsi qu'une couche de plaques d’armures semblables à celles d'un cafard pour une défense supplémentaire contre les combattants de mêlée.</VFE_Mech_AdvancedPikeman.description>
+<VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>jambe avant gauche</VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>
+<VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>jambe avant droite</VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>
+<VFE_Mech_AdvancedPikeman.tools.head.label>tête</VFE_Mech_AdvancedPikeman.tools.head.label>
+
+<VFE_Mech_AdvancedCarpenter.label>charpentier avancé</VFE_Mech_AdvancedCarpenter.label>
+<VFE_Mech_AdvancedCarpenter.description>Une version améliorée du mécanoïde utilitaire "Charpentier". Différente de ses versions précédentes, cette version du mécanoïde charpentier se déplace non seulement plus rapidement, mais utilise également des torches à plasma et des omnitools pour démonter presque instantanément toutes les structures à risque. En plus d'avoir l'armure la plus lourde de tous les mécanoïdes, cette unité doit être priorisée avant qu’elle atteigne la ligne de front. Enfin, si ce mécanoïde détecte qu'il est sur le point de cesser de fonctionner, il émet une onde de choc IEM qui désactive temporairement tous les appareils électroniques à proximité dans un ultime effort pour briser la ligne de front et aider ses alliés.</VFE_Mech_AdvancedCarpenter.description>
+<VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>jambe avant gauche</VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>
+<VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>jambe avant droite</VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>
+<VFE_Mech_AdvancedCarpenter.tools.head.label>tête</VFE_Mech_AdvancedCarpenter.tools.head.label>
+
+<VFE_Mech_AdvTermite.label>termite avancé</VFE_Mech_AdvTermite.label>
+<VFE_Mech_AdvTermite.description>Un mécanoïde lourd et de grande taille. Les termites sont spécialisés dans le creusage, la perforation et le franchissement des structures défensives. Les défenseurs doivent décider s'ils essayent d'éliminer le termite avant qu'il ne puisse creuser à travers leurs défenses, ou le tuer là où il émerge. Contrairement aux modèles simples, les termites évolués portent un canon beaucoup plus puissant qui est tout aussi efficace contre les structures que contre les ennemis organiques.</VFE_Mech_AdvTermite.description>
+<VFE_Mech_AdvTermite.tools.head.label>tête</VFE_Mech_AdvTermite.tools.head.label>
+
+
+		<!-- +++++ Races_AncientMechanoid +++++ -->
+<VFE_AncientMech_AncientCarpenter.label>charpentier</VFE_AncientMech_AncientCarpenter.label>
+<VFE_AncientMech_AncientCarpenter.description>Un mécanoïde utilitaire quadrupède et titubant, doté d'un épais blindage et destiné à absorber le feu ennemi tout en démontant rapidement les fortifications ennemies à l'aide de simples forets. L'infanterie présente durant la guerre des mécanoïdes était connue pour assembler des blockhaus ou des barricades factices, car les mécanoïdes charpentiers ne pouvaient pas distinguer les structures utilisées ou des leurres.</VFE_AncientMech_AncientCarpenter.description>
+<VFE_AncientMech_AncientCarpenter.tools.front_left_leg.label>jambe avant gauche</VFE_AncientMech_AncientCarpenter.tools.front_left_leg.label>
+<VFE_AncientMech_AncientCarpenter.tools.front_right_leg.label>jambe avant droite</VFE_AncientMech_AncientCarpenter.tools.front_right_leg.label>
+<VFE_AncientMech_AncientCarpenter.tools.head.label>tête</VFE_AncientMech_AncientCarpenter.tools.head.label>
+
+
+		<!-- +++++ Races_Machines +++++ -->
+<VFE_Mechanoids_Autocleaner.label>auto-nettoyeur</VFE_Mechanoids_Autocleaner.label>
+<VFE_Mechanoids_Autocleaner.description>Un simple drone à roues et avec une vitesse moyenne, doté de grandes brosses et d'un système complexe de chambres à vide. Utilisés en tandem, les outils susmentionnés donnent au drone la capacité de nettoyer rapidement toute une série de saletés, qu'elles soient humides ou sèches. Les déchets collectés pendant le nettoyage sont incinérés peu de temps après, pendant que le drone est en charge.</VFE_Mechanoids_Autocleaner.description>
+<VFE_Mechanoids_Autocleaner.tools.head.label>tête</VFE_Mechanoids_Autocleaner.tools.head.label>
+
+<VFE_Mechanoids_Autohauler.label>auto-transporteur</VFE_Mechanoids_Autohauler.label>
+<VFE_Mechanoids_Autohauler.description>Un simple drone capable de soulever plusieurs fois son poids à l'aide d'une fourche hydraulique. Bien que lent à se déplacer, il est assez économe en énergie par rapport à la plupart des drones.</VFE_Mechanoids_Autohauler.description>
+<VFE_Mechanoids_Autohauler.tools.head.label>tête</VFE_Mechanoids_Autohauler.tools.head.label>
+
+<VFE_Mechanoids_Autominer.label>auto-foreuse</VFE_Mechanoids_Autominer.label>
+<VFE_Mechanoids_Autominer.description>Une machine renforcée, à quatre roues, dotée d'un bras de forage surdimensionné et d'une série de pelles. Cette unité se déplace rapidement et est capable de creuser rapidement la roche et la pierre, mais l'autonomie de sa batterie laisse à désirer. Les matériaux minés ne sont pas transportés.</VFE_Mechanoids_Autominer.description>
+<VFE_Mechanoids_Autominer.tools.head.label>tête</VFE_Mechanoids_Autominer.tools.head.label>
+
+<VFE_Mechanoids_Combat.label>mécanoïde de combat</VFE_Mechanoids_Combat.label>
+<VFE_Mechanoids_Combat.description>Un simple drone de combat à distance, légèrement plus petit qu'un humain normal. Il patrouille dans les zones désignées en analysant les menaces proches et en les engageant de manière autonome.</VFE_Mechanoids_Combat.description>
+<VFE_Mechanoids_Combat.tools.head.label>tête</VFE_Mechanoids_Combat.tools.head.label>
+
+<VFE_Mechanoids_Riot.label>mécanoïde anti-émeute</VFE_Mechanoids_Riot.label>
+<VFE_Mechanoids_Riot.description>Un simple drone de combat de mêlée, légèrement plus petit qu'un humain normal. Il patrouille dans les zones désignées en analysant les menaces proches et en les engageant de manière autonome.</VFE_Mechanoids_Riot.description>
+<VFE_Mechanoids_Riot.tools.blade.label>lame</VFE_Mechanoids_Riot.tools.blade.label>
+<VFE_Mechanoids_Riot.tools.shield.label>bouclier</VFE_Mechanoids_Riot.tools.shield.label>
+
+<VFE_Mechanoids_Turret.label>tourelle mobile</VFE_Mechanoids_Turret.label>
+<VFE_Mechanoids_Turret.description>Une simple plateforme surélevée sur laquelle une tourelle peut être solidement installée, permettant une puissance de feu mobile sans risque.</VFE_Mechanoids_Turret.description>
+<VFE_Mechanoids_Turret.tools.head.label>tête</VFE_Mechanoids_Turret.tools.head.label>
+
+<VFE_Mechanoids_Autostrider.label>auto-convoyeur</VFE_Mechanoids_Autostrider.label>
+<VFE_Mechanoids_Autostrider.description>Ce mécanoïde à construire, semblable à un drone, est lent, mais possède une grande capacité de charge et des mécanismes très efficaces, ce qui en fait un partenaire idéal pour les longs voyages en caravane. Il peut également être monté par des colons pour augmenter la vitesse de déplacement. La conception comprend une batterie à fission interne de haute capacité qui peut être rechargée à une station de recharge pour rester alimenté sur de longues distances.</VFE_Mechanoids_Autostrider.description>
+<VFE_Mechanoids_Autostrider.tools.head.label>tête</VFE_Mechanoids_Autostrider.tools.head.label>
+
+<VFE_Mechanoids_AutoMedic.label>auto-médic</VFE_Mechanoids_AutoMedic.label>
+<VFE_Mechanoids_AutoMedic.description>Un solide drone semi-autonome légèrement plus grand qu'un humain moyen. Ce drone est équipé en standard d'un ensemble d'appareils de diagnostic et de médecine, ainsi que d'un système de focalisation avancé, capable de scanner à la volée et d'effectuer des analyses de niveau microscopique. Ce drone est capable de guérir des blessures et de soigner des malades d'un niveau équivalent à celui d'un amateur, à condition que des médicaments soient fournis.</VFE_Mechanoids_AutoMedic.description>
+<VFE_Mechanoids_AutoMedic.tools.head.label>tête</VFE_Mechanoids_AutoMedic.tools.head.label>
+
+<VFE_Mechanoids_Raider.label>mécanoïde raider</VFE_Mechanoids_Raider.label>
+<VFE_Mechanoids_Raider.description>Un drone de combat à distance simple d'esprit, de la taille d'un humain normal. Bien qu'il soit incapable de patrouiller dans la zone locale à la recherche d'ennemis, il peut parcourir de longues distances et attaquer les avant-postes ennemis aux côtés des colons.</VFE_Mechanoids_Raider.description>
+<VFE_Mechanoids_Raider.tools.head.label>tête</VFE_Mechanoids_Raider.tools.head.label>
+
+<VFE_Mechanoids_Pyro.label>mécanoïde pyro</VFE_Mechanoids_Pyro.label>
+<VFE_Mechanoids_Pyro.description>Un drone de démolition de proximité à l'esprit simple, plus petit qu'un humain normal. Il patrouille dans les zones désignées en analysant les menaces à proximité et les combat de manière autonome à l'aide d'un lance-flammes.</VFE_Mechanoids_Pyro.description>
+<VFE_Mechanoids_Pyro.tools.head.label>tête</VFE_Mechanoids_Pyro.tools.head.label>
+
+<VFE_Mechanoids_Autobroadcaster.label>auto-diffuseur</VFE_Mechanoids_Autobroadcaster.label>
+<VFE_Mechanoids_Autobroadcaster.description>Un drone à roues à vitesse moyenne, simple d'esprit, qui patrouille dans des zones désignées et offre aux colons à proximité une forme passive de divertissement par le biais d'une musique calme et relaxante, d'une musique d'inspiration optimiste ou d'une propagande forte qui augmente la certitude de quiconque l'entend.</VFE_Mechanoids_Autobroadcaster.description>
+<VFE_Mechanoids_Autobroadcaster.tools.head.label>tête</VFE_Mechanoids_Autobroadcaster.tools.head.label>
+
+
+		<!-- +++++ Races_Mechanoid +++++ -->
+<VFE_Mech_Centipede.label>centipède</VFE_Mech_Centipede.label>
+<VFE_Mech_Centipede.description>Des mécanoïdes de combat lourds qui glissent sur des dizaines de petites pattes. Leur blindage lourd et leur puissance de feu les rendent très efficaces contre les défenseurs statiques regroupés. Ils sont quelque peu vulnérables aux tactiques mobiles de type "hit-and-run". Cette unité en particulier semble avoir été fraîchement fabriquée et fonctionnera de manière plus solide.</VFE_Mech_Centipede.description>
+<VFE_Mech_Centipede.tools.head.label>tête</VFE_Mech_Centipede.tools.head.label>
+
+<VFE_Mech_Lancer.label>lancier</VFE_Mech_Lancer.label>
+<VFE_Mech_Lancer.description>Mécanoïde de combat rapides de taille humaine, conçus pour le combat à moyenne et longue distance. Leur corps est léger, ce qui en fait des cibles vulnérables à courte distance - surtout en combat rapproché. Cette unité en particulier semble avoir été fraîchement fabriquée et fonctionnera de manière plus solide.</VFE_Mech_Lancer.description>
+<VFE_Mech_Lancer.tools.left_fist.label>poing gauche</VFE_Mech_Lancer.tools.left_fist.label>
+<VFE_Mech_Lancer.tools.right_fist.label>poing droit</VFE_Mech_Lancer.tools.right_fist.label>
+<VFE_Mech_Lancer.tools.head.label>tête</VFE_Mech_Lancer.tools.head.label>
+
+<VFE_Mech_Knight.label>chevalier</VFE_Mech_Knight.label>
+<VFE_Mech_Knight.description>Un mécanoïde bipède à vitesse moyenne, légèrement plus grand qu'un humain moyen, conçu pour encaisser les dégâts des combattants à distance et de mêlée. Son épais blindage est renforcé par un bouclier d’énergie défiant toute logique et capable d'arrêter les projectiles. Équipé d'un fusil de charge à moyenne portée avec un tir en rafale, le Chevalier est plus vulnérable avec des munitions explosives à longue portée ou des mines.</VFE_Mech_Knight.description>
+<VFE_Mech_Knight.tools.left_fist.label>poing gauche</VFE_Mech_Knight.tools.left_fist.label>
+<VFE_Mech_Knight.tools.right_fist.label>poing droit</VFE_Mech_Knight.tools.right_fist.label>
+<VFE_Mech_Knight.tools.head.label>tête</VFE_Mech_Knight.tools.head.label>
+
+<VFE_Mech_Inquisitor.label>inquisiteur</VFE_Mech_Inquisitor.label>
+<VFE_Mech_Inquisitor.description>Un mécanoïde lent, super lourd, conçu pour le déni de zone et le démantèlement de bunkers au moyen d'un lance-flammes. Bien que le jet de flamme soit de courte portée, il est déconseillé de confronter un Inquisiteur à courte distance, car les réservoirs de carburant chimique montés à l'arrière sont programmés pour exploser en cas de dysfonctionnement du système.</VFE_Mech_Inquisitor.description>
+<VFE_Mech_Inquisitor.tools.left_fist.label>poing gauche</VFE_Mech_Inquisitor.tools.left_fist.label>
+<VFE_Mech_Inquisitor.tools.right_fist.label>poing droit</VFE_Mech_Inquisitor.tools.right_fist.label>
+<VFE_Mech_Inquisitor.tools.head.label>tête</VFE_Mech_Inquisitor.tools.head.label>
+
+<VFE_Mech_Scyther.label>faucheur</VFE_Mech_Scyther.label>
+<VFE_Mech_Scyther.description>Mécanoïde de combat rapides, filiformes et de taille humaine, spécialisés dans l'approche rapide et le combat rapproché. Leur corps est couvert de pointes et de lames, mais ils utilisent surtout ses lames fixées à ses bras pour couper des membres ou étriper leurs victimes vivantes. Cette unité en particulier semble avoir été fraîchement fabriquée et fonctionnera de manière plus solide.</VFE_Mech_Scyther.description>
+<VFE_Mech_Scyther.tools.left_blade.label>lame gauche</VFE_Mech_Scyther.tools.left_blade.label>
+<VFE_Mech_Scyther.tools.right_blade.label>lame droite</VFE_Mech_Scyther.tools.right_blade.label>
+<VFE_Mech_Scyther.tools.head.label>tête</VFE_Mech_Scyther.tools.head.label>
+
+<VFE_Mech_Pikeman.label>piquier</VFE_Mech_Pikeman.label>
+<VFE_Mech_Pikeman.description>Un mécanoïde de combat multi-pattes encombrant, spécialisé comme plateforme d'armes à longue portée. Bien qu'efficace à distance, il est faible dans les combats à courte distance et en mêlée. Les vétérans de la guerre des mécanoïdes savent qu’il vaut mieux attaquer un piquier au corps à corps. Cette unité en particulier semble avoir été fraîchement fabriquée et fonctionnera de manière plus solide.</VFE_Mech_Pikeman.description>
+<VFE_Mech_Pikeman.tools.front_left_leg.label>jambe avant gauche</VFE_Mech_Pikeman.tools.front_left_leg.label>
+<VFE_Mech_Pikeman.tools.front_right_leg.label>jambe avant droite</VFE_Mech_Pikeman.tools.front_right_leg.label>
+<VFE_Mech_Pikeman.tools.head.label>tête</VFE_Mech_Pikeman.tools.head.label>
+
+<VFE_Mech_Carpenter.label>charpentier</VFE_Mech_Carpenter.label>
+<VFE_Mech_Carpenter.description>Un mécanoïde utilitaire rapide, quadrupède, ressemblant à un scarabée, conçu pour assembler et désassembler des structures, même au milieu de tirs croisés intenses, grâce à une série de griffes, de chalumeaux et de forets. Les charpentiers analysent les structures voisines à la recherche de paramètres de conception contradictoires avant de se précipiter pour les démonter. Les vétérans de la guerre des mécanoïdes affirment que des centrales et des tourelles qui prennent des jours, voire des semaines à assembler, disparaissent en quelques minutes à l'approche d'un charpentier. Cette unité en particulier semble avoir été fraîchement fabriquée et fonctionnera de manière plus solide.</VFE_Mech_Carpenter.description>
+<VFE_Mech_Carpenter.tools.front_left_leg.label>jambe avant gauche</VFE_Mech_Carpenter.tools.front_left_leg.label>
+<VFE_Mech_Carpenter.tools.front_right_leg.label>jambe avant droite</VFE_Mech_Carpenter.tools.front_right_leg.label>
+<VFE_Mech_Carpenter.tools.head.label>tête</VFE_Mech_Carpenter.tools.head.label>
+
+<VFE_Mech_Termite.label>termite</VFE_Mech_Termite.label>
+<VFE_Mech_Termite.description>Un mécanoïde de taille moyenne. Les termites sont spécialisés dans le creusage, la perforation et le franchissement des structures défensives. Les défenseurs doivent décider s'ils essayent d'éliminer le termite avant qu'il ne puisse creuser à travers leurs défenses, ou le tuer là où il émerge. Cette unité en particulier semble avoir été fraîchement fabriquée et fonctionnera de manière plus solide.</VFE_Mech_Termite.description>
+<VFE_Mech_Termite.tools.head.label>tête</VFE_Mech_Termite.tools.head.label>
+
+
+</LanguageData>

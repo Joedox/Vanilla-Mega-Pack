@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Books Expanded</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+
+<!-- Le jeu corrige le defName et il m'est impossible de le traduire. Je remplace directement le label et la description afin de traduire VBE_Blueprint. -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VBE_Blueprint"]/label</xpath>
+          <value>
+            <label>plan</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VBE_Blueprint"]/description</xpath>
+          <value>
+            <description>Un plan contenant des secrets technologiques. Son étude permet à votre colonie de comprendre parfaitement un projet de recherche particulier.\n\nLes plans contenant des connaissances trop avancées ne peuvent pas être lus avant que d'autres projets de recherche ne soient terminés.</description>
+          </value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+
+</Patch>

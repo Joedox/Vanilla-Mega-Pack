@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: beaver dam -->
+<AEXP_BeaverDam.label>barrage de castor</AEXP_BeaverDam.label>
+<!-- EN: Beaver dams or beaver impoundments are dams built by beavers to provide ponds as protection against predators such as coyotes, wolves, and bears, and to provide easy access to food during winter. -->
+<AEXP_BeaverDam.description>Les barrages de castors ou les retenues de castors sont des barrages construits par les castors pour fournir des étangs comme protection contre les prédateurs tels que les coyotes, les loups et les ours, et pour fournir un accès facile à la nourriture pendant l'hiver.</AEXP_BeaverDam.description>
+
+
+<!-- EN: anaconda egg (fert.) -->
+<AEXP_EggAnacondaFertilized.label>œuf d'anaconda (fécondé)</AEXP_EggAnacondaFertilized.label>
+<!-- EN: A fertilized anaconda egg. If all goes well, it should hatch into an anaconda. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggAnacondaFertilized.description>Un œuf d'anaconda fécondé. Si tout se passe bien, il devrait éclore en bébé anaconda. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggAnacondaFertilized.description>
+
+<!-- EN: anaconda egg (unfert.) -->
+<AEXP_EggAnacondaUnfertilized.label>œuf d'anaconda (non fécondé)</AEXP_EggAnacondaUnfertilized.label>
+<!-- EN: An unfertilized anaconda egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggAnacondaUnfertilized.description>Un œuf d'anaconda non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggAnacondaUnfertilized.description>
+
+<!-- EN: crocodile egg (fert.) -->
+<AEXP_EggCrocodileFertilized.label>œuf de crocodile (fécondé)</AEXP_EggCrocodileFertilized.label>
+<!-- EN: A fertilized crocodile egg. If all goes well, it should hatch into a crocodile. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggCrocodileFertilized.description>Un œuf de crocodile fécondé. Si tout se passe bien, il devrait éclore en un bébé crocodile. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggCrocodileFertilized.description>
+
+<!-- EN: crocodile egg (unfert.) -->
+<AEXP_EggCrocodileUnfertilized.label>œuf de crocodile (non fécondé)</AEXP_EggCrocodileUnfertilized.label>
+<!-- EN: An unfertilized crocodile egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggCrocodileUnfertilized.description>Un œuf de crocodile non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggCrocodileUnfertilized.description>
+
+<!-- EN: desert tortoise egg (fert.) -->
+<AEXP_EggDesertTortoiseFertilized.label>œuf de tortue du désert (fécondé)</AEXP_EggDesertTortoiseFertilized.label>
+<!-- EN: A fertilized desert tortoise egg. If all goes well, it should hatch into a baby desert tortoise. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggDesertTortoiseFertilized.description>Un œuf de tortue du désert fécondé. Si tout se passe bien, il devrait éclore en un bébé tortue du désert. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggDesertTortoiseFertilized.description>
+
+<!-- EN: desert tortoise egg (unfert.) -->
+<AEXP_EggDesertTortoiseUnfertilized.label>œuf de tortue du désert (non fécondé)</AEXP_EggDesertTortoiseUnfertilized.label>
+<!-- EN: An unfertilized desert tortoise egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggDesertTortoiseUnfertilized.description>Un œuf de tortue du désert non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggDesertTortoiseUnfertilized.description>
+
+<!-- EN: gila monster egg (fert.) -->
+<AEXP_EggGilaMonsterFertilized.label>œuf de monstre de gila (fécondé)</AEXP_EggGilaMonsterFertilized.label>
+<!-- EN: A fertilized gila monster egg. If all goes well, it should hatch into a baby gila monster. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggGilaMonsterFertilized.description>Un œuf de monstre de Gila fécondé. Si tout se passe bien, il devrait éclore en un bébé monstre de gila. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggGilaMonsterFertilized.description>
+
+<!-- EN: gila monster egg (unfert.) -->
+<AEXP_EggGilaMonsterUnfertilized.label>œuf de monstre de gila (non fécondé)</AEXP_EggGilaMonsterUnfertilized.label>
+<!-- EN: An unfertilized desert gila monster egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggGilaMonsterUnfertilized.description>Un œuf non fécondé de monstre de Gila du désert. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggGilaMonsterUnfertilized.description>
+
+<!-- EN: platypus egg (fert.) -->
+<AEXP_EggPlatypusFertilized.label>œuf d'ornithorynque (fécondé)</AEXP_EggPlatypusFertilized.label>
+<!-- EN: A fertilized platypus egg. If all goes well, it should hatch into a baby platypus. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggPlatypusFertilized.description>Un œuf d'ornithorynque fécondé. Si tout se passe bien, il devrait éclore en un bébé ornithorynque. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggPlatypusFertilized.description>
+
+<!-- EN: platypus egg (unfert.) -->
+<AEXP_EggPlatypusUnfertilized.label>œuf d'ornithorynque (non fécondé)</AEXP_EggPlatypusUnfertilized.label>
+<!-- EN: An unfertilized platypus egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggPlatypusUnfertilized.description>Un œuf d'ornithorynque non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggPlatypusUnfertilized.description>
+
+<!-- EN: rattlesnake egg (fert.) -->
+<AEXP_EggRattlesnakeFertilized.label>œuf de serpent à sonnette (fécondé)</AEXP_EggRattlesnakeFertilized.label>
+<!-- EN: A fertilized rattlesnake egg. If all goes well, it should hatch into a rattlesnake. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggRattlesnakeFertilized.description>Un œuf de serpent à sonnette fécondé. Si tout se passe bien, il devrait éclore en un serpent à sonnette. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggRattlesnakeFertilized.description>
+
+<!-- EN: rattlesnake egg (unfert.) -->
+<AEXP_EggRattlesnakeUnfertilized.label>œuf de serpent à sonnette (non fécondé)</AEXP_EggRattlesnakeUnfertilized.label>
+<!-- EN: An unfertilized rattlesnake egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggRattlesnakeUnfertilized.description>Un œuf de serpent à sonnette non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggRattlesnakeUnfertilized.description>
+
+<!-- EN: wild goose egg (fert.) -->
+<AEXP_EggWildGooseFertilized.label>œuf d'oie sauvage (fécondé)</AEXP_EggWildGooseFertilized.label>
+<!-- EN: A fertilized wild goose egg. If all goes well, it should hatch into a baby wild gosling. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggWildGooseFertilized.description>Un œuf d'oie sauvage fécondé. Si tout se passe bien, il devrait éclore en un oison sauvage. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggWildGooseFertilized.description>
+
+<!-- EN: wild goose egg (unfert.) -->
+<AEXP_EggWildGooseUnfertilized.label>œuf d'oie sauvage (non fécondé)</AEXP_EggWildGooseUnfertilized.label>
+<!-- EN: An unfertilized wild goose egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggWildGooseUnfertilized.description>Un œuf d'oie sauvage non fertilisé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggWildGooseUnfertilized.description>
+
+
+<!-- EN: lion pelt -->
+<AEXP_Leather_Lion.label>fourrure de lion</AEXP_Leather_Lion.label>
+<!-- EN: A strong, luxurious leather of the leader of the animal kingdom. Often sought after by urbworld philanthropists. -->
+<AEXP_Leather_Lion.description>Un cuir fort et luxueux du roi des animaux. Souvent recherché par les philanthropes du Urbworld.</AEXP_Leather_Lion.description>
+
+<!-- EN: platypus leather -->
+<AEXP_Leather_Platypus.label>cuir d'ornithorynque</AEXP_Leather_Platypus.label>
+<!-- EN: Platypus fur was considered a valuable commodity in the days of old Terra, a fact that almost drove the Platypus to extinction. Luckily, the animal was protected and thrived again. -->
+<AEXP_Leather_Platypus.description>La fourrure d'ornithorynque était considérée comme une marchandise précieuse à l'époque de l'ancienne Terre, un fait qui a presque conduit l'ornithorynque à l'extinction. Heureusement, l'animal a été protégé et a prospéré à nouveau.</AEXP_Leather_Platypus.description>
+
+<!-- EN: wildebeest pelt -->
+<AEXP_Leather_Wildebeest.label>fourrure de gnou</AEXP_Leather_Wildebeest.label>
+<!-- EN: A thick but crumbly wildebeest fur and leather. Whilst it provides some degree of damage protection, the overall longevity of the item decreases. -->
+<AEXP_Leather_Wildebeest.description>Une fourrure de peau de gnou épais mais friable. Si elle offre un certain degré de protection contre les dégâts, la durabilité globale de l'article diminue.</AEXP_Leather_Wildebeest.description>
+
+<!-- EN: camel wool -->
+<WoolCamel.label>laine de chameau</WoolCamel.label>
+<!-- EN: Camel's wool. It provides good insulation from heat. -->
+<WoolCamel.description>Laine de chameau. Elle assure une bonne isolation à la chaleur.</WoolCamel.description>
+
+
+<!-- EN: cheetah -->
+<AEXP_Cheetah.label>guépard</AEXP_Cheetah.label>
+<!-- EN: These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs. -->
+<AEXP_Cheetah.description>Ces chats sont maigres et longilignes, ce qui leur permet d'atteindre des vitesses incroyables. Ils ont une fourrure de couleur fauve à beige très clair avec des taches rondes noires, de très longues pattes, une longue queue étroite pour l'équilibre, et une grande cage thoracique qui contient de larges poumons.</AEXP_Cheetah.description>
+<!-- EN: left claw -->
+<AEXP_Cheetah.tools.left_claw.label>griffe gauche</AEXP_Cheetah.tools.left_claw.label>
+<!-- EN: claw -->
+<AEXP_Cheetah.tools.left_claw.labelNoLocation>griffe</AEXP_Cheetah.tools.left_claw.labelNoLocation>
+<!-- EN: right claw -->
+<AEXP_Cheetah.tools.right_claw.label>griffe droite</AEXP_Cheetah.tools.right_claw.label>
+<!-- EN: claw -->
+<AEXP_Cheetah.tools.right_claw.labelNoLocation>griffe</AEXP_Cheetah.tools.right_claw.labelNoLocation>
+<!-- EN: head -->
+<AEXP_Cheetah.tools.head.label>tête</AEXP_Cheetah.tools.head.label>
+
+<!-- EN: coyote -->
+<AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+<!-- EN: A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
+<AEXP_Coyote.description>Un loup de prairie originaire des zones désertiques et broussailleuses. Il est capable de chasser des proies beaucoup plus grosses, et on le trouve souvent en meute, comme les loups.</AEXP_Coyote.description>
+<!-- EN: left claw -->
+<AEXP_Coyote.tools.left_claw.label>griffe gauche</AEXP_Coyote.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Coyote.tools.right_claw.label>griffe droite</AEXP_Coyote.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Coyote.tools.head.label>tête</AEXP_Coyote.tools.head.label>
+
+<!-- EN: crocodile -->
+<AEXP_Crocodile.label>crocodile</AEXP_Crocodile.label>
+<!-- EN: A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes. -->
+<AEXP_Crocodile.description>Un grand reptile semi-aquatique, que l'on trouve le plus souvent sur les berges des rivières. Son instinct de prédateur combiné à une mâchoire extrêmement puissante lui permet de s'attaquer à des proies beaucoup plus grosses. Les crocodiles plus âgés peuvent atteindre des tailles monstrueuses.</AEXP_Crocodile.description>
+
+<!-- EN: giraffe -->
+<AEXP_Giraffe.label>girafe</AEXP_Giraffe.label>
+<!-- EN: A giraffe is one of the tallest mammals in the galaxy, using it's long neck to reach leaves and branches unavailable for smaller herbivores. -->
+<AEXP_Giraffe.description>La girafe est l'un des plus grands mammifères de la galaxie. Elle utilise son long cou pour atteindre des feuilles et des branches inaccessibles aux herbivores plus petits.</AEXP_Giraffe.description>
+<!-- EN: left hoof -->
+<AEXP_Giraffe.tools.left_hoof.label>sabot gauche</AEXP_Giraffe.tools.left_hoof.label>
+<!-- EN: right hoof -->
+<AEXP_Giraffe.tools.right_hoof.label>sabot droit</AEXP_Giraffe.tools.right_hoof.label>
+<!-- EN: head -->
+<AEXP_Giraffe.tools.head.label>tête</AEXP_Giraffe.tools.head.label>
+
+<!-- EN: wildebeest -->
+<AEXP_Wildebeest.label>gnou</AEXP_Wildebeest.label>
+<!-- EN: Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its Wildness, it produces milk at much slower rate than a standard cow. -->
+<AEXP_Wildebeest.description>Également appelée Gnous, cette vache sauvage a gagné son nom grâce à ses cornes menaçantes, sa barbe pointue et sa grosse tête. Ces animaux sont connus pour leurs migrations et la taille de leurs troupeaux.\n\nEn raison de son caractère sauvage, elle produit du lait à un rythme beaucoup plus lent qu'une vache standard.</AEXP_Wildebeest.description>
+<!-- EN: head -->
+<AEXP_Wildebeest.tools.head.label>tête</AEXP_Wildebeest.tools.head.label>
+<!-- EN: left hoof -->
+<AEXP_Wildebeest.tools.left_hoof.label>sabot gauche</AEXP_Wildebeest.tools.left_hoof.label>
+<!-- EN: right hoof -->
+<AEXP_Wildebeest.tools.right_hoof.label>sabot droit</AEXP_Wildebeest.tools.right_hoof.label>
+
+<!-- EN: zebra -->
+<AEXP_Zebra.label>zèbre</AEXP_Zebra.label>
+<!-- EN: A member of the horse family native to arid and desert areas. Whilst it doesn't share the same bodysize as a horse, due to years of evolution it's one of the fastest hooved animals. -->
+<AEXP_Zebra.description>Ce membre de la famille des chevaux est originaire des régions arides et désertiques. Bien qu'il n'ait pas la même taille qu'un cheval, grâce à des années d'évolution, c'est l'un des animaux à sabots les plus rapides.</AEXP_Zebra.description>
+<!-- EN: head -->
+<AEXP_Zebra.tools.head.label>tête</AEXP_Zebra.tools.head.label>
+<!-- EN: left hoof -->
+<AEXP_Zebra.tools.left_hoof.label>sabot gauche</AEXP_Zebra.tools.left_hoof.label>
+<!-- EN: right hoof -->
+<AEXP_Zebra.tools.right_hoof.label>sabot droit</AEXP_Zebra.tools.right_hoof.label>
+
+
+<!-- EN: boombat -->
+<AEXP_Boombat.label>boombat</AEXP_Boombat.label>
+<!-- EN: Due to some insane experiment, these cute, fluffy rodents create a powerful fire-starting explosion when killed. -->
+<AEXP_Boombat.description>Suite à une expérience insensée, ces rongeurs mignons et pelucheux créent une puissante explosion incendiaire lorsqu'ils sont tués.</AEXP_Boombat.description>
+<!-- EN: left claw -->
+<AEXP_Boombat.tools.left_claw.label>griffe gauche</AEXP_Boombat.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Boombat.tools.right_claw.label>griffe droite</AEXP_Boombat.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Boombat.tools.head.label>tête</AEXP_Boombat.tools.head.label>
+
+<!-- EN: kangaroo -->
+<AEXP_Kangaroo.label>kangourou</AEXP_Kangaroo.label>
+<!-- EN: Kangaroo is a large, human-sized marsupial with strong legs and powerful arms. It's favoured by tribal hunters due to its tender meat and heat resistant leather. Kangaroos make for powerful adversaries in melee combat, and can be trained easily to become animal super-soldiers. -->
+<AEXP_Kangaroo.description>Le kangourou est un grand marsupial de taille humaine, doté de jambes et de bras puissants. Il est apprécié des chasseurs tribaux pour sa viande tendre et son cuir résistant à la chaleur. Les kangourous sont des adversaires puissants en combat de mêlée et peuvent être facilement entraînés pour devenir des super-soldats animaux.</AEXP_Kangaroo.description>
+<!-- EN: head -->
+<AEXP_Kangaroo.tools.head.label>tête</AEXP_Kangaroo.tools.head.label>
+
+<!-- EN: koala -->
+<AEXP_Koala.label>koala</AEXP_Koala.label>
+<!-- EN: Koalas are easily recognizable for their stout body and large, round heads with fluffy ears. They typically inhabit arid and temperate woodlands, but can rarely be seen in tropical areas. Favoured by royal families, koalas are great household animals due to their wonderful nuzzling effect. -->
+<AEXP_Koala.description>Les koalas sont facilement reconnaissables à leur corps robuste et à leur grosse tête ronde aux oreilles duveteuses. Ils habitent généralement les forêts arides et tempérées, mais on les voit rarement dans les régions tropicales. Appréciés des familles royales, les koalas sont d'excellents animaux domestiques en raison de leur merveilleux câlinage.</AEXP_Koala.description>
+<!-- EN: left claw -->
+<AEXP_Koala.tools.left_claw.label>griffe gauche</AEXP_Koala.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Koala.tools.right_claw.label>griffe droite</AEXP_Koala.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Koala.tools.head.label>tête</AEXP_Koala.tools.head.label>
+
+<!-- EN: platypus -->
+<AEXP_Platypus.label>ornithorynque</AEXP_Platypus.label>
+<!-- EN: Platypus is the sole surviving representative of its animal family. They are beaver-tailed, duck billed mammals, known for the fact that they lay eggs. It is an omnivore animal, capable of killing small rodents with it's venomous ankle spurs. -->
+<AEXP_Platypus.description>L'ornithorynque est le seul représentant survivant de sa famille animale. Ce sont des mammifères à queue de castor et à bec de canard, connus pour leur capacité à pondre des œufs. C'est un animal omnivore, capable de tuer de petits rongeurs avec ses ergots de cheville venimeux.</AEXP_Platypus.description>
+<!-- EN: left claw -->
+<AEXP_Platypus.tools.left_claw.label>griffe gauche</AEXP_Platypus.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Platypus.tools.right_claw.label>griffe droite</AEXP_Platypus.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Platypus.tools.head.label>tête</AEXP_Platypus.tools.head.label>
+
+
+<!-- EN: arctic coyote -->
+<AEXP_ArcticCoyote.label>coyote arctique</AEXP_ArcticCoyote.label>
+<!-- EN: A small canine native to tundra and boreal forests. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
+<AEXP_ArcticCoyote.description>Un petit canidé originaire de la toundra et des forêts boréales. Il est capable de chasser des proies beaucoup plus grosses, et on le trouve souvent en meute, comme les loups.</AEXP_ArcticCoyote.description>
+<!-- EN: left claw -->
+<AEXP_ArcticCoyote.tools.left_claw.label>griffe gauche</AEXP_ArcticCoyote.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_ArcticCoyote.tools.right_claw.label>griffe droite</AEXP_ArcticCoyote.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_ArcticCoyote.tools.head.label>tête</AEXP_ArcticCoyote.tools.head.label>
+
+<!-- EN: black bear -->
+<AEXP_BlackBear.label>ours noir</AEXP_BlackBear.label>
+<!-- EN: A medium sized omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the black bear is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+<AEXP_BlackBear.description>Un mammifère omnivore de taille moyenne adapté aux climats froids. L'épaisse graisse et la fourrure de l'ours lui tiennent chaud en hiver.\n\nBien que son régime alimentaire habituel se compose de poisson, de baies, de miel et de viande récupérée, l'ours noir est capable d'utiliser sa force massive et ses griffes mortelles pour tuer des proies vivantes. Il est étonnamment rapide pour une créature aussi imposante.</AEXP_BlackBear.description>
+<!-- EN: left claw -->
+<AEXP_BlackBear.tools.left_claw.label>griffe gauche</AEXP_BlackBear.tools.left_claw.label>
+<!-- EN: claw -->
+<AEXP_BlackBear.tools.left_claw.labelNoLocation>griffe</AEXP_BlackBear.tools.left_claw.labelNoLocation>
+<!-- EN: right claw -->
+<AEXP_BlackBear.tools.right_claw.label>griffe droite</AEXP_BlackBear.tools.right_claw.label>
+<!-- EN: claw -->
+<AEXP_BlackBear.tools.right_claw.labelNoLocation>griffe</AEXP_BlackBear.tools.right_claw.labelNoLocation>
+<!-- EN: head -->
+<AEXP_BlackBear.tools.head.label>tête</AEXP_BlackBear.tools.head.label>
+
+
+<!-- EN: abyssinian cat -->
+<AEXP_CatAbyssinian.label>chat abyssin</AEXP_CatAbyssinian.label>
+<!-- EN: A slender, fine-boned, medium sized shrubland cat. -->
+<AEXP_CatAbyssinian.description>Un chat de buissons mince, à l'ossature fine, de taille moyenne.</AEXP_CatAbyssinian.description>
+<!-- EN: left claw -->
+<AEXP_CatAbyssinian.tools.left_claw.label>griffe gauche</AEXP_CatAbyssinian.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatAbyssinian.tools.right_claw.label>griffe droite</AEXP_CatAbyssinian.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatAbyssinian.tools.head.label>tête</AEXP_CatAbyssinian.tools.head.label>
+
+<!-- EN: bengal cat -->
+<AEXP_CatBengal.label>chat-léopard</AEXP_CatBengal.label>
+<!-- EN: A domesticated hybrid of a domestic cat and tropical leopard. -->
+<AEXP_CatBengal.description>Un hybride domestiqué d'un chat domestique et d'un léopard tropical.</AEXP_CatBengal.description>
+<!-- EN: left claw -->
+<AEXP_CatBengal.tools.left_claw.label>griffe gauche</AEXP_CatBengal.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatBengal.tools.right_claw.label>griffe droite</AEXP_CatBengal.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatBengal.tools.head.label>tête</AEXP_CatBengal.tools.head.label>
+
+<!-- EN: british shorthair cat -->
+<AEXP_CatBritishShorthair.label>chat british à poil court</AEXP_CatBritishShorthair.label>
+<!-- EN: A pedigreed version of a regular british cat, with a distinctively chunky body, dense coat and a very broad face. While being relatively powerful-looking due to the large chest and massive paws, these cats are absolutely harmless. -->
+<AEXP_CatBritishShorthair.description>Il s'agit d'une race à pedigree de chats britanniques ordinaires, avec un corps trapu, un pelage dense et un visage très large. Bien qu'ils aient une apparence relativement puissante en raison de leur large thorax et de leurs pattes massives, ces chats sont absolument inoffensifs.</AEXP_CatBritishShorthair.description>
+<!-- EN: left claw -->
+<AEXP_CatBritishShorthair.tools.left_claw.label>griffe gauche</AEXP_CatBritishShorthair.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatBritishShorthair.tools.right_claw.label>griffe droite</AEXP_CatBritishShorthair.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatBritishShorthair.tools.head.label>tête</AEXP_CatBritishShorthair.tools.head.label>
+
+<!-- EN: maine coon -->
+<AEXP_CatMaineCoon.label>chat maine coon</AEXP_CatMaineCoon.label>
+<!-- EN: A largest domesticated cat, it has a distinctive physical appearance and valuable hunting skills. It's a large and sociable cat, hence it has been given a nickname "the gentle giant." -->
+<AEXP_CatMaineCoon.description>Le plus grand des chats domestiqués, il possède une apparence physique particulière et de précieuses compétences en matière de chasse. C'est un chat de grande taille et sociable, d'où le surnom de "gentil géant" qui lui a été donné.</AEXP_CatMaineCoon.description>
+<!-- EN: left claw -->
+<AEXP_CatMaineCoon.tools.left_claw.label>griffe gauche</AEXP_CatMaineCoon.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatMaineCoon.tools.right_claw.label>griffe droite</AEXP_CatMaineCoon.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatMaineCoon.tools.head.label>tête</AEXP_CatMaineCoon.tools.head.label>
+
+<!-- EN: munchkin cat -->
+<AEXP_CatMunchkin.label>chat munchkin</AEXP_CatMunchkin.label>
+<!-- EN: Also known as a sausage cat, this new cat breed has distinctively short legs. Sweet natured, playful and people-oriented, these cats are perfect companions for people with lazy lifestyle. -->
+<AEXP_CatMunchkin.description>Également connue sous le nom de chat saucisse, cette nouvelle race de chat a des pattes courtes distinctives. D'une nature douce, joueurs et orientés vers les gens, ces chats sont des compagnons parfaits pour les personnes au mode de vie paresseux.</AEXP_CatMunchkin.description>
+<!-- EN: left claw -->
+<AEXP_CatMunchkin.tools.left_claw.label>griffe gauche</AEXP_CatMunchkin.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatMunchkin.tools.right_claw.label>griffe droite</AEXP_CatMunchkin.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatMunchkin.tools.head.label>tête</AEXP_CatMunchkin.tools.head.label>
+
+<!-- EN: norwegian forest cat -->
+<AEXP_CatNorwegianForest.label>chat norvégien</AEXP_CatNorwegianForest.label>
+<!-- EN: A cat adapted for very cold climates due to the top coat of glossy, water-shedding hair. -->
+<AEXP_CatNorwegianForest.description>Un chat adapté aux climats très froids grâce à sa couche supérieure de poils brillants qui se détachent au contact de l'eau.</AEXP_CatNorwegianForest.description>
+<!-- EN: left claw -->
+<AEXP_CatNorwegianForest.tools.left_claw.label>griffe gauche</AEXP_CatNorwegianForest.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatNorwegianForest.tools.right_claw.label>griffe droite</AEXP_CatNorwegianForest.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatNorwegianForest.tools.head.label>tête</AEXP_CatNorwegianForest.tools.head.label>
+
+<!-- EN: persian cat -->
+<AEXP_CatPersian.label>chat persan</AEXP_CatPersian.label>
+<!-- EN: A long haired cat originating from desert wildcats, Persian cats are regal, intelligent and agile, which makes them excellent for hunting small rodents and birds. -->
+<AEXP_CatPersian.description>Chat à poils longs originaire des chats sauvages du désert, le chat persan est royal, intelligent et agile, ce qui le rend excellent pour la chasse aux petits rongeurs et d'oiseaux.</AEXP_CatPersian.description>
+<!-- EN: left claw -->
+<AEXP_CatPersian.tools.left_claw.label>griffe gauche</AEXP_CatPersian.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatPersian.tools.right_claw.label>griffe droite</AEXP_CatPersian.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatPersian.tools.head.label>tête</AEXP_CatPersian.tools.head.label>
+
+<!-- EN: siamese cat -->
+<AEXP_CatSiamese.label>chat siamois</AEXP_CatSiamese.label>
+<!-- EN: A cat with distinctively triangular head, blue eyes and long and muscular body, renowned for it's social nature. -->
+<AEXP_CatSiamese.description>Un chat à la tête triangulaire caractéristique, aux yeux bleus et au corps long et musclé, réputé pour sa nature sociale.</AEXP_CatSiamese.description>
+<!-- EN: left claw -->
+<AEXP_CatSiamese.tools.left_claw.label>griffe gauche</AEXP_CatSiamese.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatSiamese.tools.right_claw.label>griffe droite</AEXP_CatSiamese.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatSiamese.tools.head.label>tête</AEXP_CatSiamese.tools.head.label>
+
+<!-- EN: somali cat -->
+<AEXP_CatSomali.label>chat somali</AEXP_CatSomali.label>
+<!-- EN: A shrubland cat, sharing the same family as the Abyssinian cat. It has a bushy tail and almond shaped eyes. -->
+<AEXP_CatSomali.description>Un chat des buissons, partageant la même famille que le chat abyssin. Il a une queue touffue et des yeux en amande.</AEXP_CatSomali.description>
+<!-- EN: left claw -->
+<AEXP_CatSomali.tools.left_claw.label>griffe gauche</AEXP_CatSomali.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatSomali.tools.right_claw.label>griffe droite</AEXP_CatSomali.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatSomali.tools.head.label>tête</AEXP_CatSomali.tools.head.label>
+
+<!-- EN: sphynx cat -->
+<AEXP_CatSphynx.label>chat sphynx</AEXP_CatSphynx.label>
+<!-- EN: A cat known for it's lack of fur, developed due to selective breeding. Being warm to the touch, they lose body temperature easily which makes it seek out heat sources. -->
+<AEXP_CatSphynx.description>Un chat connu pour son absence de fourrure, développé grâce à une reproduction sélective. Chaud au toucher, il perd facilement sa température corporelle, ce qui le pousse à rechercher des sources de chaleur.</AEXP_CatSphynx.description>
+<!-- EN: left claw -->
+<AEXP_CatSphynx.tools.left_claw.label>griffe gauche</AEXP_CatSphynx.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_CatSphynx.tools.right_claw.label>griffe droite</AEXP_CatSphynx.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_CatSphynx.tools.head.label>tête</AEXP_CatSphynx.tools.head.label>
+
+
+<!-- EN: desert tortoise -->
+<AEXP_DesertTortoise.label>tortue du désert</AEXP_DesertTortoise.label>
+<!-- EN: This heavily armored desert-dwelling reptile is known for its slow moving speed and extremely hard, flat domed shell, making it tough to kill. Desert tortoises, despite their small size, are great combat animals and are relatively easy to tame. -->
+<AEXP_DesertTortoise.description>Ce reptile fortement blindé vivant dans le désert est connu pour sa vitesse de déplacement lente et sa carapace extrêmement dure et plate, ce qui le rend difficile à tuer. Les tortues du désert, malgré leur petite taille, sont d'excellents animaux de combat et sont relativement faciles à apprivoiser.</AEXP_DesertTortoise.description>
+<!-- EN: beak -->
+<AEXP_DesertTortoise.tools.beak.label>bec</AEXP_DesertTortoise.tools.beak.label>
+<!-- EN: head -->
+<AEXP_DesertTortoise.tools.head.label>tête</AEXP_DesertTortoise.tools.head.label>
+
+<!-- EN: gila monster -->
+<AEXP_GilaMonster.label>monstre de gila</AEXP_GilaMonster.label>
+<!-- EN: A large, slow moving type of lizard found mostly in the desert, known for it's highly venomous bite which inflicts a severe toxic build-up in it's prey. Outlanders to this day believe in tales which state that this lizard is a spawn from hell, and that it's foul breath is lethal. -->
+<AEXP_GilaMonster.description>Un grand lézard qui se déplace lentement et que l'on trouve principalement dans le désert, connu pour sa morsure hautement venimeuse qui inflige une sévère accumulation toxique à sa proie. Les habitants de l'Outland croient encore aujourd'hui que ce lézard est un rejeton de l'enfer et que son haleine fétide est mortelle.</AEXP_GilaMonster.description>
+<!-- EN: left claw -->
+<AEXP_GilaMonster.tools.left_claw.label>griffe gauche</AEXP_GilaMonster.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_GilaMonster.tools.right_claw.label>griffe droite</AEXP_GilaMonster.tools.right_claw.label>
+<!-- EN: teeth -->
+<AEXP_GilaMonster.tools.teeth.label>dents</AEXP_GilaMonster.tools.teeth.label>
+<!-- EN: head -->
+<AEXP_GilaMonster.tools.head.label>tête</AEXP_GilaMonster.tools.head.label>
+
+<!-- EN: hyena -->
+<AEXP_Hyena.label>hyène</AEXP_Hyena.label>
+<!-- EN: A large dog-like carnivore most often found in the shrublands and deserts. A common trope in tribal legends, the laughter produced by these animals can sow fear during the long desert nights. -->
+<AEXP_Hyena.description>Un grand carnivore ressemblant à un chien que l'on trouve le plus souvent dans les zones broussailleuses et les déserts. Un sujet commun dans les légendes tribales, le rire produit par ces animaux peut semer la peur pendant les longues nuits du désert.</AEXP_Hyena.description>
+<!-- EN: left claw -->
+<AEXP_Hyena.tools.left_claw.label>griffe gauche</AEXP_Hyena.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Hyena.tools.right_claw.label>griffe droite</AEXP_Hyena.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Hyena.tools.head.label>tête</AEXP_Hyena.tools.head.label>
+
+<!-- EN: lion -->
+<AEXP_Lion.label>lion</AEXP_Lion.label>
+<!-- EN: A king of the animal kingdom, a lion is a muscular, deep-chested cat with a short head and a prominent mane. Being the biggest of the cat species, lions are excellent combat animals despite their Wildness. -->
+<AEXP_Lion.description>Roi du règne animal, le lion est un félin musclé, au torse fort, à la tête courte et à la crinière proéminente. Étant le plus gros de l'espèce féline, les lions sont d'excellents animaux de combat malgré leur caractère sauvage.</AEXP_Lion.description>
+<!-- EN: left claw -->
+<AEXP_Lion.tools.left_claw.label>griffe gauche</AEXP_Lion.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Lion.tools.right_claw.label>griffe droite</AEXP_Lion.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Lion.tools.head.label>tête</AEXP_Lion.tools.head.label>
+
+
+<!-- EN: beagle -->
+<AEXP_Beagle.label>beagle</AEXP_Beagle.label>
+<!-- EN: A small scent hound developed primarily to hunt hares. It's intelligence and loyalty make it a valuable companion on the hunt. -->
+<AEXP_Beagle.description>Petit chien de chasse à l'odeur développé principalement pour la chasse au lièvre. Son intelligence et sa loyauté en font un compagnon précieux pour la chasse.</AEXP_Beagle.description>
+<!-- EN: dog meat -->
+<AEXP_Beagle.race.meatLabel>viande de chien</AEXP_Beagle.race.meatLabel>
+<!-- EN: left claw -->
+<AEXP_Beagle.tools.left_claw.label>griffe gauche</AEXP_Beagle.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Beagle.tools.right_claw.label>griffe droite</AEXP_Beagle.tools.right_claw.label>
+<!-- EN: cute little teeth -->
+<AEXP_Beagle.tools.cute_little_teeth.label>jolies petites dents</AEXP_Beagle.tools.cute_little_teeth.label>
+<!-- EN: head -->
+<AEXP_Beagle.tools.head.label>tête</AEXP_Beagle.tools.head.label>
+
+<!-- EN: chihuahua -->
+<AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
+<!-- EN: A small dog, just a little bit bigger than a rat. Back in ancient times considered to be reincarnations of different deities and are to this day considered sacred. -->
+<AEXP_Chihuahua.description>Un tout petit chien, juste un peu plus grand qu'un rat. Dans les temps anciens, ils étaient considérés comme des réincarnations de différentes divinités et sont à ce jour considérés comme sacrés.</AEXP_Chihuahua.description>
+<!-- EN: left claw -->
+<AEXP_Chihuahua.tools.left_claw.label>griffe gauche</AEXP_Chihuahua.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Chihuahua.tools.right_claw.label>griffe droite</AEXP_Chihuahua.tools.right_claw.label>
+<!-- EN: cute little teeth -->
+<AEXP_Chihuahua.tools.cute_little_teeth.label>jolies petites dents</AEXP_Chihuahua.tools.cute_little_teeth.label>
+<!-- EN: head -->
+<AEXP_Chihuahua.tools.head.label>tête</AEXP_Chihuahua.tools.head.label>
+
+<!-- EN: corgi -->
+<AEXP_Corgi.label>corgi</AEXP_Corgi.label>
+<!-- EN: Historically used for cattle herding, Corgis quickly became popular on imperial worlds and are recognized as a symbol of royalty. -->
+<AEXP_Corgi.description>Historiquement utilisés pour la garde des troupeaux, les Corgis sont rapidement devenus populaires sur les mondes impériaux et sont reconnus comme un symbole de la royauté.</AEXP_Corgi.description>
+<!-- EN: left claw -->
+<AEXP_Corgi.tools.left_claw.label>griffe gauche</AEXP_Corgi.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Corgi.tools.right_claw.label>griffe droite</AEXP_Corgi.tools.right_claw.label>
+<!-- EN: cute little teeth -->
+<AEXP_Corgi.tools.cute_little_teeth.label>jolies petites dents</AEXP_Corgi.tools.cute_little_teeth.label>
+<!-- EN: head -->
+<AEXP_Corgi.tools.head.label>tête</AEXP_Corgi.tools.head.label>
+
+<!-- EN: french bulldog -->
+<AEXP_FrenchBulldog.label>bouledogue français</AEXP_FrenchBulldog.label>
+<!-- EN: Originally used for bull-baiting, which is an act of pitting one species of animal against bulls, these bulldogs are fierce opponents and due to their small body-size, they are fast, agile and lethal. -->
+<AEXP_FrenchBulldog.description>Utilisés à l'origine pour l'appâtage des taureaux, qui consiste à opposer une espèce animale à des taureaux, ces bouledogues sont des adversaires redoutables et, grâce à leur petite taille, ils sont rapides, agiles et mortels.</AEXP_FrenchBulldog.description>
+<!-- EN: left claw -->
+<AEXP_FrenchBulldog.tools.left_claw.label>griffe gauche</AEXP_FrenchBulldog.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_FrenchBulldog.tools.right_claw.label>griffe droite</AEXP_FrenchBulldog.tools.right_claw.label>
+<!-- EN: cute little teeth -->
+<AEXP_FrenchBulldog.tools.cute_little_teeth.label>jolies petites dents</AEXP_FrenchBulldog.tools.cute_little_teeth.label>
+<!-- EN: head -->
+<AEXP_FrenchBulldog.tools.head.label>tête</AEXP_FrenchBulldog.tools.head.label>
+
+<!-- EN: german shepherd -->
+<AEXP_GermanShepherd.label>berger allemand</AEXP_GermanShepherd.label>
+<!-- EN: A large sized working dog. Easy to train and good at following instructions, they are often seen accompanying glitterworld police forces and rimworld farmers. -->
+<AEXP_GermanShepherd.description>Un chien de travail de grande taille. Facile à dresser et capable de suivre des instructions, on le voit souvent accompagner les forces de police de Glitterworld et les agriculteurs de Rimworld.</AEXP_GermanShepherd.description>
+<!-- EN: left claw -->
+<AEXP_GermanShepherd.tools.left_claw.label>griffe gauche</AEXP_GermanShepherd.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_GermanShepherd.tools.right_claw.label>griffe droite</AEXP_GermanShepherd.tools.right_claw.label>
+<!-- EN: bite -->
+<AEXP_GermanShepherd.tools.bite.label>morsure</AEXP_GermanShepherd.tools.bite.label>
+<!-- EN: head -->
+<AEXP_GermanShepherd.tools.head.label>tête</AEXP_GermanShepherd.tools.head.label>
+
+<!-- EN: great dane -->
+<AEXP_GreatDane.label>dogue allemand</AEXP_GreatDane.label>
+<!-- EN: One of the largest species of dogs, Great Danes are dignified, elegant and strong. -->
+<AEXP_GreatDane.description>L'une des plus grandes espèces de chiens, le dogue allemand est digne, élégant et fort.</AEXP_GreatDane.description>
+<!-- EN: left claw -->
+<AEXP_GreatDane.tools.left_claw.label>griffe gauche</AEXP_GreatDane.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_GreatDane.tools.right_claw.label>griffe droite</AEXP_GreatDane.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_GreatDane.tools.head.label>tête</AEXP_GreatDane.tools.head.label>
+
+<!-- EN: poodle -->
+<AEXP_Poodle.label>caniche</AEXP_Poodle.label>
+<!-- EN: Large, pampered dogs, historically used for bird hunting, now mostly residing in imperial palaces and royal gardens. -->
+<AEXP_Poodle.description>De grands chiens choyés, historiquement utilisés pour la chasse aux oiseaux, qui résident aujourd'hui principalement dans les palais impériaux et les jardins royaux.</AEXP_Poodle.description>
+<!-- EN: left claw -->
+<AEXP_Poodle.tools.left_claw.label>griffe gauche</AEXP_Poodle.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Poodle.tools.right_claw.label>griffe droite</AEXP_Poodle.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Poodle.tools.head.label>tête</AEXP_Poodle.tools.head.label>
+
+<!-- EN: pug -->
+<AEXP_Pug.label>carlin</AEXP_Pug.label>
+<!-- EN: A small dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail. They are known for being extremely social and friendly, however due to years of genetic alterations they have a very short lifespan. Whatever life they have, they will always cheer up people around them. -->
+<AEXP_Pug.description>C'est un petit chien dont les caractéristiques physiques distinctives sont un visage ridé, un museau court et une queue enroulée. Ils sont connus pour être extrêmement sociaux et amicaux, mais en raison d'années d'altérations génétiques, ils ont une durée de vie très courte. Quelle que soit la vie qu'ils mènent, ils réconfortent toujours les personnes qui les entourent.</AEXP_Pug.description>
+<!-- EN: left claw -->
+<AEXP_Pug.tools.left_claw.label>griffe gauche</AEXP_Pug.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Pug.tools.right_claw.label>griffe droite</AEXP_Pug.tools.right_claw.label>
+<!-- EN: cute little teeth -->
+<AEXP_Pug.tools.cute_little_teeth.label>jolies petites dents</AEXP_Pug.tools.cute_little_teeth.label>
+<!-- EN: head -->
+<AEXP_Pug.tools.head.label>tête</AEXP_Pug.tools.head.label>
+
+<!-- EN: rottweiler -->
+<AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
+<!-- EN: A large domestic dog and one of the oldest herding breeds. Being one of the most hard working dogs, it is a perfect companions for farmers and cattle herders. -->
+<AEXP_Rottweiler.description>C'est un grand chien domestique et l'une des plus anciennes races de bergers. Étant l'un des chiens les plus travailleurs, il est le compagnon idéal des agriculteurs et des éleveurs de bétail.</AEXP_Rottweiler.description>
+<!-- EN: left claw -->
+<AEXP_Rottweiler.tools.left_claw.label>griffe gauche</AEXP_Rottweiler.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Rottweiler.tools.right_claw.label>griffe droite</AEXP_Rottweiler.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Rottweiler.tools.head.label>tête</AEXP_Rottweiler.tools.head.label>
+
+<!-- EN: shih-tzu -->
+<AEXP_Shih-Tzu.label>shih tzu</AEXP_Shih-Tzu.label>
+<!-- EN: An oriental toy dog, Shih-Tzu have extremely long and soft hair. While they are kind of useless, petting them provides people with great comfort. -->
+<AEXP_Shih-Tzu.description>Chien-jouet oriental, le Shih Tzu a des poils extrêmement longs et doux. Bien qu'ils soient plutôt inutiles, les caresser procure un grand réconfort aux gens.</AEXP_Shih-Tzu.description>
+<!-- EN: left claw -->
+<AEXP_Shih-Tzu.tools.left_claw.label>griffe gauche</AEXP_Shih-Tzu.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Shih-Tzu.tools.right_claw.label>griffe droite</AEXP_Shih-Tzu.tools.right_claw.label>
+<!-- EN: cute little teeth -->
+<AEXP_Shih-Tzu.tools.cute_little_teeth.label>jolies petites dents</AEXP_Shih-Tzu.tools.cute_little_teeth.label>
+<!-- EN: head -->
+<AEXP_Shih-Tzu.tools.head.label>tête</AEXP_Shih-Tzu.tools.head.label>
+
+<!-- EN: welsh terrier -->
+<AEXP_WelshTerrier.label>welsh terrier</AEXP_WelshTerrier.label>
+<!-- EN: A hunting dog, welsh terriers are perfect for small rodents, foxes and badgers. Due to their intelligence they are perfect at way-finding, always able to return home after running into the woods. -->
+<AEXP_WelshTerrier.description>Chien de chasse, le welsh terrier est parfait pour les petits rongeurs, les renards et les blaireaux. Grâce à leur intelligence, ils sont parfaits pour trouver leur chemin et sont toujours capables de rentrer chez eux après avoir couru dans les bois.</AEXP_WelshTerrier.description>
+<!-- EN: left claw -->
+<AEXP_WelshTerrier.tools.left_claw.label>griffe gauche</AEXP_WelshTerrier.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_WelshTerrier.tools.right_claw.label>griffe droite</AEXP_WelshTerrier.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_WelshTerrier.tools.head.label>tête</AEXP_WelshTerrier.tools.head.label>
+
+
+<!-- EN: camel -->
+<AEXP_Camel.label>chameau</AEXP_Camel.label>
+<!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but two humps make it extremely uncomfortable to ride.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+<AEXP_Camel.description>Un grand mammifère terrestre adapté aux environnements arides. Domestiqué depuis l'Antiquité, sa laine et son cuir sont tous deux exceptionnellement efficaces pour isoler de la chaleur du désert, et son lait est très nourrissant. Il peut être utilisé comme animal de transport, mais ses deux bosses le rendent extrêmement inconfortable à monter.\n\nEn stockant de l'eau dans ses grandes bosses et en récupérant l'humidité de son souffle lorsqu'il expire, il peut passer des semaines sans boire.</AEXP_Camel.description>
+<!-- EN: left hoof -->
+<AEXP_Camel.tools.left_hoof.label>sabot gauche</AEXP_Camel.tools.left_hoof.label>
+<!-- EN: right hoof -->
+<AEXP_Camel.tools.right_hoof.label>sabot droit</AEXP_Camel.tools.right_hoof.label>
+<!-- EN: head -->
+<AEXP_Camel.tools.head.label>tête</AEXP_Camel.tools.head.label>
+
+<!-- EN: megascorpion -->
+<AEXP_Megascorpion.label>mégascorpion</AEXP_Megascorpion.label>
+<!-- EN: A giant, genetically-engineered scorpion. Once created as a perfect assassination tool, it is not often seen returning to it's natural habitat - desert. A very potent poison in it's stinger helps it in tacking even much bigger prey. A eusocial creature, it cannot reproduce individually. -->
+<AEXP_Megascorpion.description>Un scorpion géant, génétiquement modifié. Autrefois créé comme un outil d'assassinat parfait, il n'est pas souvent vu retournant à son habitat naturel - le désert. Un poison très puissant dans son dard l'aide à attaquer des proies encore plus grosses. Créature eusociale, il ne peut se reproduire individuellement.</AEXP_Megascorpion.description>
+<!-- EN: stinger -->
+<AEXP_Megascorpion.tools.stinger.label>dard</AEXP_Megascorpion.tools.stinger.label>
+<!-- EN: mandibles -->
+<AEXP_Megascorpion.tools.mandibles.label>mandibles</AEXP_Megascorpion.tools.mandibles.label>
+<!-- EN: head -->
+<AEXP_Megascorpion.tools.head.label>tête</AEXP_Megascorpion.tools.head.label>
+
+<!-- EN: rattlesnake -->
+<AEXP_Rattlesnake.label>serpent à sonnette</AEXP_Rattlesnake.label>
+<!-- EN: A highly venomous snake, recieving it's name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin. -->
+<AEXP_Rattlesnake.description>Un serpent très venimeux, qui doit son nom à un hochet au bout de sa queue. Le son généré sert d'avertissement à tout prédateur, mais en cas d'échec, les crochets à venin du serpent à sonnette infligent une toxine extrêmement douloureuse.</AEXP_Rattlesnake.description>
+<!-- EN: venom-fangs -->
+<AEXP_Rattlesnake.tools.venomfangs.label>crocs venimeux</AEXP_Rattlesnake.tools.venomfangs.label>
+<!-- EN: head -->
+<AEXP_Rattlesnake.tools.head.label>tête</AEXP_Rattlesnake.tools.head.label>
+
+
+<!-- EN: beaver -->
+<AEXP_Beaver.label>castor</AEXP_Beaver.label>
+<!-- EN: A large semiaquatic rodent with a flat, paddle-shaped tail and webbed hind feet. Beavers are renowned for their innate construction skills, building their homes, or "lodges", out of sticks, twigs, rocks, and mud in lakes, streams, and tidal river deltas. Beavers are well known for building dams across streams and constructing their lodges in the artificial ponds which form. -->
+<AEXP_Beaver.description>Grand rongeur semi-aquatique doté d'une queue plate en forme de pagaie et de pattes arrière palmées. Les castors sont réputés pour leurs compétences innées en matière de construction. Ils construisent leurs maisons, ou "huttes", à partir de bâtons, de brindilles, de pierres et de boue dans les lacs, les cours d'eau et les deltas de rivières à marée. Les castors sont bien connus pour construire des barrages sur les cours d'eau et construire leurs huttes dans les étangs artificiels qui se forment.</AEXP_Beaver.description>
+<!-- EN: left claw -->
+<AEXP_Beaver.tools.left_claw.label>griffe gauche</AEXP_Beaver.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Beaver.tools.right_claw.label>griffe droite</AEXP_Beaver.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Beaver.tools.head.label>tête</AEXP_Beaver.tools.head.label>
+
+<!-- EN: hedgehog -->
+<AEXP_Hedgehog.label>hérisson</AEXP_Hedgehog.label>
+<!-- EN: Hedgehogs are diminutive mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators. -->
+<AEXP_Hedgehog.description>Le hérisson est un petit mammifère au visage conique, aux pattes courtes et au corps recouvert de piquants semblables à ceux du porc-épic. En cas de danger, le hérisson se roule en boule de sorte que les piquants recouvrent toute la surface de son corps exposé et protègent l'animal des prédateurs.</AEXP_Hedgehog.description>
+<!-- EN: left claw -->
+<AEXP_Hedgehog.tools.left_claw.label>griffe gauche</AEXP_Hedgehog.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Hedgehog.tools.right_claw.label>griffe droite</AEXP_Hedgehog.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Hedgehog.tools.head.label>tête</AEXP_Hedgehog.tools.head.label>
+
+<!-- EN: red panda -->
+<AEXP_RedPanda.label>panda roux</AEXP_RedPanda.label>
+<!-- EN: The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed. -->
+<AEXP_RedPanda.description>Le panda roux est un petit mammifère, légèrement plus grand qu'un chat domestique, avec un corps d'ours et une épaisse fourrure roussâtre. Son ventre et ses membres sont noirs, et il y a des marques blanches sur le côté de sa tête et au-dessus de ses petits yeux. Les pandas roux sont des animaux très habiles et acrobatiques qui restent principalement dans les arbres. C'est un animal solitaire, principalement actif du crépuscule à l'aube, bien qu'il puisse être assez affectueux s'il est correctement apprivoisé.</AEXP_RedPanda.description>
+<!-- EN: left fist -->
+<AEXP_RedPanda.tools.left_fist.label>poing gauche</AEXP_RedPanda.tools.left_fist.label>
+<!-- EN: right fist -->
+<AEXP_RedPanda.tools.right_fist.label>poing droit</AEXP_RedPanda.tools.right_fist.label>
+<!-- EN: head -->
+<AEXP_RedPanda.tools.head.label>tête</AEXP_RedPanda.tools.head.label>
+
+<!-- EN: wild goose -->
+<AEXP_WildGoose.label>oie sauvage</AEXP_WildGoose.label>
+<!-- EN: A non-domesticated grey goose. Compared to their domesticated brethren, which have been selected over thousands of years for larger size, wild geese don't lay as many eggs, and they are renowned for their aggressive temperament. Peace was never an option. -->
+<AEXP_WildGoose.description>Une oie grise non domestiquée. Par rapport à leurs congénères domestiques, qui ont été sélectionnées au cours de milliers d'années pour leur taille, les oies sauvages ne pondent pas autant d'œufs et sont réputées pour leur tempérament agressif. La paix n'a jamais été une option.</AEXP_WildGoose.description>
+<!-- EN: claws -->
+<AEXP_WildGoose.tools.claws.label>griffes</AEXP_WildGoose.tools.claws.label>
+<!-- EN: beak -->
+<AEXP_WildGoose.tools.beak.label>bec</AEXP_WildGoose.tools.beak.label>
+<!-- EN: head -->
+<AEXP_WildGoose.tools.head.label>tête</AEXP_WildGoose.tools.head.label>
+
+
+<!-- EN: jaguar -->
+<AEXP_Jaguar.label>jaguar</AEXP_Jaguar.label>
+<!-- EN: A large felid species and the only existing member of the Panthera native to the Americas in old Earth. This spotted cat closely resembles the leopard, but is usually larger and sturdier. The jaguar enjoys swimming and is largely a solitary, opportunistic, stalk-and-ambush predator at the top of the food chain. -->
+<AEXP_Jaguar.description>Une grande espèce de félidé et le seul membre existant de la Panthère originaire des Amériques sur la vieille Terre. Ce félin tacheté ressemble beaucoup au léopard, mais il est généralement plus grand et plus robuste. Le jaguar aime se baigner et c'est en grande partie un prédateur solitaire et opportuniste, au sommet de la chaîne alimentaire.</AEXP_Jaguar.description>
+<!-- EN: left claw -->
+<AEXP_Jaguar.tools.left_claw.label>griffe gauche</AEXP_Jaguar.tools.left_claw.label>
+<!-- EN: claw -->
+<AEXP_Jaguar.tools.left_claw.labelNoLocation>griffe</AEXP_Jaguar.tools.left_claw.labelNoLocation>
+<!-- EN: right claw -->
+<AEXP_Jaguar.tools.right_claw.label>griffe droite</AEXP_Jaguar.tools.right_claw.label>
+<!-- EN: claw -->
+<AEXP_Jaguar.tools.right_claw.labelNoLocation>griffe</AEXP_Jaguar.tools.right_claw.labelNoLocation>
+<!-- EN: head -->
+<AEXP_Jaguar.tools.head.label>tête</AEXP_Jaguar.tools.head.label>
+
+<!-- EN: lemur -->
+<AEXP_Lemur.label>lémurien</AEXP_Lemur.label>
+<!-- EN: A small primate, lemurs are arboreal, and usually nocturnal. They have a pointed snout, large eyes, and a long tail. Although they are social creatures, they have traditionally been regarded as being less intelligent than other primates, since they don't exhibit behaviours of tool use in the wild. -->
+<AEXP_Lemur.description>Petits primates, les lémuriens sont arboricoles et généralement nocturnes. Ils ont un museau pointu, de grands yeux et une longue queue. Bien qu'ils soient des créatures sociales, ils ont traditionnellement été considérés comme moins intelligents que les autres primates, car ils ne présentent pas de comportements d'utilisation d'outils dans la nature.</AEXP_Lemur.description>
+<!-- EN: primate meat -->
+<AEXP_Lemur.race.meatLabel>viande de primate</AEXP_Lemur.race.meatLabel>
+<!-- EN: left fist -->
+<AEXP_Lemur.tools.left_fist.label>poing gauche</AEXP_Lemur.tools.left_fist.label>
+<!-- EN: right fist -->
+<AEXP_Lemur.tools.right_fist.label>poing droit</AEXP_Lemur.tools.right_fist.label>
+<!-- EN: head -->
+<AEXP_Lemur.tools.head.label>tête</AEXP_Lemur.tools.head.label>
+
+<!-- EN: mandrill -->
+<AEXP_Mandrill.label>mandrill</AEXP_Mandrill.label>
+<!-- EN: Mandrills are one of the largest of all monkeys. They are shy and reclusive primates that live only in rain forests. Mandrills are extremely colorful, perhaps more so than any other mammal. They are easily identifiable by the blue and red skin on their faces and their brightly hued rumps. -->
+<AEXP_Mandrill.description>Le mandrill est l'un des plus grands de tous les singes. Ce sont des primates timides et reclus qui vivent uniquement dans les forêts tropicales. Les mandrills sont extrêmement colorés, peut-être plus que tout autre mammifère. Ils sont facilement identifiables par la peau bleue et rouge de leur visage et leur croupion aux couleurs vives.</AEXP_Mandrill.description>
+<!-- EN: left fist -->
+<AEXP_Mandrill.tools.left_fist.label>poing gauche</AEXP_Mandrill.tools.left_fist.label>
+<!-- EN: right fist -->
+<AEXP_Mandrill.tools.right_fist.label>poing droit</AEXP_Mandrill.tools.right_fist.label>
+<!-- EN: head -->
+<AEXP_Mandrill.tools.head.label>tête</AEXP_Mandrill.tools.head.label>
+
+<!-- EN: tapir -->
+<AEXP_Tapir.label>tapir</AEXP_Tapir.label>
+<!-- EN: A large, herbivorous mammal, similar in shape to a pig, with a short nose trunk, tapirs inhabit jungle and forest regions. -->
+<AEXP_Tapir.description>Grand mammifère herbivore, dont la forme ressemble à celle d'un cochon et qui possède un tronc court, le tapir habite les régions de jungle et de forêt.</AEXP_Tapir.description>
+<!-- EN: head -->
+<AEXP_Tapir.tools.head.label>tête</AEXP_Tapir.tools.head.label>
+
+
+<!-- EN: anaconda -->
+<AEXP_Anaconda.label>anaconda</AEXP_Anaconda.label>
+<!-- EN: The anaconda is the heaviest and one of the longest known snake species, reaching lengths of 5 meters. They are a primarily nocturnal species that tends to spend most of its life in or around water. -->
+<AEXP_Anaconda.description>L'anaconda est le plus lourd et l'une des plus longues espèces de serpents connues, atteignant une longueur de 5 mètres. C'est une espèce principalement nocturne qui a tendance à passer la plupart de sa vie dans ou autour de l'eau.</AEXP_Anaconda.description>
+<!-- EN: head -->
+<AEXP_Anaconda.tools.head.label>tête</AEXP_Anaconda.tools.head.label>
+
+<!-- EN: indian elephant -->
+<AEXP_IndianElephant.label>éléphant d'Asie</AEXP_IndianElephant.label>
+<!-- EN: The Indian elephant is one of the largest unmodified land animals. In general, Indian elephants are smaller, have smaller ears, but relatively broader skulls and larger trunks than African elephants, and have the highest body point on the head. -->
+<AEXP_IndianElephant.description>L'éléphant d'Asie est l'un des plus grands animaux terrestres non modifiés. En général, les éléphants d'Asie sont plus petits, ont des oreilles plus petites, mais leurs crânes sont relativement plus larges et leurs trompes plus grandes que celles des éléphants d'Afrique.</AEXP_IndianElephant.description>
+<!-- EN: left foot -->
+<AEXP_IndianElephant.tools.left_foot.label>pied gauche</AEXP_IndianElephant.tools.left_foot.label>
+<!-- EN: right foot -->
+<AEXP_IndianElephant.tools.right_foot.label>pied droit</AEXP_IndianElephant.tools.right_foot.label>
+<!-- EN: head -->
+<AEXP_IndianElephant.tools.head.label>tête</AEXP_IndianElephant.tools.head.label>
+
+
+<!-- EN: megawolverine -->
+<AEXP_MegaWolverine.label>mégacarcajou</AEXP_MegaWolverine.label>
+<!-- EN: A giant, genetically-engineered predator with massive paws to rip apart prey. Thick fur allows it to survive the coldest of climates, whilst it strength allows it to hunt even the largest of mammals for food. -->
+<AEXP_MegaWolverine.description>Un prédateur géant, génétiquement modifié, doté de pattes massives pour déchiqueter ses proies. Sa fourrure épaisse lui permet de survivre aux climats les plus froids, tandis que sa force lui permet de chasser les plus gros mammifères pour se nourrir.</AEXP_MegaWolverine.description>
+<!-- EN: left claw -->
+<AEXP_MegaWolverine.tools.left_claw.label>griffe gauche</AEXP_MegaWolverine.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_MegaWolverine.tools.right_claw.label>griffe droite</AEXP_MegaWolverine.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_MegaWolverine.tools.head.label>tête</AEXP_MegaWolverine.tools.head.label>
+
+
+</LanguageData>

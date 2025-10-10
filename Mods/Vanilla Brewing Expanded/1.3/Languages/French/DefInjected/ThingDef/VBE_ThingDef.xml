@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VBE_Bar.label>bar</VBE_Bar.label>
+<VBE_Bar.description>Un comptoir quelque peu orné, rempli à ras bord de différents récipients et appareils permettant de préparer une variété de boissons. Une glacière, une série de robinets, de tuyaux et de gazéifieurs permettent à quiconque s'en occupe de brasser beaucoup plus rapidement que dans une brasserie rudimentaire.</VBE_Bar.description>
+
+<VBE_SodaFountain.label>fontaine à soda</VBE_SodaFountain.label>
+<VBE_SodaFountain.description>Une unité de fabrication de soda tout-en-un. Le sirop est soigneusement mélangé à l'eau, gazéifié et ensuite refroidi avant d'être distribué dans des bouteilles stérilisées.</VBE_SodaFountain.description>
+
+<VBE_AmbrandyDistillery.label>distillerie d'ambrandie</VBE_AmbrandyDistillery.label>
+<VBE_AmbrandyDistillery.description>Une distillerie dorée de fabrication très délicate destinée à faire vieillir le moût d'ambrandie jusqu'à une forme buvable.</VBE_AmbrandyDistillery.description>
+
+<VBE_WhiskeyCask.label>fût à whisky</VBE_WhiskeyCask.label>
+<VBE_WhiskeyCask.description>Un énorme tonneau destiné à faire vieillir une grande quantité de whisky à la fois. Des arômes boisés naturels sont transmis au mélange car le fût lui-même absorbe une partie du liquide pendant le processus de fermentation. Toute lumière du soleil frappant le tonneau peut ralentir le processus de fermentation, voire gâcher tout le mélange.</VBE_WhiskeyCask.description>
+
+<VBE_TequilaBarrel.label>baril de tequila</VBE_TequilaBarrel.label>
+<VBE_TequilaBarrel.description>Un petit ensemble combiné alambic et fermenteur, parfait pour être rangé derrière le comptoir d'un saloon chaleureux, mais qui ne se comporte pas très bien sous la pluie.</VBE_TequilaBarrel.description>
+
+<VBE_VodkaDrum.label>cuve de vodka</VBE_VodkaDrum.label>
+<VBE_VodkaDrum.description>Un récipient bon marché destiné à stocker de l'eau, réaménagé de manière à être étanche à l'air pour une fermentation de courte durée.</VBE_VodkaDrum.description>
+
+<VBE_GinStill.label>alambic à gin</VBE_GinStill.label>
+<VBE_GinStill.description>Un appareil de distillation industriel entièrement métallique, destiné à purifier et à fermenter le gin pour le rendre consommable. Grâce à sa conception métallique, le vieillissement est possible dans une large gamme de températures et de conditions.</VBE_GinStill.description>
+
+<VBE_AmbrandyAwful.label>ambrandie (horrible)</VBE_AmbrandyAwful.label>
+<VBE_AmbrandyAwful.description>Aussi connu sous le nom de "soleil liquide", l'ambrandie est une liqueur distillée, doublement fermentée, de très grande qualité. Les aristocrates du Glitterworld sont connus pour envoyer des milices privées entières pour aider à l'expédition de bouteilles singulières.\n\nEn plus d'être suffisamment savoureuse pour faire fondre en larmes une personne, des études ont montré que cette liqueur, lorsqu'elle vieillit profondément, stimule davantage la partie du cerveau humain connue pour sa créativité et son expression artistiques, tout en atténuant la partie du cerveau qui contrôle les émotions.\n\nLa bouteille elle-même est une beauté à contempler, lorsqu'elle est touchée par la plus petite quantité de lumière, on voit des mouchetures dorées danser dans le liquide, comme des braises s'élevant d'un feu de camp. Bien que l'Ambrandie puisse être mélangé à des cocktails, ceux qui ont eu le privilège de le boire disent qu'il est meilleur tout seul.</VBE_AmbrandyAwful.description>
+<VBE_AmbrandyAwful.ingestible.ingestCommandString>Boire {0}</VBE_AmbrandyAwful.ingestible.ingestCommandString>
+<VBE_AmbrandyAwful.ingestible.ingestReportString>Boit {0}.</VBE_AmbrandyAwful.ingestible.ingestReportString>
+
+<VBE_AmbrandyPoor.label>ambrandie (mauvais)</VBE_AmbrandyPoor.label>
+<VBE_AmbrandyPoor.description>Aussi connu sous le nom de "soleil liquide", l'ambrandie est une liqueur distillée, doublement fermentée, de très grande qualité. Les aristocrates du Glitterworld sont connus pour envoyer des milices privées entières pour aider à l'expédition de bouteilles singulières.\n\nEn plus d'être suffisamment savoureuse pour faire fondre en larmes une personne, des études ont montré que cette liqueur, lorsqu'elle vieillit profondément, stimule davantage la partie du cerveau humain connue pour sa créativité et son expression artistiques, tout en atténuant la partie du cerveau qui contrôle les émotions.\n\nLa bouteille elle-même est une beauté à contempler, lorsqu'elle est touchée par la plus petite quantité de lumière, on voit des mouchetures dorées danser dans le liquide, comme des braises s'élevant d'un feu de camp. Bien que l'Ambrandie puisse être mélangé à des cocktails, ceux qui ont eu le privilège de le boire disent qu'il est meilleur tout seul.</VBE_AmbrandyPoor.description>
+<VBE_AmbrandyPoor.ingestible.ingestCommandString>Boire {0}</VBE_AmbrandyPoor.ingestible.ingestCommandString>
+<VBE_AmbrandyPoor.ingestible.ingestReportString>Boit {0}.</VBE_AmbrandyPoor.ingestible.ingestReportString>
+
+<VBE_AmbrandyNormal.label>ambrandie (normal)</VBE_AmbrandyNormal.label>
+<VBE_AmbrandyNormal.description>Aussi connu sous le nom de "soleil liquide", l'ambrandie est une liqueur distillée, doublement fermentée, de très grande qualité. Les aristocrates du Glitterworld sont connus pour envoyer des milices privées entières pour aider à l'expédition de bouteilles singulières.\n\nEn plus d'être suffisamment savoureuse pour faire fondre en larmes une personne, des études ont montré que cette liqueur, lorsqu'elle vieillit profondément, stimule davantage la partie du cerveau humain connue pour sa créativité et son expression artistiques, tout en atténuant la partie du cerveau qui contrôle les émotions.\n\nLa bouteille elle-même est une beauté à contempler, lorsqu'elle est touchée par la plus petite quantité de lumière, on voit des mouchetures dorées danser dans le liquide, comme des braises s'élevant d'un feu de camp. Bien que l'Ambrandie puisse être mélangé à des cocktails, ceux qui ont eu le privilège de le boire disent qu'il est meilleur tout seul.</VBE_AmbrandyNormal.description>
+<VBE_AmbrandyNormal.ingestible.ingestCommandString>Boire {0}</VBE_AmbrandyNormal.ingestible.ingestCommandString>
+<VBE_AmbrandyNormal.ingestible.ingestReportString>Boit {0}.</VBE_AmbrandyNormal.ingestible.ingestReportString>
+
+<VBE_AmbrandyGood.label>ambrandie (bon)</VBE_AmbrandyGood.label>
+<VBE_AmbrandyGood.description>Aussi connu sous le nom de "soleil liquide", l'ambrandie est une liqueur distillée, doublement fermentée, de très grande qualité. Les aristocrates du Glitterworld sont connus pour envoyer des milices privées entières pour aider à l'expédition de bouteilles singulières.\n\nEn plus d'être suffisamment savoureuse pour faire fondre en larmes une personne, des études ont montré que cette liqueur, lorsqu'elle vieillit profondément, stimule davantage la partie du cerveau humain connue pour sa créativité et son expression artistiques, tout en atténuant la partie du cerveau qui contrôle les émotions.\n\nLa bouteille elle-même est une beauté à contempler, lorsqu'elle est touchée par la plus petite quantité de lumière, on voit des mouchetures dorées danser dans le liquide, comme des braises s'élevant d'un feu de camp. Bien que l'Ambrandie puisse être mélangé à des cocktails, ceux qui ont eu le privilège de le boire disent qu'il est meilleur tout seul.</VBE_AmbrandyGood.description>
+<VBE_AmbrandyGood.ingestible.ingestCommandString>Boire {0}</VBE_AmbrandyGood.ingestible.ingestCommandString>
+<VBE_AmbrandyGood.ingestible.ingestReportString>Boit {0}.</VBE_AmbrandyGood.ingestible.ingestReportString>
+
+<VBE_AmbrandyExcellent.label>ambrandie (excellent)</VBE_AmbrandyExcellent.label>
+<VBE_AmbrandyExcellent.description>Aussi connu sous le nom de "soleil liquide", l'ambrandie est une liqueur distillée, doublement fermentée, de très grande qualité. Les aristocrates du Glitterworld sont connus pour envoyer des milices privées entières pour aider à l'expédition de bouteilles singulières.\n\nEn plus d'être suffisamment savoureuse pour faire fondre en larmes une personne, des études ont montré que cette liqueur, lorsqu'elle vieillit profondément, stimule davantage la partie du cerveau humain connue pour sa créativité et son expression artistiques, tout en atténuant la partie du cerveau qui contrôle les émotions.\n\nLa bouteille elle-même est une beauté à contempler, lorsqu'elle est touchée par la plus petite quantité de lumière, on voit des mouchetures dorées danser dans le liquide, comme des braises s'élevant d'un feu de camp. Bien que l'Ambrandie puisse être mélangé à des cocktails, ceux qui ont eu le privilège de le boire disent qu'il est meilleur tout seul.</VBE_AmbrandyExcellent.description>
+<VBE_AmbrandyExcellent.ingestible.ingestCommandString>Boire {0}</VBE_AmbrandyExcellent.ingestible.ingestCommandString>
+<VBE_AmbrandyExcellent.ingestible.ingestReportString>Boit {0}.</VBE_AmbrandyExcellent.ingestible.ingestReportString>
+
+<VBE_AmbrandyMasterwork.label>ambrandie (chef-d'œuvre)</VBE_AmbrandyMasterwork.label>
+<VBE_AmbrandyMasterwork.description>Aussi connu sous le nom de "soleil liquide", l'ambrandie est une liqueur distillée, doublement fermentée, de très grande qualité. Les aristocrates du Glitterworld sont connus pour envoyer des milices privées entières pour aider à l'expédition de bouteilles singulières.\n\nEn plus d'être suffisamment savoureuse pour faire fondre en larmes une personne, des études ont montré que cette liqueur, lorsqu'elle vieillit profondément, stimule davantage la partie du cerveau humain connue pour sa créativité et son expression artistiques, tout en atténuant la partie du cerveau qui contrôle les émotions.\n\nLa bouteille elle-même est une beauté à contempler, lorsqu'elle est touchée par la plus petite quantité de lumière, on voit des mouchetures dorées danser dans le liquide, comme des braises s'élevant d'un feu de camp. Bien que l'Ambrandie puisse être mélangé à des cocktails, ceux qui ont eu le privilège de le boire disent qu'il est meilleur tout seul.</VBE_AmbrandyMasterwork.description>
+<VBE_AmbrandyMasterwork.ingestible.ingestCommandString>Boire {0}</VBE_AmbrandyMasterwork.ingestible.ingestCommandString>
+<VBE_AmbrandyMasterwork.ingestible.ingestReportString>Boit {0}.</VBE_AmbrandyMasterwork.ingestible.ingestReportString>
+
+<VBE_AmbrandyLegendary.label>ambrandie (légendaire)</VBE_AmbrandyLegendary.label>
+<VBE_AmbrandyLegendary.description>Aussi connu sous le nom de "soleil liquide", l'ambrandie est une liqueur distillée, doublement fermentée, de très grande qualité. Les aristocrates du Glitterworld sont connus pour envoyer des milices privées entières pour aider à l'expédition de bouteilles singulières.\n\nEn plus d'être suffisamment savoureuse pour faire fondre en larmes une personne, des études ont montré que cette liqueur, lorsqu'elle vieillit profondément, stimule davantage la partie du cerveau humain connue pour sa créativité et son expression artistiques, tout en atténuant la partie du cerveau qui contrôle les émotions.\n\nLa bouteille elle-même est une beauté à contempler, lorsqu'elle est touchée par la plus petite quantité de lumière, on voit des mouchetures dorées danser dans le liquide, comme des braises s'élevant d'un feu de camp. Bien que l'Ambrandie puisse être mélangé à des cocktails, ceux qui ont eu le privilège de le boire disent qu'il est meilleur tout seul.</VBE_AmbrandyLegendary.description>
+<VBE_AmbrandyLegendary.ingestible.ingestCommandString>Boire {0}</VBE_AmbrandyLegendary.ingestible.ingestCommandString>
+<VBE_AmbrandyLegendary.ingestible.ingestReportString>Boit {0}.</VBE_AmbrandyLegendary.ingestible.ingestReportString>
+
+<VBE_Gin.label>gin</VBE_Gin.label>
+<VBE_Gin.description>Un spiritueux particulièrement doux et incolore. Sur le plan aromatique, cette bouteille dégage une odeur de pin ainsi que de subtiles notes fruitées. Cette liqueur a la réputation d'être légère et amusante à boire et de provoquer ce que l'on appelle "l'ivresse du gin", au cours de laquelle on ressent une empathie et une compréhension accrues.</VBE_Gin.description>
+<VBE_Gin.ingestible.ingestCommandString>Boire {0}</VBE_Gin.ingestible.ingestCommandString>
+<VBE_Gin.ingestible.ingestReportString>Boit {0}.</VBE_Gin.ingestible.ingestReportString>
+<VBE_Gin.tools.bottle.label>bouteille</VBE_Gin.tools.bottle.label>
+<VBE_Gin.tools.neck.label>goulot</VBE_Gin.tools.neck.label>
+
+<VBE_Tequila.label>tequila</VBE_Tequila.label>
+<VBE_Tequila.description>Une liqueur fermentée fabriquée à partir de la sève d'agave, favorite des bandits sauvages et turbulents ainsi que des éleveurs de muffalos. Le fond de la bouteille contient un en-cas hyperprotéiné censé porter chance. Les consommateurs sont connus pour exceller dans les combats prolongés.</VBE_Tequila.description>
+<VBE_Tequila.ingestible.ingestCommandString>Boire {0}</VBE_Tequila.ingestible.ingestCommandString>
+<VBE_Tequila.ingestible.ingestReportString>Boit {0}.</VBE_Tequila.ingestible.ingestReportString>
+<VBE_Tequila.tools.bottle.label>bouteille</VBE_Tequila.tools.bottle.label>
+<VBE_Tequila.tools.neck.label>goulot</VBE_Tequila.tools.neck.label>
+
+<VBE_Vodka.label>vodka</VBE_Vodka.label>
+<VBE_Vodka.description>Un alcool clair et pratiquement insipide fabriqué à partir de pommes de terre fermentées. Bien que la vodka puisse être consommée seule, elle est surtout connue pour être un parfait agent de mélange et pour provoquer des niveaux d'audace stupides chez ceux qui choisissent de la boire.</VBE_Vodka.description>
+<VBE_Vodka.ingestible.ingestCommandString>Boire {0}</VBE_Vodka.ingestible.ingestCommandString>
+<VBE_Vodka.ingestible.ingestReportString>Boit {0}.</VBE_Vodka.ingestible.ingestReportString>
+<VBE_Vodka.tools.bottle.label>bouteille</VBE_Vodka.tools.bottle.label>
+<VBE_Vodka.tools.neck.label>goulot</VBE_Vodka.tools.neck.label>
+
+<VBE_Whiskey.label>whisky</VBE_Whiskey.label>
+<VBE_Whiskey.description>Une liqueur puissante distillée à partir de céréales fermentées. Les saveurs du vieillissement en fût ont tendance à imprégner ce spiritueux plus que les autres. Une saveur boisée, presque fumée, est prononcée tout au long du processus. Les whiskys simples sont stéréotypés comme étant associés aux travailleurs manuels et aux travailleurs acharnés, ce qui est courant dans les mondes à vapeur de la galaxie.</VBE_Whiskey.description>
+<VBE_Whiskey.ingestible.ingestCommandString>Boire {0}</VBE_Whiskey.ingestible.ingestCommandString>
+<VBE_Whiskey.ingestible.ingestReportString>Boit {0}.</VBE_Whiskey.ingestible.ingestReportString>
+<VBE_Whiskey.tools.bottle.label>bouteille</VBE_Whiskey.tools.bottle.label>
+<VBE_Whiskey.tools.neck.label>goulot</VBE_Whiskey.tools.neck.label>
+
+<VBE_DoubleWhiskey.label>whisky à double maturation</VBE_DoubleWhiskey.label>
+<VBE_DoubleWhiskey.description>Le résultat du vieillissement du whisky une fois de plus dans un fût secondaire inutilisé ou très peu utilisé. Les profils de saveur sont plus prononcés et l'arrière-goût dans la gorge est considérablement réduit. L'allongement de la durée de vieillissement d'un whisky fin donne généralement une image de mercantilisme et de raffinement à ses consommateurs.</VBE_DoubleWhiskey.description>
+<VBE_DoubleWhiskey.ingestible.ingestCommandString>Boire {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+<VBE_DoubleWhiskey.ingestible.ingestReportString>Boit {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+<VBE_DoubleWhiskey.tools.bottle.label>bouteille</VBE_DoubleWhiskey.tools.bottle.label>
+<VBE_DoubleWhiskey.tools.neck.label>goulot</VBE_DoubleWhiskey.tools.neck.label>
+
+<VBE_HotCoffee.label>café</VBE_HotCoffee.label>
+<VBE_HotCoffee.description>Une boisson chaude et amère généralement agrémentée de lait et de sucre. Un favori parmi les étudiants et les employés de bureau à travers la galaxie en raison de sa forte teneur en caféine et de son arôme agréable.</VBE_HotCoffee.description>
+<VBE_HotCoffee.ingestible.ingestCommandString>Boire {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+<VBE_HotCoffee.ingestible.ingestReportString>Boit {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+
+<VBE_IceCoffee.label>café glacé</VBE_IceCoffee.label>
+<VBE_IceCoffee.description>Un café glacé, refroidi. Le café glacé est préféré par de nombreuses personnes vivant dans des climats plus chauds. Il adoucit également les saveurs amères et fait ressortir un goût de noisette perceptible, bien que subtil. Tout comme son homologue chaud, il est omniprésent chez les étudiants et les professionnels.</VBE_IceCoffee.description>
+<VBE_IceCoffee.ingestible.ingestCommandString>Boire {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+<VBE_IceCoffee.ingestible.ingestReportString>Boit {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+
+<VBE_EnergyDrink.label>boisson énergisante</VBE_EnergyDrink.label>
+<VBE_EnergyDrink.description>Une boisson acidulée et pétillante terminée par une pointe d'amertume. La combinaison du sucre et de la caféine donne un regain d'énergie au départ, mais un coup de barre ensuite. Arrière-goût notable de radiations.</VBE_EnergyDrink.description>
+<VBE_EnergyDrink.ingestible.ingestCommandString>Boire {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+<VBE_EnergyDrink.ingestible.ingestReportString>Boit {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+
+<VBE_Juice.label>jus de fruits</VBE_Juice.label>
+<VBE_Juice.description>Les jus de fruits, acidulés et piquants, peuvent être préparés à partir d'un seul fruit ou d'une variété mixte - également connus sous le nom de jus multifruits. De nombreuses boissons peuvent être préparées ou mélangées en utilisant des jus comme base. Bien qu'ils ne soient pas plus nutritifs que les fruits non pressés, ils sont beaucoup plus faciles à stocker et à transporter.</VBE_Juice.description>
+
+<VBE_Soda.label>soda</VBE_Soda.label>
+<VBE_Soda.description>Une boisson très sucrée et semi-citronnée, à déguster fraîche. Bien qu'elle ne soit pas tout à fait nutritive, la poussée de sucre est bienvenue et l'effervescence est plutôt rafraîchissante.</VBE_Soda.description>
+<VBE_Soda.ingestible.ingestCommandString>Boire {0}</VBE_Soda.ingestible.ingestCommandString>
+<VBE_Soda.ingestible.ingestReportString>Boit {0}.</VBE_Soda.ingestible.ingestReportString>
+<VBE_Soda.tools.bottle.label>bouteille</VBE_Soda.tools.bottle.label>
+<VBE_Soda.tools.neck.label>goulot</VBE_Soda.tools.neck.label>
+
+<VBE_Tea.label>thé</VBE_Tea.label>
+<VBE_Tea.description>Boisson agréable et aromatique préparée en faisant infuser un sachet de feuilles de thé dans de l'eau bouillante. Le thé peut avoir des saveurs allant des agrumes à l'amertume en passant par les épices. Le thé est l'une des boissons préférées de l'humanité depuis l'Antiquité et on lui prête de nombreuses propriétés curatives naturelles.</VBE_Tea.description>
+<VBE_Tea.ingestible.ingestCommandString>Boire {0}</VBE_Tea.ingestible.ingestCommandString>
+<VBE_Tea.ingestible.ingestReportString>Boit {0}.</VBE_Tea.ingestible.ingestReportString>
+
+<VBE_SimpleCocktail.label>cocktail simple</VBE_SimpleCocktail.label>
+<VBE_SimpleCocktail.description>Un cocktail simple et vite préparé à partir d'un duo d'ingrédients.</VBE_SimpleCocktail.description>
+
+<VBE_FineCocktail.label>cocktail raffiné</VBE_FineCocktail.label>
+<VBE_FineCocktail.description>Un cocktail fin et complexe, mélangé avec précision à partir de multiples ingrédients.</VBE_FineCocktail.description>
+
+<VBE_LavishCocktail.label>cocktail somptueux</VBE_LavishCocktail.label>
+<VBE_LavishCocktail.description>Chef-d'œuvre du barman, ce cocktail a été préparé à partir d'une grande variété d'ingrédients et refroidi à la perfection avant d'être méticuleusement secoué et servi.</VBE_LavishCocktail.description>
+
+<VBE_GourmetCocktail.label>cocktail gastronomique</VBE_GourmetCocktail.label>
+<VBE_GourmetCocktail.description>Un véritable miracle de mixologie. Tous les facteurs de ce cocktail, de la température du verre au choix de l'instrument du mélangeur en passant par le type de garniture, ont été calculés avec précision pour obtenir le maximum de saveur et de corps possible.</VBE_GourmetCocktail.description>
+
+<VBE_SodaSyrup.label>sirop de soda</VBE_SodaSyrup.label>
+<VBE_SodaSyrup.description>Mélange épais et écœurant de sucre obtenu en faisant bouillir ensemble de l'acide citrique et des sucres naturels - Généralement dérivé directement du sucre de canne ou sous forme de sirop de maïs. Doit être coupé avec de l'eau et à gazéifier brièvement dans un environnement fermé avant d'être consommé.</VBE_SodaSyrup.description>
+
+<VBE_AmbrandyMush.label>bouillie d'ambroisie</VBE_AmbrandyMush.label>
+<VBE_AmbrandyMush.description>L'ambroisie, tranchée et pressée, peut être laissée seule pour mûrir en moût et être ensuite distillée en une liqueur extrêmement raffinée.</VBE_AmbrandyMush.description>
+
+<VBE_AmbrandyMust.label>moût d'ambrandie</VBE_AmbrandyMust.label>
+<VBE_AmbrandyMust.description>Ambroisie entièrement mûre, liquéfiée en un jus épais et laissée seule pour que des bactéries se développent et fermentent. Prête à être distillée sous une forme buvable.</VBE_AmbrandyMust.description>
+
+<VBE_WhiskeyMash.label>moût de whisky</VBE_WhiskeyMash.label>
+<VBE_WhiskeyMash.description>Un mélange amidonné et essentiellement liquide, parsemé de morceaux pulpeux. Prêt à être vieilli.</VBE_WhiskeyMash.description>
+
+<VBE_TequilaMust.label>moût de tequila</VBE_TequilaMust.label>
+<VBE_TequilaMust.description>Un mélange fin de sève d'agave ou de figue de barbarie juteuse et d'amorce de viande d'insecte, prêt à être coupé et fermenté dans un tonneau.</VBE_TequilaMust.description>
+
+<VBE_VodkaMash.label>moût de vodka</VBE_VodkaMash.label>
+<VBE_VodkaMash.description>Une purée épaisse et féculente de pommes de terre crues et d'une amorce, prête à être fermentée.</VBE_VodkaMash.description>
+
+<VBE_GinMush.label>moût de gin</VBE_GinMush.label>
+<VBE_GinMush.description>Un mélange clair mais trouble de baies pressées et de céréales diverses, prêt à être fermenté.</VBE_GinMush.description>
+
+<VBE_RawCoffee.label>grains de café</VBE_RawCoffee.label>
+<VBE_RawCoffee.description>Les noyaux des baies du caféier, appelés succinctement "grains de café". Ils peuvent être torréfiés pour faire ressortir une saveur intense et amère, ainsi que de la caféine naturelle.</VBE_RawCoffee.description>
+
+<VBE_RawTea.label>feuilles de thé</VBE_RawTea.label>
+<VBE_RawTea.description>Les feuilles du théier. On peut les faire bouillir pour obtenir une variété de boissons terreuses et apaisantes.</VBE_RawTea.description>
+
+<VBE_RawTobacco.label>feuilles de tabac</VBE_RawTobacco.label>
+<VBE_RawTobacco.description>Les feuilles de la plante de tabac. Les feuilles de tabac peuvent être séchées assez facilement pour être ensuite roulées et fumées, ce qui procure un léger effet stimulant.</VBE_RawTobacco.description>
+
+<VBE_Cigarettes.label>cigarettes</VBE_Cigarettes.label>
+<VBE_Cigarettes.description>Un petit tube de papier roulé rempli de feuilles de tabac. Il procure une brève euphorie ainsi qu'une stimulation mentale, et crée une forte dépendance. L'odeur piquante n'est généralement pas appréciée au début, mais devient beaucoup plus agréable à mesure que le fumeur devient dépendant. Peut être fabriqué sans équipement, dans un lieu de fabrication.</VBE_Cigarettes.description>
+<VBE_Cigarettes.ingestible.ingestCommandString>Fumer {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+<VBE_Cigarettes.ingestible.ingestReportString>Fume {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+<VBE_Cigarettes.ingestible.ingestReportStringEat>Consomme {0}.</VBE_Cigarettes.ingestible.ingestReportStringEat>
+
+<VBE_Cigars.label>cigares</VBE_Cigars.label>
+<VBE_Cigars.description>Une grosse feuille de tabac séché, remplie à ras bord d'autres feuilles de tabac et enveloppée d'une feuille d'or. Les cigares ont une présentation historiquement chic et ne sont généralement abordables que par ceux qui se mêlent régulièrement à l'élite du Glitterworld. Les cigares sont souvent aromatisés avec des agrumes ou de la vanille pour rendre leur saveur et leur odeur moins âcre.</VBE_Cigars.description>
+<VBE_Cigars.ingestible.ingestCommandString>Fumer {0}</VBE_Cigars.ingestible.ingestCommandString>
+<VBE_Cigars.ingestible.ingestReportString>Fume {0}.</VBE_Cigars.ingestible.ingestReportString>
+<VBE_Cigars.ingestible.ingestReportStringEat>Consomme {0}.</VBE_Cigars.ingestible.ingestReportStringEat>
+
+<VBE_Plant_Coffee.label>caféier</VBE_Plant_Coffee.label>
+<VBE_Plant_Coffee.description>Un buisson bas d'origine tropicale, parsemé de petites baies rougeâtres à maturité. Les noyaux de ces baies sont appelés succinctement "grains de café" et peuvent être torréfiés pour faire ressortir une saveur intense et amère, ainsi que la caféine naturelle. Ce genre en particulier a fait l'objet d'une sélection pour une maturation rapide par rapport à son homologue ancien.</VBE_Plant_Coffee.description>
+
+<VBE_Plant_Tea.label>théier</VBE_Plant_Tea.label>
+<VBE_Plant_Tea.description>Un arbuste très feuillu qui est particulièrement facile à cultiver. Depuis les débuts de l'humanité, on a découvert que les feuilles de ces plantes peuvent être bouillies pour obtenir une variété de thé terreux et apaisant. Ce genre en particulier a fait l'objet d'une sélection pour une maturation rapide par rapport à son homologue ancien.</VBE_Plant_Tea.description>
+
+<VBE_Plant_Tobacco.label>plant de tabac</VBE_Plant_Tobacco.label>
+<VBE_Plant_Tobacco.description>Une plante courte, à larges feuilles, qui se développe dans les climats chauds. Les feuilles de tabac peuvent être séchées assez facilement pour être ensuite roulées et fumées, procurant un léger effet stimulant.</VBE_Plant_Tobacco.description>
+
+
+</LanguageData>

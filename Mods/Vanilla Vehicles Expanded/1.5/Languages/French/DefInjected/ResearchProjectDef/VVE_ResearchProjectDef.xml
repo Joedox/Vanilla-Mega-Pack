@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VVE_BasicVehicles.label>véhicules basiques</VVE_BasicVehicles.label>
+<VVE_BasicVehicles.description>Vous permet d'apprendre à construire des véhicules basiques et inefficaces, du buggy rôdeur au char d'assaut pour une seule personne.</VVE_BasicVehicles.description>
+<VVE_BasicVehicles.generalRules.rulesStrings>
+    <li>subject->les premiers véhicules</li>
+    <li>subject_story->a commencé à fabriquer des véhicules simples tels que des buggys et des chars d'assaut à une seule personne</li>
+    <li>subject_story->a modifié la distance que nous pouvions parcourir et ce que nous pouvions transporter</li>
+    <li>subject_story->a rendu les voyages plus rapides que jamais</li>
+    <li>subject_gerund->l'invention de nouvelles façons de bouger</li>
+</VVE_BasicVehicles.generalRules.rulesStrings>
+
+<VVE_ComplexVehicles.label>véhicules complexes</VVE_ComplexVehicles.label>
+<VVE_ComplexVehicles.description>Vous permet d'apprendre à construire des véhicules complexes, tels que des breaks, des roadrunners et des snatchers, à l'aide d'éléments que vous pouvez facilement fabriquer.</VVE_ComplexVehicles.description>
+<VVE_ComplexVehicles.generalRules.rulesStrings>
+    <li>subject->les véhicules plus performants</li>
+    <li>subject_story->a construit des véhicules plus complexes tels que des breaks et des voitures rapides</li>
+    <li>subject_story->a facilité le déplacement des objets et des personnes sur de longues distances</li>
+    <li>subject_story->a rendu les véhicules plus utiles et plus polyvalents</li>
+    <li>subject_gerund->l'amélioration de nos déplacements</li>
+</VVE_ComplexVehicles.generalRules.rulesStrings>
+
+<VVE_AerialVehicles.label>véhicules aériens</VVE_AerialVehicles.label>
+<VVE_AerialVehicles.description>Vous permet d'apprendre à construire des véhicules permettant de se déplacer au-dessus du sol, tels qu'un hélicoptère moustique ou un avion cargo contrebandier.</VVE_AerialVehicles.description>
+<VVE_AerialVehicles.generalRules.rulesStrings>
+    <li>subject->les machines volantes</li>
+    <li>subject_story->a créé des hélicoptères et des avions-cargos capables de survoler des obstacles</li>
+    <li>subject_story->a ouvert de nouvelles voies d'exploration et de commerce</li>
+    <li>subject_story->a rendu possible le transport aérien et a changé notre façon de voir le monde</li>
+    <li>subject_gerund->l'envol vers les cieux</li>
+</VVE_AerialVehicles.generalRules.rulesStrings>
+
+<VVE_CombatVehicles.label>véhicules de combat</VVE_CombatVehicles.label>
+<VVE_CombatVehicles.description>Vous permet d'apprendre à construire des véhicules de combat complexes, tels que des chars de combat bulldog, des véhicules blindés de transport de troupes tango et des avions de combat warbird.</VVE_CombatVehicles.description>
+<VVE_CombatVehicles.generalRules.rulesStrings>
+    <li>subject->les véhicules de guerre</li>
+    <li>subject_story->a fabriqué de puissants véhicules de combat tels que des chars et des avions blindés</li>
+    <li>subject_story->a imaginé des véhicules capables de se battre et de se défendre dans les guerres</li>
+    <li>subject_story->a changé la façon dont les batailles sont menées avec ces nouvelles machines</li>
+    <li>subject_gerund->la construction pour la bataille</li>
+</VVE_CombatVehicles.generalRules.rulesStrings>
+
+
+</LanguageData>

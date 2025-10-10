@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Vanilla Backgrounds Expanded -->
+<VBE>Vanilla Backgrounds Expanded </VBE>
+<!-- EN: Randomize -->
+<VBE.Randomize>Aléatoire</VBE.Randomize>
+<!-- EN: Randomize background on game start -->
+<VBE.Randomize.Desc>Afficher aléatoirement un arrière-plan parmi une sélection.</VBE.Randomize.Desc>
+<!-- EN: Cycle -->
+<VBE.Cycle>Cycle </VBE.Cycle>
+<!-- EN: Cycle background occasionally while in game -->
+<VBE.Cycle.Desc>Effectuer un changement d'arrière-plan avec une plage de temps définie.</VBE.Cycle.Desc>
+<!-- EN: Cycle time: -->
+<VBE.CycleTime>Durée du cycle :</VBE.CycleTime>
+<!-- EN: Toggle Backgrounds Being Shown -> -->
+<VBE.ToggleBackgrounds>Activer/Désactiver les arrière-plans affichés →</VBE.ToggleBackgrounds>
+<!-- EN: Select Background -> -->
+<VBE.SelectBackground>Choisir l'arrière-plan →</VBE.SelectBackground>
+<!-- EN: Allow Animations -->
+<VBE.AllowAnimated>Animation</VBE.AllowAnimated>
+<!-- EN: Allow animated backgrounds to be used. -->
+<VBE.AllowAnimated.Desc>Permettre l'utilisation d'arrière-plans animés.</VBE.AllowAnimated.Desc>
+<!-- EN: animated -->
+<VBE.Animated>animé</VBE.Animated>
+<!-- EN: A cool background -->
+<VBE.NoDesc>Un arrière-plan cool.</VBE.NoDesc>
+<!-- EN: Open Backgrounds Folder -->
+<VBE.OpenBackgrounds>Ouvrir dossier arrière-plans</VBE.OpenBackgrounds>
+<!-- EN: RimThemes Compat -->
+<VBE.RimThemes>Compatible RimThemes</VBE.RimThemes>
+<!-- EN: Overwrite RimThemes backgrounds with the ones from this mod. -->
+<VBE.RimThemes.Desc>Remplacer les arrière-plans de RimThemes par ceux de ce mod.</VBE.RimThemes.Desc>
+<!-- EN: Enable all -->
+<VBE.AllowAll>Activer tout</VBE.AllowAll>
+<!-- EN: Disable all -->
+<VBE.DisallowAll>Désactiver tout</VBE.DisallowAll>
+<!-- EN: Better Loading Compat -->
+<VBE.BetterLoading>Meilleure compatibilité de chargement</VBE.BetterLoading>
+<!-- EN: Patch better loading to switch control the background of it's display -->
+<VBE.BetterLoading.Desc>Un meilleur chargement des patchs pour contrôler les arrière-plans de l'affichage.</VBE.BetterLoading.Desc>
+<!-- EN: Move progress bar -->
+<VBE.BetterLoading.Move>Déplacer barre de chargement</VBE.BetterLoading.Move>
+<!-- EN: Move the better loading progress bar to the bottom to better show the background image -->
+<VBE.BetterLoading.Move.Desc>Déplacer la barre de chargement au lancement du jeu vers le bas pour mieux faire apparaître l'image de fond.</VBE.BetterLoading.Move.Desc>
+<!-- EN: Animate on load -->
+<VBE.AnimatedLoad>Animer en chargement</VBE.AnimatedLoad>
+<!-- EN: Show animations during initial game load. WARNING: In vanilla, these animations will freeze fequently. -->
+<VBE.AnimatedLoad.Desc>Afficher les animations pendant le lancement du jeu. AVERTISSEMENT : En vanilla, ces animations se figeront fréquemment.</VBE.AnimatedLoad.Desc>
+<!-- EN: Show on load -->
+<VBE.OnLoad>Arrière-plan Menu</VBE.OnLoad>
+<!-- EN: Show on initial game load. Requires a restart (obviously) -->
+<VBE.OnLoad.Desc>Utiliser l’arrière-plan sélectionné dès le lancement du jeu. Nécessite un redémarrage (évidemment).</VBE.OnLoad.Desc>
+
+
+</LanguageData>

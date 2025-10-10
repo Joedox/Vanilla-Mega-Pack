@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>lesson(priority=-1)->things happen</li>
+  <li>r_pattern->"[r_asatruLessonIntro] [r_lesson]. [r_lessonReinforcement] [r_asatruLessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->fragment of a [edited] [saga] found [museum]</li>
+  <li>edited->damaged</li>
+  <li>edited->misinterpreted</li>
+  <li>edited->ancient</li>
+  <li>edited->forgotten</li>
+  <li>edited->preserved</li>
+  <li>saga->Edda</li>
+  <li>saga->rune stone inscription</li>
+  <li>saga->skaldic verse</li>
+  <li>saga->ancient saga</li>
+  <li>museum->in the archive of Yggdrasil Station</li>
+  <li>museum->on a distant star colony named Himinbjörg</li>
+  <li>museum->in the Imperial Hall of Ancient Relics</li>
+  <li>museum->in the ruins of Jotunheim Prime</li>
+  <li>museum->in the vaults of the Keepers of Memory</li>
+  <li>asatruLessonIntro->Hear the words of Odin, All-Father, who whispers from the Well of Urd:</li>
+  <li>asatruLessonIntro->Lo, the verses of the Völuspá proclaim to all who would listen:</li>
+  <li>asatruLessonIntro->Take heed of Thor's hammer as it strikes, for it teaches:</li>
+  <li>asatruLessonIntro->Hark, the ravens Huginn and Muninn circle and cry their truth:</li>
+  <li>asatruLessonIntro->Under the shade of Yggdrasil, the gods did gather and declare:</li>
+  <li>asatruLessonIntro->By the light of Baldr's blessing, know this:</li>
+  <li>asatruLessonIntro->On the fjords of the Nine Worlds, wisdom echoes, saying:</li>
+  <li>asatruLessonIntro->The runes carved deep into the stones of Midgard teach us thus:</li>
+  <li>asatruLessonReinforcement->May your deeds echo in the halls of Valhalla.</li>
+  <li>asatruLessonReinforcement->The Norns weave your destiny with threads of honor.</li>
+  <li>asatruLessonReinforcement->Stand firm, for the gods reward courage and resolve.</li>
+  <li>asatruLessonReinforcement->Hail, for your actions shall inspire skalds to song.</li>
+  <li>asatruLessonReinforcement->The hammer of Thor blesses those who uphold truth and strength.</li>
+  <li>asatruLessonReinforcement->The All-Father watches those who honor the old ways.</li>
+  <li>asatruLessonReinforcement->May you find victory in the sacred bonds of kinship.</li>
+  <li>lessonReinforcement->And so the tale will live on.</li>
+-->
+<VFEM2_Structure_Norse_Description.rules.rulesStrings>
+  <li>lesson(priority=-1)->des choses se produisent</li>
+  <li>r_pattern->"[r_asatruLessonIntro] [r_lesson]. [r_lessonReinforcement] [r_asatruLessonReinforcement]"\n\n  - [lessonAttribution]</li>
+  <li>lessonAttribution->fragment [saga] [edited] trouvé [museum]</li>
+  <li>edited->endommagée</li>
+  <li>edited->mal interprétée</li>
+  <li>edited->antique</li>
+  <li>edited->oubliée</li>
+  <li>edited->préservée</li>
+  <li>saga->d'Edda</li>
+  <li>saga->d'une inscription dans la pierre runique</li>
+  <li>saga->d'une strophe skaldique</li>
+  <li>saga->d'une ancienne saga</li>
+  <li>museum->dans les archives de la station Yggdrasil</li>
+  <li>museum->sur une colonie stellaire lointaine nommée Himinbjörg</li>
+  <li>museum->dans la salle impériale des reliques anciennes</li>
+  <li>museum->dans les ruines de Jotunheim Prime</li>
+  <li>museum->dans les coffres des gardiens de la mémoire</li>
+  <li>asatruLessonIntro->Écoutez les paroles d'Odin, le Tout-Père, qui murmure depuis le puits d'Urd :</li>
+  <li>asatruLessonIntro->Les versets de la Völuspá s'adressent à tous ceux qui veulent bien les écouter :</li>
+  <li>asatruLessonIntro->Prenez garde au marteau de Thor lorsqu'il frappe, car il enseigne :</li>
+  <li>asatruLessonIntro->Les corbeaux Huginn et Muninn tournent en rond et crient leur vérité :</li>
+  <li>asatruLessonIntro->À l'ombre d'Yggdrasil, les dieux se réunissent et déclarent :</li>
+  <li>asatruLessonIntro->Par la lumière de la bénédiction de Baldr, sachez ceci :</li>
+  <li>asatruLessonIntro->Sur les fjords des Neuf Mondes, la sagesse résonne, disant :</li>
+  <li>asatruLessonIntro->Les runes gravées dans les pierres de Midgard nous enseignent ceci :</li>
+  <li>asatruLessonReinforcement->Puissent vos actes trouver un écho dans les salles du Valhalla.</li>
+  <li>asatruLessonReinforcement->Les Nornes tissent votre destin avec des fils d'honneur.</li>
+  <li>asatruLessonReinforcement->Tenez bon, car les dieux récompensent le courage et la détermination.</li>
+  <li>asatruLessonReinforcement->Saluez, car vos actions inspireront des chants aux skalds.</li>
+  <li>asatruLessonReinforcement->Le marteau de Thor bénit ceux qui défendent la vérité et la force.</li>
+  <li>asatruLessonReinforcement->Le Tout-Père observe ceux qui honorent les anciennes coutumes.</li>
+  <li>asatruLessonReinforcement->Puissiez-vous trouver la victoire dans les liens sacrés de la parenté.</li>
+  <li>lessonReinforcement->C'est ainsi que l'histoire se perpétue.</li>
+</VFEM2_Structure_Norse_Description.rules.rulesStrings>
+
+
+</LanguageData>

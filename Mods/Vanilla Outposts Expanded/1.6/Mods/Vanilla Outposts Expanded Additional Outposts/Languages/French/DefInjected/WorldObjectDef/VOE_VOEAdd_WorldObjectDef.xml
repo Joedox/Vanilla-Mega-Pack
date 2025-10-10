@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: border post -->
+<Outpost_Border_Post.label>poste frontalier</Outpost_Border_Post.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in patroling faction's border, searching for illegal trespassers and smugglers. Once the violator is caught, he is fined or imprisoned. After which a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Border_Post.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la surveillance des frontières de votre faction, à la recherche d'intrus et de contrebandiers. Lorsque le contrevenant est attrapé, il est condamné à une amende ou emprisonné. Après quoi, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Border_Post.description>
+<!-- EN: Choose what to do with violator -->
+<Outpost_Border_Post.modExtensions.0.ChooseDesc>Choisir la condamnation à prendre à l'égard des contrevenants.</Outpost_Border_Post.modExtensions.0.ChooseDesc>
+<!-- EN: {0} violator -->
+<Outpost_Border_Post.modExtensions.0.ChooseLabel>Condamnation {0}</Outpost_Border_Post.modExtensions.0.ChooseLabel>
+
+<!-- EN: wandering circus -->
+<Outpost_Circus.label>cirque itinérant</Outpost_Circus.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in organizing artistic and recreational events for wanderers, caravans and natives in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Circus.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'organisation d'événements artistiques et récréatifs pour les vagabonds, caravanes et indigènes, en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Circus.description>
+
+<!-- EN: construction workers outpost -->
+<Outpost_Construction_Site.label>avant-poste de travailleurs</Outpost_Construction_Site.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in providing construction workers for temporary employment to other factions in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Construction_Site.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'emploi temporaire d'ouvriers pour les autres factions, en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Construction_Site.description>
+
+<!-- EN: embassy -->
+<Outpost_Embassy.label>ambassade</Outpost_Embassy.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in negotiating with other factions. Once the negotiations are successful, goodwill of that faction will increase. -->
+<Outpost_Embassy.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la négociation avec les autres factions. Des négociations réussies augmentent les relations avec cette faction.</Outpost_Embassy.description>
+<!-- EN: Choose with what faction this outpost will negotiate -->
+<Outpost_Embassy.modExtensions.0.ChooseDesc>Choisir la faction avec laquelle cette ambassade va négocier.</Outpost_Embassy.modExtensions.0.ChooseDesc>
+<!-- EN: Negotiate with {0} -->
+<Outpost_Embassy.modExtensions.0.ChooseLabel>Négocier avec {0}</Outpost_Embassy.modExtensions.0.ChooseLabel>
+
+<!-- EN: field hospital -->
+<Outpost_Field_Hospital.label>hôpital de campagne</Outpost_Field_Hospital.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in producing medical supplies for colony. Alternatively can sell them and provide medical help to wanderers, caravans and natives in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Field_Hospital.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production de matériel médical pour votre colonie. Peut également vendre et fournir une aide médicale aux vagabonds, caravanes et indigènes en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Field_Hospital.description>
+<!-- EN: Choose between producing medical supplies for colony or for sale -->
+<Outpost_Field_Hospital.modExtensions.0.ChooseDesc>Choisir entre la production de matériel médical pour votre colonie ou pour la vente.</Outpost_Field_Hospital.modExtensions.0.ChooseDesc>
+<!-- EN: Choose strategy for hospital -->
+<Outpost_Field_Hospital.modExtensions.0.ChooseLabel>produire...</Outpost_Field_Hospital.modExtensions.0.ChooseLabel>
+
+<!-- EN: mercenary camp -->
+<Outpost_Mercenary_Camp.label>camp de mercenaires</Outpost_Mercenary_Camp.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in providing mercenary services in exchange for silver. Once mission is over reward will be delivered at the outskirts of a faction's primary colony. -->
+<Outpost_Mercenary_Camp.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la prestation de services de mercenaires en échange d'argent. Une fois la mission terminée, la récompense sera livrée à la périphérie de votre colonie principale.</Outpost_Mercenary_Camp.description>
+<!-- EN: Choose risk lvl for next mission -->
+<Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>Choisir le niveau de risque pour la prochaine mission.</Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>
+<!-- EN: Risk lvl {0} -->
+<Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>Risque niv. {0}</Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>
+
+<!-- EN: prison -->
+<Outpost_Prison.label>pénitencier</Outpost_Prison.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in keeping prisoners and their rehabilitation. Get payment with silver for holding prisoners from other factions. Can force to work, recruit or enslave colony prisoners. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Prison.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'incarcération et la réinsertion des prisonniers. Obtenez un paiement pour la détention de prisonniers d'autres factions. Peut forcer les prisonniers à travailler, les recruter ou les réduire en esclavage. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Prison.description>
+<!-- EN: Choose what to do with prisoners -->
+<Outpost_Prison.modExtensions.0.ChooseDesc>Choisir ce qu'il faut faire avec les prisonniers.</Outpost_Prison.modExtensions.0.ChooseDesc>
+
+<!-- EN: ranch -->
+<Outpost_Ranch.label>ferme d'élevage</Outpost_Ranch.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in livestock handling and gathering their products. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Ranch.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'élevage du bétail et la production de denrées animalières. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Ranch.description>
+<!-- EN: Transfer an animal to a ranch for permament handling -->
+<Outpost_Ranch.modExtensions.0.ChooseDesc>Transférer un animal de cette caravane à la ferme d'élevage.</Outpost_Ranch.modExtensions.0.ChooseDesc>
+<!-- EN: Add animal -->
+<Outpost_Ranch.modExtensions.0.ChooseLabel>ajouter animal</Outpost_Ranch.modExtensions.0.ChooseLabel>
+
+<!-- EN: restaurant -->
+<Outpost_Restaurant.label>restaurant</Outpost_Restaurant.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in producing meals supplies for colony. Alternatively can sell meals to wanderers, caravans and natives in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Restaurant.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production de repas pour votre colonie. Peut également vendre les repas aux vagabonds, caravanes et indigènes en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Restaurant.description>
+<!-- EN: Choose between producing meals for colony or for sale -->
+<Outpost_Restaurant.modExtensions.0.ChooseDesc>Choisir entre la production de repas pour votre colonie ou pour la vente.</Outpost_Restaurant.modExtensions.0.ChooseDesc>
+<!-- EN: Choose strategy for restaurant -->
+<Outpost_Restaurant.modExtensions.0.ChooseLabel>produire...</Outpost_Restaurant.modExtensions.0.ChooseLabel>
+
+
+<!-- EN: educational center -->
+<Outpost_Educational_Center.label>centre d'éducation</Outpost_Educational_Center.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in student education. Requires teachers of different specialties. -->
+<Outpost_Educational_Center.description>Emplacement d'un camp temporaire, géré de manière autonome et spécialisé dans l'éducation des élèves. Nécessite des enseignants de différentes spécialités.</Outpost_Educational_Center.description>
+
+
+<!-- EN: church -->
+<Outpost_Church.label>église</Outpost_Church.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in spreading ideology. Get donations with silver from visitors. Can convert people to faction's ideology. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Church.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la diffusion d'idéoligions. Obtient des dons d'argent de la part des visiteurs. Peut convertir les gens à l'idéoligion de votre faction. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Church.description>
+<!-- EN: Choose what ideology your priests will spread -->
+<Outpost_Church.modExtensions.0.ChooseDesc>Choisir l'idéoligion que vos guides spirituels vont propager.</Outpost_Church.modExtensions.0.ChooseDesc>
+<!-- EN: Spread {0} -->
+<Outpost_Church.modExtensions.0.ChooseLabel>propager : {0}</Outpost_Church.modExtensions.0.ChooseLabel>
+
+
+</LanguageData>

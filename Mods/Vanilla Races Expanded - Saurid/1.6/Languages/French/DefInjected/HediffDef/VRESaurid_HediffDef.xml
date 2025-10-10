@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: egg fatigue -->
+<VRESaurids_EggFatigue.label>épuisement d'œuf</VRESaurids_EggFatigue.label>
+<!-- EN: After laying an egg, it is common with those with the oviparous gene to go through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects. -->
+<VRESaurids_EggFatigue.description>Après la ponte d'un œuf, il est fréquent que ceux qui possèdent le gène ovipare traversent une courte période de stérilité jusqu'à ce qu'ils soient capables d'en produire un autre. Cette condition n'est que temporaire et n'entraîne aucun effet à long terme.</VRESaurids_EggFatigue.description>
+
+
+<!-- EN: saurid claws -->
+<VRESaurids_SauridClaws.label>griffes de saurides</VRESaurids_SauridClaws.label>
+<!-- EN: Carriers of this gene have hands that partially resemble dinosaur claws. This has a slight impact on their ability to manipulate objects, but allows them to deal deep cuts in melee combat. -->
+<VRESaurids_SauridClaws.description>Les porteurs de ce gène ont des mains qui ressemblent partiellement à des griffes de dinosaures. Cela a un léger impact sur leur capacité à manipuler les objets, mais leur permet d'infliger des coupures profondes en combat rapproché.</VRESaurids_SauridClaws.description>
+<!-- EN: claws -->
+<VRESaurids_SauridClaws.comps.HediffComp_VerbGiver.tools.claws.label>griffes</VRESaurids_SauridClaws.comps.HediffComp_VerbGiver.tools.claws.label>
+
+
+<!-- EN: hyperthermic slowdown -->
+<VRESaurids_HyperthermicSlowdown.label>fléchissement hyperthermique</VRESaurids_HyperthermicSlowdown.label>
+<!-- EN: This pawn is cold blooded and their body will begin to shut down when too hot, it has the benefit of slowing their metabolism so they have a lower hunger rate however the longer this goes on the worse it will affect their capabilities up to the point where they die. -->
+<VRESaurids_HyperthermicSlowdown.description>Ce colon est ectotherme et son corps commence à se réchauffer lorsqu'il fait trop chaud, ce qui a l'avantage de ralentir son métabolisme et de réduire sa faim. Cependant, plus cela perdure, plus cela affecte ses capacités, jusqu'à la mort.</VRESaurids_HyperthermicSlowdown.description>
+
+<!-- EN: hypothermic slowdown -->
+<VRESaurids_HypothermicSlowdown.label>fléchissement hypothermique</VRESaurids_HypothermicSlowdown.label>
+<!-- EN: This pawn is cold blooded and their body will begin to shut down when too cold, it has the benefit of slowing their metabolism so they have a lower hunger rate however the longer this goes on the worse it will affect their capabilities up to the point where they die. -->
+<VRESaurids_HypothermicSlowdown.description>Ce colon est ectotherme et son corps commence à se refroidir lorsqu'il fait trop froid, ce qui a l'avantage de ralentir son métabolisme et de réduire sa faim. Cependant, plus cela perdure, plus cela affecte ses capacités, jusqu'à la mort.</VRESaurids_HypothermicSlowdown.description>
+
+
+</LanguageData>

@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: early maturity -->
+<VRE_EarlyMaturity.label>maturité précoce</VRE_EarlyMaturity.label>
+<!-- EN: Carriers of this gene reach skill maturity significantly earlier than others. They can do majority of tasks at the age of 4, and can do wardening, doctoring and construction at the age of 7. -->
+<VRE_EarlyMaturity.description>Les porteurs de ce gène atteignent la maturité intellectuelle beaucoup plus tôt que les autres. Ils peuvent effectuer la majorité des tâches à l'âge de 4 ans, et peuvent faire geôlier, médecin et constructeur à l'âge de 7 ans.</VRE_EarlyMaturity.description>
+
+
+<!-- EN: natural psylink -->
+<VRE_InnatePsylink.label>lien psychique naturel</VRE_InnatePsylink.label>
+<!-- EN: Carriers of this gene have a slightly restructured brain, which provides them with a natural psylink. -->
+<VRE_InnatePsylink.description>Les porteurs de ce gène ont un cerveau légèrement restructuré, ce qui leur confère un lien psychique naturel.</VRE_InnatePsylink.description>
+<!-- EN: Losing this gene will make the colonist lose all psylink levels, though they will not forget the psycasts they have already learned. -->
+<VRE_InnatePsylink.customEffectDescriptions.0>En perdant ce gène, le colon perd tous les niveaux de lien psychique, mais n'oublie pas les psysorts qu'il a appris.</VRE_InnatePsylink.customEffectDescriptions.0>
+
+<!-- EN: leapjump legs -->
+<VRE_LeapjumpLegs.label>jambes bondissantes</VRE_LeapjumpLegs.label>
+<!-- EN: Carriers have special archite-powered muscle fibers in their legs which allow them to jump extremely great distances, causing blunt trauma to anyone unfortunate enough to be in the landing zone. -->
+<VRE_LeapjumpLegs.description>Les porteurs possèdent dans leurs jambes des fibres musculaires spéciales, dotées d'une puissance archite, qui leur permettent de sauter sur de très grandes distances, causant des traumatismes contondants à tous ceux qui ont la malchance de se trouver dans la zone d'atterrissage.</VRE_LeapjumpLegs.description>
+
+<!-- EN: extremely psy-sensitive -->
+<VRE_PsychicAbility_MoreExtreme.label>extrême psy-sensible</VRE_PsychicAbility_MoreExtreme.label>
+<!-- EN: Carriers of this gene have archite-enhanced connection to the psychic. They have greatly enhanced psychic sensitivity and gain significantly more focus from meditation. -->
+<VRE_PsychicAbility_MoreExtreme.description>Les porteurs de ce gène ont une connexion psychique renforcée par l'archite. Ils ont une sensibilité psychique considérablement accrue et gagnent beaucoup plus de concentration psychique lors de la méditation.</VRE_PsychicAbility_MoreExtreme.description>
+<!-- EN: psy-extreme -->
+<VRE_PsychicAbility_MoreExtreme.labelShortAdj>psy-extrême</VRE_PsychicAbility_MoreExtreme.labelShortAdj>
+<!-- EN: psy -->
+<VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.0.symbol>psy</VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: senso -->
+<VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.1.symbol>senso</VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: sensi -->
+<VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.2.symbol>sensi</VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.2.symbol>
+
+<!-- EN: transcendent -->
+<VRE_Transcendent.label>transcendance</VRE_Transcendent.label>
+<!-- EN: Carriers of this gene have a direct link to a distant archotech, and part of their essence exists outside of our dimension. They are capable of using archon equipment, and in the event of death, they will skip back to another dimension only to return unscathed after some time has passed. -->
+<VRE_Transcendent.description>Les porteurs de ce gène ont un lien direct avec un archotech lointain, et une partie de leur essence existe en dehors de notre dimension. Ils sont capables d'utiliser l'équipement des archons et, en cas de décès, ils basculent dans une autre dimension pour revenir indemnes au bout d'un certain temps.</VRE_Transcendent.description>
+
+
+<!-- EN: fast melee hitter -->
+<VRE_FastMeleeHitter.label>attaque rapide en mêlée</VRE_FastMeleeHitter.label>
+<!-- EN: Carriers of this gene attack much quicker in close-quarters combat. Extra-fast muscle fibers make their strikes much faster. -->
+<VRE_FastMeleeHitter.description>Les porteurs de ce gène attaquent beaucoup plus vite en combat rapproché. Les fibres musculaires extra-rapides rendent leurs coups beaucoup plus rapides.</VRE_FastMeleeHitter.description>
+
+<!-- EN: fast shooter -->
+<VRE_FastShooter.label>tireur rapide</VRE_FastShooter.label>
+<!-- EN: Carriers of this gene have enhanced reflexes, allowing them to fire their ranged weapons significantly faster. -->
+<VRE_FastShooter.description>Les porteurs de ce gène ont des réflexes améliorés, ce qui leur permet de tirer avec leurs armes à distance beaucoup plus rapidement.</VRE_FastShooter.description>
+
+<!-- EN: slow melee hitter -->
+<VRE_SlowMeleeHitter.label>attaque lente en mêlée</VRE_SlowMeleeHitter.label>
+<!-- EN: Carriers of this gene attack significantly slower in close-quarters combat. Weak muscle fibers make their strikes much slower. -->
+<VRE_SlowMeleeHitter.description>Les porteurs de ce gène attaquent beaucoup plus lentement en combat rapproché. La faiblesse des fibres musculaires rend leurs coups beaucoup plus lents.</VRE_SlowMeleeHitter.description>
+
+<!-- EN: slow shooter -->
+<VRE_SlowShooter.label>tireur lent</VRE_SlowShooter.label>
+<!-- EN: Carriers of this gene have lowered reflexes and take significantly longer to aim their shots. -->
+<VRE_SlowShooter.description>Les porteurs de ce gène ont des réflexes amoindris et mettent beaucoup plus de temps à viser.</VRE_SlowShooter.description>
+
+
+<!-- EN: dread hair -->
+<VRE_DreadHair.label>cheveux dread</VRE_DreadHair.label>
+<!-- EN: Carriers of this gene grow hair that naturally forms thick dreadlocks. -->
+<VRE_DreadHair.description>Les porteurs de ce gène ont des cheveux qui forment naturellement des dreadlocks épaisses.</VRE_DreadHair.description>
+
+<!-- EN: facial spots -->
+<VRE_FacialSpots.label>tâches faciales</VRE_FacialSpots.label>
+<!-- EN: Carriers of this gene have small pigmentation spots on their face. -->
+<VRE_FacialSpots.description>Les porteurs de ce gène présentent de petites taches pigmentaires sur le visage.</VRE_FacialSpots.description>
+
+<!-- EN: serrated ears -->
+<VRE_SerratedEars.label>oreilles dentelées</VRE_SerratedEars.label>
+<!-- EN: Carriers of this gene have long, serrated ears. -->
+<VRE_SerratedEars.description>Les porteurs de ce gène ont des oreilles longues et dentelées.</VRE_SerratedEars.description>
+
+
+<!-- EN: leatherskin -->
+<VRE_Leatherskin.label>peau de cuir</VRE_Leatherskin.label>
+<!-- EN: Carriers of this gene are covered in a thick, rigged leather, which provides a higher sharp and blunt defense. -->
+<VRE_Leatherskin.description>Les porteurs de ce gène sont recouverts d'un cuir épais et rigide qui leur confère une meilleure défense contre les objets tranchants et contondants.</VRE_Leatherskin.description>
+
+
+<!-- EN: extreme entropy capacity -->
+<VRE_ExtremeEntropyCapacity.label>entropie extrême</VRE_ExtremeEntropyCapacity.label>
+<!-- EN: Carriers of this gene have a much higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use. -->
+<VRE_ExtremeEntropyCapacity.description>Les porteurs de ce gène ont une capacité beaucoup plus élevée à résister à l'énergie psychique chaotique accumulée par les pouvoirs psychiques qu'ils utilisent.</VRE_ExtremeEntropyCapacity.description>
+
+<!-- EN: extreme meditation -->
+<VRE_ExtremeMeditation.label>méditation extrême</VRE_ExtremeMeditation.label>
+<!-- EN: Carriers of this gene are capable of having much more impactful meditation sessions. They will regenerate psyfocus significantly quicker. -->
+<VRE_ExtremeMeditation.description>Les porteurs de ce gène ont des séances de méditation beaucoup plus efficaces. Ils régénèrent leur concentration psychique beaucoup plus rapidement.</VRE_ExtremeMeditation.description>
+
+<!-- EN: high entropy capacity -->
+<VRE_HighEntropyCapacity.label>entropie élevée</VRE_HighEntropyCapacity.label>
+<!-- EN: Carriers of this gene have a higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use. -->
+<VRE_HighEntropyCapacity.description>Les porteurs de ce gène ont une plus grande capacité à résister à l'énergie psychique chaotique accumulée par les pouvoirs psychiques qu'ils utilisent.</VRE_HighEntropyCapacity.description>
+
+<!-- EN: slow meditation -->
+<VRE_SlowMeditation.label>méditation lente</VRE_SlowMeditation.label>
+<!-- EN: Carriers of this gene are finding it difficult to focus during meditation sessions. They will regenerate psyfocus significantly slower than usual. -->
+<VRE_SlowMeditation.description>Les porteurs de ce gène éprouvent des difficultés à se concentrer pendant les séances de méditation. Ils régénèrent la concentration psychique beaucoup plus lentement que la normale.</VRE_SlowMeditation.description>
+
+<!-- EN: swift meditation -->
+<VRE_SwiftMeditation.label>méditation rapide</VRE_SwiftMeditation.label>
+<!-- EN: Carriers of this gene are capable of having a faster meditation sessions. They will regenerate psyfocus slightly faster than usual. -->
+<VRE_SwiftMeditation.description>Les porteurs de ce gène ont des séances de méditation plus rapides. Ils régénèrent la concentration psychique un peu plus rapidement que la normale.</VRE_SwiftMeditation.description>
+
+<!-- EN: weak entropy capacity -->
+<VRE_WeakEntropyCapacity.label>entropie faible</VRE_WeakEntropyCapacity.label>
+<!-- EN: Carriers of this gene have a much lower capacity to withstand the chaotic psychic energy accumulated via psychic powers they use. -->
+<VRE_WeakEntropyCapacity.description>Les porteurs de ce gène ont une capacité beaucoup plus faible à résister à l'énergie psychique chaotique accumulée par les pouvoirs psychiques qu'ils utilisent.</VRE_WeakEntropyCapacity.description>
+
+
+<!-- EN: long pregnancy -->
+<VRE_LongPregnancy.label>grossesse longue</VRE_LongPregnancy.label>
+<!-- EN: Carriers of this gene take twice as long to develop a child during pregnancy. Pregnancy lasts three hexamesters - 36 days. -->
+<VRE_LongPregnancy.description>Les porteurs de ce gène mettent deux fois plus de temps à la gestation d'un enfant. La grossesse dure trois hexamestres, soit 36 jours.</VRE_LongPregnancy.description>
+
+<!-- EN: short pregnancy -->
+<VRE_ShortPregnancy.label>grossesse courte</VRE_ShortPregnancy.label>
+<!-- EN: Carriers of this gene develop a child during pregnancy much faster. Pregnancy lasts 3 bimesters - 12 days. -->
+<VRE_ShortPregnancy.description>Les porteurs de ce gène ont une gestation beaucoup plus rapide. La grossesse dure 3 bimestres, soit 12 jours.</VRE_ShortPregnancy.description>
+
+
+<!-- EN: maniac -->
+<VRE_Maniac.label>maniaque</VRE_Maniac.label>
+<!-- EN: Carriers of this gene lack any sort of empathy. They do not care about the suffering of others and take no pleasure from socialising with others. -->
+<VRE_Maniac.description>Les porteurs de ce gène sont dépourvus de toute forme d'empathie. Ils ne se soucient pas de la souffrance des autres et n'éprouvent aucun plaisir à socialiser avec les autres.</VRE_Maniac.description>
+
+
+<!-- EN: extremely aggressive -->
+<VRE_Aggression_ExtremelyAggressive.label>extrêmement agressive</VRE_Aggression_ExtremelyAggressive.label>
+<!-- EN: Carriers of this gene are incredibly aggressive and are offended by almost anything. They will always respond to insults and slights with a social fight, and will not hesitate to use their melee weapons to get their point across. Mental breaks are always violent. -->
+<VRE_Aggression_ExtremelyAggressive.description>Les porteurs de ce gène sont incroyablement agressifs et s'offusquent de presque tout. Ils répondent toujours aux insultes et aux affronts par une lutte sociale et n'hésitent pas à utiliser leurs armes de mêlée pour faire passer leur message. Les crises mentales sont toujours violentes.</VRE_Aggression_ExtremelyAggressive.description>
+<!-- EN: Social fight guaranteed on insult or slight. -->
+<VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.0>Lutte sociale garantie sur une insulte ou un affront.</VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.0>
+<!-- EN: Will use weapons in social fight. -->
+<VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.1>Utilisation des armes dans la lutte sociale.</VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.1>
+<!-- EN: aggro -->
+<VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.0.symbol>aggro</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: hate -->
+<VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.1.symbol>haine</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: fight -->
+<VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.2.symbol>combattre</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: destro -->
+<VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.3.symbol>détruire</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: barb -->
+<VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.4.symbol>barb</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.4.symbol>
+<!-- EN: fighter -->
+<VRE_Aggression_ExtremelyAggressive.symbolPack.suffixSymbols.0.symbol>combattant</VRE_Aggression_ExtremelyAggressive.symbolPack.suffixSymbols.0.symbol>
+
+
+</LanguageData>

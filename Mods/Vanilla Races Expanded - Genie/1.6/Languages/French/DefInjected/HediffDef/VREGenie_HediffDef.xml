@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: antibiotics addiction -->
+<VRE_AntibioticsAddiction.label>addiction aux antibiotiques</VRE_AntibioticsAddiction.label>
+<!-- EN: A chemical addiction to antibiotics. Long-term presence of antibiotics has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of antibiotics, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+<VRE_AntibioticsAddiction.description>Une dépendance chimique aux antibiotiques. La présence à long terme d'antibiotiques a provoqué des adaptations neurologiques au niveau cellulaire, de sorte que le cerveau ne peut plus fonctionner correctement sans la drogue.\n\nSans doses régulières d'antibiotiques, les symptômes de sevrage commenceront. Cependant, une abstinence prolongée forcera le cerveau à revenir à son état normal, faisant disparaître la dépendance.</VRE_AntibioticsAddiction.description>
+<!-- EN: withdrawal -->
+<VRE_AntibioticsAddiction.stages.withdrawal.label>sevrage</VRE_AntibioticsAddiction.stages.withdrawal.label>
+
+<!-- EN: antibiotics -->
+<VRE_AntibioticsHigh.label>antibiotiques</VRE_AntibioticsHigh.label>
+<!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+<VRE_AntibioticsHigh.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh.description>
+
+<!-- EN: antibiotics -->
+<VRE_AntibioticsHigh_NoImmunity.label>antibiotiques</VRE_AntibioticsHigh_NoImmunity.label>
+<!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+<VRE_AntibioticsHigh_NoImmunity.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh_NoImmunity.description>
+
+<!-- EN: antibiotics -->
+<VRE_AntibioticsHigh_VeryWeak.label>antibiotiques</VRE_AntibioticsHigh_VeryWeak.label>
+<!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+<VRE_AntibioticsHigh_VeryWeak.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh_VeryWeak.description>
+
+<!-- EN: antibiotics -->
+<VRE_AntibioticsHigh_Weak.label>antibiotiques</VRE_AntibioticsHigh_Weak.label>
+<!-- EN: A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug. -->
+<VRE_AntibioticsHigh_Weak.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh_Weak.description>
+
+<!-- EN: antibiotics tolerance -->
+<VRE_AntibioticsTolerance.label>tolérance aux antibiotiques</VRE_AntibioticsTolerance.label>
+<!-- EN: A built-up tolerance to antibiotics. The more severe this tolerance is, the more antibiotics it takes to get the same effect. -->
+<VRE_AntibioticsTolerance.description>Une tolérance croissante aux antibiotiques. Plus cette tolérance est sévère, plus il faut d'antibiotiques pour obtenir le même effet.</VRE_AntibioticsTolerance.description>
+<!-- EN: small -->
+<VRE_AntibioticsTolerance.stages.small.label>insignifiante</VRE_AntibioticsTolerance.stages.small.label>
+<!-- EN: large -->
+<VRE_AntibioticsTolerance.stages.large.label>forte</VRE_AntibioticsTolerance.stages.large.label>
+<!-- EN: massive -->
+<VRE_AntibioticsTolerance.stages.massive.label>très forte</VRE_AntibioticsTolerance.stages.massive.label>
+
+
+<!-- EN: hemophiliac -->
+<VRE_Hemophiliac.label>hémophile</VRE_Hemophiliac.label>
+<!-- EN: A bleeding disorder that stops coagulating factors in blood, resulting in much faster bleed out rate when wounded. -->
+<VRE_Hemophiliac.description>Un trouble de la coagulation qui arrête les facteurs de coagulation dans le sang, entraînant un taux de saignement beaucoup plus rapide en cas de blessure.</VRE_Hemophiliac.description>
+
+
+</LanguageData>

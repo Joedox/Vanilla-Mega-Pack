@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Completed on:  -->
+<VAspirE.CompletedOn>Terminé le : </VAspirE.CompletedOn>
+<!-- EN: {0} has achieved their {1} aspiration. -->
+<VAspirE.AspirationComplete>{0} a réalisé son aspiration {1}.</VAspirE.AspirationComplete>
+<!-- EN: {0} aspirations complete: {1} -->
+<VAspirE.AspirationStat>{0} aspirations sont satisfaites : {1}</VAspirE.AspirationStat>
+<!-- EN: {0} gains {1}: {2} -->
+<VAspirE.Gains>{0} obtiendra {1} : {2}</VAspirE.Gains>
+<!-- EN: implant -->
+<VAspirE.Implant>l'implant</VAspirE.Implant>
+<!-- EN: thought -->
+<VAspirE.Thought>la pensée</VAspirE.Thought>
+<!-- EN: xenotype -->
+<VAspirE.Xenotype>le xénotype</VAspirE.Xenotype>
+<!-- EN: psycast level -->
+<VAspirE.AbilityLevel>un psysort de niveau</VAspirE.AbilityLevel>
+<!-- EN: abilities -->
+<VAspirE.Abilities>la capacité</VAspirE.Abilities>
+<!-- EN: trait -->
+<VAspirE.Trait>le trait</VAspirE.Trait>
+<!-- EN: gene -->
+<VAspirE.Gene>le gène</VAspirE.Gene>
+<!-- EN: {0} completes the recipe {1} -->
+<VAspirE.Recipe>{0} complètera la recette {1}</VAspirE.Recipe>
+<!-- EN: {0} gets rid of the health condition {1} -->
+<VAspirE.HediffRemoval>{0} se débarrassera de la condition de santé {1}</VAspirE.HediffRemoval>
+<!-- EN: {0} completes the recipe {1}, using at least 1 {2} -->
+<VAspirE.RecipeProduct>{0} complètera la recette {1}, en utilisant au moins 1 {2}</VAspirE.RecipeProduct>
+<!-- EN: {0} nuzzled by: {1} -->
+<VAspirE.NuzzledBy>{0} sera câliné par : {1}</VAspirE.NuzzledBy>
+<!-- EN: {0} is in a colony with greater than {1} wealth -->
+<VAspirE.Wealth>{0} se trouve dans une colonie dont la richesse est supérieure à {1}.</VAspirE.Wealth>
+<!-- EN: royal title -->
+<VAspirE.Title>le titre royal</VAspirE.Title>
+<!-- EN: {0} becomes {1} to another. -->
+<VAspirE.Becomes>{0} deviendra {1} de quelqu'un.</VAspirE.Becomes>
+<!-- EN: {0} becomes {1} to one of these: {2}. -->
+<VAspirE.BecomesList>{0} deviendra {1} pour l'un d'entre eux : {2}.</VAspirE.BecomesList>
+<!-- EN: condition -->
+<VAspirE.Condition>la condition de santé</VAspirE.Condition>
+<!-- EN: prosthetic -->
+<VAspirE.Prosthetic>une prothèse</VAspirE.Prosthetic>
+<!-- EN: Satisfied when:  -->
+<VAspirE.SatisfiedWhen>Sera satisfait quand </VAspirE.SatisfiedWhen>
+<!-- EN: {0} has achieved their {1} aspiration. -->
+<VAspireE.AspirationComplete>{0} a réalisé une de ses aspirations : {1}</VAspireE.AspirationComplete>
+<!-- EN: Select an aspiration. -->
+<VAspirE.SelectAspirationSingular>Choisir une aspiration.</VAspirE.SelectAspirationSingular>
+<!-- EN: Select {0} aspirations. -->
+<VAspirE.SelectAspirationsPlural>Choisir {0} aspirations.</VAspirE.SelectAspirationsPlural>
+<!-- EN: Choose an aspiration for {0} to gain: -->
+<VAspirE.BirthdaySelectAspirationSingular>Choisissez une aspiration à gagner pour {0} :</VAspirE.BirthdaySelectAspirationSingular>
+<!-- EN: Choose aspirations for {0} to gain: -->
+<VAspirE.BirthdaySelectAspirationsPlural>Choisissez des aspirations à gagner pour {0} :</VAspirE.BirthdaySelectAspirationsPlural>
+<!-- EN: Aspirations are goals that {0} will want to achieve in their life. Achieving them will increase their mental break threshold, and if all aspirations are fulfilled, {0} will undergo another growth moment. -->
+<VAspirE.AspirationDesc>Les aspirations sont des objectifs que {0} souhaitera réaliser dans sa vie. Leur réalisation augmentera le seuil de crise de nerfs, et si toutes les aspirations sont satisfaites, {0} connaîtra un nouveau moment de croissance.</VAspirE.AspirationDesc>
+<!-- EN: Aspiration {0} was gained. -->
+<VAspirE.AspirationSelectionArchiveSingular>L'aspiration {0} a été gagnée.</VAspirE.AspirationSelectionArchiveSingular>
+<!-- EN: Aspirations were gained: {0}. -->
+<VAspirE.AspirationSelectionArchivePlural>Les aspirations ont été gagnées : {0}.</VAspirE.AspirationSelectionArchivePlural>
+<!-- EN: {0} has achieved fulfillment from their aspirations and has experienced a growth moment. -->
+<VAspirE.FullfilledGrowthMoment>{0} a réalisé un épanouissement grâce à l'accomplissement de ses aspirations et a connu un moment de croissance.</VAspirE.FullfilledGrowthMoment>
+<!-- EN: {0_nameDef} has demonstrated excellent determination in meeting their lifelong goals and is incredibly content with what they have achieved in their life. {0_nameDef} hopes that they have made a difference in the world. -->
+<VAspirE.FullfilledGrowthMoment.Desc>{0_nameDef} a fait preuve d'une excellente détermination pour atteindre les objectifs qu'{0_pronoun} s'est fixés tout au long de sa vie et {0_pronoun} est incroyablement satisfait{0_gender ? : e } de ce qu'{0_pronoun} a accompli. {0_nameDef} espère avoir fait une différence dans le monde.</VAspirE.FullfilledGrowthMoment.Desc>
+<!-- EN:  scar (permanent) -->
+<VAspirE.Scar> cicatrice (permanente)</VAspirE.Scar>
+<!-- EN: Vanilla Aspirations Expanded -->
+<VAspirE.ModName>Vanilla Aspirations Expanded </VAspirE.ModName>
+<!-- EN: Search -->
+<VAspirE.Search>Rcher</VAspirE.Search>
+<!-- EN: {0} enabled -->
+<VAspirE.Enabled>{0} activé</VAspirE.Enabled>
+
+
+</LanguageData>

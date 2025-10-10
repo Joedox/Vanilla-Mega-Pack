@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_LightSensitivity.stages.light_sensitivity.label>sensibilité à la lumière</VRE_LightSensitivity.stages.light_sensitivity.label>
+<VRE_LightSensitivity.stages.light_sensitivity.description>La lumière est désagréable et me fait mal aux yeux.</VRE_LightSensitivity.stages.light_sensitivity.description>
+
+<VRE_IntenseLightSensitivity.stages.light_sensitivity.label>sensibilité à la lumière</VRE_IntenseLightSensitivity.stages.light_sensitivity.label>
+<VRE_IntenseLightSensitivity.stages.light_sensitivity.description>Il y a trop de lumière ici, j'ai mal !</VRE_IntenseLightSensitivity.stages.light_sensitivity.description>
+
+<VRE_Photophobia.stages.afraid_of_light.label>peur de la lumière</VRE_Photophobia.stages.afraid_of_light.label>
+<VRE_Photophobia.stages.afraid_of_light.description>La lumière me rend si nerveu{PAWN_gender ? x : se}. C'est comme si elle me brûlait par son intensité !</VRE_Photophobia.stages.afraid_of_light.description>
+
+<PackMemberDied.stages.pack_member_died.label>membre de la meute {0}, mort{0_gender ? : e}</PackMemberDied.stages.pack_member_died.label>
+<PackMemberDied.stages.pack_member_died.description>Un membre de ma meute est mort. La meute est plus faible.</PackMemberDied.stages.pack_member_died.description>
+
+<LostPackMember.stages.pack_member_lost.label>membre de la meute {0}, perdu{0_gender ? : e}</LostPackMember.stages.pack_member_lost.label>
+<LostPackMember.stages.pack_member_lost.description>Nous avons perdu un membre précieux de notre meute. Peuvent-ils survivre sans la meute ?</LostPackMember.stages.pack_member_lost.description>
+
+<KilledPackMember.stages.killed_pack_member.label>a tué un membre de la meute</KilledPackMember.stages.killed_pack_member.label>
+
+<SoldPackMember.stages.pack_member_sold.label>membre de la meute {0}, vendu{0_gender ? : e}</SoldPackMember.stages.pack_member_sold.label>
+<SoldPackMember.stages.pack_member_sold.description>Nous venons de vendre un membre de notre meute. Pouvons-nous vraiment nous appeler une meute ?</SoldPackMember.stages.pack_member_sold.description>
+<SoldPackMember.stages.pack_member_sold.labelSocial>membre de la meute vendu</SoldPackMember.stages.pack_member_sold.labelSocial>
+
+<VRE_PackMentality.stages.pack_mentality.label>esprit de meute</VRE_PackMentality.stages.pack_mentality.label>
+<VRE_PackMentality.stages.pack_mentality.description>Notre meute se renforce. Plus la meute est importante, plus nous nous sentons à l'aise.</VRE_PackMentality.stages.pack_mentality.description>
+
+
+</LanguageData>

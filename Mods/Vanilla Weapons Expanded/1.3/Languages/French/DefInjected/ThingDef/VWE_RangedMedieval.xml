@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crossbow -->
+
+  <VWE_Bow_Crossbow.label>arbalète</VWE_Bow_Crossbow.label>
+  <VWE_Bow_Crossbow.description>Une arbalète est un type d'arme à distance dont le principe est similaire à celui d'un arc. Elle se compose d'un ensemble ressemblant à un arc monté horizontalement sur un cadre principal, qui est tenu à la main de manière similaire à la crosse d'un fusil long.\n\nCette arme utilisée par les premiers hommes peut envoyer un carreau même à travers le métal le plus résistant.</VWE_Bow_Crossbow.description>
+  <VWE_Bow_Crossbow.tools.limb.label>cadre arbalète</VWE_Bow_Crossbow.tools.limb.label>
+  <VWE_Bow_Crossbow.verbs.Verb_Shoot.label>arbalète</VWE_Bow_Crossbow.verbs.Verb_Shoot.label>
+  
+  <VWE_Arrow_Bolt.label>carreau d'arbalète</VWE_Arrow_Bolt.label>
+
+
+  <!-- Musket -->
+
+  <VWE_Gun_Musket.label>mousquet</VWE_Gun_Musket.label>
+  <VWE_Gun_Musket.description>Un ancien modèle de mousquet. Étant l'un des premiers de son genre, il n'a qu'une faible portée et une faible cadence de tir.</VWE_Gun_Musket.description>
+  <VWE_Gun_Musket.tools.stock.label>canon</VWE_Gun_Musket.tools.stock.label>
+  <VWE_Gun_Musket.tools.barrel.label>crosse</VWE_Gun_Musket.tools.barrel.label>
+  <VWE_Gun_Musket.verbs.Verb_ShootWithSmoke.label>mousquet</VWE_Gun_Musket.verbs.Verb_ShootWithSmoke.label>
+
+  <Bullet_Leadball.label>balle de plomb</Bullet_Leadball.label>
+
+
+  <!-- Flintlock -->
+
+  <VWE_Gun_Flintlock.label>pistolet à silex</VWE_Gun_Flintlock.label>
+  <VWE_Gun_Flintlock.description>Ce pistolet est doté d'un canon à tube lisse et d'une longue poignée en bois se terminant par un pommeau. Comme son nom l'indique, le pistolet à silex est actionné par un mécanisme à silex.</VWE_Gun_Flintlock.description>
+  <VWE_Gun_Flintlock.tools.stock.label>canon</VWE_Gun_Flintlock.tools.stock.label>
+  <VWE_Gun_Flintlock.tools.barrel.label>crosse</VWE_Gun_Flintlock.tools.barrel.label>
+  <VWE_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>pistolet à silex</VWE_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>
+
+  <!-- Throwing Knives -->
+
+  <VWE_Throwing_Knives.label>couteaux de lancer</VWE_Throwing_Knives.label>
+  <VWE_Throwing_Knives.description>Un ensemble de couteaux équilibrés, parfait pour les lancer.</VWE_Throwing_Knives.description>
+  <VWE_Throwing_Knives.tools.handle.label>poignée</VWE_Throwing_Knives.tools.handle.label>
+  <VWE_Throwing_Knives.tools.blade.label>lame</VWE_Throwing_Knives.tools.blade.label>
+  <VWE_Throwing_Knives.tools.point.label>pointe</VWE_Throwing_Knives.tools.point.label>
+  <VWE_Throwing_Knives.verbs.Verb_Shoot.label>couteaux de lancer</VWE_Throwing_Knives.verbs.Verb_Shoot.label>
+
+  <VWE_FlyingBlade.label>couteau</VWE_FlyingBlade.label>
+
+
+  <!-- Whip -->
+
+  <VWE_Tool_Whip.label>fouet</VWE_Tool_Whip.label>
+  <VWE_Tool_Whip.description>Un outil traditionnel utilisé pour frapper les animaux afin de les guider et de les faire obéir.\n\nPeut être utilisé sur des personnes.</VWE_Tool_Whip.description>
+  <VWE_Tool_Whip.tools.edge.label>fouet</VWE_Tool_Whip.tools.edge.label>
+  <VWE_Tool_Whip.verbs.Verb_Shoot.label>fouet</VWE_Tool_Whip.verbs.Verb_Shoot.label>
+
+  <VWE_WhipSlash.label>coup de fouet</VWE_WhipSlash.label>
+  
+
+</LanguageData>

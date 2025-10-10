@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: exalted -->
+<VFEP_Camaraderie_Exalted.label>exalté</VFEP_Camaraderie_Exalted.label>
+<!-- EN: In the table of brotherhood we'll dine, the banner of camaraderie will be unroll, all for one, one for all. Together, we will have the world.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a +6 mood bonus after socializing with another colonist. -->
+<VFEP_Camaraderie_Exalted.description>A la table de la fraternité, nous dînerons, la bannière de la camaraderie sera déroulée, tous pour un, un pour tous. Ensemble, nous aurons le monde.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color>\n - Les colons reçoivent un bonus d'humeur de +6 après avoir sympathisé avec un autre colon.</VFEP_Camaraderie_Exalted.description>
+<!-- EN: Been through some tough times together! (cumulative +5 per slain colonist) -->
+<VFEP_Camaraderie_Exalted.comps.1.thoughtStageDescriptions.0>Nous avons traversé des moments difficiles ensemble ! (cumulatif +5 par colon tué)</VFEP_Camaraderie_Exalted.comps.1.thoughtStageDescriptions.0>
+
+<!-- EN: respected -->
+<VFEP_Camaraderie_Respected.label>respecté</VFEP_Camaraderie_Respected.label>
+<!-- EN: Different interests, yet aiming for one: hardships, suffering and sacrifices must be faced together, as a crew.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a +3 mood bonus after socializing with another colonist. -->
+<VFEP_Camaraderie_Respected.description>Des intérêts différents, mais un seul objectif : les épreuves, les souffrances et les sacrifices doivent être affrontés ensemble, en tant qu'équipage.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color>\n - Les colons recevront un bonus d'humeur de +3 après avoir sympathisé avec un autre colon.</VFEP_Camaraderie_Respected.description>
+
+
+<!-- EN: singing shanties -->
+<VFEP_SingingShanties.label>chanter des chansons</VFEP_SingingShanties.label>
+<!-- EN: Colonists gather around a campfire and sing shanties to strengthen their camaraderie. -->
+<VFEP_SingingShanties.description>Les colons se réunissent autour d'un feu de camp et chantent des chansons pour renforcer leur camaraderie.</VFEP_SingingShanties.description>
+
+
+<!-- EN: captain -->
+<VFEP_IdeoRole_Captain.label>capitaine</VFEP_IdeoRole_Captain.label>
+<!-- EN: Generally chosen for his daring and dominating character, a pirate captain is often admired for his cruelty and destructiveness. -->
+<VFEP_IdeoRole_Captain.description>Généralement choisi pour son caractère audacieux et dominateur, un capitaine pirate est souvent admiré pour sa cruauté et sa capacité de destruction.</VFEP_IdeoRole_Captain.description>
+
+
+</LanguageData>

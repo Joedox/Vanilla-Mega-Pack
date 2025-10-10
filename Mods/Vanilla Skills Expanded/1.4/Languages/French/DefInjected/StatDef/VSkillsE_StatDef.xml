@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VSE_ArmorPenetrationFactor.label>facteur de pénétration d'armure</VSE_ArmorPenetrationFactor.label>
+<VSE_ArmorPenetrationFactor.description>Un multiplicateur appliqué à la pénétration d'armure des attaques de ce colon</VSE_ArmorPenetrationFactor.description>
+
+<VSE_MeleeCooldownFactor.label>facteur de temps de recharge de mêlée</VSE_MeleeCooldownFactor.label>
+<VSE_MeleeCooldownFactor.description>Un multiplicateur appliqué au temps de recharge des attaques de mêlée de ce colon</VSE_MeleeCooldownFactor.description>
+
+<VSE_AttackOnFailChanceFactor.label>réduction de chance d'attaque d'un animal lors d'un échec d'apprivoisement</VSE_AttackOnFailChanceFactor.label>
+<VSE_AttackOnFailChanceFactor.description>Un multiplicateur appliqué à la probabilité que les tentatives d'apprivoisement échouent et que des animaux attaquent ce colon</VSE_AttackOnFailChanceFactor.description>
+
+<VSE_ArtQuality.label>bonus de qualité de l'art</VSE_ArtQuality.label>
+<VSE_ArtQuality.description>Un bonus à la qualité de l'art produit par ce colon</VSE_ArtQuality.description>
+
+<VSE_ArtSpeed.label>vitesse de création de l'art</VSE_ArtSpeed.label>
+<VSE_ArtSpeed.description>Un multiplicateur de la vitesse à laquelle ce colon crée de l'art</VSE_ArtSpeed.description>
+
+<VSE_RoofSpeed.label>vitesse de travail de la toiture</VSE_RoofSpeed.label>
+<VSE_RoofSpeed.description>A quelle vitesse ce colon peut construire les toitures</VSE_RoofSpeed.description>
+
+<VSE_FloorSpeed.label>vitesse de travail du sol</VSE_FloorSpeed.label>
+<VSE_FloorSpeed.description>La vitesse à laquelle ce colon peut construire les sols</VSE_FloorSpeed.description>
+
+<VSE_RepairSpeed.label>vitesse de réparation</VSE_RepairSpeed.label>
+<VSE_RepairSpeed.description>La vitesse à laquelle ce colon peut effectuer des réparations</VSE_RepairSpeed.description>
+
+<VSE_ConstructQuality.label>bonus de qualité de construction</VSE_ConstructQuality.label>
+<VSE_ConstructQuality.description>Un bonus ajouté à la qualité des produits construits par ce colon</VSE_ConstructQuality.description>
+
+<VSE_TailoringSpeed.label>vitesse de couture</VSE_TailoringSpeed.label>
+<VSE_TailoringSpeed.description>La rapidité avec laquelle ce colon confectionne des vêtements</VSE_TailoringSpeed.description>
+
+<VSE_WeaponCreationSpeed.label>vitesse de fabrication des armes</VSE_WeaponCreationSpeed.label>
+<VSE_WeaponCreationSpeed.description>La vitesse à laquelle ce colon peut fabriquer des armes</VSE_WeaponCreationSpeed.description>
+
+<VSE_ComponentCraftingSpeed.label>vitesse de fabrication de composants</VSE_ComponentCraftingSpeed.label>
+<VSE_ComponentCraftingSpeed.description>La vitesse à laquelle ce colon peut fabriquer des composants (et composants avancés)</VSE_ComponentCraftingSpeed.description>
+
+<VSE_RockChunkChance.label>chance morceau de pierre</VSE_RockChunkChance.label>
+<VSE_RockChunkChance.description>La chance pour ce colon d'obtenir un morceau lors de l'exploitation de la roche naturelle</VSE_RockChunkChance.description>
+
+<VSE_RecruitRate.label>taux de recrutement</VSE_RecruitRate.label>
+<VSE_RecruitRate.description>La vitesse à laquelle ce colon peut recruter des prisonniers pour la colonie</VSE_RecruitRate.description>
+
+<VSE_PeaceTalksChance.label>chances de succès des pourparlers de paix</VSE_PeaceTalksChance.label>
+<VSE_PeaceTalksChance.description>La probabilité que ce colon réussisse dans les négociations de paix</VSE_PeaceTalksChance.description>
+
+
+</LanguageData>

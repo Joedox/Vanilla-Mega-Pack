@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFE_ClimateAdjuster.label>modificateur de climat</VFE_ClimateAdjuster.label>
+<VFE_ClimateAdjuster.description>Un terraformeur proche modifie la température.</VFE_ClimateAdjuster.description>
+<VFE_ClimateAdjuster.descriptionFuture>un flux d'air froid va refroidir la zone autour de [map_definite] pendant [gameConditionDuration_duration], endommageant les cultures et toute personne ou animal sans protection thermique.</VFE_ClimateAdjuster.descriptionFuture>
+<VFE_ClimateAdjuster.endMessage>La vague de froid est terminée.</VFE_ClimateAdjuster.endMessage>
+<VFE_ClimateAdjuster.letterText>Modificateur de climat</VFE_ClimateAdjuster.letterText>
+
+<VFE_EMIDynamo.label>générateur IEM</VFE_EMIDynamo.label>
+<VFE_EMIDynamo.description>Un générateur électromagnétique projette un champ d'interférence électromagnétique, désactivant les appareils électriques.</VFE_EMIDynamo.description>
+<VFE_EMIDynamo.descriptionFuture>générateur IEM</VFE_EMIDynamo.descriptionFuture>
+<VFE_EMIDynamo.endMessage>Le générateur IEM a été détruit.</VFE_EMIDynamo.endMessage>
+<VFE_EMIDynamo.letterText>Générateur IEM</VFE_EMIDynamo.letterText>
+
+
+</LanguageData>

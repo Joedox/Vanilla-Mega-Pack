@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: consul -->
+<Consul.label>consul</Consul.label>
+<!-- EN: The Imperial title of consul is a lower level of high nobility.\n\nIn the Empire, consuls control planets. At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets. Some command from a super-capital ship or control space-based megastructures. -->
+<Consul.description>Le titre impérial de consul est un niveau inférieur de la haute noblesse.\n\nDans l'Empire, les consuls contrôlent les planètes. En temps de guerre, un consul peut généralement déployer une force militaire de plusieurs divisions, appuyée par plusieurs flottes. Certains commandent à partir d'un vaisseau mère ou contrôlent des mégastructures spatiales.</Consul.description>
+<Consul.labelFemale>consule</Consul.labelFemale>
+
+<!-- EN: dominus -->
+<Duke.label>duc</Duke.label>
+<!-- EN: The Imperial title of dominus is the highest of the middle-ranked independent rulers.\n\nIn the Empire, domini control provinces, mega-cities, or moons. At war, a dominus can field a division-level force, or a fleet with capital ships and dozens of support craft. -->
+<Duke.description>Le titre impérial de duc est le plus élevé du rang moyen. \n\nDans l'Empire, les ducs contrôlent les provinces, les mégapoles ou les lunes. En temps de guerre, un duc peut déployer une force comparable a une division, ou une flotte comptant des navires amiraux et des dizaines d'appareils de soutien.</Duke.description>
+<Duke.labelFemale>duchesse</Duke.labelFemale>
+
+<!-- EN: stellarch -->
+<Stellarch.label>gouverneur stellaire</Stellarch.label>
+<!-- EN: The Imperial title of stellarch represents dominion over an entire star system.\n\nIn the Empire, since interstellar travel times are years long, stellarchs rule their systems with a great degree of independence. They each swear fealty to the Emperor, but since the Emperor may be many light-years away, a stellarch may go years or decades without interacting with him. -->
+<Stellarch.description>Le titre impérial de gouverneur stellaire représente la domination sur un système stellaire tout entier.\n\nDans l'Empire, étant donné que les temps de voyage interstellaires durent des années, ceux-ci gouvernent leurs systèmes avec une grande indépendance. Chacun jure fidélité à l'empereur, mais comme l'empereur peut être à de nombreuses années-lumière, un gouverneur peut passer des années ou des décennies sans interagir avec lui.</Stellarch.description>
+<Stellarch.labelFemale>gouverneure stellaire</Stellarch.labelFemale>
+
+<!-- EN: archcount -->
+<VFEE_Archcount.label>archicomte</VFEE_Archcount.label>
+<!-- EN: The Imperial title of archcount is bestowed upon those counts who have established impressive holdings, which are capable of supporting and entertaining important guests. -->
+<VFEE_Archcount.description>Le titre impérial d'archicomte est accordé aux comtes qui ont établi des propriétés impressionnantes, capables de soutenir et de recevoir des invités importants.</VFEE_Archcount.description>
+<!-- EN: archcountess -->
+<VFEE_Archcount.labelFemale>archicomtesse</VFEE_Archcount.labelFemale>
+
+<!-- EN: archduke -->
+<VFEE_Archduke.label>archiduc</VFEE_Archduke.label>
+<!-- EN: The Imperial title of archduke is bestowed upon dukes whose territory requires a competent retinue to maintain order. They are expected to host their own divisions as well as their training, and in peacetime can establish a minor House. -->
+<VFEE_Archduke.description>Le titre impérial d'archiduc est conféré aux ducs dont le territoire nécessite une suite compétente pour maintenir l'ordre. Ils sont censés accueillir leurs propres divisions ainsi que leur formation, et en temps de paix, ils peuvent établir une Maison mineure.</VFEE_Archduke.description>
+<!-- EN: archduchess -->
+<VFEE_Archduke.labelFemale>archiduchesse</VFEE_Archduke.labelFemale>
+
+<!-- EN: despot -->
+<VFEE_Despot.label>despote</VFEE_Despot.label>
+<!-- EN: The Imperial title of despot maintains dominion over a small star system of strategic importance. In the Empire, despots maintain an iron grip to ensure that resources continue to flow into Imperial coffers and factories, as their major House holds important administrative positions throughout the system of governance. -->
+<VFEE_Despot.description>Le titre impérial de despote permet de maintenir la domination sur un petit système stellaire d'importance stratégique. Dans l'Empire, les despotes maintiennent une main de fer pour s'assurer que les ressources continuent d'affluer dans les coffres et les usines impériales, car leur principale Maison occupe des postes administratifs importants dans tout le système de gouvernance.</VFEE_Despot.description>
+<!-- EN: despot -->
+<VFEE_Despot.labelFemale>despote</VFEE_Despot.labelFemale>
+
+<!-- EN: high stellarch -->
+<VFEE_HighStellarch.label>haut stellaire</VFEE_HighStellarch.label>
+<!-- EN: The Imperial title of high stellarch represents dominion over multiple star systems, and control of one of the powerful Houses in the Empire. They answer to no one except the emperor and are expected to not only maintain but also expand their influence across space. Very few are capable of receiving this title, even fewer wish to take on the responsibilities. -->
+<VFEE_HighStellarch.description>Le titre impérial de haut stellaire représente la domination de plusieurs systèmes stellaires et le contrôle de l'une des puissantes Maisons de l'Empire. Ils n'ont de comptes à rendre à personne d'autre qu'à l'empereur et sont censés non seulement maintenir mais aussi étendre leur influence dans l'espace. Très peu sont capables de recevoir ce titre, et encore moins souhaitent en assumer les responsabilités.</VFEE_HighStellarch.description>
+
+<!-- EN: magister -->
+<VFEE_Magister.label>magistère</VFEE_Magister.label>
+<!-- EN: The Imperial title of magister is the middle rank of high nobility. In the Empire, a magister is expected to coordinate the vast military capabilities of the Empire, in both peace and wartime, commanding in the presence of the Emperor. -->
+<VFEE_Magister.description>Le titre impérial de magistère est le rang intermédiaire de la haute noblesse. Dans l'Empire, un magistère est censé coordonner les vastes capacités militaires de l'Empire, en temps de paix comme en temps de guerre, et commander en présence de l'empereur.</VFEE_Magister.description>
+<!-- EN: magister -->
+<VFEE_Magister.labelFemale>magistère</VFEE_Magister.labelFemale>
+
+<!-- EN: marquess -->
+<VFEE_Marquess.label>marquis</VFEE_Marquess.label>
+<!-- EN: The Imperial title of marquess is the second highest of the middle nobility. In the Empire, they control colonies that border the edge of Imperial space. During wartime, they can field fleets that either prevent the enemy from penetrating the borders or be the anvil to the hammer of supporting friendlies. -->
+<VFEE_Marquess.description>Le titre impérial de marquis est le deuxième plus élevé de la noblesse moyenne. Dans l'Empire, ils contrôlent les colonies qui bordent l'espace impérial. En temps de guerre, ils peuvent déployer des flottes qui empêchent l'ennemi de pénétrer les frontières ou qui sont l'enclume du marteau pour soutenir les alliés.</VFEE_Marquess.description>
+<!-- EN: marchioness -->
+<VFEE_Marquess.labelFemale>marquise</VFEE_Marquess.labelFemale>
+
+
+</LanguageData>

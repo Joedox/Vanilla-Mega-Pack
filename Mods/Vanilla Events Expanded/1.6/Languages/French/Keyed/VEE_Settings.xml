@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!-- EN: Vanilla Event Expanded -->
+<SCat>Vanilla Event Expanded </SCat>
+<!-- EN: Reset Settings -->
+<BReset>Réinitialiser les options</BReset>
+<!-- EN: Stop all world conditions -->
+<GCWReset>Arrêter toutes les conditions du monde</GCWReset>
+<!-- EN: Stop all map conditions -->
+<GCMReset>Arrêter toutes les conditions de la carte</GCMReset>
+<!-- EN: You need to be ingame to end game conditions -->
+<NeedToBeIngame>Vous devez être en jeu pour mettre fin aux conditions de jeu.</NeedToBeIngame>
+<!-- EN: <color=cyan><b>Change events base chance (set to 0 to disable) :</b></color> -->
+<CEBC>&lt;color=cyan&gt;&lt;b&gt;Modifier la chance des événements de base ("0" : désactiver) :&lt;/b&gt;&lt;/color&gt;</CEBC>
+<!-- EN: Open events base chance settings -->
+<BCS>Paramètres de chance des événements de base ouverts</BCS>
+<!-- EN: Minimum days before refire : -->
+<MinTPE>Jours min. avant 1er incident :</MinTPE>
+<!-- EN: Minimum days before fire : -->
+<ETPE>Jours min. prochain incident :</ETPE>
+<!-- EN: <color=cyan><b>Purple events settings :</b></color> -->
+<PES>&lt;color=cyan&gt;&lt;b&gt;Paramètres des événements violets :&lt;/b&gt;&lt;/color&gt;</PES>
+
+<!-- EN: Ice age -->
+<IABaseC>Ère glaciaire</IABaseC>
+<!-- EN: Global warming -->
+<GWBaseC>Réchauffement climatique</GWBaseC>
+<!-- EN: Psychic rain -->
+<PRBaseC>Pluie psychique</PRBaseC>
+<!-- EN: Long night -->
+<LNBaseC>Longue nuit</LNBaseC>
+<!-- EN: Psychic Bloom -->
+<PBBaseC>Floraison psychique</PBBaseC>
+
+<!-- EN: Hail storm -->
+<HSBaseC>Tempête de grêle</HSBaseC>
+<!-- EN: Meteorite shower -->
+<MSBaseC>Pluie météorite</MSBaseC>
+<!-- EN: Animal pod crash -->
+<APCBaseC>Capsule de sauvetage d'animal</APCBaseC>
+<!-- EN: Wanderer join traitor -->
+<WJTBaseC>Traître !</WJTBaseC>
+<!-- EN: Space battle -->
+<SPBaseC>Bataille spatiale</SPBaseC>
+<!-- EN: Shuttle crash -->
+<SCBaseC>Crash d'une navette</SCBaseC>
+<!-- EN: Earthquake -->
+<EBaseC>Tremblement de terre</EBaseC>
+<!-- EN: Cargo pods weapons -->
+<CPWBaseC>Capsule cargo (Armes)</CPWBaseC>
+<!-- EN: Cargo pods apparels -->
+<CPABaseC>Capsule cargo (Équipements)</CPABaseC>
+<!-- EN: Caravan animals wander in -->
+<CAWIBaseC>Animaux d'une caravane</CAWIBaseC>
+<!-- EN: Crop sprout -->
+<CSBaseC>Pousses de culture</CSBaseC>
+<!-- EN: Battle animals wander in -->
+<BAWIBaseC>Animaux domestique</BAWIBaseC>
+<!-- EN: Drought -->
+<DBaseC>Sécheresse</DBaseC>
+<!-- EN: Wild men wander in -->
+<WMWIBaseC>Hommes sauvages</WMWIBaseC>
+<!-- EN: Hunting party -->
+<HPBaseC>Partie de chasse</HPBaseC>
+
+<!-- EN: Stop world condition... -->
+<GCWResetOBO>Arrêter les conditions du monde...</GCWResetOBO>
+<!-- EN: Stop map condition... -->
+<GCMResetOBO>Arrêter les conditions de la carte...</GCMResetOBO>
+
+<!-- EN: Number of day(s) in-between purple events: -->
+<VEE_DaysBetweenPurpleEvents>Nombre de jour(s) entre les événements violets :</VEE_DaysBetweenPurpleEvents>
+
+
+</LanguageData>

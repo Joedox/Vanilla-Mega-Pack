@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VAE_LeatherTanning.label>tannage du cuir</VAE_LeatherTanning.label>
+<VAE_LeatherTanning.description>Vous apprend le processus pour tanner les peaux, afin de fabriquer des armures plus épaisses et plus robustes.</VAE_LeatherTanning.description>
+<VAE_LeatherTanning.generalRules.rulesStrings>
+    <li>subject->l'art de la maroquinerie</li>
+    <li>subject_story->a redécouvert d'anciennes recettes de tannage pour une durabilité inégalée</li>
+    <li>subject_story->a introduit des techniques d'imperméabilisation qui défient les intempéries</li>
+    <li>subject_story->a fabriqué des armures qui allient tradition et nécessité du champ de bataille</li>
+    <li>subject_gerund->la maîtrise du tannage du cuir</li>
+</VAE_LeatherTanning.generalRules.rulesStrings>
+
+<VAE_HazardProtection.label>protection hazmat</VAE_HazardProtection.label>
+<VAE_HazardProtection.description>Vous permet de fabriquer des vêtements pour des environnements hautement toxiques et résistants aux radiations.</VAE_HazardProtection.description>
+<VAE_HazardProtection.generalRules.rulesStrings>
+    <li>subject->la sauvegarde de l'environnement</li>
+    <li>subject_story->a conçu des combinaisons qui transforment les friches toxiques en terrains praticables</li>
+    <li>subject_story->a mis au point des boucliers contre les radiations intégrés au tissu des uniformes</li>
+    <li>subject_story->a créé une tenue qui permet de mener des recherches en toute sécurité dans des environnements mortels</li>
+    <li>subject_gerund->l'amélioration de la résistance aux risques</li>
+</VAE_HazardProtection.generalRules.rulesStrings>
+
+<VAE_MlitaryCamouflage.label>camouflage militaire</VAE_MlitaryCamouflage.label>
+<VAE_MlitaryCamouflage.description>Vous permet de fabriquer des vêtements militaires spéciaux permettant aux utilisateurs de se fondre dans l'environnement comme par exemple des feuillages.</VAE_MlitaryCamouflage.description>
+<VAE_MlitaryCamouflage.generalRules.rulesStrings>
+    <li>subject->la furtivité et le mimétisme</li>
+    <li>subject_story->a conçu un équipement qui imite l'environnement et rend les soldats invisibles</li>
+    <li>subject_story->a étudié le camouflage des animaux pour appliquer leurs motifs aux vêtements militaires</li>
+    <li>subject_story->a équipé les éclaireurs de vêtements qui s'intègrent parfaitement à l'environnement</li>
+    <li>subject_gerund->le camouflage des forces</li>
+</VAE_MlitaryCamouflage.generalRules.rulesStrings>
+
+<VAE_SiegebreakerArmor.label>armure brise-siège</VAE_SiegebreakerArmor.label>
+<VAE_SiegebreakerArmor.description>Vous permet de fabriquer des armures brise-siège, des armures lourdes qui ralentit l'utilisateur, mais offre une protection avancée contre les attaques à distance. Notez que celles-ci nécessitent également des composants avancés.</VAE_SiegebreakerArmor.description>
+<VAE_SiegebreakerArmor.generalRules.rulesStrings>
+    <li>subject->la marche fortifiée</li>
+    <li>subject_story->a forgé des armures qui résistent à l'artillerie, transformant les soldats en chars d'assaut ambulants</li>
+    <li>subject_story->a intégré des technologies de pointe pour une endurance inégalée sur le champ de bataille</li>
+    <li>subject_story->a mis au point des exosquelettes qui supportent les chocs et protègent leur porteur</li>
+    <li>subject_gerund->la construction de défenses brise-siège</li>
+</VAE_SiegebreakerArmor.generalRules.rulesStrings>
+
+<VAE_TrooperArmor.label>armure de soldat</VAE_TrooperArmor.label>
+<VAE_TrooperArmor.description>Vous permet de fabriquer des armures de soldat, des armures légères semi-puissante et bon marché à produire. Notez que celles-ci nécessitent également des composants avancés.</VAE_TrooperArmor.description>
+<VAE_TrooperArmor.generalRules.rulesStrings>
+    <li>subject->la protection agile</li>
+    <li>subject_story->a innové avec des matériaux légers pour le déploiement rapide des troupes</li>
+    <li>subject_story->a su concilier protection et mobilité, établissant ainsi de nouvelles normes en matière d'équipement de combat</li>
+    <li>subject_story->a été le premier à utiliser des armures semi-motorisées dans les escarmouches</li>
+    <li>subject_gerund->l'équipement des unités de réaction rapide</li>
+</VAE_TrooperArmor.generalRules.rulesStrings>
+
+<VAE_MilitaryClothing.label>vêtements militaires</VAE_MilitaryClothing.label>
+<VAE_MilitaryClothing.description>Vous permet de fabriquer des tenues pare-balles et résistantes aux intempéries pour protéger vos soldats.</VAE_MilitaryClothing.description>
+
+
+</LanguageData>

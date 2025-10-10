@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: etch runecircle -->
+<VPER_Etch_Runecircle.label>graver un cercle runique standard</VPER_Etch_Runecircle.label>
+<!-- EN: Draws a standard runecircle on the ground at the targeted location. While it does nothing on its own, it acts as a foci for all the non-Runecircle etching abilities of the Runesmith. Records 50% of the user's Psychic Sensitivity as Psychic Charge, which empowers future psycasts involving this Runecircle. -->
+<VPER_Etch_Runecircle.description>Dessine un cercle runique standard sur le sol à l'endroit ciblé. Bien qu'il ne fasse rien en lui-même, il agit comme un catalyseur pour toutes les capacités de gravure de cercles non runiques des forgerunes. Imprègne 50% de la sensibilité psychique de lanceur sous forme de charge psychique, ce qui permet de renforcer les futures psysorts impliquant ce cercle runique.</VPER_Etch_Runecircle.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Etch_Runecircle.jobReportString>Utilise la capacité : {0}</VPER_Etch_Runecircle.jobReportString>
+<!-- EN: etch runecircle -->
+<VPER_Etch_Runecircle.verbProperties.label>graver un cercle runique standard</VPER_Etch_Runecircle.verbProperties.label>
+
+<!-- EN: etch greater runecircle -->
+<VPER_Etch_Runecircle_Greater.label>graver un cercle runique supérieur</VPER_Etch_Runecircle_Greater.label>
+<!-- EN: Draws a greater runecircle on the ground at the targeted location. While it does nothing on its own, it acts as a foci for all the non-Runecircle etching abilities of the Runesmith. Records a whopping 150% of the user's Psychic Sensitivity as Psychic Charge, which massively empowers future psycasts involving this Runecircle. -->
+<VPER_Etch_Runecircle_Greater.description>Dessine un cercle runique supérieur sur le sol à l'endroit ciblé. Bien qu'il ne fasse rien en lui-même, il agit comme un catalyseur pour toutes les capacités de gravure de cercles non runiques des forgerunes. Imprègne 150% de la sensibilité psychique de lanceur sous forme de charge psychique, ce qui permet de renforcer les futures psysorts impliquant ce cercle runique.</VPER_Etch_Runecircle_Greater.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Etch_Runecircle_Greater.jobReportString>Utilise la capacité : {0}</VPER_Etch_Runecircle_Greater.jobReportString>
+<!-- EN: etch greater runecircle -->
+<VPER_Etch_Runecircle_Greater.verbProperties.label>graver un cercle runique supérieur</VPER_Etch_Runecircle_Greater.verbProperties.label>
+
+<!-- EN: invoke: Algiz -->
+<VPER_Invoke_Defense.label>invoquer : Algiz</VPER_Invoke_Defense.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the mental rune of Ehwaz in the minds of all entities within a large radius of the targeted Runecircle. Decreases the damage taken of all the afflicted for 120 seconds, increased by an additional second per 1% Psychic Sensitivity over 100%. -->
+<VPER_Invoke_Defense.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune mentale Ehwaz dans l'esprit de toutes les entités situées dans un large rayon du cercle runique ciblé. Diminue les dégâts subis pour toutes les personnes affectées pendant 120 secondes, augmentées d'une seconde supplémentaire par 1% de sensibilité psychique au-delà de 100%.</VPER_Invoke_Defense.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Defense.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Defense.jobReportString>
+<!-- EN: invoke: Algiz -->
+<VPER_Invoke_Defense.verbProperties.label>invoquer : Algiz</VPER_Invoke_Defense.verbProperties.label>
+
+<!-- EN: invoke: Sowilo -->
+<VPER_Invoke_Explosion.label>invoquer : Sowilo</VPER_Invoke_Explosion.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the physical rune of Sowilo in the air, promptly causing a large, fiery explosion. Deals 15 damage, increased by 1 per 8% Psychic Sensitivity over 100%. Notably, has a larger radius than other invocations. -->
+<VPER_Invoke_Explosion.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune physique Sowilo dans l'air, provoquant rapidement une grande explosion enflammée. Inflige 15 points de dégâts, augmentés de 1 par tranche de 8% de sensibilité psychique au-delà de 100%. Son rayon d'action est plus grand que celui des autres invocations.</VPER_Invoke_Explosion.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Explosion.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Explosion.jobReportString>
+<!-- EN: invoke: Sowilo -->
+<VPER_Invoke_Explosion.verbProperties.label>invoquer : Sowilo</VPER_Invoke_Explosion.verbProperties.label>
+
+<!-- EN: invoke: Berkana -->
+<VPER_Invoke_Heal.label>invoquer : Berkana</VPER_Invoke_Heal.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the mental rune of Berkana in the bodies of all entities within a large radius of the targeted Runecircle. Restores 30 HP to each pawn in the area, increased by 1 per 10% Psychic Sensitivity over 100%.\n\nThis instant healing is strenuous, and will provide a quadrum-long minor work speed penalty. While this debuff is active, the pawn cannot be healed by this psycast. -->
+<VPER_Invoke_Heal.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune mentale Berkana dans le corps de toutes les entités situées dans un large rayon du cercle runique ciblé. Restaure 30 PV à chaque personne dans la zone, augmentés de 1 par 10% de sensibilité psychique au delà de 100%.\n\nCette guérison instantanée est épuisante et entraîne une pénalité mineure de un quadrum sur la vitesse de travail. Tant que cet affaiblissement est actif, la personne ne peut pas être soignée par ce psysort.</VPER_Invoke_Heal.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Heal.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Heal.jobReportString>
+<!-- EN: invoke: Berkana -->
+<VPER_Invoke_Heal.verbProperties.label>invoquer : Berkana</VPER_Invoke_Heal.verbProperties.label>
+
+<!-- EN: invoke: Ehwaz -->
+<VPER_Invoke_Speed.label>invoquer : Ehwaz</VPER_Invoke_Speed.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the mental rune of Ehwaz in the minds of all entities within a large radius of the targeted Runecircle. Increases the movement speed of all the afflicted for 120 seconds, increased by an additional second per 1% Psychic Sensitivity over 100%. -->
+<VPER_Invoke_Speed.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune mentale Ehwaz dans l'esprit de toutes les entités situées dans un large rayon du cercle runique ciblé. Augmente la vitesse de déplacement de toutes les personnes affectées pendant 120 secondes, augmentée d'une seconde supplémentaire par tranche de 1% de sensibilité psychique au-delà de 100%.</VPER_Invoke_Speed.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Speed.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Speed.jobReportString>
+<!-- EN: invoke: Ehwaz -->
+<VPER_Invoke_Speed.verbProperties.label>invoquer : Ehwaz</VPER_Invoke_Speed.verbProperties.label>
+
+<!-- EN: invoke: Hagalaz -->
+<VPER_Invoke_Stun.label>invoquer : Hagalaz</VPER_Invoke_Stun.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the mental rune of Hagalaz in the minds of all entities within a large radius of the targeted Runecircle. Stuns all the afflicted for 5 seconds, increased by an additional second per 50% Psychic Sensitivity over 100%. -->
+<VPER_Invoke_Stun.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune mentale Hagalaz dans l'esprit de toutes les entités situées dans un large rayon du cercle runique ciblé. Étourdit toutes les personnes touchées pendant 5 secondes, durée augmentée d'une seconde supplémentaire par tranche de 50% de sensibilité psychique au-delà de 100%.</VPER_Invoke_Stun.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Stun.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Stun.jobReportString>
+<!-- EN: invoke: Hagalaz -->
+<VPER_Invoke_Stun.verbProperties.label>invoquer : Hagalaz</VPER_Invoke_Stun.verbProperties.label>
+
+<!-- EN: invoke: Mannaz -->
+<VPER_Invoke_Summon.label>invoquer : Mannaz</VPER_Invoke_Summon.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the physical rune of Mannaz in the air, summoning the spirits of fallen warriors to aid you in combat for a short time. Spawns one spirit, and one extra per 100% Psychic Sensitivity over 100%. Maximum of 5 Spirits per summoning. -->
+<VPER_Invoke_Summon.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune physique Mannaz dans l'air, invoquant les esprits des guerriers morts au combat pour vous aider pendant une courte période. Produit un esprit, et un supplémentaire par tranche de sensibilité psychique au-delà de 100%. Maximum de 5 esprits par invocation.</VPER_Invoke_Summon.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Summon.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Summon.jobReportString>
+<!-- EN: invoke: Mannaz -->
+<VPER_Invoke_Summon.verbProperties.label>invoquer : Mannaz</VPER_Invoke_Summon.verbProperties.label>
+
+<!-- EN: invoke: Isa -->
+<VPER_Invoke_Turret.label>invoquer : Isa</VPER_Invoke_Turret.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the physical rune of Isa in the air, freezing its moisture and creating a defensive obelisk that blasts frost at hostiles. Grows stronger at 150%, 200%, 300%, and 400% Psychic Sensitivity. -->
+<VPER_Invoke_Turret.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune physique Isa dans l'air, gelant l'humidité et créant un obélisque défensif qui projette de la glace sur les ennemis. Augmente à 150%, 200%, 300% et 400% de sensibilité psychique.</VPER_Invoke_Turret.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Turret.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Turret.jobReportString>
+<!-- EN: invoke: Isa -->
+<VPER_Invoke_Turret.verbProperties.label>invoquer : Isa</VPER_Invoke_Turret.verbProperties.label>
+
+<!-- EN: invoke: Teiwaz -->
+<VPER_Invoke_Wrath.label>invoquer : Teiwaz</VPER_Invoke_Wrath.label>
+<!-- EN: Invoke a Runecircle's power, adding its Psychic Charge to the pawn's Psychic Sensitivity for the purposes of the psycast. This will destroy the Runecircle.\n\nEngraves the mental rune of Teiwaz in the minds of all entities within a large radius of the targeted Runecircle. Boosts the melee prowess of all the afflicted for 120 seconds, increased by an additional second per 1% Psychic Sensitivity over 100%. -->
+<VPER_Invoke_Wrath.description>Invoque le pouvoir d'un cercle runique, en ajoutant sa charge psychique à la sensibilité psychique du psylanceur pour les besoins du psysort. Le cercle runique sera détruit.\n\nGrave la rune mentale Teiwaz dans l'esprit de toutes les entités situées dans un large rayon du cercle runique ciblé. Augmente les prouesses en mêlée de tous les personnes affectées pendant 120 secondes, augmentées d'une seconde supplémentaire par tranche de 1% de sensibilité psychique au-delà de 100%.</VPER_Invoke_Wrath.description>
+<!-- EN: Using ability: {0} -->
+<VPER_Invoke_Wrath.jobReportString>Utilise la capacité : {0}</VPER_Invoke_Wrath.jobReportString>
+<!-- EN: invoke: Teiwaz -->
+<VPER_Invoke_Wrath.verbProperties.label>invoquer : Teiwaz</VPER_Invoke_Wrath.verbProperties.label>
+
+
+</LanguageData>

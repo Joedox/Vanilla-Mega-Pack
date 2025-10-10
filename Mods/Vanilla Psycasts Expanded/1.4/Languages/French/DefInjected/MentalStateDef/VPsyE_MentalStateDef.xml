@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VPE_Wander_Sad.label>mélancolique</VPE_Wander_Sad.label>
+<VPE_Wander_Sad.baseInspectLine>État mental : mélancolique</VPE_Wander_Sad.baseInspectLine>
+<VPE_Wander_Sad.beginLetter>{0} erre, frapp{PAWN_gender ? é : ée : é(e)} de mélancolie.</VPE_Wander_Sad.beginLetter>
+<VPE_Wander_Sad.beginLetterLabel>erre tristement</VPE_Wander_Sad.beginLetterLabel>
+<VPE_Wander_Sad.recoveryMessage>{0} n'erre plus dans un état mélancolique.</VPE_Wander_Sad.recoveryMessage>
+
+<VPE_ManhunterTerritorial.label>territoire chasse à l'homme</VPE_ManhunterTerritorial.label>
+<VPE_ManhunterTerritorial.baseInspectLine>Folie : territoire chasse à l'homme</VPE_ManhunterTerritorial.baseInspectLine>
+<VPE_ManhunterTerritorial.beginLetter>{0} est deven{0_gender ? u : ue : u(e)} territoire chasse à l'homme !</VPE_ManhunterTerritorial.beginLetter>
+<VPE_ManhunterTerritorial.recoveryMessage>Les instincts de défense du territoire de {0} ont pris fin.</VPE_ManhunterTerritorial.recoveryMessage>
+
+<VPE_Manhunter.label>rage</VPE_Manhunter.label>
+<VPE_Manhunter.baseInspectLine>Enragé</VPE_Manhunter.baseInspectLine>
+<VPE_Manhunter.beginLetter>{0} est enrag{0_gender ? é : ée : é(e)} !</VPE_Manhunter.beginLetter>
+<VPE_Manhunter.recoveryMessage>La rage de {0} a pris fin.</VPE_Manhunter.recoveryMessage>
+
+<VPE_Flee.label>s'enfuit</VPE_Flee.label>
+<VPE_Flee.baseInspectLine>État mental : s'enfuit</VPE_Flee.baseInspectLine>
+<VPE_Flee.beginLetter>{0} s'enfuit.</VPE_Flee.beginLetter>
+<VPE_Flee.beginLetterLabel>s'enfuir</VPE_Flee.beginLetterLabel>
+<VPE_Flee.recoveryMessage>{0} ne s'enfuit plus.</VPE_Flee.recoveryMessage>
+
+
+</LanguageData>

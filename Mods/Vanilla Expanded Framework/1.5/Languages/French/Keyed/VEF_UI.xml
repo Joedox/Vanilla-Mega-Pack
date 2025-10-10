@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Hire {0} -->
+<VEF.Hire>Engager des {0}</VEF.Hire>
+<!-- EN: Hire some {0} to help around the colony, for example with defense. -->
+<VEF.HireDesc>Engage quelques {0} pour aider la colonie, par exemple pour la défense.</VEF.HireDesc>
+<!-- EN: Available Silver: {0} -->
+<VEF.AvailableSilver>Argent disponible : {0}</VEF.AvailableSilver>
+<!-- EN: Value -->
+<VEF.Value>Valeur</VEF.Value>
+<!-- EN: How many of that unit do you want to have? -->
+<VEF.ChooseNumberOfUnits>Combien de cette unité voulez-vous en avoir ?</VEF.ChooseNumberOfUnits>
+<!-- EN: Breakdown -->
+<VEF.Breakdown>Récapitulatif</VEF.Breakdown>
+<!-- EN: Amount of Days -->
+<VEF.DayAmount>Nombre de jours</VEF.DayAmount>
+<!-- EN: Cost to hire -->
+<VEF.Cost>Coût du recrutement</VEF.Cost>
+<!-- EN: Risk multiplier -->
+<VEF.RiskMult>Multiplicateur de risque</VEF.RiskMult>
+<!-- EN: Total Price -->
+<VEF.TotalPrice>Prix total</VEF.TotalPrice>
+<!-- EN: You can hire {0} for any period of time.You can only have one contract active at a time, and you cannot mix and match the factions from which you hire.
+If hired {0} die on duty, you will incur an additional 5% increase to contract price per dead pirate on all future contracts for a full year. -->
+<VEF.HiringDesc>Vous pouvez engager des {0} pour n'importe quelle période de temps. Vous ne pouvez avoir qu'un seul contrat actif à la fois, et vous ne pouvez pas mélanger les factions dans lesquelles vous les engagez.\nSi les {0} engagés meurent en service, vous subirez une augmentation supplémentaire de 5% du prix du contrat par pirate mort pour tous les contrats à venir pendant une année entière.</VEF.HiringDesc>
+<!-- EN: Long term contracts are significantly more expensive -->
+<VEF.LongTerm>Les contrats sur le long terme sont nettement plus chers.</VEF.LongTerm>
+<!-- EN: View contract with {0} -->
+<VEF.ContractInfo>Afficher le contrat avec {0}</VEF.ContractInfo>
+<!-- EN: Contracted: -->
+<VEF.PawnsList>Sous contrat :</VEF.PawnsList>
+<!-- EN: Contract with {0} -->
+<VEF.ContractTitle>Contrat avec {0}</VEF.ContractTitle>
+<!-- EN: Silver spent: -->
+<VEF.Spent>Argent dépensé :</VEF.Spent>
+<!-- EN: Time remaining: -->
+<VEF.TimeLeft>Temps restant :</VEF.TimeLeft>
+<!-- EN: Cancel Contract -->
+<VEF.CancelContract>Annuler le contrat</VEF.CancelContract>
+<!-- EN: Cancelling your contract will not refund the silver you spent on it. -->
+<VEF.NoRefund>L'annulation du contrat ne vous remboursera pas l'argent que vous avez dépensé pour celui-ci.</VEF.NoRefund>
+<!-- EN: Customize {0} -->
+<VEF.Customize>Personnaliser {0}</VEF.Customize>
+<!-- EN: {0} Customization -->
+<VEF.CustomizationTitle>{0} Personnalisation</VEF.CustomizationTitle>
+<!-- EN: Name -->
+<VEF.Name>Nom</VEF.Name>
+<!-- EN: Cancel -->
+<VEF.Cancel>Annuler</VEF.Cancel>
+<!-- EN: Available contracts: {0} -->
+<VEF.AvailableContracts>Contrats disponibles : {0}</VEF.AvailableContracts>
+<!-- EN: Mechanoids -->
+<VEF.MechsSection>Mécanoïde</VEF.MechsSection>
+<!-- EN: Default -->
+<VEF.DoorLockDefault>Par défaut</VEF.DoorLockDefault>
+<!-- EN: Everyone -->
+<VEF.DoorLockEveryone>Tous</VEF.DoorLockEveryone>
+<!-- EN: Only colonists and animals -->
+<VEF.DoorLockOnlyColonistsAndAnimals>Nous</VEF.DoorLockOnlyColonistsAndAnimals>
+<!-- EN: Only colonists, animals and friendlies -->
+<VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Alliés</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+<!-- EN: Only drafted -->
+<VEF.DoorLockOnlyDrafted>Mobiliser</VEF.DoorLockOnlyDrafted>
+
+<!-- EN: Current door lock policy "{0}" -->
+<VEF.DoorLockState>Autoriser pour "{0}"</VEF.DoorLockState>
+<!-- EN: Click to change current door lock policy. -->
+<VEF.DoorLockStateDesc>Cliquer pour modifier la politique actuelle de verrouillage de la porte.</VEF.DoorLockStateDesc>
+<!-- EN: Power is off. Impossible to change door lock policy. -->
+<VEF.DoorLockStatePowerOff>Pas d’énergie. Impossible de modifier la politique de verrouillage.</VEF.DoorLockStatePowerOff>
+
+<!-- EN: Hunt -->
+<VEF.DraftHuntLabel>Chasse</VEF.DraftHuntLabel>
+<!-- EN: While this is on characters will automatically move to engage nearby targets.\n\nYou can right-click this button to toggle autofire for ALL abilities on the selected pawn. -->
+<VEF.HuntDescription>Lorsque cette fonction est activée, les personnages se déplacent automatiquement pour attaquer les cibles proches.\n\nVous pouvez cliquer sur ce bouton avec le clic droit de la souris pour activer le tir automatique pour TOUTES les capacités du colon sélectionné..</VEF.HuntDescription>
+<!-- EN: This quest is a part of a quest chain. Completing it may trigger continuation quests.\n\n{0}\n\n{1} -->
+<VEF.QuestChainTooltip>Cette quête fait partie d'une série de quêtes. Son accomplissement peut déclencher des quêtes supplémentaires.\n\n{0}\n\n{1}</VEF.QuestChainTooltip>
+<!-- EN: Attack this {0}. -->
+<VEF.CommandAttackMovingBaseDesc>Attaque {0}.</VEF.CommandAttackMovingBaseDesc>
+
+<!-- EN: Change visual -->
+<VFE.ChangeVisualLabel>Changer le visuel</VFE.ChangeVisualLabel>
+<!-- EN: Set a specific visual for the building or item. -->
+<VFE.ChangeVisualDesc>Définit un visuel spécifique pour le bâtiment ou l'objet.</VFE.ChangeVisualDesc>
+
+
+</LanguageData>

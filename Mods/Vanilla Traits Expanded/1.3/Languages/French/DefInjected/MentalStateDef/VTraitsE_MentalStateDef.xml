@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VTE_TechnophobeTantrum.label>crise de colère technophobe</VTE_TechnophobeTantrum.label>
+<VTE_TechnophobeTantrum.baseInspectLine>État mental : crise de colère technophobe</VTE_TechnophobeTantrum.baseInspectLine>
+<VTE_TechnophobeTantrum.beginLetter>{0} a piqué une crise de colère de technophobe.\n\n{PAWN_pronoun} va déverser sa colère sur la technologie.</VTE_TechnophobeTantrum.beginLetter>
+<VTE_TechnophobeTantrum.recoveryMessage>{0} n'est plus dans une crise de colère technophobe.</VTE_TechnophobeTantrum.recoveryMessage>
+
+<VTE_PanicFreezing.label>panique</VTE_PanicFreezing.label>
+<VTE_PanicFreezing.baseInspectLine>État mental : panique</VTE_PanicFreezing.baseInspectLine>
+<VTE_PanicFreezing.beginLetter>{0} est est pri{PAWN_gender ? s : se } de panique.</VTE_PanicFreezing.beginLetter>
+<VTE_PanicFreezing.beginLetterLabel>crise de panique</VTE_PanicFreezing.beginLetterLabel>
+<VTE_PanicFreezing.recoveryMessage>{0} n’est plus est pri{PAWN_gender ? s : se } de panique.</VTE_PanicFreezing.recoveryMessage>
+
+<VTE_Kleptomaniac.label>cleptomanie</VTE_Kleptomaniac.label>
+<VTE_Kleptomaniac.baseInspectLine>État mental : cleptomanie</VTE_Kleptomaniac.baseInspectLine>
+<VTE_Kleptomaniac.beginLetter>{0} vole des objets aux visiteurs.</VTE_Kleptomaniac.beginLetter>
+<VTE_Kleptomaniac.beginLetterLabel>cleptomanie</VTE_Kleptomaniac.beginLetterLabel>
+<VTE_Kleptomaniac.recoveryMessage>{0} ne vole plus d'objets aux visiteurs.</VTE_Kleptomaniac.recoveryMessage>
+
+
+</LanguageData>

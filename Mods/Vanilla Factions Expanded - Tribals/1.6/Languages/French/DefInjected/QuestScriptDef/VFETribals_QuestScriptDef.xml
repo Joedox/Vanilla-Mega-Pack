@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: questDescription-> [asker_nameFull] of [asker_faction_name], found out about an existence of a small tribe of wild men near [map_definite]. Wild men most likely mean us no harm, and are gathering together hoping to that the numbers will help them survive.\n\nWe may decide to venture to the gathering in order to crush the wild men. Alternatively, we may leave them be. In time, these wild men may find their way to us - depending on their numbers, they may choose to join us, or attack us instead. [asker_nameFull] has a feeling that the small tribe consists of [ListofPawns]. -->
+<VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull] de [asker_faction_name], a découvert l'existence d'une petite tribu d'hommes sauvages près de [map_definite]. Les hommes sauvages ne nous veulent probablement aucun mal et se rassemblent en espérant que leur nombre les aidera à survivre.\n\nNous pouvons décider de nous aventurer jusqu'au rassemblement afin d'écraser les hommes sauvages. Nous pouvons aussi les laisser en paix. Avec le temps, ces hommes sauvages trouveront peut-être le chemin jusqu'à nous - en fonction de leur nombre, ils choisiront peut-être de se joindre à nous ou de nous attaquer. [asker_nameFull] a l'impression que la petite tribu est composée de [ListofPawns].</VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings.0>
+<!-- EN:
+  <li>questName->The [wildmen] [tribe]</li>
+  <li>questName->Nearby [wildmen] [tribe]</li>
+  <li>wildmen->Wild men</li>
+  <li>wildmen->Wildling</li>
+  <li>wildmen->Savage</li>
+  <li>wildmen->Wandering</li>
+  <li>wildmen->Rising</li>
+  <li>wildmen->New</li>
+  <li>tribe->Tribe</li>
+  <li>tribe->Gathering</li>
+  <li>tribe->Group</li>
+  <li>tribe->Circle</li>
+-->
+<VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+  <li>questName->Le [tribe] [wildmen]</li>
+  <li>questName->La [tribeF] [wildmen]</li>
+  <li>questName->[tribeMAJ] [wildmen] à proximité</li>
+  <li>wildmen->d'hommes sauvages</li>
+  <li>wildmen->des sauvageons</li>
+  <li>wildmen->de sauvage</li>
+  <li>wildmen->d'errance</li>
+  <li>wildmen->ascendant</li>
+  <li>wildmen->des ostrogoths</li>
+  <li>tribeF->tribu</li>
+  <li>tribe->rassemblement</li>
+  <li>tribe->groupe</li>
+  <li>tribe->cercle</li>
+  <li>tribeMAJ->Tribu</li>
+  <li>tribeMAJ->Rassemblement</li>
+  <li>tribeMAJ->Groupe</li>
+  <li>tribeMAJ->Cercle</li>
+</VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: long barrel flamethrower -->
+<VVE_Bunsen_MainTurret_Launcher.label>Lance-flammes à canon long</VVE_Bunsen_MainTurret_Launcher.label>
+<!-- EN: A lightly-armored long range inferno launcher turret sometimes mounted on bunsen tanks. Takes fuel directly from the chemtank of the vehicle. Quite devastating against infantry, bunsen inferno launcher struggles against armored targets. -->
+<VVE_Bunsen_MainTurret_Launcher.description>Tourelle de lanceur de feu à longue portée, légèrement blindée, parfois montée sur des chars bunsen. Elle est alimentée directement par le réservoir de carburant du véhicule. Assez dévastateur contre l'infanterie, le lanceur inferno bunsen est peu efficace contre les cibles blindées.</VVE_Bunsen_MainTurret_Launcher.description>
+<!-- EN: Fire Spew -->
+<VVE_Bunsen_MainTurret_Launcher.fireModes.0.label>Jet de flammes</VVE_Bunsen_MainTurret_Launcher.fireModes.0.label>
+<!-- EN: Fire Spew -->
+<VVE_Bunsen_MainTurret_Launcher.fireModes.1.label>Jet de flammes</VVE_Bunsen_MainTurret_Launcher.fireModes.1.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<VVE_Bunsen_MainTurret_Launcher.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</VVE_Bunsen_MainTurret_Launcher.gizmoDescription>
+
+
+<!-- EN: long barrel flamethrower -->
+<VVE_Bunsen_MainTurret_Long.label>Lance-flammes à canon long</VVE_Bunsen_MainTurret_Long.label>
+<!-- EN: A lightly-armored long range flamethrower turret usually mounted on bunsen tanks. Takes fuel directly from the chemtank of the vehicle. Quite devastating against infantry, bunsen flamethrower struggles against armored targets. -->
+<VVE_Bunsen_MainTurret_Long.description>Tourelle de lance-flammes à longue portée, légèrement blindée, généralement montée sur des chars bunsen. Elle est alimentée directement par le réservoir de carburant du véhicule. Assez dévastateur contre l'infanterie, le lance-flammes bunsen est peu efficace contre les cibles blindées.</VVE_Bunsen_MainTurret_Long.description>
+<!-- EN: Fire Spew -->
+<VVE_Bunsen_MainTurret_Long.fireModes.0.label>Jet de flammes</VVE_Bunsen_MainTurret_Long.fireModes.0.label>
+<!-- EN: Fire Spew -->
+<VVE_Bunsen_MainTurret_Long.fireModes.1.label>Jet de flammes</VVE_Bunsen_MainTurret_Long.fireModes.1.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<VVE_Bunsen_MainTurret_Long.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</VVE_Bunsen_MainTurret_Long.gizmoDescription>
+
+
+<!-- EN: long barrel flamethrower -->
+<VVE_Bunsen_MainTurret_Short.label>Lance-flammes à canon long</VVE_Bunsen_MainTurret_Short.label>
+<!-- EN: A lightly-armored close range flamethrower turret usually mounted on bunsen tanks. Takes fuel directly from the chemtank of the vehicle. Quite devastating against infantry, bunsen flamethrower struggles against armored targets. -->
+<VVE_Bunsen_MainTurret_Short.description>Tourelle de lance-flammes à courte portée, légèrement blindée, généralement montée sur des chars bunsen. Elle est alimentée directement par le réservoir de carburant du véhicule. Assez dévastateur contre l'infanterie, le lance-flammes bunsen est peu efficace contre les cibles blindées.</VVE_Bunsen_MainTurret_Short.description>
+<!-- EN: Fire Spew -->
+<VVE_Bunsen_MainTurret_Short.fireModes.0.label>Jet de flammes</VVE_Bunsen_MainTurret_Short.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<VVE_Bunsen_MainTurret_Short.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</VVE_Bunsen_MainTurret_Short.gizmoDescription>
+
+
+<!-- EN: highwayman turret -->
+<Highwayman_MainTurret_Improved.label>tourelle highwayman</Highwayman_MainTurret_Improved.label>
+<!-- EN: A lightly-armored twin-linked miniturret cannon. Usually mounted on Highwaymen armored personnel carriers. Needs to be reloaded with steel. Can only fire over short range, but doesn’t have any issues with firing at enemies that engage the vehicle in melee. -->
+<Highwayman_MainTurret_Improved.description>Une mini-tourelle légèrement blindée à double articulation. Habituellement monté sur les véhicules blindés de transport de troupes Highwaymen. Doit être rechargé avec de l'acier. Elle ne peut tirer qu'à courte portée, mais n'a aucun problème à tirer sur les ennemis qui engagent le véhicule au corps à corps.</Highwayman_MainTurret_Improved.description>
+<!-- EN: Full Auto -->
+<Highwayman_MainTurret_Improved.fireModes.1.label>Auto.</Highwayman_MainTurret_Improved.fireModes.1.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Highwayman_MainTurret_Improved.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Highwayman_MainTurret_Improved.gizmoDescription>
+
+
+<!-- EN: mounted turret -->
+<Prowler_MiniTurret.label>tourelle montée</Prowler_MiniTurret.label>
+<!-- EN: A small gun turret mounted on a prowler explorer vehicle. Only capable of firing single-shots. Requires steel to refurbish its barrel after heavy use. -->
+<Prowler_MiniTurret.description>Une petite tourelle d'artillerie montée sur un véhicule d'exploration rôdeur. Elle ne peut tirer qu'un seul coup. Il faut de l'acier pour rénover son canon après une utilisation intensive.</Prowler_MiniTurret.description>
+<!-- EN: Single Shot -->
+<Prowler_MiniTurret.fireModes.0.label>Tir unique</Prowler_MiniTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Prowler_MiniTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Prowler_MiniTurret.gizmoDescription>
+
+
+<!-- EN: roadkill cannon -->
+<Roadkill_MainTurret_LongBarrel.label>canon roadkill</Roadkill_MainTurret_LongBarrel.label>
+<!-- EN: A cannon capable of firing explosive tank shells over medium distance. Usually mounted on Roadkill tanks. Needs to be reloaded with steel. Can’t fire whilst moving. Has a decent range, but can’t target enemies too close. -->
+<Roadkill_MainTurret_LongBarrel.description>Canon capable de tirer des obus de chars explosifs sur une distance moyenne. Généralement monté sur les chars roadkill. Doit être rechargé avec de l'acier. Ne peut pas tirer en se déplaçant. A une portée décente, mais ne peut pas viser les ennemis trop proches.</Roadkill_MainTurret_LongBarrel.description>
+<!-- EN: Single Shot -->
+<Roadkill_MainTurret_LongBarrel.fireModes.0.label>Tir unique</Roadkill_MainTurret_LongBarrel.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Roadkill_MainTurret_LongBarrel.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Roadkill_MainTurret_LongBarrel.gizmoDescription>
+
+
+<!-- EN: roadkill cannon -->
+<Roadkill_MainTurret_ShortBarrel.label>canon roadkill</Roadkill_MainTurret_ShortBarrel.label>
+<!-- EN: A cannon capable of firing explosive tank shells over medium distance. Usually mounted on Roadkill tanks. Needs to be reloaded with steel. Can’t fire whilst moving. Has a decent range, but can’t target enemies too close. -->
+<Roadkill_MainTurret_ShortBarrel.description>Canon capable de tirer des obus de chars explosifs sur une distance moyenne. Généralement monté sur les chars roadkill. Doit être rechargé avec de l'acier. Ne peut pas tirer en se déplaçant. A une portée décente, mais ne peut pas viser les ennemis trop proches.</Roadkill_MainTurret_ShortBarrel.description>
+<!-- EN: Single Shot -->
+<Roadkill_MainTurret_ShortBarrel.fireModes.0.label>Tir unique</Roadkill_MainTurret_ShortBarrel.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Roadkill_MainTurret_ShortBarrel.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Roadkill_MainTurret_ShortBarrel.gizmoDescription>
+
+
+</LanguageData>

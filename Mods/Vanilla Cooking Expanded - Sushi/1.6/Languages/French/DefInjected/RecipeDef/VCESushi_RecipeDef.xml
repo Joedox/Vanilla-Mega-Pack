@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: make wasabi paste -->
+<VCE_WasabiPaste.label>préparer une pâte de wasabi</VCE_WasabiPaste.label>
+<!-- EN: Create wasabi paste from raw wasabi. It is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. It loses its flavour and deteriorates extremely fast. -->
+<VCE_WasabiPaste.description>Préparer une pâte de wasabi à partir de wasabi cru. Il est utilisé comme un condiment piquant pour les sushis et d'autres aliments. Son goût est similaire à celui de la moutarde forte plutôt qu'à celui des piments, car il stimule le nez plus que la langue. Il perd sa saveur et se détériore extrêmement vite.</VCE_WasabiPaste.description>
+<!-- EN: Making wasabi paste. -->
+<VCE_WasabiPaste.jobString>prépare la pâte de wasabi.</VCE_WasabiPaste.jobString>
+
+
+<!-- EN: deep fry sushi x20 -->
+<VCE_DeepFrySushi.label>sushi frit x20</VCE_DeepFrySushi.label>
+<!-- EN: Deep fry sushi. Deep fried food is very tasty, but not very good for your health. -->
+<VCE_DeepFrySushi.description>Des sushis frits. Les aliments frits sont très savoureux, mais pas très bons pour la santé.</VCE_DeepFrySushi.description>
+<!-- EN: Deep frying sushi. -->
+<VCE_DeepFrySushi.jobString>fait frire des sushis.</VCE_DeepFrySushi.jobString>
+
+
+<!-- EN: make chirashizushi bowl (simple) -->
+<VCE_CookChirashizushiSimple.label>préparer un bol de sushi chirashi (simple)</VCE_CookChirashizushiSimple.label>
+<!-- EN: Make a Chirashizushi bowl quickly prepared from a few ingredients. -->
+<VCE_CookChirashizushiSimple.description>Préparer rapidement un bol de sushi chirashi à partir de quelques ingrédients.</VCE_CookChirashizushiSimple.description>
+<!-- EN: Making chirashizushi bowl (simple). -->
+<VCE_CookChirashizushiSimple.jobString>prépare le bol de sushi chirashi (simple).</VCE_CookChirashizushiSimple.jobString>
+
+<!-- EN: make chirashizushi bowls (simple) x4 -->
+<VCE_CookChirashizushiSimpleBulk.label>préparer des bols de sushi chirashi (simple) x4</VCE_CookChirashizushiSimpleBulk.label>
+<!-- EN: Make 4 Chirashizushi bowls quickly prepared from a few ingredients. -->
+<VCE_CookChirashizushiSimpleBulk.description>Préparer rapidement 4 bols de sushi chirashi à partir de quelques ingrédients.</VCE_CookChirashizushiSimpleBulk.description>
+<!-- EN: Making chirashizushi bowls (simple) x4. -->
+<VCE_CookChirashizushiSimpleBulk.jobString>prépare les bols de sushi chirashi (simple).</VCE_CookChirashizushiSimpleBulk.jobString>
+
+<!-- EN: make futomaki (lavish) -->
+<VCE_CookFutomakiLavish.label>préparer un futomaki (gastronomique)</VCE_CookFutomakiLavish.label>
+<!-- EN: Make a masterpiece of the culinary arts, this futomaki nourishes the body, mind, and soul. -->
+<VCE_CookFutomakiLavish.description>Chef-d'œuvre de l'art culinaire, ce futomaki nourrit le corps, l'esprit et l'âme.</VCE_CookFutomakiLavish.description>
+<!-- EN: Making futomaki (lavish). -->
+<VCE_CookFutomakiLavish.jobString>prépare le futomaki (gastronomique).</VCE_CookFutomakiLavish.jobString>
+
+<!-- EN: make futomaki (lavish) x4 -->
+<VCE_CookFutomakiLavishBulk.label>préparer des futomaki (gastronomique) x4</VCE_CookFutomakiLavishBulk.label>
+<!-- EN: Make 4 masterpieces of the culinary arts, these futomaki nourish the body, mind, and soul. -->
+<VCE_CookFutomakiLavishBulk.description>Préparer par 4, chefs-d'œuvre de l'art culinaire, ces futomaki nourrissent le corps, l'esprit et l'âme.</VCE_CookFutomakiLavishBulk.description>
+<!-- EN: Making futomaki (lavish) x4. -->
+<VCE_CookFutomakiLavishBulk.jobString>prépare les futomaki (gastronomique).</VCE_CookFutomakiLavishBulk.jobString>
+
+<!-- EN: make gunkanmaki (gourmet) -->
+<VCE_CookGunkanmakiGourmet.label>préparer un gunkanmaki (gourmet)</VCE_CookGunkanmakiGourmet.label>
+<!-- EN: Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity gunkanmaki. -->
+<VCE_CookGunkanmakiGourmet.description>Réaliser une œuvre d'art culinaire, caractérisée par une préparation et une présentation raffinées, voire élaborées, d'un gunkanmaki esthétiquement équilibré, mais en faible quantité.</VCE_CookGunkanmakiGourmet.description>
+<!-- EN: Making gunkanmaki (gourmet). -->
+<VCE_CookGunkanmakiGourmet.jobString>prépare le gunkanmaki (gourmet).</VCE_CookGunkanmakiGourmet.jobString>
+
+<!-- EN: make nigiri (fine) -->
+<VCE_CookNigiriFine.label>préparer un nigiri (raffiné)</VCE_CookNigiriFine.label>
+<!-- EN: Make nigiri assembled with care from a wide selection of ingredients. -->
+<VCE_CookNigiriFine.description>Préparer un nigiri assemblé avec soin à partir d'une large sélection d'ingrédients.</VCE_CookNigiriFine.description>
+<!-- EN: Making nigiri (fine). -->
+<VCE_CookNigiriFine.jobString>prépare le nigiri (raffiné).</VCE_CookNigiriFine.jobString>
+
+<!-- EN: make nigiri (fine) x4 -->
+<VCE_CookNigiriFineBulk.label>préparer des nigiri (raffiné) x4</VCE_CookNigiriFineBulk.label>
+<!-- EN: Make 4 nigiri assembled with care from a wide selection of ingredients. -->
+<VCE_CookNigiriFineBulk.description>Préparer 4 nigiri assemblés avec soin à partir d'une large sélection d'ingrédients.</VCE_CookNigiriFineBulk.description>
+<!-- EN: Making nigiri (fine) x4. -->
+<VCE_CookNigiriFineBulk.jobString>prépare les nigiri (raffiné).</VCE_CookNigiriFineBulk.jobString>
+
+<!-- EN: make norimaki (simple) -->
+<VCE_CookNorimakiSimple.label>préparer un norimaki (simple)</VCE_CookNorimakiSimple.label>
+<!-- EN: Make norimaki quickly prepared from a few ingredients. -->
+<VCE_CookNorimakiSimple.description>Préparer rapidement un norimaki à partir de quelques ingrédients.</VCE_CookNorimakiSimple.description>
+<!-- EN: Making norimaki (simple). -->
+<VCE_CookNorimakiSimple.jobString>prépare le norimaki (simple).</VCE_CookNorimakiSimple.jobString>
+
+<!-- EN: make norimaki (simple) x4 -->
+<VCE_CookNorimakiSimpleBulk.label>préparer des norimaki (simple) x4</VCE_CookNorimakiSimpleBulk.label>
+<!-- EN: Make 4 norimaki quickly prepared from a few ingredients. -->
+<VCE_CookNorimakiSimpleBulk.description>Préparer rapidement 4 norimaki à partir de quelques ingrédients.</VCE_CookNorimakiSimpleBulk.description>
+<!-- EN: Making norimaki (simple) x4. -->
+<VCE_CookNorimakiSimpleBulk.jobString>prépare les norimaki (simple).</VCE_CookNorimakiSimpleBulk.jobString>
+
+<!-- EN: make oshizushi (gourmet) -->
+<VCE_CookOshizushiiGourmet.label>préparer un sushi oshi (gourmet)</VCE_CookOshizushiiGourmet.label>
+<!-- EN: Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity oshizushi. -->
+<VCE_CookOshizushiiGourmet.description>Réaliser une œuvre d'art culinaire, caractérisée par une préparation et une présentation raffinées, voire élaborées, d'un sushi oshi esthétiquement équilibré, mais en faible quantité.</VCE_CookOshizushiiGourmet.description>
+<!-- EN: Making oshizushi (gourmet). -->
+<VCE_CookOshizushiiGourmet.jobString>prépare le sushi oshi (gourmet).</VCE_CookOshizushiiGourmet.jobString>
+
+<!-- EN: make temaki (lavish) -->
+<VCE_CookTemakiLavish.label>préparer un temaki (gastronomique)</VCE_CookTemakiLavish.label>
+<!-- EN: Make a masterpiece of the culinary arts, this temaki nourishes the body, mind, and soul. -->
+<VCE_CookTemakiLavish.description>Chef-d'œuvre de l'art culinaire, ce temaki nourrit le corps, l'esprit et l'âme.</VCE_CookTemakiLavish.description>
+<!-- EN: Making temaki (lavish). -->
+<VCE_CookTemakiLavish.jobString>prépare le temaki (gastronomique).</VCE_CookTemakiLavish.jobString>
+
+<!-- EN: make temaki (lavish) x4 -->
+<VCE_CookTemakiLavishBulk.label>préparer des temaki (gastronomique) x4</VCE_CookTemakiLavishBulk.label>
+<!-- EN: Make 4 masterpieces of the culinary arts, these temaki nourish the body, mind, and soul. -->
+<VCE_CookTemakiLavishBulk.description>Préparer par 4, chefs-d'œuvre de l'art culinaire, ces temaki nourrissent le corps, l'esprit et l'âme.</VCE_CookTemakiLavishBulk.description>
+<!-- EN: Making temaki (lavish) x4. -->
+<VCE_CookTemakiLavishBulk.jobString>prépare les temaki (gastronomique).</VCE_CookTemakiLavishBulk.jobString>
+
+<!-- EN: make uramaki (fine) -->
+<VCE_CookUramakiFine.label>préparer un uramaki (raffiné)</VCE_CookUramakiFine.label>
+<!-- EN: Make uramaki assembled with care from a wide selection of ingredients. -->
+<VCE_CookUramakiFine.description>Préparer un uramaki assemblé avec soin à partir d'une large sélection d'ingrédients.</VCE_CookUramakiFine.description>
+<!-- EN: Making uramaki (fine). -->
+<VCE_CookUramakiFine.jobString>prépare le uramaki (raffiné).</VCE_CookUramakiFine.jobString>
+
+<!-- EN: make uramaki (fine) x4 -->
+<VCE_CookUramakiFineBulk.label>préparer des uramaki (raffiné) x4</VCE_CookUramakiFineBulk.label>
+<!-- EN: Make 4 uramaki assembled with care from a wide selection of ingredients. -->
+<VCE_CookUramakiFineBulk.description>Préparer 4 uramaki assemblés avec soin à partir d'une large sélection d'ingrédients.</VCE_CookUramakiFineBulk.description>
+<!-- EN: Making uramaki (fine) x4. -->
+<VCE_CookUramakiFineBulk.jobString>prépare les uramaki (raffiné).</VCE_CookUramakiFineBulk.jobString>
+
+<!-- EN: make human "surimi" -->
+<VCE_MakeHumanSurimi.label>préparer du "surimi" humain</VCE_MakeHumanSurimi.label>
+<!-- EN: Turn human meat into a nondistinct paste mimicking the texture of lobster, crab, or other shellfish. The taste, though... -->
+<VCE_MakeHumanSurimi.description>Transforme la viande humaine en une pâte indistincte imitant la texture du homard, du crabe ou d'autres crustacés. Le goût, cependant...</VCE_MakeHumanSurimi.description>
+<!-- EN: Making human "surimi". -->
+<VCE_MakeHumanSurimi.jobString>prépare le "surimi" humain.</VCE_MakeHumanSurimi.jobString>
+
+
+</LanguageData>

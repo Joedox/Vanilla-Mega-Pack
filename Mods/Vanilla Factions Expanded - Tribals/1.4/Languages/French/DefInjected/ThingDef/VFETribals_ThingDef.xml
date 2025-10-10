@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFET_FloorPainting.label>peinture pariétale</VFET_FloorPainting.label>
+<VFET_FloorPainting.description>Une peinture au sol de style néolithique représentant une forme artistique. Sa beauté augmente au fur et à mesure que le niveau technologique de la colonie évolue.</VFET_FloorPainting.description>
+<VFET_FloorPainting.modExtensions.0.constructionSkillRequirement.reportStringOverride>peint le sol.</VFET_FloorPainting.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+
+<VFET_SittingSpot.label>lieu d'assise</VFET_SittingSpot.label>
+<VFET_SittingSpot.description>Désigne un lieu où s'asseoir. Ce n'est pas très confortable et c'est à peine mieux que rien. Peut être utilisé pour les tables, les postes de travail et ailleurs.</VFET_SittingSpot.description>
+
+<VFET_ResearchSpot.label>lieu de recherche</VFET_ResearchSpot.label>
+<VFET_ResearchSpot.description>Un lieu de réflexion, avant la construction d'un simple poste de recherche. Les chercheurs y travaillent pour découvrir de nouvelles choses.</VFET_ResearchSpot.description>
+
+<VFET_AnimalTrap.label>piège à animaux</VFET_AnimalTrap.label>
+<VFET_AnimalTrap.description>Une grande pointe acérée sous tension, reliée à une gâchette activée par le toucher. Si un animal touche le déclencheur, la pointe jaillit et le frappe. Comme il est caché dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux ne les perçoivent pas lorsqu'ils sont calmes, mais ils sont tout à fait visibles pour les humains, qui les éviteront.</VFET_AnimalTrap.description>
+
+<VFET_LargeFire.label>grand feu</VFET_LargeFire.label>
+<VFET_LargeFire.description>Produit de grandes quantités de chaleur et de fumée et s'éteint au bout d'un quadrum. La lumière d'un grand feu est visible de loin. Tant qu'il brûle à l'extérieur, les chances que des hommes sauvages s'y aventurent sont plus grandes, de même que les risques de raids. Comme toutes les sources de chaleur, il doit être placé en intérieur pour réchauffer un lieu clos. Peut être réalimenté en bois. En raison de sa taille et de son instabilité, il peut projeter des étincelles autour de lui, ce qui peut déclencher un incendie.</VFET_LargeFire.description>
+
+<VFET_Apparel_TribalLight.label>vêtement tribal léger</VFET_Apparel_TribalLight.label>
+<VFET_Apparel_TribalLight.description>Vêtement de torse fabriqué à l'aide d'outils néolithiques. Bien qu'il ait l'air primitif, il est très efficace pour isoler des températures élevées.</VFET_Apparel_TribalLight.description>
+
+<VFET_Apparel_TribalHeavy.label>vêtement tribal lourd</VFET_Apparel_TribalHeavy.label>
+<VFET_Apparel_TribalHeavy.description>Vêtement couvrant tout le corps et fabriqué à l'aide d'outils néolithiques. Bien qu'il ait l'air primitif, il est très efficace pour isoler des températures froides. Il offre une protection légèrement supérieure à celle des vêtements tribaux standard.</VFET_Apparel_TribalHeavy.description>
+
+<VFET_Apparel_TribalWar.label>vêtement tribal de guerre</VFET_Apparel_TribalWar.label>
+<VFET_Apparel_TribalWar.description>Vêtement couvrant tout le corps et fabriqué à l'aide d'outils néolithiques. Bien qu'il ait l'air primitif, il est très efficace pour isoler des températures froides. Il offre une protection légèrement supérieure à celle des vêtements tribaux standard.</VFET_Apparel_TribalWar.description>
+
+<VFET_LargeFireSpark.label>étincelle</VFET_LargeFireSpark.label>
+
+<VFET_Chunk.label>morceau</VFET_Chunk.label>
+<VFET_Chunk.description>Un morceau de roche, soigneusement choisi pour avoir le plus grand potentiel d'impact.</VFET_Chunk.description>
+<VFET_Chunk.tools.rock.label>rocher</VFET_Chunk.tools.rock.label>
+
+<VFET_Stake.label>pieu</VFET_Stake.label>
+<VFET_Stake.description>Une bûche de bois aiguisée. Elle peut infliger des dégâts importants, mais elle a tendance à se briser et se détériore rapidement. Efficace pour tuer les sanguophages.</VFET_Stake.description>
+<VFET_Stake.tools.shaft.label>manche</VFET_Stake.tools.shaft.label>
+<VFET_Stake.tools.point.label>pointe</VFET_Stake.tools.point.label>
+
+<VFET_Throwspikes.label>pointes de lancer</VFET_Throwspikes.label>
+<VFET_Throwspikes.description>Les pointes de lancer sont de courts bâtons aiguisés des deux côtés. Il faut un certain temps pour les lancer, mais elles peuvent faire des dégâts raisonnables lorsqu'elles touchent. Cette arme représente un ensemble de pointes de lancer et peut être lancée à plusieurs reprises.</VFET_Throwspikes.description>
+<VFET_Throwspikes.tools.limb.label>bâton</VFET_Throwspikes.tools.limb.label>
+<VFET_Throwspikes.verbs.Verb_Shoot.label>pointe</VFET_Throwspikes.verbs.Verb_Shoot.label>
+
+<VFET_ThrowspikesThrown.label>pointe de lancer</VFET_ThrowspikesThrown.label>
+
+
+</LanguageData>

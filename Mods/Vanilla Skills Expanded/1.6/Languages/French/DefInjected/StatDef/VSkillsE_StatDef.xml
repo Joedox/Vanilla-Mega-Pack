@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: armor penetration factor -->
+<VSE_ArmorPenetrationFactor.label>facteur de pénétration d'armure</VSE_ArmorPenetrationFactor.label>
+<!-- EN: A multiplier applied to armor penetration of attacks by this pawn. -->
+<VSE_ArmorPenetrationFactor.description>Un multiplicateur appliqué à la pénétration d'armure des attaques de ce colon</VSE_ArmorPenetrationFactor.description>
+
+<!-- EN: art quality bonus -->
+<VSE_ArtQuality.label>bonus de qualité de l'art</VSE_ArtQuality.label>
+<!-- EN: A bonus to the quality of art produced by this pawn. -->
+<VSE_ArtQuality.description>Un bonus à la qualité de l'art produit par ce colon</VSE_ArtQuality.description>
+
+<!-- EN: art creation speed -->
+<VSE_ArtSpeed.label>vitesse de création de l'art</VSE_ArtSpeed.label>
+<!-- EN: A multiplier to how fast this pawn creates art. -->
+<VSE_ArtSpeed.description>Un multiplicateur de la vitesse à laquelle ce colon crée de l'art</VSE_ArtSpeed.description>
+
+<!-- EN: attack on tame fail chance factor -->
+<VSE_AttackOnFailChanceFactor.label>réduction de chance d'attaque d'un animal lors d'un échec d'apprivoisement</VSE_AttackOnFailChanceFactor.label>
+<!-- EN: A multiplier applied to the chance for failed taming attempts to result in animals attacking this pawn. -->
+<VSE_AttackOnFailChanceFactor.description>Un multiplicateur appliqué à la probabilité que les tentatives d'apprivoisement échouent et que des animaux attaquent ce colon</VSE_AttackOnFailChanceFactor.description>
+
+<!-- EN: component crafting speed -->
+<VSE_ComponentCraftingSpeed.label>vitesse de fabrication de composants</VSE_ComponentCraftingSpeed.label>
+<!-- EN: How fast this pawn can create components (both industrial and advanced). -->
+<VSE_ComponentCraftingSpeed.description>La vitesse à laquelle ce colon peut fabriquer des composants (et composants avancés)</VSE_ComponentCraftingSpeed.description>
+
+<!-- EN: construction quality bonus -->
+<VSE_ConstructQuality.label>bonus de qualité de construction</VSE_ConstructQuality.label>
+<!-- EN: A bonus added to the quality of things built by this pawn. -->
+<VSE_ConstructQuality.description>Un bonus ajouté à la qualité des produits construits par ce colon</VSE_ConstructQuality.description>
+
+<!-- EN: crafting quality bonus -->
+<VSE_CraftingQuality.label>bonus de qualité d'artisanat</VSE_CraftingQuality.label>
+<!-- EN: A bonus to the quality of non-art crafts produced by this pawn. -->
+<VSE_CraftingQuality.description>Un bonus pour la qualité de l'artisanat non artistique produit par ce colon.</VSE_CraftingQuality.description>
+
+<!-- EN: floor work speed -->
+<VSE_FloorSpeed.label>vitesse de travail du sol</VSE_FloorSpeed.label>
+<!-- EN: How fast this pawn can work on floors. -->
+<VSE_FloorSpeed.description>La vitesse à laquelle ce colon peut construire les sols</VSE_FloorSpeed.description>
+
+<!-- EN: melee cooldown factor -->
+<VSE_MeleeCooldownFactor.label>facteur de temps de recharge de mêlée</VSE_MeleeCooldownFactor.label>
+<!-- EN: A multiplier applied to the cooldown of melee attacks by this pawn. -->
+<VSE_MeleeCooldownFactor.description>Un multiplicateur appliqué au temps de recharge des attaques de mêlée de ce colon</VSE_MeleeCooldownFactor.description>
+
+<!-- EN: peace talks success chance -->
+<VSE_PeaceTalksChance.label>chances de succès des pourparlers de paix</VSE_PeaceTalksChance.label>
+<!-- EN: How likely this pawn is to succeed at peace talks. -->
+<VSE_PeaceTalksChance.description>La probabilité que ce colon réussisse dans les négociations de paix</VSE_PeaceTalksChance.description>
+
+<!-- EN: recruitment rate -->
+<VSE_RecruitRate.label>taux de recrutement</VSE_RecruitRate.label>
+<!-- EN: How fast this pawn can recruit prisoners to the colony. -->
+<VSE_RecruitRate.description>La vitesse à laquelle ce colon peut recruter des prisonniers pour la colonie</VSE_RecruitRate.description>
+
+<!-- EN: repair speed -->
+<VSE_RepairSpeed.label>vitesse de réparation</VSE_RepairSpeed.label>
+<!-- EN: How fast this pawn can do repairs. -->
+<VSE_RepairSpeed.description>La vitesse à laquelle ce colon peut effectuer des réparations</VSE_RepairSpeed.description>
+
+<!-- EN: rock chunk chance -->
+<VSE_RockChunkChance.label>chance morceau de pierre</VSE_RockChunkChance.label>
+<!-- EN: The chance for this pawn to get a chunk when mining natural rock. -->
+<VSE_RockChunkChance.description>La chance pour ce colon d'obtenir un morceau lors de l'exploitation de la roche naturelle</VSE_RockChunkChance.description>
+
+<!-- EN: roof work speed -->
+<VSE_RoofSpeed.label>vitesse de travail de la toiture</VSE_RoofSpeed.label>
+<!-- EN: How fast this pawn can work on roofs. -->
+<VSE_RoofSpeed.description>A quelle vitesse ce colon peut construire les toitures</VSE_RoofSpeed.description>
+
+<!-- EN: tailoring speed -->
+<VSE_TailoringSpeed.label>vitesse de couture</VSE_TailoringSpeed.label>
+<!-- EN: How fast this pawn tailors clothes. -->
+<VSE_TailoringSpeed.description>La rapidité avec laquelle ce colon confectionne des vêtements</VSE_TailoringSpeed.description>
+
+<!-- EN: weapon creation speed -->
+<VSE_WeaponCreationSpeed.label>vitesse de fabrication des armes</VSE_WeaponCreationSpeed.label>
+<!-- EN: How fast this pawn can create weapons. -->
+<VSE_WeaponCreationSpeed.description>La vitesse à laquelle ce colon peut fabriquer des armes</VSE_WeaponCreationSpeed.description>
+
+
+</LanguageData>

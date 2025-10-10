@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VSE_ManInTheCoatJoin.label>homme au manteau</VSE_ManInTheCoatJoin.label>
+<VSE_ManInTheCoatJoin.letterLabel>Homme au Manteau</VSE_ManInTheCoatJoin.letterLabel>
+<VSE_ManInTheCoatJoin.letterText>Sentant le danger, un{PAWN_gender ? : e } mystérieu{PAWN_gender ? x : se } [PAWN_kind] est arrivé{PAWN_gender ? : e }.\n\nSera-t-[PAWN_pronoun] capable d'enquêter sur la situation actuelle et de clore l'affaire ?</VSE_ManInTheCoatJoin.letterText>
+
+
+</LanguageData>

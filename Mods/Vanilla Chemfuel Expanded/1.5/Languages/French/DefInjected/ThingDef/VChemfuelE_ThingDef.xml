@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VCHE_ChemfuelPipe.label>conduit de chemfuel</VCHE_ChemfuelPipe.label>
+<VCHE_ChemfuelPipe.description>Oléoduc en acier conçus pour transporter le chemfuel depuis les raffineries deepchem jusqu'aux réservoirs de chemfuel pour le stockage ou jusqu'aux structures consommant du chemfuel pour un remplissage automatique.</VCHE_ChemfuelPipe.description>
+
+<VCHE_UndergroundChemfuelPipe.label>conduit de chemfuel enterré</VCHE_UndergroundChemfuelPipe.label>
+<VCHE_UndergroundChemfuelPipe.description>Oléoduc enterré en acier conçus pour transporter le chemfuel depuis les raffineries deepchem jusqu'aux réservoirs de chemfuel pour le stockage ou jusqu'aux structures consommant du chemfuel pour un remplissage automatique.</VCHE_UndergroundChemfuelPipe.description>
+
+<PS_ChemfuelTank.label>réservoir de chemfuel</PS_ChemfuelTank.label>
+<PS_ChemfuelTank.description>Réservoir de stockage de liquide industriel destiné à entreposer le chemfuel livré par le réseau de oléoducs de chemfuel.\n\nLes réservoirs peuvent être désignés pour être siphonnés afin d'obtenir du chemfuel utilisable selon les besoins.\n\nS'ils sont endommagés, même légèrement, les vapeurs qui s'échappent créent très rapidement une boule de feu gazeuse. La taille de l'explosion qui en résulte dépend de la quantité entreposée.</PS_ChemfuelTank.description>
+
+<VCHE_ChemfuelTap.label>robinet de chemfuel</VCHE_ChemfuelTap.label>
+<VCHE_ChemfuelTap.description>Un bassin de stockage en forme de trémie destiné à contenir le chemfuel distribué périodiquement par les réservoirs pour une utilisation ultérieure.</VCHE_ChemfuelTap.description>
+
+<VCHE_ChemfuelDrain.label>vidange de chemfuel</VCHE_ChemfuelDrain.label>
+<VCHE_ChemfuelDrain.description>Un bassin de stockage en forme de trémie destiné à injecter du chemfuel dans le réseau et à remplir les réservoirs connectés.</VCHE_ChemfuelDrain.description>
+
+<VCHE_DeepchemPipe.label>conduit de deepchem</VCHE_DeepchemPipe.label>
+<VCHE_DeepchemPipe.description>Oléoduc en acier renforcé pour transporter les boues chimiques, appelées deepchem, depuis les stations de pompage jusqu'aux raffineries ou aux réservoirs deepchem pour le stockage.</VCHE_DeepchemPipe.description>
+
+<VCHE_UndergroundDeepchemPipe.label>conduit de deepchem enterré</VCHE_UndergroundDeepchemPipe.label>
+<VCHE_UndergroundDeepchemPipe.description>Oléoduc enterré en acier renforcé pour transporter les boues chimiques, appelées deepchem, depuis les stations de pompage jusqu'aux raffineries ou aux réservoirs deepchem pour le stockage.</VCHE_UndergroundDeepchemPipe.description>
+
+<PS_DeepchemTank.label>réservoir de deepchem</PS_DeepchemTank.label>
+<PS_DeepchemTank.description>Un réservoir industriel renforcé de stockage de boues chimiques destiné au stockage de deepchem livré par le réseau de oléoducs de deepchem.\n\nLes réservoirs peuvent être désignés pour être siphonnés selon les besoins.\n\nS'il est endommagé, même légèrement, les fumées qui s'échappent créent très rapidement une boule de feu gazeuse. La taille de l'explosion qui en résulte dépend de la quantité entreposée.</PS_DeepchemTank.description>
+
+<PS_DeepchemRefinery.label>raffinerie de deepchem</PS_DeepchemRefinery.label>
+<PS_DeepchemRefinery.description>Une machine complexe capable de raffiner le deepchem acheminé par oléoducs en chemfuel utilisable. Si aucune sortie n'est détectée, le chemfuel sera automatiquement stocké dans des bidons. Si la sortie est reliée à un réservoir ou à un robinet de chemfuel, le produit fini sera acheminé comme tel pour être stocké ou distribué.</PS_DeepchemRefinery.description>
+
+<VCHE_DeepchemPumpjack.label>station de pompage deepchem</VCHE_DeepchemPumpjack.label>
+<VCHE_DeepchemPumpjack.description>Une plateforme de forage en profondeur pour extraire le deepchem des profondeurs à la surface. Utilisez un scanner géologique pour détecter les gisements. Le deepchem peut ensuite être raffiné en chemfuel utilisable. Peut être déplacé librement.</VCHE_DeepchemPumpjack.description>
+
+<VCHE_Deepchem.label>deepchem</VCHE_Deepchem.label>
+<VCHE_Deepchem.description>Une boue chimique liquide volatile, extraite de profondes poches souterraines. Elle est trop épaisse pour être utilisée comme carburant pour les moteurs et les fusées, ou pour être convertie en propergol pour les projectiles, mais elle peut être raffinée en chemfuel.</VCHE_Deepchem.description>
+
+<VCHE_DeepchemTap.label>robinet de deepchem</VCHE_DeepchemTap.label>
+<VCHE_DeepchemTap.description>Un bassin de stockage en forme de trémie destiné à contenir du deepchem distribué régulièrement par les réservoirs pour une utilisation ultérieure.</VCHE_DeepchemTap.description>
+
+<VCHE_DeepchemDrain.label>vidange de deepchem</VCHE_DeepchemDrain.label>
+<VCHE_DeepchemDrain.description>Un bassin de stockage en forme de trémie destiné à injecter du deepchem dans le réseau et à remplir les réservoirs connectés.</VCHE_DeepchemDrain.description>
+
+<VCHE_ChemfuelValve.label>vanne de chemfuel</VCHE_ChemfuelValve.label>
+<VCHE_ChemfuelValve.description>Coupe ou rétablit le flux de chemfuel.</VCHE_ChemfuelValve.description>
+
+<VCHE_DeepchemValve.label>vanne de deepchem</VCHE_DeepchemValve.label>
+<VCHE_DeepchemValve.description>Coupe ou rétablit le flux de deepchem.</VCHE_DeepchemValve.description>
+
+
+</LanguageData>

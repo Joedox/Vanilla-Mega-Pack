@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VanillaPsycastsExpanded>Vanilla Psycasts Expanded </VanillaPsycastsExpanded>
+<VPE.XPPerPercent>XP que gagne les Psylanceurs par % de Concentration psychique obtenue </VPE.XPPerPercent>
+<VPE.PsycasterSpawnBaseChance>Basilicus Dispensateur, Chance d'invoquer des Psylanceurs </VPE.PsycasterSpawnBaseChance>
+<VPE.PsycasterSpawnAdditional>Basilicus Dispensateur, Facteur de force des Psylanceurs </VPE.PsycasterSpawnAdditional>
+<VPE.AllowShrink>Permettre de réduire les psysets ?</VPE.AllowShrink>
+<VPE.AllowShrink.Desc>Permet de réduire de moitié la taille des gadgets des psysets lorsqu'il y en a beaucoup.</VPE.AllowShrink.Desc>
+<VPE.SmallMode>Mode réduit de l'IU</VPE.SmallMode>
+<VPE.SmallMode.Desc>En mode petit, les statistiques sont déplacées vers une infobulle et les PsySets sont déplacés vers une fenêtre de dialogue.\n\n  - Si activé (V vert), ceci forcera le mode petit.\n  - Si désactivé (X rouge), ceci interdira le petit mode.\n  - Si partiel (~ jaune), il autorise le comportement par défaut (le mode réduit sera actif si votre résolution verticale est inférieure à 1080).</VPE.SmallMode.Desc>
+<VPE.MuteSkipdoor>Couper le son de la porte de saut</VPE.MuteSkipdoor>
+<VPE.MaxLevel>Niveau maximum des psylanceurs</VPE.MaxLevel>
+<VPE.ChangeFocusGain>Le gain de base de la concentration psychique est-elle proportionnelle au nombre de points de stat ?</VPE.ChangeFocusGain>
+<VPE.ChangeFocusGain.Desc>Si activé, le gain de base de la concentration psychique avant tout focus peut être augmenté en dépensant des points de stat.</VPE.ChangeFocusGain.Desc>
+
+
+</LanguageData>

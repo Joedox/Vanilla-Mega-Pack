@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: VE Framework - Outposts -->
+<Outposts.Settings.Title>Vanilla Outposts Expanded</Outposts.Settings.Title>
+<!-- EN: Gloabal Production Multiplier: {0} -->
+<Outposts.Settings.Multiplier.Production>Multiplicateur de production de l'avant-poste : {0}</Outposts.Settings.Multiplier.Production>
+<!-- EN: Global Time Multiplier: {0} -->
+<Outposts.Settings.Multiplier.Time>Multiplicateur de temps de l'avant-poste : {0}</Outposts.Settings.Multiplier.Time>
+<!-- EN: Global Raid Difficulty Multiplier: {0} -->
+<Outposts.Settings.RaidDifficulty>Multiplicateur de difficulté global des raid : {0}</Outposts.Settings.RaidDifficulty>
+<!-- EN: Raid Frequency Range -->
+<Outposts.Settings.RaidFrequency>Plage de fréquence des raids</Outposts.Settings.RaidFrequency>
+<!-- EN: Create -->
+<Outposts.Dialog.Create>Créer</Outposts.Dialog.Create>
+<!-- EN: Create Outpost -->
+<Outposts.Commands.Create.Label>Créer un avant-poste</Outposts.Commands.Create.Label>
+<!-- EN: Create a new outpost using this caravan -->
+<Outposts.Commands.Create.Desc>Crée un nouvel avant-poste en utilisant cette caravane.</Outposts.Commands.Create.Desc>
+<!-- EN: Take items -->
+<Outposts.Commands.TakeItems.Label>Prendre objet</Outposts.Commands.TakeItems.Label>
+<!-- EN: Take items from {0} and add them to the caravan -->
+<Outposts.Commands.TakeItems.Desc>Prend des objets de {0} et les ajouter à cette caravane.</Outposts.Commands.TakeItems.Desc>
+<!-- EN: Give items -->
+<Outposts.Commands.GiveItems.Label>Donner objet</Outposts.Commands.GiveItems.Label>
+<!-- EN: Take items from {0} and add them to the outpost -->
+<Outposts.Commands.GiveItems.Desc>Prend des objets de {0} et les ajouter à cet l'avant-poste.</Outposts.Commands.GiveItems.Desc>
+<!-- EN: Outpost Lost -->
+<Outposts.Letters.Lost.Label>Avant-poste perdu</Outposts.Letters.Lost.Label>
+<!-- EN: Regretfully, due to the deaths of all inhabitants, the outpost of {0} has been lost to us. -->
+<Outposts.Letters.Lost.Text>Malheureusement, en raison de la mort de tous les colons, nous avons perdu l'avant-poste {0}.</Outposts.Letters.Lost.Text>
+<!-- EN: Outpost Battle Won -->
+<Outposts.Letters.BattleWon.Label>Victoire de l'avant-poste</Outposts.Letters.BattleWon.Label>
+<!-- EN: We have successfully won the battle for {0}.{1} -->
+<Outposts.Letters.BattleWon.Text>Nous avons gagné avec succès la bataille pour {0}. {1}</Outposts.Letters.BattleWon.Text>
+<!-- EN: We have managed to capture {0} in the aftermath -->
+<Outposts.Letters.BattleWon.Captured>Nous avons réussi à capturer {0} dans la foulée</Outposts.Letters.BattleWon.Captured>
+<!-- EN: We have managed to recover {0}'s body -->
+<Outposts.Letters.BattleWon.Rescued>Nous avons réussi à récupérer le corps de {0}</Outposts.Letters.BattleWon.Rescued>
+<!-- EN: We have secured: {0} worth of goods and weapons from the raiders -->
+<Outposts.Letters.BattleWon.Secured>Nous avons récupéré pour {0} de biens et d'armes des pilleurs.</Outposts.Letters.BattleWon.Secured>
+<!-- EN: Items From {0} -->
+<Outposts.Letters.Items.Label>Livraison de {0}</Outposts.Letters.Items.Label>
+<!-- EN: You have received the follow items from the outpost {0}: -->
+<Outposts.Letters.Items.Text>Vous avez reçu les objets suivants de l'avant-poste {0} :</Outposts.Letters.Items.Text>
+<!-- EN: Add Pawn -->
+<Outposts.Commands.AddPawn.Label>Ajouter colon</Outposts.Commands.AddPawn.Label>
+<!-- EN: Transfer a pawn from this caravan to the outpost -->
+<Outposts.Commands.AddPawn.Desc>Transfère un colon de cette caravane à l'avant-poste.</Outposts.Commands.AddPawn.Desc>
+<!-- EN: Delivery Destination -->
+<Outposts.Commands.DeliveryColony.Label>Destination de livraison</Outposts.Commands.DeliveryColony.Label>
+<!-- EN: Select which colony will recieve the goods. Currently: {0} -->
+<Outposts.Commands.DeliveryColony.Desc>Sélectionner une colonie qui recevra les biens.\nActuellement : {0}</Outposts.Commands.DeliveryColony.Desc>
+<!-- EN: Pack -->
+<Outposts.Commands.Pack.Label>Démonter avant-poste</Outposts.Commands.Pack.Label>
+<!-- EN: Begin packing this outpost back into a caravan -->
+<Outposts.Commands.Pack.Desc>Commencer à replier cet avant-poste dans une caravane.</Outposts.Commands.Pack.Desc>
+<!-- EN: Stop packing -->
+<Outposts.Commands.StopPack.Label>Annuler le démontage</Outposts.Commands.StopPack.Label>
+<!-- EN: Cancel packing this outpost into a caravan -->
+<Outposts.Commands.StopPack.Desc>Annule le démantèlement de cet avant-poste dans une caravane.</Outposts.Commands.StopPack.Desc>
+<!-- EN: Remove Pawn -->
+<Outposts.Commands.Remove.Label>Retirer colon</Outposts.Commands.Remove.Label>
+<!-- EN: Remove a pawn from this outpost into a new caravan -->
+<Outposts.Commands.Remove.Desc>Retire un colon de cet avant-poste dans une nouvelle caravane.</Outposts.Commands.Remove.Desc>
+<!-- EN: Cannot remove pawns: Only 1 inhabitant. If you want to remove this outpost, select "Pack". -->
+<Outposts.Command.Remove.Only1>Impossible de retirer le colon : Seulement 1 habitant. Si vous voulez supprimer cet avant-poste, sélectionner "Démonter avant-poste"</Outposts.Command.Remove.Only1>
+<!-- EN: Contains {0} pawns -->
+<Outposts.Contains>Contient {0} colon{0_multiple ? s : }</Outposts.Contains>
+<!-- EN: Packing into caravan. Done in {0} -->
+<Outposts.Packing>Démonter dans une caravane. Terminé dans {0}</Outposts.Packing>
+<!-- EN: Pawns are not skilled enough, need a cumulative {0} skill of at least {1} -->
+<Outposts.NotSkilledEnough>Colons non qualifiés, nécessite un cumul de minimum {1} en {0}</Outposts.NotSkilledEnough>
+<!-- EN: Resting at outpost {0} -->
+<Outposts.RestingAt>Repos à l'avant-poste {0}</Outposts.RestingAt>
+<!-- EN: Will produce some items in {0} -->
+<Outposts.WillProduce.0>Produira certains articles dans {0}</Outposts.WillProduce.0>
+<!-- EN: Will produce {0} {1} in {2} -->
+<Outposts.WillProduce.1>Produira {0} {1} dans {2}</Outposts.WillProduce.1>
+<!-- EN: Will produce {0} {1} and {2} {3} in {4} -->
+<Outposts.WillProduce.2>Produira {0} {1} et {2} {3} dans {4}</Outposts.WillProduce.2>
+<!-- EN: Will produce the following in {0}:\n{1} -->
+<Outposts.WillProduce.N>Produira ce qui suit dans {0} :\n{1}</Outposts.WillProduce.N>
+<!-- EN: Cannot be made in {0} -->
+<Outposts.CannotBeMade>Impossible à construire dans {0}</Outposts.CannotBeMade>
+<!-- EN: Not enough pawns in caravan, need at least {0} -->
+<Outposts.NotEnoughPawns>Pas assez de colons dans la caravane, il en faut au moins {0}</Outposts.NotEnoughPawns>
+<!-- EN: Cumulative {0} skill: {1} -->
+<Outposts.TotalSkill>Cumul de la compétence {0} : {1}</Outposts.TotalSkill>
+<!-- EN: Too close to settlement or other outpost, must have at least 1 tile between them -->
+<Outposts.TooClose>Trop proche d'une colonie ou d'un avant-poste</Outposts.TooClose>
+<!-- EN: Your transport pods have arrived. {0} has been added to {1}. -->
+<Outposts.AddedFromTransportPods>Votre capsule de transport est arrivée. {0} a rejoint {1}.</Outposts.AddedFromTransportPods>
+<!-- EN: Add to outpost -->
+<Outposts.AddTo>Ajouter à l'avant-poste</Outposts.AddTo>
+<!-- EN: Confirm sending items to the outpost? They will be permanently lost. -->
+<Outposts.SendNonPawns>Confirmez-vous l'envoi d'objets à l'avant-poste ? Ils seront définitivement perdus.</Outposts.SendNonPawns>
+<!-- EN: Already packing -->
+<Outposts.AlreadyPacking>Je fais déjà mes bagages</Outposts.AlreadyPacking>
+<!-- EN: Delivery Method -->
+<Outposts.Settings.DeliveryMethod>Méthode de livraison des avants-postes</Outposts.Settings.DeliveryMethod>
+<!-- EN: Teleport items to colony -->
+<Outposts.Settings.DeliveryMethod.Teleport>Téléporter les objets vers la colonie</Outposts.Settings.DeliveryMethod.Teleport>
+<!-- EN: Send pack animal carrying items to colony -->
+<Outposts.Settings.DeliveryMethod.PackAnimal>Bête de somme transportant les objets vers la colonie</Outposts.Settings.DeliveryMethod.PackAnimal>
+<!-- EN: Store items at outpost -->
+<Outposts.Settings.DeliveryMethod.Store>Stocker les objets à l'avant-poste</Outposts.Settings.DeliveryMethod.Store>
+<!-- EN: Always send drop pods -->
+<Outposts.Settings.DeliveryMethod.ForcePods>Envoyer des capsules de transport vers la colonie</Outposts.Settings.DeliveryMethod.ForcePods>
+<!-- EN: Pods if available, otherwise pack animal -->
+<Outposts.Settings.DeliveryMethod.PackOrPods>Capsules de transport si disponible, sinon bête de somme</Outposts.Settings.DeliveryMethod.PackOrPods>
+<!-- EN: Outpost Abandoned -->
+<Outposts.Abandoned>Avant-poste abandonné</Outposts.Abandoned>
+<!-- EN: {0} has been abonded due to having no one inside to run it. It will very quickly be looted and taken over by nature, leaving no trace it was ever there. -->
+<Outposts.Abandoned.Desc>{0} a été abandonné parce qu'il n'y avait personne à l'intérieur pour le faire fonctionner. Il sera très rapidement pillé et envahi par la nature, ne laissant aucune trace de son existence.</Outposts.Abandoned.Desc>
+<!-- EN: Take -->
+<Outposts.Take>Prendre</Outposts.Take>
+<!-- EN: Give -->
+<Outposts.Give>Donner</Outposts.Give>
+<!-- EN: Must be in one of the following biomes: -->
+<Outposts.AllowedBiomes>Doit se trouver dans un biome :</Outposts.AllowedBiomes>
+<!-- EN: Cannot be in any of the following biomes: -->
+<Outposts.DisallowedBiomes>Impossible dans les biomes :</Outposts.DisallowedBiomes>
+<!-- EN: Must have at least {0} pawns willing to join the outpost -->
+<Outposts.NumPawns>Doit avoir au moins {0} colons</Outposts.NumPawns>
+<!-- EN: Cumulative {0} skill must be at least {1} -->
+<Outposts.RequiredSkill>Le cumul de la compétence {0} doit être d'au moins {1}</Outposts.RequiredSkill>
+<!-- EN: Must have ability to grow plants -->
+<Outposts.GrowingRequired>Doit pouvoir cultiver des plantes</Outposts.GrowingRequired>
+<!-- EN: Must have {0} in caravan -->
+<Outposts.MustHaveInCaravan>La caravane doit posséder {0}</Outposts.MustHaveInCaravan>
+<!-- EN: No valid pawns to add to outpost -->
+<Outposts.NoValidPawns>Aucun colon valide à ajouter à l'avant-poste</Outposts.NoValidPawns>
+<!-- EN: Due to changes in skill level, {0} can no longer produce {1} -->
+<Outposts.SkillChange>En raison d’un changement de niveau de compétence, {0} ne peut plus produire {1}</Outposts.SkillChange>
+<!-- EN: Production Time -->
+<Outposts.Setting.ProductionTime>Temps de production </Outposts.Setting.ProductionTime>
+<!-- EN: Pack Time -->
+<Outposts.Setting.PackTime>Temps de préparation </Outposts.Setting.PackTime>
+<!-- EN: Range -->
+<Outposts.Setting.Range>Portée </Outposts.Setting.Range>
+<!-- EN: Minimum Pawns to Create -->
+<Outposts.Setting.MinimumPawns>Colon minimum pour créer l'avant-poste </Outposts.Setting.MinimumPawns>
+<!-- EN: Production Multiplier -->
+<Outposts.Settings.Production>Multiplicateur de production </Outposts.Settings.Production>
+<!-- EN: Enable Outpost Raids? -->
+<Outposts.Settings.DoRaids>Activer les raids d'avant-postes ?</Outposts.Settings.DoRaids>
+
+
+</LanguageData>

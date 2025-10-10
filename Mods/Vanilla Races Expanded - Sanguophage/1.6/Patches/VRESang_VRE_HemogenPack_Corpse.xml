@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Races Expanded - Sanguophage</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+<!-- Le jeu corrige le defName et il m'est impossible de le traduire. Je remplace directement le label et la description afin de traduire VRE_HemogenPack_Corpse. -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/label</xpath>
+          <value>
+            <label>pack d'hémogène (cadavre)</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/description</xpath>
+          <value>
+            <description>Hémogène vicié et pourri provenant d'un cadavre. Affaiblit considérablement le porteur de ce type d'hémogène, mais augmente considérablement la filtration du sang.</description>
+          </value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+
+</Patch>

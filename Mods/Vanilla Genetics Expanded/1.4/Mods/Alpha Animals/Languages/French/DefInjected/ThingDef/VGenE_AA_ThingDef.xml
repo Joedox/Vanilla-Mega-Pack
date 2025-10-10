@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<GR_BearBugEggUnfertilized.label>œuf d'ours-punaise (non fécondé)</GR_BearBugEggUnfertilized.label>
+<GR_BearBugEggUnfertilized.description>Un œuf d'ours-punaise non fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de coléoptère, c'est dégoûtant de toute façon...</GR_BearBugEggUnfertilized.description>
+
+<GR_BearBugEggFertilized.label>œuf d'ours-punaise (fécondé)</GR_BearBugEggFertilized.label>
+<GR_BearBugEggFertilized.description>Un œuf d'ours-punaise fécondé. Il peut être mangé cru, mais il est bien meilleur cuit. En réalité, c'est un œuf de coléoptère, c'est dégoûtant de toute façon... Si tout va bien, il devrait éclore en ours-punaise.</GR_BearBugEggFertilized.description>
+
+<GR_NeedlechickenEggUnfertilized.label>œuf d'aiguille-poule (non fécondé)</GR_NeedlechickenEggUnfertilized.label>
+<GR_NeedlechickenEggUnfertilized.description>Un œuf d'aiguille-poule non fécondé. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</GR_NeedlechickenEggUnfertilized.description>
+
+<GR_NeedlechickenEggFertilized.label>œuf d'aiguille-poule (fécondé)</GR_NeedlechickenEggFertilized.label>
+<GR_NeedlechickenEggFertilized.description>Un œuf d'aiguille-poule fécondé. Si tout va bien, il devrait éclore en un aiguille-poulet. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</GR_NeedlechickenEggFertilized.description>
+
+<GR_EggNighthrumboFertilized.label>œuf de thrumbo nocturne (fécondé)</GR_EggNighthrumboFertilized.label>
+<GR_EggNighthrumboFertilized.description>Un œuf de thrumbo nocturne fécondé. Si tout va bien, il devrait éclore en un bébé thrumbo nocturne. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</GR_EggNighthrumboFertilized.description>
+
+<GR_EggMeadowLizardFertilized.label>œuf d'ave-lézard (fécondé)</GR_EggMeadowLizardFertilized.label>
+<GR_EggMeadowLizardFertilized.description>Un œuf d'ave-lézard fécondé. Si tout va bien, il devrait éclore en un bébé d'ave-lézard. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</GR_EggMeadowLizardFertilized.description>
+
+<GR_AlphaGenomeExcavator.label>excavateur de génome alpha</GR_AlphaGenomeExcavator.label>
+<GR_AlphaGenomeExcavator.description>Un dispositif d'extraction de génome simplifié conçu pour être utilisable par le plus simple d'esprit des crétins, il ressemble à un pistolet à mastic qui fonctionne à l'envers. Le meilleur matériel génétique se trouve dans le cerveau et le design automatisé à usage unique compresse instantanément ce matériel en un génome utilisable.\n\nLe sujet doit être docile et faire confiance à l'utilisateur qui a l'intention de prélever son cerveau au cours d'un processus qui n'est pas tout à fait instantané. Il est recommandé d'anesthésier la créature car tout mouvement brusque de sa part interrompra l'ensemble du processus. Sinon, cela fonctionnera aussi sur un cadavre...\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt; Cet excavateur peut être utilisé pour acquérir les génomes suivants :</GR_AlphaGenomeExcavator.description>
+<GR_AlphaGenomeExcavator.comps.CompUsable.useLabel>Utiliser l'excavateur à génome</GR_AlphaGenomeExcavator.comps.CompUsable.useLabel>
+
+<GR_AlphaGenetic.label>génome alpha</GR_AlphaGenetic.label>
+<GR_AlphaGenetic.description>Une charge utile de matériel génétique d'alpha. Peut être utilisé dans le synthétiseur de génome pour créer une cellule de croissance d'un animal hybride. Ce génome de niveau 2 ne peut être utilisé que comme génome dominant.\n\n&lt;color=#E5E54C&gt;Prélèvement :&lt;/color&gt; Ne peut être extrait que par un excavateur de génome alpha :</GR_AlphaGenetic.description>
+
+<GR_Boomthread.label>soieboom</GR_Boomthread.label>
+<GR_Boomthread.description>Cette soie est aussi solide que le fil de synthé, et elle est aussi un excellent isolant thermique.</GR_Boomthread.description>
+
+<AA_ExplodingWeb.label>toile explosive</AA_ExplodingWeb.label>
+
+<AA_Bullet_TinyVenomBarb.label>petit piquant venimeux</AA_Bullet_TinyVenomBarb.label>
+
+<AA_HugeQuill.label>piquants acérés</AA_HugeQuill.label>
+
+<GR_BearBug.label>ours-punaise</GR_BearBug.label>
+<GR_BearBug.description>Cette créature ressemblant à un tardigrade est en fait une énorme punaise imprégnée de gènes d'ours. Elle consomme une grande quantité de nourriture, et ses attaques paralysantes combinées à sa résistance peuvent être très utiles en situation de combat.\n\nCapacités utiles : Les ours-punaises produisent une neurotoxine puissante qui peut paralyser leurs proies, les rendant complètement incapables de se défendre.</GR_BearBug.description>
+<GR_BearBug.tools.mandibles.label>mandibules</GR_BearBug.tools.mandibles.label>
+<GR_BearBug.tools.head.label>tête</GR_BearBug.tools.head.label>
+
+<GR_Boomalisk.label>boomalisk</GR_Boomalisk.label>
+<GR_Boomalisk.description>Le boomalisk est un hybride de boomalope / dunealisk qui produit une étrange soie d'araignée connue sous le nom de soieboom. Cette soie est aussi solide que du synthé, mais c'est aussi un excellent isolant thermique. Les boomalisks attrapent également leurs proies avec des toiles explosives, ce qui... semble dangereux.\n\nCapacités utiles : Produit du chemfuel, du soieboom et attaque avec des toiles explosives.</GR_Boomalisk.description>
+<GR_Boomalisk.tools.left_first_leg.label>première patte gauche</GR_Boomalisk.tools.left_first_leg.label>
+<GR_Boomalisk.tools.right_first_leg.label>première patte droite</GR_Boomalisk.tools.right_first_leg.label>
+<GR_Boomalisk.tools.head.label>tête</GR_Boomalisk.tools.head.label>
+<GR_Boomalisk.verbs.exploding_web.label>toile explosive</GR_Boomalisk.verbs.exploding_web.label>
+
+<GR_Needlechicken.label>aiguille-poulet</GR_Needlechicken.label>
+<GR_Needlechicken.description>Cette abomination est à moitié poulet, à moitié cactus intelligent. Si les nuggets de cactus n'étaient pas une chose, ils le sont maintenant. On peut les considérer comme des pondeuses à énergie solaire.\n\nCapacités utiles : Les aiguilles-poulets sont de bonnes pondeuses. Elles peuvent se défendre avec de minuscules attaques de poison et elles n'ont presque pas besoin de nourriture (sauf une grande quantité de soleil).</GR_Needlechicken.description>
+<GR_Needlechicken.tools.stings.label>aiguillons</GR_Needlechicken.tools.stings.label>
+<GR_Needlechicken.tools.head.label>tête</GR_Needlechicken.tools.head.label>
+<GR_Needlechicken.verbs.tiny_venomous_barb.label>petit piquant venimeux</GR_Needlechicken.verbs.tiny_venomous_barb.label>
+
+<GR_Beetlefleet.label>scarabée-globe</GR_Beetlefleet.label>
+<GR_Beetlefleet.description>Une monstruosité chitineuse, flottante et remplie d'hydrogène. Le scarabée-globe parcourt la terre en rebondissant sur les objets sur son passage, à la recherche de proies à consommer.\n\nCapacités utiles : Le scarabée-globe produit de la gelée d'insectes, explose violemment à sa mort et se reproduit de manière asexuée.</GR_Beetlefleet.description>
+<GR_Beetlefleet.comps.CompAsexualReproduction.customString>Fission asexuée dans : </GR_Beetlefleet.comps.CompAsexualReproduction.customString>
+<GR_Beetlefleet.tools.tentacles.label>tentacules</GR_Beetlefleet.tools.tentacles.label>
+
+<GR_Groundffalo.label>taupierffalo</GR_Groundffalo.label>
+<GR_Groundffalo.description>Le taupierffalo à cornes est une excellente bête de somme (bien qu'un peu lente) capable de produire du lait et de la laine, ainsi que d'exploiter les mines pour votre colonie. Comparé à un ursidé taupier, il ne sera pas aussi efficace dans son travail de mineur, mais les autres caractéristiques compensent.\n\nCapacités utiles : Produit de la laine, du lait, agit comme une bête de somme et exploite les roches et les minéraux.</GR_Groundffalo.description>
+<GR_Groundffalo.tools.left_claw.label>griffe gauche</GR_Groundffalo.tools.left_claw.label>
+<GR_Groundffalo.tools.right_claw.label>griffe droite</GR_Groundffalo.tools.right_claw.label>
+<GR_Groundffalo.tools.horns.label>cornes</GR_Groundffalo.tools.horns.label>
+<GR_Groundffalo.tools.head.label>tête</GR_Groundffalo.tools.head.label>
+
+<GR_MeadowLizard.label>ave-lézard</GR_MeadowLizard.label>
+<GR_MeadowLizard.description>Le ave-lézard est une bête élevée pour sa vitesse. Même s'ils sont naturellement plus lents que les aves des prairies, ils peuvent être dressés pour devenir des montures incroyablement rapides.\n\nCapacités utiles : s'ils sont correctement dressés, ils peuvent être montés au combat à des vitesses incroyables (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux ave-lézard de se déplacer 100% plus vite lorsqu'ils sont utilisés comme montures). Ils sont également venimeux.</GR_MeadowLizard.description>
+<GR_MeadowLizard.tools.claws.label>griffes</GR_MeadowLizard.tools.claws.label>
+<GR_MeadowLizard.tools.head.label>tête</GR_MeadowLizard.tools.head.label>
+
+<GR_AnimusHare.label>animus-lapin</GR_AnimusHare.label>
+<GR_AnimusHare.description>L'animus-lapin est un petit léporidé avec des capacités psioniques latentes. Assez intelligent pour ce type d'animal, mais pas assez pour utiliser correctement le psionique. Il s'attachera cependant rapidement aux êtres humains et fera en sorte que son esprit rende heureux tous ceux qui le traitent bien.\n\nCapacités utiles : ils utiliseront souvent une caresse psionique sur les colons, rendant tout le monde plus heureux. Ils se reproduisent également très rapidement.</GR_AnimusHare.description>
+<GR_AnimusHare.tools.left_claw.label>griffe gauche</GR_AnimusHare.tools.left_claw.label>
+<GR_AnimusHare.tools.right_claw.label>griffe droite</GR_AnimusHare.tools.right_claw.label>
+<GR_AnimusHare.tools.head.label>tête</GR_AnimusHare.tools.head.label>
+
+<GR_Nighthrumbo.label>nocturthrumbo</GR_Nighthrumbo.label>
+<GR_Nighthrumbo.description>Le nocturthrumbo est un prédateur redoutable. Armé de puissantes mâchoires et de sa corne, ainsi que d'attaques à distance à l'aide de piquants, il élimine rapidement toute proie qu'il décide d'attaquer. C'est également un animal nocturne, qui dort le jour et s'active la nuit.\n\nCapacités utiles : Attaques à distance avec des piquants.</GR_Nighthrumbo.description>
+<GR_Nighthrumbo.tools.horn.label>corne</GR_Nighthrumbo.tools.horn.label>
+<GR_Nighthrumbo.tools.left_claw.label>griffe gauche</GR_Nighthrumbo.tools.left_claw.label>
+<GR_Nighthrumbo.tools.right_claw.label>griffe droite</GR_Nighthrumbo.tools.right_claw.label>
+<GR_Nighthrumbo.tools.head.label>tête</GR_Nighthrumbo.tools.head.label>
+<GR_Nighthrumbo.verbs.huge_quill.label>piquants acérés</GR_Nighthrumbo.verbs.huge_quill.label>
+
+<GR_WolfShrimp.label>loup-crevette</GR_WolfShrimp.label>
+<GR_WolfShrimp.description>Créature extraterrestre terrifiante, le loup-crevette est extrêmement intelligent, comme son ancêtre le loup, et se déplace à une vitesse fulgurante vers ses proies.\n\nCapacités utiles : Capacités de régénération extrêmement rapides.</GR_WolfShrimp.description>
+<GR_WolfShrimp.tools.head.label>tête</GR_WolfShrimp.tools.head.label>
+<GR_WolfShrimp.tools.left_blade.label>lame gauche</GR_WolfShrimp.tools.left_blade.label>
+<GR_WolfShrimp.tools.right_blade.label>lame droite</GR_WolfShrimp.tools.right_blade.label>
+
+
+</LanguageData>

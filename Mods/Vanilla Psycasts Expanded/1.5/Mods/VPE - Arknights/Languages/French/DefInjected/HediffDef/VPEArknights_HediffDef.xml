@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Shadow Snare -->
+<SlowedInesSTNL.label>piège d'ombre</SlowedInesSTNL.label>
+<!-- EN: This creature is being slowed down by a shadow sentry. -->
+<SlowedInesSTNL.description>Cette créature est ralentie par une sentinelle d'ombre.</SlowedInesSTNL.description>
+
+
+<!-- EN: Armor Breaker -->
+<ArmorBreakerOneSTNL.label>brise-armure</ArmorBreakerOneSTNL.label>
+<!-- EN: +30% Incoming DMG. -->
+<ArmorBreakerOneSTNL.description>+30% de dégâts entrants.</ArmorBreakerOneSTNL.description>
+
+<!-- EN: Armor Breaker - Spread -->
+<ArmorBreakerTwoSTNL.label>brise-armure (propagation)</ArmorBreakerTwoSTNL.label>
+<!-- EN: +35% Incoming DMG. -->
+<ArmorBreakerTwoSTNL.description>+35% de dégâts entrants.</ArmorBreakerTwoSTNL.description>
+
+<!-- EN: Barrier -->
+<AutoProtectSTNL.label>barrière</AutoProtectSTNL.label>
+<!-- EN: -35% Incoming damage + Healing. -->
+<AutoProtectSTNL.description>-35% de dégâts entrants + Soins.</AutoProtectSTNL.description>
+
+<!-- EN: Creed Field -->
+<CreedFieldOtherSTNL.label>champ de credo</CreedFieldOtherSTNL.label>
+<!-- EN: Incoming DMG -30%. -->
+<CreedFieldOtherSTNL.description>-30% de dégâts entrants.</CreedFieldOtherSTNL.description>
+
+<!-- EN: Creed Field -->
+<CreedFieldSELFSTNL.label>champ de credo</CreedFieldSELFSTNL.label>
+<!-- EN: ATK +40%. -->
+<CreedFieldSELFSTNL.description>+40% d'attaque.</CreedFieldSELFSTNL.description>
+
+<!-- EN: Creed -->
+<CreedSTNL.label>credo</CreedSTNL.label>
+<!-- EN: ATK +67%; ATK SPD +20%. -->
+<CreedSTNL.description>+67% d'attaque et +20% de vitesse d'attaque.</CreedSTNL.description>
+
+<!-- EN: Execution -->
+<CrownExecutionSTNL.label>exécution</CrownExecutionSTNL.label>
+<!-- EN: Melee ATK +500% SPD +25%, invisible until an attack is used or the duration runs out. -->
+<CrownExecutionSTNL.description>+500% d'attaque de mêlée et +25% de vitesse de déplacement, invisible jusqu'à la prochaine attaque ou jusqu'à ce que la durée soit écoulée.</CrownExecutionSTNL.description>
+
+<!-- EN: Smoke and Mirrors -->
+<CrownSmokeSTNL.label>fumée et miroir</CrownSmokeSTNL.label>
+<!-- EN: ATK +50%, 40% Melee dodge chance increase. -->
+<CrownSmokeSTNL.description>+50% d'attaque et +40% de chances d'esquive en mêlée.</CrownSmokeSTNL.description>
+
+<!-- EN: DEF UP -->
+<DEFupmudSTNL.label>défense améliorée</DEFupmudSTNL.label>
+<!-- EN: +60% Def -->
+<DEFupmudSTNL.description>+40% de défense.</DEFupmudSTNL.description>
+
+<!-- EN: Descent -->
+<DescentAscalonSTNL.label>descente</DescentAscalonSTNL.label>
+<!-- EN: ATK +20%, ATK SPD +50%, +30% Melee dodge chance, slow HP regeneration. -->
+<DescentAscalonSTNL.description>+20% d'attaque, +50% de vitesse d'attaque, +30% de chances d'esquive en mêlée, régénération lente des points de vie.</DescentAscalonSTNL.description>
+
+<!-- EN: Desecrated Earth -->
+<DesecratedSTNL.label>terre profanée</DesecratedSTNL.label>
+<!-- EN: This creature is being slowed down by Arts. -->
+<DesecratedSTNL.description>Cette créature est ralentie par les Arts.</DesecratedSTNL.description>
+
+<!-- EN: Discouragement -->
+<DiscouragementSTNL.label>découragement</DiscouragementSTNL.label>
+<!-- EN: -50% Outgoing damage , +100% Incoming damage. -->
+<DiscouragementSTNL.description>-50% d'attaque, +100% de dégâts entrants.</DiscouragementSTNL.description>
+
+<!-- EN: Ying Xiao - Fleeting Night -->
+<FleetingNightSTNL.label>Ying Xiao - Nuit fugace</FleetingNightSTNL.label>
+<!-- EN: This pawn is currently in the Fleeting Night state, granting them increased ATK, ATK SPD and DEF. -->
+<FleetingNightSTNL.description>Cette personne est actuellement dans l'état Nuit fugace, ce qui lui confère une augmentation de son attaque, sa vitesse d'attaque et de sa défense.</FleetingNightSTNL.description>
+
+<!-- EN: Inheritance of Faith -->
+<FocusSupportHealSTNL.label>héritage de la foi</FocusSupportHealSTNL.label>
+<!-- EN: This pawn is regenerating psyfocus and is getting healed by a Saileach path user. -->
+<FocusSupportHealSTNL.description>Cette personne régénère sa concentration psychique et est soignée par un utilisateur de la voie de Saileach.</FocusSupportHealSTNL.description>
+
+<!-- EN: Focus Support -->
+<FocusSupportSTNL.label>soutien de concentration</FocusSupportSTNL.label>
+<!-- EN: This pawn is regenerating psyfocus. -->
+<FocusSupportSTNL.description>Cette personne régénère sa concentration psychique.</FocusSupportSTNL.description>
+
+<!-- EN: Healing Up -->
+<HealingupsilenceSTNL.label>guérison</HealingupsilenceSTNL.label>
+<!-- EN: This creature is being healed by Arts. -->
+<HealingupsilenceSTNL.description>Cette créature est soignée par les Arts.</HealingupsilenceSTNL.description>
+
+<!-- EN: Smokebomb Blast -->
+<HiddenCrownSTNL.label>explosion de fumigènes</HiddenCrownSTNL.label>
+<!-- EN: This creature is temporarily invisible. -->
+<HiddenCrownSTNL.description>Cette créature est temporairement invisible.</HiddenCrownSTNL.description>
+
+<!-- EN: Inspiration -->
+<InspirationSTNL.label>inspiration</InspirationSTNL.label>
+<!-- EN: +50% ATK -->
+<InspirationSTNL.description>+50% d'attaque.</InspirationSTNL.description>
+
+<!-- EN: Command: Tactical Coordination -->
+<KalCoordinationSTNL.label>commandement : Coordination tactique</KalCoordinationSTNL.label>
+<!-- EN: +60% ATK SPD. -->
+<KalCoordinationSTNL.description>+60% de vitesse d'attaque.</KalCoordinationSTNL.description>
+
+<!-- EN: Command: Structural Fortification -->
+<KaltFortificationSTNL.label>commandement : Fortification structurelle</KaltFortificationSTNL.label>
+<!-- EN: Incoming DMG -50%. -->
+<KaltFortificationSTNL.description>-50% de dégâts entrants.</KaltFortificationSTNL.description>
+
+<!-- EN: Marksman's Proficiency -->
+<MarksmanSTNL.label>maîtrise du tireur d'élite</MarksmanSTNL.label>
+<!-- EN: +70% Ranged ATK SPD -->
+<MarksmanSTNL.description>+70% de vitesse d'attaque à distance.</MarksmanSTNL.description>
+
+<!-- EN: Command: Tactical Coordination -->
+<MontrCoordinationSTNL.label>commandement : Coordination tactique</MontrCoordinationSTNL.label>
+<!-- EN: +25% ATK. -->
+<MontrCoordinationSTNL.description>+25% d'attaque.</MontrCoordinationSTNL.description>
+
+<!-- EN: Command: Structural Fortification -->
+<MontrFortificationSTNL.label>commandement : Fortification structurelle</MontrFortificationSTNL.label>
+<!-- EN: Incoming DMG -30%. -->
+<MontrFortificationSTNL.description>-30% de dégâts entrants.</MontrFortificationSTNL.description>
+
+<!-- EN: Command: Meltdown -->
+<MontrMeltdownSTNL.label>commandement : Fusion</MontrMeltdownSTNL.label>
+<!-- EN: Mon3tr is currently under the Meltdown status. ATK x2, DEF +60%, HP Regen over time. -->
+<MontrMeltdownSTNL.description>Mon3tr est actuellement sous le statut Fusion. Attaque x2, +60% de défense, régénération des points de vie sur la durée.</MontrMeltdownSTNL.description>
+
+<!-- EN: Bloodline of Desecrated Earth -->
+<MudrockGodmodeSTNL.label>lignée de la terre profanée</MudrockGodmodeSTNL.label>
+<!-- EN: Immune to damage and stagger. -->
+<MudrockGodmodeSTNL.description>Immunisé contre les dégâts et l'échelonnement.</MudrockGodmodeSTNL.description>
+
+<!-- EN: Murky Night -->
+<MurkyNightSTNL.label>nuit obscure</MurkyNightSTNL.label>
+<!-- EN: This creature is psychically twisting the perceptions of humans, animals, and machines in the vicinity in such a way as to seem invisible. The eye receives their image as normal but the mind cannot perceive it. -->
+<MurkyNightSTNL.description>Cette créature déforme psychiquement les perceptions des humains, des animaux et des machines qui se trouvent à proximité, de telle sorte qu'elle semble invisible. L'œil reçoit son image comme si elle était normale, mais l'esprit ne la perçoit pas.</MurkyNightSTNL.description>
+
+<!-- EN: The Past Lingering -->
+<PastlingeringSTNL.label>le passé perdure</PastlingeringSTNL.label>
+<!-- EN: -50% Stagger duration, -20% Incoming damage. -->
+<PastlingeringSTNL.description>-50% de durée d'échelonnement et -20% de dégâts entrants.</PastlingeringSTNL.description>
+
+<!-- EN: Crag Splitter -->
+<RegenerationMudrockSTNL.label>fendeur de roche</RegenerationMudrockSTNL.label>
+<!-- EN: This creature is being healed by Arts. -->
+<RegenerationMudrockSTNL.description>Cette créature est soignée par les Arts.</RegenerationMudrockSTNL.description>
+
+<!-- EN: Regeneration -->
+<RegenerationSTNL.label>régénération</RegenerationSTNL.label>
+<!-- EN: This creature is being healed by Arts. -->
+<RegenerationSTNL.description>Cette créature est soignée par les Arts.</RegenerationSTNL.description>
+
+<!-- EN: Camouflage -->
+<RevenantInvisWisadelSTNL.label>camouflage</RevenantInvisWisadelSTNL.label>
+<!-- EN: This creature is psychically twisting the perceptions of humans, animals, and machines in the vicinity in such a way as to seem invisible. The eye receives their image as normal but the mind cannot perceive it. -->
+<RevenantInvisWisadelSTNL.description>Cette créature déforme psychiquement les perceptions des humains, des animaux et des machines qui se trouvent à proximité, de telle sorte qu'elle semble invisible. L'œil reçoit son image comme si elle était normale, mais l'esprit ne la perçoit pas.</RevenantInvisWisadelSTNL.description>
+
+<!-- EN: Glorious Banner -->
+<SaileachDebuffSTNL.label>bannière glorieuse</SaileachDebuffSTNL.label>
+<!-- EN: This creature is being slowed down and has twice the stagger factor. -->
+<SaileachDebuffSTNL.description>Cette créature est ralentie et a le facteur d'échelonnement doublé.</SaileachDebuffSTNL.description>
+
+<!-- EN: Ying Xiao - Shadowless -->
+<ShadowlessSTNL.label>Ying Xiao - Sans ombre</ShadowlessSTNL.label>
+<!-- EN: This pawn is currently in the Shadowless state, allowing them to deal twice as much melee damage. -->
+<ShadowlessSTNL.description>Cette personne est actuellement dans l'état sans ombre, ce qui lui permet d'infliger deux fois plus de dégâts en mêlée.</ShadowlessSTNL.description>
+
+<!-- EN: Drone Healing -->
+<SilenceDroneHealSTNL.label>guérison par drone</SilenceDroneHealSTNL.label>
+<!-- EN: This creature is being healed by a nearby medical drone. -->
+<SilenceDroneHealSTNL.description>Cette créature est soignée par un drone médical proche.</SilenceDroneHealSTNL.description>
+
+<!-- EN: Booster Injection -->
+<SilencePassiveSTNL.label>injection de stimulant</SilencePassiveSTNL.label>
+<!-- EN: This pawn possesses faster healing speed due to being a Silence path user. -->
+<SilencePassiveSTNL.description>Cette personne possède une vitesse de guérison plus rapide car elle utilise la voie du Silence.</SilencePassiveSTNL.description>
+
+<!-- EN: Solitary Return -->
+<SolitaryReturnBuffSTNL.label>retour solitaire</SolitaryReturnBuffSTNL.label>
+<!-- EN: This pawn is being enhanced by the solitary return ability. -->
+<SolitaryReturnBuffSTNL.description>Cette personne est améliorée par la capacité de retour solitaire.</SolitaryReturnBuffSTNL.description>
+
+<!-- EN: Stagnation -->
+<StagnationSTNL.label>stagnation</StagnationSTNL.label>
+<!-- EN: This creature is being corrupted by Arts, causing them to lose the ability to heal from their wounds. -->
+<StagnationSTNL.description>Cette créature est corrompue par les Arts, ce qui lui fait perdre la capacité de guérir de ses blessures.</StagnationSTNL.description>
+
+<!-- EN: Pursuit -->
+<VPE_AscalonArtsDOTSTNL.label>poursuite</VPE_AscalonArtsDOTSTNL.label>
+<!-- EN: This creature is taking damage over time and is being slowed down. -->
+<VPE_AscalonArtsDOTSTNL.description>Cette créature subit des dégâts sur la durée et est ralentie.</VPE_AscalonArtsDOTSTNL.description>
+
+<!-- EN: Endowment -->
+<VPE_AscalonEndowmentAllySTNL.label>dotation</VPE_AscalonEndowmentAllySTNL.label>
+<!-- EN: ATK +60%. -->
+<VPE_AscalonEndowmentAllySTNL.description>+60% d'attaque.</VPE_AscalonEndowmentAllySTNL.description>
+
+<!-- EN: Endowment -->
+<VPE_AscalonEndowmentEnemySTNL.label>dotation</VPE_AscalonEndowmentEnemySTNL.label>
+<!-- EN: 60% SPD cap and takes damage over time. -->
+<VPE_AscalonEndowmentEnemySTNL.description>Vitesse de déplacement limitée à 60% + dégâts sur la durée.</VPE_AscalonEndowmentEnemySTNL.description>
+
+<!-- EN: Arts damage over time -->
+<VPE_InesArtsDOTSTNL.label>dégâts d'Arts sur la durée</VPE_InesArtsDOTSTNL.label>
+<!-- EN: This creature is taking damage over time. -->
+<VPE_InesArtsDOTSTNL.description>Cette créature subit des dégâts sur la durée.</VPE_InesArtsDOTSTNL.description>
+
+<!-- EN: Wrathful Cerulean Flame -->
+<WrathSTNL.label>flamme céruléenne courroucée</WrathSTNL.label>
+<!-- EN: This pawn is currently being enhanced by the wrath of the cerulean flame, Granting them increased combat capabilities. -->
+<WrathSTNL.description>Cette personne est actuellement améliorée par la colère de la flamme céruléenne, ce qui lui confère des capacités de combat accrues.</WrathSTNL.description>
+
+
+</LanguageData>

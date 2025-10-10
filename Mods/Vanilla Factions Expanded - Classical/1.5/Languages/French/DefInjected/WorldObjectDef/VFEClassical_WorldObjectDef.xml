@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Outpost_Farming.label>avant-poste agricole</Outpost_Farming.label>
+<Outpost_Farming.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans le semis et la récolte de végétation facile à cultiver, ne peut être placé sur des déserts. Une fois qu'une quantité suffisante a été récoltée, une livraison sera effectuée à la périphérie de la colonie principale de la faction.</Outpost_Farming.description>
+<Outpost_Farming.modExtensions.0.ChooseDesc>Choisir la plante que cet avant-poste doit cultiver.</Outpost_Farming.modExtensions.0.ChooseDesc>
+<Outpost_Farming.modExtensions.0.ChooseLabel>Choisir la récolte</Outpost_Farming.modExtensions.0.ChooseLabel>
+
+<Outpost_Hunting.label>avant-poste de chasse</Outpost_Hunting.label>
+<Outpost_Hunting.description>Emplacement d'un camp temporaire, dirigé de manière autonome, spécialisé dans la chasse et le dépeçage des animaux sauvages. Une fois qu'une quantité suffisante a été amassé, une livraison sera faite à la périphérie de la colonie principale de la faction.</Outpost_Hunting.description>
+<Outpost_Hunting.modExtensions.0.ChooseDesc>Choisir l'animal à chasser dans cet avant-poste.</Outpost_Hunting.modExtensions.0.ChooseDesc>
+<Outpost_Hunting.modExtensions.0.ChooseLabel>Chasse {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+
+<Outpost_Logging.label>avant-poste forestier</Outpost_Logging.label>
+<Outpost_Logging.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la collecte de bois à partir des arbres de la zone, ne peut être placé sur un désert. Une fois qu'une quantité adéquate de bois a été obtenue, une livraison sera effectuée à la périphérie de la colonie principale de la faction.</Outpost_Logging.description>
+
+<Outpost_Mining.label>avant-poste minier</Outpost_Mining.label>
+<Outpost_Mining.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans le minage et le traitement de la pierre ou du métal, ne peut être placé que sur une colline ou une montagne. Une fois qu'une quantité adéquate a été minée, une livraison sera effectuée à la périphérie de la colonie principale de la faction.</Outpost_Mining.description>
+<Outpost_Mining.modExtensions.0.ChooseDesc>Choisir la ressource à minier dans cet avant-poste.</Outpost_Mining.modExtensions.0.ChooseDesc>
+<Outpost_Mining.modExtensions.0.ChooseLabel>Mine {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+
+
+</LanguageData>

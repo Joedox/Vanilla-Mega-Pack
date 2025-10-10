@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Summon Agrihand -->
+<VPE_AgrihandSummonSTNL.label>invoquer un agritoïde</VPE_AgrihandSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid ship to produce an Agrihand and skip it directly to you. Bandwidth Cost: 1. -->
+<VPE_AgrihandSummonSTNL.description>Pirate un vaisseau mécanoïde distant pour produire un agritoïde et vous le fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_AgrihandSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AgrihandSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_AgrihandSummonSTNL.jobReportString>
+<!-- EN: Summon Agrihand -->
+<VPE_AgrihandSummonSTNL.verbProperties.label>invoquer un agritoïde</VPE_AgrihandSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Apocriton -->
+<VPE_ApocritonSummonSTNL.label>invoquer un apocrite</VPE_ApocritonSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid ship to produce an Apocriton and skip it directly to you. Bandwidth Cost: 2 (The mechanoid must still be hacked manually.) -->
+<VPE_ApocritonSummonSTNL.description>Pirate un vaisseau mécanoïde distant pour produire un apocrite et vous le fait parvenir directement.\nCoût en bande passante : 2 (le mécanoïde devra être piraté manuellement)</VPE_ApocritonSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ApocritonSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_ApocritonSummonSTNL.jobReportString>
+<!-- EN: invoquer un apocrite -->
+<VPE_ApocritonSummonSTNL.verbProperties.label>invoquer un apocrite</VPE_ApocritonSummonSTNL.verbProperties.label>
+
+<!-- EN: Mechanitor Precept: Apocritia -->
+<VPE_ApoSTNL.label>précepte méchanitor : Apocrite</VPE_ApoSTNL.label>
+<!-- EN: Uses the power of the psylink to upgrade the mechlink for a duration of 24hrs, granting you the ability to resurrect any allied mechs except super heavies during that time. -->
+<VPE_ApoSTNL.description>Utilise le pouvoir du lien psychique pour améliorer le mécalien pour une durée de 24 heures, ce qui vous permet de ressusciter tous les mechs alliés, à l'exception des super lourds, pendant cette période.</VPE_ApoSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ApoSTNL.jobReportString>Utilise la capacité : {0}</VPE_ApoSTNL.jobReportString>
+<!-- EN: précepte méchanitor : Apocrite -->
+<VPE_ApoSTNL.verbProperties.label>précepte méchanitor : Apocrite</VPE_ApoSTNL.verbProperties.label>
+
+<!-- EN: Summon Centipede (Blaster) -->
+<VPE_CentipedeSummonSTNL.label>invoquer un centipède blaster</VPE_CentipedeSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Centipede blaster and skip it directly to you. Bandwidth Cost: 4 (The mechanoid must still be hacked manually.) -->
+<VPE_CentipedeSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un centipède blaster et vous le fait parvenir directement.\nCoût en bande passante : 4 (le mécanoïde devra être piraté manuellement)</VPE_CentipedeSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CentipedeSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_CentipedeSummonSTNL.jobReportString>
+<!-- EN: invoquer un centipède blaster -->
+<VPE_CentipedeSummonSTNL.verbProperties.label>invoquer un centipède blaster</VPE_CentipedeSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Cleansweeper -->
+<VPE_CleansweeperSummonSTNL.label>invoquer un nettoïde</VPE_CleansweeperSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Cleansweeper and skip it directly to you. Bandwidth Cost: 1 (The mechanoid must still be hacked manually.) -->
+<VPE_CleansweeperSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un nettoïde et vous le fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_CleansweeperSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CleansweeperSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_CleansweeperSummonSTNL.jobReportString>
+<!-- EN: Summon Cleansweeper -->
+<VPE_CleansweeperSummonSTNL.verbProperties.label>invoquer un nettoïde</VPE_CleansweeperSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Constructoid -->
+<VPE_ConstructoidSummonSTNL.label>invoquer un constructoïde</VPE_ConstructoidSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Constructoid and skip it directly to you. Bandwidth Cost: 1 (The mechanoid must still be hacked manually.) -->
+<VPE_ConstructoidSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un constructoïde et vous le fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_ConstructoidSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ConstructoidSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_ConstructoidSummonSTNL.jobReportString>
+<!-- EN: Summon Constructoid -->
+<VPE_ConstructoidSummonSTNL.verbProperties.label>invoquer un constructoïde</VPE_ConstructoidSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Diabolus -->
+<VPE_DiabolusSummonSTNL.label>invoquer un diabolus</VPE_DiabolusSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid ship to produce a Diabolus and skip it directly to you. Bandwidth Cost: 5 (The mechanoid must still be hacked manually.) -->
+<VPE_DiabolusSummonSTNL.description>Pirate un vaisseau mécanoïde éloigné pour produire un diabolus et vous le fait parvenir directement.\nCoût en bande passante : 5 (le mécanoïde devra être piraté manuellement)</VPE_DiabolusSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DiabolusSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_DiabolusSummonSTNL.jobReportString>
+<!-- EN: invoquer un diabolus -->
+<VPE_DiabolusSummonSTNL.verbProperties.label>invoquer un diabolus</VPE_DiabolusSummonSTNL.verbProperties.label>
+
+<!-- EN: Precept: Ambush -->
+<VPE_EngagedAmbushMode.label>précepte : Embuscade</VPE_EngagedAmbushMode.label>
+<!-- EN: Psychically hack an experimental ambush precept into a mechanoid, causing it to go invisible until an offensive action is taken. Very effective on worker models, allowing them to continue work while staying mostly undetected. -->
+<VPE_EngagedAmbushMode.description>Pirate psychiquement un précepte expérimental d'embuscade dans un mécanoïde, le rendant invisible jusqu'à ce qu'une action offensive soit entreprise. Très efficace sur les modèles travailleurs, il leur permet de continuer à travailler tout en restant pratiquement indétectables.</VPE_EngagedAmbushMode.description>
+<!-- EN: Using ability: {0} -->
+<VPE_EngagedAmbushMode.jobReportString>Utilise la capacité : {0}</VPE_EngagedAmbushMode.jobReportString>
+<!-- EN: précepte : Embuscade -->
+<VPE_EngagedAmbushMode.verbProperties.label>précepte : Embuscade</VPE_EngagedAmbushMode.verbProperties.label>
+
+<!-- EN: Summon Fabricor -->
+<VPE_FabricorSummonSTNL.label>invoquer un fabritoïde</VPE_FabricorSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Fabricor and skip it directly to you. Bandwidth Cost: 1.) -->
+<VPE_FabricorSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un fabritoïde et vous le fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_FabricorSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FabricorSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_FabricorSummonSTNL.jobReportString>
+<!-- EN: Summon Fabricor -->
+<VPE_FabricorSummonSTNL.verbProperties.label>invoquer un fabritoïde</VPE_FabricorSummonSTNL.verbProperties.label>
+
+<!-- EN: Project Omega: Inferno -->
+<VPE_FireTurretSTNL.label>projet Omega : Inferno</VPE_FireTurretSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce an inferno auto turret and skip it directly to you. -->
+<VPE_FireTurretSTNL.description>Pirate une usine mécanoïde éloignée pour produire une tourelle inferno automatique et vous la fait parvenir directement à l'endroit ciblé.</VPE_FireTurretSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FireTurretSTNL.jobReportString>Utilise la capacité : {0}</VPE_FireTurretSTNL.jobReportString>
+<!-- EN: projet Omega : Inferno -->
+<VPE_FireTurretSTNL.verbProperties.label>projet Omega : Inferno</VPE_FireTurretSTNL.verbProperties.label>
+
+<!-- EN: Summon Lancer -->
+<VPE_LancerSummonSTNL.label>invoquer un lancier</VPE_LancerSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Lancer and skip it directly to you. Bandwidth Cost: 3 (The mechanoid must still be hacked manually.) -->
+<VPE_LancerSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un lancier et vous le fait parvenir directement.\nCoût en bande passante : 3 (le mécanoïde devra être piraté manuellement)</VPE_LancerSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_LancerSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_LancerSummonSTNL.jobReportString>
+<!-- EN: invoquer un lancier -->
+<VPE_LancerSummonSTNL.verbProperties.label>invoquer un lancier</VPE_LancerSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Lifter -->
+<VPE_LifterSummonSTNL.label>invoquer un manutoïde</VPE_LifterSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Lifter and skip it directly to you. Bandwidth Cost: 1 (The mechanoid must still be hacked manually.) -->
+<VPE_LifterSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un manutoïde et vous le fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_LifterSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_LifterSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_LifterSummonSTNL.jobReportString>
+<!-- EN: Summon Lifter -->
+<VPE_LifterSummonSTNL.verbProperties.label>invoquer un manutoïde</VPE_LifterSummonSTNL.verbProperties.label>
+
+<!-- EN: Manifest Mechlink -->
+<VPE_MechlinkSTNL.label>mécalien</VPE_MechlinkSTNL.label>
+<!-- EN: Uses the power of the psylink to create a mechlink. -->
+<VPE_MechlinkSTNL.description>Utilise le pouvoir du lien psychique pour créer un mécalien.</VPE_MechlinkSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MechlinkSTNL.jobReportString>Utilise la capacité : {0}</VPE_MechlinkSTNL.jobReportString>
+<!-- EN: mécalien -->
+<VPE_MechlinkSTNL.verbProperties.label>mécalien</VPE_MechlinkSTNL.verbProperties.label>
+
+<!-- EN: Psy-Mechlink upgrade -->
+<VPE_MechmindlinkSTNL.label>améliorer le psy-mécalien</VPE_MechmindlinkSTNL.label>
+<!-- EN: Uses the power of the psylink to upgrade the mechlink granting you +10 Bandwidth and +1 additional control group per cast up to 10 times. -->
+<VPE_MechmindlinkSTNL.description>Utilise le pouvoir du lien psychique pour améliorer le mécalien en vous accordant +10 bande passante et +1 groupes de contrôle supplémentaire.</VPE_MechmindlinkSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MechmindlinkSTNL.jobReportString>Utilise la capacité : {0}</VPE_MechmindlinkSTNL.jobReportString>
+<!-- EN: améliorer le psy-mécalien -->
+<VPE_MechmindlinkSTNL.verbProperties.label>améliorer le psy-mécalien</VPE_MechmindlinkSTNL.verbProperties.label>
+
+<!-- EN: Mechanitor Precept: Partial-Conversion -->
+<VPE_MechstripSTNL.label>précepte méchanitor : Conversion partielle</VPE_MechstripSTNL.label>
+<!-- EN: Strip the mechanoid's systems out of the grasp of the mech-hive, the mechanoid can be hacked if you wish to claim it. -->
+<VPE_MechstripSTNL.description>Retire les systèmes du mécanoïde de l'emprise de la ruche mécanoïde, le mécanoïde peut être piraté si vous souhaitez le revendiquer.</VPE_MechstripSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MechstripSTNL.jobReportString>Utilise la capacité : {0}</VPE_MechstripSTNL.jobReportString>
+<!-- EN: précepte méchanitor : Conversion partielle -->
+<VPE_MechstripSTNL.verbProperties.label>précepte méchanitor : Conversion partielle</VPE_MechstripSTNL.verbProperties.label>
+
+<!-- EN: Project Zeta: Charge -->
+<VPE_MechTurretSTNL.label>projet Zeta : Blaster</VPE_MechTurretSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a charge blaster auto turret and skip it directly to you. -->
+<VPE_MechTurretSTNL.description>Pirate une usine mécanoïde éloignée pour produire une tourelle blaster de charge automatique et vous la fait parvenir directement à l'endroit ciblé.</VPE_MechTurretSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MechTurretSTNL.jobReportString>Utilise la capacité : {0}</VPE_MechTurretSTNL.jobReportString>
+<!-- EN: projet Zeta : Blaster -->
+<VPE_MechTurretSTNL.verbProperties.label>projet Zeta : Blaster</VPE_MechTurretSTNL.verbProperties.label>
+
+<!-- EN: Summon Militor -->
+<VPE_MilitorSummonSTNL.label>invoquer un militoïde</VPE_MilitorSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Militor and skip it directly to you. Bandwidth Cost: 1 (The mechanoid must still be hacked manually.) -->
+<VPE_MilitorSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un militoïde et vous le fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_MilitorSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MilitorSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_MilitorSummonSTNL.jobReportString>
+<!-- EN: invoquer un militoïde -->
+<VPE_MilitorSummonSTNL.verbProperties.label>invoquer un militoïde</VPE_MilitorSummonSTNL.verbProperties.label>
+
+<!-- EN: Project Alpha: Mortar -->
+<VPE_MortarTurretSTNL.label>projet Alpha : Mortier</VPE_MortarTurretSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce an auto mortar and skip it directly to you. -->
+<VPE_MortarTurretSTNL.description>Pirate une usine mécanoïde éloignée pour produire un mortier automatique et vous le fait parvenir directement à l'endroit ciblé.</VPE_MortarTurretSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MortarTurretSTNL.jobReportString>Utilise la capacité : {0}</VPE_MortarTurretSTNL.jobReportString>
+<!-- EN: projet Alpha : Mortier -->
+<VPE_MortarTurretSTNL.verbProperties.label>projet Alpha : Mortier</VPE_MortarTurretSTNL.verbProperties.label>
+
+<!-- EN: Optimize Mech -->
+<VPE_OverdriveSTNL.label>optimiser mech</VPE_OverdriveSTNL.label>
+<!-- EN: Psychically rewrite the code of the mechanoid's internal subroutines to remove unnecessary safety measures, allowing the mechanoid to move and fight faster. -->
+<VPE_OverdriveSTNL.description>Réécrit psychiquement le code des sous-programmes internes du mécanoïde pour supprimer les mesures de sécurité inutiles, ce qui permet au mécanoïde de se déplacer et de se battre plus rapidement.</VPE_OverdriveSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_OverdriveSTNL.jobReportString>Utilise la capacité : {0}</VPE_OverdriveSTNL.jobReportString>
+<!-- EN: optimiser mech -->
+<VPE_OverdriveSTNL.verbProperties.label>optimiser mech</VPE_OverdriveSTNL.verbProperties.label>
+
+<!-- EN: Summon Paramedic -->
+<VPE_ParamedicSummonSTNL.label>invoquer un médiktoïde</VPE_ParamedicSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a paramedic and skip it directly to you. Bandwidth Cost: 1 (The mechanoid must still be hacked manually.) -->
+<VPE_ParamedicSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un médiktoïde et vous le fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_ParamedicSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ParamedicSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_ParamedicSummonSTNL.jobReportString>
+<!-- EN: Summon Paramedic -->
+<VPE_ParamedicSummonSTNL.verbProperties.label>invoquer un médiktoïde</VPE_ParamedicSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Pikeman -->
+<VPE_PikemanSummonSTNL.label>invoquer un piquier</VPE_PikemanSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Pikeman and skip it directly to you. Bandwidth Cost: 2 (The mechanoid must still be hacked manually.) -->
+<VPE_PikemanSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un piquier et vous le fait parvenir directement.\nCoût en bande passante : 2 (le mécanoïde devra être piraté manuellement)</VPE_PikemanSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PikemanSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_PikemanSummonSTNL.jobReportString>
+<!-- EN: invoquer un piquier -->
+<VPE_PikemanSummonSTNL.verbProperties.label>invoquer un piquier</VPE_PikemanSummonSTNL.verbProperties.label>
+
+<!-- EN: Reinforce Mech -->
+<VPE_ReinforceSTNL.label>renforcer mech</VPE_ReinforceSTNL.label>
+<!-- EN: Psychically enchant the mechanoid's component with a low energy archite field that reduces the amount of damage taken upon being hit. -->
+<VPE_ReinforceSTNL.description>Enchante psychiquement les composants du mécanoïde avec un champ d'archites à faible énergie qui réduit la quantité de dégâts subis lorsqu'il est touché.</VPE_ReinforceSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ReinforceSTNL.jobReportString>Utilise la capacité : {0}</VPE_ReinforceSTNL.jobReportString>
+<!-- EN: renforcer mech -->
+<VPE_ReinforceSTNL.verbProperties.label>renforcer mech</VPE_ReinforceSTNL.verbProperties.label>
+
+<!-- EN: Summon Scorcher -->
+<VPE_ScorcherSummonSTNL.label>invoquer une fournaise</VPE_ScorcherSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Scorcher and skip it directly to you. Bandwidth Cost: 1 (The mechanoid must still be hacked manually.) -->
+<VPE_ScorcherSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire une fournaise et vous la fait parvenir directement.\nCoût en bande passante : 1 (le mécanoïde devra être piraté manuellement)</VPE_ScorcherSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ScorcherSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_ScorcherSummonSTNL.jobReportString>
+<!-- EN: invoquer une fournaise -->
+<VPE_ScorcherSummonSTNL.verbProperties.label>invoquer une fournaise</VPE_ScorcherSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Scyther -->
+<VPE_ScytherSummonSTNL.label>invoquer un faucheur</VPE_ScytherSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Scyther and skip it directly to you. Bandwidth Cost: 2 (The mechanoid must still be hacked manually.) -->
+<VPE_ScytherSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un faucheur et vous le fait parvenir directement.\nCoût en bande passante : 2 (le mécanoïde devra être piraté manuellement)</VPE_ScytherSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ScytherSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_ScytherSummonSTNL.jobReportString>
+<!-- EN: invoquer un faucheur -->
+<VPE_ScytherSummonSTNL.verbProperties.label>invoquer un faucheur</VPE_ScytherSummonSTNL.verbProperties.label>
+
+<!-- EN: Epsilon Shutdown -->
+<VPE_ShutDownSTNL.label>arrêt Epsilon</VPE_ShutDownSTNL.label>
+<!-- EN: Psychically hack a mechanoid to shut it off. -->
+<VPE_ShutDownSTNL.description>Pirate psychiquement un mécanoïde pour l'éteindre.</VPE_ShutDownSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShutDownSTNL.jobReportString>Utilise la capacité : {0}</VPE_ShutDownSTNL.jobReportString>
+<!-- EN: arrêt Epsilon -->
+<VPE_ShutDownSTNL.verbProperties.label>arrêt Epsilon</VPE_ShutDownSTNL.verbProperties.label>
+
+<!-- EN: Engage Stealth -->
+<VPE_StealthSTNL.label>activer la furtivité</VPE_StealthSTNL.label>
+<!-- EN: Psychically shroud the mechanoid in light-refracting archites, causing it to become virtually invisible. The process cannot be sustained for long though. -->
+<VPE_StealthSTNL.description>Enveloppe psychiquement le mécanoïde d'archites réfractant la lumière, ce qui le rend virtuellement invisible. Le processus ne peut cependant pas durer longtemps.</VPE_StealthSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_StealthSTNL.jobReportString>Utilise la capacité : {0}</VPE_StealthSTNL.jobReportString>
+<!-- EN: activer la furtivité -->
+<VPE_StealthSTNL.verbProperties.label>activer la furtivité</VPE_StealthSTNL.verbProperties.label>
+
+<!-- EN: Summon Tesseron -->
+<VPE_TesseronSummonSTNL.label>invoquer un tesseron</VPE_TesseronSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Tesseron and skip it directly to you. Bandwidth Cost: 3 (The mechanoid must still be hacked manually.) -->
+<VPE_TesseronSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un tesseron et vous le fait parvenir directement.\nCoût en bande passante : 3 (le mécanoïde devra être piraté manuellement)</VPE_TesseronSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_TesseronSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_TesseronSummonSTNL.jobReportString>
+<!-- EN: invoquer un tesseron -->
+<VPE_TesseronSummonSTNL.verbProperties.label>invoquer un tesseron</VPE_TesseronSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Tunneler -->
+<VPE_TunnelerSummonSTNL.label>invoquer un tunnelier</VPE_TunnelerSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid factory to produce a Tunneler and skip it directly to you. Bandwidth Cost: 3. -->
+<VPE_TunnelerSummonSTNL.description>Pirate une usine mécanoïde éloignée pour produire un tunnelier et vous le fait parvenir directement.\nCoût en bande passante : 3 (le mécanoïde devra être piraté manuellement)</VPE_TunnelerSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_TunnelerSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_TunnelerSummonSTNL.jobReportString>
+<!-- EN: Summon Tunneler -->
+<VPE_TunnelerSummonSTNL.verbProperties.label>invoquer un tunnelier</VPE_TunnelerSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon War Queen -->
+<VPE_WarqueenSummonSTNL.label>invoquer une reine de guerre</VPE_WarqueenSummonSTNL.label>
+<!-- EN: Hack a distant mechanoid ship to produce a War Queen and skip it directly to you. Bandwidth Cost: 5 (The mechanoid must still be hacked manually.) -->
+<VPE_WarqueenSummonSTNL.description>Pirate un vaisseau mécanoïde éloigné pour produire une reine de guerre et vous la fait parvenir directement.\nCoût en bande passante : 5 (le mécanoïde devra être piraté manuellement)</VPE_WarqueenSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WarqueenSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_WarqueenSummonSTNL.jobReportString>
+<!-- EN: invoquer une reine de guerre -->
+<VPE_WarqueenSummonSTNL.verbProperties.label>invoquer un reine de guerre</VPE_WarqueenSummonSTNL.verbProperties.label>
+
+
+</LanguageData>

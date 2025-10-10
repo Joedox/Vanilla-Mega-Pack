@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: become a psycaster -->
+<VAspirE_BecomePsycaster.label>devenir psylanceur</VAspirE_BecomePsycaster.label>
+<!-- EN: {0} wants to become acquainted with the psychic powers of psycasters. -->
+<VAspirE_BecomePsycaster.description>{0} souhaite se familiariser avec les pouvoirs psychiques des psylanceurs.</VAspirE_BecomePsycaster.description>
+
+<!-- EN: link with anima tree -->
+<VAspirE_AnimaTreeLink.label>lien avec l'arbre anima</VAspirE_AnimaTreeLink.label>
+<!-- EN: {0} wants to undergo an anima tree linking ritual with them as the main recipient of the boons. -->
+<VAspirE_AnimaTreeLink.description>{0} souhaite se soumettre à un rituel de liaison de l'arbre anima en tant que principal bénéficiaire de ces bienfaits.</VAspirE_AnimaTreeLink.description>
+<!-- EN: {0} links with the anima tree. -->
+<VAspirE_AnimaTreeLink.satisfiedWhenText>{0} établira un lien avec l'arbre anima.</VAspirE_AnimaTreeLink.satisfiedWhenText>
+
+<!-- EN: hear anima scream -->
+<VAspirE_HearAnimaScream.label>entendre le hurlement de l'anima</VAspirE_HearAnimaScream.label>
+<!-- EN: {0} wants to hear the screams of a dying anima tree. -->
+<VAspirE_HearAnimaScream.description>{0} souhaite entendre les hurlements d'un arbre anima mourant.</VAspirE_HearAnimaScream.description>
+
+<!-- EN: become noble -->
+<VAspirE_BecomeNoble.label>devenir noble</VAspirE_BecomeNoble.label>
+<!-- EN: {0} wants to join the imperial great hierarchy. -->
+<VAspirE_BecomeNoble.description>{0} souhaite rejoindre la grande hiérarchie impériale.</VAspirE_BecomeNoble.description>
+<!-- EN: {0} becomes at least Yeoman. -->
+<VAspirE_BecomeNoble.satisfiedWhenText>{0} obtiendra au moins le titre de mandataire.</VAspirE_BecomeNoble.satisfiedWhenText>
+
+<!-- EN: wield bladelink weapon -->
+<VAspirE_WieldBladelink.label>manier une arme consciente</VAspirE_WieldBladelink.label>
+<!-- EN: {0} would like to bond with a bladelink weapon. -->
+<VAspirE_WieldBladelink.description>{0} souhaite se lier avec une arme consciente.</VAspirE_WieldBladelink.description>
+<!-- EN: {0} psychically bonds with a bladelink weapon. -->
+<VAspirE_WieldBladelink.satisfiedWhenText>{0} se liera psychiquement à une arme consciente.</VAspirE_WieldBladelink.satisfiedWhenText>
+
+<!-- EN: attend an inspirational throne speech -->
+<VAspirE_AttendSpeech.label>assister à un discours du trône inspirant</VAspirE_AttendSpeech.label>
+<!-- EN: {0} wants to be there when an inspirational speech is given. -->
+<VAspirE_AttendSpeech.description>{0} souhaite être présent lors d'un discours inspirant.</VAspirE_AttendSpeech.description>
+
+<!-- EN: gain a level five psycast -->
+<VAspirE_GainALevel5Psycast.label>obtenir un psysort de niveau 5</VAspirE_GainALevel5Psycast.label>
+<!-- EN: {0} would like to gain access to a psycast of the fifth level. -->
+<VAspirE_GainALevel5Psycast.description>{0} souhaite avoir accès à un psysort de niveau 5.</VAspirE_GainALevel5Psycast.description>
+
+<!-- EN: held a concert -->
+<VAspirE_HeldConcert.label>organiser un concert</VAspirE_HeldConcert.label>
+<!-- EN: {0} would like to hold a concert for other colonists. -->
+<VAspirE_HeldConcert.description>{0} souhaite organiser un concert pour les autres colons.</VAspirE_HeldConcert.description>
+
+<!-- EN: destroy a mech cluster -->
+<VAspirE_DestroyCluster.label>détruire un groupe de mécanoïdes</VAspirE_DestroyCluster.label>
+<!-- EN: {0} wants to completely destroy a mech cluster. -->
+<VAspirE_DestroyCluster.description>{0} souhaite détruire complètement un groupe de mécanoïdes.</VAspirE_DestroyCluster.description>
+
+
+</LanguageData>

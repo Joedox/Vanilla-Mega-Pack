@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: centurion armor -->
+<VFEC_CenturionArmor.label>armure de centurion</VFEC_CenturionArmor.label>
+<!-- EN: The prescence of centurion armor encourages nearby allied fighters to fight through pain. -->
+<VFEC_CenturionArmor.description>La présence d'une armure de centurion encourage les combattants alliés proches à se battre malgré la douleur.</VFEC_CenturionArmor.description>
+
+<!-- EN: centurion armor buff -->
+<VFEC_CenturionArmorBuff.label>effet : armure de centurion</VFEC_CenturionArmorBuff.label>
+<!-- EN: The ability to withstand pain is increased thanks to being near someone wearing centurion armor. -->
+<VFEC_CenturionArmorBuff.description>La capacité à résister à la douleur est augmentée grâce à la proximité d'une personne portant une armure de centurion.</VFEC_CenturionArmorBuff.description>
+
+
+<!-- EN: opium addiction -->
+<VFEC_OpiumAddiction.label>addiction à l'opium</VFEC_OpiumAddiction.label>
+<!-- EN: A chemical addiction to opium. Long-term presence of opium has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of opium, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+<VFEC_OpiumAddiction.description>Une dépendance chimique à l'opium. La présence à long terme de l'opium a provoqué des modifications neurologiques au niveau cellulaire, de sorte que le cerveau ne peut plus fonctionner correctement sans cette drogue.\n\nSans doses régulières d'opium, les symptômes de sevrage commenceront. Cependant, une abstinence prolongée forcera le cerveau à s'adapter pour revenir à son état normal, ce qui supprimera la dépendance.</VFEC_OpiumAddiction.description>
+<!-- EN: withdrawal -->
+<VFEC_OpiumAddiction.stages.withdrawal.label>sevrage</VFEC_OpiumAddiction.stages.withdrawal.label>
+
+<!-- EN: high on opium -->
+<VFEC_OpiumHigh.label>défoncé à l'opium</VFEC_OpiumHigh.label>
+<!-- EN: Active opium in the bloodstream. Dulls out pain completely. -->
+<VFEC_OpiumHigh.description>Opium présent dans le sang. Il atténue complètement la douleur.</VFEC_OpiumHigh.description>
+<!-- EN: an opium high -->
+<VFEC_OpiumHigh.labelNoun>sous l'emprise de l'opium</VFEC_OpiumHigh.labelNoun>
+
+<!-- EN: opium tolerance -->
+<VFEC_OpiumTolerance.label>tolérance à l'opium</VFEC_OpiumTolerance.label>
+<!-- EN: A built-up tolerance to opium. The more severe this tolerance is, the more opium it takes to get the same effect. -->
+<VFEC_OpiumTolerance.description>Une tolérance accumulée à l'opium. Plus cette tolérance est importante, plus il faut d'opium pour obtenir le même effet.</VFEC_OpiumTolerance.description>
+<!-- EN: small -->
+<VFEC_OpiumTolerance.stages.small.label>insignifiante</VFEC_OpiumTolerance.stages.small.label>
+<!-- EN: large -->
+<VFEC_OpiumTolerance.stages.large.label>forte</VFEC_OpiumTolerance.stages.large.label>
+<!-- EN: massive -->
+<VFEC_OpiumTolerance.stages.massive.label>très forte</VFEC_OpiumTolerance.stages.massive.label>
+
+
+</LanguageData>

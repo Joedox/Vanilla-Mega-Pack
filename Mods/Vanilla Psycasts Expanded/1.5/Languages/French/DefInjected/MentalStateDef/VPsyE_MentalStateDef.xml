@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: sad wandering -->
+<VPE_Wander_Sad.label>mélancolique</VPE_Wander_Sad.label>
+<!-- EN: Mental state: Sad wandering -->
+<VPE_Wander_Sad.baseInspectLine>État mental : mélancolique</VPE_Wander_Sad.baseInspectLine>
+<!-- EN: {0} has broken down and is wandering around in sadness. -->
+<VPE_Wander_Sad.beginLetter>{0} erre, frapp{PAWN_gender ? é : ée : é(e)} de mélancolie.</VPE_Wander_Sad.beginLetter>
+<!-- EN: sad wander -->
+<VPE_Wander_Sad.beginLetterLabel>erre tristement</VPE_Wander_Sad.beginLetterLabel>
+<!-- EN: {0} is no longer wandering in sadness. -->
+<VPE_Wander_Sad.recoveryMessage>{0} n'erre plus dans un état mélancolique.</VPE_Wander_Sad.recoveryMessage>
+
+<!-- EN: fleeing -->
+<VPE_Flee.label>s'enfuit</VPE_Flee.label>
+<!-- EN: Mental state: Fleeing -->
+<VPE_Flee.baseInspectLine>État mental : s'enfuit</VPE_Flee.baseInspectLine>
+<!-- EN: {0} is fleeing. -->
+<VPE_Flee.beginLetter>{0} s'enfuit.</VPE_Flee.beginLetter>
+<!-- EN: flee -->
+<VPE_Flee.beginLetterLabel>s'enfuir</VPE_Flee.beginLetterLabel>
+<!-- EN: {0} is no longer fleeing. -->
+<VPE_Flee.recoveryMessage>{0} ne s'enfuit plus.</VPE_Flee.recoveryMessage>
+
+<!-- EN: rage -->
+<VPE_Manhunter.label>rage</VPE_Manhunter.label>
+<!-- EN: Raging -->
+<VPE_Manhunter.baseInspectLine>Enragé</VPE_Manhunter.baseInspectLine>
+<!-- EN: {0} is raging! -->
+<VPE_Manhunter.beginLetter>{0} est enrag{0_gender ? é : ée : é(e)} !</VPE_Manhunter.beginLetter>
+<!-- EN: {0}'s rage has come to an end. -->
+<VPE_Manhunter.recoveryMessage>La rage de {0} a pris fin.</VPE_Manhunter.recoveryMessage>
+
+<!-- EN: territorial manhunter -->
+<VPE_ManhunterTerritorial.label>territoire chasse à l'homme</VPE_ManhunterTerritorial.label>
+<!-- EN: Maddened: Territorial Manhunter -->
+<VPE_ManhunterTerritorial.baseInspectLine>Folie : territoire chasse à l'homme</VPE_ManhunterTerritorial.baseInspectLine>
+<!-- EN: {0} has become a territorial manhunter! -->
+<VPE_ManhunterTerritorial.beginLetter>{0} est deven{0_gender ? u : ue : u(e)} territoire chasse à l'homme !</VPE_ManhunterTerritorial.beginLetter>
+<!-- EN: {0}'s territorial defense instincts have come to an end. -->
+<VPE_ManhunterTerritorial.recoveryMessage>Les instincts de défense du territoire de {0} ont pris fin.</VPE_ManhunterTerritorial.recoveryMessage>
+
+
+</LanguageData>

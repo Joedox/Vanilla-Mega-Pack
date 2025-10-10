@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: mead high -->
+<VFEM2_MeadAlcoholHigh.label>hydromel</VFEM2_MeadAlcoholHigh.label>
+<!-- EN: Mead in the bloodstream. It makes people happy, but reduces capacities. Slightly reduces psychic sensitivity. -->
+<VFEM2_MeadAlcoholHigh.description>Hydromel dans le sang. Il rend les gens heureux, mais réduit leurs capacités. Il réduit légèrement la sensibilité psychique.</VFEM2_MeadAlcoholHigh.description>
+<!-- EN: a mead high -->
+<VFEM2_MeadAlcoholHigh.labelNoun>une stimulation à l'hydromel</VFEM2_MeadAlcoholHigh.labelNoun>
+<!-- EN: warm -->
+<VFEM2_MeadAlcoholHigh.stages.warm.label>gai</VFEM2_MeadAlcoholHigh.stages.warm.label>
+<!-- EN: tipsy -->
+<VFEM2_MeadAlcoholHigh.stages.tipsy.label>éméché</VFEM2_MeadAlcoholHigh.stages.tipsy.label>
+<!-- EN: drunk -->
+<VFEM2_MeadAlcoholHigh.stages.drunk.label>pompette</VFEM2_MeadAlcoholHigh.stages.drunk.label>
+<!-- EN: hammered -->
+<VFEM2_MeadAlcoholHigh.stages.hammered.label>ivre</VFEM2_MeadAlcoholHigh.stages.hammered.label>
+<!-- EN: blackout -->
+<VFEM2_MeadAlcoholHigh.stages.blackout.label>ivre mort</VFEM2_MeadAlcoholHigh.stages.blackout.label>
+
+
+<!-- EN: wine -->
+<VFEM2_WineAlcoholHigh.label>vin</VFEM2_WineAlcoholHigh.label>
+<!-- EN: Wine in the bloodstream. It makes people happy and more psychically sensitive, but reduces capacities. -->
+<VFEM2_WineAlcoholHigh.description>Vin dans le sang. Il rend les gens heureux et plus sensibles psychiquement, mais réduit leurs capacités.</VFEM2_WineAlcoholHigh.description>
+<!-- EN: wine drunkenness -->
+<VFEM2_WineAlcoholHigh.labelNoun>une ivresse au vin</VFEM2_WineAlcoholHigh.labelNoun>
+<!-- EN: warm -->
+<VFEM2_WineAlcoholHigh.stages.warm.label>gai</VFEM2_WineAlcoholHigh.stages.warm.label>
+<!-- EN: tipsy -->
+<VFEM2_WineAlcoholHigh.stages.tipsy.label>éméché</VFEM2_WineAlcoholHigh.stages.tipsy.label>
+<!-- EN: drunk -->
+<VFEM2_WineAlcoholHigh.stages.drunk.label>pompette</VFEM2_WineAlcoholHigh.stages.drunk.label>
+<!-- EN: hammered -->
+<VFEM2_WineAlcoholHigh.stages.hammered.label>ivre</VFEM2_WineAlcoholHigh.stages.hammered.label>
+<!-- EN: blackout -->
+<VFEM2_WineAlcoholHigh.stages.blackout.label>ivre mort</VFEM2_WineAlcoholHigh.stages.blackout.label>
+
+
+<!-- EN: hemogen draught -->
+<VFEM2_HemogenDraught.label>breuvage d'hémogène</VFEM2_HemogenDraught.label>
+<!-- EN: A draught is improving all traits and abilities of the hemogenic user, as well as replenishes the hemogen over time. -->
+<VFEM2_HemogenDraught.description>Un breuvage améliorant toutes les caractéristiques et capacités de l'utilisateur d'hémogène, ainsi que la restauration d'hémogène au fil du temps.</VFEM2_HemogenDraught.description>
+<!-- EN: fading -->
+<VFEM2_HemogenDraught.stages.fading.label>s'estompe</VFEM2_HemogenDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_HemogenDraught.stages.potent.label>puissant</VFEM2_HemogenDraught.stages.potent.label>
+
+<!-- EN: hemogen draught -->
+<VFEM2_HemogenDraughtDumbHediff.label>breuvage d'hémogène</VFEM2_HemogenDraughtDumbHediff.label>
+<!-- EN: A draught is improving all traits and abilities of the hemogenic user, as well as replenishes the hemogen over time. -->
+<VFEM2_HemogenDraughtDumbHediff.description>Un breuvage améliorant toutes les caractéristiques et capacités de l'utilisateur d'hémogène, ainsi que la restauration d'hémogène au fil du temps.</VFEM2_HemogenDraughtDumbHediff.description>
+
+
+<!-- EN: clarity draught -->
+<VFEM2_ClarityDraught.label>breuvage de lucidité</VFEM2_ClarityDraught.label>
+<!-- EN: A draught is improving psychic sensitivity of the user, improving their meditation capabilities. -->
+<VFEM2_ClarityDraught.description>Un breuvage améliorant la sensibilité psychique de l'utilisateur, améliorant ses capacités de méditation.</VFEM2_ClarityDraught.description>
+<!-- EN: fading -->
+<VFEM2_ClarityDraught.stages.fading.label>s'estompe</VFEM2_ClarityDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_ClarityDraught.stages.potent.label>puissant</VFEM2_ClarityDraught.stages.potent.label>
+
+
+<!-- EN: amnesia draught -->
+<VFEM2_AmnesiaDraught.label>breuvage d'amnésie</VFEM2_AmnesiaDraught.label>
+<!-- EN: A draught is causing the user to quickly lose memory, resulting in both negative and positive memories lasting significantly shorter. -->
+<VFEM2_AmnesiaDraught.description>Un breuvage provoquant une perte rapide de la mémoire de l'utilisateur, les souvenirs négatifs et positifs durent beaucoup moins longtemps.</VFEM2_AmnesiaDraught.description>
+<!-- EN: fading -->
+<VFEM2_AmnesiaDraught.stages.fading.label>s'estompe</VFEM2_AmnesiaDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_AmnesiaDraught.stages.potent.label>puissant</VFEM2_AmnesiaDraught.stages.potent.label>
+
+<!-- EN: antitox draught -->
+<VFEM2_AntitoxDraught.label>breuvage antitoxique</VFEM2_AntitoxDraught.label>
+<!-- EN: A draught is improving the toxic resistance of the user. -->
+<VFEM2_AntitoxDraught.description>Un breuvage améliorant la résistance toxique de l'utilisateur.</VFEM2_AntitoxDraught.description>
+<!-- EN: fading -->
+<VFEM2_AntitoxDraught.stages.fading.label>s'estompe</VFEM2_AntitoxDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_AntitoxDraught.stages.potent.label>puissant</VFEM2_AntitoxDraught.stages.potent.label>
+
+<!-- EN: coma draught -->
+<VFEM2_ComaDraught.label>breuvage de coma</VFEM2_ComaDraught.label>
+<!-- EN: A draught is putting the user in a chemically induced coma that slows down their metabolism greatly. -->
+<VFEM2_ComaDraught.description>Un breuvage plongeant l'utilisateur dans un coma chimique qui ralentit considérablement son métabolisme.</VFEM2_ComaDraught.description>
+<!-- EN: fading -->
+<VFEM2_ComaDraught.stages.fading.label>s'estompe</VFEM2_ComaDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_ComaDraught.stages.potent.label>puissant</VFEM2_ComaDraught.stages.potent.label>
+
+<!-- EN: efficiency draught -->
+<VFEM2_EfficiencyDraught.label>breuvage d'efficacité</VFEM2_EfficiencyDraught.label>
+<!-- EN: A draught is improving global workspeed of the user while also simultaneously slowing down their energy loss at the cost of increased chance of a heart attack. At the end of the potent duration, the user receives a major sleep fall rate increase. -->
+<VFEM2_EfficiencyDraught.description>Un breuvage améliorant la vitesse générale de travail de l'utilisateur tout en ralentissant simultanément sa perte d'énergie, au prix d'un risque accru de crise cardiaque. À la fin de la durée de l'effet, l'utilisateur bénéficie d'une augmentation importante du taux de sommeil.</VFEM2_EfficiencyDraught.description>
+<!-- EN: fading -->
+<VFEM2_EfficiencyDraught.stages.fading.label>s'estompe</VFEM2_EfficiencyDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_EfficiencyDraught.stages.potent.label>puissant</VFEM2_EfficiencyDraught.stages.potent.label>
+
+<!-- EN: fertility draught -->
+<VFEM2_FertilityDraught.label>breuvage de fécondité</VFEM2_FertilityDraught.label>
+<!-- EN: A draught is artificially increasing the fertility of the user. The slight boost to fertility will allow even infertile people to have a chance to become parents. -->
+<VFEM2_FertilityDraught.description>Un breuvage augmentant artificiellement la fertilité de l'utilisateur. La légère augmentation de la fertilité permettra même aux personnes stériles d'avoir une chance de devenir parents.</VFEM2_FertilityDraught.description>
+<!-- EN: fading -->
+<VFEM2_FertilityDraught.stages.fading.label>s'estompe</VFEM2_FertilityDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_FertilityDraught.stages.potent.label>puissant</VFEM2_FertilityDraught.stages.potent.label>
+
+<!-- EN: focus draught -->
+<VFEM2_FocusDraught.label>breuvage de concentration</VFEM2_FocusDraught.label>
+<!-- EN: A draught is increasing the capability of the user to learn, allowing them to gain more knowledge, eat faster, rest quicker and gain more psyfocus while potent. The effects are reversed when the draught is fading. -->
+<VFEM2_FocusDraught.description>Un breuvage augmentant la capacité d'apprentissage de l'utilisateur, lui permettant d'acquérir plus de connaissances, de manger plus vite, de se reposer plus rapidement et d'acquérir plus de concentration psychique pendant l'effet puissant. Les effets sont inversés lorsque le breuvage s'estompe.</VFEM2_FocusDraught.description>
+<!-- EN: fading -->
+<VFEM2_FocusDraught.stages.fading.label>s'estompe</VFEM2_FocusDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_FocusDraught.stages.potent.label>puissant</VFEM2_FocusDraught.stages.potent.label>
+
+<!-- EN: healing draught -->
+<VFEM2_HealingDraught.label>breuvage de guérison</VFEM2_HealingDraught.label>
+<!-- EN: A draught is improving this person’s natural wound regeneration, making them able to heal from wounds significantly faster than normal. -->
+<VFEM2_HealingDraught.description>Un breuvage améliorant la régénération naturelle des plaies de cette personne, la rend capable de guérir de ses blessures beaucoup plus rapidement que la normale.</VFEM2_HealingDraught.description>
+<!-- EN: fading -->
+<VFEM2_HealingDraught.stages.fading.label>s'estompe</VFEM2_HealingDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_HealingDraught.stages.potent.label>puissant</VFEM2_HealingDraught.stages.potent.label>
+
+<!-- EN: immunization draught -->
+<VFEM2_ImmunizationDraught.label>breuvage immunitaire</VFEM2_ImmunizationDraught.label>
+<!-- EN: A draught is improving this person’s immune system, making them more capable of fighting off diseases and infections at the cost of making them more sleepy. -->
+<VFEM2_ImmunizationDraught.description>Un breuvage améliorant le système immunitaire de cette personne, la rend plus apte à lutter contre les maladies et les infections, au prix d'une plus grande fatigue.</VFEM2_ImmunizationDraught.description>
+<!-- EN: fading -->
+<VFEM2_ImmunizationDraught.stages.fading.label>s'estompe</VFEM2_ImmunizationDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_ImmunizationDraught.stages.potent.label>puissant</VFEM2_ImmunizationDraught.stages.potent.label>
+
+<!-- EN: inspiration draught -->
+<VFEM2_InspirationDraught.label>breuvage d'inspiration</VFEM2_InspirationDraught.label>
+<!-- EN: A draught is providing the user with mental clarity, allowing them to focus on gaining new knowledge in skills they are passionate about at the cost of diminished combat capabilities. -->
+<VFEM2_InspirationDraught.description>Un breuvage procurant à l'utilisateur une clarté mentale qui lui permet de se concentrer sur l'acquisition de nouvelles connaissances dans des domaines qui le passionnent, au prix d'une diminution de ses capacités de combat.</VFEM2_InspirationDraught.description>
+<!-- EN: fading -->
+<VFEM2_InspirationDraught.stages.fading.label>s'estompe</VFEM2_InspirationDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_InspirationDraught.stages.potent.label>puissant</VFEM2_InspirationDraught.stages.potent.label>
+
+<!-- EN: painkiller draught -->
+<VFEM2_PainkillerDraught.label>breuvage d'antidouleur</VFEM2_PainkillerDraught.label>
+<!-- EN: A draught is stopping the user from feeling pain at the cost of lowering their focus and productivity greatly. -->
+<VFEM2_PainkillerDraught.description>Un breuvage empêchant l'utilisateur de ressentir de la douleur au prix d'une baisse considérable de sa concentration et de sa productivité.</VFEM2_PainkillerDraught.description>
+<!-- EN: fading -->
+<VFEM2_PainkillerDraught.stages.fading.label>s'estompe</VFEM2_PainkillerDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_PainkillerDraught.stages.potent.label>puissant</VFEM2_PainkillerDraught.stages.potent.label>
+
+<!-- EN: poison draught -->
+<VFEM2_PoisonDraught.label>breuvage de poison</VFEM2_PoisonDraught.label>
+<!-- EN: A draught is shutting down the user, reducing their consciousness into a state of chemically inducing coma that causes organ decay and will inevitably lead to death. -->
+<VFEM2_PoisonDraught.description>Un breuvage provoquant l'arrêt de l'utilisateur, réduisant sa conscience à un état de coma chimique provoquant la dégradation des organes et conduisant inévitablement à la mort.</VFEM2_PoisonDraught.description>
+<!-- EN: potent -->
+<VFEM2_PoisonDraught.stages.potent.label>puissant</VFEM2_PoisonDraught.stages.potent.label>
+<!-- EN: final -->
+<VFEM2_PoisonDraught.stages.final.label>final</VFEM2_PoisonDraught.stages.final.label>
+
+<!-- EN: poison draught -->
+<VFEM2_PoisonDraughtDumbHediff.label>breuvage de poison</VFEM2_PoisonDraughtDumbHediff.label>
+<!-- EN: A draught is shutting down the user, reducing their consciousness into a state of chemically inducing coma that causes organ decay and will inevitably lead to death. -->
+<VFEM2_PoisonDraughtDumbHediff.description>Un breuvage provoquant l'arrêt de l'utilisateur, réduisant sa conscience à un état de coma chimique provoquant la dégradation des organes et conduisant inévitablement à la mort.</VFEM2_PoisonDraughtDumbHediff.description>
+
+<!-- EN: stoneskin draught -->
+<VFEM2_StoneskinDraught.label>breuvage blindant</VFEM2_StoneskinDraught.label>
+<!-- EN: A draught is transforming the user's skin into a built-in suit of armor. The whole epidermis thickens and hardens to resist burns, while jointed exterior keratin plates form everywhere they can - including the head and face. While it's very difficult to physically hurt someone under the effects of this draught, the plates and hard skin significantly reduces the user's physical attractiveness. -->
+<VFEM2_StoneskinDraught.description>Un breuvage transformant la peau de l'utilisateur en une armure intégrée. L'épiderme entier s'épaissit et se durcit pour résister aux brûlures, tandis que des plaques de kératine extérieures articulées se forment partout où elles peuvent, y compris sur la tête et le visage. Bien qu'il soit très difficile de blesser physiquement quelqu'un sous l'effet de ce breuvage, les plaques et la peau dure réduisent considérablement l'attrait physique de l'utilisateur.</VFEM2_StoneskinDraught.description>
+<!-- EN: fading -->
+<VFEM2_StoneskinDraught.stages.fading.label>s'estompe</VFEM2_StoneskinDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_StoneskinDraught.stages.potent.label>puissant</VFEM2_StoneskinDraught.stages.potent.label>
+
+<!-- EN: strength draught -->
+<VFEM2_StrengthDraught.label>breuvage de force</VFEM2_StrengthDraught.label>
+<!-- EN: A draught is improving strength and reflexes of the user, improving their combat capabilities at the cost of increased social fight chance and higher mental break threshold. -->
+<VFEM2_StrengthDraught.description>Un breuvage améliorant la force et les réflexes de l'utilisateur, améliorant ses capacités de combat au prix d'une augmentation des chances de combat social et d'un seuil de crises de nerfs plus élevé.</VFEM2_StrengthDraught.description>
+<!-- EN: fading -->
+<VFEM2_StrengthDraught.stages.fading.label>s'estompe</VFEM2_StrengthDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_StrengthDraught.stages.potent.label>puissant</VFEM2_StrengthDraught.stages.potent.label>
+
+<!-- EN: torturer draught -->
+<VFEM2_TorturerDraught.label>breuvage de torture</VFEM2_TorturerDraught.label>
+<!-- EN: A draught is causing severe pain to the user, making them unable to even move. If they are a prisoner, they will rapidly lose their resistance, and if they are a slave, they will be fully suppressed. -->
+<VFEM2_TorturerDraught.description>Un breuvage provoquant une douleur intense chez l'utilisateur, l'empêchant même de bouger. S'il est prisonnier, il perdra rapidement sa résistance, et s'il est esclave, il sera complètement asservi.</VFEM2_TorturerDraught.description>
+<!-- EN: fading -->
+<VFEM2_TorturerDraught.stages.fading.label>s'estompe</VFEM2_TorturerDraught.stages.fading.label>
+<!-- EN: potent -->
+<VFEM2_TorturerDraught.stages.potent.label>puissant</VFEM2_TorturerDraught.stages.potent.label>
+
+
+<!-- EN: rally aura -->
+<VFEM_RallyAuraBuffHediff.label>aura de ralliement</VFEM_RallyAuraBuffHediff.label>
+<!-- EN: Rallying aura that prevents mental breaks. -->
+<VFEM_RallyAuraBuffHediff.description>Aura de ralliement qui empêche les crises de nerfs.</VFEM_RallyAuraBuffHediff.description>
+
+<!-- EN: rally -->
+<VFEM_RallyWearerHediff.label>ralliement</VFEM_RallyWearerHediff.label>
+<!-- EN: Aura that rallies everyone nearby, stopping their mental breaks and preventing them from breaking again. -->
+<VFEM_RallyWearerHediff.description>Aura qui rallie tous ceux qui se trouvent à proximité, stoppant leurs crises de nerfs et les empêchant dans refaire une.</VFEM_RallyWearerHediff.description>
+
+
+<!-- EN: sting -->
+<VFEM2_Sting.label>piqûre</VFEM2_Sting.label>
+<!-- EN: A hurtful bee sting. -->
+<VFEM2_Sting.description>Une piqûre d'abeille douloureuse.</VFEM2_Sting.description>
+<!-- EN: sting scar -->
+<VFEM2_Sting.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de piqûre</VFEM2_Sting.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- EN: a bee sting -->
+<VFEM2_Sting.labelNoun>une piqûre d'abeille</VFEM2_Sting.labelNoun>
+<!-- EN: {0} in the {1} -->
+<VFEM2_Sting.labelNounPretty>une {0} au/à la {1}</VFEM2_Sting.labelNounPretty>
+
+
+<!-- EN: plague mask -->
+<VFEM2_PlagueMask.label>masque de peste</VFEM2_PlagueMask.label>
+<!-- EN: Plague mask prevents the wearer from catching plague. -->
+<VFEM2_PlagueMask.description>Le masque de peste empêche le porteur d'attraper la peste.</VFEM2_PlagueMask.description>
+
+
+</LanguageData>

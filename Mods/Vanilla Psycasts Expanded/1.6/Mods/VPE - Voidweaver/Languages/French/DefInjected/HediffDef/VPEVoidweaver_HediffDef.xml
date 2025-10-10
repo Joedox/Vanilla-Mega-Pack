@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Immune To Pain -->
+<NopainanomalySTNL.label>immunité à la douleur</NopainanomalySTNL.label>
+<!-- EN: I'm immune to pain, and you shouldn't see this. -->
+<NopainanomalySTNL.description>Je suis immunisé contre la douleur, et vous ne devriez pas voir ça.</NopainanomalySTNL.description>
+<!-- EN: I'm immune to pain, and you shouldn't see this. -->
+<NopainanomalySTNL.descriptionShort>Je suis immunisé contre la douleur, et vous ne devriez pas voir ça.</NopainanomalySTNL.descriptionShort>
+
+<!-- EN: Proto-Horror -->
+<ProtometalhorrorSTNL.label>proto-horreur</ProtometalhorrorSTNL.label>
+<!-- EN: This person has been mutated into a being that is half human half metalhorror, they also possess the ability to cut down enemies thanks to their new nature. -->
+<ProtometalhorrorSTNL.description>Cette personne a été transformée en un être mi-humain mi-horreur métallique. Grâce à sa nouvelle nature, elle a également la capacité d'abattre ses ennemis.</ProtometalhorrorSTNL.description>
+<!-- EN: Metal blade -->
+<ProtometalhorrorSTNL.comps.HediffComp_VerbGiver.tools.Metal_blade.label>lame métallique</ProtometalhorrorSTNL.comps.HediffComp_VerbGiver.tools.Metal_blade.label>
+<!-- EN: This person has been mutated into a being that is half human half metalhorror, they also possess the ability to cut down enemies thanks to their new nature. -->
+<ProtometalhorrorSTNL.descriptionShort>Cette personne a été transformée en un être mi-humain mi-horreur métallique. Grâce à sa nouvelle nature, elle a également la capacité d'abattre ses ennemis.</ProtometalhorrorSTNL.descriptionShort>
+<!-- EN: Metalhorror Body -->
+<ProtometalhorrorSTNL.renderNodeProperties.0.debugLabel>corps d'horreur métallique</ProtometalhorrorSTNL.renderNodeProperties.0.debugLabel>
+
+<!-- EN: Void-Link -->
+<VoidLinkSTNL.label>lien du néant</VoidLinkSTNL.label>
+<!-- EN: This person has been linked to the void. It lives within them, guiding their actions and twisting their flesh. They no longer need comfort. -->
+<VoidLinkSTNL.description>Cette personne est liée au néant. Il vit en elle, guidant ses actions et tordant sa chair. Elle n'a plus besoin de confort.</VoidLinkSTNL.description>
+
+<!-- EN: Ensnared! -->
+<VoidsnareSTNL.label>piégé !</VoidsnareSTNL.label>
+<!-- EN: This creature's mobility is greatly reduced due to void tentacles slowing them down. -->
+<VoidsnareSTNL.description>La mobilité de cette créature est drastiquement réduite en raison des tentacules du néant qui la ralentissent.</VoidsnareSTNL.description>
+<!-- EN: This creature's mobility is greatly reduced due to void tentacles slowing them down. -->
+<VoidsnareSTNL.descriptionShort>La mobilité de cette créature est drastiquement réduite en raison des tentacules du néant qui la ralentissent.</VoidsnareSTNL.descriptionShort>
+
+
+</LanguageData>

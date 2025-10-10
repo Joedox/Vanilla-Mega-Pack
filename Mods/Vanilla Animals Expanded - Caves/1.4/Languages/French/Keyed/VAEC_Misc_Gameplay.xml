@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Misc -->
+
+<VAE_HulkBloodlust>Une brute insectoïde en chasse est entrée dans un état de Soif de sang à proximité. Faites attention !</VAE_HulkBloodlust>
+<VAE_HulkRips>Une brute insectoïde enragée a arraché {1} de {0} !</VAE_HulkRips>
+<VAE_LetterLabelInsectoidHulk>La plus bestiale des bêtes</VAE_LetterLabelInsectoidHulk>
+<VAE_LetterInsectoidHulk>Une brute insectoïde déchaînée est à proximité !\n\nAccompagnée d'insectoïdes hostiles, cette créature a la capacité de faire tomber les murs et les portes si elle s'en approche. Elle tentera d'attaquer votre colonie et engagera vos colons dans un combat rapproché très dangereux.</VAE_LetterInsectoidHulk>
+<VAE_OpenCocoon>Ouvrir le cocon</VAE_OpenCocoon>
+<VAE_OpenCocoonDesc>Ouvrir le cocon pour libérer un colon ou un animal piégé.</VAE_OpenCocoonDesc>
+<VAE_Scheduled>Ce cocon a été planifié pour être ouvert par un colon</VAE_Scheduled>
+<VAE_CocoonHurt>L'occupant de ce cocon est blessé, ouvrez vite le cocon pour éviter d'autres blessures !</VAE_CocoonHurt>
+<VAE_CocoonCritical>L'occupant de ce cocon est gravement blessé, ouvrez le cocon rapidement pour éviter d'autres blessures !</VAE_CocoonCritical>
+<VAE_CocoonDeath>L'occupant de ce cocon est mort</VAE_CocoonDeath>
+<VAE_EggsHatchIn>Les œufs d'araignée vont éclore dans : {0}</VAE_EggsHatchIn>
+<VAE_AnimalSpawnMultiplier>VAE - Multiplicateur du nombre d'apparitions dans les grottes</VAE_AnimalSpawnMultiplier>
+<VAE_AnimalSpawnMultiplierTooltip>Ce multiplicateur affectera les changements d’apparition (points communs) de TOUS les animaux de ce mod. Par exemple, s'il est réglé sur 0,5, les animaux du mod apparaîtront deux fois moins que la valeur par défaut (qui est de 1). S'il est réglé sur 2, il y en aura deux fois plus que la valeur par défaut, et ainsi de suite. Cela n'affecte que les apparitions sauvages.</VAE_AnimalSpawnMultiplierTooltip>
+<VAE_Reset>Réinitialiser multiplicateur</VAE_Reset>
+<VAE_ArachnophobiaMode>Mode arachnophobie : supprimer les pattes des araignées sur le visuel</VAE_ArachnophobiaMode>
+<VAE_InsectoidHulkDisabled>Désactiver l'incident "La plus bestiale des bêtes" (assaut brute insectoïde)</VAE_InsectoidHulkDisabled>
+
+
+
+
+</LanguageData>

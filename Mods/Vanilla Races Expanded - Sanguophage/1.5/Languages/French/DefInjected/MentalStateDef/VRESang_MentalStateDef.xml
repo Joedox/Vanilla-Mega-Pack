@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_Hemohunter.label>chasseur d'hémogène</VRE_Hemohunter.label>
+<VRE_Hemohunter.baseInspectLine>État mental : Chasseur d'hémogène</VRE_Hemohunter.baseInspectLine>
+<VRE_Hemohunter.beginLetter>{0} est devenu un chasseur d'hémogène !\n\n[PAWN_pronoun] draine l'hémogène de tous ceux qu'[PAWN_pronoun] voit, jusqu'à ce que son taux d'hémogène atteigne un niveau acceptable.</VRE_Hemohunter.beginLetter>
+<VRE_Hemohunter.recoveryMessage>L'état chasseur d'hémogène de {0} a pris fin.</VRE_Hemohunter.recoveryMessage>
+
+
+</LanguageData>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<AP_PropCategory_Floors.label>sols</AP_PropCategory_Floors.label>
+<AP_PropCategory_Floors.description>Des sols qui sont utilisés purement à des fins décoratives.</AP_PropCategory_Floors.description>
+
+<AP_PropCategory_Walls.label>murs</AP_PropCategory_Walls.label>
+<AP_PropCategory_Walls.description>Des murs qui sont utilisés principalement à des fins décoratives.</AP_PropCategory_Walls.description>
+
+<VFE_PropCategory_Structures.label>structures</VFE_PropCategory_Structures.label>
+<VFE_PropCategory_Structures.description>Des fausses structures générales telles que des colonnes, des portes, des tuyaux, etc.</VFE_PropCategory_Structures.description>
+
+<VFE_PropCategory_Borders.label>bordures</VFE_PropCategory_Borders.label>
+<VFE_PropCategory_Borders.description>Des bordures au sol pour délimiter correctement vos allées.</VFE_PropCategory_Borders.description>
+
+<VFE_PropCategory_Decals.label>autocollants</VFE_PropCategory_Decals.label>
+<VFE_PropCategory_Decals.description>Des autocollants sur lesquels figurent différentes informations placés sur le sol.</VFE_PropCategory_Decals.description>
+
+<VFE_PropCategory_LargeDecals.label>autocollants grands</VFE_PropCategory_LargeDecals.label>
+<VFE_PropCategory_LargeDecals.description>Des grands autocollants sur lesquels figurent différentes informations placés sur le sol.</VFE_PropCategory_LargeDecals.description>
+
+<VFE_PropCategory_Medieval.label>médiévale</VFE_PropCategory_Medieval.label>
+<VFE_PropCategory_Medieval.description>Des accessoires médiévaux adaptés à un grand château ou à un simple village de paysans.</VFE_PropCategory_Medieval.description>
+
+<VFE_PropCategory_Farm.label>ferme</VFE_PropCategory_Farm.label>
+<VFE_PropCategory_Farm.description>Des accessoires de ferme tels que des tas de foin et de bois, des charrettes en bois, etc.</VFE_PropCategory_Farm.description>
+
+<VFE_PropCategory_Furniture.label>mobilier</VFE_PropCategory_Furniture.label>
+<VFE_PropCategory_Furniture.description>Des meubles qui n'ont aucun mécanisme de jeu derrière eux, tels que des armoires décoratives, des miroirs, etc.</VFE_PropCategory_Furniture.description>
+
+<VFE_PropCategory_Office.label>bureau</VFE_PropCategory_Office.label>
+<VFE_PropCategory_Office.description>Cette catégorie englobe des éléments tels que les bureaux, les chaises, les ordinateurs, les équipements de laboratoire, les tableaux blancs, les fournitures de bureau et d'autres éléments que l'on trouve couramment dans les espaces de travail professionnels.</VFE_PropCategory_Office.description>
+
+<VFE_PropCategory_Industrial.label>industriel</VFE_PropCategory_Industrial.label>
+<VFE_PropCategory_Industrial.description>Les accessoires industriels tels que des tonneaux, des palettes, des boîtes et des conteneurs.</VFE_PropCategory_Industrial.description>
+
+<VFE_PropCategory_Kitchen.label>cuisine</VFE_PropCategory_Kitchen.label>
+<VFE_PropCategory_Kitchen.description>Des accessoires de cuisine tels que des appareils de cuisson, des meubles de cuisine, etc.</VFE_PropCategory_Kitchen.description>
+
+<VFE_PropCategory_Power.label>énergie</VFE_PropCategory_Power.label>
+<VFE_PropCategory_Power.description>Des accessoires liés aux structures d'énergie, aux générateurs, aux réservoirs de gaz, etc.</VFE_PropCategory_Power.description>
+
+<VFE_PropCategory_Spacer.label>spatial</VFE_PropCategory_Spacer.label>
+<VFE_PropCategory_Spacer.description>Des accessoires high-tech en rapport avec le niveau de technologie spatial.</VFE_PropCategory_Spacer.description>
+
+<VFE_PropCategory_Vehicles.label>véhicules</VFE_PropCategory_Vehicles.label>
+<VFE_PropCategory_Vehicles.description>Des accessoires de véhicules. Camions, voitures, camionnettes, etc.</VFE_PropCategory_Vehicles.description>
+
+<VFE_PropCategory_Spaceships.label>vaisseau spatial</VFE_PropCategory_Spaceships.label>
+<VFE_PropCategory_Spaceships.description>Des accessoires de vaisseaux spatiaux. Toutes sortes de véhicules conçus pour voyager dans l'espace.</VFE_PropCategory_Spaceships.description>
+
+<VFE_PropCategory_Park.label>parcs</VFE_PropCategory_Park.label>
+<VFE_PropCategory_Park.description>Des accessoires d'extérieur dans un cadre naturel.</VFE_PropCategory_Park.description>
+
+<VFE_PropCategory_Workshop.label>atelier</VFE_PropCategory_Workshop.label>
+<VFE_PropCategory_Workshop.description>Des accessoires de production et d'atelier qui s'intègrent dans un environnement d'artisanat.</VFE_PropCategory_Workshop.description>
+
+<VFE_PropCategory_Filth.label>saleté</VFE_PropCategory_Filth.label>
+<VFE_PropCategory_Filth.description>Des saletés du jeu de base en guise d'accessoires. Le berceau n'est pas inclus.</VFE_PropCategory_Filth.description>
+
+<VFE_PropCategory_Ancient.label>ancien</VFE_PropCategory_Ancient.label>
+<VFE_PropCategory_Ancient.description>Des accessoires anciens qui sont généralement disséminés sur la carte. Notez qu'ils ne fonctionneront pas pour le mème ferrailleur du mod Vanilla Ideology Expanded - Memes and Structures, car ils sont purement décoratifs.</VFE_PropCategory_Ancient.description>
+
+<VFE_PropCategory_Vaults.label>abris</VFE_PropCategory_Vaults.label>
+<VFE_PropCategory_Vaults.description>Des accessoires trouvés dans des anciens abris.</VFE_PropCategory_Vaults.description>
+
+<VFE_PropCategory_Empire.label>impérial</VFE_PropCategory_Empire.label>
+<VFE_PropCategory_Empire.description>Des accessoires de l'Empire.</VFE_PropCategory_Empire.description>
+
+<VFE_PropCategory_Labs.label>labo</VFE_PropCategory_Labs.label>
+<VFE_PropCategory_Labs.description>Des accessoires trouvés dans d'anciens laboratoires abandonnés. En général, ils sont très délabrés.</VFE_PropCategory_Labs.description>
+
+<VFE_PropCategory_Bedroom.label>chambre</VFE_PropCategory_Bedroom.label>
+<VFE_PropCategory_Bedroom.description>Des articles tels que des lits, de la literie, des meubles (commodes, tables de nuit), des lampes, des rideaux et d'autres éléments de décoration que l'on trouve couramment dans les chambres à coucher.</VFE_PropCategory_Bedroom.description>
+
+<VFE_PropCategory_DiningRoom.label>salle à manger</VFE_PropCategory_DiningRoom.label>
+<VFE_PropCategory_DiningRoom.description>Des articles tels que des tables, des chaises, de la vaisselle (assiettes, verres, ustensiles), des nappes, des centres de table et d'autres éléments de décoration que l'on trouve couramment dans les salles à manger.</VFE_PropCategory_DiningRoom.description>
+
+<VFE_PropCategory_Hospital.label>hôpital</VFE_PropCategory_Hospital.label>
+<VFE_PropCategory_Hospital.description>Des articles tels que l'équipement médical (lits, outils chirurgicaux, moniteurs), la signalétique et d'autres articles que l'on trouve couramment dans les environnements de soins médicaux.</VFE_PropCategory_Hospital.description>
+
+<VFE_PropCategory_Military.label>militaire</VFE_PropCategory_Military.label>
+<VFE_PropCategory_Military.description>Des objets tels que des répliques d'armes, d'uniformes, de casques, d'insignes et d'autres accessoires liés à l'armée, conçus dans un souci de précision visuelle et thématique.</VFE_PropCategory_Military.description>
+
+<VFE_PropCategory_Prison.label>prison</VFE_PropCategory_Prison.label>
+<VFE_PropCategory_Prison.description>Des barreaux de prison, des cellules, des uniformes de détenus, des uniformes de gardiens, des caméras de surveillance, des panneaux de signalisation et d'autres éléments associés aux établissements pénitentiaires.</VFE_PropCategory_Prison.description>
+
+<VFE_PropCategory_Royal.label>royal</VFE_PropCategory_Royal.label>
+<VFE_PropCategory_Royal.description>Des couronnes, des sceptres, des trônes, des vêtements royaux, des armoiries, des épées d'apparat et d'autres symboles royaux.</VFE_PropCategory_Royal.description>
+
+<VFE_PropCategory_Storage.label>stockage</VFE_PropCategory_Storage.label>
+<VFE_PropCategory_Storage.description>Des accessoires tels que des étagères, des conteneurs, des caisses, des bacs de stockage et des étiquettes, ainsi que des outils ou de l'équipement associés à l'organisation et à la gestion des articles stockés.</VFE_PropCategory_Storage.description>
+
+<VFE_PropCategory_Temple.label>temple</VFE_PropCategory_Temple.label>
+<VFE_PropCategory_Temple.description>Des artefacts religieux, des objets cérémoniels, des statues, des autels, des outils rituels et d'autres éléments représentant la signification spirituelle ou culturelle d'un temple.</VFE_PropCategory_Temple.description>
+
+<VFE_PropCategory_Recreation.label>loisirs</VFE_PropCategory_Recreation.label>
+<VFE_PropCategory_Recreation.description>Des équipements sportifs, des jeux, des articles de pique-nique, des meubles d'extérieur et d'autres éléments associés aux loisirs et aux divertissements.</VFE_PropCategory_Recreation.description>
+
+<VFE_PropCategory_Children.label>enfants</VFE_PropCategory_Children.label>
+<VFE_PropCategory_Children.description>Des accessoires pour enfants, tels que des jouets, des meubles pour enfants, etc.</VFE_PropCategory_Children.description>
+
+<VFE_PropCategory_Plants.label>plantes</VFE_PropCategory_Plants.label>
+<VFE_PropCategory_Plants.description>Des plantes du jeu de base en guise d'accessoires. N'oubliez pas qu'il s'agit de plantes décoratives. Elles ne poussent pas, ne produisent rien, etc.</VFE_PropCategory_Plants.description>
+
+<VFE_PropCategory_ExoticPlants.label>plantes exotiques</VFE_PropCategory_ExoticPlants.label>
+<VFE_PropCategory_ExoticPlants.description>Des plantes exotiques provenant de Alpha Biomes. N'oubliez pas qu'il s'agit de plantes décoratives. Elles ne poussent pas, ne produisent rien, etc.</VFE_PropCategory_ExoticPlants.description>
+
+<VFE_PropCategory_Mechs.label>mécanoïde</VFE_PropCategory_Mechs.label>
+<VFE_PropCategory_Mechs.description>Des accessoires basés sur des groupes mécanoïdes, ou d'autres structures de conception mécanoïde.</VFE_PropCategory_Mechs.description>
+
+<VFE_PropCategory_Effecters.label>effets</VFE_PropCategory_Effecters.label>
+<VFE_PropCategory_Effecters.description>Des accessoires invisibles qui libèrent des particules des effets. Gardez à l'esprit qu'ils risquent de provoquer de la latence, alors utilisez-les avec modération.</VFE_PropCategory_Effecters.description>
+
+<VFE_PropCategory_Misc.label>divers</VFE_PropCategory_Misc.label>
+<VFE_PropCategory_Misc.description>Des accessoires divers qui n'entrent dans aucune autre catégorie.</VFE_PropCategory_Misc.description>
+
+
+</LanguageData>

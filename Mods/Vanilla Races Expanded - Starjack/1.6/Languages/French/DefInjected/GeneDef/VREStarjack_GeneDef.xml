@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: spacejump tail -->
+<VREStarjack_SpacejumpLegs.label>queue de saut spatial</VREStarjack_SpacejumpLegs.label>
+<!-- EN: Carriers of this gene possess a specialized muscular tail that functions as a propulsion organ, allowing them to launch themselves across vast distances in the vacuum of space. This ability cannot be used in atmospheres. -->
+<VREStarjack_SpacejumpLegs.description>Les porteurs de ce gène possèdent une queue musculaire spécialisée qui leur sert d'organe de propulsion, leur permettant de se propulser sur de longues distances dans le vide spatial. Cette capacité ne peut pas être utilisée dans l'atmosphère.</VREStarjack_SpacejumpLegs.description>
+<!-- EN: jump -->
+<VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.0.symbol>saut</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: leap -->
+<VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.1.symbol>bond</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: vault -->
+<VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.2.symbol>rebond</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: long -->
+<VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.3.symbol>long</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: fly -->
+<VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.4.symbol>vol</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.4.symbol>
+<!-- EN: hop -->
+<VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.5.symbol>sautillement</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.5.symbol>
+<!-- EN: jumper -->
+<VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.0.symbol>sauteur</VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.0.symbol>
+<!-- EN: leaper -->
+<VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.1.symbol>acrobate</VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.1.symbol>
+<!-- EN: bouncer -->
+<VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.2.symbol>cascadeur</VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.2.symbol>
+
+
+<!-- EN: cryostasis -->
+<VREStarjack_Cryostasis.label>cryostase</VREStarjack_Cryostasis.label>
+<!-- EN: Carriers of this gene do not suffer fatal hypothermia. Instead, their bodies gradually slow down and enter a dormant state when exposed to extreme cold, and they can awaken safely once warmed. -->
+<VREStarjack_Cryostasis.description>Les porteurs de ce gène ne souffrent pas d'hypothermie mortelle. Au contraire, leur corps ralentit progressivement et entre dans un état de dormance lorsqu'ils sont exposés à un froid extrême, et ils peuvent se réveiller en toute sécurité une fois réchauffés.</VREStarjack_Cryostasis.description>
+
+<!-- EN: extreme oxygen sensitivity -->
+<VREStarjack_OxygenSensitivity_Extreme.label>sensibilité extrême à l'oxygène</VREStarjack_OxygenSensitivity_Extreme.label>
+<!-- EN: Carriers of this gene cannot survive in oxygen-rich environments. Exposure to breathable atmospheres causes rapid lung failure and eventual death. Only the vacuum of space or low-oxygen gravship environments can sustain them. -->
+<VREStarjack_OxygenSensitivity_Extreme.description>Les porteurs de ce gène ne peuvent pas survivre dans des environnements riches en oxygène. L'exposition à des atmosphères respirables provoque une insuffisance pulmonaire rapide et finalement la mort. Seuls le vide spatial ou les environnements à faible teneur en oxygène des vaisseaux gravitationnels peuvent les maintenir en vie.</VREStarjack_OxygenSensitivity_Extreme.description>
+<!-- EN:  Wearing any apparel or combination of apparels that provides at least <color=#E5E54C>80%</color> vacuum resistance will mitigate the negative effects of this gene. -->
+<VREStarjack_OxygenSensitivity_Extreme.customEffectDescriptions.0>Le port de tout vêtement ou ensemble de vêtements offrant une résistance au vide d'au moins &lt;color=#E5E54C&gt;80%&lt;/color&gt; atténuera les effets négatifs de ce gène.</VREStarjack_OxygenSensitivity_Extreme.customEffectDescriptions.0>
+
+<!-- EN: intense oxygen sensitivity -->
+<VREStarjack_OxygenSensitivity_Intense.label>sensibilité intense à l'oxygène</VREStarjack_OxygenSensitivity_Intense.label>
+<!-- EN: Carriers of this gene suffer severe discomfort and reduced bodily function in oxygenated environments. Exposure to breathable air causes pain, weakness, and labored breathing, making planetary survival difficult. -->
+<VREStarjack_OxygenSensitivity_Intense.description>Les porteurs de ce gène souffrent d'un inconfort important et d'une diminution de leurs fonctions corporelles dans les environnements oxygénés. L'exposition à l'air respirable provoque des douleurs, une faiblesse et des difficultés respiratoires, rendant la survie sur la planète difficile.</VREStarjack_OxygenSensitivity_Intense.description>
+<!-- EN:  Wearing any apparel or combination of apparels that provides at least <color=#E5E54C>80%</color> vacuum resistance will mitigate the negative effects of this gene. -->
+<VREStarjack_OxygenSensitivity_Intense.customEffectDescriptions.0>Le port de tout vêtement ou ensemble de vêtements offrant une résistance au vide d'au moins &lt;color=#E5E54C&gt;80%&lt;/color&gt; atténuera les effets négatifs de ce gène.</VREStarjack_OxygenSensitivity_Intense.customEffectDescriptions.0>
+
+<!-- EN: mild oxygen sensitivity -->
+<VREStarjack_OxygenSensitivity_Mild.label>sensibilité légère à l'oxygène</VREStarjack_OxygenSensitivity_Mild.label>
+<!-- EN: Carriers of this gene are slightly averse to oxygen-rich environments. In breathable atmosphere, they experience minor respiratory and neurological strain, accompanied by a subtle discomfort with each breath. -->
+<VREStarjack_OxygenSensitivity_Mild.description>Les porteurs de ce gène sont légèrement réfractaires aux environnements riches en oxygène. Dans une atmosphère respirable, ils ressentent une légère tension respiratoire et neurologique, accompagnée d'un léger inconfort à chaque respiration.</VREStarjack_OxygenSensitivity_Mild.description>
+<!-- EN:  Wearing any apparel or combination of apparels that provides at least <color=#E5E54C>80%</color> vacuum resistance will mitigate the negative effects of this gene. -->
+<VREStarjack_OxygenSensitivity_Mild.customEffectDescriptions.0>Le port de tout vêtement ou ensemble de vêtements offrant une résistance au vide d'au moins &lt;color=#E5E54C&gt;80%&lt;/color&gt; atténuera les effets négatifs de ce gène.</VREStarjack_OxygenSensitivity_Mild.customEffectDescriptions.0>
+
+<!-- EN: vacuum efficiency -->
+<VREStarjack_VacuumEfficiency.label>efficacité au vide</VREStarjack_VacuumEfficiency.label>
+<!-- EN: Carriers of this gene thrive in space. Their bodies are highly adapted to zero-atmosphere conditions, allowing for faster and more efficient work outside planetary environments. However, they function poorly on terrestrial surfaces. -->
+<VREStarjack_VacuumEfficiency.description>Les porteurs de ce gène prospèrent dans l'espace. Leur corps est parfaitement adapté aux conditions en apesanteur, ce qui leur permet de travailler plus rapidement et plus efficacement en dehors des environnements planétaires. Cependant, leur fonctionnement est médiocre à la surface d'une planète.</VREStarjack_VacuumEfficiency.description>
+<!-- EN: vacuum-efficient -->
+<VREStarjack_VacuumEfficiency.labelShortAdj>efficace au vide</VREStarjack_VacuumEfficiency.labelShortAdj>
+
+<!-- EN: vacuum impervious -->
+<VREStarjack_VacuumResistance_Total.label>imperméable au vide</VREStarjack_VacuumResistance_Total.label>
+<!-- EN: Carriers of this gene have hardier circulatory and respiratory systems, reducing the rate at which hypoxia builds up in the vacuum of space. -->
+<VREStarjack_VacuumResistance_Total.description>Les porteurs de ce gène ont des systèmes circulatoire et respiratoire plus résistants, ce qui réduit la vitesse à laquelle l'hypoxie s'accumule dans le vide spatial.</VREStarjack_VacuumResistance_Total.description>
+<!-- EN: vacuum-impervious -->
+<VREStarjack_VacuumResistance_Total.labelShortAdj>imperméable au vide</VREStarjack_VacuumResistance_Total.labelShortAdj>
+
+
+<!-- EN: gravship affinity -->
+<VREStarjack_GravshipAffinity.label>affinité gravitationnelle</VREStarjack_GravshipAffinity.label>
+<!-- EN: Carriers of this gene are naturally suited for life aboard gravships. Their genetic makeup enhances their coordination, perception, and technical aptitude in zero-gravity environments, making them exceptional pilots and crew. -->
+<VREStarjack_GravshipAffinity.description>Les porteurs de ce gène sont naturellement adaptés à la vie à bord des vaisseaux gravitationnels. Leur constitution génétique améliore leur coordination, leur perception et leurs aptitudes techniques dans les environnements en apesanteur, ce qui en fait des pilotes et des membres d'équipage exceptionnels.</VREStarjack_GravshipAffinity.description>
+
+
+<!-- EN: randomizer -->
+<VREStarjack_Gene_Randomizer.label>aléatoire</VREStarjack_Gene_Randomizer.label>
+<!-- EN: Once a pawn receives this gene, it will transform itself into 2 random astrogenes. -->
+<VREStarjack_Gene_Randomizer.description>Quand un colon reçoit ce gène, il se transforme en deux astrogènes aléatoires.</VREStarjack_Gene_Randomizer.description>
+
+
+</LanguageData>

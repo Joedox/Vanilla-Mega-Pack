@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->Nous avons trouvé l'emplacement d'une tombe légendaire de vikings non loin de [map_definite]. L'endroit est probablement gardé.\n\nVous pouvez vous y rendre et vaincre les gardiens pour obtenir de précieuses récompenses et peut-être recruter un héros légendaire viking.</VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings.0>
+<VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings.1>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] a rapporté avoir trouvé l'emplacement d'une tombe légendaire de vikings non loin de [map_definite]. L'endroit est probablement gardé.\n\nVous pouvez vous y rendre et vaincre les gardiens pour obtenir de précieuses récompenses et peut-être recruter un héros légendaire viking.</VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings.1>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.0>questName(priority=1)->[asker_nameDef]'s [legendary] [grave]</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.0>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.1>questName->[legendary] [grave]</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.1>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.2>grave->Tombeau</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.2>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.3>grave->Tombe</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.3>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.4>grave->Crypte</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.4>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.5>grave->Mausolée</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.5>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.6>grave->Catacombes</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.6>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.7>legendary->légendaire</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.7>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.8>legendary->mythique</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.8>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.9>legendary->antique</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.9>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.10>legendary->perdue</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.10>
+<VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.11>legendary->de légende</VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings.11>
+<VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>Quête expirée : [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>
+<VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>Le site a été trouvé et dévalisé par d'autres personnes. La quête [resolvedQuestName] a expiré.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>
+<VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>Quête échouée : [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>
+<VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>Après avoir été découverts, les gardiens ont réveillé le héros et ils sont partis ailleurs. La quête [resolvedQuestName] est terminée.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>
+<VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>Quête réussie : [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
+<VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>Vous avez combattu les gardiens avec succès ! La quête [resolvedQuestName] est terminée.</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>
+
+
+</LanguageData>

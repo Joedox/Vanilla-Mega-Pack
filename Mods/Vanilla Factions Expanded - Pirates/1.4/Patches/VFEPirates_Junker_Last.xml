@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Factions Expanded - Pirates</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+		<!-- +++++ Ajout du chemin des fichiers +++++ -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RulePackDef[defName="VFEM_NamerPersonJunkerUtility"]/rulePack/rulesFiles</xpath>
+          <value>
+			<!-- +++++ Junker_Last +++++ -->
+			<li>Junker_Last_Feminine->Names/Junker_Last_Feminine</li>
+			<li>Junker_Last_FeminineL->Names/Junker_Last_FeminineL</li>
+			<li>Junker_LastL->Names/Junker_LastL</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+
+</Patch>

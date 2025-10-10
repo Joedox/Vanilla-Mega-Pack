@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ RangedIndustrial +++++ -->
+<VFE_Gun_CombatMechanoidGun.label>mini-tourelle portative</VFE_Gun_CombatMechanoidGun.label>
+<VFE_Gun_CombatMechanoidGun.description>Un canon à tourelle automatique portable. Il utilise des composants de fusils d'assaut modernes dans un châssis compatible de mécanoïde.</VFE_Gun_CombatMechanoidGun.description>
+<VFE_Gun_CombatMechanoidGun.tools.stock.label>crosse</VFE_Gun_CombatMechanoidGun.tools.stock.label>
+<VFE_Gun_CombatMechanoidGun.tools.barrel.label>canon</VFE_Gun_CombatMechanoidGun.tools.barrel.label>
+<VFE_Gun_CombatMechanoidGun.verbs.Verb_Shoot.label>mini-tourelle portative</VFE_Gun_CombatMechanoidGun.verbs.Verb_Shoot.label>
+
+
+		<!-- +++++ RangedMechanoid +++++ -->
+<VFE_Bullet_ChargeBlasterLight.label>tir blaster de charge</VFE_Bullet_ChargeBlasterLight.label>
+<VFE_Gun_ChargeBlasterLight.label>blaster de charge léger</VFE_Gun_ChargeBlasterLight.label>
+<VFE_Gun_ChargeBlasterLight.description>Semblable au lance-charges, le blaster de charge est une arme énergétique à tir en rafale de haute précision, capable de tirer avec précision, avec un recul relativement faible grâce à son rail d'accélération plus court et à sa grille de stabilisation.</VFE_Gun_ChargeBlasterLight.description>
+<VFE_Gun_ChargeBlasterLight.tools.barrel.label>canon</VFE_Gun_ChargeBlasterLight.tools.barrel.label>
+<VFE_Gun_ChargeBlasterLight.verbs.Verb_Shoot.label>blaster de charge léger</VFE_Gun_ChargeBlasterLight.verbs.Verb_Shoot.label>
+
+<VFE_Bullet_InfernoSpewer.label>tir cracheur inferno</VFE_Bullet_InfernoSpewer.label>
+<VFE_Gun_InfernoSpewer.label>cracheur inferno</VFE_Gun_InfernoSpewer.label>
+<VFE_Gun_InfernoSpewer.description>Un lance-flammes étonnamment léger de conception mécanoïde. Lorsqu'il est au repos, l'appareil semble aussi froid que n'importe quel autre, mais peut immédiatement se réchauffer à des températures bien supérieures à la technologie purement humaine. Deux réservoirs de carburant chimique montés en dessous permettent d'avoir une capacité de munitions suffisante pour de grands nuages de flammes liquides.</VFE_Gun_InfernoSpewer.description>
+<VFE_Gun_InfernoSpewer.tools.barrel.label>canon</VFE_Gun_InfernoSpewer.tools.barrel.label>
+<VFE_Gun_InfernoSpewer.verbs.Verb_Shoot.label>cracheur inferno</VFE_Gun_InfernoSpewer.verbs.Verb_Shoot.label>
+
+<VFE_Gun_AdvancedChargeBlasterLight.label>blaster de charge avancé léger</VFE_Gun_AdvancedChargeBlasterLight.label>
+<VFE_Gun_AdvancedChargeBlasterLight.description>Une version moins encombrante du blaster de charge mécanoïde, équivalente au poids et à la taille d'un SMG lourd humain. Cette arme de charge tir en rafale renonçant à l'énergie en échange de sa portabilité. Le nombre de rafales et les dégâts sont donc plus faibles, mais le temps entre les rafales est plus court.</VFE_Gun_AdvancedChargeBlasterLight.description>
+<VFE_Gun_AdvancedChargeBlasterLight.tools.barrel.label>canon</VFE_Gun_AdvancedChargeBlasterLight.tools.barrel.label>
+<VFE_Gun_AdvancedChargeBlasterLight.verbs.Verb_Shoot.label>blaster avancé de charge léger</VFE_Gun_AdvancedChargeBlasterLight.verbs.Verb_Shoot.label>
+
+<VFE_Bullet_AdvancedInfernoSpewer.label>tir cracheur inferno</VFE_Bullet_AdvancedInfernoSpewer.label>
+<VFE_Gun_AdvancedInfernoSpewer.label>cracheur inferno avancé</VFE_Gun_AdvancedInfernoSpewer.label>
+<VFE_Gun_AdvancedInfernoSpewer.description>Une arme incendiaire "briseuse de bunkers" qui non seulement embrase les cibles mais surchauffe l'air ambiant au point de faire fondre les os. Si la taille globale du réservoir est réduite, la chaleur et les dégâts potentiels de chaque jaillissement de flammes sont considérablement augmentés.</VFE_Gun_AdvancedInfernoSpewer.description>
+<VFE_Gun_AdvancedInfernoSpewer.tools.barrel.label>canon</VFE_Gun_AdvancedInfernoSpewer.tools.barrel.label>
+<VFE_Gun_AdvancedInfernoSpewer.verbs.Verb_Shoot.label>cracheur inferno avancé</VFE_Gun_AdvancedInfernoSpewer.verbs.Verb_Shoot.label>
+
+<VFE_Gun_AdvancedChargeBlasterHeavy.label>blaster de charge avancé lourd</VFE_Gun_AdvancedChargeBlasterHeavy.label>
+<VFE_Gun_AdvancedChargeBlasterHeavy.description>Une version du blaster de charge, tir en rafale avec une cadence de tir nettement supérieure. Les cellules d'énergie supplémentaires ajoutent du poids à l'arme et la précision est légèrement affectée par le recul accru, mais le blaster de charge avancé produit une pluie de feu que les frégates impériales ne peuvent supporter.</VFE_Gun_AdvancedChargeBlasterHeavy.description>
+<VFE_Gun_AdvancedChargeBlasterHeavy.tools.barrel.label>canon</VFE_Gun_AdvancedChargeBlasterHeavy.tools.barrel.label>
+<VFE_Gun_AdvancedChargeBlasterHeavy.verbs.Verb_Shoot.label>blaster de charge avancé lourd</VFE_Gun_AdvancedChargeBlasterHeavy.verbs.Verb_Shoot.label>
+
+<VFE_Gun_AdvancedInfernoCannon.label>canon inferno avancé</VFE_Gun_AdvancedInfernoCannon.label>
+<VFE_Gun_AdvancedInfernoCannon.description>Une plateforme d'artillerie incendiaire relativement petite, d'abord utilisée dans les guerres urbaines et les sièges. Tout comme sa variante mécanoïde, le canon inferno déploie en fait de petites têtes explosives connues pour faire trembler la terre là où elles atterrissent et mettre le feu aux cibles.</VFE_Gun_AdvancedInfernoCannon.description>
+<VFE_Gun_AdvancedInfernoCannon.tools.barrel.label>canon</VFE_Gun_AdvancedInfernoCannon.tools.barrel.label>
+<VFE_Gun_AdvancedInfernoCannon.verbs.Verb_Shoot.label>canon inferno avancé</VFE_Gun_AdvancedInfernoCannon.verbs.Verb_Shoot.label>
+
+<VFE_Gun_AdvancedNeedle.label>canon à aiguilles avancé</VFE_Gun_AdvancedNeedle.label>
+<VFE_Gun_AdvancedNeedle.description>Une arme de sniper avancée à ultra longue portée et à propulsion cinétique. Bien que les dégâts ne soient pas beaucoup plus élevés que ceux de sa version inférieure, ses avantages incluent une absence totale de recul et une portée inégalée. Les soldats d'autrefois prétendent que leurs vaisseaux se sont fait tirer dessus depuis le sol et jusqu'à la stratosphère, bien que ces affirmations ne soient pas confirmées par une enquête approfondie.</VFE_Gun_AdvancedNeedle.description>
+<VFE_Gun_AdvancedNeedle.tools.barrel.label>canon</VFE_Gun_AdvancedNeedle.tools.barrel.label>
+<VFE_Gun_AdvancedNeedle.verbs.Verb_Shoot.label>canon à aiguilles avancé</VFE_Gun_AdvancedNeedle.verbs.Verb_Shoot.label>
+
+<VFE_Gun_AdvancedChargeLance.label>lance-charges avancée</VFE_Gun_AdvancedChargeLance.label>
+<VFE_Gun_AdvancedChargeLance.description>Une version plus lourde de la lance-charge pulsée. Souvent utilisée par les tireurs mécanoïdes, la lance-charge avancée est similaire à son prédécesseur mais échange sa taille et son temps de visée contre une augmentation significative de sa puissance de feu.</VFE_Gun_AdvancedChargeLance.description>
+<VFE_Gun_AdvancedChargeLance.tools.barrel.label>canon</VFE_Gun_AdvancedChargeLance.tools.barrel.label>
+<VFE_Gun_AdvancedChargeLance.verbs.Verb_Shoot.label>lance-charges avancée</VFE_Gun_AdvancedChargeLance.verbs.Verb_Shoot.label>
+
+
+<VFE_Gun_RaiderMechanoidGun.label>tourelle autocanon portative</VFE_Gun_RaiderMechanoidGun.label>
+<VFE_Gun_RaiderMechanoidGun.description>Une version portable de l'autocanon à tourelle. Ses obus de gros calibre font de gros dégâts sur de grandes distances.</VFE_Gun_RaiderMechanoidGun.description>
+<VFE_Gun_RaiderMechanoidGun.tools.stock.label>crosse</VFE_Gun_RaiderMechanoidGun.tools.stock.label>
+<VFE_Gun_RaiderMechanoidGun.tools.barrel.label>canon</VFE_Gun_RaiderMechanoidGun.tools.barrel.label>
+<VFE_Gun_RaiderMechanoidGun.verbs.Verb_Shoot.label>tourelle autocanon portative</VFE_Gun_RaiderMechanoidGun.verbs.Verb_Shoot.label>
+
+<VFE_Gun_InfernoSpewerSmall.label>petit cracheur inferno</VFE_Gun_InfernoSpewerSmall.label>
+<VFE_Gun_InfernoSpewerSmall.description>Un lance-flammes étonnamment léger de conception mécanoïde. Lorsqu'il est au repos, l'appareil semble aussi froid que n'importe quoi d'autre, mais peut immédiatement se réchauffer à des températures bien supérieures à celles de la technologie purement humaine. Deux réservoirs de combustible chimique montés en dessous permettent d'avoir une capacité de munitions suffisante pour de grands jets de flammes liquides.</VFE_Gun_InfernoSpewerSmall.description>
+<VFE_Gun_InfernoSpewerSmall.tools.barrel.label>canon</VFE_Gun_InfernoSpewerSmall.tools.barrel.label>
+<VFE_Gun_InfernoSpewerSmall.verbs.Verb_Shoot.label>petit cracheur inferno</VFE_Gun_InfernoSpewerSmall.verbs.Verb_Shoot.label>
+<VFE_Bullet_InfernoSpewerSmall.label>tir petit cracheur inferno</VFE_Bullet_InfernoSpewerSmall.label>
+
+<VFE_Bullet_ThumpCannonHeavy.label>bombe à surpression lourde</VFE_Bullet_ThumpCannonHeavy.label>
+<VFE_Gun_AdvancedThumpCannon.label>canon à surpression avancé</VFE_Gun_AdvancedThumpCannon.label>
+<VFE_Gun_AdvancedThumpCannon.description>Une version avancée du canon à surpression utilisé par les mécanoïdes. Il tire une bombe à surpression qui est extrêmement efficace contre les murs et les structures, mais fait beaucoup moins de dégâts sur les petites cibles.</VFE_Gun_AdvancedThumpCannon.description>
+<VFE_Gun_AdvancedThumpCannon.tools.barrel.label>canon</VFE_Gun_AdvancedThumpCannon.tools.barrel.label>
+<VFE_Gun_AdvancedThumpCannon.verbs.Verb_Shoot.label>canon à surpression avancé</VFE_Gun_AdvancedThumpCannon.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

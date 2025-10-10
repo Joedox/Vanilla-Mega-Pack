@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: ammo pack -->
+<VAEA_Apparel_AmmoPack.label>bandoulière à munitions</VAEA_Apparel_AmmoPack.label>
+<!-- EN: Bandolier with ammunition. -->
+<VAEA_Apparel_AmmoPack.description>Bandoulière qui contient des munitions.</VAEA_Apparel_AmmoPack.description>
+
+<!-- EN: backpack -->
+<VAEA_Apparel_Backpack.label>sac à dos</VAEA_Apparel_Backpack.label>
+<!-- EN: A simple roomy backpack. Greatly increases the carry weight of the wearer. -->
+<VAEA_Apparel_Backpack.description>Un sac à dos simple et spacieux. Il augmente considérablement le poids transporté par l'utilisateur.</VAEA_Apparel_Backpack.description>
+
+<!-- EN: battle banner -->
+<VAEA_Apparel_BattleBanner.label>bannière de combat</VAEA_Apparel_BattleBanner.label>
+<!-- EN: A battle banner. Gives the wearer a fighting spirit and confidence. -->
+<VAEA_Apparel_BattleBanner.description>Une bannière de combat. Elle donne à son porteur un esprit combatif et une plus grande confiance en soi.</VAEA_Apparel_BattleBanner.description>
+
+<!-- EN: explosive belt -->
+<VAEA_Apparel_ExplosiveBelt.label>ceinture explosive</VAEA_Apparel_ExplosiveBelt.label>
+<!-- EN: A belt with explosives. -->
+<VAEA_Apparel_ExplosiveBelt.description>Une ceinture avec des explosifs.</VAEA_Apparel_ExplosiveBelt.description>
+
+<!-- EN: medic bag -->
+<VAEA_Apparel_MedicBag.label>trousse médicale</VAEA_Apparel_MedicBag.label>
+<!-- EN: A bag with everything needed to provide medical treatment. -->
+<VAEA_Apparel_MedicBag.description>Un sac contenant tout ce qui est nécessaire pour assurer un traitement médical.</VAEA_Apparel_MedicBag.description>
+
+<!-- EN: mini-turret pack -->
+<VAEA_Apparel_MiniTurretPack.label>sac mini-tourelle</VAEA_Apparel_MiniTurretPack.label>
+<!-- EN: A small pack of ammunition and components that control a shoulder mounted mini-turret. -->
+<VAEA_Apparel_MiniTurretPack.description>Un petit ensemble de munitions et de composants permettant de contrôler une mini-tourelle montée sur l'épaule.</VAEA_Apparel_MiniTurretPack.description>
+<!-- EN: A simple automatic gun made to be mounted on a shoulder. -->
+<VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>Un simple canon automatique fait pour être monté sur une épaule.</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>
+<!-- EN: mini-turret gun -->
+<VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>canon mini-tourelle</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<!-- EN: Gun -->
+<VAEA_Apparel_MiniTurretPack.verbs.Gun.label>canon</VAEA_Apparel_MiniTurretPack.verbs.Gun.label>
+
+<!-- EN: quiver -->
+<VAEA_Apparel_Quiver.label>carquois</VAEA_Apparel_Quiver.label>
+<!-- EN: Small quiver for arrows. -->
+<VAEA_Apparel_Quiver.description>Étui renfermant les flèches de l'utilisateur.</VAEA_Apparel_Quiver.description>
+
+<!-- EN: ranged shield belt -->
+<VAEA_Apparel_RangedShieldBelt.label>ceinture bouclier d'énergie à distance</VAEA_Apparel_RangedShieldBelt.label>
+<!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It doesn't prevent the wearer from firing out, and shuts down instantly if hit by EMP. -->
+<VAEA_Apparel_RangedShieldBelt.description>Un dispositif de répulsion des projectiles. Il tente d'arrêter les projectiles ou les éclats d'obus entrants, mais ne fait rien contre les attaques de mêlée ou contre la chaleur. Il n'empêche pas le porteur de tirer et se désactive instantanément s'il est touché par un IEM.</VAEA_Apparel_RangedShieldBelt.description>
+
+<!-- EN: ressurector belt -->
+<VAEA_Apparel_RessurectorBelt.label>ceinture de résurrection</VAEA_Apparel_RessurectorBelt.label>
+<!-- EN: A belt containing a dose of resurrector serum. Injects the serum immediately after death. -->
+<VAEA_Apparel_RessurectorBelt.description>Une ceinture contenant une dose de sérum de résurrection. Injecte le sérum immédiatement après la mort.</VAEA_Apparel_RessurectorBelt.description>
+
+<!-- EN: tool belt -->
+<VAEA_Apparel_ToolBelt.label>ceinture porte-outils</VAEA_Apparel_ToolBelt.label>
+<!-- EN: A simple tool belt with everything needed to nail a couple of planks or fix electrical appliances. -->
+<VAEA_Apparel_ToolBelt.description>Une simple ceinture à outils avec tout ce qu'il faut pour clouer quelques planches ou réparer des appareils électriques.</VAEA_Apparel_ToolBelt.description>
+
+
+</LanguageData>

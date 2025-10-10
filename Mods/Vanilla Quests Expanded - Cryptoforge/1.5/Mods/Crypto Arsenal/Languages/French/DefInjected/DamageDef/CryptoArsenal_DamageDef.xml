@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: crypto blunt -->
+<CAT_CryptoBlunt.label>crypto-contondant</CAT_CryptoBlunt.label>
+<!-- EN: {0} has been beaten to death. -->
+<CAT_CryptoBlunt.deathMessage>{0} a été battu{PAWN_gender ? : e } à mort.</CAT_CryptoBlunt.deathMessage>
+
+<!-- EN: crypto stab -->
+<CAT_CryptoStab.label>crypto-perforation</CAT_CryptoStab.label>
+<!-- EN: {0} has been stab to death. -->
+<CAT_CryptoStab.deathMessage>{0} a été tailladé{PAWN_gender ? : e } à mort.</CAT_CryptoStab.deathMessage>
+
+
+<!-- EN: crypto harpoon -->
+<CAT_CryptoHarpoon.label>crypto-harpon</CAT_CryptoHarpoon.label>
+<!-- EN: {0} has been impaled. -->
+<CAT_CryptoHarpoon.deathMessage>{0} a été empalé{PAWN_gender ? : e }.</CAT_CryptoHarpoon.deathMessage>
+
+
+</LanguageData>

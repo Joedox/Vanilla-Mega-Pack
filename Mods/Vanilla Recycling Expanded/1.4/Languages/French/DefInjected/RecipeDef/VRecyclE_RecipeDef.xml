@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRecyclingE_Recycle_WastepackIntoChempack.label>recycler des déchets toxiques en déchets chimiques réactifs</VRecyclingE_Recycle_WastepackIntoChempack.label>
+<VRecyclingE_Recycle_WastepackIntoChempack.description>Utiliser le travail manuel pour recycler les déchets toxiques en déchet chimique réactif, créant ainsi des biodéchets recyclés en tant que sous-produits.</VRecyclingE_Recycle_WastepackIntoChempack.description>
+<VRecyclingE_Recycle_WastepackIntoChempack.jobString>Recycle les déchets toxiques en déchets chimiques réactifs.</VRecyclingE_Recycle_WastepackIntoChempack.jobString>
+
+<VRecyclingE_Recycle_ChempackIntoChemfuel.label>recycler des déchets chimiques réactifs en chemfuel</VRecyclingE_Recycle_ChempackIntoChemfuel.label>
+<VRecyclingE_Recycle_ChempackIntoChemfuel.description>Utiliser le travail manuel pour séparer le chemfuel viables des déchets chimiques réactifs.</VRecyclingE_Recycle_ChempackIntoChemfuel.description>
+<VRecyclingE_Recycle_ChempackIntoChemfuel.jobString>Recycle les déchets chimiques réactifs en chemfuel.</VRecyclingE_Recycle_ChempackIntoChemfuel.jobString>
+
+<VRecyclingE_Recycle_WastepackIntoToxpack.label>recycler des déchets toxiques en déchets tox volatiles</VRecyclingE_Recycle_WastepackIntoToxpack.label>
+<VRecyclingE_Recycle_WastepackIntoToxpack.description>Utiliser le travail manuel pour recycler les déchets toxiques en déchets tox volatils, créant ainsi des déchets en tant que sous-produits.</VRecyclingE_Recycle_WastepackIntoToxpack.description>
+<VRecyclingE_Recycle_WastepackIntoToxpack.jobString>Recycle les déchets toxiques en déchets tox volatiles.</VRecyclingE_Recycle_WastepackIntoToxpack.jobString>
+
+<VRecyclingE_Recycle_BreakDownToxpack.label>recycler un déchet tox volatile en déchet isotope radioactif et déchet d'alliage stabilisé</VRecyclingE_Recycle_BreakDownToxpack.label>
+<VRecyclingE_Recycle_BreakDownToxpack.description>Utiliser le travail manuel pour recycler un déchet tox volatile en un déchet isotope radioactif et un déchet d'alliage stabilisé.</VRecyclingE_Recycle_BreakDownToxpack.description>
+<VRecyclingE_Recycle_BreakDownToxpack.jobString>Recycle le déchet tox volatile en déchet isotope radioactif et déchet d'alliage stabilisé.</VRecyclingE_Recycle_BreakDownToxpack.jobString>
+
+<VRecyclingE_Recycle_IsotopackIntoUranium.label>recycler un déchet isotope radioactif en uranium</VRecyclingE_Recycle_IsotopackIntoUranium.label>
+<VRecyclingE_Recycle_IsotopackIntoUranium.description>Utiliser le travail manuel pour séparer l'uranium viable des déchets isotopes radioactifs.</VRecyclingE_Recycle_IsotopackIntoUranium.description>
+<VRecyclingE_Recycle_IsotopackIntoUranium.jobString>Recycle le déchet isotope radioactif en uranium.</VRecyclingE_Recycle_IsotopackIntoUranium.jobString>
+
+
+</LanguageData>

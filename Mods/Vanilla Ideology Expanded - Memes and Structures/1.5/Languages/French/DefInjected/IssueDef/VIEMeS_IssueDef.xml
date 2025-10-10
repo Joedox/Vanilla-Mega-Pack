@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: alcohol -->
+<VME_Alcohol.label>alcool</VME_Alcohol.label>
+
+
+<!-- EN: anonymity -->
+<VME_Anonymity.label>anonymat</VME_Anonymity.label>
+
+
+<!-- EN: aurora -->
+<VME_Aurora.label>aurore</VME_Aurora.label>
+
+
+<!-- EN: automation efficiency -->
+<VME_AutomationEfficiency.label>automatisation</VME_AutomationEfficiency.label>
+
+
+<!-- EN: book quality -->
+<VME_BookQuality.label>qualité du livre</VME_BookQuality.label>
+
+
+<!-- EN: reading speed -->
+<VME_BookReadingSpeed.label>vitesse de lecture</VME_BookReadingSpeed.label>
+
+
+<!-- EN: corruption -->
+<VME_Corruption.label>corruption</VME_Corruption.label>
+
+
+<!-- EN: crafting quality -->
+<VME_CraftingQuality.label>qualité de fabrication</VME_CraftingQuality.label>
+
+
+<!-- EN: crafting speed -->
+<VME_CraftingSpeed.label>vitesse de fabrication</VME_CraftingSpeed.label>
+
+
+<!-- EN: death -->
+<VME_Death.label>mort</VME_Death.label>
+
+
+<!-- EN: defeat -->
+<VME_Defeat.label>défaite</VME_Defeat.label>
+
+
+<!-- EN: dumb labor -->
+<VME_DumbLabor.label>travail non qualifié</VME_DumbLabor.label>
+
+
+<!-- EN: elders -->
+<VME_Elders.label>aînés</VME_Elders.label>
+
+
+<!-- EN: expectations -->
+<VME_Expectations.label>attentes</VME_Expectations.label>
+
+
+<!-- EN: farming yield -->
+<VME_FarmingYield.label>rendement agricole</VME_FarmingYield.label>
+
+
+<!-- EN: fire -->
+<VME_Fire.label>feu</VME_Fire.label>
+
+
+<!-- EN: firefighting -->
+<VME_Firefighting.label>lutte anti-incendie</VME_Firefighting.label>
+
+
+<!-- EN: hospital -->
+<VME_Hospital.label>hôpital</VME_Hospital.label>
+
+
+<!-- EN: illness -->
+<VME_Illness.label>maladie</VME_Illness.label>
+
+
+<!-- EN: immunity -->
+<VME_Immunity.label>immunité</VME_Immunity.label>
+
+
+<!-- EN: insect jelly -->
+<VME_InsectJelly.label>gelée d'insecte</VME_InsectJelly.label>
+
+
+<!-- EN: insectoids -->
+<VME_Insectoids.label>insectoïdes</VME_Insectoids.label>
+
+
+<!-- EN: junk -->
+<VME_Junk.label>ancien débris</VME_Junk.label>
+
+
+<!-- EN: deconstruction yield -->
+<VME_JunkDeconstructionYield.label>rendement de déconstruction</VME_JunkDeconstructionYield.label>
+
+
+<!-- EN: killing with fire -->
+<VME_KillingWithFire.label>tué par le feu</VME_KillingWithFire.label>
+
+
+<!-- EN: leader -->
+<VME_Leader.label>chef</VME_Leader.label>
+
+<!-- EN: leader abilities -->
+<VME_LeaderAbilities.label>capacités du chef</VME_LeaderAbilities.label>
+
+<!-- EN: leader divinity -->
+<VME_LeaderDivinity.label>divinité du chef</VME_LeaderDivinity.label>
+
+
+<!-- EN: leather apparel -->
+<VME_LeatherApparel.label>vêtement en cuir</VME_LeatherApparel.label>
+
+
+<!-- EN: mechanoids -->
+<VME_Mechanoids.label>mécanoïdes</VME_Mechanoids.label>
+
+
+<!-- EN: meditation -->
+<VME_Meditation.label>méditation</VME_Meditation.label>
+
+
+<!-- EN: mood -->
+<VME_Mood.label>humeur</VME_Mood.label>
+
+
+<!-- EN: permanent bases -->
+<VME_PermanentBases.label>bases permanentes</VME_PermanentBases.label>
+
+
+<!-- EN: permit cooldown -->
+<VME_PermitCooldown.label>recharge des licences</VME_PermitCooldown.label>
+
+
+<!-- EN: permit cost -->
+<VME_PermitHonorCost.label>coût des licences</VME_PermitHonorCost.label>
+
+
+<!-- EN: power -->
+<VME_Power.label>puissance</VME_Power.label>
+
+
+<!-- EN: psychic sensitivity -->
+<VME_PsychicSensitivity.label>sensitivité psychique</VME_PsychicSensitivity.label>
+
+
+<!-- EN: psyfocus gain -->
+<VME_PsyfocusGain.label>gain psychique</VME_PsyfocusGain.label>
+
+
+<!-- EN: recreation -->
+<VME_Recreation.label>divertissement</VME_Recreation.label>
+
+
+<!-- EN: royalty -->
+<VME_Royalty.label>royauté</VME_Royalty.label>
+
+
+<!-- EN: scars -->
+<VME_Scars.label>cicatrices</VME_Scars.label>
+
+
+<!-- EN: skilled labor -->
+<VME_SkilledLabor.label>main-d'oeuvre qualifiée</VME_SkilledLabor.label>
+
+
+<!-- EN: slave trading -->
+<VME_SlaveTrading.label>commerce d'esclaves</VME_SlaveTrading.label>
+
+
+<!-- EN: social interactions -->
+<VME_SocialInteractions.label>interactions sociales</VME_SocialInteractions.label>
+
+
+<!-- EN: tainted apparel -->
+<VME_TaintedApparel.label>vêtement souillé</VME_TaintedApparel.label>
+
+
+<!-- EN: tattered apparel -->
+<VME_TatteredApparel.label>vêtements en lambeaux</VME_TatteredApparel.label>
+
+
+<!-- EN: tend quality -->
+<VME_TendQuality.label>qualité médicale</VME_TendQuality.label>
+
+
+<!-- EN: titles -->
+<VME_TitleInheritance.label>titres</VME_TitleInheritance.label>
+
+
+<!-- EN: trading -->
+<VME_Trading.label>commerce</VME_Trading.label>
+
+
+<!-- EN: trading price -->
+<VME_TradingPrice.label>négociation des prix</VME_TradingPrice.label>
+
+
+<!-- EN: travel -->
+<VME_Travel.label>voyage</VME_Travel.label>
+
+
+<!-- EN: violence -->
+<VME_Violence.label>violence</VME_Violence.label>
+
+
+<!-- EN: woodcutting yield -->
+<VME_WoodcuttingYield.label>rendement du bois</VME_WoodcuttingYield.label>
+
+
+</LanguageData>

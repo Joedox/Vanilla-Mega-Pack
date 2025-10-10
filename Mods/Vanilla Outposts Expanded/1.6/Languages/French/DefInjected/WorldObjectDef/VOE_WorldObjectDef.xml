@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: artillery strike -->
+<VOE_TravellingArtilleryStrike.label>frappe d'artillerie</VOE_TravellingArtilleryStrike.label>
+<!-- EN: Artillery strike in flight. -->
+<VOE_TravellingArtilleryStrike.description>Frappe d'artillerie en plein vol.</VOE_TravellingArtilleryStrike.description>
+
+
+<!-- EN: artillery outpost -->
+<Outpost_Artillery.label>avant-poste d'artillerie</Outpost_Artillery.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in providing point defense to nearby settlements via artillery strikes. Each pawn will be tasked with the maintenance and usage of a mortar. After a barrage has been expended one day will be required to prepare a new one. -->
+<Outpost_Artillery.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la défense ponctuelle des colonies voisines par des frappes d'artillerie. Chaque colon sera chargé de l'entretien et de l'utilisation d'un mortier. Après qu'un barrage ait été tiré, il faudra un jour pour en préparer un nouveau.</Outpost_Artillery.description>
+
+<!-- EN: defensive outpost -->
+<Outpost_Defensive.label>avant-poste défensif</Outpost_Defensive.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in intercepting and ambushing incoming enemy raids on the main colony. Winning a small skirmish at an outpost can significantly diminish the size of an enemy raid on the main colony. Furthermore, defensive outposts can be tasked to send drop pods to the main colony for short-notice defense. -->
+<Outpost_Defensive.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'interception et l'embuscade des raids ennemis sur la colonie principale. Remporter une petite escarmouche dans un avant-poste peut réduire considérablement la taille d'un raid ennemi sur la colonie principale. De plus, les avant-postes défensifs peuvent être chargés d'envoyer des capsules de largage vers la colonie principale pour une défense à court terme.</Outpost_Defensive.description>
+
+<!-- EN: drilling outpost -->
+<Outpost_Drilling.label>avant-poste d'extraction du chemfuel</Outpost_Drilling.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in locating and tapping underground chemfuel reservoirs. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Drilling.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la localisation et l'exploitation des sources souterraines de chemfuel. Une fois qu'une quantité adéquate est pompée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Drilling.description>
+
+<!-- EN: encampment -->
+<Outpost_Encampment.label>campement</Outpost_Encampment.label>
+<!-- EN: Places a temporary, autonomously-led camp that serves as a resting point for caravans. While camping all pawns will regain food and rest, and allow time for injuries to heal. -->
+<Outpost_Encampment.description>Emplacement d'un camp temporaire, géré de manière autonome, qui sert de point de repos pour les caravanes. Pendant le campement, tous les colons récupèrent de la nourriture et du repos, et laissent le temps aux blessures de guérir.</Outpost_Encampment.description>
+
+<!-- EN: farming outpost -->
+<Outpost_Farming.label>avant-poste agricole</Outpost_Farming.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Farming.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans le semis et la récolte de végétaux faciles à cultiver, ne peut être placé sur un désert. Une fois qu'une quantité adéquate a été récoltée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Farming.description>
+<!-- EN: Choose which plant this outpost should plant -->
+<Outpost_Farming.modExtensions.0.ChooseDesc>Choisir la plante que cet avant-poste doit cultiver</Outpost_Farming.modExtensions.0.ChooseDesc>
+<!-- EN: Choose plant -->
+<Outpost_Farming.modExtensions.0.ChooseLabel>Choisir la récolte</Outpost_Farming.modExtensions.0.ChooseLabel>
+
+<!-- EN: hunting outpost -->
+<Outpost_Hunting.label>avant-poste de chasse</Outpost_Hunting.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Hunting.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la chasse et le dépeçage des animaux sauvages. Une fois qu'une quantité adéquate a été chassée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Hunting.description>
+<!-- EN: Choose what animal to hunt at this outpost -->
+<Outpost_Hunting.modExtensions.0.ChooseDesc>Choisir l'animal à chasser dans cet avant-poste</Outpost_Hunting.modExtensions.0.ChooseDesc>
+<!-- EN: Hunting {0} -->
+<Outpost_Hunting.modExtensions.0.ChooseLabel>Chasser {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+
+<!-- EN: logging outpost -->
+<Outpost_Logging.label>avant-poste forestier</Outpost_Logging.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Logging.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la collecte de bois à partir des arbres de la zone, ne peut être placé sur un désert. Une fois qu'une quantité adéquate de bois a été obtenue, une livraison sera effectuée à la périphérie de votre principale colonie.</Outpost_Logging.description>
+
+<!-- EN: mining outpost -->
+<Outpost_Mining.label>avant-poste minier</Outpost_Mining.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Mining.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans le minage et le traitement de la pierre ou du métal, ne peut être placé que sur une colline ou une montagne. Une fois qu'une quantité adéquate a été minée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Mining.description>
+<!-- EN: Click to change mining target. -->
+<Outpost_Mining.modExtensions.0.ChooseDesc>Choisir la ressource à minier dans cet avant-poste</Outpost_Mining.modExtensions.0.ChooseDesc>
+<!-- EN: Mining {0} -->
+<Outpost_Mining.modExtensions.0.ChooseLabel>Miner {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+
+<!-- EN: production outpost -->
+<Outpost_Production.label>avant-poste de production</Outpost_Production.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in manufacturing and fabrication of mechanical and electronic components. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Production.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la fabrication et la production de composants mécaniques et électroniques. Une fois qu'une quantité adéquate est produite, une livraison sera effectuée à la périphérie de votre principale colonie.</Outpost_Production.description>
+<!-- EN: Choose between components and advanced components -->
+<Outpost_Production.modExtensions.0.ChooseDesc>Choisir entre les composants et les composants avancés</Outpost_Production.modExtensions.0.ChooseDesc>
+<!-- EN: Choose output -->
+<Outpost_Production.modExtensions.0.ChooseLabel>Choisir la production</Outpost_Production.modExtensions.0.ChooseLabel>
+
+<!-- EN: scavenging outpost -->
+<Outpost_Scavenging.label>avant-poste de pillage</Outpost_Scavenging.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in scouting for nearby unmarked settlements and the loot contained within them. Once something notable is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Scavenging.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la recherche de colonies non identifiées à proximité et du pillage qu'elles renferment. Une fois qu'un objet notable est ramené, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Scavenging.description>
+
+<!-- EN: science outpost -->
+<Outpost_Science.label>avant-poste scientifique</Outpost_Science.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in research and analysis. Any information gained will be shared with the faction as a whole. -->
+<Outpost_Science.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la recherche et l'analyse. Toute information obtenue sera partagée avec l'ensemble de la faction.</Outpost_Science.description>
+
+<!-- EN: town -->
+<Outpost_Town.label>ville</Outpost_Town.label>
+<!-- EN: Places a temporary, autonomously-led town that is designed to provide hospitality to travelers and traders alike. Should a visitor find their lodging amicable they will be invited to join the town as a resident permanently. A town can only be erected if 3 pre-existing settlements are located within 10 hexes. -->
+<Outpost_Town.description>Emplacement d'une ville temporaire, gérée de manière autonome, conçue pour offrir l'hospitalité aux voyageurs et aux commerçants. Si un visiteur trouve son hébergement agréable, il sera invité à rejoindre la ville en tant que résident permanent. Une ville ne peut être érigée que si 3 colonies préexistantes sont situées dans un rayon de 10 cases.</Outpost_Town.description>
+
+<!-- EN: trading outpost -->
+<Outpost_Trading.label>avant-poste commercial</Outpost_Trading.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in selling and bartering with wanderers, caravans, and natives alike in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Trading.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la vente et le troc avec les vagabonds, les caravanes et les indigènes en échange d'argent. Une fois qu'une quantité adéquate d'argent a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Trading.description>
+
+
+</LanguageData>

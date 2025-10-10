@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<PTA_PsiBlades.label>lames psioniques</PTA_PsiBlades.label>
+<PTA_PsiBlades.description>Le psylanceur condense l'énergie psionique en une lame extrêmement tranchante.</PTA_PsiBlades.description>
+<PTA_PsiBlades.jobReportString>Utilise la capacité : {0}</PTA_PsiBlades.jobReportString>
+<PTA_PsiBlades.verbProperties.label>lames psioniques</PTA_PsiBlades.verbProperties.label>
+
+<PTA_Shields.label>bouclier psionique</PTA_Shields.label>
+<PTA_Shields.description>Le psylanceur condense l'énergie psionique dans un bouclier, ce qui lui confère une immunité aux dégâts à distance et améliore son armure.</PTA_Shields.description>
+<PTA_Shields.jobReportString>Utilise la capacité : {0}</PTA_Shields.jobReportString>
+<PTA_Shields.verbProperties.label>bouclier psionique</PTA_Shields.verbProperties.label>
+
+<PTA_PsionicShockwave.label>onde de choc psionique</PTA_PsionicShockwave.label>
+<PTA_PsionicShockwave.description>Le psylanceur condense l'énergie psionique en une puissante onde de choc, infligeant des dégâts supplémentaires aux unités biologiques.</PTA_PsionicShockwave.description>
+<PTA_PsionicShockwave.jobReportString>Utilise la capacité : {0}</PTA_PsionicShockwave.jobReportString>
+<PTA_PsionicShockwave.verbProperties.label>onde de choc psionique</PTA_PsionicShockwave.verbProperties.label>
+
+<PTA_ResonanceCoil.label>surcharge cinétique</PTA_ResonanceCoil.label>
+<PTA_ResonanceCoil.description>Le psylanceur condense l'énergie psionique en un projectile énergétique extrêmement destructeur, causant d'énormes dégâts aux structures.</PTA_ResonanceCoil.description>
+<PTA_ResonanceCoil.jobReportString>Utilise la capacité : {0}</PTA_ResonanceCoil.jobReportString>
+<PTA_ResonanceCoil.verbProperties.label>surcharge cinétique</PTA_ResonanceCoil.verbProperties.label>
+
+<PTA_Interceptor.label>construire intercepteur</PTA_Interceptor.label>
+<PTA_Interceptor.description>Le psylanceur utilise l'énergie psionique pour produire un intercepteur. Les intercepteurs ont des boucliers intégrés et peuvent effectuer des attaques à distance. Ils consomment continuellement l'entropie psionique du psylanceur lorsqu'ils sont actifs.</PTA_Interceptor.description>
+<PTA_Interceptor.jobReportString>Utilise la capacité : {0}</PTA_Interceptor.jobReportString>
+<PTA_Interceptor.verbProperties.label>construire intercepteur</PTA_Interceptor.verbProperties.label>
+
+<PTA_Feedback.label>répercussion</PTA_Feedback.label>
+<PTA_Feedback.description>Le psylanceur utilise l'énergie psionique pour brûler la concentration psychique de la cible et déclencher une explosion. Les dégâts et la zone de l'explosion sont proportionnels à la concentration psychique brûlée.</PTA_Feedback.description>
+<PTA_Feedback.jobReportString>Utilise la capacité : {0}</PTA_Feedback.jobReportString>
+<PTA_Feedback.verbProperties.label>répercussion</PTA_Feedback.verbProperties.label>
+
+<PTA_PsionicStorm.label>tempête psionique</PTA_PsionicStorm.label>
+<PTA_PsionicStorm.description>Le psylanceur utilise l'énergie psionique pour invoquer une tempête psionique qui inflige des dégâts continus à toutes les unités de la zone ciblée.</PTA_PsionicStorm.description>
+<PTA_PsionicStorm.jobReportString>Utilise la capacité : {0}</PTA_PsionicStorm.jobReportString>
+<PTA_PsionicStorm.verbProperties.label>tempête psionique</PTA_PsionicStorm.verbProperties.label>
+
+<PTA_HardenedShields.label>bouclier renforcé</PTA_HardenedShields.label>
+<PTA_HardenedShields.description>Le psylanceur utilise l'énergie psionique pour créer une puissante barrière qui non seulement l'immunise contre les dégâts à distance, mais réduit aussi considérablement les dégâts de mêlée des ennemis.</PTA_HardenedShields.description>
+<PTA_HardenedShields.jobReportString>Utilise la capacité : {0}</PTA_HardenedShields.jobReportString>
+<PTA_HardenedShields.verbProperties.label>bouclier renforcé</PTA_HardenedShields.verbProperties.label>
+
+<PTA_PurificationNova.label>construire disrupteur</PTA_PurificationNova.label>
+<PTA_PurificationNova.description>Le psylanceur condense l'énergie psionique en une boule d'énergie. Le disrupteur dure 0,8 heure et libère une puissante nova purificatrice au moment de sa mort, causant d'importants dégâts aux unités proches.</PTA_PurificationNova.description>
+<PTA_PurificationNova.jobReportString>Utilise la capacité : {0}</PTA_PurificationNova.jobReportString>
+<PTA_PurificationNova.verbProperties.label>construire disrupteur</PTA_PurificationNova.verbProperties.label>
+
+<PTA_CloakingField.label>champ de camouflage</PTA_CloakingField.label>
+<PTA_CloakingField.description>Le psylanceur rassemble de l'énergie psionique autour de son corps pour générer un champ d'occultation, rendant les alliés proches invisibles.</PTA_CloakingField.description>
+<PTA_CloakingField.jobReportString>Utilise la capacité : {0}</PTA_CloakingField.jobReportString>
+<PTA_CloakingField.verbProperties.label>champ de camouflage</PTA_CloakingField.verbProperties.label>
+
+<PTA_MassRecall.label>rappel en masse</PTA_MassRecall.label>
+<PTA_MassRecall.description>Le psylanceur condense de l'énergie psionique pour téléporter toutes les unités amies situées dans la zone ciblée et éloignée à côté du psylanceur.</PTA_MassRecall.description>
+<PTA_MassRecall.jobReportString>Utilise la capacité : {0}</PTA_MassRecall.jobReportString>
+<PTA_MassRecall.verbProperties.label>rappel en masse</PTA_MassRecall.verbProperties.label>
+
+<PTA_TimeWarp.label>distorsion temporelle</PTA_TimeWarp.label>
+<PTA_TimeWarp.description>Le psylanceur condense de l'énergie psionique pour déformer le temps et l'espace de la zone ciblée, pendant 7 heures. Dans cette zone, les capacités de mouvement et de manipulation de tous les unités sont réduites.</PTA_TimeWarp.description>
+<PTA_TimeWarp.jobReportString>Utilise la capacité : {0}</PTA_TimeWarp.jobReportString>
+<PTA_TimeWarp.verbProperties.label>distorsion temporelle</PTA_TimeWarp.verbProperties.label>
+
+
+</LanguageData>

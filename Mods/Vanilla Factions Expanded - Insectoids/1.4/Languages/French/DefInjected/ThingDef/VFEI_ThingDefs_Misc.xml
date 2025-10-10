@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Apparel_ArchotechBelts +++++ -->
+<VFEI_Apparel_ArchotechShieldBelt.label>archotech bouclier d'énergie</VFEI_Apparel_ArchotechShieldBelt.label>
+<VFEI_Apparel_ArchotechShieldBelt.description>Un dispositif de bouclier psychique personnel fabriqué par une IA supérieure, qui recouvre l'utilisateur d'une bulle de protection impénétrable. Il permet d'arrêter tout projectile ou toute attaque énergétique se déplaçant rapidement. Il est inefficace contre les attaques de mêlée ou les tirs à bout portant. Cette version avancée possède une grande capacité, mais est dépourvue de tout mécanisme de rechargement. La puissance incomparable du bouclier en fait un bien précieux pour tout type de soldat.</VFEI_Apparel_ArchotechShieldBelt.description>
+
+		<!-- +++++ Filth_Various +++++ -->
+<VFEI_Filth_Slime.label>slime royal</VFEI_Filth_Slime.label>
+
+		<!-- +++++ SkyFallerInsect +++++ -->
+<VFEI_GigalocustIncoming.label>gigalocuste (en approche)</VFEI_GigalocustIncoming.label>
+
+		<!-- +++++ SkyFallers_ShipPart +++++ -->
+<VFEI_InfestedShipChunkIncoming.label>débris de vaisseau infesté (en approche)</VFEI_InfestedShipChunkIncoming.label>
+<VFEI_InfestedShipPartIncoming.label>débris de vaisseau infesté (en approche)</VFEI_InfestedShipPartIncoming.label>
+<VFEI_InfestedShipModuleIncoming.label>débris de vaisseau infesté (en approche)</VFEI_InfestedShipModuleIncoming.label>
+
+		<!-- +++++ Weapons/RangedSpacer +++++ -->
+<VFE_Gun_Plasmacutter.label>découpeur plasma</VFE_Gun_Plasmacutter.label>
+<VFE_Gun_Plasmacutter.description>Un pistolet minier avec des projectiles à noyau métallique enveloppés de plasma, maintenus en place par un champ d'énergie. Les cibles sont à la fois tranchées par le noyau métallique, ainsi que brûlées ou enflammées par le revêtement de plasma. Cette arme a une chance d'infliger des coups critiques, pouvant couper directement le membre.</VFE_Gun_Plasmacutter.description>
+<VFE_Gun_Plasmacutter.tools.stock.label>crosse</VFE_Gun_Plasmacutter.tools.stock.label>
+<VFE_Gun_Plasmacutter.tools.barrel.label>canon</VFE_Gun_Plasmacutter.tools.barrel.label>
+<VFE_Gun_Plasmacutter.verbs.Verb_Shoot.label>découpeur plasma</VFE_Gun_Plasmacutter.verbs.Verb_Shoot.label>
+<Bullet_Plasmacutter.label>tir découpeur plasma</Bullet_Plasmacutter.label>
+
+<VFE_Gun_Plasmapiercer.label>percuteur plasma</VFE_Gun_Plasmapiercer.label>
+<VFE_Gun_Plasmapiercer.description>Un fusil lourd capable de tirer des clous à noyau métallique recouverts de plasma et maintenus en place par un champ d'énergie. Ces clous sont excellents pour arrêter les cibles de grande taille et il est capable de mettre à terre la plupart des ennemis de taille humaine.</VFE_Gun_Plasmapiercer.description>
+<VFE_Gun_Plasmapiercer.tools.stock.label>crosse</VFE_Gun_Plasmapiercer.tools.stock.label>
+<VFE_Gun_Plasmapiercer.tools.barrel.label>canon</VFE_Gun_Plasmapiercer.tools.barrel.label>
+<VFE_Gun_Plasmapiercer.verbs.Verb_Shoot.label>percuteur plasma</VFE_Gun_Plasmapiercer.verbs.Verb_Shoot.label>
+<Bullet_Plasmapiercer.label>tir percuteur plasma</Bullet_Plasmapiercer.label>
+
+<VFE_Gun_PlasmabeamRifle.label>fusil à faisceau plasma</VFE_Gun_PlasmabeamRifle.label>
+<VFE_Gun_PlasmabeamRifle.description>Un fusil à longue portée utilisant des balles à noyau métallique recouverts de plasma et maintenus en place par un champ d'énergie. Les tirs de ce fusil brûlent tout ce qu'ils touchent, mais en raison de son recule, il est très difficile de tirer avec précision sur des longues distances.</VFE_Gun_PlasmabeamRifle.description>
+<VFE_Gun_PlasmabeamRifle.tools.stock.label>crosse</VFE_Gun_PlasmabeamRifle.tools.stock.label>
+<VFE_Gun_PlasmabeamRifle.tools.barrel.label>canon</VFE_Gun_PlasmabeamRifle.tools.barrel.label>
+<VFE_Gun_PlasmabeamRifle.verbs.Verb_Shoot.label>fusil à faisceau plasma</VFE_Gun_PlasmabeamRifle.verbs.Verb_Shoot.label>
+<Bullet_PlasmaBeam.label>faisceau plasma</Bullet_PlasmaBeam.label>
+
+<VFE_Gun_PlasmaScattergun.label>dispersion plasma</VFE_Gun_PlasmaScattergun.label>
+<VFE_Gun_PlasmaScattergun.description>Un fusil de chasse rapproché tirant des noyaux métalliques recouverts de plasma et maintenus en place par un champ d'énergie. Inflige un grand nombre de brûlures aux ennemis, éliminant la plupart du temps les menaces en un seul tir. En raison de la nature instable des projectiles, sa portée est très courte.</VFE_Gun_PlasmaScattergun.description>
+<VFE_Gun_PlasmaScattergun.tools.stock.label>crosse</VFE_Gun_PlasmaScattergun.tools.stock.label>
+<VFE_Gun_PlasmaScattergun.tools.barrel.label>canon</VFE_Gun_PlasmaScattergun.tools.barrel.label>
+<VFE_Gun_PlasmaScattergun.verbs.Verb_Shoot.label>dispersion plasma</VFE_Gun_PlasmaScattergun.verbs.Verb_Shoot.label>
+<Bullet_PlasmaScatter.label>tir dispersion plasma</Bullet_PlasmaScatter.label>
+
+<VFE_Plasmasaw.label>tronçonneuse plasma</VFE_Plasmasaw.label>
+<VFE_Plasmasaw.description>Une scie néo-industrielle à noyau métallique dont le tranchant est constitué de plasma, maintenu en place par un champ d'énergie. Les cibles sont à la fois découpées par le noyau métallique, mais également brûlées ou enflammées par la chaîne à plasma.</VFE_Plasmasaw.description>
+<VFE_Plasmasaw.tools.plasma_chain.label>chaîne plasma</VFE_Plasmasaw.tools.plasma_chain.label>
+
+
+</LanguageData>

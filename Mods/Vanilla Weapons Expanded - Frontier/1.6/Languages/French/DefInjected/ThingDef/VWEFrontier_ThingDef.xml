@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: frontier pistol bullet -->
+<VWEFT_Bullet_FrontierPistol.label>balle de pistolet frontier</VWEFT_Bullet_FrontierPistol.label>
+
+<!-- EN: heavy revolver bullet -->
+<VWEFT_Bullet_HeavyRevolver.label>balle de revolver lourd</VWEFT_Bullet_HeavyRevolver.label>
+
+<!-- EN: shotgun blast -->
+<VWEFT_Bullet_RepeatingShotgun.label>chevrotine de fusil</VWEFT_Bullet_RepeatingShotgun.label>
+
+<!-- EN: rolling block rifle bullet -->
+<VWEFT_Bullet_RollingBlockRifle.label>balle de fusil à bloc roulant</VWEFT_Bullet_RollingBlockRifle.label>
+
+<!-- EN: volcanic pistol bullet -->
+<VWEFT_Bullet_VolcanicPistol.label>balle de pistolet volcanic</VWEFT_Bullet_VolcanicPistol.label>
+
+<!-- EN: frontier pistol -->
+<VWEFT_Gun_FrontierPistol.label>pistolet frontier</VWEFT_Gun_FrontierPistol.label>
+<!-- EN: An ornate variant of a commonplace Old World pistol, effective at short and medium ranges.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+<VWEFT_Gun_FrontierPistol.description>Une variante ornée d'un pistolet banal de l'Ancien Monde, efficace à courte et moyenne portée.\n\nLes récits des bandits de Steamworld laissent entendre que cette arme et d'autres comme elles sont capables de réaliser occasionnellement et incroyablement des tirs chanceux.</VWEFT_Gun_FrontierPistol.description>
+<!-- EN: grip -->
+<VWEFT_Gun_FrontierPistol.tools.grip.label>poignée</VWEFT_Gun_FrontierPistol.tools.grip.label>
+<!-- EN: barrel -->
+<VWEFT_Gun_FrontierPistol.tools.barrel.label>canon</VWEFT_Gun_FrontierPistol.tools.barrel.label>
+<!-- EN: frontier pistol -->
+<VWEFT_Gun_FrontierPistol.verbs.Verb_Shoot.label>pistolet frontier</VWEFT_Gun_FrontierPistol.verbs.Verb_Shoot.label>
+
+<!-- EN: heavy revolver -->
+<VWEFT_Gun_HeavyRevolver.label>revolver lourd</VWEFT_Gun_HeavyRevolver.label>
+<!-- EN: An ornate favorite among wealthy lawmen and bandits alike for its increased firepower and range at the cost of reload speed.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+<VWEFT_Gun_HeavyRevolver.description>C'est l'arme préférée des riches hommes de loi et des bandits pour sa puissance de feu et sa portée accrues, mais au détriment de la vitesse de rechargement.\n\nLes récits des bandits de Steamworld laissent entendre que cette arme et d'autres comme elles sont capables de réaliser occasionnellement et incroyablement des tirs chanceux.</VWEFT_Gun_HeavyRevolver.description>
+<!-- EN: grip -->
+<VWEFT_Gun_HeavyRevolver.tools.grip.label>poignée</VWEFT_Gun_HeavyRevolver.tools.grip.label>
+<!-- EN: barrel -->
+<VWEFT_Gun_HeavyRevolver.tools.barrel.label>canon</VWEFT_Gun_HeavyRevolver.tools.barrel.label>
+<!-- EN: heavy revolver -->
+<VWEFT_Gun_HeavyRevolver.verbs.Verb_Shoot.label>revolver lourd</VWEFT_Gun_HeavyRevolver.verbs.Verb_Shoot.label>
+
+<!-- EN: repeating shotgun -->
+<VWEFT_Gun_RepeatingShotgun.label>fusil de chasse à répétition</VWEFT_Gun_RepeatingShotgun.label>
+<!-- EN: An ornate and surprisingly portable shotgun meant to be fired one handed from a mounted position. Packs a punch, earning the title "boomalope leg".\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+<VWEFT_Gun_RepeatingShotgun.description>Un fusil de chasse orné et étonnamment maniable, conçu pour être utilisé d'une seule main depuis une position montée. Il a du punch, ce qui lui vaut le titre "jambe de boomalope".\n\nLes récits des bandits de Steamworld laissent entendre que cette arme et d'autres comme elles sont capables de réaliser occasionnellement et incroyablement des tirs chanceux.</VWEFT_Gun_RepeatingShotgun.description>
+<!-- EN: stock -->
+<VWEFT_Gun_RepeatingShotgun.tools.stock.label>crosse</VWEFT_Gun_RepeatingShotgun.tools.stock.label>
+<!-- EN: barrel -->
+<VWEFT_Gun_RepeatingShotgun.tools.barrel.label>canon</VWEFT_Gun_RepeatingShotgun.tools.barrel.label>
+<!-- EN: repeating shotgun -->
+<VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>fusil de chasse à répétition</VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>
+
+<!-- EN: rolling block rifle -->
+<VWEFT_Gun_RollingBlockRifle.label>fusil à bloc roulant</VWEFT_Gun_RollingBlockRifle.label>
+<!-- EN: An ornate high-power marksmen rifle originally designed for dispatching muffalo in a single shot. Once outfitted with a long-range scope and modernized reloading system it didn't take long for would-be bounty hunters to embrace the hunting instrument.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+<VWEFT_Gun_RollingBlockRifle.description>Un fusil de tireur d'élite très puissant, conçu à l'origine pour abattre les muffalos d'un seul coup. Une fois équipé d'une lunette de visée à longue portée et d'un système de rechargement modernisé, les chasseurs de primes n'ont pas tardé à adopter cet outil de chasse.\n\nLes récits des bandits de Steamworld laissent entendre que cette arme et d'autres comme elles sont capables de réaliser occasionnellement et incroyablement des tirs chanceux.</VWEFT_Gun_RollingBlockRifle.description>
+<!-- EN: stock -->
+<VWEFT_Gun_RollingBlockRifle.tools.stock.label>crosse</VWEFT_Gun_RollingBlockRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWEFT_Gun_RollingBlockRifle.tools.barrel.label>canon</VWEFT_Gun_RollingBlockRifle.tools.barrel.label>
+<!-- EN: rolling block rifle -->
+<VWEFT_Gun_RollingBlockRifle.verbs.Verb_Shoot.label>fusil à bloc roulant</VWEFT_Gun_RollingBlockRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: volcanic pistol -->
+<VWEFT_Gun_VolcanicPistol.label>pistolet volcanic</VWEFT_Gun_VolcanicPistol.label>
+<!-- EN: An ornate pistol meant to provide the strength of a full-sized rifle with the portability of a revolver. Surprisingly high ammo capacity and range at the cost of a long time to reload and rather poor accuracy due to recoil.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+<VWEFT_Gun_VolcanicPistol.description>Un pistolet orné destiné à fournir la force d'un fusil de taille normale avec la portabilité d'un revolver. Une capacité de munitions et une portée étonnamment élevées au prix d'un long temps de rechargement et d'une précision plutôt faible en raison du recul.\n\nLes récits des bandits de Steamworld laissent entendre que cette arme et d'autres comme elles sont capables de réaliser occasionnellement et incroyablement des tirs chanceux.</VWEFT_Gun_VolcanicPistol.description>
+<!-- EN: grip -->
+<VWEFT_Gun_VolcanicPistol.tools.grip.label>poignée</VWEFT_Gun_VolcanicPistol.tools.grip.label>
+<!-- EN: barrel -->
+<VWEFT_Gun_VolcanicPistol.tools.barrel.label>canon</VWEFT_Gun_VolcanicPistol.tools.barrel.label>
+<!-- EN: volcanic pistol -->
+<VWEFT_Gun_VolcanicPistol.verbs.Verb_Shoot.label>pistolet volcanic</VWEFT_Gun_VolcanicPistol.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

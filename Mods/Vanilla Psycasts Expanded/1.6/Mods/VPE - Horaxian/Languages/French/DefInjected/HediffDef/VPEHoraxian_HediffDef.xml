@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Half-Ghoul -->
+<DemiGhoul.label>demi-goule</DemiGhoul.label>
+<!-- EN: This person has been turned into a being that is between life and death, granting several bonuses at the cost of psychic powers being weakened when used by them. -->
+<DemiGhoul.description>Cette personne a été transformée en un être entre la vie et la mort, ce qui lui confère plusieurs bonus au prix d'un affaiblissement de ses pouvoirs psychiques lorsqu'elle les utilise.</DemiGhoul.description>
+
+<!-- EN: Death -->
+<InstantDeathm.label>mort</InstantDeathm.label>
+<!-- EN: I'm dead. -->
+<InstantDeathm.description>Je suis mort.</InstantDeathm.description>
+<!-- EN: Instant Death -->
+<InstantDeathm.stages.Instant_Death.label>mort instantanée</InstantDeathm.stages.Instant_Death.label>
+
+<!-- EN: Obelisk-Maker -->
+<ObeliskMasterySTNL.label>faiseur d'obélisques</ObeliskMasterySTNL.label>
+<!-- EN: This person has the abilty to manifest obelisks at will. -->
+<ObeliskMasterySTNL.description>Cette personne a la capacité de manifester des obélisques à volonté.</ObeliskMasterySTNL.description>
+<!-- EN: This person has the abilty to manifest obelisks at will. -->
+<ObeliskMasterySTNL.descriptionShort>Cette personne a la capacité de manifester des obélisques à volonté.</ObeliskMasterySTNL.descriptionShort>
+
+<!-- EN: Shard-Maker -->
+<TransmutationMasterySTNL.label>faiseur de fragment</TransmutationMasterySTNL.label>
+<!-- EN: This person has the abilty to convert bioferrite into shards. -->
+<TransmutationMasterySTNL.description>Cette personne a la capacité de convertir la bioferrite en fragments.</TransmutationMasterySTNL.description>
+<!-- EN: This person has the abilty to convert bioferrite into shards. -->
+<TransmutationMasterySTNL.descriptionShort>Cette personne a la capacité de convertir la bioferrite en fragments.</TransmutationMasterySTNL.descriptionShort>
+
+<!-- EN: Void Regeneration -->
+<VoidSootheSTNL.label>régénération du néant</VoidSootheSTNL.label>
+<!-- EN: This creature is being healed by dark archites. -->
+<VoidSootheSTNL.description>Cette créature est soignée par des archites sombres.</VoidSootheSTNL.description>
+<!-- EN: This creature is being healed by dark archites. -->
+<VoidSootheSTNL.descriptionShort>Cette créature est soignée par des archites sombres.</VoidSootheSTNL.descriptionShort>
+
+
+</LanguageData>

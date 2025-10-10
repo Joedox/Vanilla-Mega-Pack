@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Toggle gas flow -->
+<VHGE_CommandToggleGas_Label>Activer / Désactiver</VHGE_CommandToggleGas_Label>
+<!-- EN: Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch. -->
+<VHGE_CommandToggleGas_Desc>Active / Désactive le flux de gaz hélixien. Un colon viendra bientôt pour actionner l'interrupteur.</VHGE_CommandToggleGas_Desc>
+<!-- EN: A small infinite helixien gas deposit has been found! -->
+<VHGE_InfiniteDeposit>Un petit gisement de gaz hélixien infini a été découvert !</VHGE_InfiniteDeposit>
+<!-- EN: Helixien gas deposit -->
+<VHGE_InfiniteDepositLabel>Gisement de gaz hélixien</VHGE_InfiniteDepositLabel>
+<!-- EN: Toggle the infinite gas pocket overlay -->
+<VHGE_GasOverlayTooltip>Afficher les dépôts de gaz hélixien infini.</VHGE_GasOverlayTooltip>
+<!-- EN: Helixien pump need to be placed on helixien deep pocket or gas geyser. -->
+<VHGE_NeedDeepOrGeyser>La pompe hélixien doit être placée sur une poche profonde hélixien ou un geyser de gaz.</VHGE_NeedDeepOrGeyser>
+<!-- EN: Fill geyser hole -->
+<VHGE_FillGeyser>Reboucher</VHGE_FillGeyser>
+<!-- EN: Allow removing the geyser from the map. Not reversible. -->
+<VHGE_FillGeyserDesc>Permet de supprimer le geyser de la carte. Non réversible.</VHGE_FillGeyserDesc>
+
+
+</LanguageData>

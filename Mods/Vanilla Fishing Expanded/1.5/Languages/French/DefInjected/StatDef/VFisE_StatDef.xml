@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: fishing luck -->
+<VCEF_FishingLuckOffset.label>chance de pêche</VCEF_FishingLuckOffset.label>
+<!-- EN: The chance for every fishing attempt to fish a special item instead of a regular fish is increased by this offset. -->
+<VCEF_FishingLuckOffset.description>La chance pour chaque tentative de pêche de pêcher un objet spécial au lieu d'un poisson ordinaire est augmentée par ce décalage.</VCEF_FishingLuckOffset.description>
+
+<!-- EN: fishing speed -->
+<VCEF_FishingSpeedFactor.label>vitesse de pêche</VCEF_FishingSpeedFactor.label>
+<!-- EN: The speed at which a person can fish is multiplied by this factor. -->
+<VCEF_FishingSpeedFactor.description>La vitesse à laquelle une personne peut pêcher est multipliée par ce facteur.</VCEF_FishingSpeedFactor.description>
+
+<!-- EN: fishing yield -->
+<VCEF_FishingYieldFactor.label>rendement de pêche</VCEF_FishingYieldFactor.label>
+<!-- EN: The fishing yield of a person is multiplied by this factor. -->
+<VCEF_FishingYieldFactor.description>Le rendement de pêche d’une personne est multiplié par ce facteur.</VCEF_FishingYieldFactor.description>
+
+
+</LanguageData>

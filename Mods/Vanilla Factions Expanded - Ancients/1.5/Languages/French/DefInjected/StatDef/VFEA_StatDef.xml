@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEAncients_RangedCooldownFactor.label>temps de recharge à distance</VFEAncients_RangedCooldownFactor.label>
+<VFEAncients_RangedCooldownFactor.description>Le temps de recharge des armes à distance de ce colon est multiplié par cette valeur.</VFEAncients_RangedCooldownFactor.description>
+
+<VFEAncients_MeleeCooldownFactor.label>temps de recharge de mêlée</VFEAncients_MeleeCooldownFactor.label>
+<VFEAncients_MeleeCooldownFactor.description>Le temps de recharge des armes de mêlée de ce colon est multiplié par cette valeur.</VFEAncients_MeleeCooldownFactor.description>
+
+<VFEA_FailChance.label>chance d'échec</VFEA_FailChance.label>
+<VFEA_FailChance.description>La probabilité qu'une opération d'injection de nanites échoue.</VFEA_FailChance.description>
+
+<VFEA_InjectingTimeFactor.label>temps d'injection</VFEA_InjectingTimeFactor.label>
+<VFEA_InjectingTimeFactor.description>Un multiplicateur sur la vitesse d'une capsule d'adaptation génétique. Il peut être abaissé en trouvant et en installant des pompes d'injection de super-nanite.</VFEA_InjectingTimeFactor.description>
+
+
+</LanguageData>

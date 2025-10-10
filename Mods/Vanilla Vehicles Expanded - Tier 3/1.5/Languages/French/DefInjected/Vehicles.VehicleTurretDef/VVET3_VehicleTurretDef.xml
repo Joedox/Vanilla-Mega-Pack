@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Badger_MainTurret.label>canon à chaîne harceleur</Badger_MainTurret.label>
+<Badger_MainTurret.fireModes.0.label>Coup par coup</Badger_MainTurret.fireModes.0.label>
+<Badger_MainTurret.fireModes.1.label>En rafale</Badger_MainTurret.fireModes.1.label>
+<Badger_MainTurret.description>Une puissante tourelle montée sur un véhicule de combat d'infanterie Badger. Ses tirs explosifs infligent des dégâts considérables à l'infanterie ennemie, mais son faible pouvoir perforant la rend moins efficace contre les cibles blindées, et consomme beaucoup de munitions.</Badger_MainTurret.description>
+<Badger_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Badger_MainTurret.gizmoDescription>
+
+<Marshal_MainTurret.label>tourelle</Marshal_MainTurret.label>
+<Marshal_MainTurret.fireModes.0.label>Tir unique</Marshal_MainTurret.fireModes.0.label>
+<Marshal_MainTurret.description>Un grand et puissant canon de char pouvant tirer des obus explosifs sur de longues distances. Généralement monté sur les chars Maréchal.</Marshal_MainTurret.description>
+<Marshal_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Marshal_MainTurret.gizmoDescription>
+
+<Marshal_MountedTurret.label>mitrailleuse</Marshal_MountedTurret.label>
+<Marshal_MountedTurret.fireModes.0.label>En rafale</Marshal_MountedTurret.fireModes.0.label>
+<Marshal_MountedTurret.description>Une petite mitrailleuse montée sur un char marshal. Elle doit être rechargée avec de l'acier. Elle ne peut tirer qu'à courte portée, mais n'a aucun problème à tirer sur les ennemis qui engagent le véhicule au corps à corps.</Marshal_MountedTurret.description>
+<Marshal_MountedTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Marshal_MountedTurret.gizmoDescription>
+
+<Paladin_MainTurret.label>lance-grenades fumigènes paladin</Paladin_MainTurret.label>
+<Paladin_MainTurret.fireModes.0.label>Coup par coup</Paladin_MainTurret.fireModes.0.label>
+<Paladin_MainTurret.fireModes.1.label>En rafale</Paladin_MainTurret.fireModes.1.label>
+<Paladin_MainTurret.description>Un lanceur de grenades fumigènes monté sur un VBTT Paladin. Excellent pour fournir une couverture fumigène à l'infanterie, cette tourelle n'a pas de capacités offensives.</Paladin_MainTurret.description>
+<Paladin_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Paladin_MainTurret.gizmoDescription>
+
+<Udar_MainTurret.label>artillerie de l'udar</Udar_MainTurret.label>
+<Udar_MainTurret.fireModes.0.label>Tir unique</Udar_MainTurret.fireModes.0.label>
+<Udar_MainTurret.description>Une artillerie gigantesque pouvant tirer différents types d'obus sur des distances moyennes. Bien qu'elle ne puisse pas tirer sur différentes tuiles du monde, le fait qu'elle soit montée sur une plate-forme mobile blindée lui confère une grande polyvalence. Elle ne peut pivoter que de 35 degrés dans les deux sens. Généralement monté sur l'artillerie Udar.</Udar_MainTurret.description>
+<Udar_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Udar_MainTurret.gizmoDescription>
+
+
+<Burya_MainTurret.label>rampe à roquettes</Burya_MainTurret.label>
+<Burya_MainTurret.description>Un puissant système de roquettes à lancements multiples généralement monté sur le Burya, pouvant tirer de puissants barrages de roquettes recouvrant une large zone. La tourelle ne fait feu que lorsque quelqu'un lui en donne l'ordre. Ce système est très efficace contre les grands groupes de combattants faibles, mais il l'est moins contre les petits groupes de cibles blindées. Les tirs intensifs peuvent faire surchauffer la tourelle et la mettre hors service.</Burya_MainTurret.description>
+<Burya_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Burya_MainTurret.gizmoDescription>
+
+<Goliath_MilitaryTurret.label>tourelle militaire goliath</Goliath_MilitaryTurret.label>
+<Goliath_MilitaryTurret.description>Une tourelle automatique à double canon de qualité militaire, généralement montée sur les capsules de siège Goliath. Il faut de l'acier pour remettre à neuf ses canons après une utilisation intensive. Elle peut exploser si elle est endommagée. Angle de tir limité.</Goliath_MilitaryTurret.description>
+<Goliath_MilitaryTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Goliath_MilitaryTurret.gizmoDescription>
+
+<Goliath_SwarmTurret.label>artillerie goliath</Goliath_SwarmTurret.label>
+<Goliath_SwarmTurret.description>Un lanceur imprécis pouvant tirer deux barrages de roquettes recouvrant une large zone. La tourelle ne fait feu que lorsque quelqu'un lui en donne l'ordre. Elle est très efficace contre les grands groupes de combattants faibles, mais moins efficace contre un petit nombre de cibles blindées. Un tir intensif peut faire surchauffer la tourelle et la rendre inutilisable.</Goliath_SwarmTurret.description>
+<Goliath_SwarmTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Goliath_SwarmTurret.gizmoDescription>
+
+
+</LanguageData>

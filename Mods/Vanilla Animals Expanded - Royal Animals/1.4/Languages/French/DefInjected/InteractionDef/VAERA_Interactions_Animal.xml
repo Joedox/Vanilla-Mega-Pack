@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VAERoy_PeacockInteraction.label>caresse psychique</VAERoy_PeacockInteraction.label>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef] s'est [nuzzleadverb] [nuzzled] contre [RECIPIENT_nameDef].</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.0>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] a [nuzzleadverb] frotté son nez contre [rubbedpart] de [RECIPIENT_nameDef].</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.1>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->câliné psychiquement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.2>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.3>nuzzled->blotti psychiquement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.3>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.4>nuzzleadverb(p=4)-></VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.4>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.5>nuzzleadverb->gentiment</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.5>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.6>nuzzleadverb->chaleureusement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.6>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.7>nuzzleadverb->joyeusement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.7>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.8>nuzzleadverb->doucement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.8>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.9>nuzzleadverb->délicatement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.9>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.10>nuzzleadverb->légèrement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.10>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.11>nuzzleadverb->agréablement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.11>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.12>nuzzleadverb->plaintivement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.12>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.13>nuzzleadverb->amoureusement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.13>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.14>nuzzleadverb->affectueusement</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.14>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.15>rubbedpart->la jambe</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.15>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.16>rubbedpart->le genou</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.16>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.17>rubbedpart->le pied</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.17>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.18>rubbedpart->le coude</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.18>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.19>rubbedpart->la hanche</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.19>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.20>rubbedpart->l'épaule</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.20>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.21>rubbedpart->la main</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.21>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.22>rubbedpart->le torse</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.22>
+<VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.23>rubbedpart->le bras</VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings.23>
+
+<VAERoy_OrangutanInteraction.label>tutorat</VAERoy_OrangutanInteraction.label>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] et [RECIPIENT_nameDef] ont [talkedabout] [animalthings].</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.0>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] a [talkedabout] [animalthings] avec [RECIPIENT_nameDef].</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.1>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] à [RECIPIENT_nameDef].</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.2>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->discuté</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.3>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.4>talkedabout->échangé un mot à propos</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.4>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.5>talkedabout->parlé</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.5>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.6>talkedabout->papoté</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.6>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.7>talkedabout->évoqué</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.7>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.8>talkedabout->marmonné à propos</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.8>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.9>talkedabout->plaisanté au sujet</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.9>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.10>commentedabout->a dit quelque chose</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.10>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.11>commentedabout->a fait un commentaire à propos</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.11>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.12>commentedabout->a fait une remarque au sujet</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.12>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.13>commentedabout->a songé à propos</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.13>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.14>animalthings->de la comparaison des sociétés paternalistes et d'autres aspects et sujets sociaux</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.14>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.15>animalthings->de l'origine de l'analyse linguistique du terme parapente</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.15>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.16>animalthings->de la manière dont les autres cultures ou nations considèrent le travail acharné</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.16>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.17>animalthings->de l'analyse et l'impact personnels et professionnels des mathématiques</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.17>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.18>animalthings->de poésie liée aux snacks préemballés</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.18>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.19>animalthings->des opinions dépassées sur la violence ethnique</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.19>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.20>animalthings->d'une analyse journalistique du OÙ sur la politique d'immigration d'auto-déportation : où cela s'est passé : lieux, pays ou régions impliqués ou affectés</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.20>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.21>animalthings->des régions où la consommation de chou-fleur est la plus élevée</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.21>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.22>animalthings->des avis d'experts sur l'orientation sexuelle</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.22>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.23>animalthings->de ce qui est unique dans le pain</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.23>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.24>animalthings->de l'éthique de la chirurgie ophtalmologique au laser</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.24>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.25>animalthings->d'analyse religieuse, théologique, spirituelle et morale de la prise de décision</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.25>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.26>animalthings->du pourquoi les écoutes téléphoniques sont importantes</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.26>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.27>animalthings->d'une expérience embarrassante impliquant une attitude positive</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.27>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.28>animalthings->d'une comparaison de différents types de cocktails</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.28>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.29>animalthings->de la comparaison entre le fait de porter son cœur sur sa main et d'autres habitudes</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.29>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.30>animalthings->des meilleurs avis d'experts au monde sur la pauvreté dans les centres-villes</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.30>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.31>animalthings->des extraits de livres ou d'articles relatifs à la gravure sur verre</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.31>
+<VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.32>animalthings->des effets négatifs du traitement préférentiel</VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings.32>
+
+
+</LanguageData>

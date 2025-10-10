@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- 15 décembre -->
+<!-- EN:
+    <li>questDescription->A festive aerodrone has been detected in orbit, carrying a shipment of presents. You've acquired the means to redirect it, causing it to crash at [map_definite].\n\nWhen it crashes, the aerodrone will eject numerous presents into the air, scattering them across the area. Quickly collect them before they are lost or destroyed. [raidsDescription]\n\nThe aerodrone's remains will self-destruct in [destroyDelayTicks_duration], leaving nothing behind.</li>
+    <li>questDescription->A jolly aerodrone laden with presents has been detected in orbit. With the right codes, you can redirect it to crash at [map_definite].\n\nUpon impact, the drone will scatter its precious cargo of presents across the area. Gather them quickly before they are claimed by others or destroyed. [raidsDescription]\n\nBe aware that the aerodrone’s wreckage will self-destruct in [destroyDelayTicks_duration].</li>
+    <li>questDescription->A festive delivery drone carrying a shipment of gifts has been located. You can use a special code to force it to crash at [map_definite].\n\nWhen it crashes, a burst of presents will rain down over the area, ripe for collection. Secure as many as you can before danger arrives. [raidsDescription]\n\nThe drone wreckage will obliterate itself in [destroyDelayTicks_duration].</li>
+    <li>questDescription->You've intercepted a signal from a holiday aerodrone packed with presents. Redirect it to crash at [map_definite] and claim the bounty of scattered gifts it will eject upon impact. [raidsDescription]\n\nHurry, as the drone’s remains will self-destruct in [destroyDelayTicks_duration], leaving nothing behind.</li>
+    <li>questDescription->An orbiting aerodrone brimming with festive presents has been detected. Using your codes, you can cause it to crash at [map_definite], releasing a cascade of gifts into the air. Collect them quickly and prepare for potential trouble. [raidsDescription]\n\nThe drone wreckage will destroy itself in [destroyDelayTicks_duration].</li>
+    <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. They’ll attempt to seize the presents, sending attackers approximately every [raidIntervalAvg_duration]. You’ll have a brief window to secure the area and defend your haul before they arrive.</li>
+    <li>raidsDescription(allowViolence==false)-></li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)->spot the aerodrone during its descent</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)->detect the aerodrone's energy signature</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)->spot the festive aerodrone during its descent</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)->detect the festive aerodrone's unique energy signature</li>
+    <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. They'll attempt to seize the presents, sending attackers approximately every [raidIntervalAvg_duration]. Use the time before their arrival to fortify your defenses and secure the gifts.</li>
+    <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] are sure to [droneDetectionMethod]. They’ll launch attacks roughly every [raidIntervalAvg_duration] in an attempt to claim the loot. Be ready to defend your spoils.</li>
+    <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. Convinced of the aerodrone’s value, they’ll attack approximately every [raidIntervalAvg_duration]. Prepare to protect the presents from their grasp.</li>
+    <li>raidsDescription(allowViolence==false)-></li>
+ -->
+<VCE_SantaAerodrone.questDescriptionRules.rulesStrings>
+    <!-- description -->
+    <li>questDescription->Un aérodrone festif a été détecté en orbite, transportant une cargaison de cadeaux. Vous avez acquis les moyens de le rediriger et de le faire s'écraser à [map_definite].\n\nLorsqu'il s'écrasera, l'aérodrone éjectera de nombreux cadeaux dans les airs, les dispersant dans toute la zone. Ramassez-les rapidement avant qu'ils ne soient perdus ou détruits. [raidsDescription]\n\nLes débris de l'aérodrone s'autodétruiront dans [destroyDelayTicks_duration], ne laissant rien derrière eux.</li>
+    <li>questDescription->Un joyeux aérodrome rempli de cadeaux a été détecté en orbite. Avec les bons codes, vous pouvez le rediriger pour qu'il s'écrase à [map_definite].\n\nAu moment de l'impact, le drone dispersera sa précieuse cargaison de cadeaux dans toute la zone. Rassemblez-les rapidement avant qu'ils ne soient réclamés par d'autres ou détruits. [raidsDescription]\n\nA noter que l'épave de l'aérodrone s'autodétruira au bout de [destroyDelayTicks_duration].</li>
+    <li>questDescription->Un drone de livraison festive transportant une cargaison de cadeaux a été localisé. Vous pouvez utiliser un code spécial pour le forcer à s'écraser à [map_definite].\n\nLorsqu'il s'écrasera, une pluie de cadeaux tombera dans la zone, prêts à être ramassés. Récupérez-en le plus possible avant que le danger n'arrive. [raidsDescription]\n\nL'épave du drone s'autodétruira dans [destroyDelayTicks_duration].</li>
+    <li>questDescription->Vous avez intercepté un signal provenant d'un aérodrome de fêtes rempli de cadeaux. Redirigez-le pour qu'il s'écrase à [map_definite] et récupérez les cadeaux qu'il éjectera à l'impact. [raidsDescription]\n\nDépêchez-vous, car les restes du drone s'autodétruiront dans [destroyDelayTicks_duration], ne laissant rien derrière eux.</li>
+    <li>questDescription->Un aérodrone en orbite rempli de cadeaux a été détecté. Grâce à vos codes, vous pouvez le faire s'écraser à [map_definite], libérant une cascade de cadeaux dans les airs. Ramassez-les rapidement et préparez-vous à des problèmes potentiels. [raidsDescription]\n\nL'épave du drone s'autodétruira dans [destroyDelayTicks_duration].</li>
+    <!-- pieces -->
+    <li>raidsDescription(allowViolence==true)->\n\nLes [enemyFaction_pawnsPlural] de [enemyFaction_name] vont [droneDetectionMethod]. Ils tenteront de s'emparer des cadeaux, en envoyant des attaquants tous les [raidIntervalAvg_duration] environ. Vous disposerez d'un bref délai pour sécuriser la zone et défendre votre butin avant leur arrivée.</li>
+    <li>raidsDescription(allowViolence==false)-></li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)->repérer l'aérodrone pendant sa descente</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)->détecter la signature énergétique de l'aérodrone</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)->repérer l'aérodrone festif lors de sa descente</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)->détecter la signature énergétique unique de l'aérodrone festif</li>
+    <li>raidsDescription(allowViolence==true)->\n\nLes [enemyFaction_pawnsPlural] de [enemyFaction_name] vont [droneDetectionMethod]. Ils tenteront de s'emparer des cadeaux en envoyant des attaquants tous les [raidIntervalAvg_duration] environ. Utilisez le temps qui précède leur arrivée pour fortifier vos défenses et sécuriser les cadeaux.</li>
+    <li>raidsDescription(allowViolence==true)->\n\nLes [enemyFaction_pawnsPlural] de [enemyFaction_name] sont sûrs de [droneDetectionMethod]. Ils lanceront des attaques à peu près tous les [raidIntervalAvg_duration] pour tenter de s'emparer du butin. Soyez prêt à défendre votre butin.</li>
+    <li>raidsDescription(allowViolence==true)->\n\nLes [enemyFaction_pawnsPlural] de [enemyFaction_name] vont [droneDetectionMethod]. Convaincus de la valeur de l'aérodrone, ils attaqueront environ tous les [raidIntervalAvg_duration]. Préparez-vous à protéger les cadeaux de leur assaut.</li>
+    <li>raidsDescription(allowViolence==false)-></li>
+</VCE_SantaAerodrone.questDescriptionRules.rulesStrings>
+
+
+<!-- EN:
+    <li>questName->[santaAdj] [aerodrone] redirect</li>
+    <li>questName->[aerodrone] [cargo] interception</li>
+    <li>questName->[santaAdj] [cargo] crash</li>
+    <li>santaAdj->festive</li>
+    <li>santaAdj->jolly</li>
+    <li>santaAdj->holiday</li>
+    <li>santaAdj->gift-laden</li>
+    <li>aerodrone->aerodrone</li>
+    <li>aerodrone->delivery drone</li>
+    <li>aerodrone->giftship</li>
+    <li>aerodrone->sleighdrone</li>
+    <li>cargo->cargo</li>
+    <li>cargo->presents</li>
+    <li>cargo->gifts</li>
+    <li>cargo->treasures</li>
+ -->
+<VCE_SantaAerodrone.questNameRules.rulesStrings>
+    <li>questName->[aerodrone] [santaAdj] redirigé</li>
+    <li>questName->[aerodrone] [cargo] intercepté</li>
+    <li>questName->[aerodrone] [cargo] [santaAdj] écrasé</li>
+    <li>santaAdj->festif</li>
+    <li>santaAdj->joyeux</li>
+    <li>santaAdj->de fêtes</li>
+    <li>santaAdj->chargé de cadeaux</li>
+    <li>aerodrone->aerodrone</li>
+    <li>aerodrone->drone de livraison</li>
+    <li>aerodrone->vaisseau cadeau</li>
+    <li>aerodrone->traîneau</li>
+    <li>cargo->cargo</li>
+    <li>cargo->de présents</li>
+    <li>cargo->de cadeaux</li>
+    <li>cargo->de trésors</li>
+</VCE_SantaAerodrone.questNameRules.rulesStrings>
+
+
+</LanguageData>

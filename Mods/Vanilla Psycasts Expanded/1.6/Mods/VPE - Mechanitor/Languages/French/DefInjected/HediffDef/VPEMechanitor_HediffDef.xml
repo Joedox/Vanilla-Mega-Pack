@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Alpha Mech-Mind -->
+<AlphaMind-linkSTNL.label>esprit-mech Alpha</AlphaMind-linkSTNL.label>
+<!-- EN: The final level of synergy between the psylink and mechlink, granting you additional bandwidth and control group. -->
+<AlphaMind-linkSTNL.description>Le dernier niveau de synergie entre le lien psychique et le mécalien, vous offrant une bande passante supplémentaire et un groupe de contrôle.</AlphaMind-linkSTNL.description>
+<!-- EN: The final level of synergy between the psylink and mechlink, granting you additional bandwidth and control group. -->
+<AlphaMind-linkSTNL.descriptionShort>Le dernier niveau de synergie entre le lien psychique et le mécalien, vous offrant une bande passante supplémentaire et un groupe de contrôle.</AlphaMind-linkSTNL.descriptionShort>
+<!-- EN: Level 1 -->
+<AlphaMind-linkSTNL.stages.Level_1.label>niveau 1</AlphaMind-linkSTNL.stages.Level_1.label>
+<!-- EN: Level 2 -->
+<AlphaMind-linkSTNL.stages.Level_2.label>niveau 2</AlphaMind-linkSTNL.stages.Level_2.label>
+<!-- EN: Level 3 -->
+<AlphaMind-linkSTNL.stages.Level_3.label>niveau 3</AlphaMind-linkSTNL.stages.Level_3.label>
+<!-- EN: Level 4 -->
+<AlphaMind-linkSTNL.stages.Level_4.label>niveau 4</AlphaMind-linkSTNL.stages.Level_4.label>
+<!-- EN: Level 5 -->
+<AlphaMind-linkSTNL.stages.Level_5.label>niveau 5</AlphaMind-linkSTNL.stages.Level_5.label>
+<!-- EN: Level 6 -->
+<AlphaMind-linkSTNL.stages.Level_6.label>niveau 6</AlphaMind-linkSTNL.stages.Level_6.label>
+<!-- EN: Level 7 -->
+<AlphaMind-linkSTNL.stages.Level_7.label>niveau 7</AlphaMind-linkSTNL.stages.Level_7.label>
+<!-- EN: Level 8 -->
+<AlphaMind-linkSTNL.stages.Level_8.label>niveau 8</AlphaMind-linkSTNL.stages.Level_8.label>
+<!-- EN: Level 9 -->
+<AlphaMind-linkSTNL.stages.Level_9.label>niveau 9</AlphaMind-linkSTNL.stages.Level_9.label>
+<!-- EN: Level 10 -->
+<AlphaMind-linkSTNL.stages.Level_10.label>niveau 10</AlphaMind-linkSTNL.stages.Level_10.label>
+
+<!-- EN: Mechanitor Precept: Apocritia -->
+<Apocriton-linkSTNL.label>précepte méchanitor : Apocrite</Apocriton-linkSTNL.label>
+<!-- EN: This Mechlink upgrade is temporary, granting you 30 charges of the apocriton's resurrection ability to use on a dead mech. -->
+<Apocriton-linkSTNL.description>Cette amélioration du mécalien est temporaire et vous permet d'utiliser 30 charges de résurrection de la capacité de l'apocrite sur les mechs mort.</Apocriton-linkSTNL.description>
+<!-- EN: This Mechlink upgrade is temporary, granting you 30 charges of the apocriton's resurrection ability to use on a dead mech. -->
+<Apocriton-linkSTNL.descriptionShort>Cette amélioration du mécalien est temporaire et vous permet d'utiliser 30 charges de résurrection de la capacité de l'apocrite sur les mechs mort.</Apocriton-linkSTNL.descriptionShort>
+
+<!-- EN: Assisted Control -->
+<BandwidthAssistSTNL.label>contrôle assisté</BandwidthAssistSTNL.label>
+<!-- EN: Optimized data transfer halves the bandwidth cost of this mechanoid. -->
+<BandwidthAssistSTNL.description>L'optimisation du transfert de données réduit de moitié le coût de la bande passante de ce mécanoïde.</BandwidthAssistSTNL.description>
+<!-- EN: Optimized data transfer halves the bandwidth cost of this mechanoid. -->
+<BandwidthAssistSTNL.descriptionShort>L'optimisation du transfert de données réduit de moitié le coût de la bande passante de ce mécanoïde.</BandwidthAssistSTNL.descriptionShort>
+
+<!-- EN: Epsilon Shutdown -->
+<EpsilonShutdownSTNL.label>arrêt Epsilon</EpsilonShutdownSTNL.label>
+<!-- EN: This mechanoid has been shut down by a psychic hack. -->
+<EpsilonShutdownSTNL.description>Ce mécanoïde a été mis hors service par un piratage psychique.</EpsilonShutdownSTNL.description>
+
+<!-- EN: Delta Reinforcement -->
+<MechCombatUpgradeSTNL.label>renforcement Delta</MechCombatUpgradeSTNL.label>
+<!-- EN: A low energy archite shield protects this mechanoid. -->
+<MechCombatUpgradeSTNL.description>Un bouclier d'archites à faible énergie protège ce mécanoïde.</MechCombatUpgradeSTNL.description>
+<!-- EN: A low energy archite shield protects this mechanoid. -->
+<MechCombatUpgradeSTNL.descriptionShort>Un bouclier d'archites à faible énergie protège ce mécanoïde.</MechCombatUpgradeSTNL.descriptionShort>
+
+<!-- EN: Alpha Optimization -->
+<MechOptimizationSTNL.label>optimisation Alpha</MechOptimizationSTNL.label>
+<!-- EN: Rewriten subroutines allow this mechanoid to perform better than factory units. -->
+<MechOptimizationSTNL.description>Les sous-programmes de réécriture permettent à ce mécanoïde d'être plus performant que les unités d'usine.</MechOptimizationSTNL.description>
+<!-- EN: Rewriten subroutines allow this mechanoid to perform better than factory units. -->
+<MechOptimizationSTNL.descriptionShort>Les sous-programmes de réécriture permettent à ce mécanoïde d'être plus performant que les unités d'usine.</MechOptimizationSTNL.descriptionShort>
+
+<!-- EN: Ambush Precept Engaged -->
+<VPE_EngagedAmbushMode.label>précepte d'embuscade activé</VPE_EngagedAmbushMode.label>
+<!-- EN: Activated light-refracting nano archites acting as a temporary stealth field, the effect will disappear upon attacking. -->
+<VPE_EngagedAmbushMode.description>Activation de nano-archites réfractant la lumière agissant comme un champ de furtivité temporaire, dont l'effet disparaît lors d'une attaque.</VPE_EngagedAmbushMode.description>
+<!-- EN: Activated light-refracting nano archites acting as a temporary stealth field, the effect will disappear upon attacking. -->
+<VPE_EngagedAmbushMode.descriptionShort>Activation de nano-archites réfractant la lumière agissant comme un champ de furtivité temporaire, dont l'effet disparaît lors d'une attaque.</VPE_EngagedAmbushMode.descriptionShort>
+
+<!-- EN: Stealth Mode Engaged -->
+<VPE_EngagedStealthMode.label>mode furtif activé</VPE_EngagedStealthMode.label>
+<!-- EN: Activated light-refracting nano archites acting as a temporary stealth field. -->
+<VPE_EngagedStealthMode.description>Activation de nano-archites réfractant la lumière agissant comme un champ de furtivité temporaire.</VPE_EngagedStealthMode.description>
+<!-- EN: Activated light-refracting nano archites acting as a temporary stealth field. -->
+<VPE_EngagedStealthMode.descriptionShort>Activation de nano-archites réfractant la lumière agissant comme un champ de furtivité temporaire.</VPE_EngagedStealthMode.descriptionShort>
+
+
+</LanguageData>

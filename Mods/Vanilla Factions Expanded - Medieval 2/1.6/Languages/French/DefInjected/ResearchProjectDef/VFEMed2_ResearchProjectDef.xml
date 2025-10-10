@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: alchemy -->
+<VFEM2_Alchemy.label>alchimie</VFEM2_Alchemy.label>
+<!-- EN: Learn to plant various alchemical ingredients and combining them into different draughts at an alchemy lab. -->
+<VFEM2_Alchemy.description>Vous permet d'apprendre à planter divers ingrédients alchimiques et à les combiner pour obtenir différents breuvages dans un laboratoire de breuvage.</VFEM2_Alchemy.description>
+<!-- EN:
+  <li>subject->alchemical studies</li>
+  <li>subject_story->unlocked the mysteries of transmutation and concocted potent elixirs</li>
+  <li>subject_story->discovered a rare herb, rumored to grant eternal youth</li>
+  <li>subject_story->became a feared poisoner, selling deadly brews to the highest bidder</li>
+  <li>subject_gerund->brewing alchemical draughts</li>
+-->
+<VFEM2_Alchemy.generalRules.rulesStrings>
+  <li>subject->les études alchimiques</li>
+  <li>subject_story->a percé les mystères de la transmutation et concocté de puissants élixirs</li>
+  <li>subject_story->a découvert une herbe rare, censée conférer une jeunesse éternelle</li>
+  <li>subject_story->est devenu un empoisonneur redouté, vendant des breuvages mortels au plus offrant</li>
+  <li>subject_gerund->le brassage de breuvages alchimiques</li>
+</VFEM2_Alchemy.generalRules.rulesStrings>
+
+<!-- EN: beekeeping -->
+<VFEM2_Beekeeping.label>apiculture</VFEM2_Beekeeping.label>
+<!-- EN: Learn how to keep bees to produce honey from nearby plants. Honey can be used in creation of sweetrolls and mead. -->
+<VFEM2_Beekeeping.description>Vous permet d'apprendre à élever des abeilles pour produire du miel à partir des plantes environnantes. Le miel peut être utilisé pour créer des pains sucrés et de l'hydromel.</VFEM2_Beekeeping.description>
+<!-- EN:
+  <li>subject->apiculture</li>
+  <li>subject_story->studied the intricate social structures of bees</li>
+  <li>subject_story->cultivated vast apiaries, supplying nobles with the finest honey</li>
+  <li>subject_story->perfected the art of mead-making, becoming a renowned brewer</li>
+  <li>subject_gerund->tending to beehives</li>
+-->
+<VFEM2_Beekeeping.generalRules.rulesStrings>
+  <li>subject->l'apiculture</li>
+  <li>subject_story->a étudié les structures sociales complexes des abeilles</li>
+  <li>subject_story->a cultivé de vastes ruches, fournissant aux nobles le miel le plus raffiné</li>
+  <li>subject_story->a perfectionné l'art de la fabrication de l'hydromel, devenant un brasseur renommé</li>
+  <li>subject_gerund->l'entretien des ruches</li>
+</VFEM2_Beekeeping.generalRules.rulesStrings>
+
+<!-- EN: complex workshops -->
+<VFEM2_ComplexWorkshops.label>ateliers complexes</VFEM2_ComplexWorkshops.label>
+<!-- EN: Learn to build various tools and devices to enhance the productivity of the workbenches. -->
+<VFEM2_ComplexWorkshops.description>Vous permet d'apprendre à construire divers outils et dispositifs pour améliorer la productivité des établis.</VFEM2_ComplexWorkshops.description>
+<!-- EN:
+  <li>subject->advanced craftsmanship</li>
+  <li>subject_story->refined blacksmithing techniques, crafting tools of unmatched quality</li>
+  <li>subject_story->introduced mechanical innovations that revolutionized production</li>
+  <li>subject_story->formed a powerful guild, controlling the flow of masterwork goods</li>
+  <li>subject_gerund->improving workshop efficiency</li>
+-->
+<VFEM2_ComplexWorkshops.generalRules.rulesStrings>
+  <li>subject->l'artisanat de pointe</li>
+  <li>subject_story->a affiné les techniques de forge, fabriquant des outils d'une qualité inégalée</li>
+  <li>subject_story->a introduit des innovations mécaniques qui ont révolutionné la production</li>
+  <li>subject_story->a formé une guilde puissante, contrôlant le flux de marchandises de maître</li>
+  <li>subject_gerund->l'amélioration de l'efficacité des ateliers</li>
+</VFEM2_ComplexWorkshops.generalRules.rulesStrings>
+
+<!-- EN: heraldry -->
+<VFEM2_Heraldry.label>armoiries</VFEM2_Heraldry.label>
+<!-- EN: Adorn the colors of your faction and construct decorative banners and heraldic rugs. -->
+<VFEM2_Heraldry.description>Vous permet d'arborer les couleurs de votre faction, de fabriquer des bannières décoratives et des tapis héraldiques.</VFEM2_Heraldry.description>
+<!-- EN:
+  <li>subject->heraldic traditions</li>
+  <li>subject_story->designed banners that struck fear or awe into the hearts of foes</li>
+  <li>subject_story->crafted family crests, immortalizing legacies in fabric and stone</li>
+  <li>subject_story->led the creation of a grand hall adorned with noble insignia</li>
+  <li>subject_gerund->designing heraldic symbols</li>
+-->
+<VFEM2_Heraldry.generalRules.rulesStrings>
+  <li>subject->les traditions héraldiques</li>
+  <li>subject_story->a conçu des bannières qui ont suscité la peur ou l'effroi dans le cœur des ennemis</li>
+  <li>subject_story->a créé des blasons familiaux, immortalisant l'héritage dans le tissu et la pierre</li>
+  <li>subject_story->a dirigé la création d'un grand hall orné d'insignes nobles</li>
+  <li>subject_gerund->la conception de symboles héraldiques</li>
+</VFEM2_Heraldry.generalRules.rulesStrings>
+
+<!-- EN: matchlocks -->
+<VFEM2_Matchlocks.label>arme à mèche</VFEM2_Matchlocks.label>
+<!-- EN: Craft ancient, chempowder operated ranged weapons that utilise the matchlock mechanics, such as arquebuses and hand cannons. -->
+<VFEM2_Matchlocks.description>Vous permet de fabriquer d'anciennes armes à distance fonctionnant à la poudre noire et utilisant le mécanisme de la mèche, telles que des arquebuses et des canons à main.</VFEM2_Matchlocks.description>
+<!-- EN:
+  <li>subject->early firearms</li>
+  <li>subject_story->perfected the art of matchlock guns, bringing an age of gunpowder warfare</li>
+  <li>subject_story->supplied mercenaries with devastating ranged weaponry</li>
+  <li>subject_story->unleashed fire and thunder on the battlefield, changing warfare forever</li>
+  <li>subject_gerund->crafting matchlock firearms</li>
+-->
+<VFEM2_Matchlocks.generalRules.rulesStrings>
+  <li>subject->les premières armes à feu</li>
+  <li>subject_story->a perfectionné l'art des fusils à mèche, ouvrant la voie à l'ère de la guerre à la poudre</li>
+  <li>subject_story->a fourni aux mercenaires des armes à distance dévastatrices</li>
+  <li>subject_story->a déclenché le feu et le tonnerre sur le champ de bataille, changeant la guerre pour toujours</li>
+  <li>subject_gerund->la fabrication artisanale d'armes à feu à mèche</li>
+</VFEM2_Matchlocks.generalRules.rulesStrings>
+
+<!-- EN: medieval architecture -->
+<VFEM2_MedievalArchitecture.label>architecture médiévale</VFEM2_MedievalArchitecture.label>
+<!-- EN: Learn to construct various medieval structures, including cloth walls. -->
+<VFEM2_MedievalArchitecture.description>Vous permet d'apprendre à construire diverses structures médiévales, y compris des murs en tissu.</VFEM2_MedievalArchitecture.description>
+<!-- EN:
+  <li>subject->medieval construction</li>
+  <li>subject_story->oversaw the construction of towering castles and bustling townships</li>
+  <li>subject_story->engineered grand cathedrals, marvels of medieval craftsmanship</li>
+  <li>subject_story->developed secret passages and fortifications for clandestine schemes</li>
+  <li>subject_gerund->designing medieval structures</li>
+-->
+<VFEM2_MedievalArchitecture.generalRules.rulesStrings>
+  <li>subject->la construction médiévale</li>
+  <li>subject_story->a supervisé la construction de châteaux imposants et de villes animées</li>
+  <li>subject_story->a conçu de grandes cathédrales, merveilles de l'artisanat médiéval</li>
+  <li>subject_story->a aménagé des passages secrets et des fortifications pour des projets clandestins</li>
+  <li>subject_gerund->la conception de structures médiévales</li>
+</VFEM2_MedievalArchitecture.generalRules.rulesStrings>
+
+<!-- EN: wine -->
+<VFEM2_Wine.label>vin</VFEM2_Wine.label>
+<!-- EN: Plant grapes which can then be used to create wine must and eventually, high quality wine. -->
+<VFEM2_Wine.description>Vous permet de planter des raisins qui peuvent ensuite être utilisés pour créer du moût de vin et, finalement, du vin de haute qualité.</VFEM2_Wine.description>
+<!-- EN:
+  <li>subject->viniculture</li>
+  <li>subject_story->established a flourishing vineyard on the sun-kissed slopes</li>
+  <li>subject_story->experimented with fermentation techniques, crafting exquisite vintages</li>
+  <li>subject_story->became infamous for a revelry-fueled dynasty of wine merchants</li>
+  <li>subject_gerund->cultivating grapes and fermenting wine</li>
+-->
+<VFEM2_Wine.generalRules.rulesStrings>
+  <li>subject->la viticulture</li>
+  <li>subject_story->a établi un vignoble florissant sur les coteaux ensoleillés</li>
+  <li>subject_story->a expérimenté des techniques de fermentation, élaborant des millésimes exquis</li>
+  <li>subject_story->a été rendu tristement célèbre par une dynastie de négociants en vin qui s'adonnaient à la fête</li>
+  <li>subject_gerund->la culture du raisin et la fermentation du vin</li>
+</VFEM2_Wine.generalRules.rulesStrings>
+
+
+</LanguageData>

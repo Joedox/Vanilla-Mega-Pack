@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+<!--  Vanilla Animals Expanded — Extreme Desert  -->
+
+	<Operation Class="PatchOperationFindMod">
+
+		<mods>
+			<li>Vanilla Animals Expanded — Extreme Desert</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+
+		<!--  ThingDefs  -->
+				<!--  WoolCamel  -->
+			<li Class="PatchOperationReplace"> 
+				<xpath>Defs/ThingDef[defName = "WoolCamel"]/defName</xpath>
+				<value>
+					<defName>AEXP_WoolCamel</defName>
+				</value>
+			</li>
+
+			<li Class="PatchOperationReplace"> 
+				<xpath>Defs/ThingDef[defName = "AEXP_Camel"]/comps/li/woolDef</xpath>
+				<value>
+					<woolDef>AEXP_WoolCamel</woolDef>
+				</value>
+			</li>
+
+		</operations>
+		</match>
+
+	</Operation>
+
+</Patch>

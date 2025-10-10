@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEA_Invisiblity.label>invisible</VFEA_Invisiblity.label>
+<VFEA_Invisiblity.description>La lumière se courbe autour de vous pour vous dissimuler.</VFEA_Invisiblity.description>
+
+<VFEA_Phasing.label>phasage</VFEA_Phasing.label>
+<VFEA_Phasing.description>Déphasé par rapport à la réalité normale, permettant de traverser de la matière solide.</VFEA_Phasing.description>
+
+<VFEA_SpeedBurst.label>bonus de vitesse</VFEA_SpeedBurst.label>
+<VFEA_SpeedBurst.description>Stimulation musculaire qui augmente considérablement la vitesse de déplacement et de combat en mêlée.</VFEA_SpeedBurst.description>
+
+<VFEA_MetaMorph.label>métamorphose</VFEA_MetaMorph.label>
+<VFEA_MetaMorph.description>.</VFEA_MetaMorph.description>
+
+<Power_Blind.label>aveugle</Power_Blind.label>
+<Power_Blind.description>Le système cérébral du sujet, qui est responsable du traitement des données optiques a été retardé, ce qui rend le sujet complètement aveugle malgré une vue fonctionnelle.</Power_Blind.description>
+
+<Power_Deaf.label>sourd</Power_Deaf.label>
+<Power_Deaf.description>Le système cérébral du sujet, qui est responsable du traitement des données auditives a été retardé, ce qui rend le sujet complètement sourd bien que les canaux de l'oreille interne soient fonctionnels.</Power_Deaf.description>
+
+<Power_Mute.label>muet</Power_Mute.label>
+<Power_Mute.description>Le sujet a développé un blocage mental et ne peut plus créer de sons avec sa bouche ou ses cordes vocales, éliminant toute forme de parole.</Power_Mute.description>
+
+<Power_Paralysis.label>paralysie psychologique</Power_Paralysis.label>
+<Power_Paralysis.description>Le centre du cerveau du sujet responsable du contrôle de la motricité des jambes est devenu déficient, ce qui rend le sujet paraplégique.</Power_Paralysis.description>
+
+<Power_PainHypersensitivity.label>hypersensibilité à la douleur</Power_PainHypersensitivity.label>
+<Power_PainHypersensitivity.description>Le système cérébral du sujet, qui est responsable de la sensation de douleur, a été surdéveloppé, de sorte que même une coupure de papier donne l'impression que le doigt est mâchouillé par un animal sauvage.</Power_PainHypersensitivity.description>
+
+<Power_Unstoppable.label>inarrêtable</Power_Unstoppable.label>
+<Power_Unstoppable.description>Le cerveau du sujet n'est plus capable de traiter la sensation de douleur. Cela lui permet d'accomplir plus de choses, mais empêche son corps de s'arrêter de subir des dégâts excessifs jusqu'à ce qu'il soit détruit.</Power_Unstoppable.description>
+
+<VFEA_PlasteelClaw.label>griffe en plastacier</VFEA_PlasteelClaw.label>
+<VFEA_PlasteelClaw.description>Une mutation de la main orientée vers le combat créée par les super-nanites. Elle coupe profondément, et elle est assez puissante pour écraser un crâne comme une main écrase un œuf. Les griffes peuvent être rétractées.</VFEA_PlasteelClaw.description>
+<VFEA_PlasteelClaw.comps.HediffComp_VerbGiver.tools.plasteel_claw.label>griffe en plastacier</VFEA_PlasteelClaw.comps.HediffComp_VerbGiver.tools.plasteel_claw.label>
+<VFEA_PlasteelClaw.labelNoun>une griffe en plastacier</VFEA_PlasteelClaw.labelNoun>
+
+<VFEA_RegrowingPart.label>régénération</VFEA_RegrowingPart.label>
+<VFEA_RegrowingPart.description>Cette partie du corps se régénère.</VFEA_RegrowingPart.description>
+<VFEA_RegrowingPart.stages.bones.label>os</VFEA_RegrowingPart.stages.bones.label>
+<VFEA_RegrowingPart.stages.muscles.label>muscles</VFEA_RegrowingPart.stages.muscles.label>
+<VFEA_RegrowingPart.stages.nerves.label>nerfs</VFEA_RegrowingPart.stages.nerves.label>
+<VFEA_RegrowingPart.stages.skin.label>peau</VFEA_RegrowingPart.stages.skin.label>
+<VFEA_RegrowingPart.stages.finishing.label>finition</VFEA_RegrowingPart.stages.finishing.label>
+
+
+</LanguageData>

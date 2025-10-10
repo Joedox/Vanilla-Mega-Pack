@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: smoke grenade belt -->
+<VWE_Apparel_GrenadeSmokeBelt.label>ceinture grenades fumigène</VWE_Apparel_GrenadeSmokeBelt.label>
+<!-- EN: Old school condensed smoke canisters that explodes into a smoke wall on impact, strapped to a belt. Can be reloaded using smoke grenades. -->
+<VWE_Apparel_GrenadeSmokeBelt.description>Attachées à la ceinture, ces vieilles cartouches de fumée condensée explosent en un nuage de fumée à l'impact.\n\nPeut-être rechargées avec une grenade fumigène.</VWE_Apparel_GrenadeSmokeBelt.description>
+<!-- EN: smoke -->
+<VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>grenade fumigène</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>
+<!-- EN: throw smoke grenade -->
+<VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>lancer une grenade fumigène</VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>
+<!-- EN: on cooldown -->
+<VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>
+
+<!-- EN: flash grenade belt -->
+<VWE_Apparel_GrenadeFlashBelt.label>ceinture grenades assourdissante</VWE_Apparel_GrenadeFlashBelt.label>
+<!-- EN: A belt of flash grenades. Temporarily stuns organic enemies allowing users to close the distance. Can be reloaded using flash grenades. -->
+<VWE_Apparel_GrenadeFlashBelt.description>Attachées à la ceinture, ces grenades étourdies temporairement les ennemis et permet à l’utilisateur de s’approcher. Fonctionne uniquement sur des personnes ou des animaux.\n\nPeut-être rechargées avec une grenade assourdissante.</VWE_Apparel_GrenadeFlashBelt.description>
+<!-- EN: flash -->
+<VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>grenade assourdissante</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>
+<!-- EN: throw flashbang grenade -->
+<VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>lancer une grenade assourdissante</VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>
+<!-- EN: on cooldown -->
+<VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>
+
+<!-- EN: tox grenade belt -->
+<VWE_Apparel_GrenadeToxicBelt.label>ceinture grenades toxique</VWE_Apparel_GrenadeToxicBelt.label>
+<!-- EN: Charge powered lethal gas canister causing toxic buildup over a very short period of time, strapped to a belt. Can be reloaded using tox grenades. -->
+<VWE_Apparel_GrenadeToxicBelt.description>Attachées à la ceinture, ces cartouches de gaz mortel actionnées par une charge, provoquent une forte accumulation de substances toxiques sur une très courte période.\n\nPeut-être rechargées avec une grenade toxique.</VWE_Apparel_GrenadeToxicBelt.description>
+<!-- EN: gas -->
+<VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>grenade toxique</VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>
+<!-- EN: throw tox grenade -->
+<VWE_Apparel_GrenadeToxicBelt.verbs.throw_tox_grenade.label>lancer une grenade toxique</VWE_Apparel_GrenadeToxicBelt.verbs.throw_tox_grenade.label>
+<!-- EN: on cooldown -->
+<VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.cooldownGerund>
+
+
+</LanguageData>

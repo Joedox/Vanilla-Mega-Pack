@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: casual wear -->
+<VAE_CasualWear.label>vêtements décontracté</VAE_CasualWear.label>
+<!-- EN: Craft casual wear with handy features for any life situation. -->
+<VAE_CasualWear.description>Vous permet de fabriquer des vêtements décontractés avec des caractéristiques pratiques pour toutes les situations de la vie.</VAE_CasualWear.description>
+<!-- EN:
+  <li>subject->everyday comfort</li>
+  <li>subject_story->revolutionized daily attire with pockets for every gadget</li>
+  <li>subject_story->created clothes that adapt to both social gatherings and solitude</li>
+  <li>subject_story->crafted the ultimate leisure outfit, blending fashion with utility</li>
+  <li>subject_gerund->designing versatile casual wear</li>
+-->
+<VAE_CasualWear.generalRules.rulesStrings>
+  <li>subject->vêtements décontracté</li>
+  <li>subject_story->a révolutionné la tenue vestimentaire quotidienne avec des poches pour tous les gadgets</li>
+  <li>subject_story->a créé des vêtements qui s'adaptent aussi bien aux rencontres sociales qu'à la solitude</li>
+  <li>subject_story->a créé la tenue de loisirs par excellence, alliant la mode à l'utilité</li>
+  <li>subject_gerund->la création des vêtements polyvalents et décontractés</li>
+</VAE_CasualWear.generalRules.rulesStrings>
+
+<!-- EN: formal wear -->
+<VAE_FormalWear.label>vêtements de cérémonie</VAE_FormalWear.label>
+<!-- EN: Craft suits and formal wear. -->
+<VAE_FormalWear.description>Vous permet de fabriquer des costumes et des uniformes de cérémonie.</VAE_FormalWear.description>
+<!-- EN:
+  <li>subject->elegant dressing</li>
+  <li>subject_story->designed the most sought-after gala attire</li>
+  <li>subject_story->brought back vintage styles with a modern twist</li>
+  <li>subject_story->tailored suits that became the standard in high diplomacy</li>
+  <li>subject_gerund->crafting exquisite formal wear</li>
+-->
+<VAE_FormalWear.generalRules.rulesStrings>
+  <li>subject->vêtements de cérémonie</li>
+  <li>subject_story->a conçu les tenues de gala les plus convoitées</li>
+  <li>subject_story->a ramené les styles vintage avec une touche de modernité</li>
+  <li>subject_story->a créé des costumes sur mesure qui sont devenus la norme dans la haute diplomatie</li>
+  <li>subject_gerund->la fabrication de vêtements de cérémonie exquis</li>
+</VAE_FormalWear.generalRules.rulesStrings>
+
+<!-- EN: military clothing -->
+<VAE_MilitaryClothing.label>vêtements militaire</VAE_MilitaryClothing.label>
+<!-- EN: Craft weatherproof outfits to protect your soldiers. -->
+<VAE_MilitaryClothing.description>Vous permet de fabriquer des vêtements imperméables pour protéger vos soldats.</VAE_MilitaryClothing.description>
+<!-- EN:
+  <li>subject->tactical gear</li>
+  <li>subject_story->designed camouflage that blends into multiple terrains</li>
+  <li>subject_story->created armor inserts that are both lightweight and bulletproof</li>
+  <li>subject_story->equipped units with climate-controlled battle dress</li>
+  <li>subject_gerund->assembling advanced military outfits</li>
+-->
+<VAE_MilitaryClothing.generalRules.rulesStrings>
+  <li>subject->vêtements militaire</li>
+  <li>subject_story->a conçu un camouflage pour se fondre dans de multiples terrains</li>
+  <li>subject_story->a créé des inserts d'armure à la fois légers et pare-balles</li>
+  <li>subject_story->a équipé les unités de tenues de combat climatisées</li>
+  <li>subject_gerund->l'assemblage d'équipements militaires avancés</li>
+</VAE_MilitaryClothing.generalRules.rulesStrings>
+
+<!-- EN: sterile attire -->
+<VAE_SterileAttire.label>tenues stérile</VAE_SterileAttire.label>
+<!-- EN: Craft sterile attire used by doctors and scientists. -->
+<VAE_SterileAttire.description>Vous permet de fabriquer des tenues stériles utilisées par les médecins et les scientifiques.</VAE_SterileAttire.description>
+<!-- EN:
+  <li>subject->hygienic wear</li>
+  <li>subject_story->developed a fabric that repels 99.9% of microbes</li>
+  <li>subject_story->pioneered the self-cleaning lab coat</li>
+  <li>subject_story->introduced color-coded uniforms for different lab sectors</li>
+  <li>subject_gerund->producing sterile clothing</li>
+-->
+<VAE_SterileAttire.generalRules.rulesStrings>
+  <li>subject->tenues stérile</li>
+  <li>subject_story->a mis au point un tissu qui repousse 99,9% des microbes</li>
+  <li>subject_story->a été le pionnier de la blouse de laboratoire autonettoyante</li>
+  <li>subject_story->a introduit des uniformes avec un code couleur pour les différents secteurs du laboratoire</li>
+  <li>subject_gerund->la production de vêtements stériles</li>
+</VAE_SterileAttire.generalRules.rulesStrings>
+
+<!-- EN: work attire -->
+<VAE_WorkAttire.label>tenues de travail</VAE_WorkAttire.label>
+<!-- EN: Craft comfortable and and functional attire for any kind of work. -->
+<VAE_WorkAttire.description>Vous permet de fabriquer des tenues confortables et fonctionnels pour tout type de travail.</VAE_WorkAttire.description>
+<!-- EN:
+  <li>subject->functional fashion</li>
+  <li>subject_story->introduced durable fabrics that withstand any job</li>
+  <li>subject_story->innovated with multi-tool belts integrated into work pants</li>
+  <li>subject_story->set the new norm with climate-adaptive work clothes</li>
+  <li>subject_gerund->sewing specialized work attire</li>
+-->
+<VAE_WorkAttire.generalRules.rulesStrings>
+  <li>subject->tenues de travail</li>
+  <li>subject_story->a introduit des tissus durables qui résistent à tous types de travaux</li>
+  <li>subject_story->a innové avec des ceintures multi-outils intégrées aux pantalons de travail</li>
+  <li>subject_story->a établit la nouvelle norme avec des vêtements de travail adaptés au climat</li>
+  <li>subject_gerund->la couture de vêtements de travail spécialisés</li>
+</VAE_WorkAttire.generalRules.rulesStrings>
+
+
+</LanguageData>

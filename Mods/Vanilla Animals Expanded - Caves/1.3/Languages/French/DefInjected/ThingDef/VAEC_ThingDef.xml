@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VAECaves_Cocoon.label>cocon d'araignée</VAECaves_Cocoon.label>
+<VAECaves_Cocoon.description>Un cocon d'araignée. Il peut contenir une proie. Si le cocon n'est pas ouvert rapidement, son occupant va sûrement suffoquer et mourir.</VAECaves_Cocoon.description>
+
+<VAECaves_EmptyCocoon.label>cocon d'araignée vide</VAECaves_EmptyCocoon.label>
+<VAECaves_EmptyCocoon.description>Un cocon d'araignée vide.</VAECaves_EmptyCocoon.description>
+
+<VAECaves_SpiderLair.label>antre d'araignée</VAECaves_SpiderLair.label>
+<VAECaves_SpiderLair.description>Un antre d'araignée.</VAECaves_SpiderLair.description>
+
+<VAECaves_SpiderEggs.label>œufs d'araignée</VAECaves_SpiderEggs.label>
+<VAECaves_SpiderEggs.description>Des œufs d'araignée.</VAECaves_SpiderEggs.description>
+
+<VAECaves_EggSalamanderFertilized.label>œuf de salamandre aveugle (fécondé)</VAECaves_EggSalamanderFertilized.label>
+<VAECaves_EggSalamanderFertilized.description>Un œuf de salamandre aveugle fécondé. Si tout se passe bien, il devrait éclore en une salamandre aveugle. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.\n\nMécanique spéciale : les œufs de salamandre aveugle sont très fragiles, et seront détériorés s'ils sont conservés en dehors d'une plage de température précise (5 à 25 ºC).</VAECaves_EggSalamanderFertilized.description>
+
+<VAECaves_CaveCrawlerEggFertilized.label>œuf de chenille des cavernes (fécondé)</VAECaves_CaveCrawlerEggFertilized.label>
+<VAECaves_CaveCrawlerEggFertilized.description>Œuf de chenille des cavernes fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit. En fait, c'est un oeuf d'insecte, c'est dégoûtant de toute façon... Si tout se passe bien, il devrait éclore en une chenille des cavernes.</VAECaves_CaveCrawlerEggFertilized.description>
+
+<VAECaves_RangedSilk.label>projectile de soie</VAECaves_RangedSilk.label>
+
+<VAECaves_Filth_Webs.label>toile d'araignée</VAECaves_Filth_Webs.label>
+
+<VAECaves_AncientGiantSpider.label>ancienne araignée géante</VAECaves_AncientGiantSpider.label>
+<VAECaves_AncientGiantSpider.description>Type d'arthropode, les araignées géantes sont en fait très loin d'avoir la taille des araignées domestiques auxquelles l'homme est habitué. Cependant, les mêmes règles s'appliquent : elles pondent leurs œufs dans des antres, piquent leur proie avec leur dard venimeux et l'enveloppent dans des cocons pour la dévorer au moment opportun. Elles régénèrent rapidement leurs blessures et sont très sensibles au feu.\n\nUn stade de vie incroyablement rare et encore plus dangereux de l'araignée géante, les araignées anciennes ont vécu pendant des centaines d'années et maîtrisé leurs outils de mort. Elles sont capables d'effectuer une attaque à distance par projection de toile qui recouvre la zone d'une toile d'araignée dense. Si l'on ne s'en occupe pas, une ancienne araignée géante peut rapidement transformer des villages encore plus grands en enveloppes géantes de toile d'araignée et d'œufs.\n\nMécanique spéciale : Si elle est attaquée, toutes les autres araignées géantes à proximité, quel que soit leur stade de vie, entreront en rage et attaqueront la colonie. Ses attaques de mêlée provoquent des infections.</VAECaves_AncientGiantSpider.description>
+<VAECaves_AncientGiantSpider.tools.mandibles-0.label>mandibles</VAECaves_AncientGiantSpider.tools.mandibles-0.label>
+<VAECaves_AncientGiantSpider.tools.mandibles-1.label>mandibles</VAECaves_AncientGiantSpider.tools.mandibles-1.label>
+<VAECaves_AncientGiantSpider.tools.head.label>tête</VAECaves_AncientGiantSpider.tools.head.label>
+<VAECaves_AncientGiantSpider.verbs.ranged_silk.label>projectile de soie</VAECaves_AncientGiantSpider.verbs.ranged_silk.label>
+
+<VAECaves_BlindSalamander.label>salamandre aveugle</VAECaves_BlindSalamander.label>
+<VAECaves_BlindSalamander.description>Un amphibien qui habite principalement ou exclusivement les grottes. Certains de ces animaux ont développé des mutations pigmentaires particulières, qui leur permettent d'avoir des couleurs magnifiques et très agréables à regarder. De nombreuses personnes sont fascinées par les différentes variations, et ne reculent devant rien pour les attraper toutes.\n\nMécanique spéciale : Il existe cinq variations de couleurs, avec différents points communs : les salamandres aveugles rouges et noires sont communes, les bleues et les jaunes sont rares, et la salamandre orange est très rare. Si vous apprivoisez les cinq couleurs, vos colons recevront un bonus d'humeur, augmenté pour les colons qui sont liés à l'une des salamandres.</VAECaves_BlindSalamander.description>
+<VAECaves_BlindSalamander.tools.left_claw.label>griffe gauche</VAECaves_BlindSalamander.tools.left_claw.label>
+<VAECaves_BlindSalamander.tools.right_claw.label>griffe droite</VAECaves_BlindSalamander.tools.right_claw.label>
+<VAECaves_BlindSalamander.tools.head.label>tête</VAECaves_BlindSalamander.tools.head.label>
+
+<VAECaves_CaveBear.label>ours des cavernes</VAECaves_CaveBear.label>
+<VAECaves_CaveBear.description>Un énorme mammifère omnivore adapté aux climats plus froids. L'épaisse graisse et la fourrure de l'ours lui tiennent chaud en hiver.\n\nBien que son régime alimentaire habituel soit composé de poisson, de baies, de miel et de viande récupérée, l'ours des cavernes est capable d'utiliser sa force massive et ses griffes mortelles pour tuer des proies vivantes, mais il le fait rarement, car il préfère chercher des friandises bien plus savoureuses. Il est étonnamment rapide pour une créature aussi lourde.</VAECaves_CaveBear.description>
+<VAECaves_CaveBear.tools.left_claw.label>griffe gauche</VAECaves_CaveBear.tools.left_claw.label>
+<VAECaves_CaveBear.tools.right_claw.label>griffe droite</VAECaves_CaveBear.tools.right_claw.label>
+<VAECaves_CaveBear.tools.head.label>tête</VAECaves_CaveBear.tools.head.label>
+
+<VAECaves_CaveCrawler.label>chenille des cavernes</VAECaves_CaveCrawler.label>
+<VAECaves_CaveCrawler.description>Les rampants des cavernes sont une aberration créée par les expériences d'un savant fou oublié. Ce sont de grands insectoïdes jaune pâle dont l'apparence s'apparente à celle d'un Centipède. Les rampants des cavernes possèdent des tentacules venimeux dépassant de leur tête, ce qui leur permet d'appliquer rapidement un venin très puissant à tout ce qui ose les attaquer.\n\nMécanique spéciale : Les morsures des chenilles des cavernes peuvent transmettre la peste bubonique, ce qui les rend particulièrement dangereuses dans les endroits clos.</VAECaves_CaveCrawler.description>
+<VAECaves_CaveCrawler.tools.mandibles.label>mandibles</VAECaves_CaveCrawler.tools.mandibles.label>
+<VAECaves_CaveCrawler.tools.head.label>tête</VAECaves_CaveCrawler.tools.head.label>
+
+<VAECaves_GiantSpider.label>araignée géante</VAECaves_GiantSpider.label>
+<VAECaves_GiantSpider.description>Type d'arthropode, les araignées géantes sont en fait très loin d'avoir la taille des araignées domestiques auxquelles l'homme est habitué. Cependant, les mêmes règles s'appliquent : elles pondent leurs œufs dans des antres, piquent leur proie avec leur dard venimeux et l'enveloppent dans des cocons pour la dévorer au moment opportun. Elles régénèrent rapidement leurs blessures et sont très sensibles au feu.\n\nL'araignée géante adulte est le stade de vie le plus communément rencontré chez les araignées géantes. La morsure de leurs crochets puissants étourdit leur proie pendant une très longue période, ce qui donne à l'araignée géante suffisamment de temps pour l'envelopper dans un cocon de soie.\n\nMécanique spéciale : Si elles sont attaquées, toutes les autres araignées géantes à proximité, quel que soit leur stade de vie, vont enrager et attaquer la colonie.</VAECaves_GiantSpider.description>
+<VAECaves_GiantSpider.tools.mandibles.label>mandibles</VAECaves_GiantSpider.tools.mandibles.label>
+<VAECaves_GiantSpider.tools.head.label>tête</VAECaves_GiantSpider.tools.head.label>
+
+<VAECaves_GiantSpiderHatchling.label>araignée géante éclosion</VAECaves_GiantSpiderHatchling.label>
+<VAECaves_GiantSpiderHatchling.description>Type d'arthropode, les araignées géantes sont en fait très loin d'avoir la taille des araignées domestiques auxquelles l'homme est habitué. Cependant, les mêmes règles s'appliquent : elles pondent leurs œufs dans des antres, piquent leur proie avec leur dard venimeux et l'enveloppent dans des cocons pour la dévorer au moment opportun. Elles régénèrent rapidement leurs blessures et sont très sensibles au feu.\n\nL'éclosion de l'araignée géante est une jeune araignée géante insaisissable qui grandit rapidement en taille. Elle n'a pas encore développé ses mécanismes de chasse, mais elle peut cependant neutraliser ses ennemis grâce à un venin puissant.\n\nMécanique spéciale : Se transforme en une araignée géante mature en un peu moins de deux jours. Si une ancienne araignée géante est attaquée à proximité, elle se mettra dans une folie de chasse à l'homme.</VAECaves_GiantSpiderHatchling.description>
+<VAECaves_GiantSpiderHatchling.tools.mandibles.label>mandibles</VAECaves_GiantSpiderHatchling.tools.mandibles.label>
+<VAECaves_GiantSpiderHatchling.tools.head.label>tête</VAECaves_GiantSpiderHatchling.tools.head.label>
+
+<VAECaves_InsectoidHulk.label>brute insectoïde</VAECaves_InsectoidHulk.label>
+<VAECaves_InsectoidHulk.description>Créée par des méga-corporations suprématistes à des fins militaires, l'expérience des insectoïdes a été abandonnée et les échantillons existants ont été laissés éparpillés là où personne ne chercherait - sur les rimworlds. Mi-insectoïdes, mi-humains, il ne faut pas s'attendre à de la pitié de la part de ces gigantesques et imposants engins de siège. Conçus non pas pour surmonter les défenses ennemies mais pour les éliminer, l'épaisse armure en chitine les rend difficiles à tuer, tandis que leurs énormes bras les rendent mortels au corps à corps. Il est cependant assez lent en terrain ouvert.\n\nMécanique spéciale : L'insectoïde entre dans une rage folle après avoir tué sa proie, ce qui le rend très dangereux. Ses attaques étourdissent ses victimes et il a une fâcheuse tendance à arracher les membres de leur orbite, si bien quand combat rapproché relève du suicide. Lorsqu'il est suffisamment enragé, la brute insectoïde peut même piétiner des fortifications et des portes. Il est insensible à la douleur.</VAECaves_InsectoidHulk.description>
+<VAECaves_InsectoidHulk.tools.arm.label>bras</VAECaves_InsectoidHulk.tools.arm.label>
+<VAECaves_InsectoidHulk.tools.two_arm_slam.label>coup des deux bras</VAECaves_InsectoidHulk.tools.two_arm_slam.label>
+<VAECaves_InsectoidHulk.tools.head.label>tête</VAECaves_InsectoidHulk.tools.head.label>
+
+<VAECaves_Wyrm.label>wyrm</VAECaves_Wyrm.label>
+<VAECaves_Wyrm.description>Les Wyrms sont des créatures solitaires qui vivent dans les systèmes de grottes les plus sombres, chassés jusqu'à l'extinction dans les mondes centraux. Leurs queues sont capables d'appliquer une toxine incroyablement puissante qui paralyse rapidement leurs proies, tandis que leurs dents acérées déchirent la chair et l'acier en lambeaux.\n\nLes wyrms se lient rarement avec les humains, mais quand ils le font, leur lien est difficile à briser. Un wyrm lié sera plus féroce et plus courageux lorsqu'il défendra son maître, mais si ce dernier meurt, le wyrm s'enfuira et vivra le reste de sa vie dans la solitude, sans plus jamais se lier à personne.</VAECaves_Wyrm.description>
+<VAECaves_Wyrm.tools.left_claw.label>griffe gauche</VAECaves_Wyrm.tools.left_claw.label>
+<VAECaves_Wyrm.tools.right_claw.label>griffe droite</VAECaves_Wyrm.tools.right_claw.label>
+<VAECaves_Wyrm.tools.tail.label>queue</VAECaves_Wyrm.tools.tail.label>
+
+
+</LanguageData>

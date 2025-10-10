@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_Apparel_Exoframe.label>armature exosquelette</VWE_Apparel_Exoframe.label>
+<VWE_Apparel_Exoframe.description>Une armature portable, alimentée par un système hydraulique, des moteurs électriques, des leviers et des pneumatiques, conçue pour permettre des mouvements rapides. Bien qu'elle n'offre aucune protection, elle permet à l'utilisateur de marcher plus vite, de soulever des objets plus lourds et de maintenir son équilibre plus facilement.</VWE_Apparel_Exoframe.description>
+
+<VWE_Gun_Autocannon.label>autocanon</VWE_Gun_Autocannon.label>
+<VWE_Gun_Autocannon.description>Un canon à gros calibre à chargement automatique. Ses obus de gros calibre font de gros dégâts à grande distance. Il est lent à viser et ne peut pas tirer sur des cibles proches.\n\nÉtant une arme extrêmement lourde, cette arme nécessite une armure motorisée pour être utilisée efficacement.\n\nCette arme a un nombre limité d'utilisations.</VWE_Gun_Autocannon.description>
+<VWE_Gun_Autocannon.tools.grip.label>poignée</VWE_Gun_Autocannon.tools.grip.label>
+<VWE_Gun_Autocannon.tools.barrel.label>canon</VWE_Gun_Autocannon.tools.barrel.label>
+<VWE_Gun_Autocannon.verbs.Verb_Shoot.label>autocanon</VWE_Gun_Autocannon.verbs.Verb_Shoot.label>
+
+<VWE_Gun_HandheldMortar.label>mortier portatif</VWE_Gun_HandheldMortar.label>
+<VWE_Gun_HandheldMortar.description>Lanceur de mortier. Lance des bombes au-dessus des murs. Très imprécis mais à une longue portée. Il est lent à viser et ne peut pas tirer sur des cibles proches.\n\nÉtant une arme extrêmement lourde, cette arme nécessite une armure motorisée pour être utilisée efficacement.\n\nCette arme a un nombre limité d'utilisations.</VWE_Gun_HandheldMortar.description>
+<VWE_Gun_HandheldMortar.tools.grip.label>poignée</VWE_Gun_HandheldMortar.tools.grip.label>
+<VWE_Gun_HandheldMortar.tools.barrel.label>canon</VWE_Gun_HandheldMortar.tools.barrel.label>
+<VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>mortier portatif</VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>
+
+<VWE_Gun_HeavyFlamer.label>lance-flammes lourd</VWE_Gun_HeavyFlamer.label>
+<VWE_Gun_HeavyFlamer.description>Un puissant lance-flammes de qualité militaire basé sur des cracheurs inferno mécanoïdes. Il peut recouvrir de flammes toute la zone située devant l'utilisateur.\n\nÉtant une arme extrêmement lourde, cette arme nécessite une armure motorisée pour être utilisée efficacement.\n\nCette arme a un nombre limité d'utilisations.</VWE_Gun_HeavyFlamer.description>
+<VWE_Gun_HeavyFlamer.tools.grip.label>poignée</VWE_Gun_HeavyFlamer.tools.grip.label>
+<VWE_Gun_HeavyFlamer.tools.barrel.label>canon</VWE_Gun_HeavyFlamer.tools.barrel.label>
+<VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>lance-flammes lourd</VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>
+<VWE_Bullet_HeavyFlamer.label>tir lance-flammes lourd</VWE_Bullet_HeavyFlamer.label>
+
+<VWE_Gun_SwarmMissileLauncher.label>lanceur de missiles essaims</VWE_Gun_SwarmMissileLauncher.label>
+<VWE_Gun_SwarmMissileLauncher.description>Un lanceur de missiles qui tire huit missiles explosifs de petit calibre qui poursuivent différentes cibles.\n\nÉtant une arme extrêmement lourde, cette arme nécessite une armure motorisée pour être utilisée efficacement.\n\nCette arme a un nombre limité d'utilisations.</VWE_Gun_SwarmMissileLauncher.description>
+<VWE_Gun_SwarmMissileLauncher.tools.grip.label>poignée</VWE_Gun_SwarmMissileLauncher.tools.grip.label>
+<VWE_Gun_SwarmMissileLauncher.tools.barrel.label>canon</VWE_Gun_SwarmMissileLauncher.tools.barrel.label>
+<VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>lanceur de missiles essaims</VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>
+<VWE_Bullet_SwarmRocket.label>missiles essaims</VWE_Bullet_SwarmRocket.label>
+
+<VWE_Gun_UraniumSlugRifle.label>fusil à obus d'uranium</VWE_Gun_UraniumSlugRifle.label>
+<VWE_Gun_UraniumSlugRifle.description>Un canon à obus d'uranium à chargement automatique. Ses obus d'uranium ultra-denses peuvent percer des armures lourdes. Il est plus précis à longue portée, et ne peut pas tirer sur des cibles proches.\n\nÉtant une arme extrêmement lourde, cette arme nécessite une armure motorisée pour être utilisée efficacement.\n\nCette arme a un nombre limité d'utilisations.</VWE_Gun_UraniumSlugRifle.description>
+<VWE_Gun_UraniumSlugRifle.tools.grip.label>poignée</VWE_Gun_UraniumSlugRifle.tools.grip.label>
+<VWE_Gun_UraniumSlugRifle.tools.barrel.label>canon</VWE_Gun_UraniumSlugRifle.tools.barrel.label>
+<VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>fusil à obus d'uranium</VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Gene infection ({0}), {1} -->
+<VRE_InfectionLabel>Infecteur de gènes ({0}), {1}</VRE_InfectionLabel>
+<!-- EN: Infection caused by the contact with a {0}. Upon reaching 100%, colonist will turn into a {0} -->
+<VRE_InfectionDescription>Infection causée par le contact avec un {0}. Lorsqu'il atteint 100%, le colon se transforme en {0}.</VRE_InfectionDescription>
+<!-- EN: Gene infected ({0} days) -->
+<VRE_InfectedLabel>Gène infecté ({0} jour{0_multiple ? s : })</VRE_InfectedLabel>
+<!-- EN: Gene infection chance -->
+<VRE_InfectionChance>Chance d'infection des gènes</VRE_InfectionChance>
+<!-- EN: Chance of the gene infection to infect the target. By default it is 20%. Bear in mind this only applies to claw and teeth attacks, if the person with a gene infector gene carries melee weapons this will reduce infection chances. -->
+<VRE_InfectionChanceDesc>Chance d'infection des gènes de la cible. Par défaut, elle est de 20%. Gardez à l'esprit que cela ne s'applique qu'aux attaques de griffes et de dents. Si la personne possédant "infecteur de gène" utilise des armes de mêlée, les chances d'infection s'en trouveront réduites.</VRE_InfectionChanceDesc>
+<!-- EN: Reset -->
+<VRE_Reset>Réinitialiser</VRE_Reset>
+
+
+</LanguageData>

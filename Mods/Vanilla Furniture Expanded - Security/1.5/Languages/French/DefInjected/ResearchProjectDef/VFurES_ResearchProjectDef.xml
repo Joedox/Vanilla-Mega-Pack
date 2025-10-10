@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFES_SiegeEquipment.label>equipement de siège</VFES_SiegeEquipment.label>
+<VFES_SiegeEquipment.description>Vous permet de construire de l'équipement de siège médiéval.</VFES_SiegeEquipment.description>
+<VFES_SiegeEquipment.generalRules.rulesStrings>
+    <li>subject->les maîtres du siège</li>
+    <li>subject_story->a remis au goût du jour d'anciennes méthodes pour percer les défenses les plus solides</li>
+    <li>subject_story->a fabriqué des engins de guerre qui tonnent à travers les champs, semant la terreur chez les ennemis</li>
+    <li>subject_story->a fabriqué des trébuchets et des béliers à partir de bois et de fer robustes</li>
+    <li>subject_story->a mené des sièges qui sont devenus légendaires et dont la tactique a été étudiée pendant des siècles</li>
+    <li>subject_gerund->la redécouverte du passé pour assiéger l'avenir</li>
+</VFES_SiegeEquipment.generalRules.rulesStrings>
+
+<VFES_SentryGuns.label>canon sentinelle</VFES_SentryGuns.label>
+<VFES_SentryGuns.description>Vous permet de fabriquer des armes à feu sentinelles autonomes et fiables à utiliser sur le terrain.</VFES_SentryGuns.description>
+<VFES_SentryGuns.generalRules.rulesStrings>
+    <li>subject->les gardiens automatisés</li>
+    <li>subject_story->a inauguré une nouvelle ère de défense avec le déploiement de canons de défense à fonctionnement automatique</li>
+    <li>subject_story->a fusionné l'intelligence artificielle et l'efficacité meurtrière, établissant une nouvelle norme en matière de sécurité périmétrique</li>
+    <li>subject_story->a conçu des systèmes qui restent vigilants, offrant une protection inébranlable contre les menaces</li>
+    <li>subject_story->a intégré des systèmes de ciblage avancés pour minimiser les dommages collatéraux</li>
+    <li>subject_gerund->la surveillance des champs silencieux avec des yeux sans sourciller</li>
+</VFES_SentryGuns.generalRules.rulesStrings>
+
+<VFES_Artillery.label>artillerie</VFES_Artillery.label>
+<VFES_Artillery.description>Vous permet d'apprendre à construire de l'artillerie de campagne.</VFES_Artillery.description>
+<VFES_Artillery.generalRules.rulesStrings>
+    <li>subject->les rois du champ de bataille</li>
+    <li>subject_story->a maîtrisé l'art du bombardement à longue portée, déterminant le cours des engagements à distance</li>
+    <li>subject_story->a créé des canons et des obusiers qui rugissent, détruisant les formations ennemies avec précision</li>
+    <li>subject_story->a innové en créant des unités d'artillerie mobiles, apportant la puissance de feu là où elle est le plus nécessaire</li>
+    <li>subject_story->a été le pionnier des techniques de ciblage préventif, prévoyant l'évolution de la guerre</li>
+    <li>subject_gerund->la domination du terrain grâce à une puissance de feu supérieure</li>
+</VFES_Artillery.generalRules.rulesStrings>
+
+<VFES_ConcealedDefenses.label>défenses dissimulées</VFES_ConcealedDefenses.label>
+<VFES_ConcealedDefenses.description>Vous permet de fabriquer des barrières et des tourelles submersibles, parfaites pour les défenses intérieures.</VFES_ConcealedDefenses.description>
+<VFES_ConcealedDefenses.generalRules.rulesStrings>
+    <li>subject->la force cachée</li>
+    <li>subject_story->a maîtrisé l'art de la dissimulation, faisant disparaître les fortifications sous les yeux de l'ennemi</li>
+    <li>subject_story->a innové avec des tourelles et des pièges submersibles, révélant sa force au moment de la surprise</li>
+    <li>subject_story->a conçu des défenses qui s'intègrent parfaitement à l'environnement et qui frappent sans être vues</li>
+    <li>subject_story->a créé un réseau d'armements cachés, assurant la sécurité par l'invisibilité</li>
+    <li>subject_gerund->le camouflage de la puissance à la vue de tous</li>
+</VFES_ConcealedDefenses.generalRules.rulesStrings>
+
+<VFES_PulseChargedDefenses.label>défenses à impulsion</VFES_PulseChargedDefenses.label>
+<VFES_PulseChargedDefenses.description>Vous permet de fabriquer des canons à impulsion avancés capables de maintenir une vitesse de tir constante.</VFES_PulseChargedDefenses.description>
+<VFES_PulseChargedDefenses.generalRules.rulesStrings>
+    <li>subject->la domination à impulsion</li>
+    <li>subject_story->a exploité l'énergie brute de la technologie à impulsion pour renforcer les défenses</li>
+    <li>subject_story->a mis au point des canons à impulsion qui permettent de maintenir des assauts incessants contre les envahisseurs</li>
+    <li>subject_story->a intégré la technologie à impulsion dans les stratégies défensives, ouvrant ainsi une nouvelle ère de la guerre</li>
+    <li>subject_story->a équilibré le flux et le reflux de la bataille par une puissance de feu constante et inflexible</li>
+    <li>subject_gerund->la puissance de l'impulsion pour dynamiser l'avenir de la défense</li>
+</VFES_PulseChargedDefenses.generalRules.rulesStrings>
+
+<VFES_Railgun.label>railgun</VFES_Railgun.label>
+<VFES_Railgun.description>Vous permet d'adapter les armes des vaisseaux spatiaux à vos systèmes de défenses.</VFES_Railgun.description>
+<VFES_Railgun.generalRules.rulesStrings>
+    <li>subject->la précision libérée</li>
+    <li>subject_story->a adapté la puissance dévastatrice de l'armement des vaisseaux spatiaux à la guerre terrestre</li>
+    <li>subject_story->a conçu des railguns offrant une vitesse et une destruction inégalées</li>
+    <li>subject_story->a redéfini l'art du siège grâce à une technologie arrachée aux étoiles</li>
+    <li>subject_story->a inauguré une nouvelle ère où le choc des titans se décide par le murmure silencieux de l'accélération magnétique</li>
+    <li>subject_gerund->le tonnerre des railguns fait le lien entre les mondes</li>
+</VFES_Railgun.generalRules.rulesStrings>
+
+<VFES_EMPCannon.label>canon IEM</VFES_EMPCannon.label>
+<VFES_EMPCannon.description>Vous permet de fabriquer des canons IEM, utiles dans toute la galaxie grâce à sa capacité à neutraliser temporairement les Mécanoïdes.</VFES_EMPCannon.description>
+<VFES_EMPCannon.generalRules.rulesStrings>
+    <li>subject->la tempête silencieuse</li>
+    <li>subject_story->a créé des armes qui parlent le langage de la foudre, réduisant au silence les mastodontes mécaniques de la guerre</li>
+    <li>subject_story->a associé la puissance des impulsions électromagnétiques à la défense stratégique</li>
+    <li>subject_story->a ouvert la voie à la victoire en silence, en assommant ses adversaires avec une force invisible</li>
+    <li>subject_story->a maîtrisé la danse des électrons pour protéger et paralyser</li>
+    <li>subject_gerund->la commande du champ de bataille avec le murmure du courant</li>
+</VFES_EMPCannon.generalRules.rulesStrings>
+
+<VFES_RepulsorTechnology.label>technologie répulsive</VFES_RepulsorTechnology.label>
+<VFES_RepulsorTechnology.description>Vous permet de fabriquer des boucliers répulsifs, capables d'arrêter la majorité des projectiles.</VFES_RepulsorTechnology.description>
+<VFES_RepulsorTechnology.generalRules.rulesStrings>
+    <li>subject->les champs de force forgés</li>
+    <li>subject_story->a dévoilé les secrets de la technologie des répulseurs, jetant des dômes de protection sur tout le territoire</li>
+    <li>subject_story->a conçu des bastions de sécurité, où des boucliers énergétiques dévient la fureur de la guerre</li>
+    <li>subject_story->a fusionné les anciens rêves d'invincibilité avec la touche tangible de la science</li>
+    <li>subject_story->a assuré la paix dans la tempête, sous le regard vigilant de barrières scintillantes</li>
+    <li>subject_gerund->le tissage de la toile de défense avec des fils d'énergie pure</li>
+</VFES_RepulsorTechnology.generalRules.rulesStrings>
+
+
+</LanguageData>

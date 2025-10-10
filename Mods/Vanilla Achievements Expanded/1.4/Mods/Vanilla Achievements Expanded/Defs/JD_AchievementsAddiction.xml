@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Addiction à l'alcool -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Alcool</defName>
+		<label>Alcoholic</label>
+		<description>Having an alcohol-dependent colon.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>AlcoholAddiction</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Alcool</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+<!-- Addiction à l'ambroisie -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Ambroisie</defName>
+		<label>5 ambrosia per day</label>
+		<description>Having a ambrosia-dependent colon.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>AmbrosiaAddiction</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Ambroisie</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+<!-- Addiction au smokeleaf -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Smokeleaf</defName>
+		<label>Hashish smoker</label>
+		<description>Having a smokeleaf-dependent colon.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>SmokeleafAddiction</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Smokeleaf</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+<!-- Addiction aux psychoïdes -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Psychoides</defName>
+		<label>Junkie</label>
+		<description>Having a psychoids-dependent colon.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>PsychiteAddiction</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Psychoides</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+<!-- Addiction au Wake-up -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_WakeUp</defName>
+		<label>WORK!!!</label>
+		<description>Having a wake-up-dependent colon.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>WakeUpAddiction</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_WakeUp</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+<!-- Addiction au Go-Juice -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_GoJuice</defName>
+		<label>Drug addict</label>
+		<description>Having a go-juice-dependent colon.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>GoJuiceAddiction</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_GoJuice</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Addiction au luciferium -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Luciferium</defName>
+		<label>Devil's Market</label>
+		<description>Having a luciferium-dependent colon.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>LuciferiumAddiction</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Luciferium</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+<!-- Toutes les addictions -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Addictions</defName>
+		<label>The 7 capital addictions</label>
+		<description>Having a colon dependent on the following 7 addictions at the same time: Alcohol, Ambrosia, Smokeleaf, Psychoids, Wake-up, Go-Juice and Luciferium.</description>
+		
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>AlcoholAddiction</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>AmbrosiaAddiction</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>SmokeleafAddiction</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>PsychiteAddiction</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>WakeUpAddiction</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>GoJuiceAddiction</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>LuciferiumAddiction</key>
+					<value>1</value>
+				</li>
+			</defs>
+		</tracker>
+		
+		<texPath>Achievements/JD_Addictions</texPath>
+		<points>500</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+<!-- Overdose === Ne fonctionne pas ===
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_Overdose</defName>
+		<label>Very Bad Trip</label>
+		<description>Avoir un colon qui fait une overdose.</description>
+		
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>DrugOverdose</def>
+			<count>0.8</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_GoJuice</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+-->
+
+</Defs>

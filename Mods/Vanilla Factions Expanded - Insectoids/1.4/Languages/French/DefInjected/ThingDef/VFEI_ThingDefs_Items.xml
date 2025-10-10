@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Apparel_Various +++++ -->
+<VFE_Apparel_RiotArmor.label>armure anti-émeute</VFE_Apparel_RiotArmor.label>
+<VFE_Apparel_RiotArmor.description>Une veste épaisse avec des plaques de blindage insérées sur la poitrine, les bras, les jambes et le dos. Très efficace pour protéger contre les coups contondants, ce type d'armure est souvent utilisé par la police anti-émeute et l'infanterie lourde.</VFE_Apparel_RiotArmor.description>
+<VFE_Apparel_RiotHelmet.label>casque anti-émeute</VFE_Apparel_RiotHelmet.label>
+<VFE_Apparel_RiotHelmet.description>Un casque de combat lourd avec une plaque couvrant le visage. Souvent utilisé par les unités de police anti-émeute en raison de son efficacité à les protéger contre les coups contondants.</VFE_Apparel_RiotHelmet.description>
+<VFEI_Shield_Riot.label>bouclier anti-émeute</VFEI_Shield_Riot.label>
+<VFEI_Shield_Riot.description>Un bouclier industriel lourd fabriqué en acier renforcé. Il offre une grande protection contre les coups contondants, ce qui le rend idéal pour la police anti-émeute d'Urbworld.</VFEI_Shield_Riot.description>
+<VFEI_Shield_Riot.tools.centre.label>centre</VFEI_Shield_Riot.tools.centre.label>
+
+		<!-- +++++ Items_Artifacts +++++ -->
+<VFEI_Artifacts_PsychicPacifier.label>artefact de pacificateur psychique</VFEI_Artifacts_PsychicPacifier.label>
+<VFEI_Artifacts_PsychicPacifier.description>Un artefact à usage limité. Il dirige une onde pacificatrice psychique vers un personnage, le forçant à rejoindre votre faction. Il existe un risque de lésion cérebrale. Il fonctionne sur une longue distance, mais nécessite une ligne de vue.</VFEI_Artifacts_PsychicPacifier.description>
+<VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.chargeNoun>charge</VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.chargeNoun>
+<VFEI_Artifacts_PsychicPacifier.verbs.psychic_pacifier.label>artefact de pacificateur psychique</VFEI_Artifacts_PsychicPacifier.verbs.psychic_pacifier.label>
+<VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.cooldownGerund>en recharge</VFEI_Artifacts_PsychicPacifier.comps.CompReloadable.cooldownGerund>
+
+<VFEI_Artifacts_PsychicAnimalTamer.label>artefact dresseur d'animaux psychique</VFEI_Artifacts_PsychicAnimalTamer.label>
+<VFEI_Artifacts_PsychicAnimalTamer.description>Un artefact à usage limité. Il submerge l'esprit de la cible avec une terrifiante persuasion mentale, la plongeant dans un état de transcendance dans lequel elle devient confiante pour vivre avec vous. Il y a un risque de lésions cérébrales. Il fonctionne à longue distance, mais nécessite une ligne de mire.</VFEI_Artifacts_PsychicAnimalTamer.description>
+<VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.chargeNoun>charge</VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.chargeNoun>
+<VFEI_Artifacts_PsychicAnimalTamer.verbs.psychic_animal_tamer.label>artefact dresseur d'animaux psychique</VFEI_Artifacts_PsychicAnimalTamer.verbs.psychic_animal_tamer.label>
+<VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.cooldownGerund>en recharge</VFEI_Artifacts_PsychicAnimalTamer.comps.CompReloadable.cooldownGerund>
+
+<VFEI_Artifacts_ArchotechEraser.label>artefact archotech désintégrateur</VFEI_Artifacts_ArchotechEraser.label>
+<VFEI_Artifacts_ArchotechEraser.description>Utilisation unique de l’artefact qui utilise un noyau vanométrique pour désintégrer tout existence dans un rayon de 10 cases. Doit être déclenché manuellement.</VFEI_Artifacts_ArchotechEraser.description>
+<VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.chargeNoun>charge</VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.chargeNoun>
+<VFEI_Artifacts_ArchotechEraser.verbs.archotech_eraser.label>artefact archotech désintégrateur</VFEI_Artifacts_ArchotechEraser.verbs.archotech_eraser.label>
+<VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.cooldownGerund>en recharge</VFEI_Artifacts_ArchotechEraser.comps.CompReloadable.cooldownGerund>
+
+<VFEI_Artifacts_ArchotechTeleporter.label>artefact archotech téléporteur</VFEI_Artifacts_ArchotechTeleporter.label>
+<VFEI_Artifacts_ArchotechTeleporter.description>Artefact à usage unique qui permet de transporter jusqu'à 500 kg de masse d'un endroit à un autre sur la planète.</VFEI_Artifacts_ArchotechTeleporter.description>
+<VFEI_Artifacts_ArchotechTeleporter.comps.CompUsable.useLabel>Activer</VFEI_Artifacts_ArchotechTeleporter.comps.CompUsable.useLabel>
+
+		<!-- +++++ Items_Resource_AnimalProduct +++++ -->
+<VFEI_RoyalInsectJelly.label>gelée royale d'insectoïde</VFEI_RoyalInsectJelly.label>
+<VFEI_RoyalInsectJelly.description>Une gelée dorée et brillante utilisée par les reines pour créer une nouvelle progéniture. Elle est onctueuse, riche et apporte de la joie à ceux qui la consomment. Grâce à sa composition biologique unique, elle renforce l'immunité et nourrit tous ceux qui la goûtent.</VFEI_RoyalInsectJelly.description>
+
+<VFEI_InsectMilk.label>lait d'insectoïde</VFEI_InsectMilk.label>
+<VFEI_InsectMilk.description>Du lait provenant d'un insectoïde.</VFEI_InsectMilk.description>
+
+<VFEI_EggInsectoidUnfertilized.label>œuf d’insectoïde (non fécondé)</VFEI_EggInsectoidUnfertilized.label>
+<VFEI_EggInsectoidUnfertilized.description>Un œuf d’insectoïde non fécondé. On peut le manger cru, mais c’est bien meilleur cuit.</VFEI_EggInsectoidUnfertilized.description>
+
+		<!-- +++++ Items_Resource_GeneticMaterials +++++ -->
+<VFEI_DroneGenome.label>génome drone</VFEI_DroneGenome.label>
+<VFEI_DroneGenome.description>Ensemble du matériel génétique de plusieurs espèces différentes d'animaux domestiques et de drones, mélangé en une seule dose d'ADN.\n\nLorsqu'il est administré à un être humain, ce génome peut avoir des effets aléatoires.</VFEI_DroneGenome.description>
+
+<VFEI_WarriorGenome.label>génome guerrier</VFEI_WarriorGenome.label>
+<VFEI_WarriorGenome.description>Ensemble du matériel génétique de plusieurs espèces différentes d'insectes de classes guerriers et de prédateurs, mélangé en une seule dose d'ADN.\n\nLorsqu'il est administré à un être humain, ce génome peut avoir des effets aléatoires.</VFEI_WarriorGenome.description>
+
+<VFEI_RoyalGenome.label>génome royal</VFEI_RoyalGenome.label>
+<VFEI_RoyalGenome.description>Ensemble du matériel génétique de plusieurs espèces différentes d'insectoïdes royales et de reines, mélangé en une seule dose d'ADN.\n\nLorsqu'il est administré à un être humain, ce génome peut avoir des effets aléatoires.</VFEI_RoyalGenome.description>
+
+		<!-- +++++ Items_Resource_Leathers +++++ -->
+<VFEI_Chitin.label>chitine</VFEI_Chitin.label>
+<VFEI_Chitin.description>Une composition extrêmement dense de minéraux rares et de biomasse, que l'on trouve généralement sous la forme d’un exosquelette chez les insectes.</VFEI_Chitin.description>
+
+<VFEI_Spidersilk.label>soie d'araignée</VFEI_Spidersilk.label>
+<VFEI_Spidersilk.description>Un tissu très délicat qui semble briller de façon unique dont les rayons lumineux se reflète. Il est très inflammable et offre peu de protection, mais sa beauté le rend extrêmement précieux.</VFEI_Spidersilk.description>
+
+		<!-- +++++ Items_Resource_Shell +++++ -->
+<VFEI_Shell_PsychicWarhead.label>obus de folie</VFEI_Shell_PsychicWarhead.label>
+<VFEI_Shell_PsychicWarhead.description>Un obus Archotech d'une époque lointaine et oubliée. Lors de sa détonation, il libère un puissant drone psychique, plongeant tous les animaux et humanoïdes à sa portée dans une rage meurtrière. Peut être tirée à partir d’un mortier. Explose quand il est endommagé.</VFEI_Shell_PsychicWarhead.description>
+<VFEI_Bullet_Shell_PsychicWarhead.label>archotech ogive d'obus</VFEI_Bullet_Shell_PsychicWarhead.label>
+
+
+</LanguageData>

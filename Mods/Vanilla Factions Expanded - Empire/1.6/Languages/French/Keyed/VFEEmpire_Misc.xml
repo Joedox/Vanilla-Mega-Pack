@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: OR -->
+<VFEE.OR>; ou </VFEE.OR>
+<!-- EN: Unable to start due to {0} not having a dignified throne. -->
+<VFEE.StartBestower.NoThrone>Impossible de commencer car {0} n'a pas un trône digne.</VFEE.StartBestower.NoThrone>
+<!-- EN: Unable to start due to no valid throne rooms for the bestowing of the title. -->
+<VFEE.StartBestower.NoTarget>Impossible de commencer en raison de l'absence de salle du trône valide pour conférer le titre.</VFEE.StartBestower.NoTarget>
+<!-- EN: Unable to start due to target already possesing a higher title -->
+<VFEE.StartBestower.HigherTitle>Impossible de commencer car la cible possède déjà un titre supérieur.</VFEE.StartBestower.HigherTitle>
+<!-- EN: Unable to start while an existing ritual is ongoing. -->
+<VFEE.StartBestower.DisabledExistingRitual>Impossible de commencer alors qu'un rituel est déjà en cours.</VFEE.StartBestower.DisabledExistingRitual>
+<!-- EN: Gallery requirements -->
+<VFEE.GalleryRequirements>Exigences de la galerie d'art</VFEE.GalleryRequirements>
+<!-- EN: Gallery requirements unmet: {0} -->
+<VFEE.GalleryRequirements.Unmet>Exigences de la galerie d'art non satisfaites : {0}</VFEE.GalleryRequirements.Unmet>
+<!-- EN: Ballroom requirements -->
+<VFEE.BallroomRequirements>Exigences pour la salle de bal</VFEE.BallroomRequirements>
+<!-- EN: Ballroom requirements unmet for: {0} -->
+<VFEE.BallroomRequirements.Unmet>Exigences de la salle de bal non satisfaites : {0}</VFEE.BallroomRequirements.Unmet>
+<!-- EN: Ballroom does not have a big enough dance floor for the guests! They would like an open floor space of {0} infront of an instrument  -->
+<VFEE.BallroomRequirements.DanceFloorToSmall>La salle de bal n'a pas une piste de danse assez grande pour les invités ! Ils voudraient un espace ouvert de {0} devant un instrument.</VFEE.BallroomRequirements.DanceFloorToSmall>
+<!-- EN: Noble court requirements -->
+<VFEE.CourtRequirements>Exigences de la cour des nobles</VFEE.CourtRequirements>
+<!-- EN: Host Grandball -->
+<VFEE.GrandBall.Begin>Organiser un grand bal</VFEE.GrandBall.Begin>
+<!-- EN: Grandball -->
+<VFEE.GrandBall.Label>Grand bal</VFEE.GrandBall.Label>
+<!-- EN: Leave Grandball -->
+<VFEE.GrandBall.Leave.label>Quitter le grand bal</VFEE.GrandBall.Leave.label>
+<!-- EN: This pawn will leave the grandball, they will not be able to rejoin the festivities later -->
+<VFEE.GrandBall.Leave.Desc>Ce colon quittera le grand bal, et ne pourra pas rejoindre les festivités plus tard.</VFEE.GrandBall.Leave.Desc>
+<!-- EN: Cancel Grandball -->
+<VFEE.GrandBall.Cancel.Label>Annuler le grand bal</VFEE.GrandBall.Cancel.Label>
+<!-- EN: Cancel the grand ball sending everyone home and failing the quest -->
+<VFEE.GrandBall.Cancel.Desc>Annule le grand bal en renvoyant tout le monde chez eux et en échouant la quête.</VFEE.GrandBall.Cancel.Desc>
+<!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
+<VFEE.GrandBall.Cancel.Confirm>Vous n'aurez pas la possibilité de recommencer ce rituel, vos invités rentreront chez eux mécontents et la quête sera un échec.</VFEE.GrandBall.Cancel.Confirm>
+<!-- EN: Your guests are waiting for you to start the grand ball. They wont wait long however -->
+<VFEE.GrandBall.Waiting>Vos invités attendent que vous débutiez le grand bal. Mais ils n'attendront pas longtemps.</VFEE.GrandBall.Waiting>
+<!-- EN: An exclusive ball to only be attended by those with a royal title, and a few who can play instruments -->
+<VFEE.GrandBall.Description>Un bal exclusif auquel ne peuvent assister que les personnes ayant un titre royal, et quelques personnes sachant jouer un instrument.</VFEE.GrandBall.Description>
+<!-- EN: Participants -->
+<VFEE.GrandBall.ChooseParticipants>Participants</VFEE.GrandBall.ChooseParticipants>
+<!-- EN: Host Art Exhibit -->
+<VFEE.ArtExhibit.Begin>Organiser une exposition d'art</VFEE.ArtExhibit.Begin>
+<!-- EN: Art Exhibit -->
+<VFEE.ArtExhibit.Label>Exposition d'art</VFEE.ArtExhibit.Label>
+<!-- EN: Leave exhibit -->
+<VFEE.ArtExhibit.Leave.label>Quitter l'exposition</VFEE.ArtExhibit.Leave.label>
+<!-- EN: This pawn will leave the exhibit, they will not be able to rejoin the festivities later -->
+<VFEE.ArtExhibit.Leave.Desc>Ce colon quittera l'exposition d'art, et ne pourra pas rejoindre les festivités plus tard.</VFEE.ArtExhibit.Leave.Desc>
+<!-- EN: host cannot leave the exhibit -->
+<VFEE.ArtExhibit.Leave.Disabled>l'hôte ne peut pas quitter l'exposition</VFEE.ArtExhibit.Leave.Disabled>
+<!-- EN: Cancel Exhibit -->
+<VFEE.ArtExhibit.Cancel.Label>Annuler l'exposition</VFEE.ArtExhibit.Cancel.Label>
+<!-- EN: Cancel the art exhibit sending everyone home and failing the quest -->
+<VFEE.ArtExhibit.Cancel.Desc>Annule l'exposition d'art en renvoyant tout le monde chez eux et en échouant la quête.</VFEE.ArtExhibit.Cancel.Desc>
+<!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
+<VFEE.ArtExhibit.Cancel.Confirm>Vous n'aurez pas la possibilité de recommencer ce rituel, vos invités rentreront chez eux mécontents et la quête sera un échec.</VFEE.ArtExhibit.Cancel.Confirm>
+<!-- EN: Your guests are waiting for you to start the art exhibit. They wont wait long however -->
+<VFEE.ArtExhibit.Waiting>Vos invités attendent que vous débutiez l'exposition d'art. Mais ils n'attendront pas longtemps.</VFEE.ArtExhibit.Waiting>
+<!-- EN: An art expedition to only be attended by those with a royal title, to view your galley and gossip with eachother. -->
+<VFEE.ArtExhibit.Description>Une exposition d'art à laquelle ne peuvent assister que les personnes ayant un titre royal, pour admirer votre galerie et commérer entre eux.</VFEE.ArtExhibit.Description>
+<!-- EN: Participants -->
+<VFEE.ArtExhibit.ChooseParticipants>Participants</VFEE.ArtExhibit.ChooseParticipants>
+<!-- EN: Host Parade -->
+<VFEE.Parade.Begin>Organiser un défilé</VFEE.Parade.Begin>
+<!-- EN: Driven by jealousy {0} is attempting to murder the stellarch! -->
+<VFEE.Parade.Murder>Poussé par la jalousie, {0} tente d'assassiner le stellaire !</VFEE.Parade.Murder>
+<!-- EN: Parade -->
+<VFEE.Parade.Label>Défilé</VFEE.Parade.Label>
+<!-- EN: Leave Parade -->
+<VFEE.Parade.Leave.label>Quitter le défilé</VFEE.Parade.Leave.label>
+<!-- EN: This pawn will leave the Parade, they will not be able to rejoin the festivities later -->
+<VFEE.Parade.Leave.Desc>Ce colon quittera le défilé, et ne pourra pas rejoindre les festivités par la suite.</VFEE.Parade.Leave.Desc>
+<!-- EN: the stellarch cannot leave the Parade -->
+<VFEE.Parade.Leave.Disabled>le stellaire ne peut pas quitter la défilé</VFEE.Parade.Leave.Disabled>
+<!-- EN: Cancel Parade -->
+<VFEE.Parade.Cancel.Label>Annuler le défilé</VFEE.Parade.Cancel.Label>
+<!-- EN: Cancel the parade sending everyone home and failing the quest -->
+<VFEE.Parade.Cancel.Desc>Annule le défilé en renvoyant tout le monde chez eux et en échouant la quête.</VFEE.Parade.Cancel.Desc>
+<!-- EN: There will be no opportunity to restart this ritual, your guests will go home unhappy and the quest will be failed. -->
+<VFEE.Parade.Cancel.Confirm>Vous n'aurez pas la possibilité de recommencer ce rituel, vos invités rentreront chez eux mécontents et la quête sera un échec.</VFEE.Parade.Cancel.Confirm>
+<!-- EN: Your guests are waiting for you to start the Parade. They wont wait long however -->
+<VFEE.Parade.Waiting>Vos invités attendent que vous lanciez le défilé. Mais ils n'attendront pas longtemps.</VFEE.Parade.Waiting>
+<!-- EN: A traditional ascension parade to send off the stellarch! -->
+<VFEE.Parade.Description>Un défilé traditionnel d'ascension pour envoyer le stellaire !</VFEE.Parade.Description>
+<!-- EN: The stellarch does not trust {0} enough. -->
+<VFEE.Parade.InvalidGuard>Le stellaire ne fait pas assez confiance à {0}.</VFEE.Parade.InvalidGuard>
+<!-- EN: Participants -->
+<VFEE.Parade.ChooseParticipants>Participants</VFEE.Parade.ChooseParticipants>
+<!-- EN: Unable to find a suitable drop beacon for the guests to land their shuttle at -->
+<VFEE.Parade.LandingAreaUnmet>Impossible de trouver une balise d'atterrissage appropriée pour que les invités puissent atterrir avec leur navette à</VFEE.Parade.LandingAreaUnmet>
+<!-- EN: Stellarch Ascension -->
+<VFEE.Parade.Reward.Label>Ascension du Stellaire</VFEE.Parade.Reward.Label>
+<!-- EN: Your Stellarch will achieve ascension with passage off world to progress further in the grand hierachy, serving directly with the emperor -->
+<VFEE.Parade.Reward.Description>Votre Stellaire atteindra l'ascension et pourra quitter le monde pour progresser dans la grande hiérarchie, en servant directement auprès de l'empereur.</VFEE.Parade.Reward.Description>
+<!-- EN: Defuse bomb -->
+<VFEE.DefuseBomb>Désamorcer la bombe</VFEE.DefuseBomb>
+<!-- EN: Deserters are leaving as they have eliminated their target. -->
+<VFEE.AssassinationSuccess>Les déserteurs partent car ils ont éliminé leur cible.</VFEE.AssassinationSuccess>
+<!-- EN: Discard -->
+<VFEE.Discard>Discard</VFEE.Discard>
+<!-- EN: Deserters are leaving as they have eliminated every imperial title holder in the area. -->
+<VFEE.RoyaltyDead>Les déserteurs partent car ils ont éliminé tous les détenteurs de titres impériaux dans la région.</VFEE.RoyaltyDead>
+<!-- EN: {0} has sent you a celebration package of aperitif! -->
+<VFEE.GotDrug>{0} vous a envoyé un colis d'apéritif pour les festivités !</VFEE.GotDrug>
+<!-- EN: The tithe of {0} has arrived from {1}. -->
+<VFEE.TitheArrived>La dîme de {0} est arrivée à {1}.</VFEE.TitheArrived>
+<!-- EN: 1 Honor gained by {0} due to {1} -->
+<VFEE.HonorGainedTitle>1 Honneur gagné par {0} grâce à {1}</VFEE.HonorGainedTitle>
+
+
+</LanguageData>

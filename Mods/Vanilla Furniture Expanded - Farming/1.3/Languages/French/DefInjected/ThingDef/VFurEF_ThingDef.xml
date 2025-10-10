@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFE_PlanterBox.label>jardinière</VFE_PlanterBox.label>
+<VFE_PlanterBox.description>Fait pousser des plantes dans une boîte remplie de terre. Ne nécessite pas d'électricité pour fonctionner.</VFE_PlanterBox.description>
+
+<VFE_Ecosystem.label>écosystème artificiel</VFE_Ecosystem.label>
+<VFE_Ecosystem.description>Fait pousser les plantes rapidement dans un écosystème artificiel et hermétique. Nécessite une grande quantité d'énergie pour fonctionner ; les plantes meurent si le courant est coupé.\n\nContient une lampe solaire intégrée pour fournir de la lumière aux plantes.</VFE_Ecosystem.description>
+
+<VFE_PlanterBox_Tilable.label>jardinière modulable</VFE_PlanterBox_Tilable.label>
+<VFE_PlanterBox_Tilable.description>Fait pousser des plantes dans une boîte remplie de terre. Ne nécessite pas d'électricité pour fonctionner.\n\nPeut être construit sous la forme souhaitée.</VFE_PlanterBox_Tilable.description>
+
+<VFE_Hydroponics_Tilable.label>bassin hydroponique modulable</VFE_Hydroponics_Tilable.label>
+<VFE_Hydroponics_Tilable.description>Un bain nutritif artificiel pour la culture des plantes. Les pompes à nutriments doivent fonctionner en continu ; les plantes mourront en cas de coupure de courant.\n\nCette version est modulaire et peut être construit sous la forme souhaitée.</VFE_Hydroponics_Tilable.description>
+
+<VFE_Ecosystem_Tilable.label>écosystème artificiel modulable</VFE_Ecosystem_Tilable.label>
+<VFE_Ecosystem_Tilable.description>Fait pousser les plantes rapidement dans un écosystème artificiel et étanche qui peut être configuré pour faire pousser efficacement les plantes les plus difficiles. Nécessite une grande quantité d'énergie pour fonctionner ; les plantes meurent si le courant est coupé. Contient une lampe solaire intégrée pour fournir de la lumière aux plantes.\n\nCette version est modulaire et peut être construit sous la forme souhaitée.</VFE_Ecosystem_Tilable.description>
+
+<VFE_Scarecrow.label>épouvantail</VFE_Scarecrow.label>
+<VFE_Scarecrow.description>Une silhouette humanoïde faite de foin et vêtue de vieux vêtements pour éloigner les animaux dans un grand rayon. Les petits animaux auront trop peur d'approcher.</VFE_Scarecrow.description>
+
+<VFE_AnimalFeeder.label>mangeoire</VFE_AnimalFeeder.label>
+<VFE_AnimalFeeder.description>Une mangeoire. La nourriture qui y est stockée ne se détériore pas, même si elle se trouve à l'extérieur.</VFE_AnimalFeeder.description>
+
+<VFE_Sprinkler.label>arroseur</VFE_Sprinkler.label>
+<VFE_Sprinkler.description>Un arroseur qui arrose la zone autour de lui. Il favorise la croissance des plantes environnantes.</VFE_Sprinkler.description>
+
+<VFEF_Mote_SprinklerWater.label>Mote</VFEF_Mote_SprinklerWater.label>
+
+
+</LanguageData>

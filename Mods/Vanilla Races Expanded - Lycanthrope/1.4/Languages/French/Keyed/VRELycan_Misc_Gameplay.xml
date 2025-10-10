@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<VRE_DisablePhotophobiaMessage>Désactiver les messages de photophobie</VRE_DisablePhotophobiaMessage>
+<VRE_DisablePhotophobiaMessage_Description>Par défaut, chaque fois qu'un colon porteur du gène Photophobie fuit la lumière, le jeu génère une lettre pour en informer le joueur. Cela peut être un peu trop si vous avez beaucoup de colons qui fuient souvent, vous pouvez donc le désactiver avec cette option. Gardez à l'esprit que les colons continueront à fuir, mais que vous n'en serez PLUS informé.</VRE_DisablePhotophobiaMessage_Description>
+<VRE_OnlyOnDaytime>Cette quête ne peut être acceptée que pendant la journée</VRE_OnlyOnDaytime>
+<VRE_MessagePawnHasNoGermline>{0_labelShort} n'a pas de gènes germinaux à implanter.</VRE_MessagePawnHasNoGermline>
+<VRE_WarningPawnWillDieFromReimplanting>Attention : Les gènes de {PAWN_nameDef} sont en train de se régénérer. {PAWN_gender ? S'il : Si elle } implante ses gènes germinaux avant que ses gènes n'aient complètement régénéré, cela l{PAWN_gender ? e : a } tuera.\n\nÊtes-vous sûr de vouloir continuer ?</VRE_WarningPawnWillDieFromReimplanting>
+<VRE_LetterTextGenesImplanted>{CASTER_nameDef} a implanté une copie de ses gènes germinaux dans {TARGET_nameDef}, lui transmettant tous les gènes germinaux.\n\n{TARGET_nameDef} sera dans un coma de germinaugermination pendant {COMADURATION} le temps que son corps s'ajuste aux modifications.\n\n{CASTER_nameDef} souffrira d'un choc de perte de gène pendant {SHOCKDURATION}. Ses gènes devront également se régénérer. Ce processus prend du temps. Si {CASTER_nameDef} implante à nouveau ses gènes germinaux avant que ses gènes ne se régénèrent, {CASTER_pronoun} mourra.</VRE_LetterTextGenesImplanted>
+<VRE_ForceGermlineImplantation>Forcer l'implantation de germinaux</VRE_ForceGermlineImplantation>
+<VRE_ForceGermlineImplantationDesc>Forcer cette personne à implanter ses gènes germinaux dans un autre individu en utilisant un organe d'injection spécial. Si les gènes de cette personne sont en phase de régénération, elle mourra dans le processus.\n\nUne fois implanté, les gènes germinaux écraseront ceux de la cible. Les xénogènes ne sont pas affectés.</VRE_ForceGermlineImplantationDesc>
+<VRE_MessageAbsorbingGermlineWillAngerFaction>Absorber les gènes germinaux de {PAWN_nameDef} mettra {0} en colère.</VRE_MessageAbsorbingGermlineWillAngerFaction>
+<VRE_EndogeneLossShockPresent>{PAWN_nameDef} souffre d'un choc de perte de gènes germinaux</VRE_EndogeneLossShockPresent>
+<VRE_MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} doit être inconscient{PAWN_gender ? : e} avant de pouvoir {PAWN_gender ? le : la} forcer à réimplanter ses gènes germinaux.</VRE_MessageTargetMustBeDownedToForceReimplant>
+
+
+</LanguageData>

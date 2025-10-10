@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VHGE_Helixien.label>hélixien</VHGE_Helixien.label>
+<VHGE_Helixien.description>Du gaz hélixien.</VHGE_Helixien.description>
+
+<VHGE_GasSunLamp.label>lampe horticole au gaz</VHGE_GasSunLamp.label>
+<VHGE_GasSunLamp.description>Une lampe industrielle qui éclaire une zone suffisamment pour faire pousser des plantes, mais qui consomme une quantité moyenne de gaz hélium. Elle s'éteint automatiquement la nuit.</VHGE_GasSunLamp.description>
+<VHGE_GasSunLamp.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasSunLamp.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasSunLamp.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasSunLamp.comps.CompResourceTrader.nameLowered>
+<VHGE_GasSunLamp.comps.CompSchedule.offMessage>Éteint pendant la période de repos des plantes</VHGE_GasSunLamp.comps.CompSchedule.offMessage>
+
+<VHGE_GasLamp.label>lampadaire au gaz</VHGE_GasLamp.label>
+<VHGE_GasLamp.description>Une lampe sur pied fonctionnant au gaz qui éclaire une zone. Les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse. Doit être raccordé au réseau de gaz hélixien. Peut être placée en toute sécurité à l'extérieur.</VHGE_GasLamp.description>
+<VHGE_GasLamp.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasLamp.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasLamp.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasLamp.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasWallLamp.label>applique au gaz</VHGE_GasWallLamp.label>
+<VHGE_GasWallLamp.description>Une applique murale fonctionnant au gaz qui éclaire une zone. Les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse. Doit être raccordée au réseau de gaz hélixien. Peut être placée en toute sécurité à l'extérieur.</VHGE_GasWallLamp.description>
+<VHGE_GasWallLamp.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasWallLamp.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasWallLamp.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasWallLamp.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasFloodlight.label>projecteur au gaz</VHGE_GasFloodlight.label>
+<VHGE_GasFloodlight.description>Un grand projecteur à gaz qui éclaire une grande surface. Les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse. Il n'éclaire pas assez pour faire pousser les plantes. Doit être raccordé au réseau de gaz hélixien. Peut être placé en toute sécurité à l'extérieur.</VHGE_GasFloodlight.description>
+<VHGE_GasFloodlight.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasFloodlight.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasFloodlight.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasFloodlight.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasOperatedPodLauncher.label>lanceur de capsules au gaz</VHGE_GasOperatedPodLauncher.label>
+<VHGE_GasOperatedPodLauncher.description>Un lanceur fonction au gaz hélixien pour le lancement d'une capsule de transport. Les lanceurs de capsule peuvent s'activer par groupe, mais pour cela, ils doivent être placés côte à côte. Doit être connecté au réseau de gaz hélixien.</VHGE_GasOperatedPodLauncher.description>
+
+<VHGE_HelixienGenerator.label>générateur au gaz</VHGE_HelixienGenerator.label>
+<VHGE_HelixienGenerator.description>Produit de l'énergie en consommant du gaz hélixien. Doit être raccordé à un réseau de gaz.</VHGE_HelixienGenerator.description>
+<VHGE_HelixienGenerator.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_HelixienGenerator.comps.CompResourceTrader.nameCapitalized>
+<VHGE_HelixienGenerator.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_HelixienGenerator.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasPoweredCrematorium.label>four crématoire au gaz</VHGE_GasPoweredCrematorium.label>
+<VHGE_GasPoweredCrematorium.description>Un immense crématorium de pierre qui vaporise les cadavres à des températures extrêmement élevées. Fonctionne au gaz hélixien.</VHGE_GasPoweredCrematorium.description>
+<VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasPoweredCrematorium.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasPoweredSmelter.label>fonderie au gaz</VHGE_GasPoweredSmelter.label>
+<VHGE_GasPoweredSmelter.description>Extrait le métal réutilisable des débris et objets métalliques. Fonctionne au gaz hélixien.</VHGE_GasPoweredSmelter.description>
+<VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasPoweredSmelter.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasPoweredStove.label>cuisinière au gaz</VHGE_GasPoweredStove.label>
+<VHGE_GasPoweredStove.description>Une cuisinière au gaz avec un plan de travail pour la préparation des repas.</VHGE_GasPoweredStove.description>
+<VHGE_GasPoweredStove.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasPoweredStove.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasPoweredStove.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasPoweredStove.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasPoweredSmithy.label>établi de forgeron au gaz</VHGE_GasPoweredSmithy.label>
+<VHGE_GasPoweredSmithy.description>Un établi qui fonctionne au gaz pour forger et assembler des armes et des outils sans mécanismes.</VHGE_GasPoweredSmithy.description>
+<VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasPoweredSmithy.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasPoweredRefinery.label>raffinerie au gaz</VHGE_GasPoweredRefinery.label>
+<VHGE_GasPoweredRefinery.description>Raffine la matière biologique comme le bois ou la matière végétale en combustible chimique. Doit être connecté au réseau de gaz hélixien.</VHGE_GasPoweredRefinery.description>
+<VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasPoweredRefinery.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasCooler.label>refroidisseur au gaz</VHGE_GasCooler.label>
+<VHGE_GasCooler.description>Une machine de refroidissement de l'air qui libère de l'air refroidi autour d'elle. Peut être utilisé pour créer une chambre froide. Ne peut pas être réglé et abaisse automatiquement la température légèrement en dessous de zéro.</VHGE_GasCooler.description>
+<VHGE_GasCooler.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasCooler.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasCooler.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasCooler.comps.CompResourceTrader.nameLowered>
+
+<VHGE_GasHeater.label>chauffage au gaz</VHGE_GasHeater.label>
+<VHGE_GasHeater.description>Un appareil qui convertit le gaz hélixien en chaleur rayonnante. Il peut s'allumer ou s'éteindre automatiquement pour atteindre une température cible spécifique.</VHGE_GasHeater.description>
+<VHGE_GasHeater.comps.CompResourceTrader.nameCapitalized>Gaz hélixien</VHGE_GasHeater.comps.CompResourceTrader.nameCapitalized>
+<VHGE_GasHeater.comps.CompResourceTrader.nameLowered>gaz hélixien</VHGE_GasHeater.comps.CompResourceTrader.nameLowered>
+
+<VHGE_HelixienPipe.label>conduit de gaz</VHGE_HelixienPipe.label>
+<VHGE_HelixienPipe.description>Un tuyau qui achemine le gaz hélixien.</VHGE_HelixienPipe.description>
+
+<VHGE_SubterraneanHelixienPipe.label>conduit de gaz enterré</VHGE_SubterraneanHelixienPipe.label>
+<VHGE_SubterraneanHelixienPipe.description>Un tuyau qui achemine le gaz hélixien. Ce tuyau est caché de la vue et il est protégé des explosions de gaz. Beaucoup plus coûteux à construire que les tuyaux ordinaires.</VHGE_SubterraneanHelixienPipe.description>
+
+<VHGE_HelixienPump.label>pompe hélixien</VHGE_HelixienPump.label>
+<VHGE_HelixienPump.description>Une machine d'extraction montée sur un geyser de gaz hélixien. Auto-alimentée, cette machine pompe du gaz précieux et doit être connectée à d'autres services de gaz à l'aide du réseau de canalisations.</VHGE_HelixienPump.description>
+
+<VHGE_GasTank.label>réservoir de gaz</VHGE_GasTank.label>
+<VHGE_GasTank.description>Un grand réservoir en acier pour le stockage du gaz. Explose lorsqu'il est endommagé.</VHGE_GasTank.description>
+
+<VHGE_GasPipeValve.label>vanne de gaz</VHGE_GasPipeValve.label>
+<VHGE_GasPipeValve.description>Permet d'ouvrir ou de fermer le flux de gaz hélixien.</VHGE_GasPipeValve.description>
+
+<VHGE_GasGeyser.label>geyser de gaz</VHGE_GasGeyser.label>
+<VHGE_GasGeyser.description>Source naturelle de vapeur. Les générateurs géothermiques peuvent exploiter la puissance de la vapeur qui en sort. Les pièces construites dessus chauffent rapidement.</VHGE_GasGeyser.description>
+
+
+</LanguageData>

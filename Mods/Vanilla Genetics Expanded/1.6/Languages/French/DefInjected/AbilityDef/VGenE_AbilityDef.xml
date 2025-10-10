@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: cryo cannon -->
+<GR_CryoBlast.label>canon cryo</GR_CryoBlast.label>
+<!-- EN: Unleash a cryo blast that erupts in a wave of freezing energy, slowing movement and encasing targets in layers of frost. -->
+<GR_CryoBlast.description>Déclenche une explosion cryogénique qui produit une vague d'énergie glacée, ralentissant les mouvements et enveloppant les cibles dans une couche de givre.</GR_CryoBlast.description>
+
+<!-- EN: disintegrator -->
+<GR_Disintegrator.label>désintégrateur</GR_Disintegrator.label>
+<!-- EN: Fire a focused beam of energy that destabilizes matter at the molecular level, disintegrating flesh, armor, and cover in a flash of searing light. -->
+<GR_Disintegrator.description>Tire un faisceau d'énergie concentré qui déstabilise la matière au niveau moléculaire, désintégrant la chair, l'armure et la couverture dans un éclair de lumière brûlante.</GR_Disintegrator.description>
+
+<!-- EN: spatial distortion -->
+<GR_Distortion.label>distorsion spatiale</GR_Distortion.label>
+<!-- EN: Warp space around the target, creating a distortion that disrupts movement and fractures reality in a chaotic burst. -->
+<GR_Distortion.description>Déforme l'espace autour de la cible, créant une distorsion qui perturbe le mouvement et fracture la réalité dans un élan chaotique.</GR_Distortion.description>
+
+<!-- EN: chemfuel spit -->
+<GR_FireSpit.label>crachat de chemfuel</GR_FireSpit.label>
+<!-- EN: Spit a glob of volatile chemfuel that sticks to surfaces and ignites on impact, engulfing the area in explosive flames. -->
+<GR_FireSpit.description>Crache un globe de chemfuel volatile qui colle aux surfaces et s'enflamme à l'impact, engloutissant la zone dans des flammes explosives.</GR_FireSpit.description>
+
+<!-- EN: flame breath -->
+<GR_FlameBreathAnimated.label>souffle de flamme</GR_FlameBreathAnimated.label>
+<!-- EN: Exhale a cone of superheated flame that ignites flammable objects and scorches anything caught in its path. -->
+<GR_FlameBreathAnimated.description>Exhale un cône de flammes surchauffées qui enflamme les objets inflammables et brûle tout ce qui se trouve sur son passage.</GR_FlameBreathAnimated.description>
+
+<!-- EN: blinding spit -->
+<GR_HairballProjectile.label>crachat aveuglant</GR_HairballProjectile.label>
+<!-- EN: Spit a glob of blinding fluid that bursts on impact, releasing a flash of caustic light that disorients and obscures vision. -->
+<GR_HairballProjectile.description>Crache un liquide aveuglant qui éclate à l'impact, libérant un éclair de lumière caustique qui désoriente et obscurcit la vue.</GR_HairballProjectile.description>
+
+<!-- EN: chemfuel flamethrower -->
+<GR_IncendiaryMote.label>Lance-flammes à chemfuel</GR_IncendiaryMote.label>
+<!-- EN: Unleash a torrent of ignited chemfuel in a wide arc, engulfing enemies in roaring flames and leaving a trail of burning destruction. -->
+<GR_IncendiaryMote.description>Déverse un torrent de chemfuel enflammé dans un large arc de cercle, engloutissant les ennemis dans des flammes rugissantes et laissant une traînée de destruction brûlante.</GR_IncendiaryMote.description>
+
+<!-- EN: twin-coiled laser -->
+<GR_Laser.label>laser à double bobine</GR_Laser.label>
+<!-- EN: Unleash a burst of twin-coiled laser beams that spiral together, cutting through targets with intense, synchronized precision. -->
+<GR_Laser.description>Déclenche une rafale de rayons laser à double spirale qui s'enroulent l'un autour de l'autre, coupant les cibles avec une précision intense et synchronisée.</GR_Laser.description>
+
+<!-- EN: plasma burst -->
+<GR_PlasmaBurst.label>explosion plasma</GR_PlasmaBurst.label>
+<!-- EN: Release a concentrated burst of superheated plasma that vaporizes armor and scorches everything in its path. -->
+<GR_PlasmaBurst.description>Libère une rafale concentrée de plasma surchauffé qui vaporise les armures et brûle tout sur son passage.</GR_PlasmaBurst.description>
+
+<!-- EN: poison blast -->
+<GR_PoisonBlast.label>explosion de poison</GR_PoisonBlast.label>
+<!-- EN: Detonate a toxic projectile that releases a burst of poisonous gas, contaminating the area and weakening all who inhale it. -->
+<GR_PoisonBlast.description>Déclenche un projectile toxique qui libère un gaz toxique, contaminant la zone et affaiblissant tous ceux qui l'inhalent.</GR_PoisonBlast.description>
+
+<!-- EN: poison breath -->
+<GR_PoisonBreathAnimated.label>souffle empoisonné</GR_PoisonBreathAnimated.label>
+<!-- EN: Exhale a noxious cloud of poison that lingers in the air, seeping into lungs and weakening all caught within its reach. -->
+<GR_PoisonBreathAnimated.description>Exhale un nuage de poison nocif qui persiste dans l'air, s'infiltre dans les poumons et affaiblit tous ceux qui se trouvent à sa portée.</GR_PoisonBreathAnimated.description>
+
+<!-- EN: explosive sac -->
+<GR_Proj_ThrownSac.label>sac explosif</GR_Proj_ThrownSac.label>
+<!-- EN: Hurl a volatile explosive sac that bursts on impact, unleashing a fiery blast and scattering shrapnel in all directions. -->
+<GR_Proj_ThrownSac.description>Projette un sac explosif volatile qui explose à l'impact, libérant une explosion brûlante et dispersant des éclats de métal dans toutes les directions.</GR_Proj_ThrownSac.description>
+
+<!-- EN: razor tail -->
+<GR_RazorProjectile.label>queue rasoir</GR_RazorProjectile.label>
+<!-- EN: Launch a bladed, detachable tail in a deadly arc, striking from range with razor-sharp precision before being reconstructed again. -->
+<GR_RazorProjectile.description>Lance une queue détachable en arc de cercle mortel, frappant à distance avec une précision redoutable avant d'être reconstruite.</GR_RazorProjectile.description>
+
+<!-- EN: smoke cannon -->
+<GR_SmokeBomb.label>canon fumigène</GR_SmokeBomb.label>
+<!-- EN: Fire a large smoke-filled projectile that bursts on impact, releasing a thick cloud that obscures vision and disrupts targeting. -->
+<GR_SmokeBomb.description>Tire un gros projectile fumigène qui explose à l'impact, libérant un épais nuage qui obscurcit la vision et perturbe le ciblage.</GR_SmokeBomb.description>
+
+<!-- EN: sniper flechette -->
+<GR_SniperFlechette.label>fléchette de tireur d'élite</GR_SniperFlechette.label>
+<!-- EN: Fire a high-velocity flechette with pinpoint accuracy, designed to pierce armor and strike vital organs from extreme range. -->
+<GR_SniperFlechette.description>Tire une fléchette à haute vélocité avec une grande précision, conçue pour transpercer les armures et frapper les organes vitaux à une distance extrême.</GR_SniperFlechette.description>
+
+<!-- EN: stun bolt -->
+<GR_StunBolt.label>balle étourdissante</GR_StunBolt.label>
+<!-- EN: Fire a crackling stun bolt that overloads nervous systems on impact, temporarily paralyzing targets with a jolt of energy. -->
+<GR_StunBolt.description>Tire un éclair paralysant crépitant qui surcharge les systèmes nerveux à l'impact, paralysant temporairement les cibles avec une décharge d'énergie.</GR_StunBolt.description>
+
+<!-- EN: antigrain artillery -->
+<GR_Warhead.label>artillerie antimatière</GR_Warhead.label>
+<!-- EN: Fire a massive anti-grain warhead that delivers a catastrophic explosion, obliterating everything in its blast radius with overwhelming force. -->
+<GR_Warhead.description>Lance une ogive antimatière massive qui produit une explosion dévastatrice, oblitérant tout ce qui se trouve dans son rayon d'action avec une force écrasante.</GR_Warhead.description>
+
+<!-- EN: web -->
+<GR_Web.label>toile</GR_Web.label>
+<!-- EN: Throw a web of sticky silk that can stun its target. -->
+<GR_Web.description>Lance une toile collante qui peut étourdir sa cible.</GR_Web.description>
+
+
+<!-- EN: orbital heat ray -->
+<GR_DeathRay.label>rayon de chaleur orbital</GR_DeathRay.label>
+<!-- EN: Redirects an orbital mechanoid satellite to fire upon a selected location. -->
+<GR_DeathRay.description>Redirige un satellite mécanoïde orbital pour qu'il tire sur l'endroit visé.</GR_DeathRay.description>
+
+<!-- EN: set chemfuel trap -->
+<GR_SetTrap.label>poser un piège</GR_SetTrap.label>
+<!-- EN: Sets an explosive trap. The Manalope won't trigger it. -->
+<GR_SetTrap.description>Pose un piège explosif. Le hommalope ne le déclenchera pas.</GR_SetTrap.description>
+
+<!-- EN: detonate chemfuel -->
+<GR_DetonateBomb.label>détonation chemfuel</GR_DetonateBomb.label>
+<!-- EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+<GR_DetonateBomb.description>Déclenche à distance les réservoirs de chemfuel de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateBomb.description>
+
+<!-- EN: vent heated exhaust -->
+<GR_VentHeatedExhaust.label>évacuation d'air chaud</GR_VentHeatedExhaust.label>
+<!-- EN: Vents the heated gasses produced by this mechanoid hybrid's internal processes. This creates a wave of superheated ait that will affect the surrounding tiles. It will not affect the hybrid. -->
+<GR_VentHeatedExhaust.description>Évacue les gaz chauffés produits par les processus internes de cet hybride mécanoïde. Cela crée une vague d'air surchauffé qui affecte les cases environnantes. N'affecte pas l'hybride.</GR_VentHeatedExhaust.description>
+
+<!-- EN: detonate acidic chemfuel -->
+<GR_DetonateAcid.label>détonation acide</GR_DetonateAcid.label>
+<!-- EN: Remotely detonate the acidic chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+<GR_DetonateAcid.description>Déclenche à distance les réservoirs de chemfuel acide de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateAcid.description>
+
+<!-- EN: release venomous cloud -->
+<GR_PoisonousCloud.label>nuage venimeux</GR_PoisonousCloud.label>
+<!-- EN: Releases a cloud of poisonous gas from this creature. The animal will NOT be affected and damaged by it. -->
+<GR_PoisonousCloud.description>Libère un nuage de gaz toxique de cette créature. L'animal ne sera PAS affecté ni endommagé par ce gaz.</GR_PoisonousCloud.description>
+
+<!-- EN: detonate venomous chemfuel -->
+<GR_DetonatePoison.label>détonation venimeuse</GR_DetonatePoison.label>
+<!-- EN: Remotely detonate the venomous chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+<GR_DetonatePoison.description>Déclenche à distance les réservoirs de chemfuel venimeux de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonatePoison.description>
+
+<!-- EN: detonate cryo chemfuel -->
+<GR_DetonateFrost.label>détonation cryogénique</GR_DetonateFrost.label>
+<!-- EN: Remotely detonate the cryo chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+<GR_DetonateFrost.description>Déclenche à distance les réservoirs de cryocombustible de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateFrost.description>
+
+<!-- EN: detonate stunning chemfuel -->
+<GR_DetonateStun.label>détonation étourdissement</GR_DetonateStun.label>
+<!-- EN: Remotely detonate the stunning chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+<GR_DetonateStun.description>Déclenche à distance les réservoirs de chemfuel étourdissant de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateStun.description>
+
+<!-- EN: chemfuel discharge -->
+<GR_ChemfuelDischarge.label>décharge de chemfuel</GR_ChemfuelDischarge.label>
+<!-- EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+<GR_ChemfuelDischarge.description>Déclenche à distance les réservoirs de chemfuel de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_ChemfuelDischarge.description>
+
+<!-- EN: lay frag eggs -->
+<GR_FragEggs.label>œufs explosifs</GR_FragEggs.label>
+<!-- EN: Lay several exploding eggs. The animal will be affected and damaged by the resulting explosion. -->
+<GR_FragEggs.description>Pond plusieurs œufs explosifs. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_FragEggs.description>
+
+<!-- EN: adrenaline rush -->
+<GR_AdrenalineRush.label>poussée d'adrénaline</GR_AdrenalineRush.label>
+<!-- EN: Causes the creature to move much faster for a while, at the cost of getting tired afterwards for almost half a day. -->
+<GR_AdrenalineRush.description>Permet à la créature de se déplacer beaucoup plus rapidement pendant un certain temps, au prix d'une grande fatigue pendant près d'une demi-journée.</GR_AdrenalineRush.description>
+
+<!-- EN: cat reflexes -->
+<GR_CatReflexes.label>réflexes félins</GR_CatReflexes.label>
+<!-- EN: Makes the creature much more agile, improving its chance to dodge melee attacks even further. -->
+<GR_CatReflexes.description>Rend la créature beaucoup plus agile, améliorant encore ses chances d'esquiver les attaques de mêlée.</GR_CatReflexes.description>
+
+<!-- EN: insect clouds -->
+<GR_InsectClouds.label>nuées d'insectes</GR_InsectClouds.label>
+<!-- EN: Spawns a cloud of drones surrounding this animal that will cut apart any creature, excluding all insectoid paragons. -->
+<GR_InsectClouds.description>Crée une nuée de drones autour de l'animal, qui découpe n'importe quelle créature, à l'exception des parangons insectoïdes.</GR_InsectClouds.description>
+
+<!-- EN: burrow underground -->
+<GR_Burrow.label>enfouissement</GR_Burrow.label>
+<!-- EN: Sends the creature underground into burrowing mode, making it very resistant to damage for a while. -->
+<GR_Burrow.description>Envoie la créature sous terre en mode terrier, ce qui la rend très résistante aux dégâts pendant un certain temps.</GR_Burrow.description>
+
+<!-- EN: stampede -->
+<GR_StampedeClouds.label>ruée</GR_StampedeClouds.label>
+<!-- EN: Stampedes, moving faster and creating dust clouds that block line of view for projectile weapons. Gets the creature tired after a while. -->
+<GR_StampedeClouds.description>Se déplace rapidement en piétinant, créant des nuages de poussière qui bloquent la ligne de vue des armes à projectiles. La créature se fatigue au bout d'un moment.</GR_StampedeClouds.description>
+
+<!-- EN: keen senses -->
+<GR_KeenSenses.label>sens aiguisés</GR_KeenSenses.label>
+<!-- EN: Makes the creature more aware of its surroundings, increasing its melee capacities (affects sight, hit chance and consciousness) -->
+<GR_KeenSenses.description>Rend la créature plus consciente de son environnement, augmentant ses capacités de mêlée (affecte la vue, les chances de toucher et la conscience).</GR_KeenSenses.description>
+
+<!-- EN: pack tactics -->
+<GR_PackTactics.label>tactiques de meute</GR_PackTactics.label>
+<!-- EN: Collaborate with other nearby muffalowolves to bring down prey. -->
+<GR_PackTactics.description>Collabore avec d'autres muffalos-loups à proximité pour abattre des proies.</GR_PackTactics.description>
+
+<!-- EN: research drive -->
+<GR_ResearchDrive.label>effort de recherche</GR_ResearchDrive.label>
+<!-- EN: zzzz -->
+<GR_ResearchDrive.description>Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought".</GR_ResearchDrive.description>
+
+
+</LanguageData>

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Regenerative oripathy -->
+<HealingOripathySTNL.label>régénération oripathy</HealingOripathySTNL.label>
+<!-- EN: This creature is being healed by Originium Arts. -->
+<HealingOripathySTNL.description>Cette créature est soignée par les arts originium.</HealingOripathySTNL.description>
+<!-- EN: This creature is being healed by Originium Arts. -->
+<HealingOripathySTNL.descriptionShort>Cette créature est soignée par les arts originium.</HealingOripathySTNL.descriptionShort>
+
+<!-- EN: Oripathy Limit-Break -->
+<LimitBreakOripathySTNL.label>rupture de limite oripathy</LimitBreakOripathySTNL.label>
+<!-- EN: This creature is being enhanced and healed by dark Originium Arts. -->
+<LimitBreakOripathySTNL.description>Cette créature est améliorée et soignée par les arts sombres de l'originium.</LimitBreakOripathySTNL.description>
+<!-- EN: This creature is being enhanced and healed by dark Originium Arts. -->
+<LimitBreakOripathySTNL.descriptionShort>Cette créature est améliorée et soignée par les arts sombres de l'originium.</LimitBreakOripathySTNL.descriptionShort>
+
+<!-- EN: Originium Form -->
+<OriginiumArmorFormSTNL.label>forme juggernaut d'originium</OriginiumArmorFormSTNL.label>
+<!-- EN: This person is covered in Originium acting as an indestructible armor at the cost of movement speed. -->
+<OriginiumArmorFormSTNL.description>Cette personne est recouverte d'originium qui agit comme une armure indestructible au détriment de la vitesse de déplacement.</OriginiumArmorFormSTNL.description>
+<!-- EN: This person is covered in Originium acting as an indestructible armor at the cost of movement speed. -->
+<OriginiumArmorFormSTNL.descriptionShort>Cette personne est recouverte d'originium qui agit comme une armure indestructible au détriment de la vitesse de déplacement.</OriginiumArmorFormSTNL.descriptionShort>
+<!-- EN: Originium Helmet -->
+<OriginiumArmorFormSTNL.renderNodeProperties.0.debugLabel>casque originium</OriginiumArmorFormSTNL.renderNodeProperties.0.debugLabel>
+<!-- EN: Originium Plates -->
+<OriginiumArmorFormSTNL.renderNodeProperties.1.debugLabel>plaques originium</OriginiumArmorFormSTNL.renderNodeProperties.1.debugLabel>
+
+<!-- EN: Originium-Induced Death -->
+<OriginiumAssimilatedSTNL.label>mort induite par l'originium</OriginiumAssimilatedSTNL.label>
+<!-- EN: This creature's life has ended due to an overexposure to Originium. -->
+<OriginiumAssimilatedSTNL.description>La vie de cette créature a pris fin suite à une surexposition à l'originium.</OriginiumAssimilatedSTNL.description>
+
+<!-- EN: Originium Blade-form -->
+<OriginiumBladeFormSTNL.label>forme de lame d'originium</OriginiumBladeFormSTNL.label>
+<!-- EN: This person's right arm is a sharp originium sword. -->
+<OriginiumBladeFormSTNL.description>Le bras droit de cette personne est une épée tranchante d'originium.</OriginiumBladeFormSTNL.description>
+<!-- EN: Originum Sword -->
+<OriginiumBladeFormSTNL.comps.HediffComp_VerbGiver.tools.Originum_Sword.label>épée originium</OriginiumBladeFormSTNL.comps.HediffComp_VerbGiver.tools.Originum_Sword.label>
+<!-- EN: This person's right arm is a sharp originium sword. -->
+<OriginiumBladeFormSTNL.descriptionShort>Le bras droit de cette personne est une épée tranchante d'originium.</OriginiumBladeFormSTNL.descriptionShort>
+<!-- EN: Originium Sword -->
+<OriginiumBladeFormSTNL.renderNodeProperties.0.debugLabel>épée originium</OriginiumBladeFormSTNL.renderNodeProperties.0.debugLabel>
+
+<!-- EN: Oripathy Death-Refusal -->
+<OriginiumDeathRefusalSTNL.label>oripathy déni de la mort</OriginiumDeathRefusalSTNL.label>
+<!-- EN: The final layer of protection shall the limit-break fail to help you, forcibly mutates the oripathy strain inside you to resurrect yourself shall you die. Can only be used once. -->
+<OriginiumDeathRefusalSTNL.description>La dernière couche de protection en cas d'échec de la rupture de limite, fait muter de force la souche d'oripathy en vous pour vous ressusciter si vous mourez. Ne peut être utilisé qu'une seule fois.</OriginiumDeathRefusalSTNL.description>
+
+<!-- EN: Originium Psychic Enhancement -->
+<OriginiumEnhancementFormSTNL.label>amélioration psychique originium</OriginiumEnhancementFormSTNL.label>
+<!-- EN: This person is manifesting originium catalysts, doubling their psychic sensitivity and halving their heat gain. They also regenerate more psyfocus when meditating. -->
+<OriginiumEnhancementFormSTNL.description>Cette personne manifeste des catalyseurs d'originium, doublant sa sensibilité psychique et réduisant de moitié son gain d'échauffement neuronal. Régénère également plus de concentration psychique lorsqu'elle médite.</OriginiumEnhancementFormSTNL.description>
+<!-- EN: This person is manifesting originium catalysts, doubling their psychic sensitivity and halving their heat gain. They also regenerate more psyfocus when meditating. -->
+<OriginiumEnhancementFormSTNL.descriptionShort>Cette personne manifeste des catalyseurs d'originium, doublant sa sensibilité psychique et réduisant de moitié son gain d'échauffement neuronal. Régénère également plus de concentration psychique lorsqu'elle médite.</OriginiumEnhancementFormSTNL.descriptionShort>
+<!-- EN: Originium Catalysts -->
+<OriginiumEnhancementFormSTNL.renderNodeProperties.0.debugLabel>catalyseurs originium</OriginiumEnhancementFormSTNL.renderNodeProperties.0.debugLabel>
+<!-- EN: Originium Effect -->
+<OriginiumEnhancementFormSTNL.renderNodeProperties.1.debugLabel>effet originium</OriginiumEnhancementFormSTNL.renderNodeProperties.1.debugLabel>
+<!-- EN: Originium Effect North -->
+<OriginiumEnhancementFormSTNL.renderNodeProperties.2.debugLabel>effet originium Nord</OriginiumEnhancementFormSTNL.renderNodeProperties.2.debugLabel>
+<!-- EN: Originium Catalysts Sides -->
+<OriginiumEnhancementFormSTNL.renderNodeProperties.3.debugLabel>catalyseurs originium latéraux</OriginiumEnhancementFormSTNL.renderNodeProperties.3.debugLabel>
+<!-- EN: Originium Catalysts North -->
+<OriginiumEnhancementFormSTNL.renderNodeProperties.4.debugLabel>catalyseurs originium Nord</OriginiumEnhancementFormSTNL.renderNodeProperties.4.debugLabel>
+
+<!-- EN: Hyper-lethal Oripathy Infection -->
+<oripathypoisonSTNL.label>oripathy mortelle</oripathypoisonSTNL.label>
+<!-- EN: Infected by a modified strain of the oripathy virus, specifically engineered to drastically raise the lethality of the infection. -->
+<oripathypoisonSTNL.description>Infecté par une souche modifiée du virus de l'oripathy, spécialement conçue pour augmenter considérablement la létalité de l'infection.</oripathypoisonSTNL.description>
+<!-- EN: {PAWN_nameDef} is showing early signs of oripathy. -->
+<oripathypoisonSTNL.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} montre les premiers signes de l'oripathy.</oripathypoisonSTNL.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+<!-- EN: initial -->
+<oripathypoisonSTNL.stages.initial.label>initiale</oripathypoisonSTNL.stages.initial.label>
+<!-- EN: Negligible -->
+<oripathypoisonSTNL.stages.Negligible.label>négligeable</oripathypoisonSTNL.stages.Negligible.label>
+<!-- EN: Developing -->
+<oripathypoisonSTNL.stages.Developing.label>développement</oripathypoisonSTNL.stages.Developing.label>
+<!-- EN: Worrying -->
+<oripathypoisonSTNL.stages.Worrying.label>inquiétante</oripathypoisonSTNL.stages.Worrying.label>
+<!-- EN: Alarming -->
+<oripathypoisonSTNL.stages.Alarming.label>alarmante</oripathypoisonSTNL.stages.Alarming.label>
+<!-- EN: Overtaking -->
+<oripathypoisonSTNL.stages.Overtaking.label>critique</oripathypoisonSTNL.stages.Overtaking.label>
+<!-- EN: Dying -->
+<oripathypoisonSTNL.stages.Dying.label>mortelle</oripathypoisonSTNL.stages.Dying.label>
+
+<!-- EN: Curable Oripathy -->
+<oripathySafeSTNL.label>oripathy bénigne</oripathySafeSTNL.label>
+<!-- EN: Infected by slowly still curable oripathy which will lower the infected's stat but raise psychic sensitivity until the immune system fights it off or death due to overdose, the drawbacks are weaker but it is still lethal at critically high doses. -->
+<oripathySafeSTNL.description>Infecté par l'oripathy qui se soigne lentement et qui réduit les statistiques de l'infecté mais augmente sa sensibilité psychique jusqu'à ce que le système immunitaire la combatte ou jusqu'à la mort par overdose, les inconvénients sont plus faibles mais la maladie reste mortelle à des doses très élevées.</oripathySafeSTNL.description>
+<!-- EN: {PAWN_nameDef} is showing early signs of oripathy. -->
+<oripathySafeSTNL.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} montre les premiers signes de l'oripathy.</oripathySafeSTNL.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+<!-- EN: initial -->
+<oripathySafeSTNL.stages.initial.label>initiale</oripathySafeSTNL.stages.initial.label>
+<!-- EN: Negligible -->
+<oripathySafeSTNL.stages.Negligible.label>négligeable</oripathySafeSTNL.stages.Negligible.label>
+<!-- EN: Developing -->
+<oripathySafeSTNL.stages.Developing.label>développement</oripathySafeSTNL.stages.Developing.label>
+<!-- EN: Worrying -->
+<oripathySafeSTNL.stages.Worrying.label>inquiétante</oripathySafeSTNL.stages.Worrying.label>
+<!-- EN: Alarming -->
+<oripathySafeSTNL.stages.Alarming.label>alarmante</oripathySafeSTNL.stages.Alarming.label>
+<!-- EN: Overtaking -->
+<oripathySafeSTNL.stages.Overtaking.label>critique</oripathySafeSTNL.stages.Overtaking.label>
+<!-- EN: Critical -->
+<oripathySafeSTNL.stages.Critical.label>mortelle</oripathySafeSTNL.stages.Critical.label>
+
+<!-- EN: Oripathy -->
+<oripathySTNL.label>oripathy</oripathySTNL.label>
+<!-- EN: Infected by non curable oripathy which will lower the infected's stat but raise psychic sensitivity until death. -->
+<oripathySTNL.description>Infecté par une oripathy non guérissable qui réduit les statistiques de l'infecté mais augmente sa sensibilité psychique jusqu'à sa mort.</oripathySTNL.description>
+<!-- EN: {PAWN_nameDef} is showing early signs of oripathy. -->
+<oripathySTNL.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} montre les premiers signes de l'oripathy.</oripathySTNL.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+<!-- EN: initial -->
+<oripathySTNL.stages.initial.label>initiale</oripathySTNL.stages.initial.label>
+<!-- EN: Negligible -->
+<oripathySTNL.stages.Negligible.label>négligeable</oripathySTNL.stages.Negligible.label>
+<!-- EN: Developing -->
+<oripathySTNL.stages.Developing.label>développement</oripathySTNL.stages.Developing.label>
+<!-- EN: Worrying -->
+<oripathySTNL.stages.Worrying.label>inquiétante</oripathySTNL.stages.Worrying.label>
+<!-- EN: Alarming -->
+<oripathySTNL.stages.Alarming.label>alarmante</oripathySTNL.stages.Alarming.label>
+<!-- EN: Overtaking -->
+<oripathySTNL.stages.Overtaking.label>critique</oripathySTNL.stages.Overtaking.label>
+<!-- EN: Critical -->
+<oripathySTNL.stages.Critical.label>mortelle</oripathySTNL.stages.Critical.label>
+
+<!-- EN: Phasing -->
+<PhasingSTNL.label>phasage</PhasingSTNL.label>
+<!-- EN: This creature is using phase Arts to avoid danger, dodging will still cause the pawn to be stunned. -->
+<PhasingSTNL.description>Cette créature utilise les arts de phase pour éviter le danger. En esquivant, le colon sera tout de même étourdi.</PhasingSTNL.description>
+<!-- EN: This creature is using phase Arts to avoid danger, dodging will still cause the pawn to be stunned. -->
+<PhasingSTNL.descriptionShort>Cette créature utilise les arts de phase pour éviter le danger. En esquivant, le colon sera tout de même étourdi.</PhasingSTNL.descriptionShort>
+
+
+<!-- EN: Experimental Oripathy inhibitor injected -->
+<OripathyFailingRegressionSTNL.label>injection inhibiteur expérimental d'oripathy</OripathyFailingRegressionSTNL.label>
+<!-- EN: This person possesses the ability to reverse their condition enough to give themselves another 22 days. -->
+<OripathyFailingRegressionSTNL.description>Cette personne possède la capacité d’inverser suffisamment son état pour se donner 22 jours supplémentaires.</OripathyFailingRegressionSTNL.description>
+<!-- EN: This person possesses the ability to reverse their condition enough to give themselves another 22 days. -->
+<OripathyFailingRegressionSTNL.descriptionShort>Cette personne possède la capacité d’inverser suffisamment son état pour se donner 22 jours supplémentaires.</OripathyFailingRegressionSTNL.descriptionShort>
+
+<!-- EN: Oripathy inhibitor injected -->
+<OripathyregressionpossibleSTNL.label>injection inhibiteur d'oripathy</OripathyregressionpossibleSTNL.label>
+<!-- EN: This person possesses the ability to reverse their condition enough to give them another 90 days. -->
+<OripathyregressionpossibleSTNL.description>Cette personne possède la capacité d’inverser suffisamment son état pour lui donner 90 jours supplémentaires.</OripathyregressionpossibleSTNL.description>
+<!-- EN: This person possesses the ability to reverse their condition enough to give them another 90 days. -->
+<OripathyregressionpossibleSTNL.descriptionShort>Cette personne possède la capacité d’inverser suffisamment son état pour lui donner 90 jours supplémentaires.</OripathyregressionpossibleSTNL.descriptionShort>
+
+
+</LanguageData>

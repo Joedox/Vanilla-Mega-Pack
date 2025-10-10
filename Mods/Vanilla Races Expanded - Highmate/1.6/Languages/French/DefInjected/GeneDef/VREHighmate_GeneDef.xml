@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: feline ears -->
+<VRE_FelineEars.label>oreilles félines</VRE_FelineEars.label>
+<!-- EN: Carriers of this gene will have soft, furry, feline ears. -->
+<VRE_FelineEars.description>Les porteurs de ce gène ont des oreilles douces, poilues et félines.</VRE_FelineEars.description>
+
+<!-- EN: feline tail -->
+<VRE_FelineTail.label>queue féline</VRE_FelineTail.label>
+<!-- EN: Carriers of this gene grow a furry tail that does not have any purpose other than decorative. -->
+<VRE_FelineTail.description>Les porteurs de ce gène ont une queue poilue qui est uniquement décorative.</VRE_FelineTail.description>
+
+<!-- EN: beautiful-haired -->
+<VRE_HighmateHair.label>cheveux magnifiques</VRE_HighmateHair.label>
+<!-- EN: Carriers of this gene are guaranteed to use specific Highmate hair styles. -->
+<VRE_HighmateHair.description>Les porteurs de ce gène sont assurés d'utiliser des coiffures psycharmeur spécifiques.</VRE_HighmateHair.description>
+
+<!-- EN: perfect body -->
+<VRE_PerfectBody.label>corps parfait</VRE_PerfectBody.label>
+<!-- EN: Carriers of this gene have perfect bodies with no flaws what-so-ever. Their bodies are symmetrical, with soft skin that feels like silk to the touch. People who get intimate with carriers of this gene will not be satisfied when lovin’ anyone without perfect body. -->
+<VRE_PerfectBody.description>Les porteurs de ce gène ont un corps parfait, sans aucun défaut. Leur corps est symétrique, avec une peau douce qui ressemble à de la soie au toucher. Les personnes qui ont des relations intimes avec les porteurs de ce gène ne seront pas satisfaites d'aimer quelqu'un qui n'a pas un corps parfait.</VRE_PerfectBody.description>
+<!-- EN: perfect -->
+<VRE_PerfectBody.labelShortAdj>parfait</VRE_PerfectBody.labelShortAdj>
+
+<!-- EN: dominant genome -->
+<VRE_DominantGenome.label>génome dominant</VRE_DominantGenome.label>
+<!-- EN: Carriers of this gene inherently pass on all their traits to offspring, as this gene overpowers the genetic contributions of the other parent during reproduction. If both partners have dominant genome gene, the genes passed down will be randomized. -->
+<VRE_DominantGenome.description>Les porteurs de ce gène transmettent intrinsèquement toutes leurs caractéristiques à leur progéniture, car ce gène l'emporte sur les contributions génétiques de l'autre parent au cours de la reproduction. Si les deux partenaires possèdent le gène génome dominant, les gènes transmis seront aléatoires.</VRE_DominantGenome.description>
+
+<!-- EN: recessive genome -->
+<VRE_RecessiveGenome.label>génome récessif</VRE_RecessiveGenome.label>
+<!-- EN: Carriers of this gene have a unique genetic makeup that recedes during reproduction, resulting in none of their traits being passed on to their offspring. If both partners have recessive genome gene, the genes passed down will be randomized. -->
+<VRE_RecessiveGenome.description>Les porteurs de ce gène ont un patrimoine génétique unique qui disparaît lors de la reproduction, de sorte qu'aucune de leurs caractéristiques n'est transmise à leur progéniture. Si les deux partenaires sont porteurs du gène génome récessif, les gènes transmis seront aléatoires.</VRE_RecessiveGenome.description>
+
+<!-- EN: very high libido -->
+<VRE_Libido_VeryHigh.label>libido très élevée</VRE_Libido_VeryHigh.label>
+<!-- EN: Carriers of this gene are very keen to engage in lovin’ with their partner, or with anyone else for that matter. They can initiate lovin’ anywhere and anytime. -->
+<VRE_Libido_VeryHigh.description>Les porteurs de ce gène sont très désireux de s'engager dans une relation sexuelle avec leur partenaire, ou avec n'importe qui d'autre d'ailleurs. Ils peuvent commencer à faire l'amour n'importe où et n'importe quand.</VRE_Libido_VeryHigh.description>
+<!-- EN: Increases the chance of lovin' dramatically. -->
+<VRE_Libido_VeryHigh.customEffectDescriptions.0>Augmente considérablement les chances de relation sexuelle.</VRE_Libido_VeryHigh.customEffectDescriptions.0>
+<!-- EN: Ability might cause breakups unless the ideo has the "Lovin: Free and Approved" precept. -->
+<VRE_Libido_VeryHigh.customEffectDescriptions.1>La capacité peut entraîner des ruptures, à moins que l'idéoligion ne respecte le précepte "Amour : libre et approuvé".</VRE_Libido_VeryHigh.customEffectDescriptions.1>
+
+<!-- EN: lovin' dependency -->
+<VRE_LovinDependency.label>dépendance au sexe</VRE_LovinDependency.label>
+<!-- EN: Carriers of this gene need to partake in lovin’ on a regular basis to survive. After 5 days without lovin’, carriers will suffer from lovin’ deficiency. After 30 days without lovin’, they may abandon the colony. -->
+<VRE_LovinDependency.description>Les porteurs de ce gène ont besoin d'avoir des rapports sexuels réguliers pour survivre. Après 5 jours sans rapport, les porteurs souffriront d'une carence en sexe. Après 30 jours sans rapport, ils peuvent abandonner la colonie.</VRE_LovinDependency.description>
+
+<!-- EN: distressed -->
+<VRE_Distressed.label>bouleversé</VRE_Distressed.label>
+<!-- EN: Carriers of this gene take much longer to process hard, distressing memories. Negative thoughts related to human and animal suffering will last twice as long. -->
+<VRE_Distressed.description>Les porteurs de ce gène ont besoin de beaucoup plus de temps pour gérer leurs souvenirs difficiles et pénibles. Les pensées négatives liées à la souffrance humaine et animale durent deux fois plus longtemps.</VRE_Distressed.description>
+
+<!-- EN: flirty -->
+<VRE_Flirty.label>flirt</VRE_Flirty.label>
+<!-- EN: Carriers of this gene get emotional stimulation from playful flirting. They will offer kind, flirty words to brighten the moods of those around them. This helps in developing stronger bonds in the community, but may lead to romances and even break ups. -->
+<VRE_Flirty.description>Les porteurs de ce gène sont stimulés émotionnellement par le flirt ludique. Ils offrent des mots affectueux pour égayer l'humeur de ceux qui les entourent. Cela contribue à renforcer les liens au sein de la communauté, et peut conduire à des histoires d'amour mais aussi à des ruptures.</VRE_Flirty.description>
+
+<!-- EN: harmless -->
+<VRE_Harmless.label>inoffensif</VRE_Harmless.label>
+<!-- EN: Carriers of this gene are not considered a threat by others, and will not be attacked unless they are holding a weapon or have been recently drafted. Carriers of this gene can still be hit by friendly fire and stray bullets, and will still be attacked by manhunting animals. -->
+<VRE_Harmless.description>Les porteurs de ce gène ne sont pas considérés comme une menace par les autres et ne seront pas attaqués à moins qu'ils ne tiennent une arme ou qu'ils aient été récemment mobilisés. Les porteurs de ce gène peuvent toujours être touchés par des tirs amis et des balles perdues, et seront toujours attaqués par les animaux chasseurs d'hommes.</VRE_Harmless.description>
+
+
+<!-- Le mod modifie la description du gène du DLC Biotech -->
+<PsychicBonding.description>Les porteurs de ce gène ont un organe neural spécial qui les lie psychiquement à un partenaire pour la vie. En fonction des caractéristiques des individus liés, ils recevront des effets uniques tant qu'ils seront ensemble. S'ils sont physiquement séparés, ils seront perturbés par la distance. Si l'un meurt, l'esprit de l'autre sera gravement perturbé.</PsychicBonding.description>
+
+
+</LanguageData>

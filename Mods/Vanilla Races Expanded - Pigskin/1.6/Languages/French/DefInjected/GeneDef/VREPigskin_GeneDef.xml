@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!--rapid aging-->
+<VRE_RapidAging.label>vieillissement très rapide</VRE_RapidAging.label>
+<!--Carriers of this gene have an artificial mutation in their genetic material, causing them to age four times as fast as a standard baseliner.-->
+<VRE_RapidAging.description>Les porteurs de ce gène ont une mutation artificielle dans leur matériel génétique, ce qui les fait vieillir quatre fois plus vite qu'un humain.</VRE_RapidAging.description>
+
+<!--fast aging-->
+<VRE_FastAging.label>vieillissement rapide</VRE_FastAging.label>
+<!--Carriers of this gene have an artificial mutation in their genetic material, causing them to age twice as fast as a standard baseliner.-->
+<VRE_FastAging.description>Les porteurs de ce gène ont une mutation artificielle dans leur matériel génétique, ce qui les fait vieillir deux fois plus vite qu'un humain.</VRE_FastAging.description>
+
+<!--slow aging-->
+<VRE_SlowAging.label>vieillissement lent</VRE_SlowAging.label>
+<!--Carriers of this gene have an artificial mutation in their genetic material, causing them to age much slower than a standard baseliner.-->
+<VRE_SlowAging.description>Les porteurs de ce gène ont une mutation artificielle dans leur matériel génétique, ce qui leur permet de vieillir beaucoup plus lentement qu'un humain.</VRE_SlowAging.description>
+
+<!--curled tail-->
+<VRE_CurledTail.label>queue en tire-bouchon</VRE_CurledTail.label>
+<!--Carriers of this gene grow a short, curly tail that does not serve any purpose.-->
+<VRE_CurledTail.description>Les porteurs de ce gène ont une queue courte et en tire-bouchon qui ne sert à rien.</VRE_CurledTail.description>
+
+<!--mouth tusks-->
+<VRE_MouthTusks.label>défenses inférieures</VRE_MouthTusks.label>
+<!--Carriers of this gene grow two small tusks protruding from the jaw.-->
+<VRE_MouthTusks.description>Les porteurs de ce gène ont deux petites défenses qui dépassent de la mâchoire.</VRE_MouthTusks.description>
+<!--tusk-->
+<VRE_MouthTusks.symbolPack.prefixSymbols.0.symbol>défense</VRE_MouthTusks.symbolPack.prefixSymbols.0.symbol>
+<!--tusken-->
+<VRE_MouthTusks.symbolPack.prefixSymbols.1.symbol>denture</VRE_MouthTusks.symbolPack.prefixSymbols.1.symbol>
+
+<!--extra meat-->
+<VRE_ExtraMeat.label>viande supplémentaire</VRE_ExtraMeat.label>
+<!--Carriers of this gene have much more dense meat and fat tissue, resulting in greater meat yield when butchered.-->
+<VRE_ExtraMeat.description>Les porteurs de ce gène ont une viande et un tissu adipeux beaucoup plus denses, ce qui se traduit par un rendement en viande plus élevé lors du dépeçage.</VRE_ExtraMeat.description>
+
+<!--low meat-->
+<VRE_LowMeat.label>viande réduite</VRE_LowMeat.label>
+<!--Carriers of this gene have very thin meat and fat tissue, resulting in much smaller meat yield when butchered.-->
+<VRE_LowMeat.description>Les porteurs de ce gène ont une viande et un tissu adipeux très minces, ce qui se traduit par un rendement en viande beaucoup plus faible lors du dépeçage.</VRE_LowMeat.description>
+
+<!--organ regeneration-->
+<VRE_OrganRegeneration.label>régénération d'organe</VRE_OrganRegeneration.label>
+<!--Carriers of this gene have improved regenerating factors in their DNA, allowing them to slowly regenerate organs that may even be completely missing. The process is slow, and will prioritize healing existing, but damaged, organs.-->
+<VRE_OrganRegeneration.description>Les porteurs de ce gène ont des facteurs de régénération améliorés dans leur ADN, ce qui leur permet de régénérer lentement des organes qui peuvent même être complètement absents. Le processus est lent et donne la priorité à la guérison des organes existants, mais endommagés.</VRE_OrganRegeneration.description>
+<!--A random organ wound is reduced by 1 severity every 6-15 days. If the organ has been destroyed it will be restored with 1 hit point.-->
+<VRE_OrganRegeneration.customEffectDescriptions.0>La blessure d'un organe aléatoire est guérie de 1 point tous les 6 à 15 jours. Si l'organe a été détruit, il sera restauré avec 1 point de vie.</VRE_OrganRegeneration.customEffectDescriptions.0>
+<!--This will affect damage to the brain, stomach, kidneys, lungs, liver and heart.-->
+<VRE_OrganRegeneration.customEffectDescriptions.1>Cela affectera le cerveau, l'estomac, les reins, les poumons, le foie et le cœur.</VRE_OrganRegeneration.customEffectDescriptions.1>
+
+<!--Gluttonous-->
+<VRE_Gluttonous.label>glouton</VRE_Gluttonous.label>
+<!--Carriers of this gene have elastic, bottomless stomachs and are capable of consuming twice as much food.\n\nThey will become increasingly unhappy if hungry, and most mental breaks will be food binges.-->
+<VRE_Gluttonous.description>Les porteurs de ce gène ont un estomac élastique et sans fond et peuvent consommer deux fois plus de nourriture.\n\nIls deviennent de plus en plus malheureux s'ils ont faim, et la plupart des crises de nerfs sont des crises de boulimie.</VRE_Gluttonous.description>
+
+<!--pigskin-->
+<VRE_PigSkin.label>peau de cochon</VRE_PigSkin.label>
+<!--Carriers of this gene will yield pigskin when butchered.-->
+<VRE_PigSkin.description>Les porteurs de ce gène donneront du cuir de cochon lorsqu'ils seront dépecés.</VRE_PigSkin.description>
+
+<!--pork flesh-->
+<VRE_PorkFlesh.label>viande de porc</VRE_PorkFlesh.label>
+<!--Carriers of this gene have traces of pork in their flesh. Consuming pork by them is classed as cannibalism. When butchered, they will yield pork instead of human meat.-->
+<VRE_PorkFlesh.description>Les porteurs de ce gène ont des traces de porc dans leur chair. Leur consommation de viande de porc est considérée comme du cannibalisme. Lorsqu'ils sont dépecés, ils donnent de la viande de porc au lieu de la viande humaine.</VRE_PorkFlesh.description>
+
+<!--coward-->
+<VRE_Coward.label>lâche</VRE_Coward.label>
+<!--Carriers of this gene are much more prone to repond to nervous situations by cowering, hiding, or even going catatonic.-->
+<VRE_Coward.description>Les porteurs de ce gène sont beaucoup plus enclins à réagir aux situations nerveuses en se recroquevillant, en se cachant ou même en devenant catatoniques.</VRE_Coward.description>
+
+<!--brave-->
+<VRE_Brave.label>courageux</VRE_Brave.label>
+<!--Carriers of this gene are much more resilient to stress and exhibit behaviors typically classified as brave.-->
+<VRE_Brave.description>Les porteurs de ce gène sont beaucoup plus résistants au stress et présentent des comportements typiquement qualifiés de courageux.</VRE_Brave.description>
+
+<!--ever growing-->
+<VRE_EverGrowing.label>croissance constante</VRE_EverGrowing.label>
+<!--Carriers of this gene do not stop growing until they reach a biological age of 60. They will keep increasing in size, reaching gargantuan sizes.\n\nAs they grow, they will become slower, but also stagger-immune. With size, their health pool will also increase.-->
+<VRE_EverGrowing.description>Les porteurs de ce gène ne cessent de grandir que lorsqu'ils atteignent l'âge biologique de 60 ans. Ils continueront à grossir, jusqu'à atteindre des tailles gargantuesques.\n\nÀ mesure qu'ils grandissent, ils deviennent plus lents, mais aussi plus immunisés. Avec la taille, leur barre de santé augmentera également.</VRE_EverGrowing.description>
+
+
+<!-- MàJ du 21/02/2024 -->
+<VRE_ChocolateSkin.label>peau chocolatée</VRE_ChocolateSkin.label>
+<VRE_ChocolateSkin.description>Les porteurs de ce gène ont une peau d'un brun pâle et terne.</VRE_ChocolateSkin.description>
+<VRE_ChocolateSkin.labelShortAdj>boueux</VRE_ChocolateSkin.labelShortAdj>
+<VRE_ChocolateSkin.symbolPack.prefixSymbols.0.symbol>boueux</VRE_ChocolateSkin.symbolPack.prefixSymbols.0.symbol>
+<VRE_ChocolateSkin.symbolPack.prefixSymbols.1.symbol>chocolat</VRE_ChocolateSkin.symbolPack.prefixSymbols.1.symbol>
+<VRE_ChocolateSkin.symbolPack.prefixSymbols.2.symbol>marron</VRE_ChocolateSkin.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_HazelnutSkin.label>peau noisette</VRE_HazelnutSkin.label>
+<VRE_HazelnutSkin.description>Les porteurs de ce gène ont une peau noisette légèrement bronzée.</VRE_HazelnutSkin.description>
+<VRE_HazelnutSkin.labelShortAdj>boueux</VRE_HazelnutSkin.labelShortAdj>
+<VRE_HazelnutSkin.symbolPack.prefixSymbols.0.symbol>crème foncée</VRE_HazelnutSkin.symbolPack.prefixSymbols.0.symbol>
+<VRE_HazelnutSkin.symbolPack.prefixSymbols.1.symbol>bronzer</VRE_HazelnutSkin.symbolPack.prefixSymbols.1.symbol>
+<VRE_HazelnutSkin.symbolPack.prefixSymbols.2.symbol>amande</VRE_HazelnutSkin.symbolPack.prefixSymbols.2.symbol>
+<VRE_HazelnutSkin.symbolPack.prefixSymbols.3.symbol>noisette</VRE_HazelnutSkin.symbolPack.prefixSymbols.3.symbol>
+
+<VRE_AuburnSkin.label>peau auburn</VRE_AuburnSkin.label>
+<VRE_AuburnSkin.description>Les porteurs de ce gène ont une peau foncée de couleur rouge-brun.</VRE_AuburnSkin.description>
+<VRE_AuburnSkin.labelShortAdj>boueux</VRE_AuburnSkin.labelShortAdj>
+<VRE_AuburnSkin.symbolPack.prefixSymbols.0.symbol>auburn</VRE_AuburnSkin.symbolPack.prefixSymbols.0.symbol>
+<VRE_AuburnSkin.symbolPack.prefixSymbols.1.symbol>cuivre bruni</VRE_AuburnSkin.symbolPack.prefixSymbols.1.symbol>
+<VRE_AuburnSkin.symbolPack.prefixSymbols.2.symbol>marron foncé</VRE_AuburnSkin.symbolPack.prefixSymbols.2.symbol>
+
+
+</LanguageData>

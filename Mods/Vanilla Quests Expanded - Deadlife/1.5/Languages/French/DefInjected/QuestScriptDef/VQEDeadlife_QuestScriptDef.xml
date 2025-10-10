@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>questDescription->We have intercepted a broadcast at a recently raided underground silo: Operation: Deadlife is now underway. Enough resource silos have been breached, and the plan has been set in motion. The broadcast confirms that [General_nameFull] has initiated final preparations at an ancient ICBM launch site.\n\nRefueling of the devastating missiles is in progress. These warheads are armed with deadlife dust payloads and if launched, they will detonate high in orbit, spreading a near-permanent death pall across the planet. It is likely that endless hordes of shamblers will then scour the world, consuming or destroying all remaining civilization.\n\nWe have traced the origin of the signal to the ICBM launch facility. We must travel there and stop [General_nameFull] before the launch sequence can be completed. The site is expected to be heavily defended, not only swarming with shamblers, but also protected by restored automated defenses.\n\n[General_nameFull] will activate numerous defensive systems from the facility’s control room: opening sealed death pits, releasing shambler animals from containment kennels, flooding the complex with rotstink gas, and awakening elite deadlife officers from cryogenic caskets.\n\nOnly by reaching and destroying the launch terminal can we prevent the missiles from firing. Failure to stop the launch in time, or ignoring this threat entirely, will doom the planet to a global shambler apocalypse.\n\nThis is our only chance to end Operation: Deadlife once and for all.</li>
+-->
+<VQE_Deadlife_AncientICBMLaunchSite.questDescriptionRules.rulesStrings>
+  <li>questDescription->Vous avez intercepté un message provenant d'un silo souterrain récemment attaqué : l'opération Résurrection est en cours. Suffisamment de silos de ressources ont été percés et le plan a été mis en place. La communication confirme que [General_nameFull] a entamé les derniers préparatifs sur un ancien site de lancement de missiles balistiques intercontinentaux (ICBM).\n\nLe ravitaillement des missiles dévastateurs est en cours. Ces ogives sont armées de poussières de résurrection et, si elles sont lancées, elles exploseront en orbite, répandant un nuage de résurrection quasi permanent sur la planète. Il est probable que des hordes infinies de zombies envahiront alors le monde, consommant ou détruisant toutes les civilisations restantes.\n\nVous avez localisé l'origine du signal dans la base de lancement des missiles balistiques intercontinentaux (ICBM). Vous devez vous y rendre et arrêter [General_nameFull] avant que la séquence de lancement ne soit achevée. Attendez-vous à ce que le site soit fortement défendu, non seulement par des zombies, mais aussi par des défenses automatiques restaurées.\n\nLe [General_nameFull] activera de nombreux systèmes de défense depuis la salle de contrôle de l'installation : ouverture des fosses de la mort scellées, libération des animaux zombies des chenils de confinement, inondation du complexe avec du gaz pestilentiels, et réveil des officiers d'élite de résurrection des cercueils cryogéniques.\n\nCe n'est qu'en atteignant et en détruisant le terminal de lancement que vous pourrez empêcher la mise à feu des missiles. Si vous ne parvenez pas à arrêter le lancement à temps, ou si vous ignorez complètement cette menace, la planète sera condamnée à une apocalypse mondiale de zombies.\n\nC'est votre seule chance de mettre fin à l'opération : Résurrection une fois pour toutes.</li>
+</VQE_Deadlife_AncientICBMLaunchSite.questDescriptionRules.rulesStrings>
+<!-- EN:
+  <li>questName->ancient ICBM launch site</li>
+-->
+<VQE_Deadlife_AncientICBMLaunchSite.questNameRules.rulesStrings>
+  <li>questName->ancien site de lancement ICBM</li>
+</VQE_Deadlife_AncientICBMLaunchSite.questNameRules.rulesStrings>
+
+
+<!-- EN:
+  <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of the location of a sealed entrance to one of the [ancientSilos] left behind during Operation: Deadlife, a planet-spanning initiative launched by a [longDeadGovernment] in preparation for global catastrophe.\n\nThese silos were designed to remain sealed for generations, [intention]. Inside, it's believed they contain [containedReward]. The deeper chambers are rumored to hold equipment and supplies capable of restarting civilization itself.\n\n[threat]. [importantLight]. Without the light, you’ll be navigating blind and vulnerable to attack.\n\n[commandMap]. Studying these might reveal the locations of other silos, and more importantly, bring us closer to discovering the Command Headquarters, the nerve center of Operation: Deadlife, where the truth behind this apocalyptic plan may still lie buried.\n\n[questObjective].</li>
+  <li>questDescription(askerIsNull==True)->The ancient battle maps have revealed to us the location of a sealed entrance to one of the [ancientSilos] left behind during Operation: Deadlife, a planet-spanning initiative launched by a [longDeadGovernment] in preparation for global catastrophe.\n\nThese silos were designed to remain sealed for generations, [intention]. Inside, it's believed they contain [containedReward]. The deeper chambers are rumored to hold equipment and supplies capable of restarting civilization itself.\n\n[threat]. [importantLight]. Without the light, you’ll be navigating blind and vulnerable to attack.\n\n[commandMap]. Studying these might reveal the locations of other silos, and more importantly, bring us closer to discovering the Command Headquarters, the nerve center of Operation: Deadlife, where the truth behind this apocalyptic plan may still lie buried.\n\n[questObjective].</li>
+  <li>ancientSilos->ancient military silos</li>
+  <li>ancientSilos->sealed war-era bunkers</li>
+  <li>ancientSilos->abandoned military silos</li>
+  <li>ancientSilos->pre-collapse resource vaults</li>
+  <li>ancientSilos->forgotten subterranean complexes</li>
+  <li>ancientSilos->deep-storage logistics sites</li>
+  <li>ancientSilos->decaying military storage facilities</li>
+  <li>ancientSilos->bunkered infrastructure sites</li>
+  <li>ancientSilos->deadlife supply silos</li>
+  <li>longDeadGovernment->long-dead government</li>
+  <li>longDeadGovernment->ancient planetary alliance</li>
+  <li>longDeadGovernment->collapsed technocratic regime</li>
+  <li>longDeadGovernment->extinct militarized government</li>
+  <li>longDeadGovernment->forgotten emergency council</li>
+  <li>longDeadGovernment->defunct crisis-state authority</li>
+  <li>longDeadGovernment->long-vanished defense network</li>
+  <li>longDeadGovernment->fallen civil defense command</li>
+  <li>intention->intended to be opened only when humanity faced collapse</li>
+  <li>intention->built to withstand centuries and reopen in humanity’s darkest hour</li>
+  <li>intention->designed as failsafe supply nodes for rebuilding civilization</li>
+  <li>intention->meant to be activated only during a planetary extinction event</li>
+  <li>intention->set to unlock once the collapse protocols were confirmed</li>
+  <li>intention->intended to serve as last-resort caches for surviving factions</li>
+  <li>containedReward->vast stockpiles of resources: steel, plasteel, medicine, weaponry, and even preserved cultural relics</li>
+  <li>containedReward->a wealth of resources: hardened rations, components, medical supplies, and munitions</li>
+  <li>containedReward->critical survival materials: building materials, medicines, weapons, and schematics</li>
+  <li>containedReward->tools to rebuild: fuel, tools, seeds, weapons, and encrypted blueprints</li>
+  <li>containedReward->enough equipment to sustain or restart a new colony</li>
+  <li>containedReward->a treasure trove of essential gear, preserved through time</li>
+  <li>threat->Yet the silos are not empty. The corridors within are completely lightless, and something hostile is said to lurk in the dark</li>
+  <li>threat->But time has not left them untouched. The interior is pitch black, and something stirs in the shadows</li>
+  <li>threat->Explorers report movement inside: faint noises, heavy footsteps, shapes in the dark</li>
+  <li>threat->Survivors speak of hostile entities lurking in the corridors, unseen until it’s too late</li>
+  <li>threat->Whatever remains inside is not dormant, something guards these forgotten halls</li>
+  <li>threat->The halls are quiet, but not empty. Something waits inside, cloaked in shadow</li>
+  <li>importantLight->Activating the power and lighting systems inside is critical</li>
+  <li>importantLight->Restoring power and activating lights will be vital to survival</li>
+  <li>importantLight->Without illumination, any movement inside the silo is suicide</li>
+  <li>importantLight->Light systems must be activated first, or you’ll be helpless in the dark</li>
+  <li>importantLight->Sight is your only defense. Find a way to power the lights quickly</li>
+  <li>importantLight->Unless you activate the lights, the silo will be a deathtrap</li>
+  <li>commandMap->Each silo is also known to contain at least one ancient command desk or map table used to coordinate military movements</li>
+  <li>commandMap->Most silos house ancient desks or battle maps once used by field commanders</li>
+  <li>commandMap->Tactical tables scattered inside may contain encrypted maps to other installations</li>
+  <li>commandMap->Buried among the supplies are command desks filled with strategic data</li>
+  <li>commandMap->Decoding the maps on-site could reveal new locations tied to Operation: Deadlife</li>
+  <li>commandMap->Intact terminals and war tables could lead us to the central command</li>
+  <li>questObjective->The quest will complete once you loot at least a quarter of resources from the silo</li>
+  <li>questObjective->Loot at least 25% of the total resources stored in the silo to complete the quest</li>
+  <li>questObjective->The mission ends once a significant portion of the stored goods have been secured</li>
+  <li>questObjective->Successfully extracting a quarter of the silo’s contents will fulfill the objective</li>
+  <li>questObjective->You’ll need to claim at least a fourth of the silo’s supplies to mark this operation complete</li>
+  <li>questObjective->Once enough materials have been secured and hauled out, the quest will be marked complete</li>
+-->
+<VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings>
+  <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], vous a informés de l'emplacement d'une entrée scellée dans [ancientSilos] laissés sur place pendant l'opération : Résurrection, une initiative planétaire lancée par [longDeadGovernment] en prévision d'une catastrophe mondiale.\n\nCes silos ont été conçus pour rester scellés pendant des générations, [intention]. A l'intérieur, vous pouvez trouver du [containedReward]. Les zombies les plus profondément enfouis abriteraient des équipements et des fournitures permettant de redémarrer la civilisation elle-même.\n\n[threat]. [importantLight]. Sans lumière, vous naviguerez à l'aveugle et serez vulnérable aux attaques.\n\n[commandMap]. L'étude de ces cartes pourrait révéler l'emplacement d'autres silos et, surtout, vous rapprocher de la découverte du quartier général, le centre névralgique de l'opération : Résurrection, où la vérité derrière ce plan apocalyptique est peut-être encore enfouie.\n\n[questObjective].</li>
+  <li>questDescription(askerIsNull==True)->Les anciennes cartes de combat vous ont révélé l'emplacement d'une entrée scellée dans [ancientSilos] laissés sur place lors de l'opération : Résurrection, une initiative planétaire lancée par [longDeadGovernment] en prévision d'une catastrophe mondiale.\n\nCes silos ont été conçus pour rester scellés pendant des générations[intention]. A l'intérieur, vous pouvez trouver [containedReward]. Les zombies les plus profondément enfouis abriteraient des équipements et des fournitures permettant de redémarrer la civilisation elle-même.\n\n[threat]. [importantLight]. Sans lumière, vous naviguerez à l'aveugle et serez vulnérable aux attaques.\n\n[commandMap]. L'étude de ces cartes pourrait révéler l'emplacement d'autres silos et, surtout, vous rapprocher de la découverte du quartier général, le centre névralgique de l'opération : Résurrection, où la vérité derrière ce plan apocalyptique est peut-être encore enfouie.\n\n[questObjective].</li>
+  <li>ancientSilos->l'un des anciens silos militaires</li>
+  <li>ancientSilos->l'un des bunkers scellés de l'époque de la guerre</li>
+  <li>ancientSilos->l'un des silos militaires abandonnés</li>
+  <li>ancientSilos->l'un des abris de ressources avant l'effondrement</li>
+  <li>ancientSilos->l'un des complexes souterrains oubliés</li>
+  <li>ancientSilos->l'un des sites logistiques de stockage profond</li>
+  <li>ancientSilos->l'une des installations militaires de stockage en état de délabrement</li>
+  <li>ancientSilos->l'un des sites d'infrastructure bunkérisés</li>
+  <li>ancientSilos->l'un des silos d'approvisionnement de résurrection</li>
+  <li>longDeadGovernment->un gouvernement mort depuis longtemps</li>
+  <li>longDeadGovernment->une ancienne alliance planétaire</li>
+  <li>longDeadGovernment->un régime technocratique effondré</li>
+  <li>longDeadGovernment->un gouvernement militarisé disparu</li>
+  <li>longDeadGovernment->un conseil d'urgence oublié</li>
+  <li>longDeadGovernment->une autorité défunte de l'état de crise</li>
+  <li>longDeadGovernment->un réseau de défense disparu depuis longtemps</li>
+  <li>longDeadGovernment->un commandement déchu de la défense civile</li>
+  <li>intention-> et n'être ouverts que lorsque l'humanité serait confrontée à l'effondrement</li>
+  <li>intention->, pour résister à des siècles et se rouvrir dans les heures les plus sombres de l'humanité</li>
+  <li>intention->, comme des nœuds d'approvisionnement à sécurité intégrée pour la reconstruction de la civilisation</li>
+  <li>intention-> et n'être activés qu'en cas d'extinction planétaire</li>
+  <li>intention-> et se déverrouiller une fois les protocoles d'effondrement confirmés</li>
+  <li>intention-> et servir de caches de dernier recours pour les factions survivantes</li>
+  <li>containedReward->de vastes réserves de ressources : acier, plastacier, médicaments, armement, et même des reliques culturelles préservées</li>
+  <li>containedReward->une abondance de ressources : rations durcies, composants, fournitures médicales et munitions</li>
+  <li>containedReward->des matériaux de survie essentiels : matériaux de construction, médicaments, armes et schémas</li>
+  <li>containedReward->des outils pour reconstruire : du carburant, des outils, des semences, des armes et des plans</li>
+  <li>containedReward->suffisamment d'équipements pour soutenir ou redémarrer une nouvelle colonie</li>
+  <li>containedReward->un trésor d'équipements essentiels, préservé à travers le temps</li>
+  <li>threat->Cependant, les silos ne sont pas vides. Les couloirs qui s'y trouvent sont totalement dépourvus de lumière, et l'on dit que quelque chose d'hostile se cache dans l'obscurité</li>
+  <li>threat->Mais le temps ne les a pas laissés intacts. L'intérieur est plongé dans le noir et quelque chose s'agite dans l'ombre</li>
+  <li>threat->Les explorateurs signalent des mouvements à l'intérieur : des bruits faibles, des pas lourds, des silhouettes dans l'obscurité</li>
+  <li>threat->Les survivants parlent d'entités hostiles tapies dans les couloirs, invisibles jusqu'à ce qu'il soit trop tard</li>
+  <li>threat->Ce qui reste à l'intérieur n'est pas en sommeil, quelque chose garde ces salles oubliées</li>
+  <li>threat->Les couloirs sont silencieux, mais pas vides. Quelque chose attend à l'intérieur, dans l'ombre</li>
+  <li>importantLight->L’activation des systèmes d’alimentation et d’éclairage à l’intérieur est essentielle</li>
+  <li>importantLight->Le rétablissement de l’électricité et l’activation des lumières seront essentiels à la survie</li>
+  <li>importantLight->Sans éclairage, tout mouvement à l'intérieur du silo est synonyme de suicide</li>
+  <li>importantLight->Les systèmes d'éclairage doivent d'abord être activés, sinon vous serez sans défense dans l'obscurité</li>
+  <li>importantLight->La vue est votre seule défense. Trouvez un moyen d'alimenter rapidement les lumières</li>
+  <li>importantLight->Si vous n'activez pas les lumières, le silo sera un piège mortel</li>
+  <li>commandMap->Chaque silo est également connu pour contenir au moins un ancien bureau de commandement ou une table de cartes utilisée pour coordonner les mouvements militaires</li>
+  <li>commandMap->La plupart des silos abritent d'anciens bureaux ou des cartes de combat utilisées autrefois par les commandants de campagne</li>
+  <li>commandMap->Les tables tactiques disséminées à l'intérieur peuvent contenir des cartes cryptées vers d'autres installations</li>
+  <li>commandMap->Des bureaux de commandement remplis de données stratégiques sont enfouis parmi les fournitures</li>
+  <li>commandMap->Le décodage des cartes sur place pourrait révéler de nouveaux lieux liés à l'opération : Résurrection</li>
+  <li>commandMap->Les terminaux intacts et les tables de guerre pourraient vous conduire au commandement central</li>
+  <li>questObjective->La quête s'achèvera lorsque vous aurez récupéré au moins un quart des ressources du silo</li>
+  <li>questObjective->Récupérez au moins 25% des ressources totales stockées dans le silo pour terminer la quête</li>
+  <li>questObjective->La mission s'achèvera lorsqu'une grande partie des marchandises stockées aura été mise en sécurité</li>
+  <li>questObjective->Si vous réussissez à extraire un quart du contenu du silo, l'objectif sera atteint</li>
+  <li>questObjective->Vous devrez réclamer au moins un quart des fournitures du silo pour que l'opération soit considérée comme terminée</li>
+  <li>questObjective->Une fois que suffisamment de matériaux auront été obtenus et transportés, la quête sera considérée comme terminée</li>
+</VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings>
+<!-- EN:
+  <li>questName->[ancient] [silo] [letter][digit][digit]</li>
+  <li>questName->[ancient] Designation: [siloPrefix]-[letter][digit]</li>
+  <li>ancient->Ancient</li>
+  <li>ancient->Forgotten</li>
+  <li>ancient->Old World</li>
+  <li>ancient->Precursor</li>
+  <li>ancient->Legacy</li>
+  <li>ancient->Obsolete</li>
+  <li>ancient->Redacted</li>
+  <li>ancient->Decommissioned</li>
+  <li>silo->Silo</li>
+  <li>silo->Vault</li>
+  <li>silo->Depot</li>
+  <li>silo->Bunker</li>
+  <li>silo->Complex</li>
+  <li>silo->Installation</li>
+  <li>silo->Sector</li>
+  <li>silo->Storage Unit</li>
+  <li>letter->Alpha</li>
+  <li>letter->Echo</li>
+  <li>letter->Sigma</li>
+  <li>letter->Kilo</li>
+  <li>letter->Delta</li>
+  <li>letter->Theta</li>
+  <li>letter->Gamma</li>
+  <li>letter->Zeta</li>
+  <li>digit->1</li>
+  <li>digit->2</li>
+  <li>digit->3</li>
+  <li>digit->4</li>
+  <li>digit->5</li>
+  <li>digit->6</li>
+  <li>digit->7</li>
+  <li>digit->8</li>
+  <li>digit->9</li>
+  <li>digit->0</li>
+  <li>letter->A</li>
+  <li>letter->B</li>
+  <li>letter->D</li>
+  <li>letter->E</li>
+  <li>letter->K</li>
+  <li>letter->Z</li>
+  <li>letter->X</li>
+  <li>letter->R</li>
+  <li>siloPrefix->SILO</li>
+  <li>siloPrefix->NODE</li>
+  <li>siloPrefix->VAULT</li>
+  <li>siloPrefix->UNIT</li>
+  <li>siloPrefix->SITE</li>
+  <li>siloPrefix->BKR</li>
+  <li>siloPrefix->ARC</li>
+-->
+<VQE_Deadlife_AncientSilo.questNameRules.rulesStrings>
+  <li>questName->[siloMF] [letter][digit][digit]</li>
+  <li>questName->Désignation [ancientF] : [siloPrefix]-[letter][digit]</li>
+  <li>questName->[ancientAMF] [letter] [digit][digit]</li>
+  <li>questName->[ancientAF] désignation : [siloPrefix]-[letter][digit]</li>
+  <li>ancientAMF->[ancientAM] [siloM]</li>
+  <li>ancientAMF->[ancientAF] [siloF]</li>
+  <li>ancientAM->ancien</li>
+  <li>ancientAF->ancienne</li>
+  <li>ancientM->oublié</li>
+  <li>ancientF->oubliée</li>
+  <li>ancientM->de l'ancien monde</li>
+  <li>ancientF->de l'ancien monde</li>
+  <li>ancientM->précurseur</li>
+  <li>ancientF->précurseur</li>
+  <li>ancientM->hérité</li>
+  <li>ancientF->héritée</li>
+  <li>ancientM->obsolète</li>
+  <li>ancientF->obsolète</li>
+  <li>ancientM->expurgé</li>
+  <li>ancientF->expurgée</li>
+  <li>ancientM->désaffecté</li>
+  <li>ancientF->désaffectée</li>
+  <li>siloMF->[siloM] [ancientM]</li>
+  <li>siloMF->[siloF] [ancientF]</li>
+  <li>siloM->silo</li>
+  <li>siloM->abri</li>
+  <li>siloM->dépôt</li>
+  <li>siloM->bunker</li>
+  <li>siloM->complexe</li>
+  <li>siloF->installation</li>
+  <li>siloM->secteur</li>
+  <li>siloF->unité de stockage</li>
+  <li>letter->Alpha </li>
+  <li>letter->Écho </li>
+  <li>letter->Sigma </li>
+  <li>letter->Kilo </li>
+  <li>letter->Delta </li>
+  <li>letter->Thêta </li>
+  <li>letter->Gamma </li>
+  <li>letter->Zêta </li>
+  <li>digit->1</li>
+  <li>digit->2</li>
+  <li>digit->3</li>
+  <li>digit->4</li>
+  <li>digit->5</li>
+  <li>digit->6</li>
+  <li>digit->7</li>
+  <li>digit->8</li>
+  <li>digit->9</li>
+  <li>digit->0</li>
+  <li>letter->A</li>
+  <li>letter->B</li>
+  <li>letter->D</li>
+  <li>letter->E</li>
+  <li>letter->K</li>
+  <li>letter->Z</li>
+  <li>letter->X</li>
+  <li>letter->R</li>
+  <li>siloPrefix->SILO</li>
+  <li>siloPrefix->NŒUD</li>
+  <li>siloPrefix->ABRI</li>
+  <li>siloPrefix->UNITÉ</li>
+  <li>siloPrefix->SITE</li>
+  <li>siloPrefix->BKR</li>
+  <li>siloPrefix->ARC</li>
+</VQE_Deadlife_AncientSilo.questNameRules.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Biotech -->
+
+<!-- Maladie de la numérisation -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>JD_Numerisation</defName>
+		<label>Digitising the soul</label>
+		<description>Use the sub-core scanner 50 times on your colonists.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>ScanningSickness</def>
+			<count>50</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Numerisation</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Régénération des gènes -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>JD_RegenDesGenes</defName>
+		<label>On the road to perfection</label>
+		<description>Collect 50 gene packs from your colonists.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>XenogermReplicating</def>
+			<count>50</count>
+		</tracker>
+
+		<texPath>Achievements/JD_RegenDesGenes</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Cuve d'incubation === Ne fonctionne pas ===
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_CuveIncubation</defName>
+		<label>Cuve porteuse</label>
+		<description>Faire naître 10 bébés dans une cuve d'incubation.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>VatGrowing</def>
+			<count>10</count>
+		</tracker>
+
+		<texPath>Achievements/JD_zzzzzzz</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>-->
+
+<!-- Cuve d'apprentissage === Ne fonctionne pas ===
+	<AchievementsExpanded.AchievementDef>
+		<defName>JD_CuveApprentissage</defName>
+		<label>École buissonnière</label>
+		<description>Insérer 10 enfants dans une cuve d'apprentissage.</description>
+
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>VatLearning</def>
+			<count>0.80</count>
+		</tracker>
+
+		<texPath>Achievements/JD_zzzzzzz</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>-->
+
+
+
+</Defs>

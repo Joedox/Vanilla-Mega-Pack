@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Poverty tier - peasant -->
+
+  <VFEM_Medieval_Peasant.label>paysan</VFEM_Medieval_Peasant.label>
+  <VFEM_Medieval_Peasant.labelPlural>paysans</VFEM_Medieval_Peasant.labelPlural>
+
+
+  <!-- Low-tier - merchant, squire -->
+
+  <VFEM_Medieval_Merchant.label>marchand</VFEM_Medieval_Merchant.label>
+  <VFEM_Medieval_Merchant.labelPlural>marchands</VFEM_Medieval_Merchant.labelPlural>
+
+  <VFEM_Medieval_Squire.label>écuyer</VFEM_Medieval_Squire.label>
+  <VFEM_Medieval_Squire.labelPlural>écuyers</VFEM_Medieval_Squire.labelPlural>
+
+
+  <!-- High-tier - bowman, footsoldier -->
+
+  <VFEM_Medieval_Bowman.label>archer</VFEM_Medieval_Bowman.label>
+  <VFEM_Medieval_Bowman.labelPlural>archers</VFEM_Medieval_Bowman.labelPlural>
+
+  <VFEM_Medieval_Footsoldier.label>fantassin</VFEM_Medieval_Footsoldier.label>
+  <VFEM_Medieval_Footsoldier.labelPlural>fantassins</VFEM_Medieval_Footsoldier.labelPlural>
+
+
+  <!-- Elite tier - knight, lord -->
+
+  <VFEM_Medieval_Knight.label>chevalier</VFEM_Medieval_Knight.label>
+  <VFEM_Medieval_Knight.labelPlural>chevaliers</VFEM_Medieval_Knight.labelPlural>
+
+  <VFEM_Medieval_Lord.label>seigneur</VFEM_Medieval_Lord.label>
+  <VFEM_Medieval_Lord.labelPlural>seigneurs</VFEM_Medieval_Lord.labelPlural>
+
+<VFEM_Medieval_Jester.label>bouffon</VFEM_Medieval_Jester.label>
+<VFEM_Medieval_Jester.labelPlural>bouffons</VFEM_Medieval_Jester.labelPlural>
+<VFEM_Medieval_Jester.labelFemale>bouffonne</VFEM_Medieval_Jester.labelFemale>
+
+<VFEM_Medieval_Dame.label>dame</VFEM_Medieval_Dame.label>
+<VFEM_Medieval_Dame.labelPlural>dames</VFEM_Medieval_Dame.labelPlural>
+
+<VFEM_Medieval_King.label>roi</VFEM_Medieval_King.label>
+<VFEM_Medieval_King.labelFemale>reine</VFEM_Medieval_King.labelFemale>
+
+
+</LanguageData>

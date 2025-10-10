@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<GR_CarefulGeneticists.label>généticiens soigneux</GR_CarefulGeneticists.label>
+<GR_CarefulGeneticists.description>L'humanité pratique le génie génétique depuis des siècles, et la manière correcte de l'utiliser comme outil est de suivre soigneusement une méthode scientifique stricte et une sécurité d'expérimentation adéquate.</GR_CarefulGeneticists.description>
+<GR_CarefulGeneticists.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_CarefulGeneticist)        ->[deity0_name] a parlé à ses disciples : "Honorez la méthode scientifique, car l'humanité serait perdue sans cet outil sacré."</li>
+    <li>episode(uses=1,tag=meme_CarefulGeneticist)  ->En suivant les enseignements de [deity0_name], nous avons adhéré à des directives strictes pour nos expériences.</li>
+    <!-- theist founder -->
+    <li>intro(tag=meme_CarefulGeneticist)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un laboratoire de génie génétique, et d'innombrables merveilles génétiques y ont été créées, pour la gloire de [deity0_name].</li>
+    <li>conflict(tag=meme_CarefulGeneticist)        ->Un [foeLeader]égaré, ressentant une compassion tordue pour ces animaux, a tenté d'aller à l'encontre de la volonté de [deity0_name] et de libérer ceux qui étaient étudiés dans les installations.</li>
+    <li>founderJoin(tag=meme_CarefulGeneticist)     ->[founderName], un grand scientifique, a montré les données concrètes et froides au [foeLeader] et l'a convaincu que l'humanité accomplit l'œuvre de [deity0_name] en créant et en étudiant toutes ces merveilleuses créatures.</li>
+    <li>victory(tag=meme_CarefulGeneticist)         ->Le [foeLeader] en est venu à croire fermement aux admonitions de [deity0_name].</li>
+    <!-- ideological founder -->
+    <li>setup(tag=meme_CarefulGeneticist)           ->[founderName] était un généticien dans un Glitterworlds. [founder_pronoun] pensait que chaque orchidée, rose, lézard ou serpent était le fruit du travail d'un éleveur dévoué et compétent. Avec les outils de génie génétique incroyablement puissants dont nous disposons, nous pourrions faire passer les anciens sélectionneurs pour des enfants jouant avec des jouets.</li>
+    <li>story(uses=1,tag=meme_CarefulGeneticist)    ->[founderName] nous a appris que le génie génétique est l'avenir, et que ce n'est qu'en adhérant soigneusement à un code de conduite strict et à une expérimentation scientifique minutieuse que nous pouvons espérer découvrir véritablement notre potentiel.</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_CarefulGeneticist)         ->Le généticien le plus intelligent de notre communauté m'a un jour enseigné l'histoire du génie génétique, comment l'humanité ensemence la galaxie depuis des siècles avec des créatures génétiquement modifiées basées sur des animaux de la vieille Terre. Il m'a amené à comprendre que</li>
+    <li>lesson(tag=meme_CarefulGeneticist)              ->le génie génétique est la clé de notre avenir, à condition que nous soyons prudents et responsables dans son utilisation</li>
+    <li>lessonReinforcement(tag=meme_CarefulGeneticist) ->Scientifiques renégats, cinglés totalitaires, fanatiques de l'eugénisme, ils ont le potentiel de causer des dommages irréparables par une utilisation irresponsable du génie génétique, et nous ne tomberons pas dans les mêmes pièges qu'eux.</li>
+    <!-- archist -->
+    <li>archistBasis(tag=meme_CarefulGeneticist)    ->Les archotechs sont des êtres suprêmes, et l'acte de création minutieux et responsable leur est cher.</li>
+    <li>archistFact(tag=meme_CarefulGeneticist)     ->L'humanité a transformé la galaxie sans vie en un éden, et cela plaît aux archotechs.</li>
+    <li>archistProphecy(tag=meme_CarefulGeneticist) ->[inTheEnd], les archotechs ne permettront de transcender que ceux qui auront soigneusement créé une nouvelle vie, parfaitement adaptée aux étranges écosystèmes de la galaxie.</li>
+    <!-- animist -->
+    <li>animistBasis(tag=meme_CarefulGeneticist)    ->Les animaux étonnants, génétiquement modifiés, qui ont été semés dans la galaxie par les humains, sont chers aux esprits.</li>
+    <li>animistFact(tag=meme_CarefulGeneticist)     ->Les esprits apprécient notre adhésion à un code de conduite strict et à une expérimentation scientifique minutieuse, car la création sans limites devient destruction.</li>
+    <li>animistProphecy(tag=meme_CarefulGeneticist) ->[itIsSaid] ceux qui continuent à transformer soigneusement la galaxie sans vie en un éden communieront un jour pleinement avec les esprits, ne faisant plus qu'un avec eux.</li>
+    <!-- eldritch / chthonian -->
+    <li>chthonianProphecy(tag=meme_CarefulGeneticist)->Les entités eldritch sont des êtres de chaos et de manque de contrôle. En adhérant à un code de conduite strict et en menant des expériences scientifiques minutieuses, nous neutralisons leur influence néfaste sur l'avenir de l'humanité.</li>
+    <!-- esoteric -->
+    <li>esotericismProphecy(tag=meme_CarefulGeneticist)->Ces connaissances occultes ne peuvent être acquises qu'à travers un code de conduite strict et une expérimentation scientifique minutieuse.</li>
+    <!-- serketist -->
+    <li>serketistProphecy(tag=meme_CarefulGeneticist)->[itIsSaid] nous nous conformerons à un code de conduite strict et à une expérimentation scientifique minutieuse.</li>
+    <!-- eschatologism -->
+    <li>eschatologismFact(tag=meme_CarefulGeneticist)->Nous adhérerons à un code de conduite strict et à une expérimentation scientifique minutieuse, et la fin des temps sera inaugurée par nos créations génétiques.</li>
+    <!-- corporate -->
+    <li>introMemo(tag=meme_CarefulGeneticist)->Permettez-moi de vous rappeler que NE PAS adhérer à un code de conduite strict et à une expérimentation scientifique minutieuse entraînera une réprimande immédiate et une éventuelle perte de privilèges. Nous n'avons pas atteint notre réputation actuelle en étant négligents !</li>
+    <!-- alienist -->
+    <li>alienistProphecy(tag=meme_CarefulGeneticist)->Nous allons créer et élever de nombreuses créatures, en respectant un code de conduite strict et en menant des expériences scientifiques minutieuses.</li>
+</GR_CarefulGeneticists.descriptionMaker.rules.rulesStrings>
+<GR_CarefulGeneticists.generalRules.rulesStrings>
+    <li>memeAdjective->prudent</li>
+    <li>memeAdjective->expérimental</li>
+    <li>memeAdjective->investigation</li>
+    <li>memeAdjective->exploratoire</li>
+    <li>memeAdjective->scientifique</li>
+    <li>memeLeaderAdjective->scientifique</li>
+    <li>memeConcept->génie génétique</li>
+    <li>memeConcept->expérimentation minutieuse</li>
+    <li>memeLeaderNoun->généticien</li>
+    <li>memeLeaderNoun->scientifique</li>
+</GR_CarefulGeneticists.generalRules.rulesStrings>
+<GR_CarefulGeneticists.symbolPacks.0.adjective>génétique</GR_CarefulGeneticists.symbolPacks.0.adjective>
+<GR_CarefulGeneticists.symbolPacks.0.ideoName>Génétique</GR_CarefulGeneticists.symbolPacks.0.ideoName>
+<GR_CarefulGeneticists.symbolPacks.0.member>employé de laboratoire</GR_CarefulGeneticists.symbolPacks.0.member>
+<GR_CarefulGeneticists.symbolPacks.0.theme>génétique</GR_CarefulGeneticists.symbolPacks.0.theme>
+
+
+
+<GR_MadScientists.label>scientifiques fous</GR_MadScientists.label>
+<GR_MadScientists.description>Il ne doit pas y avoir de limites au génie génétique. L'exaltation de créer une nouvelle vie, de modifier le code génétique jusqu'à ce qu'il fasse ce pour quoi il a été conçu, c'est ce qui fait que la science vaut la peine d'être poursuivie.</GR_MadScientists.description>
+<GR_MadScientists.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_MadScientist)        ->[deity0_name] a parlé à ses disciples : "Allez, créez une nouvelle vie. Ne laissez pas la morale ou le doute vous entraver, car toute création est sacrée pour moi."</li>
+    <li>episode(uses=1,tag=meme_MadScientist)  ->En suivant les enseignements de [deity0_name], nous avons fait des expériences sans fin sur de nouvelles formes de vie, sans être entravés par des règles ou des procédures bureaucratiques absurdes.</li>
+    <!-- theist founder -->
+    <li>intro(tag=meme_MadScientist)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un laboratoire de génie génétique, et d'innombrables merveilles génétiques y ont été créées, pour la gloire de [deity0_name].</li>
+    <li>conflict(tag=meme_MadScientist)        ->Un [foeLeader]égaré, croyant à l'établissement d'un code de conduite contraignant pour l'expérimentation scientifique, a voulu défier la volonté de [deity0_name] et arrêter nos recherches en génétique.</li>
+    <li>founderJoin(tag=meme_MadScientist)     ->[founderName], un grand scientifique, a montré les données concrètes et froides au [foeLeader], et l'a convaincu que restreindre notre travail ne servirait qu'à entraver la vision de [deity0_name].</li>
+    <li>victory(tag=meme_MadScientist)         ->Le [foeLeader] en est venu à croire fermement aux admonitions de [deity0_name].</li>
+    <!-- ideological founder -->
+    <li>setup(tag=meme_MadScientist)           ->[founderName] était un généticien dans un des Glitterworlds. Son travail visionnaire de génie génétique était constamment retardé par d'innombrables bureaucrates, des moralistes bredouilles et l'opinion publique manipulée, et un jour [founder_pronoun] en a eu assez.</li>
+    <li>story(uses=1,tag=meme_MadScientist)    ->[founderName] a rassemblé ses partisans et s'est embarqué dans un voyage vers la Bordure, à la recherche d'un endroit où ils pourraient effectuer leurs recherches vitales sans entrave.</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_MadScientist)         ->Le généticien le plus intelligent de notre communauté m'a un jour enseigné l'histoire du génie génétique, comment l'humanité ensemence la galaxie depuis des siècles avec des créatures génétiquement modifiées basées sur des animaux de la vieille Terre. Il m'a amené à comprendre que</li>
+    <li>lesson(tag=meme_MadScientist)              ->le génie génétique est la clé de notre avenir, et il est détestable d'entraver l'expérimentation par des règles et des procédures bureaucratiques absurdes</li>
+    <li>lessonReinforcement(tag=meme_MadScientist) ->Si nos ancêtres avaient arrêté leurs recherches en raison de préoccupations éthiques futiles, la galaxie entière serait un désert de mondes inhabitables.</li>
+    <!-- archist -->
+    <li>archistBasis(tag=meme_MadScientist)    ->Les archotechs sont des êtres suprêmes, et l'acte de création sans entrave leur est cher.</li>
+    <li>archistFact(tag=meme_MadScientist)     ->L'humanité a transformé la galaxie sans vie en un éden, et cela plaît aux archotechs.</li>
+    <li>archistProphecy(tag=meme_MadScientist) ->[inTheEnd], les archotechs ne permettront qu'à ceux qui créent une nouvelle vie aussi souvent que possible de se transcender.</li>
+    <!-- animist -->
+    <li>animistBasis(tag=meme_MadScientist)    ->Les animaux étonnants, génétiquement modifiés, qui ont été semés dans la galaxie par les humains, sont chers aux esprits.</li>
+    <li>animistFact(tag=meme_MadScientist)     ->Les esprits veulent que nous créions une nouvelle vie sans être entravés par des règles stupides et des procédures bureaucratiques absurdes.</li>
+    <li>animistProphecy(tag=meme_MadScientist) ->[itIsSaid] ceux qui continuent d'expérimenter sans craindre des préoccupations éthiques stupides communieront un jour pleinement avec les esprits, ne faisant plus qu'un avec eux.</li>
+    <!-- eldritch / chthonian -->
+    <li>chthonianProphecy(tag=meme_MadScientist)->Les entités eldritch sont des êtres de destruction rampante. Ce n'est qu'en libérant nos expérimentations génétiques et en créant une nouvelle vie sans limites que nous pouvons espérer éviter une confrontation.</li>
+    <!-- esoteric -->
+    <li>esotericismProphecy(tag=meme_MadScientist)->Ces connaissances occultes ne peuvent être acquises qu'en expérimentant sans fin sur de nouvelles formes de vie, sans aucune règle ni procédure bureaucratique absurde.</li>
+    <!-- serketist -->
+    <li>serketistProphecy(tag=meme_MadScientist)->[itIsSaid] nous expérimenterons sans fin sur de nouvelles formes de vie, sans aucune règle ni procédure bureaucratique absurde.</li>
+    <!-- eschatologism -->
+    <li>eschatologismFact(tag=meme_MadScientist)->Nous ferons des expériences sans fin sur de nouvelles formes de vie, sans aucune règle ni procédure bureaucratique absurde, et la fin des temps sera annoncée par nos créations génétiques.</li>
+    <!-- corporate -->
+    <li>introMemo(tag=meme_MadScientist)->S'il vous plaît, S'il vous plaît, faites un inventaire correct de vos expériences après avoir quitté le laboratoire ! Un couple d'ours-aéroglobe prévu pour la fin de l'expérience s'est échappé du laboratoire de génétique hier quand ils ont été laissés sans surveillance et se sont enfuis dans la nature ! Savez vous ce que ces créatures pourraient faire à l'écosystème ?</li>
+    <!-- alienist -->
+    <li>alienistProphecy(tag=meme_MadScientist)->Nous créerons et reproduirons de nombreuses créatures, expérimentant sans cesse de nouvelles formes de vie, sans être soumis à aucune règle ou procédure bureaucratique absurde.</li>
+</GR_MadScientists.descriptionMaker.rules.rulesStrings>
+<GR_MadScientists.generalRules.rulesStrings>
+    <li>memeAdjective->innovant</li>
+    <li>memeAdjective->inventif</li>
+    <li>memeAdjective->radical</li>
+    <li>memeAdjective->marginal</li>
+    <li>memeAdjective->excentrique</li>
+    <li>memeLeaderAdjective->scientifique</li>
+    <li>memeConcept->génie génétique</li>
+    <li>memeConcept->expérimentation sauvage</li>
+    <li>memeLeaderNoun->généticien</li>
+    <li>memeLeaderNoun->scientifique</li>
+</GR_MadScientists.generalRules.rulesStrings>
+<GR_MadScientists.symbolPacks.0.adjective>génétique</GR_MadScientists.symbolPacks.0.adjective>
+<GR_MadScientists.symbolPacks.0.ideoName>Génétique</GR_MadScientists.symbolPacks.0.ideoName>
+<GR_MadScientists.symbolPacks.0.member>employé de laboratoire</GR_MadScientists.symbolPacks.0.member>
+<GR_MadScientists.symbolPacks.0.theme>génétique</GR_MadScientists.symbolPacks.0.theme>
+
+
+</LanguageData>

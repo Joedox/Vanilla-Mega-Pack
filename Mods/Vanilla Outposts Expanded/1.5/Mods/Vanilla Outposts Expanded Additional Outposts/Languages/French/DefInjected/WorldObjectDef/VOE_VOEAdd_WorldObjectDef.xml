@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Outpost_Construction_Site.label>avant-poste de travailleurs</Outpost_Construction_Site.label>
+<Outpost_Construction_Site.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'emploi temporaire d'ouvriers pour les autres factions, en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Construction_Site.description>
+
+<Outpost_Field_Hospital.label>hôpital de campagne</Outpost_Field_Hospital.label>
+<Outpost_Field_Hospital.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production de matériel médical pour votre colonie. Peut également vendre et fournir une aide médicale aux vagabonds, caravanes et indigènes en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Field_Hospital.description>
+<Outpost_Field_Hospital.modExtensions.0.ChooseDesc>Choisir entre la production de matériel médical pour votre colonie ou pour la vente.</Outpost_Field_Hospital.modExtensions.0.ChooseDesc>
+<Outpost_Field_Hospital.modExtensions.0.ChooseLabel>produire...</Outpost_Field_Hospital.modExtensions.0.ChooseLabel>
+
+<Outpost_Restaurant.label>restaurant</Outpost_Restaurant.label>
+<Outpost_Restaurant.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production de repas pour votre colonie. Peut également vendre les repas aux vagabonds, caravanes et indigènes en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Restaurant.description>
+<Outpost_Restaurant.modExtensions.0.ChooseDesc>Choisir entre la production de repas pour votre colonie ou pour la vente.</Outpost_Restaurant.modExtensions.0.ChooseDesc>
+<Outpost_Restaurant.modExtensions.0.ChooseLabel>produire...</Outpost_Restaurant.modExtensions.0.ChooseLabel>
+
+<Outpost_Circus.label>cirque itinérant</Outpost_Circus.label>
+<Outpost_Circus.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'organisation d'événements artistiques et récréatifs pour les vagabonds, caravanes et indigènes, en échange d'argent. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Circus.description>
+
+<Outpost_Embassy.label>ambassade</Outpost_Embassy.label>
+<Outpost_Embassy.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la négociation avec les autres factions. Des négociations réussies augmentent les relations avec cette faction.</Outpost_Embassy.description>
+<Outpost_Embassy.modExtensions.0.ChooseDesc>Choisir la faction avec laquelle cette ambassade va négocier.</Outpost_Embassy.modExtensions.0.ChooseDesc>
+<Outpost_Embassy.modExtensions.0.ChooseLabel>Négocier avec {0}</Outpost_Embassy.modExtensions.0.ChooseLabel>
+
+<Outpost_Border_Post.label>poste frontalier</Outpost_Border_Post.label>
+<Outpost_Border_Post.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la surveillance des frontières de votre faction, à la recherche d'intrus et de contrebandiers. Lorsque le contrevenant est attrapé, il est condamné à une amende ou emprisonné. Après quoi, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Border_Post.description>
+<Outpost_Border_Post.modExtensions.0.ChooseDesc>Choisir la condamnation à prendre à l'égard des contrevenants.</Outpost_Border_Post.modExtensions.0.ChooseDesc>
+<Outpost_Border_Post.modExtensions.0.ChooseLabel>Condamnation {0}</Outpost_Border_Post.modExtensions.0.ChooseLabel>
+
+<Outpost_Mercenary_Camp.label>camp de mercenaires</Outpost_Mercenary_Camp.label>
+<Outpost_Mercenary_Camp.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la prestation de services de mercenaires en échange d'argent. Une fois la mission terminée, la récompense sera livrée à la périphérie de votre colonie principale.</Outpost_Mercenary_Camp.description>
+<Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>Choisir le niveau de risque pour la prochaine mission.</Outpost_Mercenary_Camp.modExtensions.0.ChooseDesc>
+<Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>Risque niv. {0}</Outpost_Mercenary_Camp.modExtensions.0.ChooseLabel>
+
+<Outpost_Prison.label>pénitencier</Outpost_Prison.label>
+<Outpost_Prison.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'incarcération et la réinsertion des prisonniers. Obtenez un paiement pour la détention de prisonniers d'autres factions. Peut forcer les prisonniers à travailler, les recruter ou les réduire en esclavage. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Prison.description>
+<Outpost_Prison.modExtensions.0.ChooseDesc>Choisir ce qu'il faut faire avec les prisonniers.</Outpost_Prison.modExtensions.0.ChooseDesc>
+
+<Outpost_Ranch.label>ferme d'élevage</Outpost_Ranch.label>
+<Outpost_Ranch.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'élevage du bétail et la production de denrées animalières. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Ranch.description>
+<Outpost_Ranch.modExtensions.0.ChooseDesc>Transférer un animal de cette caravane à la ferme d'élevage.</Outpost_Ranch.modExtensions.0.ChooseDesc>
+<Outpost_Ranch.modExtensions.0.ChooseLabel>ajouter animal</Outpost_Ranch.modExtensions.0.ChooseLabel>
+
+<Outpost_Educational_Center.label>centre d'éducation</Outpost_Educational_Center.label>
+<Outpost_Educational_Center.description>Emplacement d'un camp temporaire, géré de manière autonome et spécialisé dans l'éducation des élèves. Nécessite des enseignants de différentes spécialités.</Outpost_Educational_Center.description>
+
+<Outpost_Church.label>église</Outpost_Church.label>
+<Outpost_Church.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la diffusion d'idéoligions. Obtient des dons d'argent de la part des visiteurs. Peut convertir les gens à l'idéoligion de votre faction. Une fois qu'une quantité adéquate a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Church.description>
+<Outpost_Church.modExtensions.0.ChooseDesc>Choisir l'idéoligion que vos guides spirituels vont propager.</Outpost_Church.modExtensions.0.ChooseDesc>
+<Outpost_Church.modExtensions.0.ChooseLabel>propager : {0}</Outpost_Church.modExtensions.0.ChooseLabel>
+
+<Outpost_Bank.label>banque</Outpost_Bank.label>
+<Outpost_Bank.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la prestation aux clients d'un environnement pratique et sûr pour leurs transactions financières. Exige un dépôt initial d'argent ou d'or. Obtenir un paiement en argent ou en or pour les prêts accordés à d'autres factions, les taxes sur les transactions et la préservation de leurs objets de valeur. Une fois qu'un montant suffisant d'intérêts est collecté, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Bank.description>
+
+
+</LanguageData>

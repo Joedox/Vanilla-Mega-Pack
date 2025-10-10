@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Cook Simple Soup -->
+<VCE_SimpleSoupRecipe.label>Mijotage de soupe simple</VCE_SimpleSoupRecipe.label>
+<!-- EN: Turns an uncooked simple soup into 10 cooked simple soups. -->
+<VCE_SimpleSoupRecipe.description>Transformer 1 soupe simple (non mijotée) en 10 soupes simples.</VCE_SimpleSoupRecipe.description>
+<VCE_SimpleSoupRecipe.labelOverride>Mijoter 1 soupe simple (non mijotée) en 10 soupes simples.</VCE_SimpleSoupRecipe.labelOverride>
+
+<!-- EN: Cook Fine Soup -->
+<VCE_FineSoupRecipe.label>Mijotage de soupe raffinée</VCE_FineSoupRecipe.label>
+<!-- EN: Turns an uncooked fine soup into 10 cooked fine soups. -->
+<VCE_FineSoupRecipe.description>Transformer 1 soupe raffinée (non mijotée) en 10 soupes raffinées.</VCE_FineSoupRecipe.description>
+<VCE_FineSoupRecipe.labelOverride>Mijoter 1 soupe raffinée (non mijotée) en 10 soupes raffinées.</VCE_FineSoupRecipe.labelOverride>
+
+<!-- EN: Cook Lavish Soup -->
+<VCE_LavishSoupRecipe.label>Mijotage de soupe gastronomique</VCE_LavishSoupRecipe.label>
+<!-- EN: Turns an uncooked lavish soup into 10 cooked lavish soups. -->
+<VCE_LavishSoupRecipe.description>Transformer 1 soupe gastronomique (non mijotée) en 10 soupes gastronomiques.</VCE_LavishSoupRecipe.description>
+<VCE_LavishSoupRecipe.labelOverride>Mijoter 1 soupe gastronomique (non mijotée) en 10 soupes gastronomiques.</VCE_LavishSoupRecipe.labelOverride>
+
+<!-- EN: Cook Gourmet Soup -->
+<VCE_GourmetSoupRecipe.label>Mijotage de soupe de gourmet</VCE_GourmetSoupRecipe.label>
+<!-- EN: Turns an uncooked gourmet soup into 10 cooked gourmet soups. -->
+<VCE_GourmetSoupRecipe.description>Transformer 1 soupe de gourmet (non mijotée) en 10 soupes de gourmet.</VCE_GourmetSoupRecipe.description>
+<VCE_GourmetSoupRecipe.labelOverride>Mijoter 1 soupe de gourmet (non mijotée) en 10 soupes de gourmet.</VCE_GourmetSoupRecipe.labelOverride>
+
+<!-- EN: Insect jelly into cheese -->
+<VCE_JellyIntoCheese.label>Pressage de gelée d'insecte en fromage</VCE_JellyIntoCheese.label>
+<!-- EN: Turns 50 insect jelly into 25 cheese. -->
+<VCE_JellyIntoCheese.description>Transformer 50 gelées d'insecte en 25 fromages.</VCE_JellyIntoCheese.description>
+<!-- EN: Turn 50 insect jelly into 25 cheese. -->
+<VCE_JellyIntoCheese.labelOverride>Presser 50 gelées d'insecte en 25 fromages.</VCE_JellyIntoCheese.labelOverride>
+
+<!-- EN: Milk into cheese -->
+<VCE_MilkIntoCheese.label>Pressage du lait en fromage</VCE_MilkIntoCheese.label>
+<!-- EN: Turns 50 milk into 25 cheese. -->
+<VCE_MilkIntoCheese.description>Transformer 50 laits en 25 fromages.</VCE_MilkIntoCheese.description>
+<!-- EN: Turn 50 milk into 25 cheese. -->
+<VCE_MilkIntoCheese.labelOverride>Presser 50 laits en 25 fromages.</VCE_MilkIntoCheese.labelOverride>
+
+
+</LanguageData>

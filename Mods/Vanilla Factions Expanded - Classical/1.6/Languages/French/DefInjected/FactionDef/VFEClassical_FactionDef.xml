@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: central republic -->
+<VFEC_CentralRepublic.label>république centrale</VFEC_CentralRepublic.label>
+<!-- EN: These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Republic can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic holds production and city development in high regards. Gaining their support will unlock several perks focused on improving the wellbeing of the people. -->
+<VFEC_CentralRepublic.description>Cette population est présente depuis très longtemps. Leur civilisation a commencé par un rassemblement de tribus, mais a rapidement développé des compétences telles que l'écriture, la maçonnerie et la fonction publique. \n\nMalgré leur apparente faiblesse technologique, la République peut être un ennemi dangereux et un ami précieux grâce à son habileté dans les guerres de basse technologie, son nombre et sa robustesse.\n\nCette section en particulier de la République accorde une grande importance à la production et au développement des villes. Obtenir leur soutien permet de débloquer plusieurs avantages visant à améliorer le bien-être de la population.</VFEC_CentralRepublic.description>
+<VFEC_CentralRepublic.fixedName>La République centrale</VFEC_CentralRepublic.fixedName>
+<!-- EN: patrician -->
+<VFEC_CentralRepublic.leaderTitle>patricien</VFEC_CentralRepublic.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEC_CentralRepublic.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEC_CentralRepublic.messageDefendersAttacking>
+<!-- EN: plebeian -->
+<VFEC_CentralRepublic.pawnSingular>plébéien</VFEC_CentralRepublic.pawnSingular>
+<!-- EN: plebeians -->
+<VFEC_CentralRepublic.pawnsPlural>plébéiens</VFEC_CentralRepublic.pawnsPlural>
+
+<!-- EN: eastern republic -->
+<VFEC_EasternRepublic.label>république de l'Est</VFEC_EasternRepublic.label>
+<!-- EN: These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Imperium can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic values hard work and production over brawl and intellect. Gaining their support will unlock several perks focused on research and progress. -->
+<VFEC_EasternRepublic.description>Cette population est présente depuis très longtemps. Leur civilisation a commencé par un rassemblement de tribus, mais a rapidement développé des compétences telles que l'écriture, la maçonnerie et la fonction publique.\n\nMalgré leur apparente faiblesse technologique, l'Empire peut être un ennemi dangereux et un ami précieux grâce à son habileté dans les guerres de basse technologie, son nombre et sa robustesse.\n\nCette partie particulière de la République valorise le travail et la production plutôt que la bagarre et l'intellect. En gagnant leur soutien, vous débloquerez plusieurs avantages axés sur la recherche et le progrès.</VFEC_EasternRepublic.description>
+<VFEC_EasternRepublic.fixedName>La République de l'Est</VFEC_EasternRepublic.fixedName>
+<!-- EN: patrician -->
+<VFEC_EasternRepublic.leaderTitle>patricien</VFEC_EasternRepublic.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEC_EasternRepublic.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEC_EasternRepublic.messageDefendersAttacking>
+<!-- EN: plebeian -->
+<VFEC_EasternRepublic.pawnSingular>plébéien</VFEC_EasternRepublic.pawnSingular>
+<!-- EN: plebeians -->
+<VFEC_EasternRepublic.pawnsPlural>plébéiens</VFEC_EasternRepublic.pawnsPlural>
+
+<!-- EN: western republic -->
+<VFEC_WesternRepublic.label>république de l'Ouest</VFEC_WesternRepublic.label>
+<!-- EN: These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Imperium can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic considers honor and superiority in battle to be most valuable. Gaining their support will unlock several perks focused on warfare and military. -->
+<VFEC_WesternRepublic.description>Cette population est présente depuis très longtemps. Leur civilisation a commencé par un rassemblement de tribus, mais a rapidement développé des compétences telles que l'écriture, la maçonnerie et la fonction publique.\n\nMalgré leur apparente faiblesse technologique, l'Empire peut être un ennemi dangereux et un ami précieux grâce à son habileté dans les guerres de basse technologie, son nombre et sa robustesse.\n\nCette section en particulier de la République considère que l'honneur et la supériorité au combat sont les plus précieux. Gagner leur soutien débloquera plusieurs avantages axés sur la guerre et l'armée.</VFEC_WesternRepublic.description>
+<VFEC_WesternRepublic.fixedName>La République de l'Ouest</VFEC_WesternRepublic.fixedName>
+<!-- EN: patrician -->
+<VFEC_WesternRepublic.leaderTitle>patricien</VFEC_WesternRepublic.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEC_WesternRepublic.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEC_WesternRepublic.messageDefendersAttacking>
+<!-- EN: plebeian -->
+<VFEC_WesternRepublic.pawnSingular>plébéien</VFEC_WesternRepublic.pawnSingular>
+<!-- EN: plebeians -->
+<VFEC_WesternRepublic.pawnsPlural>plébéiens</VFEC_WesternRepublic.pawnsPlural>
+
+
+<!-- EN: New Empire -->
+<VFEC_NewEmpire.label>nouvel empire</VFEC_NewEmpire.label>
+<!-- EN: A new empire. -->
+<VFEC_NewEmpire.description>Un nouvel empire.</VFEC_NewEmpire.description>
+<!-- EN: leader -->
+<VFEC_NewEmpire.leaderTitle>chef</VFEC_NewEmpire.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEC_NewEmpire.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEC_NewEmpire.messageDefendersAttacking>
+<!-- EN: plebeian -->
+<VFEC_NewEmpire.pawnSingular>plébéien</VFEC_NewEmpire.pawnSingular>
+<!-- EN: plebeians -->
+<VFEC_NewEmpire.pawnsPlural>plébéiens</VFEC_NewEmpire.pawnsPlural>
+
+
+</LanguageData>

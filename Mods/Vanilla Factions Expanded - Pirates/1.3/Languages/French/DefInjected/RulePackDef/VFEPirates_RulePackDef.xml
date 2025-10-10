@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEM_NamerPersonJunker.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Junker_First_Male] [Junker_Last_M]</li>
+
+<!-- Ajout -->
+    <li>Junker_Last_M->Le [Junker_Last]</li>
+    <li>Junker_Last_M->L'[Junker_LastL]</li>
+<!-- Fin Ajout-->
+</VFEM_NamerPersonJunker.rulePack.rulesStrings>
+
+<VFEM_NamerPersonJunkerFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Junker_First_Female] [Junker_Last_F]</li>
+
+<!-- Ajout -->
+    <li>Junker_Last_F->La [Junker_Last_Feminine]</li>
+    <li>Junker_Last_F->L'[Junker_Last_FeminineL]</li>
+<!-- Fin Ajout-->
+</VFEM_NamerPersonJunkerFemale.rulePack.rulesStrings>
+
+
+</LanguageData>

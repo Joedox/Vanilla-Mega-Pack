@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!-- Labels -->
+<PatchTitle>RimWorld {0} "{1}" </PatchTitle>
+<PatchTitleNoName>RimWorld {0} </PatchTitleNoName>
+<OskarObnoxious>Oskar Obnoxious </OskarObnoxious>
+<PatchNotes>Nouvelle mise à jour</PatchNotes>
+
+<!-- Patch Window -->
+<ValueChanged>{0} a changé de {1} pour {2}</ValueChanged>
+<ValueUnchanged>{0} restera la même. La valeur actuelle est {1}</ValueUnchanged>
+<ValueChangedDefault>{0} defaultValue changé de {1} pour {2}</ValueChangedDefault>
+<ValueUnchangedDefault>{0} defaultValue ne changera pas. La valeur actuelle est {1}</ValueUnchangedDefault>
+
+<!-- Settings -->
+<TicksBetweenPatchNotes>Délais entre les mises à jour</TicksBetweenPatchNotes>
+<TicksBetweenPatchNotesTooltip>Délais jusqu'à ce que les prochaines notes de patch soient publiées. Consulter le wiki du temps de RimWorld si vous n'êtes pas sûr des valeurs. 60 000 tics = 1 jour</TicksBetweenPatchNotesTooltip>
+
+<DefsChangedPerPatch>Defs </DefsChangedPerPatch>
+<DefsChangedPerPatchTooltip>Nombre de Defs corrigés par les Patch Notes</DefsChangedPerPatchTooltip>
+<FieldsChangedPerDef>Champs</FieldsChangedPerDef>
+<FieldsChangedPerDefTooltip>Nombre de champs patchés par les Def</FieldsChangedPerDefTooltip>
+<PatchNotesStored>Patch Notes stockés</PatchNotesStored>
+<PatchNotesStoredTooltip>Nombre maximum de patchs qui seront stockés et visibles dans la fenêtre Patch Notes. Seuls les correctifs les plus récents seront affichés jusqu'à ce nombre, mais tous les correctifs précédents appliqueront toujours leurs modifications.</PatchNotesStoredTooltip>
+
+<ShowAllPatchNotes>Ouvrir les Patch Notes</ShowAllPatchNotes>
+<ResetPatchNotesToDefault>Réinitialiser les réglages</ResetPatchNotesToDefault>
+<DebugShowPatchGeneration>Générer un journal des patchs</DebugShowPatchGeneration>
+<DebugShowPatchGenerationTooltip>Afficher toutes les étapes de génération des patchs dans le journal des messages. (Pour le débogage uniquement)</DebugShowPatchGenerationTooltip>
+</LanguageData>

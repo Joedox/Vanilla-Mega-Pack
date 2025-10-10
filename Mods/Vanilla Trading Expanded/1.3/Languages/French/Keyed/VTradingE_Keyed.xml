@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VTE.SortBy>Trier :</VTE.SortBy>
+<VTE.Search>Rcher.</VTE.Search> <!--Recherche-->
+<VTE.Name>Nom</VTE.Name>
+<VTE.Item>Article</VTE.Item>
+<VTE.MarketValue>Prix de base</VTE.MarketValue>
+<VTE.CurrentValue>Prix actuel</VTE.CurrentValue>
+<VTE.Change>Évolution</VTE.Change>
+<VTE.RecentChange>Évolution récente</VTE.RecentChange>
+
+<VTE.ViewMarketPrices>Consulter les prix boursiers</VTE.ViewMarketPrices>
+<VTE.ViewNews>Lire les nouvelles</VTE.ViewNews>
+<VTE.Contact>Contacter la {0}</VTE.Contact>
+<VTE.EmpireBankName>Banque impériale</VTE.EmpireBankName>
+<VTE.BaseBankName>Banque de {FACTION_name}</VTE.BaseBankName>
+<VTE.OutlanderCivilBankName>Banque {FACTION_name}</VTE.OutlanderCivilBankName>
+
+<VTE.LocalFunds>Argent local : {0}</VTE.LocalFunds> <!-- Fonds locaux -->
+<VTE.BankBalance>Solde bancaire : {0}</VTE.BankBalance>
+<VTE.BankFees>Frais bancaires : {0}%</VTE.BankFees>
+<VTE.BankFeesBasedOn>Basé sur {0} de relation avec {FACTION_name}</VTE.BankFeesBasedOn>
+<VTE.DepositOrWithdraw>Dépôt ou Retrait</VTE.DepositOrWithdraw>
+<VTE.DepositOrWithdrawDesc>Les nombres positifs déposent. Les nombres négatifs retirent.</VTE.DepositOrWithdrawDesc>
+<VTE.AreYouSureYouWantToDeposit>Êtes-vous sûr de vouloir déposer {0} d'argent ?</VTE.AreYouSureYouWantToDeposit>
+<VTE.AreYouSureYouWantToWithdraw>Êtes-vous sûr de vouloir retirer {0} d'argent ?</VTE.AreYouSureYouWantToWithdraw>
+<VTE.Breakdown>Répartition</VTE.Breakdown>
+<VTE.BreakdownBankDesc>Les frais de transactions sont basés sur la banque en vigueur.</VTE.BreakdownBankDesc>
+<VTE.BreakdownStockMarketDesc>L'achat d'actions de vaisseaux commerciaux peut être risqué. Suivez de près l'actualité pour savoir comment se porte la société dans laquelle vous investissez.</VTE.BreakdownStockMarketDesc>
+
+<VTE.AmountToDepositWithdraw>Montant à déposer / retirer</VTE.AmountToDepositWithdraw>
+<VTE.AmountToDeposit>Montant à déposer</VTE.AmountToDeposit>
+<VTE.AmountToWithdraw>Montant à retirer</VTE.AmountToWithdraw>
+<VTE.FeesToPay>Frais à payer</VTE.FeesToPay>
+<VTE.Total>Total </VTE.Total>
+<VTE.Loans>Emprunts</VTE.Loans>
+<VTE.QuickCashLoan>Prêt d'argent rapide</VTE.QuickCashLoan>
+<VTE.ShortTermLoan>Prêt à court terme</VTE.ShortTermLoan>
+<VTE.LongTermLoan>Prêt à long terme</VTE.LongTermLoan>
+<VTE.MortgageLoan>Prêt hypothécaire</VTE.MortgageLoan>
+<VTE.LoanOptionsUnlockText>Se débloque après avoir déposé de l'argent.</VTE.LoanOptionsUnlockText>
+<VTE.Repay>Remboursement</VTE.Repay>
+<VTE.RepayDate>Le {0} ({1})</VTE.RepayDate>
+<VTE.RepayDateDaysLeft>Le {0} ({1} restant)</VTE.RepayDateDaysLeft>
+<VTE.RepayDateOverdue>Le {0} (impayé)</VTE.RepayDateOverdue>
+
+<VTE.TakeLoan>Emprunter</VTE.TakeLoan>
+<VTE.RepayFromBalance>Rembourser le solde</VTE.RepayFromBalance>
+<VTE.LoanExplanation>Les prêts ne peuvent être remboursés qu'avec le solde bancaire. Assurez-vous d'avoir suffisamment d'argent sur votre compte en banque lorsque le prêt arrive à échéance, ou remboursez-le avant. Si vous ne disposez pas de suffisamment d'argent sur votre compte bancaire et dans vos stocks, vous risquez de perdre la confiance de la faction bancaire et d'encourir d'autres conséquences jusqu'au règlement de votre dette.</VTE.LoanExplanation>
+<VTE.IndebtedMessage>Les relations avec {FACTION_name} sont devenues hostiles en raison de l'endettement auprès de la banque.</VTE.IndebtedMessage>
+<VTE.CollectorsLabel>Percepteurs</VTE.CollectorsLabel>
+<VTE.CollectorsText>Un groupe de mercenaires est arrivé à proximité.
+
+Ils ont été engagés par {FACTION_name} pour vous encourager à rembourser votre dette.</VTE.CollectorsText>
+<VTE.CollectorsTextPartTwo>Remboursez vos dettes à l'aide d'un terminal commercial pour les empêcher de revenir.</VTE.CollectorsTextPartTwo>
+
+<VTE.LocalNews>Actualités</VTE.LocalNews>
+<VTE.FilterBy>Filtre :</VTE.FilterBy>
+<VTE.All>Tous</VTE.All>
+<VTE.OnlySpecificCategory>Catégorie spécifique</VTE.OnlySpecificCategory>
+<VTE.OnlyTradeShips>Vaisseau commercial</VTE.OnlyTradeShips>
+<VTE.OnlyBullish>Tendance &#8599;</VTE.OnlyBullish>
+<VTE.OnlyBearish>Tendance &#8600;</VTE.OnlyBearish>
+<VTE.News>Nouvelles</VTE.News>
+<VTE.Date>Date </VTE.Date>
+<VTE.PriceHistory>Prix historique de : {0}</VTE.PriceHistory>
+<VTE.SqueezeMessage>{0}, le prix grimpe.</VTE.SqueezeMessage>
+<VTE.CrashMessage>{0}, le prix s'effondre.</VTE.CrashMessage>
+<VTE.OpenStockMarket>Ouvrir le marché boursier</VTE.OpenStockMarket>
+<VTE.Company>Société</VTE.Company>
+<VTE.Value>Valeur</VTE.Value>
+<VTE.SharesHeld>Actions détenues</VTE.SharesHeld>
+<VTE.Shares>Actions</VTE.Shares>
+<VTE.Profit>Bénéfice</VTE.Profit>
+<VTE.ProfitLoss>Profit/Perte</VTE.ProfitLoss>
+<VTE.ChartHistory>Graphique historique de : {0}</VTE.ChartHistory>
+<VTE.SharesTransactionHeader>Nombre positif achète.
+Nombre négatif vend.</VTE.SharesTransactionHeader>
+<VTE.FollowNews>Suivre les actualités</VTE.FollowNews>
+<VTE.MoneyInBanks>Argent en banque : {0}</VTE.MoneyInBanks>
+<VTE.TransactionCost>Coût de la transaction</VTE.TransactionCost>
+<VTE.TransactionGain>Gain de la transaction</VTE.TransactionGain>
+<VTE.MoneyInBanksAfter>Total en banque</VTE.MoneyInBanksAfter>
+<VTE.BankDepositsToSpend>Choisir le dépôt bancaire pour payer les actions</VTE.BankDepositsToSpend>
+<VTE.BankDepositsToGain>Choisir le dépôt bancaire pour placer l'argent des actions</VTE.BankDepositsToGain>
+<VTE.TransactionCostToPay>Coût de transaction à payer : {0}</VTE.TransactionCostToPay>
+<VTE.MoneyToSpend>Argent dépensé : {0}</VTE.MoneyToSpend>
+<VTE.TransactionGainToTransfer>Argent à transférer : {0}</VTE.TransactionGainToTransfer>
+<VTE.MoneyToTransfer>Argent transféré : {0}</VTE.MoneyToTransfer>
+<VTE.OpenContracts>Ouvrir les contrats</VTE.OpenContracts>
+<VTE.Contracts>Contrats</VTE.Contracts>
+<VTE.ContractsExplanation>Une fois le contrat conclu, les fonds sont transférés sur votre ou vos comptes bancaires et les articles sont retirés de votre inventaire. Vous devez être rapide, car une majoration élevée indique que le contrat est populaire et qu'il peut être saisi avant que les articles ne soient prêts.</VTE.ContractsExplanation>
+<VTE.Contract>Contrat</VTE.Contract>
+<VTE.Reward>Prix</VTE.Reward>
+<VTE.Markup>Majoration</VTE.Markup>
+<VTE.TimeUntilTheEnd>Temps restant</VTE.TimeUntilTheEnd>
+<VTE.YourContracts>Vos contrats</VTE.YourContracts>
+<VTE.CompleteContract>Terminer le contrat</VTE.CompleteContract>
+<VTE.InsufficientAsset>Article insuffisant</VTE.InsufficientAsset>
+<VTE.CancelContract>Annuler le contrat</VTE.CancelContract>
+<VTE.SubmitContract>Soumettre le contrat</VTE.SubmitContract>
+<VTE.SelectItem>Choisir un article</VTE.SelectItem>
+<VTE.YourContractsExplanation>Vous pouvez soumettre vos propres contrats. Précisez le prix de l'article, la majoration et la durée. Les contrats plus longs avec une majoration plus élevée ont plus de chances d'être remplis. Si vous n'avez pas assez d'argent sur votre compte bancaire pour payer votre contrat, celui-ci sera automatiquement annulé.</VTE.YourContractsExplanation>
+<VTE.ContractCompletedMessage>La caravane arrivera pour récupérer les articles du contrat dans 3 jours. Assurez-vous d'avoir suffisamment d'articles à son arrivée. Le paiement sera effectué une fois que la caravane aura quitté votre région.</VTE.ContractCompletedMessage>
+<VTE.CaravanContractWillReturnMessage>En raison du fait que votre localisation est devenue dangereuse, la caravane qui est arrivée pour les objets sous contrat a quitté la carte. Elle reviendra pour les objets quand la situation sera sûre.
+	
+Assurez-vous d'avoir suffisamment d'articles à leur arrivée. Le paiement sera effectué une fois que la caravane quittera votre zone.</VTE.CaravanContractWillReturnMessage>
+<VTE.LetterTraderCaravanArrival>Une caravane de {0} approche. Ils viennent ramasser les articles vendus par un contrat.</VTE.LetterTraderCaravanArrival>
+<VTE.CaravanDidNotCollectAllItems>La caravane n'a pas trouvé les biens promis et quitte la région. Seulement {0} {1} ont été reçus. Vous ne recevrez aucun paiement.</VTE.CaravanDidNotCollectAllItems>
+<VTE.BankDepositsToPutContractReward>Choisir le dépôt bancaire pour placer le paiement du contrat terminé</VTE.BankDepositsToPutContractReward>
+<VTE.BankDepositsToPutContractRewardPartially>La caravane n'a pas pu obtenir tous les objets. Ils paieront {0} de la récompense du contrat - total {1} d'argent. Choisir le dépôt bancaire pour le paiement de la récompense.</VTE.BankDepositsToPutContractRewardPartially>
+<VTE.Select>Choisir</VTE.Select>
+<VTE.SelectStuff>Choisir l'article</VTE.SelectStuff>
+<VTE.PayMoneyForContract>Le contrat {0} est rempli. Payez avec l'argent du dépôt bancaire pour récupérer la marchandise.</VTE.PayMoneyForContract>
+<VTE.ContractFullfilled>Contrat respecté</VTE.ContractFullfilled>
+<VTE.ContractFullfilledDesc>Le contrat a été rempli par un tiers intéressé. Les fonds nécessaires leur ont été transférés.
+Les capsules de transport sont arrivées et contiennent :
+</VTE.ContractFullfilledDesc>
+<VTE.NewsSpawnOption>La fréquence d'apparition des nouvelles :</VTE.NewsSpawnOption>
+<VTE.PlayerTransactionImpactMultiplierOption>Multiplicateur des transactions du joueur sur la fluctuation des prix :</VTE.PlayerTransactionImpactMultiplierOption>
+<VTE.PlayerContractFulfilmentChanceMultiplier>Multiplicateur de chance de remplir le contrat du joueur :</VTE.PlayerContractFulfilmentChanceMultiplier>
+<VTE.NPCContractFulfilmentChanceMultiplier>Multiplicateur de chance de remplir un contrat avec un PNJ :</VTE.NPCContractFulfilmentChanceMultiplier>
+<VTE.MaxNPCContractCount>Nombre maximum de contrats PNJ disponibles :</VTE.MaxNPCContractCount>
+<VTE.MaxCompanyCount>Nombre maximum de sociétés commerciales :</VTE.MaxCompanyCount>
+<VTE.MaximumMarkupOnNPCContract>Majoration maximum sur le contrat PNJ :</VTE.MaximumMarkupOnNPCContract>
+<VTE.NewsPriceImpactMultiplier>Multiplicateur de l'impact des nouvelles sur le marché :</VTE.NewsPriceImpactMultiplier>
+<VTE.AmountOfRandomItemsToFluctuate>Montant des fluctuations aléatoires des prix des articles :</VTE.AmountOfRandomItemsToFluctuate>
+<VTE.ResetPriceChanges>Réinitialiser les fluctuations des prix</VTE.ResetPriceChanges>
+<VTE.YouCanTakeThisLoanOn>Vous pouvez souscrire à nouveau ce prêt le {0}.</VTE.YouCanTakeThisLoanOn>
+<VTE.CaravanLessContractItemPickup>Ramasser les objets des contrats sans caravane</VTE.CaravanLessContractItemPickup>
+<VTE.MaximumMarketValueOfItemsInContracts>Valeur maximum des contrats des PNJs en argent :</VTE.MaximumMarketValueOfItemsInContracts>
+<VTE.MaximumMarketValueOfItemsPerPlayerWealth>Valeur maximum des contrats PNJ en % de votre richesse :</VTE.MaximumMarketValueOfItemsPerPlayerWealth>
+
+
+</LanguageData>

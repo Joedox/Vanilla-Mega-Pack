@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Enable proxy heat -->
+<PH.EnableProxyHeat>Activer le rayonnement thermique</PH.EnableProxyHeat>
+<!-- EN: Enable proxy heat effect indoors -->
+<PH.EnableProxyHeatEffectIndoors>Activer le rayonnement thermique à l’intérieur</PH.EnableProxyHeatEffectIndoors>
+<!-- EN: Allow plant growth inside proxy heat effect radius -->
+<PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Autoriser la croissance des plantes avec le rayonnement thermique en extérieur</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+<!-- EN: Proxy heat building settings: -->
+<PH.ProxyHeatBuildings>Paramètres du rayonnement thermique des constructions :</PH.ProxyHeatBuildings>
+<!-- EN: Proxy heat radius -->
+<PH.ProxyHeatRadius>Rayonnement thermique </PH.ProxyHeatRadius>
+<!-- EN: Minimum temperature threshold -->
+<PH.MinTemperature>Seuil de température minimum </PH.MinTemperature>
+<!-- EN: Maximum temperature threshold -->
+<PH.MaxTemperature>Seuil de température maximum </PH.MaxTemperature>
+<!-- EN:  (not set) -->
+<PN.NotSet> (non défini)</PN.NotSet>
+<!-- EN: Temperature output -->
+<PH.TemperatureOutput>Delta de la température </PH.TemperatureOutput>
+<!-- EN: Search:  -->
+<PH.Search>Rcher : </PH.Search>
+<!-- EN: Building has own temperature target control -->
+<PH.BuildingHasTemperatureControl>Possède son propre système de contrôle de la température</PH.BuildingHasTemperatureControl>
+<!-- EN: The hot side of the heater must be exposed. -->
+<VTE.MustPlaceHeaterWithFreeSpaces>Le côté chaud de l'appareil doit être dégagé.</VTE.MustPlaceHeaterWithFreeSpaces>
+<!-- EN: Must be placed under a roof. -->
+<VTE.MustPlaceUnderRoof>Doit être placé sous un toit.</VTE.MustPlaceUnderRoof>
+<!-- EN: Cannot be placed next to ceiling fans. -->
+<VTE.CannotPlaceAdjacentCeilingFan>Ne peut être placé à côté d'un ventilateur de plafond.</VTE.CannotPlaceAdjacentCeilingFan>
+<!-- EN: Network efficiency -->
+<VTE.Efficiency>Efficacité du réseau </VTE.Efficiency>
+<!-- EN: Network target temperature -->
+<VTE.NetworkTargetTemp>Température cible du réseau </VTE.NetworkTargetTemp>
+<!-- EN: Production -->
+<VTE.Production>Production </VTE.Production>
+<!-- EN: Consumption -->
+<VTE.Consumption>Consommation </VTE.Consumption>
+<!-- EN: Total production -->
+<VTE.TotalProduction>Production totale </VTE.TotalProduction>
+<!-- EN: Total consumption -->
+<VTE.TotalConsumption>Consommation totale </VTE.TotalConsumption>
+<!-- EN: Link temperature -->
+<VTE.Relink>Température de lien</VTE.Relink>
+<!-- EN: Unlink temperature -->
+<VTE.Unlink>Dissocier la température</VTE.Unlink>
+<!-- EN: Link this AC unit with the system, inheriting the desired temperature. -->
+<VTE.AcRelinkDescription>Relie cette unité AC au système, en héritant de la température souhaitée.</VTE.AcRelinkDescription>
+<!-- EN: Unlink this AC unit from inheriting desired temperature from the system. -->
+<VTE.AcUnlinkDescription>Dissocie cette unité AC de l'héritage de la température souhaitée par le système.</VTE.AcUnlinkDescription>
+<!-- EN: Cannot work: Not enough compressors connected. -->
+<VTE.MissingCompressors>Ne fonctionne pas : Pas assez d'évaporateurs connectés</VTE.MissingCompressors>
+<!-- EN: Cannot work: Missing AC control unit. -->
+<VTE.MissingController>Ne fonctionne pas : Unité de contrôle AC manquante</VTE.MissingController>
+<!-- EN: Cannot work: Connected to more than one AC control unit. -->
+<VTE.TooManyControllers>Ne fonctionne pas : Connecté à plus d'une unité de contrôle AC</VTE.TooManyControllers>
+<!-- EN: Cannot work: Covered by roof. -->
+<VTE.CompressorCovered>Ne fonctionne pas : Couvert par un toit</VTE.CompressorCovered>
+<!-- EN: Switches air flow on/off. -->
+<VTE_VentValve>Ouvrir / Fermer</VTE_VentValve>
+<!-- EN: Switches air flow on/off. A pawn will come open/close the valve. -->
+<VTE_VentValveDesc>Ouvre / Ferme le flux d'air conditionné. Un colon viendra bientôt pour actionner la vanne.</VTE_VentValveDesc>
+
+
+</LanguageData>

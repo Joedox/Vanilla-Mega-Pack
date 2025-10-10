@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: aerial vehicles -->
+<VVE_AerialVehicles.label>véhicules aériens</VVE_AerialVehicles.label>
+<!-- EN: Learn to construct vehicles capable of travelling above the ground, such as a mosquito helicopter and a smuggler cargo airplane. -->
+<VVE_AerialVehicles.description>Vous permet d'apprendre à construire des véhicules permettant de se déplacer au-dessus du sol, tels qu'un hélicoptère moustique ou un avion cargo contrebandier.</VVE_AerialVehicles.description>
+<!-- EN:
+  <li>subject->flying machines</li>
+  <li>subject_story->created helicopters and cargo planes to fly over obstacles</li>
+  <li>subject_story->opened up new ways to explore and trade</li>
+  <li>subject_story->made air travel possible, changing how we see the world</li>
+  <li>subject_gerund->taking to the skies</li>
+-->
+<VVE_AerialVehicles.generalRules.rulesStrings>
+  <li>subject->les machines volantes</li>
+  <li>subject_story->a créé des hélicoptères et des avions-cargos capables de survoler des obstacles</li>
+  <li>subject_story->a ouvert de nouvelles voies d'exploration et de commerce</li>
+  <li>subject_story->a rendu possible le transport aérien et a changé notre façon de voir le monde</li>
+  <li>subject_gerund->l'envol vers les cieux</li>
+</VVE_AerialVehicles.generalRules.rulesStrings>
+
+<!-- EN: basic vehicles -->
+<VVE_BasicVehicles.label>véhicules basiques</VVE_BasicVehicles.label>
+<!-- EN: Learn to construct basic, inefficient vehicles, from prowler buggy to roadkill single-person tanks. -->
+<VVE_BasicVehicles.description>Vous permet d'apprendre à construire des véhicules basiques et inefficaces, du buggy rôdeur au char d'assaut pour une seule personne.</VVE_BasicVehicles.description>
+<!-- EN:
+  <li>subject->first vehicles</li>
+  <li>subject_story->started making simple vehicles like buggies and single-person tanks</li>
+  <li>subject_story->changed how far we could go and what we could carry</li>
+  <li>subject_story->made travel faster than ever before</li>
+  <li>subject_gerund->inventing new ways to move</li>
+-->
+<VVE_BasicVehicles.generalRules.rulesStrings>
+  <li>subject->les premiers véhicules</li>
+  <li>subject_story->a commencé à fabriquer des véhicules simples tels que des buggys et des chars d'assaut à une seule personne</li>
+  <li>subject_story->a modifié la distance que nous pouvions parcourir et ce que nous pouvions transporter</li>
+  <li>subject_story->a rendu les voyages plus rapides que jamais</li>
+  <li>subject_gerund->l'invention de nouvelles façons de bouger</li>
+</VVE_BasicVehicles.generalRules.rulesStrings>
+
+<!-- EN: combat vehicles -->
+<VVE_CombatVehicles.label>véhicules de combat</VVE_CombatVehicles.label>
+<!-- EN: Learn to construct complex combat vehicles, such as bulldog battle tanks, tango armored personnel carriers and warbird combat airplanes. -->
+<VVE_CombatVehicles.description>Vous permet d'apprendre à construire des véhicules de combat complexes, tels que des chars de combat bulldog, des véhicules blindés de transport de troupes tango et des avions de combat warbird.</VVE_CombatVehicles.description>
+<!-- EN:
+  <li>subject->war vehicles</li>
+  <li>subject_story->made powerful combat vehicles like tanks and armored planes</li>
+  <li>subject_story->vehicles could now fight and defend in wars</li>
+  <li>subject_story->changed how battles are fought with these new machines</li>
+  <li>subject_gerund->building for battle</li>
+-->
+<VVE_CombatVehicles.generalRules.rulesStrings>
+  <li>subject->les véhicules de guerre</li>
+  <li>subject_story->a fabriqué de puissants véhicules de combat tels que des chars et des avions blindés</li>
+  <li>subject_story->a imaginé des véhicules capables de se battre et de se défendre dans les guerres</li>
+  <li>subject_story->a changé la façon dont les batailles sont menées avec ces nouvelles machines</li>
+  <li>subject_gerund->la construction pour la bataille</li>
+</VVE_CombatVehicles.generalRules.rulesStrings>
+
+<!-- EN: complex vehicles -->
+<VVE_ComplexVehicles.label>véhicules complexes</VVE_ComplexVehicles.label>
+<!-- EN: Learn to construct complex vehicles, such as wagons, roadrunners and snatchers, using the components you can easily fabricate. -->
+<VVE_ComplexVehicles.description>Vous permet d'apprendre à construire des véhicules complexes, tels que des breaks, des roadrunners et des snatchers, à l'aide d'éléments que vous pouvez facilement fabriquer.</VVE_ComplexVehicles.description>
+<!-- EN:
+  <li>subject->better vehicles</li>
+  <li>subject_story->built more complex vehicles like wagons and fast cars</li>
+  <li>subject_story->made it easier to move things and people over long distances</li>
+  <li>subject_story->vehicles became more useful and versatile</li>
+  <li>subject_gerund->improving our rides</li>
+-->
+<VVE_ComplexVehicles.generalRules.rulesStrings>
+  <li>subject->les véhicules plus performants</li>
+  <li>subject_story->a construit des véhicules plus complexes tels que des breaks et des voitures rapides</li>
+  <li>subject_story->a facilité le déplacement des objets et des personnes sur de longues distances</li>
+  <li>subject_story->a rendu les véhicules plus utiles et plus polyvalents</li>
+  <li>subject_gerund->l'amélioration de nos déplacements</li>
+</VVE_ComplexVehicles.generalRules.rulesStrings>
+
+
+</LanguageData>

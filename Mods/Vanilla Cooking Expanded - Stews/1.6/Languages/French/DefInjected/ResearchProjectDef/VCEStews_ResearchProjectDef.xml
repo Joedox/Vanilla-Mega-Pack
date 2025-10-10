@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: stew cooking -->
+<VCE_StewCooking.label>cuisson de ragoût</VCE_StewCooking.label>
+<!-- EN: Stew is a form of a very nourishing meal, cooked in bulk over fire. This research also gives access to the wood-fired pot necessary to cook stews. -->
+<VCE_StewCooking.description>Le ragoût est une forme de repas très nourrissant, cuit en grande quantité sur le feu. Cette recherche donne également accès à la marmite à bois nécessaire à la cuisson des ragoûts.</VCE_StewCooking.description>
+<!-- EN:
+  <li>subject->hearth and heart</li>
+  <li>subject_story->embraced the tradition of stew cooking, bringing together community and cuisine over the warmth of a shared pot</li>
+  <li>subject_story->cultivated techniques to craft stews that are not only nourishing but carry the flavors of cultural heritage and togetherness</li>
+  <li>subject_story->introduced the wood-fired pot, an essential tool for preparing these hearty meals in the traditional way</li>
+  <li>subject_gerund->nurturing bodies and souls with the communal art of stew making</li>
+-->
+<VCE_StewCooking.generalRules.rulesStrings>
+  <li>subject->le cœur et l'âme</li>
+  <li>subject_story->a adopté la tradition de la cuisine en ragoût, réunissant la communauté et la cuisine autour de la chaleur d'une marmite partagée</li>
+  <li>subject_story->des techniques cultivées pour créer des ragoûts qui ne sont pas seulement nourrissants, mais qui véhiculent les saveurs de l'héritage culturel et de la convivialité</li>
+  <li>subject_story->présentation de la marmite au feu de bois, un outil indispensable pour préparer ces repas copieux de manière traditionnelle</li>
+  <li>subject_gerund->nourrir les corps et les âmes grâce à l'art communautaire de la préparation du ragoût</li>
+</VCE_StewCooking.generalRules.rulesStrings>
+
+
+</LanguageData>

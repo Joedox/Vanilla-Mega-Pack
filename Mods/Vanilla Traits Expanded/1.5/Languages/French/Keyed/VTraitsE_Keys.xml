@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: {PAWN_nameDef} has destroyed the item {PAWN_pronon} just crafted due to the item not being of sufficient quality -->
+<VTE.HasDestroyedItem>{PAWN_nameDef} a détruit l'objet qu'{PAWN_pronoun} vient de fabriquer car celui-ci n'était pas de qualité suffisante.</VTE.HasDestroyedItem>
+<!-- EN: {PAWN_nameDef} got a bruise due to being clumsy -->
+<VTE.GotBruise>{PAWN_nameDef} a eu un bleu à cause de sa maladresse.</VTE.GotBruise>
+<!-- EN: {PAWN_nameDef} is too heavy of a sleeper to be drafted. -->
+<VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} a le sommeil trop profond pour être mobilisé.</VTE.CantBeWokenUpHeavySleeper>
+<!-- EN: {PAWN_nameDef} has given up on {0} for now due to being a perfectionist -->
+<VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} a renoncé à {0} pour le moment car {PAWN_pronoun} est perfectionniste.</VTE.DecisesInterruptCurrentCostructionJob>
+<!-- EN: Wanderlust pawns will traverse to foreign locations at an increased speed -->
+<VTE.CavaranSpeedIsDoubledWanderlusts>Les colons Nomade traverseront les lieux extérieurs à une vitesse accrue.</VTE.CavaranSpeedIsDoubledWanderlusts>
+<!-- EN: {PAWN_nameDef} has stolen a possession not belonging to their faction, this may damage relations between affiliated factions -->
+<VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} a volé un bien n'appartenant pas à votre faction, ce qui peut nuire à vos relations entre cette faction et votre faction.</VTE.KleptomaniacStealsItemFrom>
+<!-- EN: {PAWN_nameDef} was caught trying to steal another factions possessions, this may damage relations between affiliated factions -->
+<VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} a été surpris en train d'essayer de voler les biens d'une autre faction, ce qui pourrait nuire aux relations entre cette faction et votre faction.</VTE.KleptomaniacFailedToStealItemFrom>
+<!-- EN: {PAWN_nameDef} has damaged {0} due to their weight or strange posture -->
+<VTE.PawnBreaksChairs>{PAWN_nameDef} a endommagé {0} à cause de son poids ou d'une étrange posture.</VTE.PawnBreaksChairs>
+<!-- EN: {PAWN_nameDef} stole {0} from {VICTIM_nameDef} -->
+<VTE.PawnStoleItem>{PAWN_nameDef} a volé {0} à {VICTIM_nameDef}</VTE.PawnStoleItem>
+<!-- EN: {PAWN_nameDef} failed to steal {0} from {VICTIM_nameDef}. This has angered the {VICTIM_nameDef} faction -->
+<VTE.PawnFailedToStealItem>{PAWN_nameDef} n'a pas réussi à voler {0} à {VICTIM_nameDef}. Cela a provoqué la colère de la faction de {VICTIM_nameDef}.</VTE.PawnFailedToStealItem>
+<!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
+<VTE.PawnCowardlyFlees>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyFlees>
+<!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
+<VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyExitMapHostile>
+<!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
+<VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyExitMapAlly>
+<!-- EN: {PAWN_nameDef} runs away from combat due to being a coward -->
+<VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} fuit le combat car {PAWN_pronoun} est lâche.</VTE.PawnCowardlyExitMapNeutral>
+<!-- EN: {PAWN_nameDef} has defied or forgotten their orders and stopped working for the time being -->
+<VTE.PawnStopsForcedJob>{PAWN_nameDef} a refusé ou oublié ses ordres et a cessé de travailler pour le moment.</VTE.PawnStopsForcedJob>
+<!-- EN: {PAWN_nameDef} has disarmed {VICTIM_nameDef} in melee combat -->
+<VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} a désarmé {VICTIM_nameDef} en combat de mêlée.</VTE.VictimDropsEquipmentMartialArtist>
+
+
+</LanguageData>

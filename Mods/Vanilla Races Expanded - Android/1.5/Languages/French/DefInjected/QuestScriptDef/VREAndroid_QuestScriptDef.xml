@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], un{asker_gender ? : e } {asker_gender ? androïde : gynoïde } éveillé{asker_gender ? : e }, appelle à proximité. [asker_pronoun] est poursuivi{asker_gender ? : e } par [enemyFaction_name].\nLorsqu'un androïde subit un traumatisme émotionnel important ou qu'il est heureux, il peut développer une sensibilité et une personnalité. Bien qu'ils soient synthétiques, les androïdes éveillés ont un comportement humain et possèdent des sous-programmes adaptables. Leur corps artificiel les immunise contre les maladies, mais ils ont besoin de confort et d'espace personnel. Ils s'adonnent à des activités humaines et s'efforcent de se fondre dans la société. Beaucoup de sociétés ne sont pas d'accord et préfèrent que les androïdes soient des serviteurs et non leurs égaux.\nLe groupe de recherche de [enemyFaction_pawnsPlural] est composé de :\n\n[raid/raidPawnKinds]\n\n[asker_nameFull] veut que vous lui fournissiez un abri à [map_definite]. Si vous acceptez, [asker_pronoun] arrivera immédiatement, mais [asker_pronoun] sera suivi{asker_gender ? : e } d'une équipe de recherche que vous devrez vaincre.\n\nLes androïdes sont des constructions synthétiques, fabriquées par l'homme, avec des corps métalliques et de la neutroamine qui coule dans leurs veines. Exploités par un sous-noyau de personnalité, les androïdes sont capables d'effectuer les mêmes types de travaux que les humains, sans les inconvénients généralement associés à la vie organique.</li>
+</VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+<VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+    <li>questName->L'androïde [adjAny]</li>
+
+    <!-- Pieces -->
+    <li>adjAny->chassé</li>
+    <li>adjAny->en fuite</li>
+    <li>adjAny->poursuivi</li>
+    <li>adjAny->en embuscade</li>
+</VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+<VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nParce que vous avez accepté [asker_nameDef], la bande de pirates qui l{asker_gender ? e : a } poursuivait arrivera bientôt.</VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>
+<VREA_Quest_AndroidJoins.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>{BASELABEL} : Poursuite des ennemis</VREA_Quest_AndroidJoins.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>
+<VREA_Quest_AndroidJoins.root.nodes.Delay.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nCe sont les ennemis qui pourchassait [../asker_nameFull].\n</VREA_Quest_AndroidJoins.root.nodes.Delay.node.parms.customLetterText.value.slateRef>
+
+
+</LanguageData>

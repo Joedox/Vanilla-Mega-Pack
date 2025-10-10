@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: ecstasy -->
+<VRE_Ecstasy.label>extase</VRE_Ecstasy.label>
+<!-- EN: Carriers of this gene can psychically connect with the target briefly, granting them a sense of ecstasy and making them fall in love with the caster. -->
+<VRE_Ecstasy.description>Les porteurs de ce gène peuvent se connecter psychiquement à la cible pendant une courte période, lui procurant un sentiment d'extase et la faisant tomber amoureuse de lui.</VRE_Ecstasy.description>
+<!-- EN: ecstator -->
+<VRE_Ecstasy.labelShortAdj>extateur</VRE_Ecstasy.labelShortAdj>
+<!-- EN: ecsta -->
+<VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>exta</VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: sedu -->
+<VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>sedu</VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: sexy -->
+<VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>sexy</VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: seducer -->
+<VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>séducteur</VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: ecstator -->
+<VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>extateur</VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: pleasurer -->
+<VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>plaisir</VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>
+
+<!-- EN: filter infection -->
+<VRE_FilterInfection.label>filtre à infection</VRE_FilterInfection.label>
+<!-- EN: Carriers of this gene have special glands in their mouths that allow them to filter infected blood from the clean blood. -->
+<VRE_FilterInfection.description>Les porteurs de ce gène ont des glandes spéciales dans la bouche qui leur permettent de filtrer le sang infecté en sang propre.</VRE_FilterInfection.description>
+<!-- EN: filtrator -->
+<VRE_FilterInfection.labelShortAdj>filtreur</VRE_FilterInfection.labelShortAdj>
+<!-- EN: clean -->
+<VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>propre</VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: sterile -->
+<VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>stérile</VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: dialys -->
+<VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>dialyse</VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: filtrator -->
+<VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>filtreur</VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: cleaner -->
+<VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>nettoyeur</VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>
+
+<!-- EN: heart crush -->
+<VRE_HeartCrush.label>voler son cœur</VRE_HeartCrush.label>
+<!-- EN: Carriers of this gene have special adrenaline glands that allow them to find the beating heart of the opponent and rip it out in a mad fury.  -->
+<VRE_HeartCrush.description>Les porteurs de ce gène ont des glandes d'adrénaline spéciales qui leur permettent de trouver le cœur battant de l'adversaire et de l'arracher avec une fureur folle.</VRE_HeartCrush.description>
+<!-- EN: Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged. -->
+<VRE_HeartCrush.customEffectDescriptions.0>Ne fonctionne que sur les créatures dont la taille est inférieure ou égale à 2. Les créatures plus grandes subiront toujours des dégâts importants.</VRE_HeartCrush.customEffectDescriptions.0>
+<!-- EN: heartcrusher -->
+<VRE_HeartCrush.labelShortAdj>voleur de cœur</VRE_HeartCrush.labelShortAdj>
+<!-- EN: ripper -->
+<VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>éventreur</VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: heart -->
+<VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>cœur</VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: bane -->
+<VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>fléau</VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: ripper -->
+<VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>éventreur</VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: crusher -->
+<VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>broyeur</VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>
+
+<!-- EN: hemosmosis -->
+<VRE_Hemosmosis.label>hémotose</VRE_Hemosmosis.label>
+<!-- EN: Carriers of this gene are able to drain blood from their environment, provided there is blood to be drained there. -->
+<VRE_Hemosmosis.description>Les porteurs de ce gène sont capables de drainer le sang de l'environnement, à condition qu'il y ait du sang à drainer.</VRE_Hemosmosis.description>
+<!-- EN: hemosmoser -->
+<VRE_Hemosmosis.labelShortAdj>hémotose</VRE_Hemosmosis.labelShortAdj>
+<!-- EN: sucker -->
+<VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>suceur</VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: sucker -->
+<VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>suceur</VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: drainer -->
+<VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>draineur</VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: osmoser -->
+<VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>osmoseur</VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>
+
+<!-- EN: resurrect -->
+<VRE_Resurrect.label>ressusciter</VRE_Resurrect.label>
+<!-- EN: Carriers have a reserve of unique resurrector archites which can infuse a corpse, rebuild degenerated tissue and kickstart the vital processes. This brings the dead back to life - though possibly with health issues. This can only be done very rarely, and comes at a steep hemogen cost. -->
+<VRE_Resurrect.description>Les porteurs disposent d'une réserve d'archites résurrecteurs uniques qui peuvent infuser un cadavre, reconstruire les tissus dégénérés et relancer les processus vitaux. Les morts reviennent ainsi à la vie, mais avec des problèmes de santé. Cette opération n'est possible que très rarement et a un coût élevé en hémogènes.</VRE_Resurrect.description>
+<!-- EN: life -->
+<VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>vie</VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: resurrector -->
+<VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>ressusciteur</VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>
+
+<!-- EN: toxic cloud -->
+<VRE_ToxicCloud.label>nuage toxique</VRE_ToxicCloud.label>
+<!-- EN: Carriers of this gene are able to excrete a thick toxic smoke from special organic reservoirs in their lungs. Tox gas is deadly to almost every creature. -->
+<VRE_ToxicCloud.description>Les porteurs de ce gène sont capables d'excréter une épaisse fumée toxique à partir de réservoirs organiques spéciaux situés dans leurs poumons. Le gaz toxique est mortel pour presque toutes les créatures.</VRE_ToxicCloud.description>
+<!-- EN: toxspewer -->
+<VRE_ToxicCloud.labelShortAdj>cracheur toxique</VRE_ToxicCloud.labelShortAdj>
+<!-- EN: gasser -->
+<VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>gasseur</VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: tox -->
+<VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>tox</VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: spewer -->
+<VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>cracheur</VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: excretor -->
+<VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>excréter</VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>
+
+<!-- EN: viscuous goo -->
+<VRE_ViscuousGoo.label>gelée visqueuse</VRE_ViscuousGoo.label>
+<!-- EN: Carriers grow glands in the neck that generate and store a thick goo. They can spit it over long distances and cover several people in a viscous goo that will slow them down. -->
+<VRE_ViscuousGoo.description>Les porteurs ont des glandes dans le cou qui génèrent et stockent une substance épaisse. Ils peuvent la cracher sur de longues distances et recouvrir plusieurs personnes d'une substance visqueuse qui les ralentira.</VRE_ViscuousGoo.description>
+<!-- EN: goospitter -->
+<VRE_ViscuousGoo.labelShortAdj>cracheur de gelée</VRE_ViscuousGoo.labelShortAdj>
+<!-- EN: spit -->
+<VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>cracher</VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: goo -->
+<VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>gelée</VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: spitter -->
+<VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>cracheur</VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>
+
+
+<!-- EN: sanguine haired -->
+<VRE_SanguineHair.label>cheveux sanguins</VRE_SanguineHair.label>
+<!-- EN: Carriers of this gene have their hair naturally styled into elder sanguine hairstyles. -->
+<VRE_SanguineHair.description>Les porteurs de ce gène ont les cheveux naturellement coiffés dans un style sanguin plus ancien.</VRE_SanguineHair.description>
+
+
+<!-- EN: bat ears -->
+<VRE_BatEars.label>oreilles de chauve-souris</VRE_BatEars.label>
+<!-- EN: Carriers of this gene have bat-like ears. -->
+<VRE_BatEars.description>Les porteurs de ce gène ont des oreilles de chauve-souris.</VRE_BatEars.description>
+<!-- EN: bat -->
+<VRE_BatEars.symbolPack.prefixSymbols.0.symbol>chauve-souris</VRE_BatEars.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: membrane -->
+<VRE_BatEars.symbolPack.prefixSymbols.1.symbol>membrane</VRE_BatEars.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: night -->
+<VRE_BatEars.symbolPack.prefixSymbols.2.symbol>nuit</VRE_BatEars.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: chiroptera -->
+<VRE_BatEars.symbolPack.prefixSymbols.3.symbol>chiroptère</VRE_BatEars.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: bat -->
+<VRE_BatEars.symbolPack.suffixSymbols.0.symbol>chauve-souris</VRE_BatEars.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: tragus -->
+<VRE_BatEars.symbolPack.suffixSymbols.1.symbol>tragus</VRE_BatEars.symbolPack.suffixSymbols.1.symbol>
+
+<!-- EN: chiropteric ears -->
+<VRE_UpperBatEars.label>oreilles de chiroptère</VRE_UpperBatEars.label>
+<!-- EN: Carriers of this gene have pointy bat-like ears. -->
+<VRE_UpperBatEars.description>Les porteurs de ce gène ont des oreilles pointues en forme de chauve-souris.</VRE_UpperBatEars.description>
+<!-- EN: bat -->
+<VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>chauve-souris</VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: membrane -->
+<VRE_UpperBatEars.symbolPack.prefixSymbols.1.symbol>membrane</VRE_UpperBatEars.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: night -->
+<VRE_UpperBatEars.symbolPack.prefixSymbols.2.symbol>nuit</VRE_UpperBatEars.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: chiroptera -->
+<VRE_UpperBatEars.symbolPack.prefixSymbols.3.symbol>chiroptère</VRE_UpperBatEars.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: bat -->
+<VRE_UpperBatEars.symbolPack.suffixSymbols.0.symbol>chauve-souris</VRE_UpperBatEars.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: tragus -->
+<VRE_UpperBatEars.symbolPack.suffixSymbols.1.symbol>tragus</VRE_UpperBatEars.symbolPack.suffixSymbols.1.symbol>
+
+
+<!-- EN: talons -->
+<VRE_Talons.label>serres</VRE_Talons.label>
+<!-- EN: Carriers of this gene have hands that partially resemble talons. This reduces their ability to manipulate objects, but allows them to perform special attacks in melee combat. -->
+<VRE_Talons.description>Les porteurs de ce gène ont des mains qui ressemblent partiellement à des serres. Cela réduit leur capacité à manipuler des objets, mais leur permet d'effectuer des attaques spéciales au corps à corps.</VRE_Talons.description>
+<!-- EN: bird -->
+<VRE_Talons.symbolPack.prefixSymbols.0.symbol>oiseau</VRE_Talons.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: talon -->
+<VRE_Talons.symbolPack.prefixSymbols.1.symbol>serre</VRE_Talons.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: claw -->
+<VRE_Talons.symbolPack.prefixSymbols.2.symbol>griffe</VRE_Talons.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: predator -->
+<VRE_Talons.symbolPack.prefixSymbols.3.symbol>prédateur</VRE_Talons.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: hook -->
+<VRE_Talons.symbolPack.prefixSymbols.4.symbol>crochet</VRE_Talons.symbolPack.prefixSymbols.4.symbol>
+<!-- EN: talon -->
+<VRE_Talons.symbolPack.suffixSymbols.0.symbol>serre</VRE_Talons.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: sharp -->
+<VRE_Talons.symbolPack.suffixSymbols.1.symbol>pointu</VRE_Talons.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: claw -->
+<VRE_Talons.symbolPack.suffixSymbols.2.symbol>griffe</VRE_Talons.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: predator -->
+<VRE_Talons.symbolPack.suffixSymbols.3.symbol>prédateur</VRE_Talons.symbolPack.suffixSymbols.3.symbol>
+<!-- EN: talons -->
+<VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>serres</VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>
+
+
+<!-- EN: extreme hemogen drain -->
+<VRE_ExtremeHemogenDrain.label>drain hémogène extrême</VRE_ExtremeHemogenDrain.label>
+<!-- EN: Carriers lose an additional 12 hemogen per day from biological entropy. -->
+<VRE_ExtremeHemogenDrain.description>Les porteurs de ce gène perdent quotidiennement 12 hémogènes supplémentaires du fait de l'entropie biologique.</VRE_ExtremeHemogenDrain.description>
+<!-- EN: very draining -->
+<VRE_ExtremeHemogenDrain.labelShortAdj>drain extrême</VRE_ExtremeHemogenDrain.labelShortAdj>
+<!-- EN: hemogen -->
+<VRE_ExtremeHemogenDrain.resourceLabel>hémogène</VRE_ExtremeHemogenDrain.resourceLabel>
+
+<!-- EN: low hemogen drain -->
+<VRE_LowHemogenDrain.label>drain hémogène faible</VRE_LowHemogenDrain.label>
+<!-- EN: Carriers lose an additional 4 hemogen per day from biological entropy. -->
+<VRE_LowHemogenDrain.description>Les porteurs de ce gène perdent quotidiennement 4 hémogènes supplémentaires du fait de l'entropie biologique.</VRE_LowHemogenDrain.description>
+<!-- EN: draining -->
+<VRE_LowHemogenDrain.labelShortAdj>drain faible</VRE_LowHemogenDrain.labelShortAdj>
+<!-- EN: hemogen -->
+<VRE_LowHemogenDrain.resourceLabel>hémogène</VRE_LowHemogenDrain.resourceLabel>
+
+
+<!-- EN: bat nose -->
+<VRE_BatNose.label>nez de chauve-souris</VRE_BatNose.label>
+<!-- EN: Carriers of this gene have bat-like leaf nose. -->
+<VRE_BatNose.description>Les porteurs de ce gène ont un nez en forme de feuille de chauve-souris.</VRE_BatNose.description>
+<!-- EN: bat -->
+<VRE_BatNose.symbolPack.prefixSymbols.0.symbol>chauve-souris</VRE_BatNose.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: trident -->
+<VRE_BatNose.symbolPack.prefixSymbols.1.symbol>trident</VRE_BatNose.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: leaf -->
+<VRE_BatNose.symbolPack.prefixSymbols.2.symbol>feuille</VRE_BatNose.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: night -->
+<VRE_BatNose.symbolPack.prefixSymbols.3.symbol>nuit</VRE_BatNose.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: bat -->
+<VRE_BatNose.symbolPack.suffixSymbols.0.symbol>chauve-souris</VRE_BatNose.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: night -->
+<VRE_BatNose.symbolPack.suffixSymbols.1.symbol>nuit</VRE_BatNose.symbolPack.suffixSymbols.1.symbol>
+
+
+<!-- EN: animalfeeder -->
+<VRE_AnimalFeeder.label>alimentation animale</VRE_AnimalFeeder.label>
+<!-- EN: Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from fresh warm blood. They can bite any animal, suck the blood, and gain hemogen directly. This can sometimes make the animal attack the gene carrier. -->
+<VRE_AnimalFeeder.description>Les porteurs de ce gène ont de petits crocs rétractables et un organe sur le palais qui peut extraire l'hémogène du sang frais et chaud. Ils peuvent mordre n'importe quel animal, sucer son sang et obtenir directement de l'hémogène. Cela peut parfois inciter l'animal à attaquer le porteur du gène.</VRE_AnimalFeeder.description>
+<!-- EN: hemo -->
+<VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>hémo</VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: blood -->
+<VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>sang</VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: vamp -->
+<VRE_AnimalFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_AnimalFeeder.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: fang -->
+<VRE_AnimalFeeder.symbolPack.prefixSymbols.3.symbol>croc</VRE_AnimalFeeder.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: fang -->
+<VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>croc</VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: eater -->
+<VRE_AnimalFeeder.symbolPack.suffixSymbols.1.symbol>mangeur</VRE_AnimalFeeder.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: ubus -->
+<VRE_AnimalFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_AnimalFeeder.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: animalfeeder -->
+<VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>alimentation animale</VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>
+
+<!-- EN: corpsefeeder -->
+<VRE_CorpseFeeder.label>alimentation cadavérique</VRE_CorpseFeeder.label>
+<!-- EN: Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from cold, rotting blood. They can bite any human corpse, suck the blood, and gain hemogen directly. -->
+<VRE_CorpseFeeder.description>Les porteurs de ce gène ont de petits crocs rétractables et un organe sur le palais qui peut extraire l'hémogène du sang froid et pourri. Ils peuvent mordre n'importe quel cadavre humain, sucer son sang et obtenir directement de l'hémogène.</VRE_CorpseFeeder.description>
+<!-- EN: hemo -->
+<VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>hémo</VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: blood -->
+<VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>sang</VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: vamp -->
+<VRE_CorpseFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_CorpseFeeder.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: fang -->
+<VRE_CorpseFeeder.symbolPack.prefixSymbols.3.symbol>croc</VRE_CorpseFeeder.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: fang -->
+<VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>croc</VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: eater -->
+<VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>mangeur</VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: ubus -->
+<VRE_CorpseFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_CorpseFeeder.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: corpsefeeder -->
+<VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>alimentation cadavérique</VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>
+
+<!-- EN: sanguofeeder -->
+<VRE_SanguoFeeder.label>alimentation sanguophage</VRE_SanguoFeeder.label>
+<!-- EN: Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from fresh warm blood of other sanguophages. They can bite an unresisting sanguophage, suck the blood, and gain hemogen directly. -->
+<VRE_SanguoFeeder.description>Les porteurs de ce gène ont de petits crocs rétractables et un organe sur le palais qui peut extraire l'hémogène du sang frais et chaud d'autres sanguophages. Ils peuvent mordre un sanguophage qui ne résiste pas, sucer son sang et obtenir directement de l'hémogène.</VRE_SanguoFeeder.description>
+<!-- EN: hemo -->
+<VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>hémo</VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: blood -->
+<VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>sang</VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: vamp -->
+<VRE_SanguoFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_SanguoFeeder.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: fang -->
+<VRE_SanguoFeeder.symbolPack.prefixSymbols.3.symbol>croc</VRE_SanguoFeeder.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: fang -->
+<VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>croc</VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: eater -->
+<VRE_SanguoFeeder.symbolPack.suffixSymbols.1.symbol>mangeur</VRE_SanguoFeeder.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: ubus -->
+<VRE_SanguoFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_SanguoFeeder.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: sanguofeeder -->
+<VRE_SanguoFeeder.symbolPack.wholeNameSymbols.0.symbol>alimentation sanguophage</VRE_SanguoFeeder.symbolPack.wholeNameSymbols.0.symbol>
+<!-- EN: diablerist -->
+<VRE_SanguoFeeder.symbolPack.wholeNameSymbols.1.symbol>diableriste</VRE_SanguoFeeder.symbolPack.wholeNameSymbols.1.symbol>
+
+
+<!-- EN: dangerous UV sensitivity -->
+<VRE_Sensitivity_Dangerous.label>sensibilité dangereuse aux UV</VRE_Sensitivity_Dangerous.label>
+<!-- EN: Carriers of this gene have biological compounds in their skin that react dangerously to UV radiation. They are extremely sensitive to sunlight. -->
+<VRE_Sensitivity_Dangerous.description>Les porteurs de ce gène ont dans la peau des composés biologiques qui réagissent dangereusement aux rayons UV. Ils sont extrêmement sensibles à la lumière du soleil.</VRE_Sensitivity_Dangerous.description>
+<!-- EN: Sight capacity capped at 50% during sunlight hours -->
+<VRE_Sensitivity_Dangerous.customEffectDescriptions.0>Capacité de vision plafonnée à 50% pendant les heures d'ensoleillement</VRE_Sensitivity_Dangerous.customEffectDescriptions.0>
+<!-- EN: UV-hypersensitive -->
+<VRE_Sensitivity_Dangerous.labelShortAdj>hypersensible aux UV</VRE_Sensitivity_Dangerous.labelShortAdj>
+<!-- EN: dark -->
+<VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>sombre</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: tunnel -->
+<VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>tunnel</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: under -->
+<VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>sous</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: cave -->
+<VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>cave</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: crypt -->
+<VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>crypte</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>
+<!-- EN: dim -->
+<VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>pâle</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>
+<!-- EN: night -->
+<VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>nuit</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>
+
+
+</LanguageData>

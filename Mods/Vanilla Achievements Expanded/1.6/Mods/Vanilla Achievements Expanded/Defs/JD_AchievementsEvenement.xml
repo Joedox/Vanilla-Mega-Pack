@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- Odyssey -->
+		<AchievementsExpanded.AchievementTabDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>Jd_Evenement</defName>
+			<label>Événement</label>
+		</AchievementsExpanded.AchievementTabDef>
+
+
+	<!-- Dans l'espace oui, mais avec classe ! -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_Vacsuit</defName>
+			<label>Dans l'espace, oui\nmais avec classe !</label>
+			<description>Fabriquer un casque pressurisé et une combinaison pressurisée de qualité merveille.</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<thingList>
+					<li>
+						<key>Apparel_VacsuitHelmet</key>
+						<quality>Masterwork</quality>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Apparel_Vacsuit</key>
+						<quality>Masterwork</quality>
+						<value>1</value>
+					</li>
+				</thingList>
+				<mustHaveAll>true</mustHaveAll>
+			</tracker>
+
+			<texPath>Achievements/JD_Vacsuit</texPath>
+			<points>25</points>
+		</AchievementsExpanded.AchievementDef>
+
+<!-- Ulysse 31 -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+		<defName>JD_Ulysse</defName>
+		<label>Ulysse 13</label>
+		<description>Possess all 13 elements of gravship. (fuel optimizer, grav field extender, gravcore power cell, gravship shield generator, orbital scanner, oxygen pump, pilot console, pilot subpersona core, signal jammer, small &amp; large chemfuel tank, small &amp; large thruster).</description>
+		<tab>Jd_Evenement</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<thingList>
+				<li>
+					<key>FuelOptimizer</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>OxygenPump</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>GravFieldExtender</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>PilotConsole</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>ChemfuelTank</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>LargeChemfuelTank</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>SmallThruster</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>LargeThruster</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>OrbitalScanner</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>SignalJammer</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>GravcorePowerCell</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>PilotSubpersonaCore</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>GravshipShieldGenerator</key>
+					<value>1</value>
+				</li>
+			</thingList>
+			<mustHaveAll>true</mustHaveAll>
+		</tracker>
+
+		<texPath>Achievements/JD_Ulysse</texPath>
+		<points>40</points>
+	</AchievementsExpanded.AchievementDef>
+
+	<!-- Armageddon -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_ChunkVacstone</defName>
+			<label>Armageddon</label>
+			<description>Forer un astéroïde qui menace (ou non) la planète, pour obtenir des gravats en vaccolithe.</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<def>ChunkVacstone</def>
+				<count>100</count>
+			</tracker>
+
+			<texPath>Achievements/JD_ChunkVacstone</texPath>
+			<points>10</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- Bloc par bloc -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_BlocksVacstone</defName>
+			<label>Bloc par bloc</label>
+			<description>Tailler des gravats en vaccolithe pour obtenir des blocs utilisables.</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<def>BlocksVacstone</def>
+				<count>1875</count>
+			</tracker>
+
+			<texPath>Achievements/JD_BlocksVacstone</texPath>
+			<points>20</points>
+		</AchievementsExpanded.AchievementDef>
+
+
+<!-- lumiforêt -->
+	<!-- visiter lumiforêt -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_GlowforestBiome</defName>
+			<label>Visiter une lumiforêt</label>
+			<description>Visiter un biome lumiforêt.</description>
+			<tab>Jd_Evenement</tab>
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<thingList>
+					<li>
+						<key>GeothermalVent</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Plant_Nightgrass</key>
+						<value>1</value>
+					</li>
+				</thingList>
+				<mustHaveAll>true</mustHaveAll>
+			</tracker>
+			<texPath>Achievements/JD_GlowforestBiome</texPath>
+			<points>5</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- piller lumiforêt -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_GlowforestItems</defName>
+			<label>Piller la lumiforêt</label>
+			<description>Piller les ressources du biome lumiforêt (récolter 200 psilocaps).</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<def>Drug_Psilocap</def>
+				<count>200</count>
+			</tracker>
+
+			<texPath>Achievements/JD_GlowforestItems</texPath>
+			<points>10</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- faune lumiforêt -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_GlowforestFauna</defName>
+			<label>Faune de la lumiforêt</label>
+			<description>Avoir ces 6 animaux du biome lumiforêt (campagnol géant, capybara, casoar, cobra, crapaud colosse, ouaouaron).</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.KindDefTracker">
+				<kindDefs>
+					<li>
+						<key>Bullfrog</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Capybara</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Cassowary</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Cobra</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Megavole</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>ColossusToad</key>
+						<value>1</value>
+					</li>
+				</kindDefs>
+			</tracker>
+
+			<texPath>Achievements/JD_GlowforestFauna</texPath>
+			<points>50</points>
+		</AchievementsExpanded.AchievementDef>
+
+
+<!-- champ de lave -->
+	<!-- visiter champ de lave -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_LavaFieldBiome</defName>
+			<label>Visiter un champ de lave</label>
+			<description>Visiter un biome champ de lave.</description>
+			<tab>Jd_Evenement</tab>
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<thingList>
+					<li>
+						<key>Plant_PincushionCactus</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Plant_MagmaCactus</key>
+						<value>1</value>
+					</li>
+				</thingList>
+				<mustHaveAll>true</mustHaveAll>
+			</tracker>
+			<texPath>Achievements/JD_LavaFieldBiome</texPath>
+			<points>5</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- piller champ de lave -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_LavaFieldItems</defName>
+			<label>Piller le champ de lave</label>
+			<description>Piller les ressources du biome champ de lave (miner 100 obsidienne).</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<def>Obsidian</def>
+				<count>100</count>
+			</tracker>
+
+			<texPath>Achievements/JD_LavaFieldItems</texPath>
+			<points>10</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- faune champ de lave -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_LavaFieldFauna</defName>
+			<label>Faune du champ de lave</label>
+			<description>Avoir ces 6 animaux du biome champ de lave (cobaye, crabe rouge, escargot de lave, fennec, tortue de mer, vautour).</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.KindDefTracker">
+				<kindDefs>
+					<li>
+						<key>Vulture</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Fox_Fennec</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>GuineaPig</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>LavaSnail</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>StoneCrab</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>SeaTurtle</key>
+						<value>1</value>
+					</li>
+				</kindDefs>
+			</tracker>
+
+			<texPath>Achievements/JD_LavaFieldFauna</texPath>
+			<points>50</points>
+		</AchievementsExpanded.AchievementDef>
+
+
+<!-- plaine glaciaire -->
+	<!-- visiter plaine glaciaire -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_GlacialPlainBiome</defName>
+			<label>Visiter une plaine glaciaire</label>
+			<description>Visiter un biome plaine glaciaire.</description>
+			<tab>Jd_Evenement</tab>
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<thingList>
+					<li>
+						<key>Plant_TreePine</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>SolidIce</key>
+						<value>1</value>
+					</li>
+				</thingList>
+				<mustHaveAll>true</mustHaveAll>
+			</tracker>
+			<texPath>Achievements/JD_GlacialPlainBiome</texPath>
+			<points>5</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- faune plaine glaciaire -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_GlacialPlainFauna</defName>
+			<label>Faune de la plaine glaciaire</label>
+			<description>Avoir ces 6 animaux du biome plaine glaciaire (caribou, chat-cimeterre, glouton, lynx, manchot, mastodonte).</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.KindDefTracker">
+				<kindDefs>
+					<li>
+						<key>Caribou</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Cat_Scimitar</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Lynx</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Mastodon</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Wolverine</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Penguin</key>
+						<value>1</value>
+					</li>
+				</kindDefs>
+			</tracker>
+
+			<texPath>Achievements/JD_GlacialPlainFauna</texPath>
+			<points>50</points>
+		</AchievementsExpanded.AchievementDef>
+
+
+<!-- prairie -->
+	<!-- visiter prairie -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_GrasslandsBiome</defName>
+			<label>Visiter une prairie</label>
+			<description>Visiter un biome prairie.</description>
+			<tab>Jd_Evenement</tab>
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<thingList>
+					<li>
+						<key>Plant_YellowGrass</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Plant_YellowTallGrass</key>
+						<value>1</value>
+					</li>
+				</thingList>
+				<mustHaveAll>true</mustHaveAll>
+			</tracker>
+			<texPath>Achievements/JD_GrasslandsBiome</texPath>
+			<points>5</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- faune prairie -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_GrasslandsFauna</defName>
+			<label>Faune de la prairie</label>
+			<description>Avoir ces 6 animaux du biome prairie (bison, chien de prairie, cougar, dinde, porc-épic, yak).</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.KindDefTracker">
+				<kindDefs>
+					<li>
+						<key>Yak</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Bison</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Turkey</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>PrairieDog</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Porcupine</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Cougar</key>
+						<value>1</value>
+					</li>
+				</kindDefs>
+			</tracker>
+
+			<texPath>Achievements/JD_GrasslandsFauna</texPath>
+			<points>50</points>
+		</AchievementsExpanded.AchievementDef>
+
+
+<!-- terres scarifiées -->
+	<!-- visiter terres scarifiées -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_ScarlandsBiome</defName>
+			<label>Visiter des terres scarifiées</label>
+			<description>Visiter un biome terres scarifiées.</description>
+			<tab>Jd_Evenement</tab>
+			<tracker Class="AchievementsExpanded.ItemTracker">
+				<thingList>
+					<li>
+						<key>Plant_Thornvine</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Plant_TreeSnagroot</key>
+						<value>1</value>
+					</li>
+				</thingList>
+				<mustHaveAll>true</mustHaveAll>
+			</tracker>
+			<texPath>Achievements/JD_ScarlandsBiome</texPath>
+			<points>5</points>
+		</AchievementsExpanded.AchievementDef>
+
+	<!-- faune terres scarifiées -->
+		<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+			<defName>JD_ScarlandsFauna</defName>
+			<label>Faune des terres scarifiées</label>
+			<description>Avoir ces 6 animaux du biome terres scarifiées (chien des marais, cochon, corbeau, panthère, raton laveur, varan).</description>
+			<tab>Jd_Evenement</tab>
+
+			<tracker Class="AchievementsExpanded.KindDefTracker">
+				<kindDefs>
+					<li>
+						<key>Pig</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Panther</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>BogHound</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Raccoon</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>MonitorLizard</key>
+						<value>1</value>
+					</li>
+					<li>
+						<key>Crow</key>
+						<value>1</value>
+					</li>
+				</kindDefs>
+			</tracker>
+
+			<texPath>Achievements/JD_ScarlandsFauna</texPath>
+			<points>50</points>
+		</AchievementsExpanded.AchievementDef>
+
+
+</Defs>

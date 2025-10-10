@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: {0} screeches something only saurids could understand into the microphone and disconnects. -->
+<VRESaurids_FactionGreetingHostile>{0} crie quelque chose que seuls les saurides peuvent comprendre dans le microphone et se déconnecte.</VRESaurids_FactionGreetingHostile>
+<!-- EN: Hissing and screeching angrily, {0} demands that you make a gesture of unity, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nHissing an insult, {0_pronoun} disconnects. -->
+<VRESaurids_FactionGreetingHostileAppreciative>Sifflant et hurlant de colère, {0} exige que vous fassiez un geste d'unité, comme apporter des cadeaux à l'une de ses colonies ou libérer les prisonniers de sa faction sains et saufs. Jusque-là, {0_pronoun} elle ne veut pas parler.\n\nEn sifflant une insulte, {0_pronoun} se déconnecte.</VRESaurids_FactionGreetingHostileAppreciative>
+<!-- EN: {0} hisses a greeting and asks what business you need done. -->
+<VRESaurids_FactionGreetingWary>{0} vous salue en sifflant et vous demande ce que vous voulez faire.</VRESaurids_FactionGreetingWary>
+<!-- EN: Barks out enthusiastically, {0} greets {NEGOTIATOR_labelShort} and asks what {LEADER_pronoun} can do to help you. -->
+<VRESaurids_FactionGreetingWarm>Aboyant avec enthousiasme, {0} salue {NEGOTIATOR_labelShort} et lui demande ce qu'{LEADER_pronoun} peut faire pour vous aider.</VRESaurids_FactionGreetingWarm>
+<!-- EN: {0} agrees to send saurid fighters to help you. -->
+<VRESaurids_MilitaryAidSent>{0} accepte d'envoyer des combattants saurides pour vous aider.</VRESaurids_MilitaryAidSent>
+
+<!-- EN: {0} laid an egg! -->
+<VRESaurids.EggLaidLabel>{0} a pondu un œuf !</VRESaurids.EggLaidLabel>
+<!-- EN: {0} has laid an egg due to being oviparous. Make sure to keep the egg in a safe environment, under the roof and between 0°C - 50°C. After some time the egg will hatch into a child. {0} will be unable to lay another egg until their body recovers from this process. -->
+<VRESaurids.EggLaidDesc>{0} a pondu un œuf car elle est ovipare. Assurez-vous de conserver l'œuf dans un environnement sûr, sous le toit et entre 0°C et 50°C. Après un certain temps, l'œuf va éclore et donner naissance à un bébé. {0} ne pourra plus pondre d'autres œufs jusqu'à ce que son corps se remette de ce processus.</VRESaurids.EggLaidDesc>
+<!-- EN: {0}'s egg hatched! -->
+<VRESaurids.EggHatchedLabel>L'œuf de {0} a éclos !</VRESaurids.EggHatchedLabel>
+<!-- EN: {0}'s egg has hatched successfully, adding a new baby to the colony! Remember to take care of them and ensure they grow up healthy. -->
+<VRESaurids.EggHatchedDesc>L'œuf de {0} a éclos avec succès, ajoutant un nouveau bébé à la colonie ! N'oubliez pas de prendre soin de lui et de veiller à ce qu'il grandisse en bonne santé.</VRESaurids.EggHatchedDesc>
+<!-- EN: oviparous -->
+<VRESaurids.CannotOviparous>ovipare</VRESaurids.CannotOviparous>
+<!-- EN: Cold-blooded Danger! -->
+<VRESaurids.ColdBloodedDanger>Ectotherme en danger !</VRESaurids.ColdBloodedDanger>
+<!-- EN: Cold-blooded pawns will fall to extreme temperatures much easier and faster than others, these pawns are currently at risk -->
+<VRESaurids.ColdBloodedDangerExplanation>Les colons ectothermes succomberont aux températures extrêmes beaucoup plus facilement et rapidement que les autres, ces colons sont actuellement en danger </VRESaurids.ColdBloodedDangerExplanation>
+
+
+</LanguageData>

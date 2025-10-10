@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: extract milk from almonds -->
+<VCE_MilkFromAlmonds.label>extraire du lait d'amande</VCE_MilkFromAlmonds.label>
+<!-- EN: Extract vegetable milk from almonds. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process. -->
+<VCE_MilkFromAlmonds.description>Extraire le lait végétal des amandes. Ce lait peut être utilisé dans toutes les recettes qui demandent du lait.\n\nL'amande a un rendement très faible lorsqu'elle est transformée en lait, et beaucoup d'éléments nutritifs sont perdus au cours du processus.</VCE_MilkFromAlmonds.description>
+<!-- EN: Extracting milk from almonds. -->
+<VCE_MilkFromAlmonds.jobString>extrait le lait des amandes.</VCE_MilkFromAlmonds.jobString>
+
+<!-- EN: extract milk from coconuts -->
+<VCE_MilkFromCoconuts.label>extraire du lait de noix de coco</VCE_MilkFromCoconuts.label>
+<!-- EN: Extract vegetable milk from coconuts. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process. -->
+<VCE_MilkFromCoconuts.description>Extraire le lait végétal des noix de coco. Ce lait peut être utilisé dans toutes les recettes qui demandent du lait.\n\nLa noix de coco a un rendement très faible lorsqu'elle est transformée en lait, et beaucoup d'éléments nutritifs sont perdus au cours du processus.</VCE_MilkFromCoconuts.description>
+<!-- EN: Extracting milk from coconuts. -->
+<VCE_MilkFromCoconuts.jobString>extrait le lait des noix de coco.</VCE_MilkFromCoconuts.jobString>
+
+<!-- EN: extract milk from oats -->
+<VCE_MilkFromOats.label>extraire du lait d'avoine</VCE_MilkFromOats.label>
+<!-- EN: Extract vegetable milk from oats. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process. -->
+<VCE_MilkFromOats.description>Extraire le lait végétal de l'avoine. Ce lait peut être utilisé dans toutes les recettes qui demandent du lait.\n\nL'avoine a un rendement très faible lorsqu'il est transformé en lait, et beaucoup d'éléments nutritifs sont perdus au cours du processus.</VCE_MilkFromOats.description>
+<!-- EN: Extracting milk from oats. -->
+<VCE_MilkFromOats.jobString>extrait le lait de l'avoine.</VCE_MilkFromOats.jobString>
+
+<!-- EN: extract milk from rice -->
+<VCE_MilkFromRice.label>extraire du lait de riz</VCE_MilkFromRice.label>
+<!-- EN: Extract vegetable milk from rice. This milk can be used in any recipe that asks for milk.\n\nRice is very inefficient when converted into milk, and a lot of nutrition is lost in the process. -->
+<VCE_MilkFromRice.description>Extraire le lait végétal du riz. Ce lait peut être utilisé dans toutes les recettes qui demandent du lait.\n\nLe riz a un rendement très faible lorsqu'il est transformé en lait, et beaucoup d'éléments nutritifs sont perdus au cours du processus.</VCE_MilkFromRice.description>
+<!-- EN: Extracting milk from rice. -->
+<VCE_MilkFromRice.jobString>extrait le lait du riz.</VCE_MilkFromRice.jobString>
+
+
+</LanguageData>

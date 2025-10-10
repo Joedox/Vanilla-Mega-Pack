@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: hazard protection -->
+<VAE_HazardProtection.label>protection hazmat</VAE_HazardProtection.label>
+<!-- EN: Develop suits resistant to high toxicity and radiation. -->
+<VAE_HazardProtection.description>Vous permet de fabriquer des vêtements pour des environnements hautement toxiques et résistants aux radiations.</VAE_HazardProtection.description>
+<!-- EN:
+  <li>subject->environmental safeguarding</li>
+  <li>subject_story->engineered suits that turn toxic wastelands into walkable lands</li>
+  <li>subject_story->developed radiation shields woven into the fabric of uniforms</li>
+  <li>subject_story->created attire that allows safe research in deadly environments</li>
+  <li>subject_gerund->enhancing hazard resistance</li>
+-->
+<VAE_HazardProtection.generalRules.rulesStrings>
+  <li>subject->la sauvegarde de l'environnement</li>
+  <li>subject_story->a conçu des combinaisons qui transforment les friches toxiques en terrains praticables</li>
+  <li>subject_story->a mis au point des boucliers contre les radiations intégrés au tissu des uniformes</li>
+  <li>subject_story->a créé une tenue qui permet de mener des recherches en toute sécurité dans des environnements mortels</li>
+  <li>subject_gerund->l'amélioration de la résistance aux risques</li>
+</VAE_HazardProtection.generalRules.rulesStrings>
+
+<!-- EN: leather tanning -->
+<VAE_LeatherTanning.label>tannage du cuir</VAE_LeatherTanning.label>
+<!-- EN: Learn the process of tanning to craft more thicker and durable armors. -->
+<VAE_LeatherTanning.description>Vous apprend le processus pour tanner les peaux, afin de fabriquer des armures plus épaisses et plus robustes.</VAE_LeatherTanning.description>
+<!-- EN:
+  <li>subject->art of leathercraft</li>
+  <li>subject_story->rediscovered ancient tanning recipes for unmatched durability</li>
+  <li>subject_story->introduced waterproofing techniques that defy harsh weathers</li>
+  <li>subject_story->crafted armors that blend tradition with battlefield necessity</li>
+  <li>subject_gerund->mastering leather tanning</li>
+-->
+<VAE_LeatherTanning.generalRules.rulesStrings>
+  <li>subject->l'art de la maroquinerie</li>
+  <li>subject_story->a redécouvert d'anciennes recettes de tannage pour une durabilité inégalée</li>
+  <li>subject_story->a introduit des techniques d'imperméabilisation qui défient les intempéries</li>
+  <li>subject_story->a fabriqué des armures qui allient tradition et nécessité du champ de bataille</li>
+  <li>subject_gerund->la maîtrise du tannage du cuir</li>
+</VAE_LeatherTanning.generalRules.rulesStrings>
+
+<!-- EN: military camouflage -->
+<VAE_MlitaryCamouflage.label>camouflage militaire</VAE_MlitaryCamouflage.label>
+<!-- EN: Craft special military apparel allowing users to resemble the background environment such as foliage. -->
+<VAE_MlitaryCamouflage.description>Vous permet de fabriquer des vêtements militaires spéciaux permettant aux utilisateurs de se fondre dans l'environnement comme par exemple des feuillages.</VAE_MlitaryCamouflage.description>
+<!-- EN:
+  <li>subject->stealth and mimicry</li>
+  <li>subject_story->designed gear that mimics the environment, making soldiers invisible</li>
+  <li>subject_story->studied animals' camouflage to apply their patterns to military apparel</li>
+  <li>subject_story->outfitted scouts with wear that blends seamlessly into surroundings</li>
+  <li>subject_gerund->camouflaging the forces</li>
+-->
+<VAE_MlitaryCamouflage.generalRules.rulesStrings>
+  <li>subject->la furtivité et le mimétisme</li>
+  <li>subject_story->a conçu un équipement qui imite l'environnement et rend les soldats invisibles</li>
+  <li>subject_story->a étudié le camouflage des animaux pour appliquer leurs motifs aux vêtements militaires</li>
+  <li>subject_story->a équipé les éclaireurs de vêtements qui s'intègrent parfaitement à l'environnement</li>
+  <li>subject_gerund->le camouflage des forces</li>
+</VAE_MlitaryCamouflage.generalRules.rulesStrings>
+
+<!-- EN: siegebreaker armor -->
+<VAE_SiegebreakerArmor.label>armure brise-siège</VAE_SiegebreakerArmor.label>
+<!-- EN: Craft siegebreaker armor, heavy powered armor that significantly slows the user but provides advanced protection at range. Note that these also require advanced components. -->
+<VAE_SiegebreakerArmor.description>Vous permet de fabriquer des armures brise-siège, des armures lourdes qui ralentit l'utilisateur, mais offre une protection avancée contre les attaques à distance. Notez que celles-ci nécessitent également des composants avancés.</VAE_SiegebreakerArmor.description>
+<!-- EN:
+  <li>subject->fortified march</li>
+  <li>subject_story->forged armor that withstands artillery, turning soldiers into walking tanks</li>
+  <li>subject_story->integrated advanced tech for unmatched endurance on the battlefield</li>
+  <li>subject_story->developed exoskeletons that bear the brunt, safeguarding the wearer</li>
+  <li>subject_gerund->constructing siegebreaker defenses</li>
+-->
+<VAE_SiegebreakerArmor.generalRules.rulesStrings>
+  <li>subject->la marche fortifiée</li>
+  <li>subject_story->a forgé des armures qui résistent à l'artillerie, transformant les soldats en chars d'assaut ambulants</li>
+  <li>subject_story->a intégré des technologies de pointe pour une endurance inégalée sur le champ de bataille</li>
+  <li>subject_story->a mis au point des exosquelettes qui supportent les chocs et protègent leur porteur</li>
+  <li>subject_gerund->la construction de défenses brise-siège</li>
+</VAE_SiegebreakerArmor.generalRules.rulesStrings>
+
+<!-- EN: trooper armor -->
+<VAE_TrooperArmor.label>armure de soldat</VAE_TrooperArmor.label>
+<!-- EN: Craft trooper armor, a light semi-powered armor that is lightweight and cheap to produce. Note that these also require advanced components. -->
+<VAE_TrooperArmor.description>Vous permet de fabriquer des armures de soldat, des armures légères semi-puissante et bon marché à produire. Notez que celles-ci nécessitent également des composants avancés.</VAE_TrooperArmor.description>
+<!-- EN:
+  <li>subject->agile protection</li>
+  <li>subject_story->innovated with lightweight materials for rapid troop deployment</li>
+  <li>subject_story->balanced protection with mobility, setting new standards for combat gear</li>
+  <li>subject_story->pioneered the use of semi-powered armor in skirmishes</li>
+  <li>subject_gerund->equipping rapid response units</li>
+-->
+<VAE_TrooperArmor.generalRules.rulesStrings>
+  <li>subject->la protection agile</li>
+  <li>subject_story->a innové avec des matériaux légers pour le déploiement rapide des troupes</li>
+  <li>subject_story->a su concilier protection et mobilité, établissant ainsi de nouvelles normes en matière d'équipement de combat</li>
+  <li>subject_story->a été le premier à utiliser des armures semi-motorisées dans les escarmouches</li>
+  <li>subject_gerund->l'équipement des unités de réaction rapide</li>
+</VAE_TrooperArmor.generalRules.rulesStrings>
+
+
+<!-- Si Vanilla Apparel Expanded n'est pas présent. -->
+<!-- EN: military clothing -->
+<VAE_MilitaryClothing.label>vêtements militaire</VAE_MilitaryClothing.label>
+<!-- EN: Craft weatherproof outfits to protect your soldiers. -->
+<VAE_MilitaryClothing.description>Vous permet de fabriquer des vêtements imperméables pour protéger vos soldats.</VAE_MilitaryClothing.description>
+<!-- EN:
+  <li>subject->tactical gear</li>
+  <li>subject_story->designed camouflage that blends into multiple terrains</li>
+  <li>subject_story->created armor inserts that are both lightweight and bulletproof</li>
+  <li>subject_story->equipped units with climate-controlled battle dress</li>
+  <li>subject_gerund->assembling advanced military outfits</li>
+-->
+<VAE_MilitaryClothing.generalRules.rulesStrings>
+  <li>subject->vêtements militaire</li>
+  <li>subject_story->a conçu un camouflage pour se fondre dans de multiples terrains</li>
+  <li>subject_story->a créé des inserts d'armure à la fois légers et pare-balles</li>
+  <li>subject_story->a équipé les unités de tenues de combat climatisées</li>
+  <li>subject_gerund->l'assemblage d'équipements militaires avancés</li>
+</VAE_MilitaryClothing.generalRules.rulesStrings>
+
+
+</LanguageData>

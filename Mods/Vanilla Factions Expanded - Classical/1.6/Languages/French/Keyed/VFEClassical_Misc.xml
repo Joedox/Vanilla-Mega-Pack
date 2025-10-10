@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Open senator screen -->
+<VFEC.Senators.Open>Ouvrir l'écran Sénateur</VFEC.Senators.Open>
+<!-- EN: You gain the favor of Senator {0} from {1}. -->
+<VFEC.Senators.GainFavor>Vous gagnez le soutien du Sénateur {0} de {1}.</VFEC.Senators.GainFavor>
+<!-- EN: Favor of {0} -->
+<VFEC.Senators.FavorOf>Soutien de {0}</VFEC.Senators.FavorOf>
+<!-- EN: You will be favored by {0}, who will join your colony. This will activate their associated perk, along with automatically researching their associated project. -->
+<VFEC.Senators.FavorTip>Vous bénéficierez du soutien de {0}, qui rejoindra votre colonie. Cela activera son avantage associé, ainsi que son projet de recherche.</VFEC.Senators.FavorTip>
+<!-- EN: Transfer to Colony -->
+<VFEC.TransferToColony>Transfert vers la colonie</VFEC.TransferToColony>
+<!-- EN: The perk {0} has been unlocked. -->
+<VFEC.PerkUnlocked>L'avantage {0} a été débloquée.</VFEC.PerkUnlocked>
+<!-- EN: Pick Up Scorpion -->
+<VFEC.Scorpion.PickUp>Replier Scorpion</VFEC.Scorpion.PickUp>
+<!-- EN: Set Up Scorpion -->
+<VFEC.Scorpion.SetUp>Installer Scorpion</VFEC.Scorpion.SetUp>
+<!-- EN: Light the Beacon -->
+<VFEC.LightTheBeacon>Allumer la balise</VFEC.LightTheBeacon>
+<!-- EN: Still on cooldown. -->
+<VFEC.Cooldown>En cours de recharge.</VFEC.Cooldown>
+<!-- EN: No allies. -->
+<VFEC.NoAllies>Aucun allié.</VFEC.NoAllies>
+<!-- EN: No reinforcements available. -->
+<VFEC.NoReinforce>Aucun renfort disponible.</VFEC.NoReinforce>
+<!-- Text capitalized in code, since it may be in the middle of a sentence. -->
+<!-- EN: allies have no hostiles -->
+<VFEC.NoHostiles>les alliés n'ont pas d'hostiles</VFEC.NoHostiles>
+<!-- EN: Reinforcement legion is unable to assist: {0}. -->
+<VFEC.ReinforcementLegionFailed>La légion de renfort n'est pas en mesure d'aider : {0}.</VFEC.ReinforcementLegionFailed>
+<!-- EN: Light this beacon to call reinforcements. -->
+<VFEC.LightTheBeacon.Desc>Allumer cette balise pour appeler des renforts.</VFEC.LightTheBeacon.Desc>
+<!-- EN: Building road: {0}, progress: {1}, ({2}/{3}) -->
+<VFEC.BuildingRoad>Construction : {0}, progression : {1} ({2}/{3})</VFEC.BuildingRoad>
+<!-- EN: {0} has finished building {1} -->
+<VFEC.RoadFinished>{0} a fini de construire {1}</VFEC.RoadFinished>
+<!-- EN: Unknown -->
+<VFEC.Unknown>Inconnu</VFEC.Unknown>
+
+
+</LanguageData>

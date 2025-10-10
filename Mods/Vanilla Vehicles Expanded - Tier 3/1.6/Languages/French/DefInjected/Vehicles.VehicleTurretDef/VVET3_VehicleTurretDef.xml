@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: badger chain gun -->
+<Badger_MainTurret.label>canon à chaîne harceleur</Badger_MainTurret.label>
+<!-- EN: A powerful turret mounted on a Badger Infantry Fighting Vehicle. Its explosive shots deal significant damage to enemy infantry, but it’s low armor-piercing makes it subpar against armored targets, and it uses up a lot of ammo. -->
+<Badger_MainTurret.description>Une puissante tourelle montée sur un véhicule de combat d'infanterie Badger. Ses tirs explosifs infligent des dégâts considérables à l'infanterie ennemie, mais son faible pouvoir perforant la rend moins efficace contre les cibles blindées, et consomme beaucoup de munitions.</Badger_MainTurret.description>
+<!-- EN: Single -->
+<Badger_MainTurret.fireModes.0.label>Coup par coup</Badger_MainTurret.fireModes.0.label>
+<!-- EN: Burst -->
+<Badger_MainTurret.fireModes.1.label>En rafale</Badger_MainTurret.fireModes.1.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Badger_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Badger_MainTurret.gizmoDescription>
+
+
+<!-- EN: Rocket swarm turret -->
+<Burya_MainTurret.label>rampe à roquettes</Burya_MainTurret.label>
+<!-- EN: A powerful multiple launch rocket system usually mounted on Burya, capable of firing powerful barrages of rockets covering a large area. The turret does not fire until someone orders it to fire. It is very effective against large groups of weaker combatants, but less effective against small numbers of armored targets. Extensive firing may overheat and disable the turret. -->
+<Burya_MainTurret.description>Un puissant système de roquettes à lancements multiples généralement monté sur le Burya, pouvant tirer de puissants barrages de roquettes recouvrant une large zone. La tourelle ne fait feu que lorsque quelqu'un lui en donne l'ordre. Ce système est très efficace contre les grands groupes de combattants faibles, mais il l'est moins contre les petits groupes de cibles blindées. Les tirs intensifs peuvent faire surchauffer la tourelle et la mettre hors service.</Burya_MainTurret.description>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Burya_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Burya_MainTurret.gizmoDescription>
+
+
+<!-- EN: goliath military turret -->
+<Goliath_MilitaryTurret.label>tourelle militaire goliath</Goliath_MilitaryTurret.label>
+<!-- EN: A military-grade double barreled automatic turret, usually mounted on Goliath siegepods. Requires steel to refurbish its barrels after heavy use. May explode when damaged. It has a limited angle it can fire in. -->
+<Goliath_MilitaryTurret.description>Une tourelle automatique à double canon de qualité militaire, généralement montée sur les capsules de siège Goliath. Il faut de l'acier pour remettre à neuf ses canons après une utilisation intensive. Elle peut exploser si elle est endommagée. Angle de tir limité.</Goliath_MilitaryTurret.description>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Goliath_MilitaryTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Goliath_MilitaryTurret.gizmoDescription>
+
+
+<!-- EN: goliath artillery -->
+<Goliath_SwarmTurret.label>artillerie goliath</Goliath_SwarmTurret.label>
+<!-- EN: An inaccurate launcher capable of firing two barrages of rockets covering a large area. The turret does not fire until someone orders it to fire. It is very effective against large groups of weaker combatants, but less effective against small numbers of armored targets. Extensive firing may overheat and disable the turret. -->
+<Goliath_SwarmTurret.description>Un lanceur imprécis pouvant tirer deux barrages de roquettes recouvrant une large zone. La tourelle ne fait feu que lorsque quelqu'un lui en donne l'ordre. Elle est très efficace contre les grands groupes de combattants faibles, mais moins efficace contre un petit nombre de cibles blindées. Un tir intensif peut faire surchauffer la tourelle et la rendre inutilisable.</Goliath_SwarmTurret.description>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Goliath_SwarmTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Goliath_SwarmTurret.gizmoDescription>
+
+
+<!-- EN: Main Turret -->
+<Marshal_MainTurret.label>tourelle</Marshal_MainTurret.label>
+<!-- EN: A large and powerful tank cannon capable of firing explosive shells over long distance. Usually mounted on Marshal tanks. -->
+<Marshal_MainTurret.description>Un grand et puissant canon de char pouvant tirer des obus explosifs sur de longues distances. Généralement monté sur les chars Maréchal.</Marshal_MainTurret.description>
+<!-- EN: Single -->
+<Marshal_MainTurret.fireModes.0.label>Tir unique</Marshal_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Marshal_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Marshal_MainTurret.gizmoDescription>
+
+
+<!-- EN: Mounted Turret -->
+<Marshal_MountedTurret.label>mitrailleuse</Marshal_MountedTurret.label>
+<!-- EN: A small machine gun mounted on a marshal tank. Needs to be reloaded with steel. Can only fire over short range, but doesn’t have any issues with firing at enemies that engage the vehicle in melee. -->
+<Marshal_MountedTurret.description>Une petite mitrailleuse montée sur un char marshal. Elle doit être rechargée avec de l'acier. Elle ne peut tirer qu'à courte portée, mais n'a aucun problème à tirer sur les ennemis qui engagent le véhicule au corps à corps.</Marshal_MountedTurret.description>
+<!-- EN: Burst -->
+<Marshal_MountedTurret.fireModes.0.label>En rafale</Marshal_MountedTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Marshal_MountedTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Marshal_MountedTurret.gizmoDescription>
+
+
+<!-- EN: paladin smoke grenade launcher -->
+<Paladin_MainTurret.label>lance-grenades fumigènes paladin</Paladin_MainTurret.label>
+<!-- EN: A smoke grenade launcher mounted on a Paladin LAV. Excellent for providing smoke cover to infantry, this turret has no offensive capabilities. -->
+<Paladin_MainTurret.description>Un lanceur de grenades fumigènes monté sur un VBTT Paladin. Excellent pour fournir une couverture fumigène à l'infanterie, cette tourelle n'a pas de capacités offensives.</Paladin_MainTurret.description>
+<!-- EN: Single -->
+<Paladin_MainTurret.fireModes.0.label>Coup par coup</Paladin_MainTurret.fireModes.0.label>
+<!-- EN: Burst -->
+<Paladin_MainTurret.fireModes.1.label>En rafale</Paladin_MainTurret.fireModes.1.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Paladin_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Paladin_MainTurret.gizmoDescription>
+
+
+<!-- EN: udar artillery -->
+<Udar_MainTurret.label>artillerie de l'udar</Udar_MainTurret.label>
+<!-- EN: A gigantic artillery capable of firing various kinds of shells over medium distances. Whilst it cannot fire to different world tiles, the fact that it is mounted on an armored mobile platform gives it great versatility. It can only rotate 35 degrees in both directions. Usually mounted on Udar artillery. -->
+<Udar_MainTurret.description>Une artillerie gigantesque pouvant tirer différents types d'obus sur des distances moyennes. Bien qu'elle ne puisse pas tirer sur différentes tuiles du monde, le fait qu'elle soit montée sur une plate-forme mobile blindée lui confère une grande polyvalence. Elle ne peut pivoter que de 35 degrés dans les deux sens. Généralement monté sur l'artillerie Udar.</Udar_MainTurret.description>
+<!-- EN: Single -->
+<Udar_MainTurret.fireModes.0.label>Tir unique</Udar_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Udar_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Udar_MainTurret.gizmoDescription>
+
+
+</LanguageData>

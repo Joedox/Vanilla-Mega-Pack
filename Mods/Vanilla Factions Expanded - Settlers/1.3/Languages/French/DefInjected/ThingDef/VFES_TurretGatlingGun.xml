@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Gun_GatlingGun.label>mitrailleuse Gatling</Gun_GatlingGun.label>
+<Gun_GatlingGun.description>Une simple arme automatique conçue pour être montée sur une tourelle.</Gun_GatlingGun.description>
+<Gun_GatlingGun.verbs.Verb_Shoot.label>Mitrailleuse Gatling</Gun_GatlingGun.verbs.Verb_Shoot.label>
+
+<Bullet_GatlingGun.label>balle gatling</Bullet_GatlingGun.label>
+
+<Turret_GatlingGun.label>tourelle mitrailleuse Gatling</Turret_GatlingGun.label>
+<Turret_GatlingGun.description>Une tourelle portable à l'ancienne. Besoin d'un colon pour pouvoir être utilisé. Nécessite de l'acier pour remettre à neuf son canon après un usage intensif. La vitesse de tir augmente au fur et à mesure que la tourelle tire. Peut exploser lorsqu'elle est endommagée.</Turret_GatlingGun.description>
+<Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>
+<Turret_GatlingGun.comps.CompRefuelable.fuelLabel>Nombre de tirs avant le changement du canon</Turret_GatlingGun.comps.CompRefuelable.fuelLabel>
+<Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>Ne peut pas tirer : nécessite un nouveau canon</Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>
+
+
+</LanguageData>

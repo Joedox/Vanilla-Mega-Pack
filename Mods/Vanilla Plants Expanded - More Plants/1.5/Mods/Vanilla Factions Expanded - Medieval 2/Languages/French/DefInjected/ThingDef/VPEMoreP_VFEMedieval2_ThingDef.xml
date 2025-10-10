@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: blueberries -->
+<VCE_RawBlueberries.label>myrtille</VCE_RawBlueberries.label>
+<!-- EN: A sweet, edible fruit hailed as a "superfood", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries. -->
+<VCE_RawBlueberries.description>Fruit comestible sucré, considéré comme un "super-aliment", la myrtille est couramment consommée fraîche comme fruit de dessert et peut être cuite dans une variété de pâtisseries.</VCE_RawBlueberries.description>
+
+
+<!-- EN: blueberry plant -->
+<VCE_Blueberry.label>myrtillier</VCE_Blueberry.label>
+<!-- EN: A shrub prized for its sweet edible fruits. Hailed as a "superfood", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.\n\n<color=#E5E54C>Gameplay effect:</color> Blueberries are pollinated by bees: they will receive a growth boost if an apiary is found in a radius of 6 tiles. To avoid lag this is only calculated once, when the plant is sown, so apiaries placed after sowing it will have no effect. If there are no apiaries it will behave as a slower strawberry plant. -->
+<VCE_Blueberry.description>Arbuste apprécié pour ses fruits sucrés comestibles. Considérées comme un "super-aliment", les myrtilles sont couramment consommées fraîches comme fruit de dessert et peuvent être cuites dans une variété de pâtisseries.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt; Les myrtilliers sont pollinisées par les abeilles, ils bénéficieront d'une augmentation de croissance si une ruche est présente dans un rayon de 6 cases. Pour éviter tout décalage, ce facteur n'est calculé qu'une seule fois, au moment de la plantation, de sorte que les ruches placées après la plantation n'auront aucun effet. S'il n'y a pas de ruche, la plante se comportera comme un fraisier plus lent.</VCE_Blueberry.description>
+
+
+</LanguageData>

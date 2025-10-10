@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: espresso machine -->
+<VBE_EspressoMachineBuilding.label>machine à expresso</VBE_EspressoMachineBuilding.label>
+<!-- EN: An espresso machine brews coffee by forcing pressurized water near boiling point through a "puck" of ground coffee and a filter in order to produce a thick, concentrated coffee called espresso. This particular machine also has the possibility of brewing tea using a separate system. -->
+<VBE_EspressoMachineBuilding.description>Une machine à expresso prépare du café en forçant de l'eau sous pression, proche du point d'ébullition, à travers un "palet" de café moulu et un filtre, afin de produire un café intense et concentré appelé expresso. Cette machine particulière offre également la possibilité de préparer du thé à l'aide d'un système séparé.</VBE_EspressoMachineBuilding.description>
+
+<!-- EN: black tea -->
+<VBE_BlackTea.label>thé noir</VBE_BlackTea.label>
+<!-- EN: A particularly bitter tea cut with creamy milk, wakes one up and helps cure ailments. -->
+<VBE_BlackTea.description>Un thé particulièrement amer coupé avec du lait crémeux, réveille et favorise la guérison.</VBE_BlackTea.description>
+<!-- EN: Drink {0} -->
+<VBE_BlackTea.ingestible.ingestCommandString>Boire un {0}</VBE_BlackTea.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_BlackTea.ingestible.ingestReportString>Boit le {0}.</VBE_BlackTea.ingestible.ingestReportString>
+
+<!-- EN: cannibal coffee -->
+<VBE_CannibalCoffee.label>café cannibale</VBE_CannibalCoffee.label>
+<!-- EN: For a very particular… refined coffee drinker. -->
+<VBE_CannibalCoffee.description>Pour un buveur de café très particulier... et raffiné.</VBE_CannibalCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_CannibalCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_CannibalCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_CannibalCoffee.ingestible.ingestReportString>Boit le {0}.</VBE_CannibalCoffee.ingestible.ingestReportString>
+
+<!-- EN: irish coffee -->
+<VBE_IrishCoffee.label>irish coffee</VBE_IrishCoffee.label>
+<!-- EN: Whiskey and coffee blended thoroughly before forming a head and being topped with a spoonful of whipped cream. Perfect for those who just got out of bed and are already wanting to go back to it. -->
+<VBE_IrishCoffee.description>Whisky et café mélangés intimement avant de former une crème et d'être garnis d'une cuillerée de crème chantilly. Parfait pour ceux qui viennent de sortir du lit et qui ont déjà envie de s'y remettre.</VBE_IrishCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_IrishCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_IrishCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_IrishCoffee.ingestible.ingestReportString>Boit l'{0}.</VBE_IrishCoffee.ingestible.ingestReportString>
+
+<!-- EN: kombucha tea -->
+<VBE_Kombucha.label>thé kombucha</VBE_Kombucha.label>
+<!-- EN: A sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical. Kombucha acts as a home remedy against the flu, reducing its severity by 5%. -->
+<VBE_Kombucha.description>Un thé sucré laissé fermenter. Après la fermentation, le produit final est une boisson aigre-douce, parfois même naturellement gazeuse, connue sous le nom de kombucha. On lui prête des vertus pour la santé, mais certains restent sceptiques.</VBE_Kombucha.description>
+<!-- EN: Drink {0} -->
+<VBE_Kombucha.ingestible.ingestCommandString>Boire un {0}</VBE_Kombucha.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_Kombucha.ingestible.ingestReportString>Boit le {0}.</VBE_Kombucha.ingestible.ingestReportString>
+
+<!-- EN: latte coffee -->
+<VBE_LatteCoffee.label>café au lait</VBE_LatteCoffee.label>
+<!-- EN: Potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals. -->
+<VBE_LatteCoffee.description>Un expresso intense mélangé à du lait frais pour en atténuer l'amertume avant d'être versé et servi. Les cafés au lait ont la réputation d'être particulièrement appréciés des personnes "sophistiquées".</VBE_LatteCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_LatteCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_LatteCoffee.ingestible.ingestReportString>Boit le {0}.</VBE_LatteCoffee.ingestible.ingestReportString>
+
+<!-- EN: mocha coffee -->
+<VBE_MochaCoffee.label>café moka</VBE_MochaCoffee.label>
+<!-- EN: Coffee mixed with sweet and luxurious chocolate, very fun to drink. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink. -->
+<VBE_MochaCoffee.description>Un café mélangé à un chocolat sucré et somptueux, très agréable à boire. Les plus snobs diront que le moka est plus un dessert qu'une véritable boisson au café.</VBE_MochaCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_MochaCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_MochaCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_MochaCoffee.ingestible.ingestReportString>Boit le {0}.</VBE_MochaCoffee.ingestible.ingestReportString>
+
+<!-- EN: pumpkin spice coffee -->
+<VBE_PumpkinCoffee.label>café au potiron épices</VBE_PumpkinCoffee.label>
+<!-- EN: Cheap, mass produced generic coffee seeped in an array of spices, oddly excluding any actual pumpkin. Thousands of years ago, this type of coffee was stereotypically consumed by red-haired hipsters with man buns. -->
+<VBE_PumpkinCoffee.description>Un café générique bon marché, produit en masse, imprégné d'un éventail d'épices, excluant curieusement tout véritable potiron. Il y a des milliers d'années, ce type de café était stéréotypé comme étant consommé par des hipsters roux avec des chignons.</VBE_PumpkinCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_PumpkinCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_PumpkinCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_PumpkinCoffee.ingestible.ingestReportString>Boit le {0}.</VBE_PumpkinCoffee.ingestible.ingestReportString>
+
+<!-- EN: yuenyeung -->
+<VBE_Yuenyeung.label>yuenyeung</VBE_Yuenyeung.label>
+<!-- EN: A mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. It is usually served cold, but whether it’s served hot or cold it’s equally confusing to the imbiber. -->
+<VBE_Yuenyeung.description>Un mélange de café et de thé. Les buveurs de thé et de café mettent respectivement leurs différences de côté pour concocter cet amalgame douteux. Il est généralement servi froid, mais qu'il soit servi chaud ou froid, il est tout aussi déroutant pour la personne qui le boit.</VBE_Yuenyeung.description>
+<!-- EN: Drink {0} -->
+<VBE_Yuenyeung.ingestible.ingestCommandString>Boire un {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_Yuenyeung.ingestible.ingestReportString>Boit le {0}.</VBE_Yuenyeung.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: agriculture -->
+<VFET_Agriculture.label>l'agriculture</VFET_Agriculture.label>
+<!-- EN: Learn to grow various staple crops. Unlocks growing job. -->
+<VFET_Agriculture.description>Vous permet d'apprendre à cultiver diverses plantes de base. Débloque le métier Fermier.</VFET_Agriculture.description>
+<!-- EN:
+  <li>subject->birth of farming</li>
+  <li>subject_story->turned from the nomadic life to sow the seeds of the future</li>
+  <li>subject_story->nurtured the earth to yield bountiful harvests, ensuring prosperity</li>
+  <li>subject_story->founded the first settlements, around which communities flourished</li>
+  <li>subject_gerund->cultivating sustenance from the soil</li>
+-->
+<VFET_Agriculture.generalRules.rulesStrings>
+  <li>subject->la naissance de l'agriculture</li>
+  <li>subject_story->s'est détourné de la vie nomade pour semer les graines de l'avenir</li>
+  <li>subject_story->a nourri la terre pour qu'elle produise des récoltes abondantes, garantissant ainsi la prospérité</li>
+  <li>subject_story->a fondé les premières colonies, autour desquelles se sont développées des communautés</li>
+  <li>subject_gerund->la culture de la subsistance à partir du sol</li>
+</VFET_Agriculture.generalRules.rulesStrings>
+
+<!-- EN: animal handling -->
+<VFET_AnimalHandling.label>l'élevage</VFET_AnimalHandling.label>
+<!-- EN: Acquire the knowledge to manage, tame, and accommodate animals. Unlocks handing job, as well as animal taming and slaughtering. -->
+<VFET_AnimalHandling.description>Vous permet de construire des structures et objets pour les animaux apprivoisés. Débloque le métier Dresseur.</VFET_AnimalHandling.description>
+<!-- EN:
+  <li>subject->the bond between beast and kin</li>
+  <li>subject_story->formed alliances with the animal kingdom, taming the wild for companionship and aid</li>
+  <li>subject_story->harnessed the strength of beasts, elevating their tribe's potential</li>
+  <li>subject_story->merged their destiny with that of their animal brethren, securing a mutual survival</li>
+  <li>subject_gerund->fostering the first companions</li>
+-->
+<VFET_AnimalHandling.generalRules.rulesStrings>
+  <li>subject->le lien entre la bête et la famille</li>
+  <li>subject_story->a formé des alliances avec le règne animal, apprivoisant les animaux sauvages pour qu'ils lui tiennent compagnie et lui viennent en aide</li>
+  <li>subject_story->a exploité la force des bêtes, augmentant ainsi le potentiel de la tribu</li>
+  <li>subject_story->a fusionné son destin avec celui de ses congénères animaux, lui assurant une survie réciproque</li>
+  <li>subject_gerund->l'accueil des premiers compagnons</li>
+</VFET_AnimalHandling.generalRules.rulesStrings>
+
+<!-- EN: bow -->
+<VFET_Bow.label>l'arc</VFET_Bow.label>
+<!-- EN: Unlock the ability to craft the staple of ranged combat - a short bow. -->
+<VFET_Bow.description>Vous permet de débloquer la capacité de fabriquer l'élément de base du combat à distance : l'arc court.</VFET_Bow.description>
+<!-- EN:
+  <li>subject->the arc of ascendancy</li>
+  <li>subject_story->stretched the bowstring of progress, launching arrows towards the horizon</li>
+  <li>subject_story->mastered the bow, blending patience, skill, and technology</li>
+  <li>subject_story->ushered in the era of ranged combat, shifting the dynamics of the hunt and warfare</li>
+  <li>subject_gerund->extending reach beyond grasp</li>
+-->
+<VFET_Bow.generalRules.rulesStrings>
+  <li>subject->l'arc de l'ascendance</li>
+  <li>subject_story->a tendu la corde du progrès, lançant des flèches vers l'horizon</li>
+  <li>subject_story->a maîtrisé l'arc, alliant patience, habileté et technologie</li>
+  <li>subject_story->a inauguré l'ère du combat à distance, modifiant la dynamique de la chasse et de la guerre</li>
+  <li>subject_gerund->l'extension de la portée au-delà de la saisie</li>
+</VFET_Bow.generalRules.rulesStrings>
+
+<!-- EN: construction -->
+<VFET_Construction.label>la construction</VFET_Construction.label>
+<!-- EN: Learn the absolute basic techniques of building and structural design. Unlocks the ability to build walls and roofs. -->
+<VFET_Construction.description>Vous permet d'apprendre les techniques de base de la construction et de la conception structurelle. Permet de construire des murs et des plafonds.</VFET_Construction.description>
+<!-- EN:
+  <li>subject->shelter and structure</li>
+  <li>subject_story->raised the first walls against the elements, crafting sanctuaries from the wild</li>
+  <li>subject_story->assembled places of gathering and rest, fostering community and safety</li>
+  <li>subject_story->embarked on the architectural journey, laying the cornerstone of progress</li>
+  <li>subject_gerund->building the cradle of civilization</li>
+-->
+<VFET_Construction.generalRules.rulesStrings>
+  <li>subject->l'abri et la structure</li>
+  <li>subject_story->a érigé les premiers murs contre les éléments, créant des sanctuaires à partir de la nature</li>
+  <li>subject_story->a créé des lieux de rassemblement et de repos, favorisant la communauté et la sécurité</li>
+  <li>subject_story->s'est lancé dans l'aventure architecturale, posant la pierre angulaire du progrès</li>
+  <li>subject_gerund->la construction du berceau de la civilisation</li>
+</VFET_Construction.generalRules.rulesStrings>
+
+<!-- EN: cultivation -->
+<VFET_Cultivation.label>la plantation</VFET_Cultivation.label>
+<!-- EN: Expand crop variety with more specific, difficult to grow plants, such as smokeleaf or psychoid plant. -->
+<VFET_Cultivation.description>Vous permet d'élargir la variété des cultures avec des plantes plus spécifiques et difficiles à cultiver, telles que le smokeleaf ou la plante psychoïde.</VFET_Cultivation.description>
+<!-- EN:
+  <li>subject->diversification of crops</li>
+  <li>subject_story->explored the cultivation of exotic plants, enriching diets and medicine</li>
+  <li>subject_story->braved the cultivation of finicky crops, securing a variety of sustenance</li>
+  <li>subject_story->expanded the agricultural horizon, embracing the wealth of nature’s bounty</li>
+  <li>subject_gerund->expanding the garden of civilization</li>
+-->
+<VFET_Cultivation.generalRules.rulesStrings>
+  <li>subject->la diversification des cultures</li>
+  <li>subject_story->a exploré la culture de plantes exotiques, enrichissant l'alimentation et la médecine</li>
+  <li>subject_story->a bravé les cultures difficiles et s'est assuré une subsistance variée</li>
+  <li>subject_story->a élargi l'horizon de l'agriculture, embrassant la richesse de la nature</li>
+  <li>subject_gerund->l'expansion du jardin de la civilisation</li>
+</VFET_Cultivation.generalRules.rulesStrings>
+
+<!-- EN: culture -->
+<VFET_Culture.label>la culture</VFET_Culture.label>
+<!-- EN: Unlock the ability to conduct research, as well as develop ideological thoughts. Unlocks intellectual job. -->
+<VFET_Culture.description>Débloquer la capacité à mener des recherches, ainsi qu'à développer des pensées idéologiques. Débloque le travail Intellectuel.</VFET_Culture.description>
+<!-- EN:
+  <li>subject->the tapestry of thought</li>
+  <li>subject_story->wove the fabric of their culture, rich with the threads of knowledge and belief</li>
+  <li>subject_story->cultivated the growth of intellectual pursuits, seeding the future with ideas</li>
+  <li>subject_story->embarked on the quest for understanding, elevating their tribe with wisdom</li>
+  <li>subject_gerund->cultivating the mind’s garden</li>
+-->
+<VFET_Culture.generalRules.rulesStrings>
+  <li>subject->la tapisserie de la pensée</li>
+  <li>subject_story->a tissé la trame de leur culture, riche des fils de la connaissance et de la croyance</li>
+  <li>subject_story->a cultivé la croissance des activités intellectuelles, en nourrissant l'avenir d'idées</li>
+  <li>subject_story->s'est lancé dans la quête de la compréhension, élevant leur tribu par la sagesse</li>
+  <li>subject_gerund->l'entretien du jardin de l'esprit</li>
+</VFET_Culture.generalRules.rulesStrings>
+
+<!-- EN: fire -->
+<VFET_Fire.label>le feu</VFET_Fire.label>
+<!-- EN: Unlock the capability to utilize and manage fire for various purposes. Unlocks firefighting job. -->
+<VFET_Fire.description>Vous permet de débloquer la capacité d'utiliser et de maîtriser le feu à des fins diverses. Débloque le métier Pompier.</VFET_Fire.description>
+<!-- EN:
+  <li>subject->discovery of fire</li>
+  <li>subject_story->harnessed the primal force of fire, illuminating the darkness and warming the cold</li>
+  <li>subject_story->transformed the night into a time of activity and safety, warding off predators</li>
+  <li>subject_story->laid the foundation of civilization with the control of this wild element</li>
+  <li>subject_gerund->mastering the flame</li>
+-->
+<VFET_Fire.generalRules.rulesStrings>
+  <li>subject->la découverte du feu</li>
+  <li>subject_story->a maîtrisé la force primitive du feu, éclairant les ténèbres et réchauffant le froid</li>
+  <li>subject_story->a transformé la nuit en une période d'activité et de sécurité, en éloignant les prédateurs</li>
+  <li>subject_story->a jeté les bases de la civilisation en maîtrisant cet élément sauvage</li>
+  <li>subject_gerund->la maîtrise de la flamme</li>
+</VFET_Fire.generalRules.rulesStrings>
+
+<!-- EN: furniture -->
+<VFET_Furniture.label>le mobilier</VFET_Furniture.label>
+<!-- EN: Introduce basic furniture crafting for improved living conditions. -->
+<VFET_Furniture.description>Vous permet d'introduire la fabrication de meubles de base pour améliorer les conditions de vie.</VFET_Furniture.description>
+<!-- EN:
+  <li>subject->comforts of craftsmanship</li>
+  <li>subject_story->carved the first symbols of comfort and utility from the heartwood of nature</li>
+  <li>subject_story->transformed living spaces with the artistry of handcrafted furniture</li>
+  <li>subject_story->elevated daily life, from survival to living, through the touch of creation</li>
+  <li>subject_gerund->shaping the comforts of home</li>
+-->
+<VFET_Furniture.generalRules.rulesStrings>
+  <li>subject->le confort de l'artisanat</li>
+  <li>subject_story->a sculpté les premiers symboles de confort et d'utilité dans le bois de la nature</li>
+  <li>subject_story->a transformé des espaces de vie grâce à l'art du mobilier artisanal</li>
+  <li>subject_story->a élevé la vie quotidienne, de la survie à la vie, au niveau de la création</li>
+  <li>subject_gerund->la création du confort de la maison</li>
+</VFET_Furniture.generalRules.rulesStrings>
+
+<!-- EN: hunting -->
+<VFET_Hunting.label>la chasse</VFET_Hunting.label>
+<!-- EN: Establish methods for effective hunting and resource processing. Unlocks hunting job and allows you to craft throwspikes. -->
+<VFET_Hunting.description>Établir des méthodes de chasse et de traitement des ressources efficaces. Débloque le métier Chasseur et permet de fabriquer des piques.</VFET_Hunting.description>
+<!-- EN:
+  <li>subject->the hunt’s mastery</li>
+  <li>subject_story->honed the primal dance of predator and prey, ensuring the tribe’s sustenance</li>
+  <li>subject_story->crafted the tools of the chase, bringing skill to the wild’s challenge</li>
+  <li>subject_story->secured their place atop the food chain, through cunning and craft</li>
+  <li>subject_gerund->capturing the wild’s bounty</li>
+-->
+<VFET_Hunting.generalRules.rulesStrings>
+  <li>subject->la maîtrise de la chasse</li>
+  <li>subject_story->a perfectionné la danse primitive du prédateur et de la proie, assurant la subsistance de la tribu</li>
+  <li>subject_story->a fabriqué les outils de la chasse, apportant ses compétences au défi de la vie sauvage</li>
+  <li>subject_story->s'est assuré une place au sommet de la chaîne alimentaire, par la ruse et l'astuce</li>
+  <li>subject_gerund->la capture des richesses de la nature</li>
+</VFET_Hunting.generalRules.rulesStrings>
+
+<!-- EN: medicine -->
+<VFET_Medicine.label>la médecine</VFET_Medicine.label>
+<!-- EN: Introduce basic herbal treatment methods. -->
+<VFET_Medicine.description>Vous permet d'introduire les soins médicaux de base et les méthodes de traitement à base de plantes. Débloque les métiers Médecin et Patient.</VFET_Medicine.description>
+<!-- EN:
+  <li>subject->foundations of healing</li>
+  <li>subject_story->unveiled the curative powers of nature, blending herbs into the first remedies</li>
+  <li>subject_story->soothed the ails of their kin with poultices and potions, birthed from the wild</li>
+  <li>subject_story->paved the path for the healing arts, bridging the gap between ailment and health</li>
+  <li>subject_gerund->weaving the first threads of wellness</li>
+-->
+<VFET_Medicine.generalRules.rulesStrings>
+  <li>subject->les fondements de la guérison</li>
+  <li>subject_story->a dévoilé les pouvoirs curatifs de la nature, en mélangeant des herbes pour créer les premiers remèdes</li>
+  <li>subject_story->a soigné les maux de ses proches avec des cataplasmes et des potions, nés de la nature</li>
+  <li>subject_story->a ouvert la voie aux arts de la guérison, en comblant le fossé entre le mal et la santé</li>
+  <li>subject_gerund->le tissage des premiers fils du bien-être</li>
+</VFET_Medicine.generalRules.rulesStrings>
+
+<!-- EN: mining -->
+<VFET_Mining.label>le minage</VFET_Mining.label>
+<!-- EN: Develop methods to extract resources from the earth using force. Unlocks mining job. -->
+<VFET_Mining.description>Vous permet de développer des méthodes pour extraire les ressources de la terre en utilisant la force. Débloque le métier Mineur.</VFET_Mining.description>
+<!-- EN:
+  <li>subject->unearthing the earth’s secrets</li>
+  <li>subject_story->delved into the belly of the earth to claim its hidden riches</li>
+  <li>subject_story->crafted the first tools to pierce stone, revealing the minerals within</li>
+  <li>subject_story->laid the groundwork for advancements with the raw materials of progress</li>
+  <li>subject_gerund->chiseling the path to prosperity</li>
+-->
+<VFET_Mining.generalRules.rulesStrings>
+  <li>subject->les secrets de la terre</li>
+  <li>subject_story->a plongé dans le ventre de la terre pour en extraire les richesses cachées</li>
+  <li>subject_story->a créé les premiers outils permettant de percer la pierre et de révéler les minéraux qu'elle contient</li>
+  <li>subject_story->a jeté les bases des progrès avec les matières premières du progrès</li>
+  <li>subject_gerund->le cisèlement de la voie vers la prospérité</li>
+</VFET_Mining.generalRules.rulesStrings>
+
+<!-- EN: tribalwear -->
+<VFET_Tribalwear.label>vêtement tribal</VFET_Tribalwear.label>
+<!-- EN: Learn to craft traditional tribal attire for various purposes. -->
+<VFET_Tribalwear.description>Vous permet d'apprendre à confectionner des vêtements tribaux traditionnels à des fins diverses.</VFET_Tribalwear.description>
+<!-- EN:
+  <li>subject->weaving identity and protection</li>
+  <li>subject_story->fashioned attire that spoke of culture and safeguarded against the harsh world</li>
+  <li>subject_story->blended functionality with tradition, clothing the spirit of their people</li>
+  <li>subject_story->crafted garments that would become the hallmark of their tribe’s identity</li>
+  <li>subject_gerund->dressing the essence of a people</li>
+-->
+<VFET_Tribalwear.generalRules.rulesStrings>
+  <li>subject->le tissage de l'identité et de la protection</li>
+  <li>subject_story->a créé des vêtements qui parlent de culture et protègent contre les intempéries du monde</li>
+  <li>subject_story->a su allier fonctionnalité et tradition, en habillant l'esprit de son peuple</li>
+  <li>subject_story->a confectionné des vêtements qui allaient devenir la marque de l'identité de la tribu</li>
+  <li>subject_gerund->l'habillage de l'essence d'un peuple</li>
+</VFET_Tribalwear.generalRules.rulesStrings>
+
+<!-- EN: weapons -->
+<VFET_Weapons.label>les armes</VFET_Weapons.label>
+<!-- EN: Introduce basic weaponry for defense against enemies. -->
+<VFET_Weapons.description>Vous permet d'introduire les armes de base pour se défendre contre les ennemis.</VFET_Weapons.description>
+<!-- EN:
+  <li>subject->the edge of survival</li>
+  <li>subject_story->forged the first weapons, steeling their tribe against threats</li>
+  <li>subject_story->balanced the scales of nature and conflict with the craft of armament</li>
+  <li>subject_story->ensured their survival through the innovation of defense and offense</li>
+  <li>subject_gerund->arming the hands of fate</li>
+-->
+<VFET_Weapons.generalRules.rulesStrings>
+  <li>subject->le tranchant de la survie</li>
+  <li>subject_story->a forgé les premières armes, permettant à la tribu de se protéger contre les menaces</li>
+  <li>subject_story->a équilibré la balance de la nature et des conflits avec l'art de l'armement</li>
+  <li>subject_story->a assuré leur survie en innovant en matière de défense et d'attaque</li>
+  <li>subject_gerund->l'armement des mains du destin</li>
+</VFET_Weapons.generalRules.rulesStrings>
+
+
+</LanguageData>

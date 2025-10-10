@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: ectoplasm -->
+<VPER_Filth_Ectoplasm.label>ectoplasme</VPER_Filth_Ectoplasm.label>
+
+
+<!-- EN: Mote -->
+<VPER_RuneAlgiz_Particle.label>Mote</VPER_RuneAlgiz_Particle.label>
+
+<!-- EN: Mote -->
+<VPER_RuneEhwaz_Particle.label>Mote</VPER_RuneEhwaz_Particle.label>
+
+<!-- EN: Mote -->
+<VPER_RuneTeiwaz_Particle.label>Mote</VPER_RuneTeiwaz_Particle.label>
+
+
+<!-- EN: warrior spirit -->
+<VPER_WarriorSpirit.label>esprit guerrier</VPER_WarriorSpirit.label>
+<!-- EN: A spirit summoned from beyond this realm, presumably of a Runesmith who had previously fallen in glorious combat. A fairly durable melee combatant that severs limbs with their trusty battleaxe that's followed them from one life to the afterlife. Their physical rune of Mannaz defines their existence, so a single blow to their rune can banish them from this realm. -->
+<VPER_WarriorSpirit.description>Un esprit invoqué depuis l'au-delà, probablement celui d'un forgerune tombé au combat. Il s'agit d'un combattant de mêlée assez endurant qui tranche les membres à l'aide de sa fidèle hache de guerre qui l'a suivi d'une vie à l'autre. Leur rune physique de Mannaz définit leur existence, si bien qu'un seul coup porté à leur rune peut les bannir de ce royaume.</VPER_WarriorSpirit.description>
+<!-- EN: head -->
+<VPER_WarriorSpirit.tools.head.label>tête</VPER_WarriorSpirit.tools.head.label>
+<!-- EN: axe -->
+<VPER_WarriorSpirit.tools.axe-0.label>hache</VPER_WarriorSpirit.tools.axe-0.label>
+<!-- EN: axe -->
+<VPER_WarriorSpirit.tools.axe-1.label>hache</VPER_WarriorSpirit.tools.axe-1.label>
+
+
+<!-- EN: crude runecircle -->
+<VPER_Runecircle_Constructible.label>cercle runique (inférieur)</VPER_Runecircle_Constructible.label>
+<!-- EN: An ancient runecircle used by Psycasters known as "Runesmiths". These Runecircles are the basis of the Runesmithing art, acting as a foci for nearly all of their psycasting abilities.\n\nThis particular runecircle was etched by hand, without psychic assistance. As a result, it doesn't boost the effectiveness of whatever psycast makes use of it. Still, it can be useful as a temporary solution for an overworked Runesmith. -->
+<VPER_Runecircle_Constructible.description>Un ancien cercle runique utilisé par les psylanceurs connus sous le nom de "Forgerune". Ces cercles runiques sont à la base de l'art des forgerunes, et servent de catalyseur à presque toutes leurs capacités de psysorts.\n\nCe cercle runique en particulier a été gravé à la main, sans assistance psychique. Par conséquent, il n'augmente pas l'efficacité du psysort qui l'utilise. Cependant, il peut être utile comme solution temporaire pour un forgerune surchargé.</VPER_Runecircle_Constructible.description>
+
+<!-- EN: greater runecircle -->
+<VPER_Runecircle_Greater.label>cercle runique (supérieur)</VPER_Runecircle_Greater.label>
+<!-- EN: An ancient runecircle used by Psycasters known as "Runesmiths". These Runecircles are the basis of the Runesmithing art, acting as a foci for nearly all of their psycasting abilities.\n\nThis particular runecircle is of immaculate make, the culmination of the Runesmithing art. Though it takes a long time to enscribe, it's imbued with a whopping 150% of the Runesmith's Psychic Sensitivity as Psychic Charge. -->
+<VPER_Runecircle_Greater.description>Un ancien cercle runique utilisé par les psylanceurs connus sous le nom de "Forgerune". Ces cercles runiques sont à la base de l'art des forgerunes, et servent de catalyseur à presque toutes leurs capacités de psysorts.\n\nCe cercle runique en particulier est d'une qualité immaculée, le point culminant de l'art des forgerunes. Bien qu'il soit long à graver, il est imprégné de 150% de la sensibilité psychique du forgerune sous forme de charge psychique.</VPER_Runecircle_Greater.description>
+
+<!-- EN: standard runecircle -->
+<VPER_Runecircle_Standard.label>cercle runique (standard)</VPER_Runecircle_Standard.label>
+<!-- EN: An ancient runecircle used by Psycasters known as "Runesmiths". These Runecircles are the basis of the Runesmithing art, acting as a foci for nearly all of their psycasting abilities.\n\nThis particular runecircle is of a standard make, and used by Runesmiths all over the Rim. It takes a few hours for a Runesmith to enscribe this type of circle, but it holds 50% of their Psychic Sensitivity as Psychic Charge. -->
+<VPER_Runecircle_Standard.description>Un ancien cercle runique utilisé par les psylanceurs connus sous le nom de "Forgerune". Ces cercles runiques sont à la base de l'art des forgerunes, et servent de catalyseur à presque toutes leurs capacités de psysorts.\n\nCe cercle runique en particulier est d'une fabrication standard et est utilisé par les forgerrunes dans toute la Bordure. Il faut quelques heures à un forgerune pour graver ce type de cercle, mais il contient 50% de sa sensibilité psychique sous forme de charge psychique.</VPER_Runecircle_Standard.description>
+
+
+<!-- EN: obelisk iceblast -->
+<VPER_Bullet_Obelisk.label>obélisque éclat de glace</VPER_Bullet_Obelisk.label>
+
+<!-- EN: obelisk iceblast -->
+<VPER_Bullet_Obelisk_Slow.label>obélisque éclat de glace</VPER_Bullet_Obelisk_Slow.label>
+
+<!-- EN: obelisk iceblast -->
+<VPER_Bullet_Obelisk_SlowFragile.label>obélisque éclat de glace</VPER_Bullet_Obelisk_SlowFragile.label>
+
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_1Tier.label>rune Isa</VPER_Gun_Monolith_1Tier.label>
+<!-- EN: A weak rune that fires icy blasts. -->
+<VPER_Gun_Monolith_1Tier.description>Une rune faible qui tire des éclats de glace.</VPER_Gun_Monolith_1Tier.description>
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_1Tier.verbs.Verb_Shoot.label>rune Isa</VPER_Gun_Monolith_1Tier.verbs.Verb_Shoot.label>
+
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_2Tier.label>rune Isa</VPER_Gun_Monolith_2Tier.label>
+<!-- EN: A rune that fires icy blasts. -->
+<VPER_Gun_Monolith_2Tier.description>Une rune qui tire des coups de glace.</VPER_Gun_Monolith_2Tier.description>
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_2Tier.verbs.Verb_Shoot.label>rune Isa</VPER_Gun_Monolith_2Tier.verbs.Verb_Shoot.label>
+
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_3Tier.label>rune Isa</VPER_Gun_Monolith_3Tier.label>
+<!-- EN: A powerful rune that fires icy blasts. -->
+<VPER_Gun_Monolith_3Tier.description>Une rune puissante qui tire des éclats de glace.</VPER_Gun_Monolith_3Tier.description>
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_3Tier.verbs.Verb_Shoot.label>rune Isa</VPER_Gun_Monolith_3Tier.verbs.Verb_Shoot.label>
+
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_4Tier.label>rune Isa</VPER_Gun_Monolith_4Tier.label>
+<!-- EN: A very powerful rune that fires icy blasts. -->
+<VPER_Gun_Monolith_4Tier.description>Une rune très puissante qui tire des éclats de glace.</VPER_Gun_Monolith_4Tier.description>
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_4Tier.verbs.Verb_Shoot.label>rune Isa</VPER_Gun_Monolith_4Tier.verbs.Verb_Shoot.label>
+
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_5Tier.label>rune Isa</VPER_Gun_Monolith_5Tier.label>
+<!-- EN: An excessively powerful rune that fires icy blasts. -->
+<VPER_Gun_Monolith_5Tier.description>Une rune excessivement puissante qui tire des éclats de glace.</VPER_Gun_Monolith_5Tier.description>
+<!-- EN: isa rune -->
+<VPER_Gun_Monolith_5Tier.verbs.Verb_Shoot.label>rune Isa</VPER_Gun_Monolith_5Tier.verbs.Verb_Shoot.label>
+
+<!-- EN: isa obelisk, tier 1 -->
+<VPER_Turret_Monolith_1Tier.label>obélisque Isa (tier 1)</VPER_Turret_Monolith_1Tier.label>
+<!-- EN: A summoned ice monolith, manifested through the physical rune of Isa. Fires at nearby foes until it the rune destabilizes, causing the construct to melt.\n\nCreated with less than 150% Psychic Sensitivity, this monolith was almost certainly created with a basic, uncharged Runecircle. Still, it should be enough to fend off at least a few foes. -->
+<VPER_Turret_Monolith_1Tier.description>Invocation d'un monolithe de glace, manifesté par la rune physique Isa. Il tire sur les ennemis proches jusqu'à ce que la rune se déstabilise, faisant fondre la construction.\n\nCréé avec une sensibilité psychique inférieure à 150%, ce monolithe a certainement été créé avec un cercle runique basique, non chargé. Néanmoins, il devrait suffire à repousser au moins quelques ennemis.</VPER_Turret_Monolith_1Tier.description>
+<!-- EN: Melts in -->
+<VPER_Turret_Monolith_1Tier.comps.CompDestroyAfterDelay.countdownLabel>Fond dans</VPER_Turret_Monolith_1Tier.comps.CompDestroyAfterDelay.countdownLabel>
+
+<!-- EN: isa obelisk, tier 2 -->
+<VPER_Turret_Monolith_2Tier.label>obélisque Isa (tier 2)</VPER_Turret_Monolith_2Tier.label>
+<!-- EN: A summoned ice monolith, manifested through the physical rune of Isa. Fires at nearby foes until it the rune destabilizes, causing the construct to melt.\n\nCreated with Psychic Sensitivity between 150% and 199%, this monolith still leaves something to be desired. Boasts improved durability, range, burst shots, and accuracy when compared to the first tier. -->
+<VPER_Turret_Monolith_2Tier.description>Invocation d'un monolithe de glace, manifesté par la rune physique Isa. Il tire sur les ennemis proches jusqu'à ce que la rune se déstabilise, faisant fondre la construction.\n\nCréé avec une sensibilité psychique comprise entre 150% et 199%, ce monolithe laisse encore à désirer. Sa durabilité, sa portée, ses tirs en rafale et sa précision ont été améliorés par rapport au premier niveau.</VPER_Turret_Monolith_2Tier.description>
+<!-- EN: Melts in -->
+<VPER_Turret_Monolith_2Tier.comps.CompDestroyAfterDelay.countdownLabel>Fond dans</VPER_Turret_Monolith_2Tier.comps.CompDestroyAfterDelay.countdownLabel>
+
+<!-- EN: isa obelisk, tier 3 -->
+<VPER_Turret_Monolith_3Tier.label>obélisque Isa (tier 3)</VPER_Turret_Monolith_3Tier.label>
+<!-- EN: A summoned ice monolith, manifested through the physical rune of Isa. Fires at nearby foes until it the rune destabilizes, causing the construct to melt.\n\nCreated with Psychic Sensitivity between 200% and 299%, this monolith is fairly powerful and will handle most scenarios. Has even higher stats than the previous tier, and the icy blasts now cling to targets on hit, slowing them down. -->
+<VPER_Turret_Monolith_3Tier.description>Invocation d'un monolithe de glace, manifesté par la rune physique Isa. Il tire sur les ennemis proches jusqu'à ce que la rune se déstabilise, faisant fondre la construction.\n\nCréé avec une sensibilité psychique comprise entre 200% et 299%, ce monolithe est assez puissant et peut faire face à la plupart des scénarios. Ses statistiques sont encore plus élevées que celles du niveau précédent, et les éclats de glace s'accrochent désormais aux cibles lorsqu'ils les touchent, ce qui les ralentit.</VPER_Turret_Monolith_3Tier.description>
+<!-- EN: Melts in -->
+<VPER_Turret_Monolith_3Tier.comps.CompDestroyAfterDelay.countdownLabel>Fond dans</VPER_Turret_Monolith_3Tier.comps.CompDestroyAfterDelay.countdownLabel>
+
+<!-- EN: isa obelisk, tier 4 -->
+<VPER_Turret_Monolith_4Tier.label>obélisque Isa (tier 4)</VPER_Turret_Monolith_4Tier.label>
+<!-- EN: A summoned ice monolith, manifested through the physical rune of Isa. Fires at nearby foes until it the rune destabilizes, causing the construct to melt.\n\nCreated with Psychic Sensitivity between 300% and 399%, this monolith is almost perfect. Even now, the stats are improved when compared to the previous iteration of obelisk. -->
+<VPER_Turret_Monolith_4Tier.description>Invocation d'un monolithe de glace, manifesté par la rune physique Isa. Il tire sur les ennemis proches jusqu'à ce que la rune se déstabilise, faisant fondre la construction.\n\nCréé avec une sensibilité psychique comprise entre 300% et 399%, ce monolithe est presque parfait. Même à présent, les statistiques sont améliorées par rapport à l'itération précédente de l'obélisque.</VPER_Turret_Monolith_4Tier.description>
+<!-- EN: Melts in -->
+<VPER_Turret_Monolith_4Tier.comps.CompDestroyAfterDelay.countdownLabel>Fond dans</VPER_Turret_Monolith_4Tier.comps.CompDestroyAfterDelay.countdownLabel>
+
+<!-- EN: isa obelisk, tier 5 -->
+<VPER_Turret_Monolith_5Tier.label>obélisque Isa (tier 5)</VPER_Turret_Monolith_5Tier.label>
+<!-- EN: A summoned ice monolith, manifested through the physical rune of Isa. Fires at nearby foes until it the rune destabilizes, causing the construct to melt.\n\nCreated with Psychic Sensitivity at or over 400%, this monolith embodies the oncoming blizzard. Has the highest stats of any monolith, firing bursts of five icicles that both slow foes and make them vulnerable to further damage. -->
+<VPER_Turret_Monolith_5Tier.description>Invocation d'un monolithe de glace, manifesté par la rune physique Isa. Il tire sur les ennemis proches jusqu'à ce que la rune se déstabilise, faisant fondre la construction.\n\nCréé avec une sensibilité psychique supérieure ou égale à 400%, ce monolithe incarne le blizzard qui s'annonce. Il possède les statistiques les plus élevées de tous les monolithes et tire des rafales de cinq éclats de glace qui ralentissent les ennemis et les rendent vulnérables à d'autres dégâts.</VPER_Turret_Monolith_5Tier.description>
+<!-- EN: Melts in -->
+<VPER_Turret_Monolith_5Tier.comps.CompDestroyAfterDelay.countdownLabel>Fond dans</VPER_Turret_Monolith_5Tier.comps.CompDestroyAfterDelay.countdownLabel>
+
+
+<!-- EN: runesmith battleaxe -->
+<VPER_MeleeWeapon_RunesmithBattleaxe.label>hache de guerre forgerune</VPER_MeleeWeapon_RunesmithBattleaxe.label>
+<!-- EN: A hefty battleaxe commonly used by Runesmiths. While still quite effective at cleaving limbs and splitting skulls, the runes engraved into the axe provide a sizeable boost to psychic sensitivity, almost comparable to that of an eltex staff. However, this comes at the cost of the axe not helping with the dispersion of neural heat, unlike other eltex-threaded equipment. -->
+<VPER_MeleeWeapon_RunesmithBattleaxe.description>Une lourde hache de guerre couramment utilisée par les forgerunes. Bien qu'elle soit efficace pour trancher des membres et fendre des crânes, les runes gravées sur la hache augmentent considérablement la sensibilité psychique, presque autant que celle d'un bâton en eltex. Cependant, la hache n'aide pas à la dissipation de l'échauffement neuronal, contrairement à d'autres équipements en eltex.</VPER_MeleeWeapon_RunesmithBattleaxe.description>
+<!-- EN: handle -->
+<VPER_MeleeWeapon_RunesmithBattleaxe.tools.handle.label>manche</VPER_MeleeWeapon_RunesmithBattleaxe.tools.handle.label>
+<!-- EN: edge -->
+<VPER_MeleeWeapon_RunesmithBattleaxe.tools.edge.label>tranchant</VPER_MeleeWeapon_RunesmithBattleaxe.tools.edge.label>
+
+
+</LanguageData>

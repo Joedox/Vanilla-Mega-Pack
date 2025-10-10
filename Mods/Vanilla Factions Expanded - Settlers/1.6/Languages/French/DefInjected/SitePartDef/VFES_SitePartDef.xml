@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: caravan stop -->
+<CaravanRaid.label>repos d'une caravane</CaravanRaid.label>
+<!-- EN: An unknowing caravan. -->
+<CaravanRaid.description>La caravane prend un temps de repos avant de repartir.</CaravanRaid.description>
+
+
+<!-- EN: safe house -->
+<WantedHideout.label>maison sécurisée</WantedHideout.label>
+<!-- EN: A safe house for a wanted criminal. -->
+<WantedHideout.description>La maison sécurisée d'un criminel recherché.</WantedHideout.description>
+<!-- EN: Attacking {0}. -->
+<WantedHideout.approachingReportString>Attaquer la {0}</WantedHideout.approachingReportString>
+<!-- EN: Attack {0} -->
+<WantedHideout.approachOrderString>Attaque la {0}</WantedHideout.approachOrderString>
+<!-- EN: There is an enemy outpost in this area. -->
+<WantedHideout.arrivedLetter>Il y a un avant-poste ennemi dans cette zone.</WantedHideout.arrivedLetter>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: An unconnected anima nexus tree. -->
+<RitualTargetUnconnectedGaruanlenTreeInfo>Un arbre anima nexus non connecté.</RitualTargetUnconnectedGaruanlenTreeInfo>
+<!-- EN: The {0} has induced an anima nexus pod to sprout nearby. -->
+<RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>Le {0} a incité une gousse de anima nexus à germer à proximité.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+
+<!-- Gauranlen trees/Dryads -->
+<!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} anima nexus tree. {ANIMAL_possessive} master cannot be changed. -->
+<DryadCannotChangeMaster>{ANIMAL_nameDef} est connecté à {MASTER_nameDef} via l'arbre anima nexus. Son maître ne peut pas être modifié.</DryadCannotChangeMaster>
+<!-- EN: Connection strength too low to create anima nexus pod. -->
+<ConnectionStrengthTooWeakForGaumakerPod>Force de connexion trop faible pour créer une nacelle anima nexus.</ConnectionStrengthTooWeakForGaumakerPod>
+
+
+</LanguageData>

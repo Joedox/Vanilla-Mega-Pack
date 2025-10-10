@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VCE_ConsumedMayo.label>mayonnaise (repas)</VCE_ConsumedMayo.label>
+<VCE_ConsumedMayo.description>La mayonnaise est une émulsion épaisse d'œuf, d'huile et d'autres herbes. La mayonnaise, bien que mauvaise pour la santé, ajoute un goût agréable et elle est très calorique. Elle réduit de 15% le taux de faim pendant 12 heures.</VCE_ConsumedMayo.description>
+
+<VCE_ConsumedAgave.label>nectar d'agave (repas)</VCE_ConsumedAgave.label>
+<VCE_ConsumedAgave.description>Le nectar d'agave est un nectar fin et semi-sucré, connu pour ses propriétés cicatrisantes et anti-inflammatoires. Donne un gain de 15% à la vitesse de l'immunité pendant 12 heures.</VCE_ConsumedAgave.description>
+
+<VCE_ConsumedSpices.label>épices (repas)</VCE_ConsumedSpices.label>
+<VCE_ConsumedSpices.description>Consommation d'une variété d'épices aromatiques et piquantes. Elle augmente de 10% la manipulation pendant 12 heures.</VCE_ConsumedSpices.description>
+
+<VCE_WellFed.label>bien nourri (repas grillé)</VCE_WellFed.label>
+<VCE_WellFed.description>J'ai mangé de la viande grillée délicieuse et rassasiante. Elle réduit de 35% le niveau de faim de pendant 12 heures.</VCE_WellFed.description>
+
+<VCE_WellFedSimple.label>bien nourri (repas grillé)</VCE_WellFedSimple.label>
+<VCE_WellFedSimple.description>J'ai mangé de la viande grillée délicieuse et rassasiante. Elle réduit de 35% le niveau de faim de pendant 12 heures.</VCE_WellFedSimple.description>
+
+<VCE_WellFedFine.label>bien nourri (repas grillé)</VCE_WellFedFine.label>
+<VCE_WellFedFine.description>J'ai mangé de la viande grillée délicieuse et rassasiante. Elle réduit de 35% le niveau de faim de pendant 12 heures.</VCE_WellFedFine.description>
+
+<VCE_WellFedLavish.label>bien nourri (repas grillé)</VCE_WellFedLavish.label>
+<VCE_WellFedLavish.description>J'ai mangé de la viande grillée délicieuse et rassasiante. Elle réduit de 35% le niveau de faim de pendant 12 heures.</VCE_WellFedLavish.description>
+
+<VCE_WellFedGourmet.label>bien nourri (repas grillé)</VCE_WellFedGourmet.label>
+<VCE_WellFedGourmet.description>J'ai mangé de la viande grillée délicieuse et rassasiante. Elle réduit de 35% le niveau de faim de pendant 12 heures.</VCE_WellFedGourmet.description>
+
+<VCE_ConsumedDigestibleResurrectorNanites.label>nanites de résurrection (repas)</VCE_ConsumedDigestibleResurrectorNanites.label>
+<VCE_ConsumedDigestibleResurrectorNanites.description>Les nanites de résurrection ressuscitent cette personne tant qu'elles sont présentes. L'effet dure 12 heures.</VCE_ConsumedDigestibleResurrectorNanites.description>
+
+<VCE_AteGourmetMeal.label>nourriture gastronomique (repas)</VCE_AteGourmetMeal.label>
+<VCE_AteGourmetMeal.description>Ce colon a consommé de la nourriture incroyable.</VCE_AteGourmetMeal.description>
+
+<VCE_Cholesterol.label>cholestérol</VCE_Cholesterol.label>
+<VCE_Cholesterol.description>Le corps humain a besoin de cholestérol pour construire des cellules saines, mais un taux élevé de cholestérol peut augmenter le risque de maladie cardiaque. En cas de cholestérol élevé, des dépôts graisseux se forment à l'intérieur des vaisseaux sanguins. Ces dépôts finissent par grossir, ce qui empêche le sang de circuler en quantité suffisante dans les artères.</VCE_Cholesterol.description>
+<VCE_Cholesterol.stages.negligible_no_effect.label>négligeable (pas d'effet)</VCE_Cholesterol.stages.negligible_no_effect.label>
+<VCE_Cholesterol.stages.minor_no_effect.label>mineur (pas d'effet)</VCE_Cholesterol.stages.minor_no_effect.label>
+<VCE_Cholesterol.stages.major.label>majeur</VCE_Cholesterol.stages.major.label>
+<VCE_Cholesterol.stages.extreme.label>extrême</VCE_Cholesterol.stages.extreme.label>
+
+<VCE_Diabetes.label>diabète</VCE_Diabetes.label>
+<VCE_Diabetes.description>Le diabète est un trouble du métabolisme caractérisé par un taux de sucre élevé dans le sang pendant une période prolongée. Les symptômes comprennent souvent des envies fréquentes d'uriner, une augmentation de la soif et une augmentation de l'appétit.</VCE_Diabetes.description>
+<VCE_Diabetes.stages.negligible_no_effect.label>négligeable (pas d'effet)</VCE_Diabetes.stages.negligible_no_effect.label>
+<VCE_Diabetes.stages.minor_no_effect.label>mineur (pas d'effet)</VCE_Diabetes.stages.minor_no_effect.label>
+<VCE_Diabetes.stages.major.label>majeur</VCE_Diabetes.stages.major.label>
+<VCE_Diabetes.stages.extreme.label>extrême</VCE_Diabetes.stages.extreme.label>
+
+<VCE_HighBloodPressure.label>hypertension artérielle</VCE_HighBloodPressure.label>
+<VCE_HighBloodPressure.description>La pression artérielle élevée, également appelée hypertension, est une condition courante dans laquelle la pression à long terme du sang contre les parois de vos artères est suffisamment élevée pour causer des problèmes de santé, tels que des maladies cardiaques.</VCE_HighBloodPressure.description>
+<VCE_HighBloodPressure.stages.negligible_no_effect.label>négligeable (pas d'effet)</VCE_HighBloodPressure.stages.negligible_no_effect.label>
+<VCE_HighBloodPressure.stages.minor_no_effect.label>mineur (pas d'effet)</VCE_HighBloodPressure.stages.minor_no_effect.label>
+<VCE_HighBloodPressure.stages.major.label>majeur</VCE_HighBloodPressure.stages.major.label>
+<VCE_HighBloodPressure.stages.extreme.label>extrême</VCE_HighBloodPressure.stages.extreme.label>
+
+
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!--CompSimpleRepeller.cs-->
+<StringRepelSuccessRate>Taux de réussite</StringRepelSuccessRate>
+
+<!--Building_Inducer.cs-->
+<StringInducerNeedsBugs>Échec : Présence insuffisante d'insectoïdes.</StringInducerNeedsBugs>
+<StringInducerCanFire>Prêt à être activé.</StringInducerCanFire>
+<StringInducerCoolingDown>Temps de recharge restant </StringInducerCoolingDown>
+<StringInducerButton>Activer l'inducteur</StringInducerButton>
+<StringInducerAction>Déclenche une impulsion sonique, invoquant immédiatement une attaque insectoïde.</StringInducerAction>
+
+<!--TurnCompCorpseWithGenes.cs-->
+<StringTissueSource>Extrait de </StringTissueSource>
+
+<!--Building_ArtificialHive.cs-->
+<StringLoadedCulture>Culture chargée : </StringLoadedCulture>
+<StringLoadedCultureNone>Aucune</StringLoadedCultureNone>
+
+<!--Command_SetHiveCulture.cs-->
+<StringCultureNotOwned>Aucune culture de ce type n'a été trouvée sur la carte.</StringCultureNotOwned>
+
+<!--WorkGiver_RefuelGenome-->
+<StringGenomeNotOwned>Génome non disponible</StringGenomeNotOwned>
+
+<!--ThingComp_JellySynthesizer.cs-->
+<StringLoadedGenomeCount>Génomes chargés : </StringLoadedGenomeCount>
+<StringLoadedGenomeEmpty>À court de génomes.</StringLoadedGenomeEmpty>
+
+<!--Command_SetJellyMode.cs-->
+<StringJellySelectGizmo>Réglage : </StringJellySelectGizmo>
+
+<!--Gizmo_JellySynthesizerFuelStatus.cs-->
+<StringGeneticMaterialFuel>Matériel génétique</StringGeneticMaterialFuel>
+
+
+</LanguageData>

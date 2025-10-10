@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFED_DeserterShuttleIncoming.label>navette déserteur (en approche)</VFED_DeserterShuttleIncoming.label>
+<VFED_DeserterShuttleLeaving.label>navette de déserte (en partance)</VFED_DeserterShuttleLeaving.label>
+
+<VFED_DeserterShuttle.label>navette de déserte</VFED_DeserterShuttle.label>
+<VFED_DeserterShuttle.description>Une navette spatiale technologique conçue pour le transit entre la surface et l'orbite, ou entre les lunes d'un système planétaire.</VFED_DeserterShuttle.description>
+
+<VFED_FlagshipChunk.label>débris de vaisseau</VFED_FlagshipChunk.label>
+<VFED_FlagshipChunk.description>Un morceau d'un vaisseau amiral impérial. Il semble avoir été arraché par une arme puissante.\n\nAyant atterri il y a peu de temps, il contient encore des ressources utiles que vous pouvez acquérir en le démantelant.</VFED_FlagshipChunk.description>
+
+<VFED_RemoteTrapIED_HighExplosive.label>piège explosif (RC)</VFED_RemoteTrapIED_HighExplosive.label>
+<VFED_RemoteTrapIED_HighExplosive.description>Une paire d'obus d'artillerie reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_HighExplosive.description>
+
+<VFED_RemoteTrapIED_Incendiary.label>piège incendiaire (RC)</VFED_RemoteTrapIED_Incendiary.label>
+<VFED_RemoteTrapIED_Incendiary.description>Une paire d'obus incendiaires reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_Incendiary.description>
+
+<VFED_RemoteTrapIED_EMP.label>piège IEM (RC)</VFED_RemoteTrapIED_EMP.label>
+<VFED_RemoteTrapIED_EMP.description>Une paire d'obus IEM reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_EMP.description>
+
+<VFED_RemoteTrapIED_Smoke.label>piège fumigène (RC)</VFED_RemoteTrapIED_Smoke.label>
+<VFED_RemoteTrapIED_Smoke.description>Une paire d'obus fumigènes reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_Smoke.description>
+
+<VFED_RemoteTrapIED_Firefoam.label>piège anti-incendie (RC)</VFED_RemoteTrapIED_Firefoam.label>
+<VFED_RemoteTrapIED_Firefoam.description>Une paire d'obus anti-incendie reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_Firefoam.description>
+
+<VFED_RemoteTrapIED_AntigrainWarhead.label>piège à antimatière (RC)</VFED_RemoteTrapIED_AntigrainWarhead.label>
+<VFED_RemoteTrapIED_AntigrainWarhead.description>Une ogive à antimatière reliée à un mécanisme de déclenchement à distance. Elle peut être déclenchée volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_AntigrainWarhead.description>
+
+<VFED_BombPack_Deployed.label>bombe armée</VFED_BombPack_Deployed.label>
+<VFED_BombPack_Deployed.description>Une bombe déployée. Elle est armée et peut exploser en appuyant sur un bouton.</VFED_BombPack_Deployed.description>
+
+<VFED_TrapIED_Shrapnel.label>piège shrapnel improvisé</VFED_TrapIED_Shrapnel.label>
+<VFED_TrapIED_Shrapnel.description>Une paire d'obus shrapnel connecté à un déclencheur par contact ou à l'impact d'une balle. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_TrapIED_Shrapnel.description>
+
+<VFED_TrapIED_ArmorPiercing.label>piège perforant improvisé</VFED_TrapIED_ArmorPiercing.label>
+<VFED_TrapIED_ArmorPiercing.description>Une paire d'obus perforants connecté à un déclencheur par contact ou à l'impact d'une balle. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_TrapIED_ArmorPiercing.description>
+
+<VFED_TrapIED_Cluster.label>piège à fragmentation improvisé</VFED_TrapIED_Cluster.label>
+<VFED_TrapIED_Cluster.description>Une paire d'obus à fragmentation connecté à un déclencheur par contact ou à l'impact d'une balle. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_TrapIED_Cluster.description>
+
+<VFED_RemoteTrapIED_Shrapnel.label>piège shrapnel (RC)</VFED_RemoteTrapIED_Shrapnel.label>
+<VFED_RemoteTrapIED_Shrapnel.description>Une paire d'obus shrapnel reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_Shrapnel.description>
+
+<VFED_RemoteTrapIED_ArmorPiercing.label>piège perforant (RC)</VFED_RemoteTrapIED_ArmorPiercing.label>
+<VFED_RemoteTrapIED_ArmorPiercing.description>Une paire d'obus perforants reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_ArmorPiercing.description>
+
+<VFED_RemoteTrapIED_Cluster.label>piège à fragmentation (RC)</VFED_RemoteTrapIED_Cluster.label>
+<VFED_RemoteTrapIED_Cluster.description>Une paire d'obus à fragmentation reliés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_Cluster.description>
+
+<VFED_Turret_Kontarion.label>kontarion</VFED_Turret_Kontarion.label>
+<VFED_Turret_Kontarion.description>Une arme puissante à longue portée utilisée par l'Empire pour éliminer les cibles ennemies à distance. La tourelle Kontarion tire des projectiles d'uranium ultra-dense à une vitesse incroyable, pénétrant même les blindages les plus lourds. Avec ses capacités de tir rapide, sa grande précision et sa portée infinie, c'est une force avec laquelle il faut compter. Elle est plus précise à plus longue distance mais ne peut pas tirer de près. Peut exploser lorsqu'elle est endommagée.\n\nElle consomme beaucoup de projectiles et a besoin d'une caisse d'obus d'uranium adjacente pour se recharger automatiquement. Elle ne peut pas être rechargée manuellement.</VFED_Turret_Kontarion.description>
+<VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>Obus d'uranium</VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>
+<VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>Nombre de tirs avant rechargement</VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>
+<VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>Besoin d'obus</VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>
+
+<VFED_Gun_Kontarion.label>canon kontarion</VFED_Gun_Kontarion.label>
+<VFED_Gun_Kontarion.description>Canon à obus d'uranium à chargement automatique conçu pour être fixé sur une tourelle.</VFED_Gun_Kontarion.description>
+<VFED_Gun_Kontarion.verbs.Verb_Shoot.label>canon kontarion</VFED_Gun_Kontarion.verbs.Verb_Shoot.label>
+
+<VFED_Turret_Palintone.label>palintone</VFED_Turret_Palintone.label>
+<VFED_Turret_Palintone.description>Puissante arme anti-infanterie utilisée par l'Empire pour défendre les avant-postes sensibles. La tourelle Palintone tire des obus de gros calibre à une vitesse incroyable, infligeant de lourds dégâts sur de grandes distances. Elle tire d'énormes volées de projectiles qui peuvent servir de tirs de suppression et déchiqueter rapidement des cibles légèrement blindées. Grâce à sa puissance de feu dévastatrice, la tourelle Palintone est capable de tenir à distance les forces ennemies les plus imposantes. Peut exploser lorsqu'elle est endommagée.\n\nElle consomme beaucoup de projectiles et a besoin d'une caisse de munitions d'autocanon adjacente pour se recharger automatiquement. Elle ne peut pas être rechargée manuellement.</VFED_Turret_Palintone.description>
+<VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>Munitions d'autocanon</VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>
+<VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>Nombre de tirs avant rechargement</VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>
+<VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>Besoin de munitions</VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>
+
+<VFED_Gun_Palintone.label>canon palintone</VFED_Gun_Palintone.label>
+<VFED_Gun_Palintone.description>Canon à chargement automatique conçu pour être fixé sur une tourelle.</VFED_Gun_Palintone.description>
+<VFED_Gun_Palintone.verbs.Verb_Shoot.label>canon palintone</VFED_Gun_Palintone.verbs.Verb_Shoot.label>
+
+<VFED_Turret_Onager.label>onager</VFED_Turret_Onager.label>
+<VFED_Turret_Onager.description>Une puissante arme antiblindé utilisée par l'Empire pour détruire facilement des cibles lourdement blindées. Capable de lancer des missiles en rafales de 6, l'Onager peut infliger des dégâts dévastateurs aux forces ennemies en peu de temps. La tourelle Onager est particulièrement efficace à courte portée, où ses missiles peuvent être dirigés avec précision vers les positions ennemies. Cependant, elle ne peut pas tirer sur les ennemis trop proches, car les missiles ont besoin d'une certaine distance pour s'armer et suivre leur cible. De plus, en raison du grand nombre de missiles qu'elle tire, l'Onager n'est pas aussi précise que les autres tourelles et peut parfois manquer ses cibles. Peut exploser lorsqu'elle est endommagée.\n\nElle consomme beaucoup de projectiles et a besoin d'une caisse de missiles adjacente pour se recharger automatiquement. Elle ne peut pas être rechargée manuellement.</VFED_Turret_Onager.description>
+<VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>Onager missiles</VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>
+<VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>Nombre de tirs avant rechargement</VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>
+<VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>No missiles</VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>
+
+<VFED_Gun_Onager.label>canon onager</VFED_Gun_Onager.label>
+<VFED_Gun_Onager.description>Un lance-roquettes à chargement automatique conçu pour être fixé sur une tourelle.</VFED_Gun_Onager.description>
+<VFED_Gun_Onager.verbs.Verb_Shoot.label>canon onager</VFED_Gun_Onager.verbs.Verb_Shoot.label>
+<VFFED_Bullet_Onager.label>onager</VFFED_Bullet_Onager.label>
+
+<VFED_Turret_StrikerTurret.label>tourelle d'attaque</VFED_Turret_StrikerTurret.label>
+<VFED_Turret_StrikerTurret.description>Une tourelle stationnaire et puissante. Elle s'autodétruit si elle est suffisamment endommagée.</VFED_Turret_StrikerTurret.description>
+
+<VFED_AmmoBox_UraniumSlug.label>caisse d'obus d'uranium</VFED_AmmoBox_UraniumSlug.label>
+<VFED_AmmoBox_UraniumSlug.description>Boîte de petite taille contenant des obus d'uranium. Utilisée par les tourelles Kontarion pour se recharger. Peut exploser si elle est endommagée.</VFED_AmmoBox_UraniumSlug.description>
+
+<VFED_AmmoBox_Autocannon.label>caisse de munitions d'autocanon</VFED_AmmoBox_Autocannon.label>
+<VFED_AmmoBox_Autocannon.description>Boîte de petite taille contenant des munitions d'autocanon. Utilisée par les tourelles Palintone pour se recharger. Peut exploser lorsqu'elle est endommagée.</VFED_AmmoBox_Autocannon.description>
+
+<VFED_AmmoBox_Missile.label>caisse de missiles</VFED_AmmoBox_Missile.label>
+<VFED_AmmoBox_Missile.description>Boîte de petite taille contenant des missiles. Utilisée par les tourelles Onager pour se recharger. Peut exploser lorsqu'elle est endommagée.</VFED_AmmoBox_Missile.description>
+
+<VFED_SupplyCrate.label>caisse de fournitures</VFED_SupplyCrate.label>
+<VFED_SupplyCrate.description>Une petite caisse impériale contenant des objets de valeur. Peut contenir des renseignements. Pour l'ouvrir, il faut contourner plusieurs protocoles de sécurité et cela prend un peu de temps.</VFED_SupplyCrate.description>
+
+<VFED_BiosecuredCrate.label>caisse biosécurisée</VFED_BiosecuredCrate.label>
+<VFED_BiosecuredCrate.description>Une petite caisse impériale contenant des objets de grande valeur. Peut contenir des renseignements critiques. En raison des restrictions spéciales, seuls les nobles impériaux sont en mesure de l'ouvrir.</VFED_BiosecuredCrate.description>
+
+<VFED_SurveillancePillar.label>pilier de surveillance</VFED_SurveillancePillar.label>
+<VFED_SurveillancePillar.description>Un grand pilier équipé d'une série de capteurs, de caméras et de détecteurs de mouvement. Grâce à un système sophistiqué de reconnaissance faciale, le pilier de surveillance peut détecter la présence de déserteurs dans le rayon et augmentera la visibilité de la faction qui les a envoyés. Il peut être désactivé par une impulsion électromagnétique ou en coupant simplement le réseau électrique.</VFED_SurveillancePillar.description>
+
+<VFED_AerodroneMunitionsCrate.label>caisse de munitions pour aérodrone</VFED_AerodroneMunitionsCrate.label>
+<VFED_AerodroneMunitionsCrate.description>Une grande caisse militaire contenant des munitions pour aérodrones. Explose lorsqu'elle est endommagée, envoyant des obus armés dans toutes les directions.</VFED_AerodroneMunitionsCrate.description>
+
+<VFED_AerodroneBatteryPack.label>bloc de batterie pour aérodrone</VFED_AerodroneBatteryPack.label>
+<VFED_AerodroneBatteryPack.description>Une grande batterie d'aérodrone surchargée. Elle libère une grande impulsion électromagnétique lorsqu'elle est endommagée, ce qui peut désactiver les défenses à proximité.</VFED_AerodroneBatteryPack.description>
+
+<VFED_Aerodrone.label>aérodrone</VFED_Aerodrone.label>
+<VFED_Aerodrone.description>L'Aérodrone est un véhicule aérien sans pilote de technologie spatiale équipé de capteurs avancés et d'une soute à missiles. Conçu pour des opérations autonomes à longue portée, il est couramment utilisé par l'Empire pour la reconnaissance et le bombardement. Sa capacité à lancer de puissantes salves de missiles le rend efficace contre diverses cibles. Cet aérodrone est temporairement désactivé en raison du cycle de recharge.</VFED_Aerodrone.description>
+
+<VFED_ImperialMaxpack.label>maxpack impérial</VFED_ImperialMaxpack.label>
+<VFED_ImperialMaxpack.description>Le maxpack impérial est un formidable camion de transport blindé, connu pour son impressionnante capacité de chargement. Son blindage est impénétrable, ce qui garantit la sécurité de son contenu tout au long du transport. Une fois en mouvement, les portes du maxpack restent scellées jusqu'à ce qu'il atteigne sa destination prédéterminée. S'il est inutile de tenter de piller sa cargaison grâce aux protocoles d'autodestruction intégrés, son extérieur robuste en fait un bouclier idéal sur le champ de bataille.</VFED_ImperialMaxpack.description>
+
+<VFED_StrikeBuoy.label>balise de ciblage</VFED_StrikeBuoy.label>
+<VFED_StrikeBuoy.description>Petite balise de surveillance généralement déployée autour des arrêts temporaires des convois. Reliée directement à un aérodrone en patrouille, elle envoie, une fois déclenchée, une petite salve de missiles à l'endroit où elle se trouve.</VFED_StrikeBuoy.description>
+
+<VFED_FuelTank.label>réservoir de carburant</VFED_FuelTank.label>
+<VFED_FuelTank.description>Un grand réservoir de carburant utilisé pour ravitailler les navettes impériales. Explose s'il est endommagé au-delà d'un certain point, ce qui peut déclencher une réaction en chaîne.</VFED_FuelTank.description>
+
+<VFED_SurveillanceStation.label>console de surveillance</VFED_SurveillanceStation.label>
+<VFED_SurveillanceStation.description>Une grande console conçue pour être reliée aux piliers de surveillance environnants. Elle fournit aux utilisateurs toutes les données nécessaires concernant les mouvements de l'ennemi dans un secteur donné.</VFED_SurveillanceStation.description>
+
+<VFED_SurveillanceDisplayBank.label>banque d'affichage de surveillance</VFED_SurveillanceDisplayBank.label>
+<VFED_SurveillanceDisplayBank.description>Une interface informatique impériale. Reliée à la console de surveillance, la banque d'affichage montre les images en direct de tous les piliers de surveillance du secteur.</VFED_SurveillanceDisplayBank.description>
+
+<VFED_Techprinter.label>matrice schémas techniques</VFED_Techprinter.label>
+<VFED_Techprinter.description>La Matrice schémas techniques est une merveille d'innovation technologique, conçue pour capturer et préserver les connaissances complexes qui résident dans l'esprit d'un techfriar. Ces machines de pointe impriment ces informations inestimables directement sur des disques de techite. Les schémas techniques fournissent des connaissances fondamentales aux chercheurs, mettant en lumière les innovations des sociétés les plus avancées.</VFED_Techprinter.description>
+
+<VFED_TechiteDiscStack.label>pile de disques techite</VFED_TechiteDiscStack.label>
+<VFED_TechiteDiscStack.description>Une pile de disques compacts fabriqués à partir d'élément énigmatique connu sous le nom de techite, produit exclusivement par l'Empire pour la transcription des connaissances. Ils sont principalement conçus pour préserver des informations. Lorsqu'ils s'enflamment, ils libèrent un nuage dense de fumée aveuglante et d'étincelles, susceptible d'enflammer une vaste zone.</VFED_TechiteDiscStack.description>
+
+<VFED_ImperialUnderfarm.label>ferme souterraine impériale</VFED_ImperialUnderfarm.label>
+<VFED_ImperialUnderfarm.description>Une base hydroponique souterraine utilisée par l'empire pour nourrir ses sujets. Entièrement automatisées et reliées aux canalisations d'eau, ces fermes ne nécessitent aucune main d'œuvre.</VFED_ImperialUnderfarm.description>
+
+<VFED_WaterMain.label>pompe à eau principale</VFED_WaterMain.label>
+<VFED_WaterMain.description>Un grand nœud reliant toutes les conduites d'eau environnantes. Nécessaire au fonctionnement des fermes souterraines.</VFED_WaterMain.description>
+
+<VFED_CrashedAerodrone.label>aérodrone écrasé</VFED_CrashedAerodrone.label>
+<VFED_CrashedAerodrone.description>Un aérodrone impérial accidenté.</VFED_CrashedAerodrone.description>
+
+<VFED_ImperialMegaHighShield.label>méga bouclier haut impérial</VFED_ImperialMegaHighShield.label>
+<VFED_ImperialMegaHighShield.description>An advanced shielding apparatus, the Imperial mega high-shield projects a vast momentum repulsor field, allowing shots to exit but preventing any from entering. Specifically calibrated for high angles, it's adept at deflecting incoming mortar rounds, aerodrone strikes and even orbital slicer beams. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. Draws huge amounts of power.</VFED_ImperialMegaHighShield.description>
+
+<VFED_ZeusCannonControlStation.label>poste de contrôle canon Zeus</VFED_ZeusCannonControlStation.label>
+<VFED_ZeusCannonControlStation.description>Ce terminal sert d'interface principale pour le fonctionnement des batteries de canons Zeus. Équipé de commandes et de systèmes de ciblage sophistiqués, le poste de contrôle des canons Zeus assure précision et coordination lors du déploiement de la formidable puissance de feu des canons Zeus. Les utilisateurs doivent se trouver dans le rayon d'action du poste de contrôle pour l'utiliser.</VFED_ZeusCannonControlStation.description>
+
+<VFED_ZeusCannonCapacitorBank.label>banque de condensateurs canon Zeus</VFED_ZeusCannonCapacitorBank.label>
+<VFED_ZeusCannonCapacitorBank.description>Une banque de condensateurs qui transforme l'électricité en énergie brute pour le canon Zeus. Lorsqu'elle est détruite, elle libère une importante impulsion électromagnétique, ce qui peut mettre le canon Zeus hors service.</VFED_ZeusCannonCapacitorBank.description>
+
+<VFED_ZeusCannon.label>canon Zeus</VFED_ZeusCannon.label>
+<VFED_ZeusCannon.description>Vestige de l'ancienne technologie Sophiamundan, le canon Zeus est un secret bien gardé de l'Empire. Cette formidable pièce d'artillerie a la capacité unique de convertir de grandes quantités d'électricité en puissantes explosions d'énergie. D'une portée inégalée, il peut percer l'atmosphère pour cibler et anéantir des objets en orbite. Témoin du génie perdu, il est à la fois une arme et un symbole de la puissance de l'Empire.\n\nIl a un long cycle de charge, après quoi il vise la cible et libère une explosion d'énergie dévastatrice.</VFED_ZeusCannon.description>
+
+<VFED_BurnoutIntelScraper.label>dérobeur de renseignements</VFED_BurnoutIntelScraper.label>
+<VFED_BurnoutIntelScraper.description>Dispositif de déserteur permettant d'intercepter les communications impériales. Lorsqu'il est activé, il commence à collecter des renseignements en émettant une impulsion à intervalles réguliers. Chaque impulsion a une chance de générer une petite quantité de renseignements, mais elle peut aussi augmenter votre visibilité et même alerter une force d'intervention impériale. Au bout de 10 impulsions, la machine s'éteint et déclenche une explosion.</VFED_BurnoutIntelScraper.description>
+
+<VFED_Biodecoder.label>biodécodeur</VFED_Biodecoder.label>
+<VFED_Biodecoder.description>Un biodécodeur est un appareil ultratech à usage unique conçu pour retirer le biocodage de n'importe quel objet. Il utilise un processus complexe pour détacher le biocodage de l'article original, qui transfère le biocodage sur le biodécodeur, le brisant au passage. Le biodécodeur peut également être utilisé sur des caisses biosécurisées pour les ouvrir. Ce dispositif est souvent utilisé dans le cadre d'opérations sensibles où la présence du biocodage pourrait compromettre la mission.</VFED_Biodecoder.description>
+<VFED_Biodecoder.comps.CompUsable.useLabel>Utiliser le {0_label}</VFED_Biodecoder.comps.CompUsable.useLabel>
+
+<VFED_PsychicAmplifier.label>amplificateur psychique</VFED_PsychicAmplifier.label>
+<VFED_PsychicAmplifier.description>Technologie impériale déclassée depuis l'invention des neuro-formateurs de lien psychique, l'amplificateur psychique améliore un lien psychique dans l'esprit de l'utilisateur. Il ne peut pas former de lien psychique par lui-même, et ne peut être utilisé que par des colons ayant déjà un lien psychique. L'utilisateur presse l'appareil dans son œil, où il se connecte directement au cerveau et en restructure une partie. Ensuite, l'appareil se désintègre en cendres sans valeur.</VFED_PsychicAmplifier.description>
+<VFED_PsychicAmplifier.comps.CompUsable.useLabel>Utiliser l'{0_label}</VFED_PsychicAmplifier.comps.CompUsable.useLabel>
+
+<VFED_Intel.label>renseignement</VFED_Intel.label>
+<VFED_Intel.description>Un dossier contenant des informations sur l'Empire. Afin de protéger ces informations du contre-espionnage impérial, elles doivent être stockées sous une forme physique. Elles peuvent être utilisées pour obtenir des objets de contrebande auprès des Déserteurs ou pour accéder à des quêtes, voire à des missions d'assassinat de la noblesse impériale.</VFED_Intel.description>
+
+<VFED_CriticalIntel.label>renseignement critique</VFED_CriticalIntel.label>
+<VFED_CriticalIntel.description>Un dossier contenant des informations critiques sur l'Empire. Afin de protéger ces informations du contre-espionnage impérial, elles doivent être stockées sous une forme physique. Elles peuvent être utilisées pour planifier des tentatives d'assassinat de haut niveau, mais elles peuvent également être échangées contre des renseignements standard via le système de contrebande.</VFED_CriticalIntel.description>
+
+<VFED_Shell_Shrapnel.label>obus shrapnel</VFED_Shell_Shrapnel.label>
+<VFED_Shell_Shrapnel.description>Obus de mortier conçu pour exploser en plein vol et libérer un grand nombre de projectiles tranchants. Ces projectiles sont spécialement conçus pour transpercer les ennemis en armure légère, leur infligeant des blessures graves ou mortelles. Les projectiles sont éjectés avec le même vecteur que l'obus de mortier et peuvent être arrêtés par des obstacles.</VFED_Shell_Shrapnel.description>
+<VFED_Bullet_Shell_Shrapnel.label>obus shrapnel</VFED_Bullet_Shell_Shrapnel.label>
+<VFED_Bullet_Shrapnel.label>shrapnel</VFED_Bullet_Shrapnel.label>
+
+<VFED_Shell_ArmorPiercing.label>obus perforants</VFED_Shell_ArmorPiercing.label>
+<VFED_Shell_ArmorPiercing.description>Les obus perforants sont conçus pour exploser à l'impact et détruire tout ce qu'ils touchent, en traversant complètement le blindage de la cible. Leur rayon d'explosion est presque inexistant et les cibles blindées doivent être touchées directement pour que l'obus les détruise. Ils sont très précis et se déplacent à des vitesses extrêmes.</VFED_Shell_ArmorPiercing.description>
+<VFED_Bullet_Shell_ArmorPiercing.label>obus perforants</VFED_Bullet_Shell_ArmorPiercing.label>
+
+<VFED_Shell_Cluster.label>obus à fragmentation</VFED_Shell_Cluster.label>
+<VFED_Shell_Cluster.description>Obus de mortier conçu pour se séparer en plein vol et libérer trois obus hautement explosifs. Les obus séparés sont éjectés dans des directions aléatoires, en suivant le même vecteur que l'obus à fragmentation. Les explosions couvrent une large zone, mais la précision des obus laisse à désirer.</VFED_Shell_Cluster.description>
+<VFED_Bullet_Shell_Cluster.label>obus à fragmentation</VFED_Bullet_Shell_Cluster.label>
+
+<VFED_Apparel_BombPack.label>bombe inerte</VFED_Apparel_BombPack.label>
+<VFED_Apparel_BombPack.description>Dispositif explosif portatif à usage unique. Déployé au sol, il est armé et peut être déclenché en appuyant sur le bouton. Il génère une grande explosion grâce à une ogive à antimatière connectée, ce qui lui permet de détruire aussi bien les infrastructures critiques que le personnel.</VFED_Apparel_BombPack.description>
+
+<VFED_Apparel_InvisibilityEngulfer.label>engloutisseur d'invisibilité</VFED_Apparel_InvisibilityEngulfer.label>
+<VFED_Apparel_InvisibilityEngulfer.description>Dispositif d'invisibilité personnel à usages multiples, conçu à partir d'une technologie impériale expérimentale. Il permet à l'utilisateur de devenir complètement invisible pendant une courte durée, après quoi l'appareil doit être rechargé pendant un court laps de temps.</VFED_Apparel_InvisibilityEngulfer.description>
+
+<VFED_DeserterDeclassifier.label>déclasseur déserteur</VFED_DeserterDeclassifier.label>
+<VFED_DeserterDeclassifier.description>Le déclasseur déserteur est un appareil ultratech à usage unique composé d'un appareil de balayage cérébral et d'une aiguille longue et épaisse. Il est principalement utilisé par les déserteurs impériaux pour l'extraction de données. En insérant l'aiguille dans le crâne d'un noble titré, des souvenirs peuvent être téléchargés de son cerveau, ce qui permet d'obtenir de précieux renseignements pour les déserteurs. La quantité de renseignements reçus est déterminée par le rang du noble. La personne victime du déclasseur déserteur meurt au cours du processus et, lorsqu'il est utilisé sur des visiteurs neutres, il est considéré comme un acte de guerre.</VFED_DeserterDeclassifier.description>
+
+<VFED_Mote_AerodroneStrike.label>Mote</VFED_Mote_AerodroneStrike.label>
+<VFED_Mote_ProximityScannerRadius_Orange.label>Mote</VFED_Mote_ProximityScannerRadius_Orange.label>
+<VFED_Mote_ActivatorProximityGlow_Orange.label>Mote</VFED_Mote_ActivatorProximityGlow_Orange.label>
+<VFED_Mote_ProximityScannerRadius_Green.label>Mote</VFED_Mote_ProximityScannerRadius_Green.label>
+<VFED_Mote_ActivatorProximityGlow_Green.label>Mote</VFED_Mote_ActivatorProximityGlow_Green.label>
+
+<VFED_Filth_Propaganda.label>propagande impériale</VFED_Filth_Propaganda.label>
+
+<VFED_AerodroneStrikeIncoming.label>frappe d'aérodrone</VFED_AerodroneStrikeIncoming.label>
+
+<VFED_Spark.label>étincelle</VFED_Spark.label>
+
+<VFED_Gun_ChargeCycler.label>cycleur à impulsion</VFED_Gun_ChargeCycler.label>
+<VFED_Gun_ChargeCycler.description>Un revolver à impulsion modifié qui incorpore la technologie des mécanoïdes. Les canons à percussion récupérés ont été modifiés pour permettre la création d'un puissant revolver à impulsion doté de deux modes de tir.\n\nLe mode de tir à impulsion permet d'éliminer les cibles proches avec une puissante explosion perforante.\nLe mode de tir à percussion permet aux utilisateurs de neutraliser les ennemis et de briser les défenses derrière lesquelles ils pourraient se cacher.\n\nLes modes peuvent être modifiés d'une simple pression sur le bouton.</VFED_Gun_ChargeCycler.description>
+<VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.0.label>Tir unique (impulsion)</VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.0.label>
+<VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.1.label>Tir unique (percussion)</VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.1.label>
+<VFED_Gun_ChargeCycler.tools.handle.label>poignée</VFED_Gun_ChargeCycler.tools.handle.label>
+<VFED_Gun_ChargeCycler.tools.barrel.label>canon</VFED_Gun_ChargeCycler.tools.barrel.label>
+<VFED_Gun_ChargeCycler.verbs.Single_shot_Charged_shot.label>Tir unique (impulsion)</VFED_Gun_ChargeCycler.verbs.Single_shot_Charged_shot.label>
+<VFED_Gun_ChargeCycler.verbs.Single_shot_Thump_shot.label>Tir unique (percussion)</VFED_Gun_ChargeCycler.verbs.Single_shot_Thump_shot.label>
+<VFED_Bullet_ChargedShot.label>tir à impulsion</VFED_Bullet_ChargedShot.label>
+<VFEE_Bullet_ThumpShot.label>tir à percussion</VFEE_Bullet_ThumpShot.label>
+
+<VFED_Gun_Fletchling.label>archier</VFED_Gun_Fletchling.label>
+<VFED_Gun_Fletchling.description>Modification du rarissime fusil fléchier, l'archier est un fusil à pompe couramment utilisé par les déserteurs impériaux. Le simple fait de le posséder peut être considéré comme un acte de guerre contre l'Empire. Chaque tir de fletchling libère un certain nombre de petites fléchettes acidifiantes qui peuvent atteindre plusieurs cibles, provoquant une douleur extrême et des brûlures acides. Ces fléchettes sont mortelles pour les organiques mais quasiment inutiles contre les non-organiques, tels que les mécanoïdes.\n\nLes cibles touchées par ces fléchettes se verront infliger une variante instable des fluides acidifiants, conçue pour dissoudre la cible de l'intérieur plutôt que de détruire son équipement. L'acide se répand dans le corps de la cible et dissout généralement les organes vitaux, mais la létalité n'est pas garantie.</VFED_Gun_Fletchling.description>
+<VFED_Gun_Fletchling.tools.barrel.label>canon</VFED_Gun_Fletchling.tools.barrel.label>
+<VFED_Gun_Fletchling.verbs.Verb_Shoot.label>archier</VFED_Gun_Fletchling.verbs.Verb_Shoot.label>
+<VFEE_Bullet_FletchlingDart.label>fléchette d'archier</VFEE_Bullet_FletchlingDart.label>
+
+<VFED_DropPodIncoming_Propaganda.label>capsule de largage (en approche)</VFED_DropPodIncoming_Propaganda.label>
+
+<VFED_RemoteTrapIED_ToxGas.label>piège tox (RC)</VFED_RemoteTrapIED_ToxGas.label>
+<VFED_RemoteTrapIED_ToxGas.description>Une paire d'obus tox connectés à un mécanisme de déclenchement à distance. Il peut être déclenché volontairement, mais la durée de la détonation peut varier. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</VFED_RemoteTrapIED_ToxGas.description>
+
+
+</LanguageData>

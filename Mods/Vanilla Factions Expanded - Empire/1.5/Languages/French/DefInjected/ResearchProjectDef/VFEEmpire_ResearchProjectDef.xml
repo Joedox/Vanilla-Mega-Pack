@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEE_PipeOrgans.label>orgue à tuyaux</VFEE_PipeOrgans.label>
+<VFEE_PipeOrgans.description>Vous permet de fabriquer des orgues à tuyaux, un instrument de musique fixe incroyablement avancé et complexe.</VFEE_PipeOrgans.description>
+<VFEE_PipeOrgans.generalRules.rulesStrings>
+    <li>subject->la maîtrise musicale</li>
+    <li>subject_story->a fabriqué des instruments qui ont résonné dans les cathédrales et les salles de concert</li>
+    <li>subject_story->a combiné les traditions anciennes et l'acoustique moderne pour créer une symphonie de sons</li>
+    <li>subject_story->a inventé un orgue dont les tuyaux imitaient la voix du divin</li>
+    <li>subject_gerund->l'harmonisation de l'artisanat et de l'art</li>
+</VFEE_PipeOrgans.generalRules.rulesStrings>
+
+<VFEE_NobleDecorations.label>décorations de nobles</VFEE_NobleDecorations.label>
+<VFEE_NobleDecorations.description>Vous permet de construire des décorations nobles comme des tapis royaux, des miroirs, des chaises grandioses, des dalles impériales, des chandeliers, et plus encore.</VFEE_NobleDecorations.description>
+<VFEE_NobleDecorations.generalRules.rulesStrings>
+    <li>subject->l'élégance aristocratique</li>
+    <li>subject_story->a conçu des espaces de vie dignes des rois et des reines</li>
+    <li>subject_story->a apporté beauté et luxe à la vie austère de la noblesse</li>
+    <li>subject_story->a défini les normes de l'opulence dans un décor qui a duré des siècles</li>
+    <li>subject_gerund->l'élévation des intérieurs à des niveaux royaux</li>
+</VFEE_NobleDecorations.generalRules.rulesStrings>
+
+<VFEE_StellicThrone.label>trône stellaire</VFEE_StellicThrone.label>
+<VFEE_StellicThrone.description>Vous permet de construire le plus grand et le plus beau trône stellaire pour votre haute noblesse.</VFEE_StellicThrone.description>
+<VFEE_StellicThrone.generalRules.rulesStrings>
+    <li>subject->l'artisanat royal</li>
+    <li>subject_story->a forgé un trône à partir du cœur d'une étoile tombée au champ d'honneur, symbolisant le règne éternel</li>
+    <li>subject_story->a créé non seulement un siège, mais aussi un héritage, en veillant à ce que la présence du dirigeant soit ressentie même en son absence</li>
+    <li>subject_story->a fusionné l'art de la forge et les matériaux célestes pour créer un trône digne des légendes</li>
+    <li>subject_gerund->la création de l'apogée du pouvoir de la noblesse</li>
+</VFEE_StellicThrone.generalRules.rulesStrings>
+
+<VFEE_JanissaryGear.label>équipement de janissaire</VFEE_JanissaryGear.label>
+<VFEE_JanissaryGear.description>Vous permet de fabriquer une armure de janissaire, une armure légère motorisée couramment utilisée par les troupes de reconnaissance impériales. Notez qu'elles nécessitent également des composants avancés.</VFEE_JanissaryGear.description>
+<VFEE_JanissaryGear.generalRules.rulesStrings>
+    <li>subject->l'ingénierie de guerre d'élite</li>
+    <li>subject_story->a conçu des armures qui allient les anciennes traditions guerrières au summum de la technologie de défense moderne</li>
+    <li>subject_story->a équipé les éclaireurs de matériel qui a permis d'inverser le cours des opérations secrètes</li>
+    <li>subject_story->a créé un héritage de guerriers redoutés à la fois pour leurs prouesses et leur équipement inégalé</li>
+    <li>subject_gerund->l'avenir de l'habillement militaire</li>
+</VFEE_JanissaryGear.generalRules.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Purple events / Earliest day : 180 / Earliest re fire : 300 days -->
+<VEE_IceAge.label>ère glaciaire</VEE_IceAge.label>
+<VEE_IceAge.letterText>La composition atmosphérique de la planète a radicalement changé, entraînant une baisse significative de la température.\n\nLa flore et la faune souffrent de ces changements alors que les biomes se transforment en leurs homologues plus froids. Les ressources deviennent rares, forçant les factions à entrer en conflit.\n\nElle durera entre une saison et plusieurs années. (Les modifications visuelles n'apparaîtront que lors de la sauvegarde et du chargement de cette sauvegarde)</VEE_IceAge.letterText>
+<VEE_IceAge.letterLabel>Ère Glaciaire</VEE_IceAge.letterLabel>
+
+<VEE_GlobalWarming.label>réchauffement climatique</VEE_GlobalWarming.label>
+<VEE_GlobalWarming.letterText>Les températures mondiales ont soudainement atteint des niveaux dangereux.\n\nLa flore et la faune souffrent de ces changements alors que les biomes se transforment en leurs homologues plus chauds. Les ressources deviennent rares, forçant les factions à entrer en conflit.\n\nIl durera entre une saison et plusieurs années. (Les modifications visuelles n'apparaîtront que lors de la sauvegarde et du chargement de cette sauvegarde)</VEE_GlobalWarming.letterText>
+<VEE_GlobalWarming.letterLabel>Réchauffement Climatique</VEE_GlobalWarming.letterLabel>
+
+<VEE_PsychicRain.label>pluie psychique</VEE_PsychicRain.label>
+<VEE_PsychicRain.letterText>Une entité psychique dangereuse a provoqué des perturbations aux niveaux subatomiques, résonnant à travers toutes les particules de l'atmosphère.\n\nUne pluie surnaturelle apparemment interminable a commencé, modifiant la composition même du temps. Toute personne ou créature qui n'est pas sous un toit vieillira beaucoup plus rapidement.\n\nElle durera entre une saison et plusieurs années.</VEE_PsychicRain.letterText>
+<VEE_PsychicRain.letterLabel>Pluie Psychique</VEE_PsychicRain.letterLabel>
+
+<VEE_LongNight.label>longue nuit</VEE_LongNight.label>
+<VEE_LongNight.letterText>Une entité spatiale de taille inimaginable a recouvert une étoile locale, ce qui provoque une éclipse de longue durée.\n\nTerrifiées par ce phénomène surnaturel, d'autres factions l’utiliseront comme prétexte pour faire la guerre et des conflits éclateront à travers le monde.\n\nElle durera entre une saison et plusieurs années.</VEE_LongNight.letterText>
+<VEE_LongNight.letterLabel>Longue Nuit</VEE_LongNight.letterLabel>
+
+<VEE_PsychicBloom.label>floraison psychique</VEE_PsychicBloom.label>
+<VEE_PsychicBloom.letterText>Une forte impulsion psychique émise par une entité longtemps oubliée a modifié la structure génétique même de la flore locale. Tandis que le ciel se remplissait d'aurores apparemment sans fin, des fleurs colorées se sont mises à fleurir partout.\n\nTous les colons gagneront une humeur positive le temps de l'événement. Les fleurs qui se répandent rapidement vont tout envahir, y compris vos champs.\n\nElle durera entre quelques jours et une saison.</VEE_PsychicBloom.letterText>
+<VEE_PsychicBloom.letterLabel>Floraison Psychique</VEE_PsychicBloom.letterLabel>
+
+<!-- Regular events -->
+<VEE_MeteoriteShower.label>pluie météorite</VEE_MeteoriteShower.label>
+<VEE_MeteoriteShower.letterText>Plusieurs grosses météorites ont touché le sol dans la région. Elles ont laissé derrière elles de gros quantités de ressources.</VEE_MeteoriteShower.letterText>
+<VEE_MeteoriteShower.letterLabel>Pluie Météorites</VEE_MeteoriteShower.letterLabel>
+
+<VEE_AnimalPodCrash.label>capsule de sauvetage d'animal</VEE_AnimalPodCrash.label>
+
+<VEE_WandererJoinsTraitor.label>un vagabond vous rejoint (traître)</VEE_WandererJoinsTraitor.label>
+
+<VEE_SpaceBattle.label>Bataille Spatiale</VEE_SpaceBattle.label>
+<VEE_SpaceBattle.letterText>Plusieurs vaisseaux spatiaux massifs se sont engagés dans des combats en orbite de la planète. Les tirs manqués et les débris peuvent avoir un impact sur le sol dans la zone. Cela peut entraîner plusieurs incendies.</VEE_SpaceBattle.letterText>
+<VEE_SpaceBattle.letterLabel>Bataille Spatiale</VEE_SpaceBattle.letterLabel>
+
+<VEE_ShuttleCrash.label>Crash d'une navette</VEE_ShuttleCrash.label>
+<VEE_Earthquake.label>Tremblement de terre</VEE_Earthquake.label>
+<VEE_Cargopodsweapons.label>Capsule Cargo (Armes)</VEE_Cargopodsweapons.label>
+<VEE_Cargopodsapparel.label>Capsule Cargo (Équipements)</VEE_Cargopodsapparel.label>
+<VEE_CaravanAnimalsWanderIn.label>Animaux d'une caravane</VEE_CaravanAnimalsWanderIn.label>
+<VEE_CropSprout.label>Germes de culture</VEE_CropSprout.label>
+<VEE_BattleAnimalsWanderIn.label>Animaux domestique</VEE_BattleAnimalsWanderIn.label>
+
+<VEE_Drought.label>Sécheresse</VEE_Drought.label>
+<VEE_Drought.letterText>Une sécheresse inhabituelle s'est installée.\n\nLa sécheresse est dévastatrice pour la vie végétale et détruira rapidement toutes les cultures non plantées en culture hydroponique. Assurez-vous de récolter rapidement toutes les plantes que vous pouvez.</VEE_Drought.letterText>
+<VEE_Drought.letterLabel>Sécheresse</VEE_Drought.letterLabel>
+
+<VEE_WildMenWanderIn.label>Hommes sauvages</VEE_WildMenWanderIn.label>
+<VEE_HuntingParty.label>Partie de chasse</VEE_HuntingParty.label>
+
+<!-- Purple event attracted events -->
+<RaidEnemyPurple.label>raid ennemi de l'ère glaciaire</RaidEnemyPurple.label>
+<ManhunterPackPurple.label>meute chasseur d'homme</ManhunterPackPurple.label>
+<AnimalInsanityMassPurple.label>folie animale de masse</AnimalInsanityMassPurple.label>
+
+
+</LanguageData>

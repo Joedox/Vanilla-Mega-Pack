@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Furniture Expanded - Props and Decor</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordArmory"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Armurerie</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordArmory"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Armurerie</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordBarracks"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Caserne</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordBarracks"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Caserne</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordCafeteria"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cafeteria</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordCafeteria"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cafeteria</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordCargo"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cargaison</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordCargo"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cargaison</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordChamber"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Chambre</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordChamber"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Chambre</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordClimate"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Climat</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordClimate"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Climat</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordCommand"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Commande</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordCommand"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Commande</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordControl"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Controle</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordControl"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Controle</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordEngineer"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Machines</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordEngineer"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Machines</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordFarming"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Agricole</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordFarming"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Agricole</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordFreezer"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Congelateur</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordFreezer"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Congelateur</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordFridge"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Refrigerateur</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordFridge"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Refrigerateur</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordHangar"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Hangar</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordHangar"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Hangar</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordHospital"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Hopital</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordHospital"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Hopital</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordKill"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Abattre</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordKill"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Abattre</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordKitchen"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cuisine</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordKitchen"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cuisine</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordLanding"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Atterrissage</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordLanding"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Atterrissage</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordMedical"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Medecine</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordMedical"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Medecine</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordMorgue"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Morgue</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordMorgue"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Morgue</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordMortar"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Mortier</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordMortar"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Mortier</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordPlay"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Jeu</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordPlay"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Jeu</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordPrison"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Prison</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordPrison"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Prison</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordReactor"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Reacteur</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordReactor"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Reacteur</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordRecreation"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Loisir</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordRecreation"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Loisir</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordRefinery"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Raffinerie</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordRefinery"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Raffinerie</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordRelax"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Detente</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordRelax"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Detente</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordResearch"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Recherche</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordResearch"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Recherche</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSecurity"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Jeu</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSecurity"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Securite</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordShipping"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Expedition</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordShipping"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Expedition</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSleeping"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Dormir</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSleeping"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Dormir</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmelting"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Fonderie</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmelting"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Fonderie</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordStorage"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Stockage</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordStorage"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Stockage</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordWarning"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Alerte</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordWarning"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Alerte</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordWorkshop"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Atelier</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordWorkshop"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Atelier</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallBay"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Soute</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallBay"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Soute</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallCell"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cellule</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallCell"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Cellule</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallClear"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Vide</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallClear"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Vide</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallDock"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Quai</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallDock"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Quai</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallGas"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Gaz</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallGas"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Gaz</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallKeep"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Donjon</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallKeep"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Donjon</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallRoom"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Salle</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallRoom"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Salle</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallWing"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Aile</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace"> 
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallWing"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Aile</texPath>
+			</value>
+		</li>
+
+        <li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_LargeDecalWordSmallLab"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Labo</texPath>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName = "VFEPD_DecalWordSmallLab"]/graphicData/texPath</xpath>
+			<value>
+				<texPath>Things/Labo</texPath>
+			</value>
+		</li>
+
+      </operations>
+    </match>
+  </Operation>
+
+</Patch>

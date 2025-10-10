@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<VFEAncients.SolarPowerUp>L'éruption solaire s'intensifie</VFEAncients.SolarPowerUp>
+<VFEAncients.TabPowers>Pouvoir</VFEAncients.TabPowers>
+<VFEAncients.Superpowers>Superpouvoir</VFEAncients.Superpowers>
+<VFEAncients.Weaknesses>Faiblesses</VFEAncients.Weaknesses>
+<VFEAncients.Effects>Effet :</VFEAncients.Effects>
+<VFEAncients.Effect.AddAbility>Donne la capacité : {0}</VFEAncients.Effect.AddAbility>
+<VFEAncients.Effect.AddHediff>Ajoute l'état de santé : {0}</VFEAncients.Effect.AddHediff>
+<VFEAncients.Effect.NullThought>Annuler la pensée : {0}</VFEAncients.Effect.NullThought>
+<VFEAncients.MarksmanshipTooltip>100% (Tir de précision)</VFEAncients.MarksmanshipTooltip>
+<VFEAncients.Reason.KilledSomeone>Raison : A tué quelqu'un</VFEAncients.Reason.KilledSomeone>
+<VFEAncients.Reason.Rejected>Raison : Repoussé par {0}</VFEAncients.Reason.Rejected>
+<VFEAncients.CannotPrioritizeAudacious>Impossible d'établir des priorités : {0} est audacieux</VFEAncients.CannotPrioritizeAudacious>
+<VFEAncients.IncapableOfTooltipPower>Causé par le pouvoir : {0}</VFEAncients.IncapableOfTooltipPower>
+<VFEAncients.NotInMentalState>Pas d'état mental</VFEAncients.NotInMentalState>
+<VFEAncients.NotAnimal>Pas un animal</VFEAncients.NotAnimal>
+<VFEAncients.Tame>Non applicable aux animaux apprivoisés</VFEAncients.Tame>
+<VFEAncients.NoTargets>Pas de cible possible</VFEAncients.NoTargets>
+<VFEAncients.RefillsIn>Recharge dans {0}</VFEAncients.RefillsIn>
+<VFEAncients.EnterGeneTailoringPod>Entrer dans la capsule d'adaptation génétique.</VFEAncients.EnterGeneTailoringPod>
+<VFEAncients.CarryToGeneTailoringPod>Porter {0} à la capsule d'adaptation génétique.</VFEAncients.CarryToGeneTailoringPod>
+<VFEAncients.CarryToBioBattery>Porter {0} à la bio-batterie</VFEAncients.CarryToBioBattery>
+<VFEAncients.Empower>Ajouter un superpouvoir</VFEAncients.Empower>
+<VFEAncients.RemoveWeakness>Retirer une faiblesse</VFEAncients.RemoveWeakness>
+<VFEAncients.Empowered.Label>Succès de l'expérience : {0}</VFEAncients.Empowered.Label>
+<VFEAncients.Empowered.Text>L'expérience dans la capsule d'adaptation génétique a été un succès ! {0} a acquis le pouvoir {1}, mais également la faiblesse {2}.</VFEAncients.Empowered.Text>
+<VFEAncients.RemoveWeakness.Label>Succès de l'expérience : {0}</VFEAncients.RemoveWeakness.Label>
+<VFEAncients.RemoveWeakness.Text>L'expérience de la capsule d'adaptation génétique a été un succès ! {0} a perdu la faiblesse {1}.</VFEAncients.RemoveWeakness.Text>
+<VFEAncients.StartOperation>Démarrer l'opération</VFEAncients.StartOperation>
+<VFEAncients.CurrentOperation>Opération en cours</VFEAncients.CurrentOperation>
+<VFEAncients.ExperimentFailed>Échec de l'expérience</VFEAncients.ExperimentFailed>
+<VFEAncients.Death>Mort</VFEAncients.Death>
+<VFEAncients.ExperimentFailed.Death>Le sujet est mort et l'expérience a échoué. Aucun nouveau pouvoir n'a été accordé.</VFEAncients.ExperimentFailed.Death>
+<VFEAncients.Berserk>Folie furieuse</VFEAncients.Berserk>
+<VFEAncients.ExperimentFailed.Berserk>Le sujet a subi de graves lésions cérébrales et il est devenu fou. Aucun nouveau pouvoir n'a été accordé.</VFEAncients.ExperimentFailed.Berserk>
+<VFEAncients.BrainDeath>Mort cérébrale</VFEAncients.BrainDeath>
+<VFEAncients.ExperimentFailed.BrainDeath>Le sujet a subi une défaillance complète des fonctions cérébrales et il est maintenant en état de mort cérébrale. Aucun nouveau pouvoir n'a été accordé.</VFEAncients.ExperimentFailed.BrainDeath>
+<VFEAncients.LaunchSupplies>Lancer</VFEAncients.LaunchSupplies>
+<VFEAncients.ExpiryIn>Autodestruction dans {0}</VFEAncients.ExpiryIn>
+<VFEAncients.MessageNoWardenCapableOfRecruitment>Aucun geôlier n'est capable de ce recrutement.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+<VFEAncients.InterrogationSuccess>Succès de l'interrogatoire</VFEAncients.InterrogationSuccess>
+<VFEAncients.InterrogationSuccessDetail>{0} a réussi à interroger {1}, qui a révélé la localisation d'un {2}.</VFEAncients.InterrogationSuccessDetail>
+<VFEAncients.InterrogationFailure>Échec de l'interrogatoire !</VFEAncients.InterrogationFailure>
+<VFEAncients.DeterioratingUncontained>non confiné</VFEAncients.DeterioratingUncontained>
+<VFEAncients.FireAtPods>Tirer sur capsule de transport</VFEAncients.FireAtPods>
+<VFEAncients.FireAtPawns>Tirer sur ennemis</VFEAncients.FireAtPawns>
+<VFEAncients.FireAtProjectiles>Tirer sur projectiles explosifs</VFEAncients.FireAtProjectiles>
+<VFEAncients.FireAtPodsDesc>Autoriser la tourelle de défense à tirer sur les capsules de transport qui contiennent des raiders ennemis.</VFEAncients.FireAtPodsDesc>
+<VFEAncients.FireAtPawnsDesc>Autoriser la tourelle de défense à tirer sur les colons ennemis à portée, comme le ferait une tourelle normale.</VFEAncients.FireAtPawnsDesc>
+<VFEAncients.FireAtProjectilesDesc>Autoriser la tourelle de défense à tirer sur les projectiles explosifs entrants, tels que les roquettes et les obus de mortier.</VFEAncients.FireAtProjectilesDesc>
+<VFEAncients.PowerChoice>Le processus d'injection des super-nanites est terminé. Votre laboratoire étant équipé d’un échantillonneur de nanites, vous devez choisir pour {0} un des pouvoirs ci-dessous.</VFEAncients.PowerChoice>
+<VFEAncients.Select>Choisir</VFEAncients.Select>
+<VFEAncients.MassLeft>Mass Left: {0} / {1} ({2})</VFEAncients.MassLeft>
+<VFEAncients.AlreadyMetaMorph>Déjà sous une forme animale</VFEAncients.AlreadyMetaMorph>
+<VFEAncients.CancelOp>Annuler l'opération</VFEAncients.CancelOp>
+<VFEAncients.ConfirmSendPawn>Cette fronde d'approvisionnement contient le colon {PAWN_labelShort}. Vous ne pourrez pas {PAWN_gender ? le : la } récupérer si vous l'envoyez. Lancer quand même ?</VFEAncients.ConfirmSendPawn>	<!-- This supply slingshot contains the pawn {PAWN_labelShort}. You will not be able to get {PAWN_pronoun} back if you send {PAWN_pronoun} away. Launch anyway? -->
+<VFEAncients.CancelOpDesc>Annuler l’opération sur {PAWN} et éjecter {PAWN_gender ? le : la } de la capsule d'adaptation génétique.</VFEAncients.CancelOpDesc>
+<VFEAncients.ExperimentFailureWarning>L'exécution de cette expérience a une chance de {0} d'échouer. Ceci est dû à : {4}\n\nCette situation pourrait être réduite en trouvant et en installant certains de ces bâtiments :\n{1}\n\nL'expérience prendra {2} et ne peut être arrêtée une fois commencée. Ceci est affecté par : {3}</VFEAncients.ExperimentFailureWarning>
+<VFEAncients.SupplyCrateArrived>Une caisse de ravitaillement est en train de se poser à proximité. Elle provient d'un autre abri et contient des objets de valeur égale à ceux que vous avez envoyés.</VFEAncients.SupplyCrateArrived>
+<VFEAncients.EnableGloryKillMusic>Activer la musique du "Massacre glorieux"</VFEAncients.EnableGloryKillMusic>
+<VFEAncient.GeneTailorNoFuel>La capsule d'adaptation génétique n'est pas alimentée.</VFEAncient.GeneTailorNoFuel>
+<VFEAncient.MustBeHumanlike>Doit être humain</VFEAncient.MustBeHumanlike>
+<VFEAncient.GeneTailorOccupied>La capsule d'adaptation génétique est occupée.</VFEAncient.GeneTailorOccupied>
+<VFEAncient.AvailableOperationsCannotBeApplied>Les opérations disponibles ne peuvent pas lui être appliquées.</VFEAncient.AvailableOperationsCannotBeApplied>
+<VFEAncients.RepairMat>Réparation d'objet</VFEAncients.RepairMat>
+<VFEAncients.MatForRepair>Quel matériau doit être utilisé pour réparer cet objet à l'établi de réparation ?</VFEAncients.MatForRepair>
+<VFEAncients.ResurrectsIn>Ressuscite dans</VFEAncients.ResurrectsIn>
+
+</LanguageData>

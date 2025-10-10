@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Summon Fingerspike -->
+<VPE_BabyFleshSummonSTNL.label>invoquer une digipointe</VPE_BabyFleshSummonSTNL.label>
+<!-- EN: Pry into the rotting corners of the void to summon a Fingerspike to help you in battle. -->
+<VPE_BabyFleshSummonSTNL.description>Pénètre dans les recoins pourris du néant afin d'invoquer une digipointe pour vous aider au combat.</VPE_BabyFleshSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BabyFleshSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_BabyFleshSummonSTNL.jobReportString>
+<!-- EN: Summon Fingerspike -->
+<VPE_BabyFleshSummonSTNL.verbProperties.label>invoquer une digipointe</VPE_BabyFleshSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Bulbfreak -->
+<VPE_BigFleshSummonSTNL.label>invoquer un bulbodieux</VPE_BigFleshSummonSTNL.label>
+<!-- EN: Pry into the rotting corners of the void to summon a Bulbfreak to help you in battle. -->
+<VPE_BigFleshSummonSTNL.description>Pénètre dans les recoins pourris du néant afin d'invoquer un bulbodieux pour vous aider au combat.</VPE_BigFleshSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BigFleshSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_BigFleshSummonSTNL.jobReportString>
+<!-- EN: Summon Bulbfreak -->
+<VPE_BigFleshSummonSTNL.verbProperties.label>invoquer un bulbodieux</VPE_BigFleshSummonSTNL.verbProperties.label>
+
+<!-- EN: Blood Rain -->
+<VPE_BloodRainSMNSTNL.label>pluie sanglante</VPE_BloodRainSMNSTNL.label>
+<!-- EN: Unleash a Blood Rain in the area. Stay inside and watch. (1 day duration) -->
+<VPE_BloodRainSMNSTNL.description>Déclenche une pluie sanglante dans la zone. Restez à l'intérieur et observez. (durée 1 jour)</VPE_BloodRainSMNSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BloodRainSMNSTNL.jobReportString>Utilise la capacité : {0}</VPE_BloodRainSMNSTNL.jobReportString>
+<!-- EN: Blood Rain -->
+<VPE_BloodRainSMNSTNL.verbProperties.label>pluie sanglante</VPE_BloodRainSMNSTNL.verbProperties.label>
+
+<!-- EN: Summon Familiar Chimera -->
+<VPE_ChimeraSummonSTNL.label>invoquer une chimère</VPE_ChimeraSummonSTNL.label>
+<!-- EN: Pry into the raging corners of the void to summon a Chimera as a familiar (AI seems bugged and won't attack). -->
+<VPE_ChimeraSummonSTNL.description>Pénètre dans les recoins déchaînés du néant pour invoquer une chimère en tant que familier (l'IA semble buggée et n'attaque pas).</VPE_ChimeraSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ChimeraSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_ChimeraSummonSTNL.jobReportString>
+<!-- EN: Summon Familiar Chimera -->
+<VPE_ChimeraSummonSTNL.verbProperties.label>invoquer une chimère</VPE_ChimeraSummonSTNL.verbProperties.label>
+
+<!-- EN: Deathpall -->
+<VPE_DeathpallSMNSTNL.label>brume funeste</VPE_DeathpallSMNSTNL.label>
+<!-- EN: Unleash a Death pall in the area, the shamblers will attack anyone outside. Stay inside and watch. (1 day duration) -->
+<VPE_DeathpallSMNSTNL.description>Déclenche une brume funeste dans la zone, les zombies attaqueront tous ceux qui se trouvent à l'extérieur. Restez à l'intérieur et observez. (durée 1 jour)</VPE_DeathpallSMNSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DeathpallSMNSTNL.jobReportString>Utilise la capacité : {0}</VPE_DeathpallSMNSTNL.jobReportString>
+<!-- EN: Deathpall -->
+<VPE_DeathpallSMNSTNL.verbProperties.label>brume funeste</VPE_DeathpallSMNSTNL.verbProperties.label>
+
+<!-- EN: Void Rebirth -->
+<VPE_Deathrefusal.label>déni de la mort</VPE_Deathrefusal.label>
+<!-- EN: Manifests dark archites inside of the target which allows them to resurrect shall they fall in battle. -->
+<VPE_Deathrefusal.description>Manifeste des archites sombres à l'intérieur de la cible, ce qui lui permet de ressusciter si elle tombe au combat.</VPE_Deathrefusal.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Deathrefusal.jobReportString>Utilise la capacité : {0}</VPE_Deathrefusal.jobReportString>
+<!-- EN: Void Rebirth -->
+<VPE_Deathrefusal.verbProperties.label>déni de la mort</VPE_Deathrefusal.verbProperties.label>
+
+<!-- EN: Summon Devourer -->
+<VPE_DevourerSummonSTNL.label>invoquer un dévoreur</VPE_DevourerSummonSTNL.label>
+<!-- EN: Pry into the deep corners of the void to summon a Devourer to help you in battle. -->
+<VPE_DevourerSummonSTNL.description>Pénètre dans les profondeurs du néant pour invoquer un dévoreur qui vous aidera au combat.</VPE_DevourerSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DevourerSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_DevourerSummonSTNL.jobReportString>
+<!-- EN: Summon Devourer -->
+<VPE_DevourerSummonSTNL.verbProperties.label>invoquer un dévoreur</VPE_DevourerSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Fleshmass Nucleus -->
+<VPE_FleshmassNucleusSummonSTNL.label>invoquer un noyau de chair</VPE_FleshmassNucleusSummonSTNL.label>
+<!-- EN: Pry into the fleshy corners of the void to summon a Fleshmass Nucleus. -->
+<VPE_FleshmassNucleusSummonSTNL.description>Pénètre dans les recoins charnus du néant pour invoquer un noyau de chair.</VPE_FleshmassNucleusSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FleshmassNucleusSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_FleshmassNucleusSummonSTNL.jobReportString>
+<!-- EN: Summon Fleshmass Nucleus -->
+<VPE_FleshmassNucleusSummonSTNL.verbProperties.label>invoquer un noyau de chair</VPE_FleshmassNucleusSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Toughspike -->
+<VPE_FleshSummonSTNL.label>invoquer un robustopointe</VPE_FleshSummonSTNL.label>
+<!-- EN: Pry into the rotting corners of the void to summon a Toughspike to help you in battle. -->
+<VPE_FleshSummonSTNL.description>Pénètre dans les recoins pourris du néant afin d'invoquer un robustopointe pour vous aider au combat.</VPE_FleshSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FleshSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_FleshSummonSTNL.jobReportString>
+<!-- EN: Summon Toughspike -->
+<VPE_FleshSummonSTNL.verbProperties.label>invoquer un robustopointe</VPE_FleshSummonSTNL.verbProperties.label>
+
+<!-- EN: Partial Ghoulification -->
+<VPE_Ghoulify.label>goulification partielle</VPE_Ghoulify.label>
+<!-- EN: Psychically alter the body of the target to turn them into a half ghoul, the process will cause the target to enter a berserk mental break. -->
+<VPE_Ghoulify.description>Modifie psychiquement le corps de la cible pour la transformer en une demi goule, le processus provoquera chez la cible un état mental folie furieuse.</VPE_Ghoulify.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Ghoulify.jobReportString>Utilise la capacité : {0}</VPE_Ghoulify.jobReportString>
+<!-- EN: Partial Ghoulification -->
+<VPE_Ghoulify.verbProperties.label>goulification partielle</VPE_Ghoulify.verbProperties.label>
+
+<!-- EN: Summon Ghoul -->
+<VPE_ghoulSummonSTNL.label>invoquer une goule</VPE_ghoulSummonSTNL.label>
+<!-- EN: Pry into the rotting corners of the void to summon a Ghoul to help you in battle. -->
+<VPE_ghoulSummonSTNL.description>Pénètre dans les recoins pourris du néant afin d'invoquer une goule pour vous aider au combat.</VPE_ghoulSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ghoulSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_ghoulSummonSTNL.jobReportString>
+<!-- EN: Summon Ghoul -->
+<VPE_ghoulSummonSTNL.verbProperties.label>invoquer une goule</VPE_ghoulSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Gorehulk -->
+<VPE_GorehulkSummonSTNL.label>invoquer un mastomonstre</VPE_GorehulkSummonSTNL.label>
+<!-- EN: Pry into the foul corners of the void to summon a Gorehulk to help you in battle. -->
+<VPE_GorehulkSummonSTNL.description>Pénètre dans les recoins immondes du néant pour invoquer un mastomonstre qui vous aidera au combat.</VPE_GorehulkSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_GorehulkSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_GorehulkSummonSTNL.jobReportString>
+<!-- EN: Summon Gorehulk -->
+<VPE_GorehulkSummonSTNL.verbProperties.label>invoquer un mastomonstre</VPE_GorehulkSummonSTNL.verbProperties.label>
+
+<!-- EN: Void Penumbra -->
+<VPE_HoraxianInvisibility.label>pénombre du néant</VPE_HoraxianInvisibility.label>
+<!-- EN: Partially banishes the target into the void, causing their soul to remain but their body to disappear, rendering them permanently invisible. -->
+<VPE_HoraxianInvisibility.description>Bannit partiellement la cible dans le néant, faisant en sorte que son âme reste mais que son corps disparaisse, la rendant ainsi définitivement invisible.</VPE_HoraxianInvisibility.description>
+<!-- EN: Using ability: {0} -->
+<VPE_HoraxianInvisibility.jobReportString>Utilise la capacité : {0}</VPE_HoraxianInvisibility.jobReportString>
+<!-- EN: Void Penumbra -->
+<VPE_HoraxianInvisibility.verbProperties.label>pénombre du néant</VPE_HoraxianInvisibility.verbProperties.label>
+
+<!-- EN: Inhumanization -->
+<VPE_Inhumanization.label>déshumanisation</VPE_Inhumanization.label>
+<!-- EN: Opens the eyes of the affected, causing them to become inhumanized after an humanity break. -->
+<VPE_Inhumanization.description>Ouvre les yeux des personnes affectées, ce qui les rend déshumanisées après une crise identitaire.</VPE_Inhumanization.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Inhumanization.jobReportString>Utilise la capacité : {0}</VPE_Inhumanization.jobReportString>
+<!-- EN: Inhumanization -->
+<VPE_Inhumanization.verbProperties.label>déshumanisation</VPE_Inhumanization.verbProperties.label>
+
+<!-- EN: Summon Unstable Dreadmeld -->
+<VPE_MassiveFleshSummonSTNL.label>invoquer un amalgore</VPE_MassiveFleshSummonSTNL.label>
+<!-- EN: Pry into the rotting corners of the void to summon a Dreadmeld to help you in battle, the Dreadmeld itself is friendly, it's spawns on the other hand... -->
+<VPE_MassiveFleshSummonSTNL.description>Pénètre dans les recoins pourris du néant afin d'invoquer un amalgore pour vous aider au combat. L'amalgore lui-même est amical, ses invocations en revanche...</VPE_MassiveFleshSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MassiveFleshSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_MassiveFleshSummonSTNL.jobReportString>
+<!-- EN: Summon Unstable Dreadmeld -->
+<VPE_MassiveFleshSummonSTNL.verbProperties.label>invoquer un amalgore</VPE_MassiveFleshSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Metalhorror -->
+<VPE_MetalhorrorIMP.label>invoquer une horreur métallique</VPE_MetalhorrorIMP.label>
+<!-- EN: Pry into the metallic hell of the void to summon a Metalhorror to help you in battle. -->
+<VPE_MetalhorrorIMP.description>Pénètre dans l'enfer métallique du néant pour invoquer une horreur métallique qui vous aidera au combat.</VPE_MetalhorrorIMP.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MetalhorrorIMP.jobReportString>Utilise la capacité : {0}</VPE_MetalhorrorIMP.jobReportString>
+<!-- EN: Summon Metalhorror -->
+<VPE_MetalhorrorIMP.verbProperties.label>invoquer une horreur métallique</VPE_MetalhorrorIMP.verbProperties.label>
+
+<!-- EN: Summon Nociosphere -->
+<VPE_NociosphereSummonSTNL.label>invoquer une nociosphère</VPE_NociosphereSummonSTNL.label>
+<!-- EN: Pry into the painful corners of the void to summon a Nociosphere. -->
+<VPE_NociosphereSummonSTNL.description>Pénètre dans les recoins douloureux du néant pour invoquer une nociosphère.</VPE_NociosphereSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_NociosphereSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_NociosphereSummonSTNL.jobReportString>
+<!-- EN: Summon Nociosphere -->
+<VPE_NociosphereSummonSTNL.verbProperties.label>invoquer une nociosphère</VPE_NociosphereSummonSTNL.verbProperties.label>
+
+<!-- EN: Summon Noctol -->
+<VPE_NoctolSummonSTNL.label>invoquer un noctol</VPE_NoctolSummonSTNL.label>
+<!-- EN: Pry into the dark corners of the void to summon a Noctol to help you in battle. -->
+<VPE_NoctolSummonSTNL.description>Pénètre dans les recoins sombres du néant pour invoquer un noctol qui vous aidera au combat.</VPE_NoctolSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_NoctolSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_NoctolSummonSTNL.jobReportString>
+<!-- EN: Summon Noctol -->
+<VPE_NoctolSummonSTNL.verbProperties.label>invoquer un noctol</VPE_NoctolSummonSTNL.verbProperties.label>
+
+<!-- EN: Void Hate -->
+<VPE_RageSpeed.label>haine du néant</VPE_RageSpeed.label>
+<!-- EN: Manifests dark archites inside of the target which makes them enter a state of pure rage, granting them immunity to pain and making them move faster. -->
+<VPE_RageSpeed.description>Manifeste des archites sombres à l'intérieur de la cible, ce qui la fait entrer dans un état de rage pure, lui conférant une immunité à la douleur et lui permettant de se déplacer plus rapidement.</VPE_RageSpeed.description>
+<!-- EN: Using ability: {0} -->
+<VPE_RageSpeed.jobReportString>Utilise la capacité : {0}</VPE_RageSpeed.jobReportString>
+<!-- EN: Void Hate -->
+<VPE_RageSpeed.verbProperties.label>haine du néant</VPE_RageSpeed.verbProperties.label>
+
+<!-- EN: Bioferrite Transmutation Study -->
+<VPE_ShardmakerSTNL.label>étude sur la bioferrite</VPE_ShardmakerSTNL.label>
+<!-- EN: Reflect on the origin of the void, causing this pawn to learn how to transform bioferrite into shards. -->
+<VPE_ShardmakerSTNL.description>Reflète les origines du néant, ce qui permet à cette personne d'apprendre à transformer la bioferrite en fragments.</VPE_ShardmakerSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShardmakerSTNL.jobReportString>Utilise la capacité : {0}</VPE_ShardmakerSTNL.jobReportString>
+<!-- EN: Bioferrite Transmutation Study -->
+<VPE_ShardmakerSTNL.verbProperties.label>étude sur la bioferrite</VPE_ShardmakerSTNL.verbProperties.label>
+
+<!-- EN: Void Regeneration -->
+<VPE_VoidHealStnl.label>régénération du néant</VPE_VoidHealStnl.label>
+<!-- EN: Manifests dark archites inside of the target which heals them at an insanely rapid pace, the dark archites aren't permanent. -->
+<VPE_VoidHealStnl.description>Manifeste des archites sombres à l'intérieur de la cible, ce qui la guérit à un rythme incroyablement rapide. Les archites sombres ne sont pas permanentes.</VPE_VoidHealStnl.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidHealStnl.jobReportString>Utilise la capacité : {0}</VPE_VoidHealStnl.jobReportString>
+<!-- EN: Void Regeneration -->
+<VPE_VoidHealStnl.verbProperties.label>régénération du néant</VPE_VoidHealStnl.verbProperties.label>
+
+<!-- EN: Obelisk Manifestation Study -->
+<VPE_ObeliskmakerSTNL.label>étude sur les obélisques</VPE_ObeliskmakerSTNL.label>
+<!-- EN: Reflect on the origin of the void, causing this pawn to learn how to manifest obelisks at will. -->
+<VPE_ObeliskmakerSTNL.description>Reflète l'origine du néant, ce qui permet à cette personne d'apprendre à manifester des obélisques à sa guise.</VPE_ObeliskmakerSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ObeliskmakerSTNL.jobReportString>Utilise la capacité : {0}</VPE_ObeliskmakerSTNL.jobReportString>
+<!-- EN: Obelisk Manifestation Study -->
+<VPE_ObeliskmakerSTNL.verbProperties.label>étude sur les obélisques</VPE_ObeliskmakerSTNL.verbProperties.label>
+
+<!-- EN: Void Node -->
+<VPE_Void_node.label>nœud du néant</VPE_Void_node.label>
+<!-- EN: Creates a node of psychic entropy in the form of a void portal. (Requires the monolith to be activated to work, will also raise its level to 4.) -->
+<VPE_Void_node.description>Crée un nœud d'entropie psychique sous la forme d'un portail du néant. (Nécessite que le monolithe soit activé pour fonctionner, augmente également son niveau à 4)</VPE_Void_node.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Void_node.jobReportString>Utilise la capacité : {0}</VPE_Void_node.jobReportString>
+<!-- EN: Void Node -->
+<VPE_Void_node.verbProperties.label>nœud du néant</VPE_Void_node.verbProperties.label>
+
+<!-- EN: Overwhelming horrors -->
+<VPE_VOIDPsychicShock.label>horreurs accablantes</VPE_VOIDPsychicShock.label>
+<!-- EN: Psychically provoke a psychic shock by showing the true form of the void to the target. There is a risk of brain damage and is overtly hostile, the origins of this psycast allow it to ignore psychic resistance. -->
+<VPE_VOIDPsychicShock.description>Provoque un choc psychique en montrant la véritable forme du néant à la cible. Il y a un risque de lésions cérébrales et c'est un acte ouvertement hostile. Les origines de ce psysort lui permettent d'ignorer la résistance psychique.</VPE_VOIDPsychicShock.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VOIDPsychicShock.jobReportString>Utilise la capacité : {0}</VPE_VOIDPsychicShock.jobReportString>
+<!-- EN: Overwhelming horrors -->
+<VPE_VOIDPsychicShock.verbProperties.label>horreurs accablantes</VPE_VOIDPsychicShock.verbProperties.label>
+
+<!-- EN: Neverending Nightmare -->
+<VPE_VOIDpulse.label>cauchemar sans fin</VPE_VOIDpulse.label>
+<!-- EN: Sends out a pulse of incoherent images of the void inside the minds of the targets, causing them to wander around in terror. -->
+<VPE_VOIDpulse.description>Envoie une impulsion d'images incohérentes du néant à l'intérieur de l'esprit des cibles, les faisant errer avec terreur.</VPE_VOIDpulse.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VOIDpulse.jobReportString>Utilise la capacité : {0}</VPE_VOIDpulse.jobReportString>
+<!-- EN: Neverending Nightmare -->
+<VPE_VOIDpulse.verbProperties.label>cauchemar sans fin</VPE_VOIDpulse.verbProperties.label>
+
+<!-- EN: Soul Scour -->
+<VPE_VoidReap.label>faucheuse d'âme</VPE_VoidReap.label>
+<!-- EN: Sends the soul of the targets into the void, instantly killing them, dispels any dark archites present in shamblers as well. -->
+<VPE_VoidReap.description>Envoie l'âme des cibles dans le néant, les tuant instantanément. Dissipe également les archites sombres présentes dans les zombies.</VPE_VoidReap.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidReap.jobReportString>Utilise la capacité : {0}</VPE_VoidReap.jobReportString>
+<!-- EN: Soul Scour -->
+<VPE_VoidReap.verbProperties.label>faucheuse d'âme</VPE_VoidReap.verbProperties.label>
+
+<!-- EN: Void Sight -->
+<VPE_VoidSight.label>vision du néant</VPE_VoidSight.label>
+<!-- EN: Manifests dark archites inside of the target's eyes granting them the ability to see the void for what it truly is. -->
+<VPE_VoidSight.description>Manifeste des archites sombres à l'intérieur des yeux de la cible, lui donnant la capacité de voir le néant pour ce qu'il est vraiment.</VPE_VoidSight.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidSight.jobReportString>Utilise la capacité : {0}</VPE_VoidSight.jobReportString>
+<!-- EN: Void Sight -->
+<VPE_VoidSight.verbProperties.label>vision du néant</VPE_VoidSight.verbProperties.label>
+
+
+</LanguageData>

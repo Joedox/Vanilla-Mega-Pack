@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>name->[syl][end]</li>
+  <li>name->[syl]'[end]</li>
+  <li>syl->[NorseNames]</li>
+  <li>end->abrei</li>
+  <li>end->tro</li>
+  <li>end->ox</li>
+  <li>end->brin</li>
+  <li>end->bai</li>
+  <li>end->bust</li>
+  <li>end->vast</li>
+  <li>end->varg</li>
+  <li>end->vix</li>
+  <li>end->tor</li>
+  <li>end->tear</li>
+  <li>end->cut</li>
+  <li>end->lop</li>
+  <li>end->oze</li>
+  <li>end->ozzle</li>
+  <li>end->latch</li>
+  <li>end->lock</li>
+  <li>end->burn</li>
+  <li>end->sear</li>
+  <li>end->shank</li>
+  <li>end->hurt</li>
+  <li>end->vash</li>
+  <li>end->warg</li>
+  <li>end->wug</li>
+  <li>end->thot</li>
+  <li>end->thard</li>
+  <li>end->thad</li>
+-->
+<VFEM2_NamerDeityVikings.rulePack.rulesStrings>
+  <li>name->[syl][end]</li>
+  <li>name->[syl]'[end]</li>
+  <li>syl->[NorseNames]</li>
+  <li>end->abrei</li>
+  <li>end->tro</li>
+  <li>end->ox</li>
+  <li>end->brin</li>
+  <li>end->bai</li>
+  <li>end->bust</li>
+  <li>end->vast</li>
+  <li>end->varg</li>
+  <li>end->vix</li>
+  <li>end->tor</li>
+  <li>end->tear</li>
+  <li>end->cut</li>
+  <li>end->lop</li>
+  <li>end->oze</li>
+  <li>end->ozzle</li>
+  <li>end->latch</li>
+  <li>end->lock</li>
+  <li>end->burn</li>
+  <li>end->sear</li>
+  <li>end->shank</li>
+  <li>end->hurt</li>
+  <li>end->vash</li>
+  <li>end->warg</li>
+  <li>end->wug</li>
+  <li>end->thot</li>
+  <li>end->thard</li>
+  <li>end->thad</li>
+</VFEM2_NamerDeityVikings.rulePack.rulesStrings>
+
+
+<!-- EN:
+  <li>physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->The hearth bears a [depiction] of [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->An engraving on this hearth [depicts] [image]. [desc_sentence_group]</li>
+-->
+<ArtDescription_Hearth.rulePack.rulesStrings>
+  <li>physical_description_root->Le foyer est gravé d'une [depiction] illustrant [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->Le foyer porte une [depiction] illustrant [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->Le foyer est gravé d'une [depiction] illustrant [image]. [desc_sentence_group]</li>
+  <li>physical_description_root->Une gravure sur ce foyer [depicts] [image]. [desc_sentence_group]</li>
+</ArtDescription_Hearth.rulePack.rulesStrings>
+
+
+<!-- EN:
+  <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+  <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+  <li>cultureLeaderNoun->jarl</li>
+-->
+<VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+  <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+  <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+  <li>cultureLeaderNoun->jarl</li>
+</VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+  <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+  <li>cultureLeaderNoun->king</li>
+-->
+<VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+  <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+  <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+  <li>cultureLeaderNoun(cultureLeaderNoun_gender==Female)->reine</li>
+  <li>cultureLeaderNoun(cultureLeaderNoun_gender!=Female)->roi</li>
+</VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+  <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+  <li>cultureLeaderNoun->guildmaster</li>
+-->
+<VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+  <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+  <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+  <li>cultureLeaderNoun->maître de guilde</li>
+</VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_name(p=0.35)->[PlaceOutlander]</li>
+  <li>r_name->the [political_union_medieval] of [PlaceOutlander]</li>
+  <li>r_name->[PlaceOutlander] [political_union_medieval]</li>
+-->
+<VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+  <li>r_name(p=0.35)->[PlaceOutlander]</li>
+  <li>r_name->[political_union_medieval] de [PlaceOutlander]</li>
+  <li>r_name->[political_union_medieval] [PlaceOutlander]</li>
+</VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_name->The [AnimalNordic] Clan</li>
+  <li>r_name->The [Color] [AnimalNordic] Clan</li>
+  <li>r_name->[NorseNames]'s Clan</li>
+-->
+<VFEM2_NamerFactionViking.rulePack.rulesStrings>
+  <li>r_name->Le clan [AnimalNordicMF]</li>
+  <li>r_name->Le clan [AnimalNordicMF] [Color]</li>
+  <li>r_name->Clan de [NorseNames]</li>
+  <li>AnimalNordicMF->du [AnimalNordicM]</li>
+  <li>AnimalNordicMF->de la [AnimalNordicF]</li>
+  <li>AnimalNordicMF->de l'[AnimalNordicL]</li>
+    <li>AnimalNordicL->alsvin</li>
+    <li>AnimalNordicL->alsvinder</li>
+    <li>AnimalNordicL->arvakr</li>
+    <li>AnimalNordicM->dain</li>
+    <li>AnimalNordicL->eikthyrnir</li>
+    <li>AnimalNordicM->fenrir</li>
+    <li>AnimalNordicL->heidrun</li>
+    <li>AnimalNordicL->hildisvini</li>
+    <li>AnimalNordicM->midgard</li>
+    <li>AnimalNordicM->serpent</li>
+    <li>AnimalNordicM->tatatosk</li>
+    <li>AnimalNordicM->skinfaxi</li>
+    <li>AnimalNordicM->svadilfari</li>
+    <li>AnimalNordicM->renard arctique</li>
+    <li>AnimalNordicM->renard</li>
+    <li>AnimalNordicM->lièvre</li>
+    <li>AnimalNordicM->caribou</li>
+    <li>AnimalNordicM->bœuf musqué</li>
+    <li>AnimalNordicL->ours polaire</li>
+    <li>AnimalNordicL->ours</li>
+    <li>AnimalNordicF->chouette</li>
+    <li>AnimalNordicM->lagopède</li>
+    <li>AnimalNordicM->loup</li>
+    <li>AnimalNordicM->morse</li>
+    <li>AnimalNordicM->renne</li>
+    <li>AnimalNordicL->aigle</li>
+    <li>AnimalNordicM->phoque</li>
+    <li>AnimalNordicM->narval</li>
+    <li>AnimalNordicF->loutre</li>
+    <li>AnimalNordicM->raton laveur</li>
+    <li>AnimalNordicM->mouton</li>
+    <li>AnimalNordicF->belette</li>
+    <li>AnimalNordicM->bison</li>
+    <li>AnimalNordicM->requin</li>
+    <li>AnimalNordicM->chien de chasse</li>
+    <li>AnimalNordicL->araignée</li>
+    <li>AnimalNordicF->fourmi</li>
+    <li>AnimalNordicM->lion</li>
+    <li>AnimalNordicM->faucon</li>
+    <li>AnimalNordicM->corbeau</li>
+    <li>AnimalNordicM->léopard</li>
+    <li>AnimalNordicL->élan</li>
+    <li>AnimalNordicM->chevreuil</li>
+    <li>AnimalNordicM->pingouin</li>
+    <li>AnimalNordicF->baleine</li>
+</VFEM2_NamerFactionViking.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_name(p=2)->[Medieval_First_Male] [Medieval_Last]</li>
+-->
+<VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+  <li>r_name(p=2)->[Medieval_First_Male] [Medieval_Last]</li>
+</VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_name(p=2)->[Medieval_First_Female] [Medieval_Last]</li>
+-->
+<VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+  <li>r_name(p=2)->[Medieval_First_Female] [Medieval_Last]</li>
+</VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_name(p=2)->[NorseNames] [NorseNames]son</li>
+  <li>r_name->[NorseNames] [NorseNames]berg</li>
+  <li>r_name->[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</li>
+  <li>r_name->[NorseNames] '[Color] [Animal]' [NorseNames]son</li>
+  <li>r_name->[NorseNames] [NorseNames]-son</li>
+  <li>r_name->[NorseNames] '[NorseNames]son' of [Animal] clan</li>
+-->
+<VFEM2_NamerPersonViking.rulePack.rulesStrings>
+  <li>r_name(p=2, PAWN_gender==Female)->[NorseNames] fille de [NorseNames]</li>
+  <li>r_name(p=2, PAWN_gender!=Female)->[NorseNames] fils de [NorseNames]</li>
+  <li>r_name->[NorseNames] [NorseNames]berg</li>
+  <li>r_name(PAWN_gender==Female)->[NorseNames] 'tueuse de [AnimalBadass_Plural]' fille de [NorseNames]</li>
+  <li>r_name(PAWN_gender!=Female)->[NorseNames] 'tueur de [AnimalBadass_Plural]' fils de [NorseNames]</li>
+  <li>r_name(PAWN_gender==Female)->[NorseNames] '[AnimalColor]' fille de [NorseNames]</li>
+  <li>r_name(PAWN_gender!=Female)->[NorseNames] '[AnimalColor]' fils de [NorseNames]</li>
+  <li>r_name(PAWN_gender==Female)->[NorseNames] [NorseNames]-fille</li>
+  <li>r_name(PAWN_gender!=Female)->[NorseNames] [NorseNames]-fils</li>
+  <li>r_name(PAWN_gender==Female)->[NorseNames] 'fille de [NorseNames]' du clan [AnimalMF]</li>
+  <li>r_name(PAWN_gender!=Female)->[NorseNames] 'fils de [NorseNames]' du clan [AnimalMF]</li>
+    <li>AnimalColor->[Animal] [Color]</li>
+    <li>AnimalColor->[Animal_Feminine] [Color_Feminine]</li>
+    <li>AnimalMF->[Animal]</li>
+    <li>AnimalMF->[Animal_Feminine]</li>
+</VFEM2_NamerPersonViking.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_name(p=4)->[PlaceOutlander] [medievalSettlementEnd]</li>
+  <li>r_name->[AnimalBadass]'s [medievalSettlementEnd]-on-the-[TerrainFeature]</li>
+  <li>r_name->[AnimalBadass]'s [medievalSettlementEnd]-by-the-[TerrainFeature]</li>
+-->
+<VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+  <li>r_name(p=4)->[medievalSettlementEnd] [PlaceOutlander]</li>
+  <li>r_name->[medievalSettlementEnd] sur le [TerrainFeature] du [AnimalBadass]</li>
+  <li>r_name->[medievalSettlementEnd] de le [TerrainFeature] du [AnimalBadass]</li>
+  <li>r_name->[medievalSettlementEnd] sur la [TerrainFeature_Feminine] du [AnimalBadass]</li>
+  <li>r_name->[medievalSettlementEnd] de la [TerrainFeature_Feminine] du [AnimalBadass]</li>
+  <li>r_name->[medievalSettlementEnd] sur le [TerrainFeature] de la [AnimalBadass_Feminine]</li>
+  <li>r_name->[medievalSettlementEnd] de le [TerrainFeature] de la [AnimalBadass_Feminine]</li>
+  <li>r_name->[medievalSettlementEnd] sur la [TerrainFeature_Feminine] de la [AnimalBadass_Feminine]</li>
+  <li>r_name->[medievalSettlementEnd] de la [TerrainFeature_Feminine] de la [AnimalBadass_Feminine]</li>
+</VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_name->[townname_wordgen]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+  <li>townendevil->vast</li>
+  <li>townendevil->varg</li>
+  <li>townendevil->vix</li>
+  <li>townendevil->tor</li>
+  <li>townendevil->tear</li>
+  <li>townendevil->cut</li>
+  <li>townendevil->lop</li>
+  <li>townendevil->oze</li>
+  <li>townendevil->ozzle</li>
+  <li>townendevil->latch</li>
+  <li>townendevil->lock</li>
+  <li>townendevil->burn</li>
+  <li>townendevil->sear</li>
+  <li>townendevil->shank</li>
+  <li>townendevil->hurt</li>
+  <li>townendevil->vash</li>
+  <li>townendevil->warg</li>
+  <li>townendevil->wug</li>
+  <li>townendevil->thot</li>
+  <li>townendevil->thard</li>
+  <li>townendevil->thad</li>
+-->
+<VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+  <li>r_name->[townname_wordgen]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+  <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+  <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+  <li>townendevil->vast</li>
+  <li>townendevil->varg</li>
+  <li>townendevil->vix</li>
+  <li>townendevil->tor</li>
+  <li>townendevil->tear</li>
+  <li>townendevil->cut</li>
+  <li>townendevil->lop</li>
+  <li>townendevil->oze</li>
+  <li>townendevil->ozzle</li>
+  <li>townendevil->latch</li>
+  <li>townendevil->lock</li>
+  <li>townendevil->burn</li>
+  <li>townendevil->sear</li>
+  <li>townendevil->shank</li>
+  <li>townendevil->hurt</li>
+  <li>townendevil->vash</li>
+  <li>townendevil->warg</li>
+  <li>townendevil->wug</li>
+  <li>townendevil->thot</li>
+  <li>townendevil->thard</li>
+  <li>townendevil->thad</li>
+</VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+
+
+</LanguageData>

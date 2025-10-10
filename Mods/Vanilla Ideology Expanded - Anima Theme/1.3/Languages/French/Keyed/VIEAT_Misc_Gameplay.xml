@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<RitualTargetUnconnectedGaruanlenTreeInfo>Un arbre Anima Nexus non connecté.</RitualTargetUnconnectedGaruanlenTreeInfo>
+<RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>Le {0} a incité une gousse de Anima Nexus à germer à proximité.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+
+<!-- Gauranlen trees/Dryads -->
+<DryadCannotChangeMaster>{ANIMAL_nameDef} est connecté à {MASTER_nameDef} via l'arbre Anima Nexus. Son maître ne peut pas être modifié</DryadCannotChangeMaster>
+<ConnectionStrengthTooWeakForGaumakerPod>Force de connexion trop faible pour créer une nacelle Anima Nexus.</ConnectionStrengthTooWeakForGaumakerPod>
+
+</LanguageData>

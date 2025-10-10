@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: chemfuel powered generators power grid -->
+<Outpost_PowerGrid_ChemfuelPowered_Generator.label>réseau d'énergie électrogène</Outpost_PowerGrid_ChemfuelPowered_Generator.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in generating power with chemfuel powered generators. Constantly providing it to faction's primary colony. -->
+<Outpost_PowerGrid_ChemfuelPowered_Generator.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production électrique avec des groupes électrogènes fonctionnant au chemfuel. Fournit constamment de l'énergie à votre colonie principale.</Outpost_PowerGrid_ChemfuelPowered_Generator.description>
+
+<!-- EN: geothermal generators power grid -->
+<Outpost_PowerGrid_Geothermal_Generator.label>réseau d'énergie géothermie</Outpost_PowerGrid_Geothermal_Generator.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in generating power with geothermal generators. Constantly providing it to faction's primary colony. -->
+<Outpost_PowerGrid_Geothermal_Generator.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production électrique avec des centrales géothermiques. Fournit constamment de l'énergie à votre colonie principale.</Outpost_PowerGrid_Geothermal_Generator.description>
+
+<!-- EN: power cell grid -->
+<Outpost_PowerGrid_PowerCell.label>réseau d'énergie vanométrique</Outpost_PowerGrid_PowerCell.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in generating power with power cells. Constantly providing it to faction's primary colony. -->
+<Outpost_PowerGrid_PowerCell.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production électrique avec des cellules vanométrique. Fournit constamment de l'énergie à votre colonie principale.</Outpost_PowerGrid_PowerCell.description>
+
+<!-- EN: solar generators power grid -->
+<Outpost_PowerGrid_Solar_Generator.label>réseau d'énergie solaire</Outpost_PowerGrid_Solar_Generator.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in generating power with solar generators. Constantly providing it to faction's primary colony. -->
+<Outpost_PowerGrid_Solar_Generator.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production électrique avec des panneaux solaires. Fournit constamment de l'énergie à votre colonie principale.</Outpost_PowerGrid_Solar_Generator.description>
+
+<!-- EN: watermill generators power grid -->
+<Outpost_PowerGrid_Watermill_Generator.label>réseau d'énergie hydroélectrique</Outpost_PowerGrid_Watermill_Generator.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in generating power with watermill generators. Constantly providing it to faction's primary colony. -->
+<Outpost_PowerGrid_Watermill_Generator.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production électrique avec des générateurs hydroélectriques. Fournit constamment de l'énergie à votre colonie principale.</Outpost_PowerGrid_Watermill_Generator.description>
+
+<!-- EN: wind turbine power grid -->
+<Outpost_PowerGrid_WindTurbine.label>réseau d'énergie éolien</Outpost_PowerGrid_WindTurbine.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in generating power with wind turbine. Constantly providing it to faction's primary colony. -->
+<Outpost_PowerGrid_WindTurbine.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production électrique avec des éoliennes. Fournit constamment de l'énergie à votre colonie principale.</Outpost_PowerGrid_WindTurbine.description>
+
+<!-- EN: wood-fired generators power grid -->
+<Outpost_PowerGrid_WoodFired_Generator.label>réseau d'énergie à bois</Outpost_PowerGrid_WoodFired_Generator.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in generating power with wood-fired generators. Constantly providing it to faction's primary colony. -->
+<Outpost_PowerGrid_WoodFired_Generator.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans la production électrique avec des générateurs à bois. Alimente en permanence la colonie principale de la faction.</Outpost_PowerGrid_WoodFired_Generator.description>
+
+
+</LanguageData>

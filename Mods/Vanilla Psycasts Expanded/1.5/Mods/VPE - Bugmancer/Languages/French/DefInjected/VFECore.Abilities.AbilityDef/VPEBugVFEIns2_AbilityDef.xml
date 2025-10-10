@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- ========== Si le mod Vanilla Factions Expanded - Insectoids 2 est présent. ========== -->
+<!-- EN: Conjure Worker Hive -->
+<VPE_BugworkerhiveSTNL.label>invoquer ruche artificielle</VPE_BugworkerhiveSTNL.label>
+<!-- EN: Use your experience with megascarabs to replicate one of their worker hives for the colony. -->
+<VPE_BugworkerhiveSTNL.description>Utilise votre expérience avec les mégascarabées pour reproduire une de leurs ruches artificielles pour la colonie.</VPE_BugworkerhiveSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BugworkerhiveSTNL.jobReportString>Utilise la capacité : {0}</VPE_BugworkerhiveSTNL.jobReportString>
+<!-- EN: Conjure Worker Hive -->
+<VPE_BugworkerhiveSTNL.verbProperties.label>invoquer ruche artificielle</VPE_BugworkerhiveSTNL.verbProperties.label>
+
+<!-- EN: Gestate Empress -->
+<VPE_Chestburster1STNL.label>gestation impératrice</VPE_Chestburster1STNL.label>
+<!-- EN: Psychically manifest Empress class pheromones inside of the target, causing them to become an Empress host. -->
+<VPE_Chestburster1STNL.description>Manifeste psychiquement des phéromones de classe impératrice à l'intérieur de la cible, la transformant en progéniture impératrice.</VPE_Chestburster1STNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Chestburster1STNL.jobReportString>Utilise la capacité : {0}</VPE_Chestburster1STNL.jobReportString>
+<!-- EN: Gestate Empress -->
+<VPE_Chestburster1STNL.verbProperties.label>gestation impératrice</VPE_Chestburster1STNL.verbProperties.label>
+
+<!-- EN: Gestate Gigamite -->
+<VPE_Chestburster2STNL.label>gestation gigamite</VPE_Chestburster2STNL.label>
+<!-- EN: Psychically manifest Gigamite class pheromones inside of the target, causing them to become a Gigamite host. -->
+<VPE_Chestburster2STNL.description>Manifeste psychiquement des phéromones de classe gigamite à l'intérieur de la cible, la transformant en progéniture gigamite.</VPE_Chestburster2STNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Chestburster2STNL.jobReportString>Utilise la capacité : {0}</VPE_Chestburster2STNL.jobReportString>
+<!-- EN: Gestate Gigamite -->
+<VPE_Chestburster2STNL.verbProperties.label>gestation gigamite</VPE_Chestburster2STNL.verbProperties.label>
+
+<!-- EN: Gestate Titantick -->
+<VPE_Chestburster3STNL.label>gestation titantique</VPE_Chestburster3STNL.label>
+<!-- EN: Psychically manifest Titantick class pheromones inside of the target, causing them to become a Titantick host. -->
+<VPE_Chestburster3STNL.description>Manifeste psychiquement des phéromones de classe titantique à l'intérieur de la cible, la transformant en progéniture titantique.</VPE_Chestburster3STNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Chestburster3STNL.jobReportString>Utilise la capacité : {0}</VPE_Chestburster3STNL.jobReportString>
+<!-- EN: Gestate Titantick -->
+<VPE_Chestburster3STNL.verbProperties.label>gestation titantique</VPE_Chestburster3STNL.verbProperties.label>
+
+<!-- EN: Conjure Creeper -->
+<VPE_CreepSTNL.label>invoquer une muqueuse</VPE_CreepSTNL.label>
+<!-- EN: Use your experience with megascarabs to recreate a creeper for the colony. -->
+<VPE_CreepSTNL.description>Utilise votre expérience avec les mégascarabées pour recréer une muqueuse pour la colonie.</VPE_CreepSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CreepSTNL.jobReportString>Utilise la capacité : {0}</VPE_CreepSTNL.jobReportString>
+<!-- EN: Conjure Creeper -->
+<VPE_CreepSTNL.verbProperties.label>invoquer une muqueuse</VPE_CreepSTNL.verbProperties.label>
+
+<!-- EN: Manifest Durapod -->
+<VPE_DurapodSTNL.label>appeler un durapode</VPE_DurapodSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing a Durapod to answer the call. -->
+<VPE_DurapodSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant un durapode à répondre à votre appel.</VPE_DurapodSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DurapodSTNL.jobReportString>Utilise la capacité : {0}</VPE_DurapodSTNL.jobReportString>
+<!-- EN: Manifest Durapod -->
+<VPE_DurapodSTNL.verbProperties.label>appeler un durapode</VPE_DurapodSTNL.verbProperties.label>
+
+<!-- EN: Manifest Empress -->
+<VPE_EmpressSTNL.label>appeler une impératrice</VPE_EmpressSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing an Empress to answer the call, the process will cause the pawn to fall into a 15 day coma. -->
+<VPE_EmpressSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant une impératrice à répondre à votre appel. Le processus plongera le psylanceur dans un coma de 15 jours.</VPE_EmpressSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_EmpressSTNL.jobReportString>Utilise la capacité : {0}</VPE_EmpressSTNL.jobReportString>
+<!-- EN: Manifest Empress -->
+<VPE_EmpressSTNL.verbProperties.label>appeler une impératrice</VPE_EmpressSTNL.verbProperties.label>
+
+<!-- EN: Manifest Hellbeetle -->
+<VPE_HellbeetleSTNL.label>appeler un scarabée des enfers</VPE_HellbeetleSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing an Hellbeetle to answer the call. -->
+<VPE_HellbeetleSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant un scarabée des enfers à répondre à votre appel.</VPE_HellbeetleSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_HellbeetleSTNL.jobReportString>Utilise la capacité : {0}</VPE_HellbeetleSTNL.jobReportString>
+<!-- EN: Manifest Hellbeetle -->
+<VPE_HellbeetleSTNL.verbProperties.label>appeler un scarabée des enfers</VPE_HellbeetleSTNL.verbProperties.label>
+
+<!-- EN: Manifest Ironclad -->
+<VPE_IroncladSTNL.label>appeler un cuirassé</VPE_IroncladSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing an Ironclad to answer the call. -->
+<VPE_IroncladSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant un cuirassé à répondre à votre appel.</VPE_IroncladSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IroncladSTNL.jobReportString>Utilise la capacité : {0}</VPE_IroncladSTNL.jobReportString>
+<!-- EN: Manifest Ironclad -->
+<VPE_IroncladSTNL.verbProperties.label>appeler un cuirassé</VPE_IroncladSTNL.verbProperties.label>
+
+<!-- EN: Manifest Macrofly -->
+<VPE_MacroflySTNL.label>appeler un macromouche</VPE_MacroflySTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing a Macrofly to answer the call. -->
+<VPE_MacroflySTNL.description>Manifeste psychiquement des phéromones de détresse, amenant un macromouche à répondre à votre appel.</VPE_MacroflySTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MacroflySTNL.jobReportString>Utilise la capacité : {0}</VPE_MacroflySTNL.jobReportString>
+<!-- EN: Manifest Macrofly -->
+<VPE_MacroflySTNL.verbProperties.label>appeler un macromouche</VPE_MacroflySTNL.verbProperties.label>
+
+<!-- EN: Manifest Patriarch -->
+<VPE_PatriarchSTNL.label>appeler un patriarche</VPE_PatriarchSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing a Patriarch to answer the call, the process will cause the pawn to fall into a 15 day coma. -->
+<VPE_PatriarchSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant un patriarche à répondre à votre appel. Le processus plongera le psylanceur dans un coma de 15 jours.</VPE_PatriarchSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PatriarchSTNL.jobReportString>Utilise la capacité : {0}</VPE_PatriarchSTNL.jobReportString>
+<!-- EN: Manifest Patriarch -->
+<VPE_PatriarchSTNL.verbProperties.label>appeler un patriarche</VPE_PatriarchSTNL.verbProperties.label>
+
+<!-- EN: Manifest Queen -->
+<VPE_QueenSummonSTNL.label>appeler une reine</VPE_QueenSummonSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing a Queen to answer the call, the process will cause the pawn to fall into a 15 day coma. -->
+<VPE_QueenSummonSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant une reine insectoïde à répondre à votre appel. Le processus plongera le psylanceur dans un coma de 15 jours.</VPE_QueenSummonSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_QueenSummonSTNL.jobReportString>Utilise la capacité : {0}</VPE_QueenSummonSTNL.jobReportString>
+<!-- EN: Manifest Queen -->
+<VPE_QueenSummonSTNL.verbProperties.label>appeler une reine</VPE_QueenSummonSTNL.verbProperties.label>
+
+
+</LanguageData>

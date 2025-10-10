@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_Gun_GaussRifle.label>fusil d'assaut gauss</VWE_Gun_GaussRifle.label>
+<VWE_Gun_GaussRifle.description>Un fusil gauss de technologie spatiale. Un ensemble de bobines accélère les billes ferromagnétiques à des vitesses vertigineuses, pénétrant les armures et transperçant de multiples cibles. Ces armes sont populaires parmi l'infanterie de première ligne luttant dans les guerres mécanoïdes.</VWE_Gun_GaussRifle.description>
+<VWE_Gun_GaussRifle.tools.stock.label>crosse</VWE_Gun_GaussRifle.tools.stock.label>
+<VWE_Gun_GaussRifle.tools.barrel.label>canon</VWE_Gun_GaussRifle.tools.barrel.label>
+<VWE_Gun_GaussRifle.verbs.Verb_Shoot.label>fusil d'assaut gauss</VWE_Gun_GaussRifle.verbs.Verb_Shoot.label>
+<VWE_Bullet_GaussRifle.label>balle fusil d'assaut gauss</VWE_Bullet_GaussRifle.label>
+
+<VWE_Gun_GaussMagnum.label>magnum gauss</VWE_Gun_GaussMagnum.label>
+<VWE_Gun_GaussMagnum.description>Un pistolet gauss de technologie spatiale. Un réseau de bobines accélère les projectiles depuis un barillet rotatif, pénétrant les armures et transperçant les cibles sur son passage. Il se charge plus rapidement que la plupart des pistolets magnétiques, au prix d'une diminution des dégâts.</VWE_Gun_GaussMagnum.description>
+<VWE_Gun_GaussMagnum.tools.grip.label>poignée</VWE_Gun_GaussMagnum.tools.grip.label>
+<VWE_Gun_GaussMagnum.tools.barrel.label>canon</VWE_Gun_GaussMagnum.tools.barrel.label>
+<VWE_Gun_GaussMagnum.verbs.Verb_Shoot.label>magnum gauss</VWE_Gun_GaussMagnum.verbs.Verb_Shoot.label>
+<VWE_Bullet_GaussMagnum.label>balle de magnum gauss</VWE_Bullet_GaussMagnum.label>
+
+<VWE_Gun_GaussLance.label>lanceur gauss</VWE_Gun_GaussLance.label>
+<VWE_Gun_GaussLance.description>Un lanceur gauss de technologie spatiale. Une série de bobines électromagnétiques catapulte un seul tir à une vitesse fulgurante, déchirant les armures et transperçant toutes les cibles sur son passage. Cette arme est portée à la hanche et utilise un ordinateur embarqué pour suivre et ajuster les cibles éloignées.</VWE_Gun_GaussLance.description>
+<VWE_Gun_GaussLance.tools.barrel.label>canon</VWE_Gun_GaussLance.tools.barrel.label>
+<VWE_Gun_GaussLance.verbs.Verb_Shoot.label>lanceur gauss</VWE_Gun_GaussLance.verbs.Verb_Shoot.label>
+<VWE_Bullet_GaussLance.label>balle de lanceur gauss</VWE_Bullet_GaussLance.label>
+
+
+</LanguageData>

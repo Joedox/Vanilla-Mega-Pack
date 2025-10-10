@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- CastleRuins -->
+<VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->Nous avons intercepté des messages concernant les ruines d'un château abandonné qui contient un trésor, non loin de [map_definite].\n\nIl semble que [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>
+<VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] de [asker_faction_name], nous a informés de l'existence de ruines de château abandonnées qui pourraient contenir un trésor non loin de chez vous. Personne ne sait ce qu'il est advenu de ces anciens habitants, mais nous pourrons peut-être récupérer ce qu'il en reste.\n\n[asker_label] vous prévient qu'[allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>
+
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>questName(priority=1)->[journey] de [asker_nameDef] vers [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>questName->[stash] dans [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>journey->Voyage</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>journey->Expédition</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>journey->Chasse au trésor</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>journey->Aventure</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>ruins->les ruines du château</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>ruins->la forteresse en ruine</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>ruins->le château détruit</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>ruins->le château en ruine</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>ruins->le fort vide</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>stash->Planque</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>stash->Stockage</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>stash->Trésor</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>ruins->les ruines</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>ruins->le château en ruine</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>
+<VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>ruins->le fort détruit</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>
+
+<VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Les messages interceptés indiquent que le château en ruines a été fouillé par d'autres individus. La quête [resolvedQuestName] a expiré.</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+
+<!-- Skirmish -->
+<VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], dit que ses forces ont rencontré un ennemi et veulent les combattre dans un champ ouvert.\n\n[asker_nameDef] n'a personne en renfort de disponible, il vous demande de les aider, vous indiquant que si vous arrivez à temps, vous leur rendrez un grand service.</VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>
+
+<VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>questName->Escarmouche</VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>
+
+<VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef> La bataille a été résolue. La quête [resolvedQuestName] a expiré.</VFE_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>Ennemi vaincu.</VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>Tous les ennemis de la zone ont été vaincus.</VFE_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>
+
+
+</LanguageData>

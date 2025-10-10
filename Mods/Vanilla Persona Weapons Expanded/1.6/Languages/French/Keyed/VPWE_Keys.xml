@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Persona weapon for {PAWN_nameDef} -->
+<VPWE.GainedPersonaWeaponTitle>Arme consciente pour {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
+<!-- EN: Because {PAWN_nameDef} has reached a rank of {1} with The Empire, they can now be granted an ultratech persona weapon bound to them.\nYou can select the type of the weapon, as well as fully customize the look of it and the persona it comes with. Alternatively, you can close this notification and revisit it later.\nThe weapon will arrive immediately via drop pod and will be bound to {PAWN_nameDef}. -->
+<VPWE.GainedPersonaWeaponDesc>En atteignant le rang {1} dans l'Empire, {PAWN_nameDef} peut désormais se voir attribuer une arme consciente ultratech qui lui est liée.\nVous pouvez sélectionner le type d'arme, ainsi que personnaliser entièrement son apparence et sa consciente. Vous pouvez également fermer cette notification et y revenir plus tard.\nL'arme arrivera immédiatement par capsule et sera liée à {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+<!-- EN: Claim a {0} -->
+<VPWE.ClaimWeapon>Réclamer {0}</VPWE.ClaimWeapon>
+<!-- EN: Postpone -->
+<VPWE.Postpone>Reporter</VPWE.Postpone>
+<!-- EN: Claim for {PAWN_nameDef} -->
+<VPWE.ClaimFor>Réclamer pour {PAWN_nameDef}</VPWE.ClaimFor>
+<!-- EN: Persona:  -->
+<VPWE.Persona>Conscience : </VPWE.Persona>
+<!-- EN: {PAWN_nameDef} is already bonded with {1}. Are you sure you want to claim a new persona weapon? -->
+<VPWE.AlreadyBondedWarning>{PAWN_nameDef} est déjà lié à {1}. Êtes-vous sûr de vouloir réclamer une nouvelle arme consciente ?</VPWE.AlreadyBondedWarning>
+<!-- EN: Cargo pods (Persona weapon) -->
+<VPWE.ReceivedWeaponTitle>Capsule de transport (arme consciente)</VPWE.ReceivedWeaponTitle>
+<!-- EN: {0} for {PAWN_nameDef} has arrived nearby. -->
+<VPWE.ReceivedWeaponDesc>{0} pour {PAWN_nameDef} est arrivé à proximité.</VPWE.ReceivedWeaponDesc>
+<!-- EN: Psycast:  -->
+<VPWE.Psycast>Psysort : </VPWE.Psycast>
+<!-- EN: Reject -->
+<VPWE.RejectLetter>Rejeter</VPWE.RejectLetter>
+<!-- EN: Are you sure you want to reject a persona weapon for {PAWN_labelShort}? {PAWN_pronoun} won't be offered another one again. -->
+<VPWE.ConfirmReject>Êtes-vous sûr de vouloir rejeter une arme consciente pour {PAWN_labelShort} ? {PAWN_pronoun} ne se verra pas proposer une autre arme.</VPWE.ConfirmReject>
+<!-- EN: {PAWN_labelShort} is dead -->
+<VPWE.NotAllowedDead>{PAWN_labelShort} est mort{PAWN_gender ? : e }.</VPWE.NotAllowedDead>
+<!-- EN: {PAWN_labelShort} no longer has the required title -->
+<VPWE.NotAllowedNoTitle>{PAWN_labelShort} n'a plus le titre requis.</VPWE.NotAllowedNoTitle>
+<!-- EN: {PAWN_labelShort} is no longer part of your faction -->
+<VPWE.NotPlayerFaction>{PAWN_labelShort} ne fait plus partie de votre faction.</VPWE.NotPlayerFaction>
+<!-- EN: {WEAPON_label} cannot be customized and will be delivered with one or more random traits.\n\nDo you want to continue? -->
+<VPWE.NoCustomizationWeapon>{WEAPON_label} ne peut pas être personnalisé et sera livré avec un ou plusieurs traits aléatoires.\n\nVoulez-vous continuer ?</VPWE.NoCustomizationWeapon>
+<!-- EN: Could not find a spot to deliver {WEAPON_label} for {PAWN_labelShort}. -->
+<VPWE.NoDeliverySpotFound>Impossible de trouver un emplacement pour délivrer {WEAPON_label} pour {PAWN_labelShort}.</VPWE.NoDeliverySpotFound>
+
+
+</LanguageData>

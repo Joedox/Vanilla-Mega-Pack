@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<VOEAdditionalOutposts.Settings.PerPrisonerSkill>Multiplicateur de la meilleure compétence du prisonnier </VOEAdditionalOutposts.Settings.PerPrisonerSkill>
+<VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerWarden>Réduction de l'intervalle d'interaction par les gardiens </VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerWarden>
+<VOEAdditionalOutposts.Settings.MaxInteractionInterval>Intervalle d'interaction maximum </VOEAdditionalOutposts.Settings.MaxInteractionInterval>
+<VOEAdditionalOutposts.Settings.MinInteractionInterval>Intervalle d'interaction minimum </VOEAdditionalOutposts.Settings.MinInteractionInterval>
+<VOEAdditionalOutposts.Silver>{0} d'argent</VOEAdditionalOutposts.Silver>
+<VOEAdditionalOutposts.Hemogen>{0} pack d'hémogène</VOEAdditionalOutposts.Hemogen>
+<VOEAdditionalOutposts.PrisonersWork>Travail forcé</VOEAdditionalOutposts.PrisonersWork>
+<VOEAdditionalOutposts.RecruitPrisoners>Recruter</VOEAdditionalOutposts.RecruitPrisoners>
+<VOEAdditionalOutposts.EnslavePrisoners>Asservir</VOEAdditionalOutposts.EnslavePrisoners>
+<VOEAdditionalOutposts.HemogenPrisoners>Exploitation d'hémogène</VOEAdditionalOutposts.HemogenPrisoners>
+<VOEAdditionalOutposts.Prisoners>Prisonniers</VOEAdditionalOutposts.Prisoners>
+<VOEAdditionalOutposts.Wardens>Gardiens</VOEAdditionalOutposts.Wardens>
+<VOEAdditionalOutposts.InteractionInterval>Intervalle interaction</VOEAdditionalOutposts.InteractionInterval>
+<VOEAdditionalOutposts.PrisonTab>Prison </VOEAdditionalOutposts.PrisonTab>
+<VOEAdditionalOutposts.Commands.RecruitDelivery.Label>Destination des recrutés…</VOEAdditionalOutposts.Commands.RecruitDelivery.Label>
+<VOEAdditionalOutposts.Commands.RecruitDelivery.Desc>Sélectionner la colonie ou l'avant-poste qui recevra les prisonniers recrutés.\nActuellement : {0}</VOEAdditionalOutposts.Commands.RecruitDelivery.Desc>
+<VOEAdditionalOutposts.Commands.EnslaveDelivery.Label>Destination des esclaves…</VOEAdditionalOutposts.Commands.EnslaveDelivery.Label>
+<VOEAdditionalOutposts.Commands.EnslaveDelivery.Desc>Sélectionner la colonie ou l'avant-poste qui recevra les prisonniers réduits en esclavage.\nActuellement : {0}</VOEAdditionalOutposts.Commands.EnslaveDelivery.Desc>
+<VOEAdditionalOutposts.WillWarden>Gardien : {0}   |   Prisonnier : {1}\nType de travail : {2}\nProduira ce qui suit dans {3} :\n{4}</VOEAdditionalOutposts.WillWarden>
+<VOEAdditionalOutposts.Letters.PrisonFail.Label>Le pénitencier de {0} n'a rien à signaler.</VOEAdditionalOutposts.Letters.PrisonFail.Label>
+<VOEAdditionalOutposts.Letters.PrisonFail.Text>Le pénitencier n'a reçu aucun paiement. Envisager d'augmenter le nombre de gardiens ou de prisonniers.</VOEAdditionalOutposts.Letters.PrisonFail.Text>
+
+
+</LanguageData>

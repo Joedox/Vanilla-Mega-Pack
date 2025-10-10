@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<MentalStateEnraged.label>enragé</MentalStateEnraged.label>
+<MentalStateEnraged.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] devient enrag{PAWN_gender ? é : ée }</MentalStateEnraged.rulePack.rulesStrings.0>
+<MentalStateEnraged.rulePack.rulesStrings.1>image->[PAWN_nameFull] s'est enrag{PAWN_gender ? é : ée } [circumstance_group]</MentalStateEnraged.rulePack.rulesStrings.1>
+<MentalStateEnraged.rulePack.rulesStrings.2>image->[PAWN_nameFull] devient enrag{PAWN_gender ? é : ée }, violemment enrag{PAWN_gender ? é : ée } [circumstance_group]</MentalStateEnraged.rulePack.rulesStrings.2>
+<MentalStateEnraged.rulePack.rulesStrings.3>image->[PAWN_nameFull] trébuche en avant avec un regard psychotique sur son visage [circumstance_group]</MentalStateEnraged.rulePack.rulesStrings.3>
+<MentalStateEnraged.rulePack.rulesStrings.4>circumstance_phrase->en essayant de se déshabiller</MentalStateEnraged.rulePack.rulesStrings.4>
+<MentalStateEnraged.rulePack.rulesStrings.5>circumstance_phrase->après avoir été brutalement blessé</MentalStateEnraged.rulePack.rulesStrings.5>
+<MentalStateEnraged.rulePack.rulesStrings.6>circumstance_phrase->alors que d'autres se recroquevillent de peur</MentalStateEnraged.rulePack.rulesStrings.6>
+<MentalStateEnraged.rulePack.rulesStrings.7>circumstance_phrase->alors qu'un ami s'enfuit</MentalStateEnraged.rulePack.rulesStrings.7>
+<MentalStateEnraged.rulePack.rulesStrings.8>circumstance_phrase->à cause du stress</MentalStateEnraged.rulePack.rulesStrings.8>
+<MentalStateEnraged.rulePack.rulesStrings.9>circumstance_phrase->en dernière étape</MentalStateEnraged.rulePack.rulesStrings.9>
+<MentalStateEnraged.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] tremble d'une rage incontrôlable.</MentalStateEnraged.rulePack.rulesStrings.10>
+<MentalStateEnraged.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] montre les dents et pousse un grognement mortel.</MentalStateEnraged.rulePack.rulesStrings.11>
+<MentalStateEnraged.rulePack.rulesStrings.12>desc_sentence->Son regard est un gouffre mortel sombrant dans la folie.</MentalStateEnraged.rulePack.rulesStrings.12>
+<MentalStateEnraged.rulePack.rulesStrings.13>desc_sentence->Des postillons sortent de sa bouche alors qu'il hurle avec une rage folle.</MentalStateEnraged.rulePack.rulesStrings.13>
+<MentalStateEnraged.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] a perdu une partie de ses vêtements.</MentalStateEnraged.rulePack.rulesStrings.14>
+<MentalStateEnraged.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun] fait une grimace de misère.</MentalStateEnraged.rulePack.rulesStrings.15>
+<MentalStateEnraged.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] semble sourire de façon malsaine.</MentalStateEnraged.rulePack.rulesStrings.16>
+<MentalStateEnraged.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun] est représenté avec le visage hargneux d'un [Animal].</MentalStateEnraged.rulePack.rulesStrings.17>
+<MentalStateEnraged.rulePack.rulesStrings.18>desc_sentence->Le [Animal] entoure symboliquement sa tête.</MentalStateEnraged.rulePack.rulesStrings.18>
+<MentalStateEnraged.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun] a une lueur meurtrière dans son regard.</MentalStateEnraged.rulePack.rulesStrings.19>
+<MentalStateEnraged.rulePack.rulesStrings.20>desc_sentence->Son corps entier semble trembler de haine.</MentalStateEnraged.rulePack.rulesStrings.20>
+<MentalStateEnraged.rulePack.rulesStrings.21>desc_sentence->Son visage est figé dans un regard de sérénité tordue.</MentalStateEnraged.rulePack.rulesStrings.21>
+<MentalStateEnraged.rulePack.rulesStrings.22>desc_sentence->Une seule larme coule sur son visage.</MentalStateEnraged.rulePack.rulesStrings.22>
+
+
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Books Expanded</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+		<!-- +++++ Ajout du chemin des fichiers +++++ -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RulePackDef[defName="VBE_BookUtility"]/rulePack/rulesFiles</xpath>
+          <value>
+			<!-- +++++ BookStyle +++++ -->
+			<li>BookStyle->Words/BookWords/BookStyle</li>
+            <li>BookStyle_Feminine->Words/BookWords/BookStyle_Feminine</li>
+			<li>BookStyleL->Words/BookWords/BookStyleL</li>
+			<li>BookStyle_FeminineL->Words/BookWords/BookStyle_FeminineL</li>
+			<li>BookStyle_FemPlural->Words/BookWords/BookStyle_FemPlural</li>
+			<li>BookStyle_Plural->Words/BookWords/BookStyle_Plural</li>
+						<!-- +++++ ShootingSkills +++++ -->
+            <li>ShootingSkills->Words/BookWords/ShootingSkills</li>
+            <li>ShootingSkills_Feminine->Words/BookWords/ShootingSkills_Feminine</li>
+			<li>ShootingSkills_FeminineL->Words/BookWords/ShootingSkills_FeminineL</li>
+			<li>ShootingSkillsL->Words/BookWords/ShootingSkillsL</li>
+						<!-- +++++ AnimalsSkills +++++ -->
+            <li>AnimalsSkills->Words/BookWords/AnimalsSkills</li>
+            <li>AnimalsSkills_Feminine->Words/BookWords/AnimalsSkills_Feminine</li>
+			<li>AnimalsSkills_FeminineL->Words/BookWords/AnimalsSkills_FeminineL</li>
+			<li>AnimalsSkillsL->Words/BookWords/AnimalsSkillsL</li>
+						<!-- +++++ ArtSkills +++++ -->
+            <li>ArtSkills->Words/BookWords/ArtSkills</li>
+            <li>ArtSkills_Feminine->Words/BookWords/ArtSkills_Feminine</li>
+			<li>ArtSkills_FeminineL->Words/BookWords/ArtSkills_FeminineL</li>
+			<li>ArtSkillsL->Words/BookWords/ArtSkillsL</li>
+						<!-- +++++ ConstructionSkills +++++ -->
+            <li>ConstructionSkills->Words/BookWords/ConstructionSkills</li>
+            <li>ConstructionSkills_Feminine->Words/BookWords/ConstructionSkills_Feminine</li>
+			<li>ConstructionSkills_FeminineL->Words/BookWords/ConstructionSkills_FeminineL</li>
+			<li>ConstructionSkillsL->Words/BookWords/ConstructionSkillsL</li>
+						<!-- +++++ CookingSkills +++++ -->
+            <li>CookingSkills->Words/BookWords/CookingSkills</li>
+            <li>CookingSkills_Feminine->Words/BookWords/CookingSkills_Feminine</li>
+			<li>CookingSkills_FeminineL->Words/BookWords/CookingSkills_FeminineL</li>
+			<li>CookingSkillsL->Words/BookWords/CookingSkillsL</li>
+						<!-- +++++ CraftingSkills +++++ -->
+            <li>CraftingSkills->Words/BookWords/CraftingSkills</li>
+            <li>CraftingSkills_Feminine->Words/BookWords/CraftingSkills_Feminine</li>
+			<li>CraftingSkills_FeminineL->Words/BookWords/CraftingSkills_FeminineL</li>
+			<li>CraftingSkillsL->Words/BookWords/CraftingSkillsL</li>
+						<!-- +++++ GrowingSkills +++++ -->
+            <li>GrowingSkills->Words/BookWords/GrowingSkills</li>
+            <li>GrowingSkills_Feminine->Words/BookWords/GrowingSkills_Feminine</li>
+			<li>GrowingSkills_FeminineL->Words/BookWords/GrowingSkills_FeminineL</li>
+			<li>GrowingSkillsL->Words/BookWords/GrowingSkillsL</li>
+						<!-- +++++ IntellectualSkills +++++ -->
+            <li>IntellectualSkills->Words/BookWords/IntellectualSkills</li>
+            <li>IntellectualSkills_Feminine->Words/BookWords/IntellectualSkills_Feminine</li>
+			<li>IntellectualSkills_FeminineL->Words/BookWords/IntellectualSkills_FeminineL</li>
+			<li>IntellectualSkillsL->Words/BookWords/IntellectualSkillsL</li>
+						<!-- +++++ MedicalSkills +++++ -->
+            <li>MedicalSkills->Words/BookWords/MedicalSkills</li>
+            <li>MedicalSkills_Feminine->Words/BookWords/MedicalSkills_Feminine</li>
+			<li>MedicalSkills_FeminineL->Words/BookWords/MedicalSkills_FeminineL</li>
+			<li>MedicalSkillsL->Words/BookWords/MedicalSkillsL</li>
+						<!-- +++++ MeleeSkills +++++ -->
+            <li>MeleeSkills->Words/BookWords/MeleeSkills</li>
+            <li>MeleeSkills_Feminine->Words/BookWords/MeleeSkills_Feminine</li>
+			<li>MeleeSkills_FeminineL->Words/BookWords/MeleeSkills_FeminineL</li>
+			<li>MeleeSkillsL->Words/BookWords/MeleeSkillsL</li>
+						<!-- +++++ MiningSkills +++++ -->
+            <li>MiningSkills->Words/BookWords/MiningSkills</li>
+            <li>MiningSkills_Feminine->Words/BookWords/MiningSkills_Feminine</li>
+			<li>MiningSkills_FeminineL->Words/BookWords/MiningSkills_FeminineL</li>
+			<li>MiningSkillsL->Words/BookWords/MiningSkillsL</li>
+						<!-- +++++ SocialSkills +++++ -->
+            <li>SocialSkills->Words/BookWords/SocialSkills</li>
+            <li>SocialSkills_Feminine->Words/BookWords/SocialSkills_Feminine</li>
+			<li>SocialSkills_FeminineL->Words/BookWords/SocialSkills_FeminineL</li>
+			<li>SocialSkillsL->Words/BookWords/SocialSkillsL</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+
+</Patch>

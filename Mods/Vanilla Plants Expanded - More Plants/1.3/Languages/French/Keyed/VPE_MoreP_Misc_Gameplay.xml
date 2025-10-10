@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VCE_AquaticGrowingZone>Zone agricole aquatique</VCE_AquaticGrowingZone>
+<VCE_AquaticGrowingZoneDesc>Créer une zone où vos colons tenteront de faire pousser des plantes aquatiques. Les plantes aquatiques ignorent la fertilité du terrain mais prennent beaucoup de temps à être semées et récoltées.\n\nCette zone ne peut pas être placée sur des eaux océaniques (salées).</VCE_AquaticGrowingZoneDesc>
+
+<VCE_SandyGrowingZone>Zone agricole sableuse</VCE_SandyGrowingZone>
+<VCE_SandyGrowingZoneDesc>Créer une zone où vos colons essaieront de faire pousser des plantes sableuses. Les plantes sableuses ignorent la fertilité du terrain mais prennent beaucoup de temps à être semées et récoltées.\n\nCette zone ne peut pas être placée sur le sable fin.</VCE_SandyGrowingZoneDesc>
+
+<VCE_NotInEquator>Pas dans la région équatoriale (sur cette planète, en dessous de la latitude {0}). Croissance normale.</VCE_NotInEquator>
+<VCE_InEquator>Dans la région équatoriale, la croissance est 30 % plus rapide.</VCE_InEquator>
+
+<VCE_NeedsShade>Cette plante a besoin de pousser à l'ombre : à l'extérieur, mais sous un toit.</VCE_NeedsShade>
+
+<VCE_Pollinated>Ruche à proximité</VCE_Pollinated>
+<VCE_NotPollinated>Aucune ruche trouvée dans un rayon de 6 cases (calculé à la plantation).</VCE_NotPollinated>
+
+<VCE_CarrotsNearby>Carotte{0_multiple ? s : } plantée{0_multiple ? s : } à proximité : {0}/100</VCE_CarrotsNearby>
+<VCE_BeansNearby>Haricot{0_multiple ? s : } vert{0_multiple ? s : } planté{0_multiple ? s : } à proximité : {0}/100</VCE_BeansNearby>
+
+<VCE_StuntedGrowthFertility>Croissance réduite en raison d'un sol non rocailleux.</VCE_StuntedGrowthFertility>
+<VCE_StoppedGrowthFertility>Croissance impossible en raison d'un terrain trop fertile.</VCE_StoppedGrowthFertility>
+
+<VCE_WaterNearby>Un plan d'eau à proximité empêche la croissance de cette plante.</VCE_WaterNearby>
+<VCE_NoWaterNearby>L'absence d'un plan d'eau à proximité empêche la croissance de cette plante.</VCE_NoWaterNearby>
+
+<VCE_NoSeaTilesNearby>Trop loin de la mer, pas de bonus de croissance supplémentaire.</VCE_NoSeaTilesNearby>
+<VCE_SeaTilesNearby>{0} case{0_multiple ? s : } de mer à proximité, {0}% de croissance bonus.</VCE_SeaTilesNearby>
+
+
+</LanguageData>

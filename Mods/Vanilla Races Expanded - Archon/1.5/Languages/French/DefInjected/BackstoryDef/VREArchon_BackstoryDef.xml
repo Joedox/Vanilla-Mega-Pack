@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+<VREA_VoidStrider.description>{PAWN_nameDef} errait dans les profondeurs du vide sans dimension, exploitant les énergies qui s'y trouvaient. {PAWN_pronoun} fut l'un{PAWN_gender ? : e } des premi{PAWN_gender ? ers : ères } à être remodelé{PAWN_gender ? : e } par l'archotech et maîtrisa rapidement l'art de capturer les âmes.</VREA_VoidStrider.description>
+<VREA_VoidStrider.title>arpenteur du vide</VREA_VoidStrider.title>
+<VREA_VoidStrider.titleShort>arpenteur</VREA_VoidStrider.titleShort>
+
+<VREA_DimensionalSmith.description>{PAWN_nameDef} fabriquait des armes en utilisant les énergies du vide. Forgé{PAWN_gender ? : e } à partir du tissu même de sa dimension, {PAWN_pronoun} est devenu{PAWN_gender ? : e } un maître dans la fabrication des armes les plus meurtrières pour les Archons.</VREA_DimensionalSmith.description>
+<VREA_DimensionalSmith.title>forgeron dimensionnel</VREA_DimensionalSmith.title>
+<VREA_DimensionalSmith.titleShort>forgeron</VREA_DimensionalSmith.titleShort>
+
+<VREA_VoidWhisperer.description>{PAWN_nameDef} communiquait avec l'archotech, canalisant ses intentions et les traduisant aux Archons. Ces communions ont fait des ravages et l'ont détaché du monde physique.</VREA_VoidWhisperer.description>
+<VREA_VoidWhisperer.title>chuchoteur du vide</VREA_VoidWhisperer.title>
+<VREA_VoidWhisperer.titleFemale>chuchoteuse du vide</VREA_VoidWhisperer.titleFemale>
+<VREA_VoidWhisperer.titleShort>chuchoteur</VREA_VoidWhisperer.titleShort>
+<VREA_VoidWhisperer.titleShortFemale>chuchoteuse</VREA_VoidWhisperer.titleShortFemale>
+
+<VREA_NexusGuard.description>Chargé{PAWN_gender ? : e } de garder les portails reliant les dimensions, {PAWN_nameDef} montait la garde, s'assurant qu'aucun intrus ne menaçait leur royaume et maîtrisant à la fois la lame et les balles.</VREA_NexusGuard.description>
+<VREA_NexusGuard.title>gardien du nexus</VREA_NexusGuard.title>
+<VREA_NexusGuard.titleFemale>gardienne du nexus</VREA_NexusGuard.titleFemale>
+<VREA_NexusGuard.titleShort>gardien</VREA_NexusGuard.titleShort>
+<VREA_NexusGuard.titleShortFemale>gardienne</VREA_NexusGuard.titleShortFemale>
+
+<VREA_AstralHunter.description>{PAWN_nameDef} rôdait dans les étoiles, enlevant des êtres sur diverses planètes. Habile dans l'art de la furtivité et de la surprise, {PAWN_pronoun} était l'incarnation de la peur pour de nombreuses civilisations.</VREA_AstralHunter.description>
+<VREA_AstralHunter.title>chasseur astral</VREA_AstralHunter.title>
+<VREA_AstralHunter.titleFemale>chasseresse astral</VREA_AstralHunter.titleFemale>
+<VREA_AstralHunter.titleShort>chasseur</VREA_AstralHunter.titleShort>
+<VREA_AstralHunter.titleShortFemale>chasseresse</VREA_AstralHunter.titleShortFemale>
+
+<VREA_VoidPhilosopher.description>En quête de réponses dans le vide infini, {PAWN_nameDef} est devenu{PAWN_gender ? : e } un{PAWN_gender ? : e } chercheu{PAWN_gender ? r : se } de vérités. Se plongeant dans des questions existentielles, {PAWN_pronoun} cherche à comprendre la place des Archons dans l'univers.</VREA_VoidPhilosopher.description>
+<VREA_VoidPhilosopher.title>philosophe du vide</VREA_VoidPhilosopher.title>
+<VREA_VoidPhilosopher.titleShort>philosophe</VREA_VoidPhilosopher.titleShort>
+
+<VREA_StellarAgriculturist.description>{PAWN_nameDef} cultivait d'étranges plantes, nées des énergies du vide. Grâce à ses connaissances, les colonies Archon ont prospéré, tirant leur subsistance du tissu même de leur dimension.</VREA_StellarAgriculturist.description>
+<VREA_StellarAgriculturist.title>agriculteur stellaire</VREA_StellarAgriculturist.title>
+<VREA_StellarAgriculturist.titleFemale>agricultrice stellaire</VREA_StellarAgriculturist.titleFemale>
+<VREA_StellarAgriculturist.titleShort>agriculteur</VREA_StellarAgriculturist.titleShort>
+<VREA_StellarAgriculturist.titleShortFemale>agricultrice</VREA_StellarAgriculturist.titleShortFemale>
+
+<VREA_HarmonicTuner.description>{PAWN_nameDef} s'efforçait de maintenir l'équilibre de la dimension des Archons. À l'aide d'instruments uniques, {PAWN_pronoun} harmonisait les énergies, assurant ainsi la stabilité de leur royaume autrement chaotique.</VREA_HarmonicTuner.description>
+<VREA_HarmonicTuner.title>syntoniseur harmonique</VREA_HarmonicTuner.title>
+<VREA_HarmonicTuner.titleShort>syntoniseur</VREA_HarmonicTuner.titleShort>
+
+<VREA_StellarCartographer.description>Dans les vastes étendues de la dimension alternative, {PAWN_nameDef} a cartographié les énergies et les voies invisibles. Chaque pulsar, chaque trou noir, chaque nébuleuse, {PAWN_pronoun} les a documentés, s'assurant ainsi que les Archons ne perdent jamais leur chemin.</VREA_StellarCartographer.description>
+<VREA_StellarCartographer.title>cartographe stellaire</VREA_StellarCartographer.title>
+<VREA_StellarCartographer.titleShort>cartographe</VREA_StellarCartographer.titleShort>
+
+<VREA_VoidHarmonizer.description>{PAWN_nameDef} était un{PAWN_gender ? : e } artiste de l'éthéré{PAWN_gender ? : e }, composant des symphonies qui résonnaient avec le tissu même du vide. {PAWN_pronoun} apportait réconfort et introspection aux Archons, les reliant à leur passé perdu.</VREA_VoidHarmonizer.description>
+<VREA_VoidHarmonizer.title>harmoniseur du vide</VREA_VoidHarmonizer.title>
+<VREA_VoidHarmonizer.titleShort>harmoniseur</VREA_VoidHarmonizer.titleShort>
+
+<VREA_EtherealAgriculturist.description>Sur les plans spectraux de leur royaume, {PAWN_nameDef} cultivait des plantes imprégnées des énergies du vide. {PAWN_pronoun} nourrissait les Archons, leur assurant une subsistance à la fois physique et éthérée.</VREA_EtherealAgriculturist.description>
+<VREA_EtherealAgriculturist.title>agriculteur éthéré</VREA_EtherealAgriculturist.title>
+<VREA_EtherealAgriculturist.titleFemale>agricultrice éthéré</VREA_EtherealAgriculturist.titleFemale>
+<VREA_EtherealAgriculturist.titleShort>agriculteur</VREA_EtherealAgriculturist.titleShort>
+<VREA_EtherealAgriculturist.titleShortFemale>agricultrice</VREA_EtherealAgriculturist.titleShortFemale>
+
+<VREA_DimensionalPhilosopher.description>{PAWN_nameDef} réfléchit à l'existence des Archons et à la nature de leur captivité. Par l'introspection et le débat, {PAWN_pronoun} a cherché à découvrir le but et le sens de leur existence.</VREA_DimensionalPhilosopher.description>
+<VREA_DimensionalPhilosopher.title>philosophe dimensionnel</VREA_DimensionalPhilosopher.title>
+<VREA_DimensionalPhilosopher.titleShort>philosophe</VREA_DimensionalPhilosopher.titleShort>
+
+<VREA_VoidMediator.description>Dans une société de guerriers et de mystiques, les conflits sont inévitables. {PAWN_nameDef} servait de médiat{PAWN_gender ? eur : rice }, mettant à profit sa connaissance approfondie des coutumes des Archons et de la danse complexe de la politique dimensionnelle.</VREA_VoidMediator.description>
+<VREA_VoidMediator.title>médiateur du vide</VREA_VoidMediator.title>
+<VREA_VoidMediator.titleFemale>médiatrice du vide</VREA_VoidMediator.titleFemale>
+<VREA_VoidMediator.titleShort>médiateur</VREA_VoidMediator.titleShort>
+<VREA_VoidMediator.titleShortFemale>médiatrice</VREA_VoidMediator.titleShortFemale>
+
+<VREA_VoidVanguard.description>{PAWN_nameDef} a été l'un{PAWN_gender ? : e } des premi{PAWN_gender ? ers : ères } à ouvrir des portails vers des dimensions inconnues. Menant la charge, {PAWN_pronoun} a exploré les royaumes hostiles, assurant un point d'appui aux forces Archon qui suivaient.</VREA_VoidVanguard.description>
+<VREA_VoidVanguard.title>avant-garde du vide</VREA_VoidVanguard.title>
+<VREA_VoidVanguard.titleShort>avant-garde</VREA_VoidVanguard.titleShort>
+
+<VREA_EtherealAssassin.description>Se déplaçant silencieusement dans les ombres du vide, {PAWN_nameDef} était une menace invisible. Entraîné{PAWN_gender ? : e } à éliminer des cibles de premier plan, {PAWN_pronoun} semait la terreur dans le cœur de ceux qui défiaient les Archons.</VREA_EtherealAssassin.description>
+<VREA_EtherealAssassin.title>assassin éthéré</VREA_EtherealAssassin.title>
+<VREA_EtherealAssassin.titleShort>assassin</VREA_EtherealAssassin.titleShort>
+
+<VREA_DimensionalStrategist.description>{PAWN_nameDef} excellait dans l'art de la guerre multidimensionnelle. Chargé{PAWN_gender ? : e } d'orchestrer de vastes invasions, {PAWN_pronoun} a renversé le cours des batailles dans d'innombrables réalités.</VREA_DimensionalStrategist.description>
+<VREA_DimensionalStrategist.title>stratège dimensionnel</VREA_DimensionalStrategist.title>
+<VREA_DimensionalStrategist.titleShort>stratège</VREA_DimensionalStrategist.titleShort>
+
+<VREA_WarpBladesman.description>{PAWN_nameDef} était un maître de la lame de distorsion, une arme qui traverse les dimensions. {PAWN_pronoun} s'entraînait sans relâche et n'avait pas son pareil pour combattre au corps-à-corps.</VREA_WarpBladesman.description>
+<VREA_WarpBladesman.title>fine lame de distorsion</VREA_WarpBladesman.title>
+<VREA_WarpBladesman.titleShort>fine lame</VREA_WarpBladesman.titleShort>
+
+<VREA_VoidshieldGuardian.description>Chargé{PAWN_gender ? : e } de défendre les bastions des Archons, {PAWN_nameDef} manipulait des boucliers qui absorbaient les énergies du vide. Sous sa surveillance, aucun ennemi n'a jamais franchi son poste.</VREA_VoidshieldGuardian.description>
+<VREA_VoidshieldGuardian.title>gardien bouclier du vide</VREA_VoidshieldGuardian.title>
+<VREA_VoidshieldGuardian.titleFemale>gardienne bouclier du vide</VREA_VoidshieldGuardian.titleFemale>
+<VREA_VoidshieldGuardian.titleShort>gardien</VREA_VoidshieldGuardian.titleShort>
+<VREA_VoidshieldGuardian.titleShortFemale>gardienne</VREA_VoidshieldGuardian.titleShortFemale>
+
+<VREA_ArchohavenArchitect.description>Des légendes chuchotées parlent de {PAWN_nameDef}, un bâtisseur des insaisissables archohavres. Utilisant des connaissances perdues pour la plupart, {PAWN_pronoun} a créé des passerelles vers des royaumes insondables, enveloppés de secrets que même les autres Archons peuvent à peine saisir.</VREA_ArchohavenArchitect.description>
+<VREA_ArchohavenArchitect.title>architecte archohavre</VREA_ArchohavenArchitect.title>
+<VREA_ArchohavenArchitect.titleShort>architecte</VREA_ArchohavenArchitect.titleShort>
+
+<VREA_DimensionalWarden.description>Dans les voiles chatoyants des archohavres, {PAWN_nameDef} montait la garde. Chargé{PAWN_gender ? : e } de préserver le caractère sacré de ces royaumes mystérieux, {PAWN_pronoun} naviguait entre la réalité et l'inimaginable, veillant à ce qu'aucune entité indésirable ne puisse s'y introduire.</VREA_DimensionalWarden.description>
+<VREA_DimensionalWarden.title>gardien dimensionnel</VREA_DimensionalWarden.title>
+<VREA_DimensionalWarden.titleFemale>gardienne dimensionnel</VREA_DimensionalWarden.titleFemale>
+<VREA_DimensionalWarden.titleShort>gardien</VREA_DimensionalWarden.titleShort>
+<VREA_DimensionalWarden.titleShortFemale>gardienne</VREA_DimensionalWarden.titleShortFemale>
+
+<VREA_VoidHarmonizer2.description>D'un geste aussi léger qu'un murmure, {PAWN_nameDef} maintenait l'équilibre délicat des archohavres. {PAWN_pronoun} chantait aux énergies du vide, veillant à ce que les portails restent stables et cachés, leur emplacement étant un secret même pour les étoiles elles-mêmes.</VREA_VoidHarmonizer2.description>
+<VREA_VoidHarmonizer2.title>harmoniseur du vide</VREA_VoidHarmonizer2.title>
+<VREA_VoidHarmonizer2.titleShort>harmoniseur</VREA_VoidHarmonizer2.titleShort>
+
+<VREA_EclipsedGeneral.description>Du coin le plus sombre du vide, {PAWN_nameDef} a émergé, un{PAWN_gender ? : e } tacticien{PAWN_gender ? : ne } inégalé{PAWN_gender ? : e }. {PAWN_pronoun} dirigea des légions d'Archons dans leurs campagnes les plus cruciales, toujours une figure obscure sur le champ de bataille, dirigeant la danse de la guerre avec un éclat impénétrable.</VREA_EclipsedGeneral.description>
+<VREA_EclipsedGeneral.title>général éclipsé</VREA_EclipsedGeneral.title>
+<VREA_EclipsedGeneral.titleShort>général</VREA_EclipsedGeneral.titleShort>
+
+<VREA_AstralVanguard.description>{PAWN_nameDef} était l{PAWN_gender ? e : a } premi{PAWN_gender ? er : ère } à entrer dans la mêlée et l{PAWN_gender ? e : a } derni{PAWN_gender ? er : ère } à battre en retraite. En tant que chef de l'avant-garde d'élite de l'Archon, {PAWN_pronoun} a tracé des chemins à travers les dimensions, menant la charge contre des obstacles insurmontables avec une détermination inébranlable.</VREA_AstralVanguard.description>
+<VREA_AstralVanguard.title>avant-garde astrale</VREA_AstralVanguard.title>
+<VREA_AstralVanguard.titleShort>avant-garde</VREA_AstralVanguard.titleShort>
+
+<VREA_CelestialStrategist.description>Maniant des connaissances issues d'innombrables royaumes, {PAWN_nameDef} mettait au point les plus grands projets des Archons. Ses stratégies étaient aussi complexes que les constellations, laissant ses ennemis dans un état d'admiration et de désespoir équivalents.</VREA_CelestialStrategist.description>
+<VREA_CelestialStrategist.title>stratège céleste</VREA_CelestialStrategist.title>
+<VREA_CelestialStrategist.titleShort>stratège</VREA_CelestialStrategist.titleShort>
+
+<VREA_VoidMarauder.description>En première ligne, {PAWN_nameDef} était une force du chaos au sein de la hiérarchie des Archons. Avec un penchant pour les assauts audacieux et une soif d'émotions fortes, {PAWN_pronoun} a mené des invasions qui ont semé l'effroi dans le cœur des galaxies.</VREA_VoidMarauder.description>
+<VREA_VoidMarauder.title>maraudeur du vide</VREA_VoidMarauder.title>
+<VREA_VoidMarauder.titleShort>maraudeur</VREA_VoidMarauder.titleShort>
+
+<VREA_DimensionalNomad.description>{PAWN_nameDef} a erré à travers les dimensions, toujours en quête, toujours en train d'explorer. Ce voyage sans fin lui a inculqué un sens aigu de la survie, un esprit vif et une capacité d'adaptation inégalée.</VREA_DimensionalNomad.description>
+<VREA_DimensionalNomad.title>nomade dimensionnel</VREA_DimensionalNomad.title>
+<VREA_DimensionalNomad.titleShort>nomade</VREA_DimensionalNomad.titleShort>
+
+<VREA_HarmonicArtisan.description>Avec un lien profond avec les énergies cosmiques, {PAWN_nameDef} a créé des objets d'une beauté extraordinaire. Ses œuvres résonnaient avec l'essence des dimensions, exigeant à la fois art et intelligence.</VREA_HarmonicArtisan.description>
+<VREA_HarmonicArtisan.title>artisan harmonique</VREA_HarmonicArtisan.title>
+<VREA_HarmonicArtisan.titleShort>artisan</VREA_HarmonicArtisan.titleShort>
+
+<VREA_OmnipotentGardener.description>{PAWN_nameDef} avait le don de faire fleurir même la dimension la plus stérile. Ses connaissances en botanique étaient inégalées, car {PAWN_pronoun} cultivait des plantes qui fusionnaient les réalités.</VREA_OmnipotentGardener.description>
+<VREA_OmnipotentGardener.title>jardinier omnipotent</VREA_OmnipotentGardener.title>
+<VREA_OmnipotentGardener.titleShort>jardinier</VREA_OmnipotentGardener.titleShort>
+
+<VREA_CelestialDiplomat.description>{PAWN_nameDef} était la voix de l'Archon, négociant avec les êtres interdimensionnels. À chaque conversation, {PAWN_pronoun} équilibrait magistralement la balance entre la paix et le pouvoir, assurant ainsi la place des Archons dans l'ordre cosmique.</VREA_CelestialDiplomat.description>
+<VREA_CelestialDiplomat.title>diplomate céleste</VREA_CelestialDiplomat.title>
+<VREA_CelestialDiplomat.titleShort>diplomate</VREA_CelestialDiplomat.titleShort>
+
+<VREA_VoidFarmer.description>En marge du royaume des Archons, {PAWN_nameDef} cultivait dans le vide. Exploitant les énergies du cosmos, {PAWN_pronoun} nourrit et fait pousser une flore d'un autre monde grâce à ses techniques uniques.</VREA_VoidFarmer.description>
+<VREA_VoidFarmer.title>fermier du vide</VREA_VoidFarmer.title>
+<VREA_VoidFarmer.titleFemale>fermière du vide</VREA_VoidFarmer.titleFemale>
+<VREA_VoidFarmer.titleShort>fermier</VREA_VoidFarmer.titleShort>
+<VREA_VoidFarmer.titleShortFemale>fermière</VREA_VoidFarmer.titleShortFemale>
+
+<VREA_StarWhisperer.description>Lié{PAWN_gender ? : e } au cosmos, {PAWN_nameDef} avait une affinité unique pour comprendre les corps célestes. {PAWN_pronoun} communiquait avec les étoiles, glanant des connaissances sur l'univers et ses mystérieux rouages.</VREA_StarWhisperer.description>
+<VREA_StarWhisperer.title>chuchoteur d'étoiles</VREA_StarWhisperer.title>
+<VREA_StarWhisperer.titleShort>chuchoteur</VREA_StarWhisperer.titleShort>
+
+<VREA_DimensionalArtisan.description>{PAWN_nameDef} était vénéré{PAWN_gender ? : e } en tant qu'architecte de l'abstrait, pliant le tissu même des dimensions à sa volonté. {PAWN_pronoun} construisait des monuments qui défiaient l'entendement, fusionnant beauté et fonctionnalité de manière inimaginable.</VREA_DimensionalArtisan.description>
+<VREA_DimensionalArtisan.title>artisan dimensionnel</VREA_DimensionalArtisan.title>
+<VREA_DimensionalArtisan.titleShort>artisan</VREA_DimensionalArtisan.titleShort>
+
+<VREA_EltexScholar.description>Dès son plus jeune âge, {PAWN_nameDef} a été obsédé{PAWN_gender ? : e } par les mystères de l'eltex. {PAWN_pronoun} a consacré sa vie à l'étude de ses propriétés et de ses applications potentielles, devenant l'un{PAWN_gender ? : e } des plus grand{PAWN_gender ? s : es } expert{PAWN_gender ? s : es } de ses capacités d'amélioration psychique.</VREA_EltexScholar.description>
+<VREA_EltexScholar.title>érudit de l'eltex</VREA_EltexScholar.title>
+<VREA_EltexScholar.titleFemale>érudite de l'eltex</VREA_EltexScholar.titleFemale>
+<VREA_EltexScholar.titleShort>érudit</VREA_EltexScholar.titleShort>
+<VREA_EltexScholar.titleShortFemale>érudite</VREA_EltexScholar.titleShortFemale>
+
+<VREA_EltexAlchemist.description>Grâce à des techniques avancées, {PAWN_nameDef} a appris à exploiter et à raffiner l'eltex pour en faire de puissantes concoctions. Ces breuvages pouvaient amplifier les capacités psychiques ou être utilisés comme des objets d'échange précieux, ce qui faisait de {PAWN_nameDef} une personne recherchée dans diverses dimensions.</VREA_EltexAlchemist.description>
+<VREA_EltexAlchemist.title>alchimiste de l'eltex</VREA_EltexAlchemist.title>
+<VREA_EltexAlchemist.titleShort>alchimiste</VREA_EltexAlchemist.titleShort>
+
+<VREA_EltexHunter.description>{PAWN_nameDef} avait un don rare ; la capacité innée de sentir l'eltex à travers les dimensions. En tant que chasse{PAWN_gender ? ur : resse } d'eltex, {PAWN_pronoun} a voyagé à travers des réalités instables, bravant des dangers inimaginables pour récupérer cette ressource inestimable pour les Archons.</VREA_EltexHunter.description>
+<VREA_EltexHunter.title>chasseur d'eltex</VREA_EltexHunter.title>
+<VREA_EltexHunter.titleFemale>chasseresse d'eltex</VREA_EltexHunter.titleFemale>
+<VREA_EltexHunter.titleShort>chasseur</VREA_EltexHunter.titleShort>
+<VREA_EltexHunter.titleShortFemale>chasseresse</VREA_EltexHunter.titleShortFemale>
+
+<VREA_ArchonPsyLord.description>En tant que Psy-seigneur, {PAWN_nameDef} possédait une maîtrise inégalée des énergies psychiques. {PAWN_pronoun} formait des légions d'Archons aux arts anciens et, d'une simple pensée, {PAWN_pronoun} pouvait remodeler la réalité ou plier les esprits à sa volonté.</VREA_ArchonPsyLord.description>
+<VREA_ArchonPsyLord.title>psy-seigneur</VREA_ArchonPsyLord.title>
+<VREA_ArchonPsyLord.titleShort>psy-seigneur</VREA_ArchonPsyLord.titleShort>
+
+<VREA_ArchonMindweaver.description>{PAWN_nameDef} s'est plongé{PAWN_gender ? : e } dans les méandres de la psyché. En tant que tisseu{PAWN_gender ? r : se } d'esprit, {PAWN_pronoun} avait la capacité unique de tisser des pensées, des souvenirs et des émotions, créant des tapisseries complexes de perception qui pouvaient captiver ou terrifier.</VREA_ArchonMindweaver.description>
+<VREA_ArchonMindweaver.title>tisseur d'esprit</VREA_ArchonMindweaver.title>
+<VREA_ArchonMindweaver.titleFemale>tisseuse d'esprit</VREA_ArchonMindweaver.titleFemale>
+<VREA_ArchonMindweaver.titleShort>tisseur d'esprit</VREA_ArchonMindweaver.titleShort>
+<VREA_ArchonMindweaver.titleShortFemale>tisseuse d'esprit</VREA_ArchonMindweaver.titleShortFemale>
+
+<VREA_ArchonDreamseer.description>{PAWN_nameDef} était un{PAWN_gender ? : e } voyant{PAWN_gender ? : e } des rêves, un psylanceur d'élite qui s'aventurait dans le monde des rêves. Naviguant dans les domaines éphémères du rêve et de la pensée, {PAWN_pronoun} pouvait découvrir des secrets, délivrer des messages ou implanter des suggestions au plus profond du subconscient.</VREA_ArchonDreamseer.description>
+<VREA_ArchonDreamseer.title>voyant des rêves</VREA_ArchonDreamseer.title>
+<VREA_ArchonDreamseer.titleFemale>voyante des rêves</VREA_ArchonDreamseer.titleFemale>
+<VREA_ArchonDreamseer.titleShort>voyant des rêves</VREA_ArchonDreamseer.titleShort>
+<VREA_ArchonDreamseer.titleShortFemale>voyante des rêves</VREA_ArchonDreamseer.titleShortFemale>
+
+<VREA_ArchonDreamchild.description>Dès son plus jeune âge, {PAWN_nameDef} a fait preuve d'une capacité innée à naviguer dans les royaumes éthérés des rêves. Les anciens ont nourri son don, lui apprenant à interpréter les présages et à converser avec les esprits dans le monde des rêves.</VREA_ArchonDreamchild.description>
+<VREA_ArchonDreamchild.title>enfant de rêve</VREA_ArchonDreamchild.title>
+<VREA_ArchonDreamchild.titleShort>enfant de rêve</VREA_ArchonDreamchild.titleShort>
+
+<VREA_ArchonVoidwalker.description>Manifestant une étrange attirance pour le vide, {PAWN_nameDef} s'aventurait souvent dans des endroits isolés, touchés par le vide. Ces premières expériences l'ont imprégné d'un lien profond avec le vaste inconnu.</VREA_ArchonVoidwalker.description>
+<VREA_ArchonVoidwalker.title>marcheur du vide initié</VREA_ArchonVoidwalker.title>
+<VREA_ArchonVoidwalker.titleFemale>marcheuse du vide initiée</VREA_ArchonVoidwalker.titleFemale>
+<VREA_ArchonVoidwalker.titleShort>initié</VREA_ArchonVoidwalker.titleShort>
+<VREA_ArchonVoidwalker.titleShortFemale>initiée</VREA_ArchonVoidwalker.titleShortFemale>
+
+<VREA_ArchonNexusborn.description>Né{PAWN_gender ? : e } près d'un puissant nexus Archon, la forme de {PAWN_nameDef} résonnait avec les énergies psychiques. Son enfance a été marquée par une sensibilité accrue et des événements précognitifs, faisant {PAWN_gender ? de lui: d'elle } un{PAWN_gender ? : e } prodige parmi ses pairs.</VREA_ArchonNexusborn.description>
+<VREA_ArchonNexusborn.title>né près du nexus</VREA_ArchonNexusborn.title>
+<VREA_ArchonNexusborn.titleFemale>née près du nexus</VREA_ArchonNexusborn.titleFemale>
+<VREA_ArchonNexusborn.titleShort>né près du nexus</VREA_ArchonNexusborn.titleShort>
+<VREA_ArchonNexusborn.titleShortFemale>née près du nexus</VREA_ArchonNexusborn.titleShortFemale>
+
+<VREA_ArchonStarwhisperer.description>{PAWN_nameDef} a grandi sous la direction des anciens Archons, qui lui ont appris à déchiffrer les chuchotements des étoiles lointaines. {PAWN_pronoun} a développé un sens aigu de l'orientation et une compréhension des rythmes cosmiques.</VREA_ArchonStarwhisperer.description>
+<VREA_ArchonStarwhisperer.title>chuchoteur d'étoiles</VREA_ArchonStarwhisperer.title>
+<VREA_ArchonStarwhisperer.titleShort>chuchoteur d'étoiles</VREA_ArchonStarwhisperer.titleShort>
+
+<VREA_ArchonNoviceCasterChild.description>{PAWN_nameDef} a grandi dans une enclave isolée de psylanceur Archon. Bien qu'{PAWN_pronoun} ne soit pas encore un maître, {PAWN_pronoun} s'entraînait régulièrement et se montrait prometteu{PAWN_gender ? r : se } dans la manipulation des forces psychiques de base. Les jeux avec ses camarades consistaient souvent à plier des cuillères ou à faire léviter des objets.</VREA_ArchonNoviceCasterChild.description>
+<VREA_ArchonNoviceCasterChild.title>psylanceur novice</VREA_ArchonNoviceCasterChild.title>
+<VREA_ArchonNoviceCasterChild.titleShort>novice</VREA_ArchonNoviceCasterChild.titleShort>
+
+<VREA_ArchonChildExplorer.description>Depuis son plus jeune âge, {PAWN_nameDef} est curieu{PAWN_gender ? x : se } des failles dimensionnelles qui entourent les habitats d'Archon. Avec ses amis, {PAWN_pronoun} explorait ces poches de réalité, apprenant à naviguer sur les terrains imprévisibles et étudiant la flore et la faune uniques.</VREA_ArchonChildExplorer.description>
+<VREA_ArchonChildExplorer.title>explorateur dimensionnel</VREA_ArchonChildExplorer.title>
+<VREA_ArchonChildExplorer.titleFemale>exploratrice dimensionnel</VREA_ArchonChildExplorer.titleFemale>
+<VREA_ArchonChildExplorer.titleShort>explorateur</VREA_ArchonChildExplorer.titleShort>
+<VREA_ArchonChildExplorer.titleShortFemale>exploratrice</VREA_ArchonChildExplorer.titleShortFemale>
+
+<VREA_ArchonStarChild.description>Né{PAWN_gender ? : e } au milieu des énergies tourbillonnantes d'une nébuleuse, {PAWN_nameDef} a été à l'écoute du cosmos dès son plus jeune âge. Alors que les autres enfants Archon jouaient dans les royaumes temporels, {PAWN_pronoun} contemplait les étoiles, rêvant de galaxies lointaines et d'aventures cosmiques.</VREA_ArchonStarChild.description>
+<VREA_ArchonStarChild.title>enfant-étoile</VREA_ArchonStarChild.title>
+<VREA_ArchonStarChild.titleShort>enfant</VREA_ArchonStarChild.titleShort>
+
+<VREA_ArchonVoidrunner.description>{PAWN_nameDef} a passé ses premières années à courir dans les interstices entre les dimensions. Enfant espiègle, {PAWN_pronoun} se faufilait souvent dans les failles de la réalité, entraînant ses camarades dans de folles poursuites à travers le temps et l'espace.</VREA_ArchonVoidrunner.description>
+<VREA_ArchonVoidrunner.title>coureur du vide</VREA_ArchonVoidrunner.title>
+<VREA_ArchonVoidrunner.titleFemale>coureuse du vide</VREA_ArchonVoidrunner.titleFemale>
+<VREA_ArchonVoidrunner.titleShort>coureur du vide</VREA_ArchonVoidrunner.titleShort>
+<VREA_ArchonVoidrunner.titleShortFemale>coureuse du vide</VREA_ArchonVoidrunner.titleShortFemale>
+
+<VREA_ArchonNexusScholar.description>En tant qu'érudit{PAWN_gender ? : e } du nexus, {PAWN_nameDef} a passé ses années de formation à étudier les anciennes connexions entre les dimensions. Si sa curiosité lui a souvent valu des ennuis, elle lui a aussi permis d'acquérir une profonde compréhension du royaume cosmique de l'Archon.</VREA_ArchonNexusScholar.description>
+<VREA_ArchonNexusScholar.title>érudit du nexus</VREA_ArchonNexusScholar.title>
+<VREA_ArchonNexusScholar.titleFemale>érudite du nexus</VREA_ArchonNexusScholar.titleFemale>
+<VREA_ArchonNexusScholar.titleShort>érudit</VREA_ArchonNexusScholar.titleShort>
+<VREA_ArchonNexusScholar.titleShortFemale>érudite</VREA_ArchonNexusScholar.titleShortFemale>
+
+<VREA_ArchonLuminaryApprentice.description>{PAWN_nameDef} était l'apprenti{PAWN_gender ? : e } d'un corps céleste, l'aidant à effectuer des tâches de base dans son atelier. {PAWN_pronoun} passait la plupart de ses journées à trier des cristaux, à nettoyer des outils et, à l'occasion, à participer à des expériences simples.</VREA_ArchonLuminaryApprentice.description>
+<VREA_ArchonLuminaryApprentice.title>apprenti corps céleste</VREA_ArchonLuminaryApprentice.title>
+<VREA_ArchonLuminaryApprentice.titleFemale>apprentie corps céleste</VREA_ArchonLuminaryApprentice.titleFemale>
+<VREA_ArchonLuminaryApprentice.titleShort>apprenti</VREA_ArchonLuminaryApprentice.titleShort>
+<VREA_ArchonLuminaryApprentice.titleShortFemale>apprentie</VREA_ArchonLuminaryApprentice.titleShortFemale>
+
+<VREA_ArchonDimensionalFarmer.description>{PAWN_nameDef} a grandi dans une ferme qui produisait des récoltes transdimensionnelles. {PAWN_pronoun} passait ses journées à s'occuper des récoltes et à apprendre les changements de saison dans les différentes dimensions.</VREA_ArchonDimensionalFarmer.description>
+<VREA_ArchonDimensionalFarmer.title>agriculteur dimensionnel</VREA_ArchonDimensionalFarmer.title>
+<VREA_ArchonDimensionalFarmer.titleFemale>agricultrice éthéré</VREA_ArchonDimensionalFarmer.titleFemale>
+<VREA_ArchonDimensionalFarmer.titleShort>agriculteur</VREA_ArchonDimensionalFarmer.titleShort>
+<VREA_ArchonDimensionalFarmer.titleShortFemale>agricultrice</VREA_ArchonDimensionalFarmer.titleShortFemale>
+
+<VREA_ArchonCrystalCarver.description>Dès son plus jeune âge, {PAWN_nameDef} a appris l'art délicat de sculpter des motifs complexes dans divers cristaux. Les cristaux étaient utilisés dans la vie quotidienne des Archons à des fins pratiques et décoratives.</VREA_ArchonCrystalCarver.description>
+<VREA_ArchonCrystalCarver.title>sculpteur de cristaux</VREA_ArchonCrystalCarver.title>
+<VREA_ArchonCrystalCarver.titleShort>sculpteur</VREA_ArchonCrystalCarver.titleShort>
+
+<VREA_ArchonStrategyProdigy.description>Le talent de {PAWN_nameDef} pour la tactique et la stratégie s'est manifesté dès son plus jeune âge. Admis dans une prestigieuse académie militaire Archon, {PAWN_pronoun} jouait souvent à des simulations de guerre avancées contre ses instructeurs.</VREA_ArchonStrategyProdigy.description>
+<VREA_ArchonStrategyProdigy.title>stratège prodigieux</VREA_ArchonStrategyProdigy.title>
+<VREA_ArchonStrategyProdigy.titleFemale>stratège prodigieuse</VREA_ArchonStrategyProdigy.titleFemale>
+<VREA_ArchonStrategyProdigy.titleShort>prodigieux</VREA_ArchonStrategyProdigy.titleShort>
+<VREA_ArchonStrategyProdigy.titleShortFemale>prodigieuse</VREA_ArchonStrategyProdigy.titleShortFemale>
+
+<VREA_ArchonCadet.description>Dès son enfance, {PAWN_nameDef} a été enrôlé{PAWN_gender ? : e } dans l'une des académies militaires d'élite de l'Archon. {PAWN_pronoun} y a appris la discipline, les techniques de combat de base et l'importance de la loyauté envers la cause des Archons.</VREA_ArchonCadet.description>
+<VREA_ArchonCadet.title>cadet d'académie</VREA_ArchonCadet.title>
+<VREA_ArchonCadet.titleFemale>cadette d'académie</VREA_ArchonCadet.titleFemale>
+<VREA_ArchonCadet.titleShort>cadet</VREA_ArchonCadet.titleShort>
+<VREA_ArchonCadet.titleShortFemale>cadette</VREA_ArchonCadet.titleShortFemale>
+
+
+</LanguageData>

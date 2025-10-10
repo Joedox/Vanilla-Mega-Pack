@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: arts -->
+<ArtsDOTINESSTNL.label>arts</ArtsDOTINESSTNL.label>
+<!-- EN: {0} has been cut to death by arts damage. -->
+<ArtsDOTINESSTNL.deathMessage>{0} a été tué par des dégâts artistiques.</ArtsDOTINESSTNL.deathMessage>
+
+<!-- EN: Crush -->
+<BluntDMGSTNL.label>écrasé</BluntDMGSTNL.label>
+<!-- EN: {0} has been crushed to death. -->
+<BluntDMGSTNL.deathMessage>{0} a été écrasé à mort.</BluntDMGSTNL.deathMessage>
+
+<!-- EN: slash -->
+<CutTrueDMGSTNL.label>entaillé</CutTrueDMGSTNL.label>
+<!-- EN: {0} has been cut to death by true damage. -->
+<CutTrueDMGSTNL.deathMessage>{0} a été coupé à mort par des dégâts réels.</CutTrueDMGSTNL.deathMessage>
+
+<!-- EN: Explosive Dawn -->
+<DawnBoomSTNL.label>aube explosive</DawnBoomSTNL.label>
+<!-- EN: {0} has died in an explosion. -->
+<DawnBoomSTNL.deathMessage>{0} est mort dans une explosion.</DawnBoomSTNL.deathMessage>
+
+<!-- EN: Explosion -->
+<WGrenadeSTNL.label>explosion</WGrenadeSTNL.label>
+<!-- EN: {0} has died in an explosion. -->
+<WGrenadeSTNL.deathMessage>{0} est mort dans une explosion.</WGrenadeSTNL.deathMessage>
+
+<!-- EN: Explosion -->
+<WisadelBasicBoomSTNL.label>explosion</WisadelBasicBoomSTNL.label>
+<!-- EN: {0} has died in an explosion. -->
+<WisadelBasicBoomSTNL.deathMessage>{0} est mort dans une explosion.</WisadelBasicBoomSTNL.deathMessage>
+
+
+</LanguageData>

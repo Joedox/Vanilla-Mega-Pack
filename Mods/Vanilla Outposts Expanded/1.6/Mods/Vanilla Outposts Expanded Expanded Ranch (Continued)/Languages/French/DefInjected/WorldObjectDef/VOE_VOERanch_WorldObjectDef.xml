@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: ranch -->
+<Outpost_Ranch.label>avant-poste d'élevage</Outpost_Ranch.label>
+<!-- EN: Places a temporary, autonomously-led camp that specializes in raising and butchering animals. Once an ample amount of meat, leather and animal products are collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+<Outpost_Ranch.description>Emplacement d'un camp temporaire, géré de manière autonome, spécialisé dans l'élevage et le dépeçage d'animaux. Une fois qu'une quantité adéquate de viande, de cuir et de produits animaliers a été collectée, une livraison sera effectuée à la périphérie de votre colonie principale.</Outpost_Ranch.description>
+<!-- EN: Choose what animal to raise at this outpost -->
+<Outpost_Ranch.modExtensions.0.ChooseDesc>Choisir l'animal à élever dans cet avant-poste.</Outpost_Ranch.modExtensions.0.ChooseDesc>
+<!-- EN: Animals {0} -->
+<Outpost_Ranch.modExtensions.0.ChooseLabel>élevage de {0}</Outpost_Ranch.modExtensions.0.ChooseLabel>
+
+
+</LanguageData>

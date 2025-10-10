@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VAE_StrengthenedByBond.label>renforcé par le lien</VAE_StrengthenedByBond.label>
+<VAE_StrengthenedByBond.description>Cet animal est lié à l'un des colons et il sera considérablement renforcé. Cependant, si le colon lié meurt, l'animal quittera la carte et sera perdu à jamais.</VAE_StrengthenedByBond.description>
+
+<VAE_NoPain.label>aucune douleur</VAE_NoPain.label>
+<VAE_NoPain.description>Cet animal a une sensibilité réduite à la douleur, et il met plus de temps à être abattu par la douleur.</VAE_NoPain.description>
+
+<VAE_StunnedByViciousAttack.label>assommée par une attaque vicieuse</VAE_StunnedByViciousAttack.label>
+<VAE_StunnedByViciousAttack.description>Cette créature a été la cible d'une attaque vicieuse.</VAE_StunnedByViciousAttack.description>
+
+<VAE_SilkCovered.label>recouvert de soie</VAE_SilkCovered.label>
+<VAE_SilkCovered.description>Cette créature a été attaquée par une araignée géante et elle est partiellement couverte de fils de soie adhésifs.</VAE_SilkCovered.description>
+
+<VAE_WallBreaker.label>brise-muraille</VAE_WallBreaker.label>
+<VAE_WallBreaker.description>Cette brute insectoïde se déchaîne et écrase les murs et autres structures sur son passage.</VAE_WallBreaker.description>
+
+<VAE_BleedingWound.label>plaies saignantes</VAE_BleedingWound.label>
+<VAE_BleedingWound.description>Une blessure qui saigne et qui continue à provoquer une perte de sang pendant un certain temps après l'attaque initiale.</VAE_BleedingWound.description>
+<VAE_BleedingWound.stages.bleeding_wounds_minor.label>plaies saignantes, mineures</VAE_BleedingWound.stages.bleeding_wounds_minor.label>
+<VAE_BleedingWound.stages.bleeding_wounds_moderate.label>plaies saignantes, modérées</VAE_BleedingWound.stages.bleeding_wounds_moderate.label>
+<VAE_BleedingWound.stages.bleeding_wounds_serious.label>plaies saignantes, sévères</VAE_BleedingWound.stages.bleeding_wounds_serious.label>
+
+<VAE_OpenWound.label>plaie ouverte</VAE_OpenWound.label>
+<VAE_OpenWound.description>Une plaie ouverte.</VAE_OpenWound.description>
+<VAE_OpenWound.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de taillade</VAE_OpenWound.comps.HediffComp_GetsPermanent.permanentLabel>
+<VAE_OpenWound.injuryProps.destroyedLabel>Déchiqueté(e)</VAE_OpenWound.injuryProps.destroyedLabel>
+<VAE_OpenWound.injuryProps.destroyedOutLabel>Sectionné(e)</VAE_OpenWound.injuryProps.destroyedOutLabel>
+
+<VAE_OpenWound.labelNoun>une plaie ouverte</VAE_OpenWound.labelNoun>
+<VAE_OpenWound.labelNounPretty>une {0} au/à la {1}</VAE_OpenWound.labelNounPretty>
+
+
+</LanguageData>

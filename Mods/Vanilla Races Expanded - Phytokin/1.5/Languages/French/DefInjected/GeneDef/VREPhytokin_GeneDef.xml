@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_Photosynthesis.label>photosynthèse</VRE_Photosynthesis.label>
+<VRE_Photosynthesis.description>Les porteurs de ce gène sont capables de convertir l'énergie lumineuse en énergie chimique grâce à la composition génétique particulière de leur peau. Ils ne souffrent pas de la faim lorsqu'ils sont exposés à la lumière du soleil.</VRE_Photosynthesis.description>
+<VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>photo</VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>
+<VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>synthèse</VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>
+<VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>plante</VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>
+
+<VRE_SaplingBirth.label>arbrenaissance</VRE_SaplingBirth.label>
+<VRE_SaplingBirth.description>Les porteurs de ce gène font grandir leur bébé en dehors de l'utérus, sous la forme d'une jeune plante. Lorsque la plante est complètement développée, un enfant peut en être extrait.</VRE_SaplingBirth.description>
+<VRE_SaplingBirth.customEffectDescriptions.0>L'enfant est planté au lieu d'une grossesse et d'une naissance vivante.</VRE_SaplingBirth.customEffectDescriptions.0>
+<VRE_SaplingBirth.customEffectDescriptions.1>L'implantation d'un jeune enfant rend le colon temporairement infertile.</VRE_SaplingBirth.customEffectDescriptions.1>
+<VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>jeune arbre</VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>
+<VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>progéniture</VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>
+<VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>graine</VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_PoluxAffinity.label>affinité polux</VRE_PoluxAffinity.label>
+<VRE_PoluxAffinity.description>Les porteurs de ce gène ont une connexion spéciale avec l'arbre polux, ce qui leur permet d'agir comme un amplificateur des propriétés spéciales de l'arbre. Une fois par an, ils peuvent planter un buisson polux qui grandira progressivement, et leur seule présence renforcera les effets de dépollution du buisson. Ils peuvent également consommer des déchets toxiques et seront mécontents s'il n'y a pas de déchets à consommer. La consommation de déchets toxiques ne satisfait pas leur faim.</VRE_PoluxAffinity.description>
+<VRE_PoluxAffinity.customEffectDescriptions.0>Tous les buissons polux sur la carte ont leur rayon augmenté de +2 pour chaque colon avec le gène d'affinité polux présent sur la carte.</VRE_PoluxAffinity.customEffectDescriptions.0>
+<VRE_PoluxAffinity.resourceDescription>Le besoin de {PAWN_nameDef} de consommer des déchets toxiques.</VRE_PoluxAffinity.resourceDescription>
+<VRE_PoluxAffinity.resourceLabel>déchet toxique</VRE_PoluxAffinity.resourceLabel>
+<VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>pol</VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>
+<VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>polux</VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>
+
+<VRE_SapBlood.label>sang de sève</VRE_SapBlood.label>
+<VRE_SapBlood.description>Les porteurs de ce gène ont un sang épais, collant et orange qui ralentit considérablement leur temps de saignement, mais qui a également un impact sur leur capacité à travailler.</VRE_SapBlood.description>
+
+<VRE_BarkSkin.label>peau d'écorce</VRE_BarkSkin.label>
+<VRE_BarkSkin.description>Les porteurs de ce gène ont une peau qui ressemble à de l'écorce d'arbre. Cela leur permet de résister à des traumatismes contondants qui, normalement, rendraient les gens inconscients.</VRE_BarkSkin.description>
+<VRE_BarkSkin.labelShortAdj>écorce</VRE_BarkSkin.labelShortAdj>
+
+<VRE_FoliageHair.label>cheveux en feuillage</VRE_FoliageHair.label>
+<VRE_FoliageHair.description>Les porteurs de ce gène ont des cheveux d'apparence naturelle et feuillus.</VRE_FoliageHair.description>
+<VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>feuillage</VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>
+<VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>fleur</VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>
+<VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>plante</VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>
+
+<VRE_HairColor_Anima.label>cheveux anima</VRE_HairColor_Anima.label>
+<VRE_HairColor_Anima.description>Les porteurs de ce gène ont une couleur de cheveux anima. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_HairColor_Anima.description>
+
+<VRE_HairColor_Gauranlen.label>cheveux gauranlen</VRE_HairColor_Gauranlen.label>
+<VRE_HairColor_Gauranlen.description>Les porteurs de ce gène ont une couleur de cheveux gauranlen. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_HairColor_Gauranlen.description>
+
+<VRE_HairColor_Pollux.label>cheveux polux</VRE_HairColor_Pollux.label>
+<VRE_HairColor_Pollux.description>Les porteurs de ce gène ont une couleur de cheveux polux. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_HairColor_Pollux.description>
+
+<VRE_Female.label>femelle uniquement</VRE_Female.label>
+<VRE_Female.description>Les porteurs de ce gène sont assurés d'être de sexe féminin à la naissance.</VRE_Female.description>
+<VRE_Female.labelShortAdj>féminin</VRE_Female.labelShortAdj>
+
+<VRE_GreenThumb.label>pouce vert</VRE_GreenThumb.label>
+<VRE_GreenThumb.description>Les porteurs de ce gène deviennent très heureux lorsqu'ils participent à l'ensemencement des plantes.</VRE_GreenThumb.description>
+<VRE_GreenThumb.customEffectDescriptions.0>Bonus d'humeur de +1 en semant une plante. Cumulable jusqu'à 20 fois.</VRE_GreenThumb.customEffectDescriptions.0>
+<VRE_GreenThumb.labelShortAdj>jardinage</VRE_GreenThumb.labelShortAdj>
+<VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>vert</VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>
+
+<VRE_ProgressiveAttunement.label>harmonisation progressive</VRE_ProgressiveAttunement.label>
+<VRE_ProgressiveAttunement.description>Les porteurs de ce gène deviennent plus harmonieux sur le plan psychique en vieillissant, ce qui augmente considérablement leur sensibilité psychique.</VRE_ProgressiveAttunement.description>
+<VRE_ProgressiveAttunement.labelShortAdj>psychique</VRE_ProgressiveAttunement.labelShortAdj>
+<VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>psychique</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>
+<VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>psy</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>
+
+
+</LanguageData>

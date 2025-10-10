@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<AEXP_EggCrocodileUnfertilized.label>œuf de crocodile (non fécondé)</AEXP_EggCrocodileUnfertilized.label>
+<AEXP_EggCrocodileUnfertilized.description>Un œuf de crocodile non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggCrocodileUnfertilized.description>
+
+<AEXP_EggCrocodileFertilized.label>œuf de crocodile (fécondé)</AEXP_EggCrocodileFertilized.label>
+<AEXP_EggCrocodileFertilized.description>Un œuf de crocodile fécondé. Si tout se passe bien, il devrait éclore en un bébé crocodile. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggCrocodileFertilized.description>
+
+<AEXP_Leather_Hippopotamus.label>cuir d'hippopotame</AEXP_Leather_Hippopotamus.label>
+<AEXP_Leather_Hippopotamus.description>Un cuir épais d'hippopotame. Non seulement il est extrêmement résistant, mais il offre également une isolation thermique considérable.</AEXP_Leather_Hippopotamus.description>
+
+<AEXP_Leather_Wildebeest.label>fourrure de gnou</AEXP_Leather_Wildebeest.label>
+<AEXP_Leather_Wildebeest.description>Une fourrure de peau de gnou épais mais friable. Si elle offre un certain degré de protection contre les dégâts, la durabilité globale de l'article diminue.</AEXP_Leather_Wildebeest.description>
+
+<AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+<AEXP_Coyote.description>Un loup de prairie originaire des zones désertiques et broussailleuses. Il est capable de chasser des proies beaucoup plus grosses, et on le trouve souvent en meute, comme les loups.</AEXP_Coyote.description>
+<AEXP_Coyote.tools.left_claw.label>griffe gauche</AEXP_Coyote.tools.left_claw.label>
+<AEXP_Coyote.tools.right_claw.label>griffe droite</AEXP_Coyote.tools.right_claw.label>
+<AEXP_Coyote.tools.head.label>tête</AEXP_Coyote.tools.head.label>
+
+<AEXP_Giraffe.label>girafe</AEXP_Giraffe.label>
+<AEXP_Giraffe.description>La girafe est l'un des plus grands mammifères de la galaxie. Elle utilise son long cou pour atteindre des feuilles et des branches inaccessibles aux herbivores plus petits.</AEXP_Giraffe.description>
+<AEXP_Giraffe.tools.left_hoof.label>sabot gauche</AEXP_Giraffe.tools.left_hoof.label>
+<AEXP_Giraffe.tools.right_hoof.label>sabot droit</AEXP_Giraffe.tools.right_hoof.label>
+<AEXP_Giraffe.tools.head.label>tête</AEXP_Giraffe.tools.head.label>
+
+<AEXP_Hippopotamus.label>hippopotame</AEXP_Hippopotamus.label>
+<AEXP_Hippopotamus.description>Mammifère semi-aquatique massif à sabots, doté d'une peau épaisse et d'une mâchoire très puissante.\n\nExtrêmement difficiles à apprivoiser, ces êtres monstrueux attaquent souvent lors d'une tentative ratée.</AEXP_Hippopotamus.description>
+<AEXP_Hippopotamus.tools.left_foot.label>sabot gauche</AEXP_Hippopotamus.tools.left_foot.label>
+<AEXP_Hippopotamus.tools.right_foot.label>sabot droit</AEXP_Hippopotamus.tools.right_foot.label>
+<AEXP_Hippopotamus.tools.head.label>tête</AEXP_Hippopotamus.tools.head.label>
+
+<AEXP_Zebra.label>zèbre</AEXP_Zebra.label>
+<AEXP_Zebra.description>Ce membre de la famille des chevaux est originaire des régions arides et désertiques. Bien qu'il n'ait pas la même taille qu'un cheval, grâce à des années d'évolution, c'est l'un des animaux à sabots les plus rapides.</AEXP_Zebra.description>
+<AEXP_Zebra.tools.head.label>tête</AEXP_Zebra.tools.head.label>
+<AEXP_Zebra.tools.left_hoof.label>sabot gauche</AEXP_Zebra.tools.left_hoof.label>
+<AEXP_Zebra.tools.right_hoof.label>sabot droit</AEXP_Zebra.tools.right_hoof.label>
+
+<AEXP_Wildebeest.label>gnou</AEXP_Wildebeest.label>
+<AEXP_Wildebeest.description>Également appelée Gnous, cette vache sauvage a gagné son nom grâce à ses cornes menaçantes, sa barbe pointue et sa grosse tête. Ces animaux sont connus pour leurs migrations et la taille de leurs troupeaux.\n\nEn raison de son caractère sauvage, elle produit du lait à un rythme beaucoup plus lent qu'une vache standard.</AEXP_Wildebeest.description>
+<AEXP_Wildebeest.tools.head.label>tête</AEXP_Wildebeest.tools.head.label>
+<AEXP_Wildebeest.tools.left_hoof.label>sabot gauche</AEXP_Wildebeest.tools.left_hoof.label>
+<AEXP_Wildebeest.tools.right_hoof.label>sabot droit</AEXP_Wildebeest.tools.right_hoof.label>
+
+<AEXP_Crocodile.label>crocodile</AEXP_Crocodile.label>
+<AEXP_Crocodile.description>Un grand reptile semi-aquatique, que l'on trouve le plus souvent sur les berges des rivières. Son instinct de prédateur combiné à une mâchoire extrêmement puissante lui permet de s'attaquer à des proies beaucoup plus grosses. Les crocodiles plus âgés peuvent atteindre des tailles monstrueuses.</AEXP_Crocodile.description>
+
+<AEXP_Cheetah.label>guépard</AEXP_Cheetah.label>
+<AEXP_Cheetah.description>Ces chats sont maigres et longilignes, ce qui leur permet d'atteindre des vitesses incroyables. Ils ont une fourrure de couleur fauve à beige très clair avec des taches rondes noires, de très longues pattes, une longue queue étroite pour l'équilibre, et une grande cage thoracique qui contient de larges poumons.</AEXP_Cheetah.description>
+<AEXP_Cheetah.tools.left_claw.label>griffe gauche</AEXP_Cheetah.tools.left_claw.label>
+<AEXP_Cheetah.tools.right_claw.label>griffe droite</AEXP_Cheetah.tools.right_claw.label>
+<AEXP_Cheetah.tools.head.label>tête</AEXP_Cheetah.tools.head.label>
+
+
+</LanguageData>

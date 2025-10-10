@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+					<!-- +++++ Mod +++++ -->
+
+		<!-- +++++ Vanilla Cooking Expanded +++++ -->
+<VFEM_ProvisionsPackagingFactory_Cannery.label>conserverie</VFEM_ProvisionsPackagingFactory_Cannery.label>
+<VFEM_ProvisionsPackagingFactory_Cannery.description>Un module d'usine de taille moyenne qui accepte les aliments crus avant de les emballer sous vide et de les sceller hermétiquement, ce qui leur permet de se conserver indéfiniment. Ne nécessite pas d'acier supplémentaire pour sa fabrication.\n\n&lt;color=#33d733&gt;Chaîne d'automatisation :&lt;/color&gt; Partie de la chaîne de l'Usine de Conditionnement de Provisions (U.C.P.).</VFEM_ProvisionsPackagingFactory_Cannery.description>
+
+<VFEM_IndustrialCheesePress.label>presse à fromage industrielle</VFEM_IndustrialCheesePress.label>
+<VFEM_IndustrialCheesePress.description>Vous permet de fabriquer une cuve capable de chauffer rapidement le lait afin de le transformer en lait caillé, pour ensuite le filtrer et le presser automatiquement pour former plusieurs meules de fromage. Les trémies situées à proximité peuvent contenir suffisamment de lait pour fabriquer plusieurs meules de fromage.\n\n&lt;color=#33d733&gt;Chaîne d'automatisation :&lt;/color&gt; La presse à fromage industrielle ne fait partie d'aucune chaîne d'automatisation, c'est un bâtiment indépendant.</VFEM_IndustrialCheesePress.description>
+
+<VFEM_IndustrialSoupVat.label>cuve de soupe industrielle</VFEM_IndustrialSoupVat.label>
+<VFEM_IndustrialSoupVat.description>Une très grande cuve avec une série de lames rotatives installées vers le haut. Les trémies adjacentes peuvent être remplies d'une variété de produits alimentaires crus. Ils sont ensuite aspirés par le haut, coupés en tranches et mijotés pour réaliser une grande variété de soupes. Les soupes finies seront acheminées vers une trémie adjacente sans nécessiter une autre étape. L'entrée et la sortie se gérant pas de grande quantité de produit, cela nécessite moins de gestion qu’une cuisson lente et traditionnelle.\n\nLes soupes gastronomiques ne sont évidemment pas créées industriellement.\n\n&lt;color=#33d733&gt;Chaîne d'automatisation :&lt;/color&gt; La cuve de soupe industrielle ne fait partie d'aucune chaîne d'automatisation, c'est un bâtiment indépendant.</VFEM_IndustrialSoupVat.description>
+
+
+</LanguageData>

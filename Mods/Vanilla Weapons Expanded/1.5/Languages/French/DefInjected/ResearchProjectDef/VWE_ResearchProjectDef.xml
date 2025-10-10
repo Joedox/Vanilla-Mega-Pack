@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_Longbow.label>arc long</VWE_Longbow.label>
+<VWE_Longbow.description>Vous apprend à fabriquer des arcs longs, ils sont l’équivalant des fusils de précisions à l’âge néolithique.</VWE_Longbow.description>
+<VWE_Longbow.generalRules.rulesStrings>
+    <li>subject->le tir à l'arc de précision</li>
+    <li>subject_story->a perfectionné l'art de la fabrication des arcs longs, en maximisant la portée et la précision</li>
+    <li>subject_story->a redéfini la guerre en introduisant l'arc du tireur d'élite</li>
+    <li>subject_story->a inspiré des légendes grâce à des exploits de tir qui ont fait basculer le cours des batailles</li>
+    <li>subject_story->a mis au point des techniques permettant des tirs rapides et précis sur de grandes distances</li>
+    <li>subject_gerund->l'amélioration des engagements à longue portée grâce à l'artisanat traditionnel</li>
+</VWE_Longbow.generalRules.rulesStrings>
+
+<VWE_Crossbow.label>arbalète</VWE_Crossbow.label>
+<VWE_Crossbow.description>Vous apprend à fabriquer des arbalètes pour combattre les ennemis en armures.</VWE_Crossbow.description>
+<VWE_Crossbow.generalRules.rulesStrings>
+    <li>subject->l'avantage mécanique</li>
+    <li>subject_story->a fusionné la précision du tir à l'arc avec la puissance de la mécanique</li>
+    <li>subject_story->a mis au point des arbalètes qui percent les défenses en armure</li>
+    <li>subject_story->a innové en matière de mécanismes de verrouillage pour des rechargements plus rapides sous pression</li>
+    <li>subject_story->a intégré des systèmes de visée avancés pour améliorer la précision</li>
+    <li>subject_gerund->la progression de la guerre de siège grâce à l'innovation en matière d'armement</li>
+</VWE_Crossbow.generalRules.rulesStrings>
+
+<VWE_CompoundBow.label>arc à poulies</VWE_CompoundBow.label>
+<VWE_CompoundBow.description>Vous apprend à fabriquer des arcs avec un système de câbles tendus et de poulies afin de tier des flèches plus loin qu’un arc normal. Les flèches ne font aucun bruit quand elles sont tirées.</VWE_CompoundBow.description>
+<VWE_CompoundBow.generalRules.rulesStrings>
+    <li>subject->l'efficacité du silence</li>
+    <li>subject_story->a intégré la technologie moderne pour fabriquer des armes silencieuses et mortelles</li>
+    <li>subject_story->a repoussé les limites du tir à l'arc jusqu'à l'ère industrielle</li>
+    <li>subject_story->a utilisé des matériaux avancés pour une résistance et une flexibilité inégalées de l'arc</li>
+    <li>subject_story->a optimisé la conception pour une utilisation ergonomique et des cadences de tir accrues</li>
+    <li>subject_gerund->le perfectionnement de l'art de la furtivité et de la précision dans la chasse et la guerre</li>
+</VWE_CompoundBow.generalRules.rulesStrings>
+
+<VWE_Gunpowder.label>poudre noire</VWE_Gunpowder.label>
+<VWE_Gunpowder.description>Vous permet de produit de la poudre noire connue comme la plus ancienne poudre explosive.</VWE_Gunpowder.description>
+<VWE_Gunpowder.generalRules.rulesStrings>
+    <li>subject->l'étincelle de la révolution</li>
+    <li>subject_story->a libéré le potentiel des réactions chimiques pour obtenir des résultats explosifs</li>
+    <li>subject_story->a transformé la guerre et l'exploitation minière en découvrant la poudre à canon</li>
+    <li>subject_story->a révolutionné les tactiques de siège en introduisant les canons</li>
+    <li>subject_story->a facilité la création d'armes légères, modifiant la défense personnelle et la chasse</li>
+    <li>subject_gerund->le pionnier de l'ère des explosifs et de l'armement balistique</li>
+</VWE_Gunpowder.generalRules.rulesStrings>
+
+<VWE_TrenchWarfare.label>guerre des tranchées</VWE_TrenchWarfare.label>
+<VWE_TrenchWarfare.description>Vous permet d'adopter une doctrine de guerre de tranchées avec une sélection d'armes pour le combat rapproché.</VWE_TrenchWarfare.description>
+<VWE_TrenchWarfare.generalRules.rulesStrings>
+    <li>subject->la défense retranchée</li>
+    <li>subject_story->a adopté des stratégies ancestrales pour le combat moderne, assurant ainsi sa survie</li>
+    <li>subject_story->a innové en matière de tactique de combat rapproché dans les tranchées</li>
+    <li>subject_story->a conçu des fortifications qui se fondent dans le paysage pour permettre des attaques surprises</li>
+    <li>subject_story->a développé des lignes de communication à l'intérieur des tranchées pour coordonner les assauts</li>
+    <li>subject_gerund->la fortification des positions grâce à l'ingéniosité stratégique dans la guerre</li>
+</VWE_TrenchWarfare.generalRules.rulesStrings>
+
+<VWE_HeavyWeapons.label>armes lourdes</VWE_HeavyWeapons.label>
+<VWE_HeavyWeapons.description>Vous apprend à fabriquer des armes à feu avancées qui sont difficiles à manipuler et qui nécessitent de la force musculaire.</VWE_HeavyWeapons.description>
+<VWE_HeavyWeapons.generalRules.rulesStrings>
+    <li>subject->le poids de la puissance</li>
+    <li>subject_story->a mis au point des armes qui apportent une puissance de feu inégalée sur le champ de bataille</li>
+    <li>subject_story->a équilibré la balance de la guerre avec des armements lourds et décisifs</li>
+    <li>subject_story->a créé des programmes de formation pour des unités spécialisées dans l'utilisation de ces armes</li>
+    <li>subject_story->a conçu des solutions de mobilité pour le transport et le déploiement d'armements lourds</li>
+    <li>subject_gerund->la maîtrise de l'art de la destruction à l'aide d'armes lourdes</li>
+</VWE_HeavyWeapons.generalRules.rulesStrings>
+
+<VWE_Flamethrower.label>lance-flammes</VWE_Flamethrower.label>
+<VWE_Flamethrower.description>Vous apprend à fabriquer des lance-flammes qui ont longtemps été interdits dans le monde civilisé.</VWE_Flamethrower.description>
+<VWE_Flamethrower.generalRules.rulesStrings>
+    <li>subject->la domination ardente</li>
+    <li>subject_story->a maîtrisé le feu dans la guerre pour purifier et conquérir</li>
+    <li>subject_story->a introduit une arme redoutée pour ses effets psychologiques et physiques</li>
+    <li>subject_story->a innové avec des mélanges de carburants pour augmenter l'autonomie et la durée de combustion</li>
+    <li>subject_story->a développé des mécanismes de sécurité pour protéger l'opérateur du contrecoup</li>
+    <li>subject_gerund->la propagation des flammes de l'innovation et de la terreur sur le champ de bataille</li>
+</VWE_Flamethrower.generalRules.rulesStrings>
+
+<VWE_SpecializedFirearms.label>armes spécialisées</VWE_SpecializedFirearms.label>
+<VWE_SpecializedFirearms.description>Vous apprend à fabriquer des fusils spécialisés pour divers scénarios tactiques.</VWE_SpecializedFirearms.description>
+<VWE_SpecializedFirearms.generalRules.rulesStrings>
+    <li>subject->l'ingénierie de précision</li>
+    <li>subject_story->a fabriqué des armes à feu conçues pour des scénarios de combat spécifiques et difficiles</li>
+    <li>subject_story->a élevé les normes de l'armurerie pour répondre à des demandes de niche</li>
+    <li>subject_story->a intégré des optiques de pointe pour une meilleure précision de ciblage</li>
+    <li>subject_story->a personnalisé les armes pour les adapter aux préférences et aux tactiques de l'utilisateur</li>
+    <li>subject_gerund->l'adaptation de la puissance de feu aux besoins complexes de la guerre</li>
+</VWE_SpecializedFirearms.generalRules.rulesStrings>
+
+<VWE_DesignatedMarksmanRifle.label>fusils de précisions semi-automatiques</VWE_DesignatedMarksmanRifle.label>
+<VWE_DesignatedMarksmanRifle.description>Vous apprend à fabriquer des fusils de précisions semi-automatiques pour des combats à longue distance.</VWE_DesignatedMarksmanRifle.description>
+<VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+    <li>subject->la surveillance à longue distance</li>
+    <li>subject_story->a comblé le fossé entre la précision des tireurs d'élite et l'agilité des fusils</li>
+    <li>subject_story->a donné aux tireurs d'élite les moyens d'une précision semi-automatique</li>
+    <li>subject_story->a développé des systèmes de stabilisation pour une précision inégalée en mouvement</li>
+    <li>subject_story->a adapté les fusils à différents environnements, de la ville à la nature sauvage</li>
+    <li>subject_gerund->le développement de l'avenir de l'engagement avec les fusils de précision</li>
+</VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+
+<VWE_TacticalGrenades.label>grenade tactique</VWE_TacticalGrenades.label>
+<VWE_TacticalGrenades.description>Vous apprend à fabriquer des grenades spéciales, elles sont utiles dans toutes sortes de batailles.</VWE_TacticalGrenades.description>
+<VWE_TacticalGrenades.generalRules.rulesStrings>
+    <li>subject->la polyvalence explosive</li>
+    <li>subject_story->a complété l'arsenal avec des grenades pour toutes les situations de combat</li>
+    <li>subject_story->a innové en proposant des solutions non létales pour le contrôle des foules et la dissuasion</li>
+    <li>subject_story->a amélioré les mécanismes de fusibles pour une synchronisation et un effet précis</li>
+    <li>subject_story->a personnalisé les charges utiles pour répondre à des besoins tactiques spécifiques</li>
+    <li>subject_gerund->l'armement des troupes avec les bons outils pour tout type d'engagement</li>
+</VWE_TacticalGrenades.generalRules.rulesStrings>
+
+<VWE_LaserTargetingSystems.label>système de visée laser</VWE_LaserTargetingSystems.label>
+<VWE_LaserTargetingSystems.description>Vous apprend à fabriquer avec précision et rapidité une ogive à impulsion à l'aide d'un système de visée laser.</VWE_LaserTargetingSystems.description>
+<VWE_LaserTargetingSystems.generalRules.rulesStrings>
+    <li>subject->la précision du point de vue de l'utilisateur</li>
+    <li>subject_story->a révolutionné les frappes de précision grâce à un guidage laser avancé</li>
+    <li>subject_story->a permis l'acquisition et l'ajustement de la cible en temps réel</li>
+    <li>subject_story->a intégré des systèmes à l'armement existant pour améliorer l'efficacité au combat</li>
+    <li>subject_story->a développé des désignateurs laser compacts et portables pour les opérations sur le terrain</li>
+    <li>subject_gerund->la technologie au service de la guerre</li>
+</VWE_LaserTargetingSystems.generalRules.rulesStrings>
+
+
+</LanguageData>

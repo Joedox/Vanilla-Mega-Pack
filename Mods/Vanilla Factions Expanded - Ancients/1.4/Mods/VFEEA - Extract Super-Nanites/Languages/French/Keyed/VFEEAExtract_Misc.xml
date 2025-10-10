@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<VFEEA_ExtractPWR.Extract>Extraire un superpouvoir</VFEEA_ExtractPWR.Extract>
+<VFEEA_ExtractPWR.Extract.Label>Succès de l'expérience : {0}</VFEEA_ExtractPWR.Extract.Label>
+<VFEEA_ExtractPWR.Extract.Text>L'expérience dans la capsule d'adaptation génétique a été un succès ! {0} a perdu le pouvoir {1}.</VFEEA_ExtractPWR.Extract.Text>
+
+<VFEEA_ExtractPWR.Inject>Injecter un superpouvoir</VFEEA_ExtractPWR.Inject>
+<VFEEA_ExtractPWR.Inject.Label>Succès de l'expérience : {0}</VFEEA_ExtractPWR.Inject.Label>
+<VFEEA_ExtractPWR.Inject.Text>L'expérience de la capsule d'adaptation génétique a été un succès ! {0} a acquis le pouvoir {1}.</VFEEA_ExtractPWR.Inject.Text>
+
+<VFEEA_ExtractPWR.ExtractChoice>Le processus d'extraction des super-nanites est terminé. Vous pouvez sélectionner le pouvoir à extraire.</VFEEA_ExtractPWR.ExtractChoice>
+<VFEEA_ExtractPWR.InjectChoice>Le processus d'injection de super-nanites est terminé. Vous pouvez choisir entre les pouvoirs à injecter.</VFEEA_ExtractPWR.InjectChoice>
+
+<VFEEA_ExtractPWR.PowerChoiceGizmo>Choisir le pouvoir</VFEEA_ExtractPWR.PowerChoiceGizmo>
+<VFEEA_ExtractPWR.PowerChoiceDesc>Sélectionner un pouvoir.</VFEEA_ExtractPWR.PowerChoiceDesc>
+<VFEEA_ExtractPWR.OperationCanceled>La fenêtre de sélection a été fermée inopinément, un pouvoir aléatoire sera sélectionné</VFEEA_ExtractPWR.OperationCanceled>
+<VFEEA_ExtractPWR.InjectorMissing>et une erreur s'est produite pendant le processus d'injection, peut-être que le bâtiment a été enlevé ou détruit ? Aucun pouvoir n'a été accordé</VFEEA_ExtractPWR.InjectorMissing>
+
+<VFEEA_ExtractPWR.ExperimentCriticalFailed>Échec critique de l'expérience</VFEEA_ExtractPWR.ExperimentCriticalFailed>
+<VFEEA_ExtractPWR.ExperimentFailed.Death>L'expérience a échoué et le sujet est mort. {0} a perdu {1}.</VFEEA_ExtractPWR.ExperimentFailed.Death>
+<VFEEA_ExtractPWR.ExperimentFailed.Berserk>Le sujet a subi de graves lésions cérébrales et est devenu fou. {0} a perdu {1}.</VFEEA_ExtractPWR.ExperimentFailed.Berserk>
+<VFEEA_ExtractPWR.ExperimentFailed.BrainDeath>Le sujet a subi une défaillance complète des fonctions cérébrales et se trouve en état de mort cérébrale. {0} a perdu {1}.</VFEEA_ExtractPWR.ExperimentFailed.BrainDeath>
+
+<VFEEA_ExtractPWR.ExperimentMiddleFailed>Échec intermédiaire de l'expérience</VFEEA_ExtractPWR.ExperimentMiddleFailed>
+<VFEEA_ExtractPWR.ExperimentMiddleFailed.Death>L'expérience a échoué et le sujet est mort. Cependant, {0} a été extrait.</VFEEA_ExtractPWR.ExperimentMiddleFailed.Death>
+<VFEEA_ExtractPWR.ExperimentMiddleFailed.Berserk>Le sujet a subi de graves lésions cérébrales et est devenu fou. Cependant, {0} a été extrait.</VFEEA_ExtractPWR.ExperimentMiddleFailed.Berserk>
+<VFEEA_ExtractPWR.ExperimentMiddleFailed.BrainDeath>Le sujet a subi une défaillance complète des fonctions cérébrales et se trouve en état de mort cérébrale. Cependant, {0} a été extrait.</VFEEA_ExtractPWR.ExperimentMiddleFailed.BrainDeath>
+
+<VFEEA_ExtractPWR.InjectFailed.Death>L'expérience a échoué et le sujet est mort. Les super-nanites {0} a été perdu.</VFEEA_ExtractPWR.InjectFailed.Death>
+<VFEEA_ExtractPWR.InjectFailed.Berserk>Le sujet a subi de graves lésions cérébrales et est devenu fou. Les super-nanites {0} a été perdu.</VFEEA_ExtractPWR.InjectFailed.Berserk>
+<VFEEA_ExtractPWR.InjectFailed.BrainDeath>Le sujet a subi une défaillance complète des fonctions cérébrales et se trouve en état de mort cérébrale. Les super-nanites {0} a été perdu.</VFEEA_ExtractPWR.InjectFailed.BrainDeath>
+
+<VFEEA_ExtractPWR.Weaken>Affaiblir</VFEEA_ExtractPWR.Weaken>
+<VFEEA_ExtractPWR.InjectMiddleFailed.Weaken>Le sujet a souffert du syndrome de rejet et a développé la faiblesse {0}. Cependant, {1} a été  injecté avec succès.</VFEEA_ExtractPWR.InjectMiddleFailed.Weaken>
+<VFEEA_ExtractPWR.InjectMiddleFailed.HighlyWeaken>Le sujet a souffert du syndrome de rejet et a développé une faiblesse. Déjà très affaibli, le sujet est mort. Cependant, {0} a été  injecté avec succès.</VFEEA_ExtractPWR.InjectMiddleFailed.HighlyWeaken>
+<VFEEA_ExtractPWR.InjectMiddleFailed.Berserk>Le sujet a subi de graves lésions cérébrales et est devenu fou. Cependant, {0} a été  injecté avec succès.</VFEEA_ExtractPWR.InjectMiddleFailed.Berserk>
+<VFEEA_ExtractPWR.InjectMiddleFailed.BrainDeath>Le sujet a subi une défaillance complète des fonctions cérébrales et se trouve en état de mort cérébrale. Cependant, {0} a été  injecté avec succès.</VFEEA_ExtractPWR.InjectMiddleFailed.BrainDeath>
+
+<VFEEA_ExtractPWR.Insert>Insérer super-nanites</VFEEA_ExtractPWR.Insert>
+<VFEEA_ExtractPWR.Insert.Text>Insére des super-nanites dotées de pouvoirs.</VFEEA_ExtractPWR.Insert.Text>
+
+<VFEEA_ExtractPWR.RemoveCurrentSN>Retirer les super-nanites</VFEEA_ExtractPWR.RemoveCurrentSN>
+<VFEEA_ExtractPWR.SNCurrentlyUsed>Les super-nanites sont actuellement utilisées.</VFEEA_ExtractPWR.SNCurrentlyUsed>
+<VFEEA_ExtractPWR.NoSNFound>Aucune super-nanites n'a été trouvée.</VFEEA_ExtractPWR.NoSNFound>
+
+<VFEEA_ExtractPWR.ModSetting.ExtractFailChance>Chance d'échec d'extraction</VFEEA_ExtractPWR.ModSetting.ExtractFailChance>
+<VFEEA_ExtractPWR.ModSetting.InjectFailChance>Chance d'échec d'injection</VFEEA_ExtractPWR.ModSetting.InjectFailChance>
+<VFEEA_ExtractPWR.ModSetting.LargeExtractWindows>Taille de la fenêtre d'extraction</VFEEA_ExtractPWR.ModSetting.LargeExtractWindows>
+<VFEEA_ExtractPWR.ModSetting.ModName>VFEEA - Extract power </VFEEA_ExtractPWR.ModSetting.ModName>
+<VFEEA_ExtractPWR.ModSetting.Desc>Vous pouvez modifier les chances d'échec pour l'opération d'extraction (par défaut : 30%) et l'opération d'injection (par défaut : 40%).\n\nLe jeu doit être relancé pour que la modification soit prise en compte.\n</VFEEA_ExtractPWR.ModSetting.Desc>
+
+
+</LanguageData>

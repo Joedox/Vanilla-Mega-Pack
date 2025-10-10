@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+
+
+  <!-- Animal Stats -->
+
+  <VAERoy_PrimaryRole>Rôle principal</VAERoy_PrimaryRole>
+  <VAERoy_SecondaryRole>Rôle secondaire</VAERoy_SecondaryRole>
+
+  <!-- Roles -->
+
+  <VAERoy_Combat>Combat</VAERoy_Combat>
+  <VAERoy_EggLayer>Ponte d'œufs</VAERoy_EggLayer>
+
+  <VAERoy_Utility>Utilitaire</VAERoy_Utility>
+  <VAERoy_UtilityMood>Utilitaire - Humeur</VAERoy_UtilityMood>
+  <VAERoy_UtilitySocial>Utilitaire - Social</VAERoy_UtilitySocial>
+  <VAERoy_UtilityHeat>Utilitaire - Dissipation neuronal</VAERoy_UtilityHeat>
+  <VAERoy_UtilityPsychic>Utilitaire - Psychique</VAERoy_UtilityPsychic>
+  <VAERoy_UtilityCrowd>Utilitaire - Contrôle de foule</VAERoy_UtilityCrowd>
+  <VAERoy_UtilityFood>Utilitaire - Nourriture</VAERoy_UtilityFood>
+  <VAERoy_UtilityBuilding>Utilitaire - Construction</VAERoy_UtilityBuilding>
+
+  <!-- Roles Descriptions -->
+
+  <VAERoy_CombatDescInc>Les animaux de combat sont spécialisés dans le combat de mêlée. Ces animaux ont des dégâts d'attaque élevés, une bonne résistance, une santé élevée ou d'autres capacités qui leur permettent de survivre en première ligne.\n\nCet animal voit ses attaques de mêlée augmenter considérablement avec l'âge.</VAERoy_CombatDescInc>
+  <VAERoy_CombatDesc>Les animaux de combat sont spécialisés dans le combat de mêlée. Ces animaux ont des dégâts d'attaque élevés, une bonne résistance, une santé élevée ou d'autres capacités qui leur permettent de survivre en première ligne.</VAERoy_CombatDesc>
+  <VAERoy_EggLayerDesc>Cet animal pond des œufs.</VAERoy_EggLayerDesc>
+  <VAERoy_UtilityMoodDesc>Cet animal n'est pas adapté au combat, étant assez faible physiquement. Il augmentera cependant l'humeur de vos colons.</VAERoy_UtilityMoodDesc>
+  <VAERoy_UtilityHeatDisipationDesc>Cet animal n'est pas adapté au combat, étant assez faible physiquement. Il augmentera cependant la dissipation d'échauffement neuronal d'un colon lié.</VAERoy_UtilityHeatDisipationDesc>
+  <VAERoy_UtilitySocialDesc>Cet animal n'est pas adapté au combat. En revanche, il engagera la conversation avec vos colons, ce qui augmentera leurs loisirs sociaux et leur permettra d'acquérir de petites quantités d'expérience dans des compétences aléatoires.</VAERoy_UtilitySocialDesc>
+  <VAERoy_UtilityPsychicDesc>Cet animal n'est pas adapté au combat, étant assez faible physiquement. Cependant, il câlinera périodiquement vos colons pour augmenter leur sensibilité psychique.</VAERoy_UtilityPsychicDesc>
+  <VAERoy_UtilityCrowdDesc>Cet animal est faible, mais il possède des capacités psychiques qui peuvent aider à contrôler les foules et à survivre.</VAERoy_UtilityCrowdDesc>
+  <VAERoy_UtilityFoodDesc>Cet animal de ferme vous procure de la viande spécialisée.</VAERoy_UtilityFoodDesc>
+  <VAERoy_UtilityBuildingDesc>Cet animal n'est pas adapté au combat, étant assez faible physiquement. Il construit cependant des nids qui servent de très beaux endroits pour dormir.</VAERoy_UtilityBuildingDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LanguageData>

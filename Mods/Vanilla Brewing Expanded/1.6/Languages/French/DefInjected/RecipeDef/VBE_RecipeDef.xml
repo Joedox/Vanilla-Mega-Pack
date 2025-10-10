@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: make fine cocktail -->
+<VBE_MakeCocktailFine.label>préparer un cocktail raffiné</VBE_MakeCocktailFine.label>
+<!-- EN: Make a fine cocktail, mixed precisely from multiple ingredients. -->
+<VBE_MakeCocktailFine.description>Préparer un cocktail raffiné, mélangé avec précision à partir de multiples ingrédients.</VBE_MakeCocktailFine.description>
+<!-- EN: simple or luxury spirits -->
+<VBE_MakeCocktailFine.ingredients.0.filter.customSummary>alcools simples ou de luxe</VBE_MakeCocktailFine.ingredients.0.filter.customSummary>
+<!-- EN: non-alcoholic drinks -->
+<VBE_MakeCocktailFine.ingredients.1.filter.customSummary>boissons sans alcool</VBE_MakeCocktailFine.ingredients.1.filter.customSummary>
+<!-- EN: Making fine cocktail. -->
+<VBE_MakeCocktailFine.jobString>prépare le cocktail raffiné.</VBE_MakeCocktailFine.jobString>
+
+<!-- EN: make lavish cocktail -->
+<VBE_MakeCocktailLavish.label>préparer un cocktail somptueux</VBE_MakeCocktailLavish.label>
+<!-- EN: Make a lavish cocktail, mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served. -->
+<VBE_MakeCocktailLavish.description>Préparer un cocktail somptueux, mélangé à partir d'une grande variété d'ingrédients et refroidi à la perfection avant d'être méticuleusement secoué et servi.</VBE_MakeCocktailLavish.description>
+<!-- EN: simple spirits -->
+<VBE_MakeCocktailLavish.ingredients.0.filter.customSummary>alcools simples</VBE_MakeCocktailLavish.ingredients.0.filter.customSummary>
+<!-- EN: luxury spirits -->
+<VBE_MakeCocktailLavish.ingredients.1.filter.customSummary>alcools de luxe</VBE_MakeCocktailLavish.ingredients.1.filter.customSummary>
+<!-- EN: non-alcoholic drinks -->
+<VBE_MakeCocktailLavish.ingredients.2.filter.customSummary>boissons sans alcool</VBE_MakeCocktailLavish.ingredients.2.filter.customSummary>
+<!-- EN: Making lavish cocktail. -->
+<VBE_MakeCocktailLavish.jobString>prépare le cocktail somptueux.</VBE_MakeCocktailLavish.jobString>
+
+<!-- EN: make simple cocktail -->
+<VBE_MakeCocktailSimple.label>préparer un cocktail simple</VBE_MakeCocktailSimple.label>
+<!-- EN: Make a simple cocktail quickly mixed from a duo of ingredients. -->
+<VBE_MakeCocktailSimple.description>Préparer un cocktail simple et rapide à partir d'un duo d'ingrédients.</VBE_MakeCocktailSimple.description>
+<!-- EN: simple spirits -->
+<VBE_MakeCocktailSimple.ingredients.0.filter.customSummary>alcools simples</VBE_MakeCocktailSimple.ingredients.0.filter.customSummary>
+<!-- EN: non-alcoholic drinks -->
+<VBE_MakeCocktailSimple.ingredients.1.filter.customSummary>boissons sans alcool</VBE_MakeCocktailSimple.ingredients.1.filter.customSummary>
+<!-- EN: Making simple cocktail. -->
+<VBE_MakeCocktailSimple.jobString>prépare le cocktail simple.</VBE_MakeCocktailSimple.jobString>
+
+<!-- EN: make coffee -->
+<VBE_MakeCoffee.label>préparer un café</VBE_MakeCoffee.label>
+<!-- EN: Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma. -->
+<VBE_MakeCoffee.description>Préparer une boisson chaude et amère généralement agrémentée de lait et de sucre. Un favori parmi les étudiants et les employés de bureau à travers la galaxie en raison de sa forte teneur en caféine et de son arôme agréable.</VBE_MakeCoffee.description>
+<!-- EN: Making coffee. -->
+<VBE_MakeCoffee.jobString>prépare le café.</VBE_MakeCoffee.jobString>
+
+<!-- EN: make energy drink -->
+<VBE_MakeEnergyDrink.label>préparer une boisson énergisante</VBE_MakeEnergyDrink.label>
+<!-- EN: Make a sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation. -->
+<VBE_MakeEnergyDrink.description>Préparer une boisson acidulée et pétillante terminée par une pointe d'amertume. La combinaison du sucre et de la caféine donne un regain d'énergie au départ, mais un coup de barre plus tard. Arrière-goût notable de radiation.</VBE_MakeEnergyDrink.description>
+<!-- EN: Making energy drink. -->
+<VBE_MakeEnergyDrink.jobString>prépare la boisson énergisante.</VBE_MakeEnergyDrink.jobString>
+
+<!-- EN: mix fruit juice -->
+<VBE_MixJuice.label>mixer des fruits (Jus de fruits)</VBE_MixJuice.label>
+<!-- EN: Mix a simple fruit juice made from a few fruits. -->
+<VBE_MixJuice.description>Mixer de simples fruits pour obtenir leurs jus.</VBE_MixJuice.description>
+<!-- EN: Mixing fruit juice. -->
+<VBE_MixJuice.jobString>mixe les fruits.</VBE_MixJuice.jobString>
+
+<!-- EN: make ambrosia mush -->
+<VBE_AmbrosiaMush.label>préparer une bouillie d'ambroisie</VBE_AmbrosiaMush.label>
+<!-- EN: Make sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor. -->
+<VBE_AmbrosiaMush.description>L'ambroisie ainsi obtenue, coupée en tranches et pressée, peut être laissée seule pour mûrir en moût et être ensuite distillée en une liqueur extrêmement raffinée.</VBE_AmbrosiaMush.description>
+<!-- EN: Making ambrosia mush. -->
+<VBE_AmbrosiaMush.jobString>prépare la bouillie d'ambroisie.</VBE_AmbrosiaMush.jobString>
+
+<!-- EN: make gin mush -->
+<VBE_MakeGinMush.label>extraire du moût de baie (Gin)</VBE_MakeGinMush.label>
+<!-- EN: Make a clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented. -->
+<VBE_MakeGinMush.description>Préparer un mélange clair mais trouble de baies pressées et de céréales diverses, prêt à être fermenté.</VBE_MakeGinMush.description>
+<!-- EN: Making gin mush. -->
+<VBE_MakeGinMush.jobString>extrait le moût de baie.</VBE_MakeGinMush.jobString>
+
+<!-- EN: make soda syrup -->
+<VBE_MakeSodaSyrup.label>préparer du sirop de soda</VBE_MakeSodaSyrup.label>
+<!-- EN: Make soda syrup by mixing natural fruit juice with high fructose corn syrup. -->
+<VBE_MakeSodaSyrup.description>Fabriquer du sirop de soda en mélangeant du jus de fruit naturel avec du sirop de maïs à haute teneur en fructose.</VBE_MakeSodaSyrup.description>
+<!-- EN: Making soda syrup. -->
+<VBE_MakeSodaSyrup.jobString>prépare le sirop de soda.</VBE_MakeSodaSyrup.jobString>
+
+<!-- EN: make tequila must from agave -->
+<VBE_MakeTequilaMust.label>extraire du moût d'agave (Tequila)</VBE_MakeTequilaMust.label>
+<!-- EN: Make a thin mixture of juiced agave sap and insect meat starter, ready to be cut and fermented in a barrel. -->
+<VBE_MakeTequilaMust.description>Préparer un mélange fin de jus d'agave et d'amorce de viande d'insecte, prêt à être coupé et fermenté dans un tonneau.</VBE_MakeTequilaMust.description>
+<!-- EN: Making tequila must. -->
+<VBE_MakeTequilaMust.jobString>extrait le moût d'agave.</VBE_MakeTequilaMust.jobString>
+
+<!-- EN: make vodka mash -->
+<VBE_MakeVodkaMash.label>extraire du moût de pomme de terre (Vodka)</VBE_MakeVodkaMash.label>
+<!-- EN: Make a thick, starchy mash of raw potatoes and a starter, ready to be fermented. -->
+<VBE_MakeVodkaMash.description>Préparer une purée épaisse et féculente à partir de pommes de terre crues et une amorce, prête à être fermentée.</VBE_MakeVodkaMash.description>
+<!-- EN: Making vodka mash. -->
+<VBE_MakeVodkaMash.jobString>extrait le moût de pomme de terre.</VBE_MakeVodkaMash.jobString>
+
+<!-- EN: make whiskey mash -->
+<VBE_MakeWhiskeyMash.label>extraire du moût de maîs (Whisky)</VBE_MakeWhiskeyMash.label>
+<!-- EN: Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged. -->
+<VBE_MakeWhiskeyMash.description>Préparer un mélange amidonné et essentiellement liquide, parsemé de morceaux pulpeux. Prêt à être vieilli.</VBE_MakeWhiskeyMash.description>
+<!-- EN: Making whiskey mash. -->
+<VBE_MakeWhiskeyMash.jobString>extrait le moût de maîs.</VBE_MakeWhiskeyMash.jobString>
+
+<!-- EN: make cigarettes -->
+<VBE_MakeCigarettes.label>fabriquer des cigarettes</VBE_MakeCigarettes.label>
+<!-- EN: Make a small, rolled paper tube stuffed loosely with tobacco leaves. -->
+<VBE_MakeCigarettes.description>Fabriquer un petit tube de papier roulé bourré de feuilles de tabac.</VBE_MakeCigarettes.description>
+<!-- EN: Making cigarettes. -->
+<VBE_MakeCigarettes.jobString>fabrique les cigarettes.</VBE_MakeCigarettes.jobString>
+
+<!-- EN: make cigars -->
+<VBE_MakeCigars.label>fabriquer des cigares</VBE_MakeCigars.label>
+<!-- EN: Make a fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it. -->
+<VBE_MakeCigars.description>Fabriquer avec une grosse feuille de tabac séché, remplie à ras bord d'autres feuilles de tabac et entourée d'une feuille d'or.</VBE_MakeCigars.description>
+<!-- EN: Making cigars. -->
+<VBE_MakeCigars.jobString>fabrique les cigares.</VBE_MakeCigars.jobString>
+
+<!-- EN: make tea -->
+<VBE_MakeTea.label>préparer du thé</VBE_MakeTea.label>
+<!-- EN: Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. -->
+<VBE_MakeTea.description>Préparer une boisson agréable et aromatique en faisant infuser un sachet de feuilles de thé dans de l'eau bouillante.</VBE_MakeTea.description>
+<!-- EN: Making tea. -->
+<VBE_MakeTea.jobString>prépare le thé.</VBE_MakeTea.jobString>
+
+
+</LanguageData>

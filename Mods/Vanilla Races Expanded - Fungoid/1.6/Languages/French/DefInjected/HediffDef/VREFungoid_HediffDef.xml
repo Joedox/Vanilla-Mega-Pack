@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: infector hand -->
+<VRE_InfectorHands.label>main infectieuse</VRE_InfectorHands.label>
+<!-- EN: Melee attacks from this person have a 20% chance to spread a gene infection. -->
+<VRE_InfectorHands.description>Les attaques de mêlée de cette personne ont 20% de chances de propager une infection de gènes.</VRE_InfectorHands.description>
+<!-- EN: infector hand -->
+<VRE_InfectorHands.comps.HediffComp_VerbGiver.tools.infector_hand.label>main infectieuse</VRE_InfectorHands.comps.HediffComp_VerbGiver.tools.infector_hand.label>
+
+<!-- EN: infector mouth -->
+<VRE_InfectorMouth.label>bouche infectieuse</VRE_InfectorMouth.label>
+<!-- EN: Melee attacks from this person have a 20% chance to spread a gene infection. -->
+<VRE_InfectorMouth.description>Les attaques de mêlée de cette personne ont 20% de chances de propager une infection de gènes.</VRE_InfectorMouth.description>
+<!-- EN: infector mouth -->
+<VRE_InfectorMouth.comps.HediffComp_VerbGiver.tools.infector_mouth.label>bouche infectieuse</VRE_InfectorMouth.comps.HediffComp_VerbGiver.tools.infector_mouth.label>
+
+
+<!-- EN: fungal armor -->
+<VRE_FungalArmor.label>armure fongique</VRE_FungalArmor.label>
+<!-- EN: This person has a fungal weave in their skin, greatly decreasing incoming damage. The effects increase in severity with time. -->
+<VRE_FungalArmor.description>Cette personne a une trame fongique dans sa peau, ce qui réduit considérablement les dommages subis. L'effet augmente avec le temps.</VRE_FungalArmor.description>
+
+<!-- EN: fungal regeneration -->
+<VRE_FungalRegeneration.label>régénération fongique</VRE_FungalRegeneration.label>
+<!-- EN: This person is capable of fungal regeneration. The effects increase in severity with time. -->
+<VRE_FungalRegeneration.description>Cette personne a la capacité de se régénérer par voie fongique. L'effet augmente avec le temps.</VRE_FungalRegeneration.description>
+
+
+<!-- EN: gene infected -->
+<VRE_GeneInfected.label>gène infecté</VRE_GeneInfected.label>
+<!-- EN: This person was the victim of a gene infection that altered their xenotype. This can't be cured. -->
+<VRE_GeneInfected.description>Cette personne a été victime d'une infection de gènes qui a modifié son xénotype. Cela ne peut pas être guéri.</VRE_GeneInfected.description>
+
+<!-- EN: gene infection -->
+<VRE_GeneInfection.label>infection de gènes</VRE_GeneInfection.label>
+<!-- EN: This person was implanted a copy of a xenogerm through a melee attack. This has triggered a progressing infection which, if left untreated will apply this xenogerm to them. -->
+<VRE_GeneInfection.description>Cette personne s'est vue implanter une copie d'un xénogerme lors d'une attaque au corps à corps. Cela a déclenché une infection progressive qui, si elle n'est pas traitée, lui appliquera ce xénogerme.</VRE_GeneInfection.description>
+<!-- EN: {0} has been afflicted with a gene infection! If the infection is not treated successfully, they'll be painfully converted into the xenotype of the person who infected them. -->
+<VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0} est atteint{0_gender ? : e } d'une infection de gènes ! Si l'infection n'est pas traitée avec succès, les gènes seront douloureusement transformés en xénotype de la personne qui l'a infecté.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
+<!-- EN: a gene infection -->
+<VRE_GeneInfection.labelNoun>une infection de gènes</VRE_GeneInfection.labelNoun>
+<!-- EN: minor -->
+<VRE_GeneInfection.stages.minor.label>mineure</VRE_GeneInfection.stages.minor.label>
+<!-- EN: major -->
+<VRE_GeneInfection.stages.major.label>majeure</VRE_GeneInfection.stages.major.label>
+<!-- EN: extreme -->
+<VRE_GeneInfection.stages.extreme-0.label>extrême</VRE_GeneInfection.stages.extreme-0.label>
+<!-- EN: extreme -->
+<VRE_GeneInfection.stages.extreme-1.label>extrême</VRE_GeneInfection.stages.extreme-1.label>
+
+
+</LanguageData>

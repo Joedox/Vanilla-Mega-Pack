@@ -1,0 +1,270 @@
+<Defs>
+
+<!-- Divers -->
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_ApertureScience</defName>
+    <label>Aperture Science</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_ApertureScience</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_CompanionCube</defName>
+    <label>Companion Cube</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_CompanionCube</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_Cubee</defName>
+    <label>Cubee</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_Cubee</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_GameOfRoles</defName>
+    <label>Game Of Roles</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_GameOfRoles</path>
+  </VFEMedieval.HeraldicSymbol>
+
+
+<!-- WarHammer -->
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Imperial</defName>
+      <label>L'Empire</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Imperial</path>
+    </VFEMedieval.HeraldicSymbol>
+
+  <!-- Culte -->
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Sigmar</defName>
+      <label>Sigmar</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Sigmar</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Shallya</defName>
+      <label>Shallya</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Shallya</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Ulric</defName>
+      <label>Ulric</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Ulric</path>
+    </VFEMedieval.HeraldicSymbol>
+
+  <!-- Chaos-->
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Chaos</defName>
+      <label>Chaos</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Chaos</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Khorne</defName>
+      <label>Khorne</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Khorne</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Nurgle</defName>
+      <label>Nurgle</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Nurgle</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Slaanesh</defName>
+      <label>Slaanesh</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Slaanesh</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Tzeentch</defName>
+      <label>Tzeentch</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Tzeentch</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_RatCornu</defName>
+      <label>Rat Cornu</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_RatCornu</path>
+    </VFEMedieval.HeraldicSymbol>
+
+
+
+<!-- Blizzard Entertainment -->
+  <!-- WarCraft -->
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Alliance</defName>
+      <label>Alliance</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Alliance</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Horde</defName>
+      <label>Horde</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Horde</path>
+    </VFEMedieval.HeraldicSymbol>
+
+  <!-- StarCraft -->
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Terran</defName>
+      <label>Terran</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Terran</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Zerg</defName>
+      <label>Zerg</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Zerg</path>
+    </VFEMedieval.HeraldicSymbol>
+
+    <VFEMedieval.HeraldicSymbol>
+      <defName>VFEM2_Protoss</defName>
+      <label>Protoss</label>
+      <path>Things/Heraldics/Symbols/HeraldrySymbol_Protoss</path>
+    </VFEMedieval.HeraldicSymbol>
+
+
+<!-- Medieval Overhaul -->
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonAmboise</defName>
+    <label>Maison Amboise</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonAmboise</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonDoyle</defName>
+    <label>Maison Doyle</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonDoyle</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonHesse</defName>
+    <label>Maison Hesse</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonHesse</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonOswin</defName>
+    <label>Maison Oswin</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonOswin</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonRoxmont</defName>
+    <label>Maison Roxmont</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonRoxmont</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonSanguin</defName>
+    <label>Maison Sanguin</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonSanguin</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonSoren</defName>
+    <label>Maison Soren</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonSoren</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonVanIlla</defName>
+    <label>Maison Van Illa</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonVanIlla</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonMagical</defName>
+    <label>Académie de magie</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonMagical</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonProfane</defName>
+    <label>Profané</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonProfane</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_MaisonOs</defName>
+    <label>Faucheur d'os</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_MaisonOs</path>
+  </VFEMedieval.HeraldicSymbol>
+
+
+<!-- SNK -->
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_SNKExploration</defName>
+    <label>Bataillon d'exploration</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_SNKExploration</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_SNKGarnison</defName>
+    <label>Garnison</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_SNKGarnison</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_SNKSpeciales</defName>
+    <label>Brigades spéciales</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_SNKSpeciales</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_SNKFormation</defName>
+    <label>Période de formation</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_SNKFormation</path>
+  </VFEMedieval.HeraldicSymbol>
+
+
+<!-- Helldivers II -->
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_HelldiversII</defName>
+    <label>Helldivers II</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_HelldiversII</path>
+  </VFEMedieval.HeraldicSymbol>
+
+
+<!-- Command and Conquers -->
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_CCGDI</defName>
+    <label>GDI</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_CCGDI</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_CCNOD</defName>
+    <label>NOD</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_CCNOD</path>
+  </VFEMedieval.HeraldicSymbol>
+
+
+<!-- Noob -->
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_NoobLogo</defName>
+    <label>Noob</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_NoobLogo</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_NoobEmpire</defName>
+    <label>L'Empire</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_NoobEmpire</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_NoobCoalition</defName>
+    <label>La Coalition</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_NoobCoalition</path>
+  </VFEMedieval.HeraldicSymbol>
+
+  <VFEMedieval.HeraldicSymbol>
+    <defName>VFEM2_NoobOrdre</defName>
+    <label>L'Ordre</label>
+    <path>Things/Heraldics/Symbols/HeraldrySymbol_NoobOrdre</path>
+  </VFEMedieval.HeraldicSymbol>
+
+
+</Defs>

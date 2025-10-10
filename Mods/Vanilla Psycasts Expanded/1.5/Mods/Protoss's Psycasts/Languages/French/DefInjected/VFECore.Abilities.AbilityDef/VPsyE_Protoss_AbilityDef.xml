@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: 隐形立场 -->
+<PTA_CloakingField.label>champ de camouflage</PTA_CloakingField.label>
+<!-- EN: 施法者聚集灵能在自己身体周围生成一个隐身立场，可以令周围的盟友隐形。 -->
+<PTA_CloakingField.description>Le psylanceur rassemble de l'énergie psionique autour de son corps pour générer un champ d'occultation, rendant les alliés proches invisibles.</PTA_CloakingField.description>
+<!-- EN: Using ability: {0} -->
+<PTA_CloakingField.jobReportString>Utilise la capacité : {0}</PTA_CloakingField.jobReportString>
+<!-- EN: champ de camouflage -->
+<PTA_CloakingField.verbProperties.label>champ de camouflage</PTA_CloakingField.verbProperties.label>
+
+<!-- EN: 灵能反馈 -->
+<PTA_Feedback.label>répercussion</PTA_Feedback.label>
+<!-- EN: 施法者使用灵能抽取目标精神力并引发一个爆炸，爆炸伤害和范围与抽取的精神力相关。 -->
+<PTA_Feedback.description>Le psylanceur utilise l'énergie psionique pour brûler la concentration psychique de la cible et déclencher une explosion. Les dégâts et la zone de l'explosion sont proportionnels à la concentration psychique brûlée.</PTA_Feedback.description>
+<!-- EN: Using ability: {0} -->
+<PTA_Feedback.jobReportString>Utilise la capacité : {0}</PTA_Feedback.jobReportString>
+<!-- EN: répercussion -->
+<PTA_Feedback.verbProperties.label>répercussion</PTA_Feedback.verbProperties.label>
+
+<!-- EN: 刚毅护盾 -->
+<PTA_HardenedShields.label>bouclier renforcé</PTA_HardenedShields.label>
+<!-- EN: 施法者使用灵能制造一个强大的屏障，可以大幅减少敌方即将到来的伤害。 -->
+<PTA_HardenedShields.description>Le psylanceur utilise l'énergie psionique pour créer une puissante barrière qui non seulement l'immunise contre les dégâts à distance, mais réduit aussi considérablement les dégâts de mêlée des ennemis.</PTA_HardenedShields.description>
+<!-- EN: Using ability: {0} -->
+<PTA_HardenedShields.jobReportString>Utilise la capacité : {0}</PTA_HardenedShields.jobReportString>
+<!-- EN: bouclier renforcé -->
+<PTA_HardenedShields.verbProperties.label>bouclier renforcé</PTA_HardenedShields.verbProperties.label>
+
+<!-- EN: 制造拦截机 -->
+<PTA_Interceptor.label>construire intercepteur</PTA_Interceptor.label>
+<!-- EN: 施法者使用灵能制造一个拦截机，拦截机自带护盾并可以进行远程攻击，存在时会持续消耗施法者的灵能熵。 -->
+<PTA_Interceptor.description>Le psylanceur utilise l'énergie psionique pour produire un intercepteur. Les intercepteurs ont des boucliers intégrés et peuvent effectuer des attaques à distance. Ils consomment continuellement l'entropie psionique du psylanceur lorsqu'ils sont actifs.</PTA_Interceptor.description>
+<!-- EN: Using ability: {0} -->
+<PTA_Interceptor.jobReportString>Utilise la capacité : {0}</PTA_Interceptor.jobReportString>
+<!-- EN: construire intercepteur -->
+<PTA_Interceptor.verbProperties.label>construire intercepteur</PTA_Interceptor.verbProperties.label>
+
+<!-- EN: 群体召回 -->
+<PTA_MassRecall.label>rappel en masse</PTA_MassRecall.label>
+<!-- EN: 施法者凝聚灵能将远方目标区域内的所有友方单位传送至施法者周围。 -->
+<PTA_MassRecall.description>Le psylanceur condense de l'énergie psionique pour téléporter toutes les unités amies situées dans la zone ciblée et éloignée à côté du psylanceur.</PTA_MassRecall.description>
+<!-- EN: Using ability: {0} -->
+<PTA_MassRecall.jobReportString>Utilise la capacité : {0}</PTA_MassRecall.jobReportString>
+<!-- EN: rappel en masse -->
+<PTA_MassRecall.verbProperties.label>rappel en masse</PTA_MassRecall.verbProperties.label>
+
+<!-- EN: 相位碎裂炮 -->
+<PTA_Phasedisruptors.label>disruption de phase</PTA_Phasedisruptors.label>
+<!-- EN: 施法者将灵能凝聚成一枚破坏力十足的能量弹，会对机械单位造成巨量伤害。 -->
+<PTA_Phasedisruptors.description>Le psylanceur condense l'énergie psychique en un projectile énergétique destructeur qui inflige des dégâts massifs aux unités mécaniques.</PTA_Phasedisruptors.description>
+<!-- EN: Using ability: {0} -->
+<PTA_Phasedisruptors.jobReportString>Utilise la capacité : {0}</PTA_Phasedisruptors.jobReportString>
+<!-- EN: 相位碎裂炮 -->
+<PTA_Phasedisruptors.verbProperties.label>disruption de phase</PTA_Phasedisruptors.verbProperties.label>
+
+<!-- EN: 灵能利刃 -->
+<PTA_PsiBlades.label>lames psioniques</PTA_PsiBlades.label>
+<!-- EN: 施法者将灵能凝聚成一把十分锋利的利刃。 -->
+<PTA_PsiBlades.description>Le psylanceur condense l'énergie psionique en une lame extrêmement tranchante.</PTA_PsiBlades.description>
+<!-- EN: Using ability: {0} -->
+<PTA_PsiBlades.jobReportString>Utilise la capacité : {0}</PTA_PsiBlades.jobReportString>
+<!-- EN: lames psioniques -->
+<PTA_PsiBlades.verbProperties.label>lames psioniques</PTA_PsiBlades.verbProperties.label>
+
+<!-- EN: 灵能冲击波 -->
+<PTA_PsionicShockwave.label>onde de choc psionique</PTA_PsionicShockwave.label>
+<!-- EN: 施法者将灵能凝聚成强大灵能闪电，对生物单位造成额外伤害。 -->
+<PTA_PsionicShockwave.description>Le psylanceur condense l'énergie psionique en une puissante onde de choc, infligeant des dégâts supplémentaires aux unités biologiques.</PTA_PsionicShockwave.description>
+<!-- EN: Using ability: {0} -->
+<PTA_PsionicShockwave.jobReportString>Utilise la capacité : {0}</PTA_PsionicShockwave.jobReportString>
+<!-- EN: onde de choc psionique -->
+<PTA_PsionicShockwave.verbProperties.label>onde de choc psionique</PTA_PsionicShockwave.verbProperties.label>
+
+<!-- EN: 灵能风暴 -->
+<PTA_PsionicStorm.label>tempête psionique</PTA_PsionicStorm.label>
+<!-- EN: 施法者使用灵能召唤一个灵能风暴，对目标区域所有单位造成持续伤害。 -->
+<PTA_PsionicStorm.description>Le psylanceur utilise l'énergie psionique pour invoquer une tempête psionique qui inflige des dégâts continus à toutes les unités de la zone ciblée.</PTA_PsionicStorm.description>
+<!-- EN: Using ability: {0} -->
+<PTA_PsionicStorm.jobReportString>Utilise la capacité : {0}</PTA_PsionicStorm.jobReportString>
+<!-- EN: tempête psionique -->
+<PTA_PsionicStorm.verbProperties.label>tempête psionique</PTA_PsionicStorm.verbProperties.label>
+
+<!-- EN: 制造净化新星 -->
+<PTA_PurificationNova.label>construire disrupteur</PTA_PurificationNova.label>
+<!-- EN: 施法者将灵能凝聚成一枚能量球，能量球持续2小时，死亡时会释放强力的能量爆炸，对附近的单位造成大量伤害。 -->
+<PTA_PurificationNova.description>Le psylanceur condense l'énergie psionique en une boule d'énergie. Le disrupteur dure 0,8 heure et libère une puissante nova purificatrice au moment de sa mort, causant d'importants dégâts aux unités proches.</PTA_PurificationNova.description>
+<!-- EN: Using ability: {0} -->
+<PTA_PurificationNova.jobReportString>Utilise la capacité : {0}</PTA_PurificationNova.jobReportString>
+<!-- EN: construire disrupteur -->
+<PTA_PurificationNova.verbProperties.label>construire disrupteur</PTA_PurificationNova.verbProperties.label>
+
+<!-- EN: 构造失稳 -->
+<PTA_ResonanceCoil.label>surcharge cinétique</PTA_ResonanceCoil.label>
+<!-- EN: 施法者将灵能凝聚成一枚破坏力十足的能量弹，会对建筑造成巨量伤害。 -->
+<PTA_ResonanceCoil.description>Le psylanceur condense l'énergie psionique en un projectile énergétique extrêmement destructeur, causant d'énormes dégâts aux structures.</PTA_ResonanceCoil.description>
+<!-- EN: Using ability: {0} -->
+<PTA_ResonanceCoil.jobReportString>Utilise la capacité : {0}</PTA_ResonanceCoil.jobReportString>
+<!-- EN: surcharge cinétique -->
+<PTA_ResonanceCoil.verbProperties.label>surcharge cinétique</PTA_ResonanceCoil.verbProperties.label>
+
+<!-- EN: 灵能护盾 -->
+<PTA_Shields.label>bouclier psionique</PTA_Shields.label>
+<!-- EN: 施法者将灵能凝聚成护盾，可以免疫远程伤害并强化护甲。 -->
+<PTA_Shields.description>Le psylanceur condense l'énergie psionique dans un bouclier, ce qui lui confère une immunité aux dégâts à distance et améliore son armure.</PTA_Shields.description>
+<!-- EN: Using ability: {0} -->
+<PTA_Shields.jobReportString>Utilise la capacité : {0}</PTA_Shields.jobReportString>
+<!-- EN: bouclier psionique -->
+<PTA_Shields.verbProperties.label>bouclier psionique</PTA_Shields.verbProperties.label>
+
+<!-- EN: 时空扭曲 -->
+<PTA_TimeWarp.label>distorsion temporelle</PTA_TimeWarp.label>
+<!-- EN: 施法者凝聚灵能扭曲目标区域的时空，持续7小时。在该区域内，所有的敌方的操作能力和移动速度都将减少。 -->
+<PTA_TimeWarp.description>Le psylanceur condense de l'énergie psionique pour déformer le temps et l'espace de la zone ciblée, pendant 7 heures. Dans cette zone, les capacités de mouvement et de manipulation de tous les unités sont réduites.</PTA_TimeWarp.description>
+<!-- EN: Using ability: {0} -->
+<PTA_TimeWarp.jobReportString>Utilise la capacité : {0}</PTA_TimeWarp.jobReportString>
+<!-- EN: distorsion temporelle -->
+<PTA_TimeWarp.verbProperties.label>distorsion temporelle</PTA_TimeWarp.verbProperties.label>
+
+
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_MeleeWeapon_HeavyClub.label>massue lourde</VWE_MeleeWeapon_HeavyClub.label>
+<VWE_MeleeWeapon_HeavyClub.description>Un grand bâton façonné à deux mains pour frapper les ennemis. Le poids extrême à l'extrémité de cet outil permet à l'utilisateur d'écraser la chair comme les os, laissant les ennemis mutilés, paralysés et souvent morts.</VWE_MeleeWeapon_HeavyClub.description>
+<VWE_MeleeWeapon_HeavyClub.tools.handle.label>manche</VWE_MeleeWeapon_HeavyClub.tools.handle.label>
+<VWE_MeleeWeapon_HeavyClub.tools.head.label>tête</VWE_MeleeWeapon_HeavyClub.tools.head.label>
+
+<VWE_MeleeWeapon_LightClub.label>massue légère</VWE_MeleeWeapon_LightClub.label>
+<VWE_MeleeWeapon_LightClub.description>Une petite massue à une main. Bien qu'elle soit rapide à manier, elle ne causera pas de dégâts considérables en raison de son faible poids et de sa petite taille.</VWE_MeleeWeapon_LightClub.description>
+<VWE_MeleeWeapon_LightClub.tools.handle.label>manche</VWE_MeleeWeapon_LightClub.tools.handle.label>
+<VWE_MeleeWeapon_LightClub.tools.head.label>tête</VWE_MeleeWeapon_LightClub.tools.head.label>
+
+<VWE_MeleeWeapon_TribalAxe.label>hache tribale</VWE_MeleeWeapon_TribalAxe.label>
+<VWE_MeleeWeapon_TribalAxe.description>Un morceau de roche tranchant monté sur un solide morceau de bois. Souvent utilisée comme outil, il a été rapporté que les haches tribales servaient également d'arme de choix en raison de leur petite taille et de leur capacité à infliger des blessures profondes.</VWE_MeleeWeapon_TribalAxe.description>
+<VWE_MeleeWeapon_TribalAxe.tools.handle.label>manche</VWE_MeleeWeapon_TribalAxe.tools.handle.label>
+<VWE_MeleeWeapon_TribalAxe.tools.edge.label>tranchant</VWE_MeleeWeapon_TribalAxe.tools.edge.label>
+
+<VWE_MeleeWeapon_Shiv.label>shiv</VWE_MeleeWeapon_Shiv.label>
+<VWE_MeleeWeapon_Shiv.description>L'un des plus anciens objets manufacturés de l'humanité. Un shiv est un morceau de roche ou de métal court mais tranchant, muni d'un petit manche.</VWE_MeleeWeapon_Shiv.description>
+<VWE_MeleeWeapon_Shiv.tools.blade.label>lame</VWE_MeleeWeapon_Shiv.tools.blade.label>
+<VWE_MeleeWeapon_Shiv.tools.point.label>pointe</VWE_MeleeWeapon_Shiv.tools.point.label>
+
+<VWE_Sling.label>fronde</VWE_Sling.label>
+<VWE_Sling.description>Une petite poche au milieu de deux longueurs de corde. Utilisé pour lancer des pierres pointues sur une distance moyenne.</VWE_Sling.description>
+<VWE_Sling.tools.sling.label>fronde</VWE_Sling.tools.sling.label>
+<VWE_Sling.verbs.Verb_Shoot.label>fronde</VWE_Sling.verbs.Verb_Shoot.label>
+<VWE_SlingRock.label>pierre de fronde</VWE_SlingRock.label>
+
+<VWE_Throwing_Shards.label>éclats à lancer</VWE_Throwing_Shards.label>
+<VWE_Throwing_Shards.description>Un ensemble d'éclats de roche ou de métal bruts qui peuvent être lancés sur une courte distance.</VWE_Throwing_Shards.description>
+<VWE_Throwing_Shards.tools.handle.label>manche</VWE_Throwing_Shards.tools.handle.label>
+<VWE_Throwing_Shards.tools.edge.label>tranchant</VWE_Throwing_Shards.tools.edge.label>
+<VWE_Throwing_Shards.tools.point.label>pointe</VWE_Throwing_Shards.tools.point.label>
+<VWE_Throwing_Shards.verbs.Verb_Shoot.label>éclats à lancer</VWE_Throwing_Shards.verbs.Verb_Shoot.label>
+
+<VWE_FlyingShard.label>tesson</VWE_FlyingShard.label>
+<VWE_Weapon_FireBomb.label>bombe incendiaire</VWE_Weapon_FireBomb.label>
+<VWE_Weapon_FireBomb.description>Un petit pot en argile contenant diverses substances inflammables, que ce soit du carburant chimique, du tissu, de la poudre à canon ou des graisses animales.</VWE_Weapon_FireBomb.description>
+<VWE_Weapon_FireBomb.verbs.throw_firebomb.label>lancer une bombe incendiaire</VWE_Weapon_FireBomb.verbs.throw_firebomb.label>
+<VWE_Proj_FireBomb.label>bombe incendiaire</VWE_Proj_FireBomb.label>
+
+
+</LanguageData>

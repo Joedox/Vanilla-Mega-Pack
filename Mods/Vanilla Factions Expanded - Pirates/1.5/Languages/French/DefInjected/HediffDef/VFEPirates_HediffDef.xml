@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: siege mode -->
+<VFEP_SiegeMode.label>mode siège</VFEP_SiegeMode.label>
+<!-- EN: siege mode. -->
+<VFEP_SiegeMode.description>En mode siège.</VFEP_SiegeMode.description>
+<!-- EN: siege mode -->
+<VFEP_SiegeMode.labelNoun>mode siège</VFEP_SiegeMode.labelNoun>
+
+
+<!-- EN: hypothermic slowdown -->
+<VFEP_HypothermicSlowdown.label>ralentissement hypothermique</VFEP_HypothermicSlowdown.label>
+<!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed. -->
+<VFEP_HypothermicSlowdown.description>Température corporelle interne dangereusement basse. À moins d'être réchauffé, le ralentissement hypothermique s'aggrave et se termine par la mort. La récupération est rapide une fois que la victime est réchauffée.</VFEP_HypothermicSlowdown.description>
+<!-- EN: minor -->
+<VFEP_HypothermicSlowdown.stages.minor-0.label>début</VFEP_HypothermicSlowdown.stages.minor-0.label>
+<!-- EN: minor -->
+<VFEP_HypothermicSlowdown.stages.minor-1.label>mineur</VFEP_HypothermicSlowdown.stages.minor-1.label>
+<!-- EN: moderate -->
+<VFEP_HypothermicSlowdown.stages.moderate.label>moyen</VFEP_HypothermicSlowdown.stages.moderate.label>
+<!-- EN: serious -->
+<VFEP_HypothermicSlowdown.stages.serious.label>sévère</VFEP_HypothermicSlowdown.stages.serious.label>
+<!-- EN: extreme -->
+<VFEP_HypothermicSlowdown.stages.extreme.label>extrême</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+<!-- EN: kill itself -->
+<VFEP_KillItself.label>se tuer</VFEP_KillItself.label>
+<!-- EN: . -->
+<VFEP_KillItself.description>.</VFEP_KillItself.description>
+<!-- EN: minor -->
+<VFEP_KillItself.stages.minor.label>mineur</VFEP_KillItself.stages.minor.label>
+
+<!-- EN: drank rum based cocktail -->
+<VFEP_RumAsIngredient.label>a bu un cocktail à base de rhum</VFEP_RumAsIngredient.label>
+<!-- EN: This colonist drank a cocktail that had rum as one of its ingredients. Reduces hunger rate by 15%. -->
+<VFEP_RumAsIngredient.description>Ce colon a bu un cocktail dont l'un des ingrédients était du rhum. Réduit le taux de faim de 15%.</VFEP_RumAsIngredient.description>
+
+
+</LanguageData>

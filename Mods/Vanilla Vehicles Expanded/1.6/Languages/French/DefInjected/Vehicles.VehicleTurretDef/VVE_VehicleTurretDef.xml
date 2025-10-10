@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: bulldog cannon -->
+<Bulldog_MainTurret.label>canon bulldog</Bulldog_MainTurret.label>
+<!-- EN: A large, long range cannon capable of firing explosive shells over medium distance. Usually mounted on Bulldog tanks. -->
+<Bulldog_MainTurret.description>Un grand canon à longue portée permettant de tirer des obus explosifs sur une distance moyenne. Généralement monté sur les chars Bulldog.</Bulldog_MainTurret.description>
+<!-- EN: Single Shot -->
+<Bulldog_MainTurret.fireModes.0.label>Tir unique</Bulldog_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Bulldog_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Bulldog_MainTurret.gizmoDescription>
+
+
+<!-- EN: bunsen flamethrower -->
+<VVE_Bunsen_MainTurret.label>lance-flammes bunsen</VVE_Bunsen_MainTurret.label>
+<!-- EN: A lightly-armored medium range flamethrower turret usually mounted on bunsen tanks. Takes fuel directly from the chemtank of the vehicle. Quite devastating against infantry, bunsen flamethrower struggles against armored targets. -->
+<VVE_Bunsen_MainTurret.description>Tourelle de lance-flammes à moyenne portée légèrement blindée, généralement montée sur des réservoirs de type bunsen. Elle se nourrit directement du réservoir de carburant du véhicule. Assez dévastateur contre l'infanterie, le lance-flammes bunsen est moins efficace contre les cibles blindées.</VVE_Bunsen_MainTurret.description>
+<!-- EN: Fire Spew -->
+<VVE_Bunsen_MainTurret.fireModes.0.label>Gerbe de feu</VVE_Bunsen_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<VVE_Bunsen_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</VVE_Bunsen_MainTurret.gizmoDescription>
+
+
+<!-- EN: highwayman turret -->
+<Highwayman_MainTurret.label>tourelle highwayman</Highwayman_MainTurret.label>
+<!-- EN: A lightly-armored twin-linked miniturret cannon. Usually mounted on Highwaymen armored personnel carriers. Needs to be reloaded with steel. Can only fire over short range, but doesn’t have any issues with firing at enemies that engage the vehicle in melee. -->
+<Highwayman_MainTurret.description>Minitourelle légèrement blindée à double articulation. Habituellement monté sur les véhicules blindés de transport de troupes Highwaymen. Doit être rechargé avec de l'acier. Ne peut tirer qu'à courte portée, mais n'a aucun problème à tirer sur les ennemis qui engagent le véhicule au corps à corps.</Highwayman_MainTurret.description>
+<!-- EN: Burst -->
+<Highwayman_MainTurret.fireModes.0.label>En rafale</Highwayman_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Highwayman_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Highwayman_MainTurret.gizmoDescription>
+
+
+<!-- EN: roadkill cannon -->
+<Roadkill_MainTurret.label>canon roadkill</Roadkill_MainTurret.label>
+<!-- EN: A cannon capable of firing explosive tank shells over medium distance. Usually mounted on Roadkill tanks. Needs to be reloaded with steel. Can’t fire whilst moving. Has a decent range, but can’t target enemies too close. -->
+<Roadkill_MainTurret.description>Canon permettant de tirer des obus de chars explosifs sur une distance moyenne. Généralement monté sur les chars Roadkill. Doit être rechargé avec de l'acier. Ne peut pas tirer en se déplaçant. A une portée décente, mais ne peut pas viser les ennemis trop proches.</Roadkill_MainTurret.description>
+<!-- EN: Single Shot -->
+<Roadkill_MainTurret.fireModes.0.label>Tir unique</Roadkill_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Roadkill_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Roadkill_MainTurret.gizmoDescription>
+
+
+<!-- EN: Rocket swarm turret -->
+<Scytheman_MainTurret.label>tourelle d'essaim de roquettes</Scytheman_MainTurret.label>
+<!-- EN: An inaccurate launcher capable of firing two barrages of rockets covering a large area. The turret does not fire until someone orders it to fire. It is very effective against large groups of weaker combatants, but less effective against small numbers of armored targets. Extensive firing may overheat and disable the turret. -->
+<Scytheman_MainTurret.description>Un lanceur imprécis pouvant tirer deux barrages de roquettes recouvrant une large zone. La tourelle ne fait feu que lorsque quelqu'un lui en donne l'ordre. Elle est très efficace contre les grands groupes de combattants faibles, mais moins efficace contre un petit nombre de cibles blindées. Un tir intensif peut faire surchauffer la tourelle et la rendre inutilisable.</Scytheman_MainTurret.description>
+<!-- EN: Burst -->
+<Scytheman_MainTurret.fireModes.0.label>En rafale</Scytheman_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Scytheman_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Scytheman_MainTurret.gizmoDescription>
+
+
+<!-- EN: tango autocannon -->
+<Tango_MainTurret.label>autocanon tango</Tango_MainTurret.label>
+<!-- EN: A heavy automatic turret mounted on a Tango APC. Its large-caliber shells do heavy damage over significant ranges, but it’s inaccurate and uses up a lot of ammo. -->
+<Tango_MainTurret.description>Tourelle automatique lourde montée sur un APC Tango. Ses obus de gros calibre font de gros dégâts sur des distances importantes, mais elle est imprécise et consomme beaucoup de munitions.</Tango_MainTurret.description>
+<!-- EN: Single -->
+<Tango_MainTurret.fireModes.0.label>Coup par coup</Tango_MainTurret.fireModes.0.label>
+<!-- EN: Burst -->
+<Tango_MainTurret.fireModes.1.label>En rafale</Tango_MainTurret.fireModes.1.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Tango_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Tango_MainTurret.gizmoDescription>
+
+
+<!-- EN: toad artillery -->
+<Toad_MainTurret.label>artillerie crapaud</Toad_MainTurret.label>
+<!-- EN: A mortar turret that launches all kinds of shells, typically mounted on Toad siege pods. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
+<Toad_MainTurret.description>Tourelle de mortier qui lance toutes sortes d'obus, généralement montée sur des capsules de siège crapauds. Bien qu'elle puisse infliger des dégâts dévastateurs, l'imprécision inhérente au mortier la rend plus utile pour attaquer de grandes fortifications que des groupes d'ennemis sur le terrain.</Toad_MainTurret.description>
+<!-- EN: Single -->
+<Toad_MainTurret.fireModes.0.label>Tir unique</Toad_MainTurret.fireModes.0.label>
+<!-- EN: Select Target.\n\nFire for effect -->
+<Toad_MainTurret.gizmoDescription>Choisir une cible.\n\nTirer dans la zone.</Toad_MainTurret.gizmoDescription>
+
+
+</LanguageData>

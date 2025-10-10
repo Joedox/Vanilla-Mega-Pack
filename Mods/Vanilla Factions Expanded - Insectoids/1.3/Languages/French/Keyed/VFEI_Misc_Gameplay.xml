@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Incubator: Genome Lists -->	
+	<VFEI_InsertFirstGenomeDesc>Sélectionner le premier génome pour l'incubateur</VFEI_InsertFirstGenomeDesc>
+	<None_InsertFirstGenome>1er génome : Aucun</None_InsertFirstGenome>
+	<VFEI_RoyalGenome_InsertFirstGenome>1er génome : Royal</VFEI_RoyalGenome_InsertFirstGenome>
+	<VFEI_WarriorGenome_InsertFirstGenome>1er génome : Guerrier</VFEI_WarriorGenome_InsertFirstGenome>
+	<VFEI_DroneGenome_InsertFirstGenome>1er génome : Drone</VFEI_DroneGenome_InsertFirstGenome>
+	
+	<VFEI_InsertSecondGenomeDesc>Sélectionner le deuxième génome pour l'incubateur</VFEI_InsertSecondGenomeDesc>
+	<None_InsertSecondGenome>2è génome: Aucun</None_InsertSecondGenome>
+	<VFEI_RoyalGenome_InsertSecondGenome>2è génome : Royal</VFEI_RoyalGenome_InsertSecondGenome>
+	<VFEI_WarriorGenome_InsertSecondGenome>2è génome : Guerrier</VFEI_WarriorGenome_InsertSecondGenome>
+	<VFEI_DroneGenome_InsertSecondGenome>2è génome : Drone</VFEI_DroneGenome_InsertSecondGenome>
+	
+	<VFEI_InsertThirdGenomeDesc>Sélectionner le troisième génome pour l'incubateur</VFEI_InsertThirdGenomeDesc>
+	<None_InsertThirdGenome>3è génome: Aucun</None_InsertThirdGenome>
+	<VFEI_RoyalGenome_InsertThirdGenome>3è génome : Royal</VFEI_RoyalGenome_InsertThirdGenome>
+	<VFEI_WarriorGenome_InsertThirdGenome>3è génome : Guerrier</VFEI_WarriorGenome_InsertThirdGenome>
+	<VFEI_DroneGenome_InsertThirdGenome>3è génome : Drone</VFEI_DroneGenome_InsertThirdGenome>
+	
+	<VFEI_RoyalGenome>Génome Royal</VFEI_RoyalGenome>
+	<VFEI_WarriorGenome>Génome Guerrier</VFEI_WarriorGenome>
+	<VFEI_DroneGenome>Génome Drone</VFEI_DroneGenome>
+	<VFEI_None>Laisser vide</VFEI_None>
+	
+	<!-- Incubator: General -->
+	<VFEI_NoGeneticMaterial>Aucun génome de ce type n'est présent sur la carte</VFEI_NoGeneticMaterial>
+	<VFEI_SelectAtLeastOne>Au moins un des trois emplacements de l'incubateur doit être rempli d'un génome.</VFEI_SelectAtLeastOne>
+	
+	<VFEI_StartInsertion>Insérer les génomes</VFEI_StartInsertion>
+	<VFEI_StartInsertionDesc>Ordonner à vos colons de commencer à insérer le génome dans l'incubateur. C'est un travail de transport.</VFEI_StartInsertionDesc>
+	
+	<VFEI_RemoveAllGenes>Retirer les génomes</VFEI_RemoveAllGenes>
+	<VFEI_RemoveAllGenesDesc>Vider l'incubateur, en retirant tous les génomes qui pourraient encore y être stockés.</VFEI_RemoveAllGenesDesc>
+	
+	<VFEI_CancelJobs>Annuler</VFEI_CancelJobs>
+	<VFEI_CancelJobsDesc>Annule l'insertion du génome. Tous les transports de génomes seront annulés.</VFEI_CancelJobsDesc>
+	
+	<VFEI_Engage>Activer l'incubateur</VFEI_Engage>
+	<VFEI_EngageDesc>Activer l'incubateur pour créer un nouvel insectoïde à partir du génome inséré.</VFEI_EngageDesc>
+	
+	<VFEI_NoGenesFound>Vos colons sont incapables de récupérer le génome.</VFEI_NoGenesFound>
+	
+	<VFEI_WaitTillJobsEnd>Un génome est en cours d’acheminement vers l'incubateur</VFEI_WaitTillJobsEnd>
+	
+	<VFEI_IncubationInProgress>Incubation en cours. Un {0} sera produit dans : </VFEI_IncubationInProgress>
+	
+	<VFEI_CombinationNoResults>Cette combinaison ne donne aucun résultat</VFEI_CombinationNoResults>
+
+	<!-- Incubator: Power related -->
+	<VFEI_NotPowered>L'incubateur de bio-ingénierie n'est actuellement pas alimenté</VFEI_NotPowered>
+	<VFEI_IncubationFailurePower>L'incubation en cours a échoué en raison d'un manque d'énergie</VFEI_IncubationFailurePower>
+
+	<!-- Incubator: Failure -->
+	<VFEI_FailureMonstrosity>Quelque chose de catastrophique s'est produit dans la séquence d'incubation !</VFEI_FailureMonstrosity>
+	<VFEI_FailureDeath>Quelque chose a mal tourné dans la séquence d'incubation. L'insectoïde est mort</VFEI_FailureDeath>
+	<VFEI_FailureDisease>Quelque chose a mal tourné dans la séquence d'incubation. L'insectoïde sort malade</VFEI_FailureDisease>
+	
+	<!-- For patches -->
+	<VFEI_BlackHiveGenome_InsertFirstGenome>1er génome : Ruche noire</VFEI_BlackHiveGenome_InsertFirstGenome>
+	<VFEI_BlackHiveGenome_InsertSecondGenome>2è génome : Ruche noire</VFEI_BlackHiveGenome_InsertSecondGenome>
+	<VFEI_BlackHiveGenome_InsertThirdGenome>3è génome : Ruche noire</VFEI_BlackHiveGenome_InsertThirdGenome>
+	<VFEI_BlackHiveGenome>Génome Ruche noire</VFEI_BlackHiveGenome>
+	
+	<!-- Comp Strings -->	
+	<VFEI_MonstrosityTimeToLive>Dégénérescence cellulaire dans : {0}</VFEI_MonstrosityTimeToLive>
+	<LarvaeTimeSpawn>{0} avant la ponte des larves.</LarvaeTimeSpawn>
+    <InsectSpawned>Les insectoïdes sont arrivés et attaquent immédiatement.</InsectSpawned>
+    <InsectsArriveIn>{0} arrive dans {1}</InsectsArriveIn>
+	<CocoonInsectSpawnIn>{0} avant l’éclosion d’un insectoïde.</CocoonInsectSpawnIn>
+	<NoMoreSpawningAllowed>La reine se repose.</NoMoreSpawningAllowed>
+	<VFEI_Egg>Production d'œufs</VFEI_Egg> <!-- En : Egg production -->
+
+	<!-- Artifact letter -->
+	<LetterLabelForcedTame>{1_kind} a été apprivoisé par la force</LetterLabelForcedTame>
+    <LetterArtifactTame>{0} s'est laissé apprivoiser.</LetterArtifactTame>
+
+    <LetterLabelForcedTameFail>{1_kind} l'apprivoisement par la force a échoué</LetterLabelForcedTameFail>
+    <LetterArtifactTameFail>L'apprivoisement de {0} a échoué, rendant l'animal fou.</LetterArtifactTameFail>
+
+    <LetterLabelForcedRecruit>{0} rejoint votre faction.</LetterLabelForcedRecruit>
+    <LetterArtifactRecruit>{0} a été pacifié et rejoint votre faction !</LetterArtifactRecruit>
+    <GoodWillAffectedByArtifact>La bonne entente avec la cible de la faction a chuté de 50 en raison de l'utilisation de l'artefact sur un de leurs membres.</GoodWillAffectedByArtifact>
+
+	<!-- Random mutation letters -->
+	<MutationOutcome>Résultat de la mutation</MutationOutcome>
+    <MutationOutcomeLetter>Mutation développée : {0}.</MutationOutcomeLetter>
+	<FailedMutation>Mutation échouée !</FailedMutation>
+	<FailedMutationLetter>La mutation a échoué, aucune partie du corps n'a pu se développer.</FailedMutationLetter>
+
+	<!-- Repeller utils -->
+	<InfestationNegated>Une infestation a été évitée.</InfestationNegated>
+
+	<!-- Royal jelly transormation letter -->
+	<TransformationLLabel>Transformation !</TransformationLLabel>
+	<TransformationLetter>En raison d'une dépendance à la gelée royale, {0} a été transformé en mégaspider. Il fait toujours partie de votre colonie et n'attaquera personne.</TransformationLetter>
+
+	<!-- Teleporter -->
+	<TeleportButton>Téléportation</TeleportButton>
+	<TeleportHere>Se téléporter ici.</TeleportHere>
+	<TeleportDesc>Téléporte tous les objets et colons choisis vers leur destination.</TeleportDesc>
+	<TeleportDestInvalid>La destination de la téléportation n'est pas valide.</TeleportDestInvalid>
+	<TeleportDestTooFar>La destination de la téléportation est trop loin !</TeleportDestTooFar>
+	<TeleportWillDestroy>La téléportation vers cette destination entraînera la perte du contenu.</TeleportWillDestroy>
+	<TeleportDone>Téléportation réussie.</TeleportDone>
+
+	<TeleportToSiteCenter>{0}: Téléportation au centre</TeleportToSiteCenter>
+	<TeleportToSiteEdge>{0}: Téléportation au bord</TeleportToSiteEdge>
+
+	<TeleportDoneCaravan>Caravane créée</TeleportDoneCaravan>
+	<TeleportAddToCaravan>Téléporter le contenu vers {0}</TeleportAddToCaravan>
+	<TeleportDoneCAdded>La téléportation a réussi, le contenu a été ajouté à {0}</TeleportDoneCAdded>
+	
+	<TeleportAndGift>Offrir un cadeau à {0} ({1}).</TeleportAndGift>
+
+	<TeleportAndTarget>Zoomer et choisir un lieu de téléportation</TeleportAndTarget>
+
+	<TeleportAndAttackCenter>Attaquer {0}: Téléportation au centre</TeleportAndAttackCenter>
+	<TeleportAndAttackEgde>Attaquer {0}: Téléportation au bord</TeleportAndAttackEgde>
+
+	<TeleportDestroyed>La téléportation a échoué tout le contenu est perdu.</TeleportDestroyed>
+
+	<!-- Settings strings -->
+	<SName>Vanilla Factions Expanded - Insectoids </SName>
+	<PusleLabel>Effet d'impulsion du répulsif : </PusleLabel>
+	<PusleTooltip>Activer ou désactiver l'effet d'impulsion du répulsif d'infestation sonique.</PusleTooltip>
+
+</LanguageData>

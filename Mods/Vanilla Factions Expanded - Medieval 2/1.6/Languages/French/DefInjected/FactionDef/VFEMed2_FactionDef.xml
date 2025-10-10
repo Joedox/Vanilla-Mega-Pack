@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: civil clan -->
+<VFEM2_CivilClan.label>clan pacifique</VFEM2_CivilClan.label>
+<!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan is more progressive than others, and is more likely to engage in trade and diplomacy with other factions. -->
+<VFEM2_CivilClan.description>Ces hommes sont ici depuis longtemps. Peut-être que leurs ancêtres se sont écrasés ici il y a mille ans, comme le suggèrent leurs légendes. Quoi qu'il en soit, les nordiques sont des gens féroces qui vivent du travail des autres et qui n'ont pas peur d'utiliser la force pour prendre ce qui n'est pas à eux.\n\nBien qu'ils ne soient pas aussi avancés que d'autres factions sur le plan technologique, les nordiques peuvent être de précieux alliés et de terribles ennemis en raison de leur rusticité et de leur caractère sauvage et païen.\n\nCe clan en particulier est plus progressiste que les autres, et il est plus enclin à s'engager dans le commerce et la diplomatie avec d'autres factions.</VFEM2_CivilClan.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_CivilClan.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_CivilClan.messageDefendersAttacking>
+<!-- EN: jarl -->
+<VFEM2_CivilClan.leaderTitle>jarl</VFEM2_CivilClan.leaderTitle>
+<!-- EN: nordsman -->
+<VFEM2_CivilClan.pawnSingular>nordique</VFEM2_CivilClan.pawnSingular>
+<!-- EN: nordspeople -->
+<VFEM2_CivilClan.pawnsPlural>nordiques</VFEM2_CivilClan.pawnsPlural>
+
+<!-- EN: rough clan -->
+<VFEM2_ClanRough.label>clan féroce</VFEM2_ClanRough.label>
+<!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan values warlike dominance; it may be difficult to turn them into an ally. -->
+<VFEM2_ClanRough.description>Ces hommes sont ici depuis longtemps. Peut-être que leurs ancêtres se sont écrasés ici il y a mille ans, comme le suggèrent leurs légendes. Quoi qu'il en soit, les nordiques sont des gens féroces qui vivent du travail des autres et qui n'ont pas peur d'utiliser la force pour prendre ce qui n'est pas à eux.\n\nBien qu'ils ne soient pas aussi avancés que d'autres factions sur le plan technologique, les nordiques peuvent être de précieux alliés et de terribles ennemis en raison de leur rusticité et de leur caractère sauvage et païen.\n\nCe clan en particulier valorise la domination guerrière ; il peut être difficile d'en faire un allié.</VFEM2_ClanRough.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_ClanRough.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_ClanRough.messageDefendersAttacking>
+<!-- EN: jarl -->
+<VFEM2_ClanRough.leaderTitle>jarl</VFEM2_ClanRough.leaderTitle>
+<!-- EN: nordsman -->
+<VFEM2_ClanRough.pawnSingular>nordique</VFEM2_ClanRough.pawnSingular>
+<!-- EN: nordspeople -->
+<VFEM2_ClanRough.pawnsPlural>nordiques</VFEM2_ClanRough.pawnsPlural>
+
+<!-- EN: savage clan -->
+<VFEM2_ClanSavage.label>clan belliqueux</VFEM2_ClanSavage.label>
+<!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan wreaks havoc in surrounding settlements and takes any survivors into slavery - it will be impossible to become their ally! -->
+<VFEM2_ClanSavage.description>Ces hommes sont ici depuis longtemps. Peut-être que leurs ancêtres se sont écrasés ici il y a mille ans, comme le suggèrent leurs légendes. Quoi qu'il en soit, les nordiques sont des gens féroces qui vivent du travail des autres et qui n'ont pas peur d'utiliser la force pour prendre ce qui n'est pas à eux.\n\nBien qu'ils ne soient pas aussi avancés que d'autres factions sur le plan technologique, les nordiques peuvent être de précieux alliés et de terribles ennemis en raison de leur rusticité et de leur caractère sauvage et païen.\n\nCe clan en particulier fait des ravages dans les colonies environnantes et réduit les survivants en esclavage. Il est impossible de devenir leur allié !</VFEM2_ClanSavage.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_ClanSavage.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_ClanSavage.messageDefendersAttacking>
+<!-- EN: jarl -->
+<VFEM2_ClanSavage.leaderTitle>jarl</VFEM2_ClanSavage.leaderTitle>
+<!-- EN: nordsman -->
+<VFEM2_ClanSavage.pawnSingular>nordique</VFEM2_ClanSavage.pawnSingular>
+<!-- EN: nordspeople -->
+<VFEM2_ClanSavage.pawnsPlural>nordiques</VFEM2_ClanSavage.pawnsPlural>
+
+
+<!-- EN: civil kingdom -->
+<VFEM2_KingdomCivil.label>royaume pacifique</VFEM2_KingdomCivil.label>
+<!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is open to keeping trade relations good with other settlements to bolster their economic position. -->
+<VFEM2_KingdomCivil.description>Ce peuple est présent depuis moins longtemps que ses frères néolithiques. On pense que certains membres de tribus et d'étrangers ont fini par adopter le mode de vie médiéval et ont décidé de s'unir.\n\nBien que technologiquement inférieurs à de nombreuses autres factions, les sujets de ce royaume sont réputés pour l'utilisation d'imposantes fortifications afin de protéger leurs biens, ainsi que pour l'adoption de l'utilisation de boucliers au combat et d'une méthode de combat particulièrement ordonnée.\n\nCe royaume en particulier est ouvert au maintien de bonnes relations commerciales avec d'autres colonies afin de renforcer sa position économique.</VFEM2_KingdomCivil.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_KingdomCivil.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_KingdomCivil.messageDefendersAttacking>
+<!-- EN: king -->
+<VFEM2_KingdomCivil.leaderTitle>roi</VFEM2_KingdomCivil.leaderTitle>
+<!-- EN: subject -->
+<VFEM2_KingdomCivil.pawnSingular>sujet</VFEM2_KingdomCivil.pawnSingular>
+<!-- EN: subjects -->
+<VFEM2_KingdomCivil.pawnsPlural>sujets</VFEM2_KingdomCivil.pawnsPlural>
+
+<!-- EN: rough kingdom -->
+<VFEM2_KingdomRough.label>royaume féroce</VFEM2_KingdomRough.label>
+<!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is ruled under a heavy hand and wishes to expand by laying the less fortunate to waste - though it is still possible to befriend them. -->
+<VFEM2_KingdomRough.description>Ce peuple est présent depuis moins longtemps que ses frères néolithiques. On pense que certains membres de tribus et d'étrangers ont fini par adopter le mode de vie médiéval et ont décidé de s'unir.\n\nBien que technologiquement inférieurs à de nombreuses autres factions, les sujets de ce royaume sont réputés pour l'utilisation d'imposantes fortifications afin de protéger leurs biens, ainsi que pour l'adoption de l'utilisation de boucliers au combat et d'une méthode de combat particulièrement ordonnée.\n\nCe royaume en particulier est dirigé d'une main de fer et souhaite s'étendre en détruisant les moins fortunés - bien qu'il soit toujours possible de se lier d'amitié avec eux.</VFEM2_KingdomRough.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_KingdomRough.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_KingdomRough.messageDefendersAttacking>
+<!-- EN: king -->
+<VFEM2_KingdomRough.leaderTitle>roi</VFEM2_KingdomRough.leaderTitle>
+<!-- EN: subject -->
+<VFEM2_KingdomRough.pawnSingular>sujet</VFEM2_KingdomRough.pawnSingular>
+<!-- EN: subjects -->
+<VFEM2_KingdomRough.pawnsPlural>sujets</VFEM2_KingdomRough.pawnsPlural>
+
+<!-- EN: savage kingdom -->
+<VFEM2_KingdomSavage.label>royaume belliqueux</VFEM2_KingdomSavage.label>
+<!-- EN: These people have been here for a shorter period of time than their neolithic bretheren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is driven by a warband styled culture; you will not be able to ally with them! -->
+<VFEM2_KingdomSavage.description>Ce peuple est présent depuis moins longtemps que ses frères néolithiques. On pense que certains membres de tribus et d'étrangers ont fini par adopter le mode de vie médiéval et ont décidé de s'unir.\n\nBien que technologiquement inférieurs à de nombreuses autres factions, les sujets de ce royaume sont réputés pour l'utilisation d'imposantes fortifications afin de protéger leurs biens, ainsi que pour l'adoption de l'utilisation de boucliers au combat et d'une méthode de combat particulièrement ordonnée.\n\nCe royaume en particulier est dirigé par une culture de type guerrier ; vous ne pourrez pas vous allier avec eux !</VFEM2_KingdomSavage.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_KingdomSavage.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_KingdomSavage.messageDefendersAttacking>
+<!-- EN: king -->
+<VFEM2_KingdomSavage.leaderTitle>roi</VFEM2_KingdomSavage.leaderTitle>
+<!-- EN: subject -->
+<VFEM2_KingdomSavage.pawnSingular>sujet</VFEM2_KingdomSavage.pawnSingular>
+<!-- EN: subjects -->
+<VFEM2_KingdomSavage.pawnsPlural>sujets</VFEM2_KingdomSavage.pawnsPlural>
+
+
+<!-- EN: merchant's guild -->
+<VFEM2_MerchantGuild.label>guilde marchande</VFEM2_MerchantGuild.label>
+<!-- EN: These people have been here for a shorter period of time than their neolithic brethren. These wandering traders and skilled negotiators form a vast network of traveling caravans and temporary markets. Originating from a loose coalition of outlanders and former city-dwellers, they abandoned static settlements in favor of constant movement, seeking prosperity through commerce rather than conquest.\n\nUnlike most factions, the Guild operates on a pure barter economy—silver holds no value to them, only goods and services do. Their traders travel far and wide, setting up bustling market hubs wherever they stop, offering rare wares and exotic goods in exchange for what they deem useful.\n\nThough they avoid direct conflict and prefer diplomacy, their well-armed guards ensure that their caravans remain safe from opportunistic raiders. -->
+<VFEM2_MerchantGuild.description>Ce peuple est présent sur le territoire depuis moins longtemps que ses frères néolithiques. Ces commerçants errants et négociateurs habiles forment un vaste réseau de caravanes itinérantes et de marchés temporaires. Issus d'une vague coalition d'étrangers et d'anciens citadins, ils ont abandonné les établissements statiques au profit d'un mouvement constant, recherchant la prospérité par le commerce plutôt que par la conquête.\n\nContrairement à la plupart des factions, la Guilde fonctionne sur la base d'une économie de troc pure : l'argent n'a pas de valeur pour elle, seuls les biens et les services en ont. Leurs marchands voyagent loin, installant des marchés animés partout où ils s'arrêtent, offrant des marchandises rares et exotiques en échange de ce qu'ils jugent utile.\n\nBien qu'ils évitent les conflits directs et préfèrent la diplomatie, leurs gardes bien armés veillent à ce que leurs caravanes restent à l'abri des pillards opportunistes.</VFEM2_MerchantGuild.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_MerchantGuild.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_MerchantGuild.messageDefendersAttacking>
+<!-- EN: guildmaster -->
+<VFEM2_MerchantGuild.leaderTitle>maître de guilde</VFEM2_MerchantGuild.leaderTitle>
+<!-- EN: subject -->
+<VFEM2_MerchantGuild.pawnSingular>sujet</VFEM2_MerchantGuild.pawnSingular>
+<!-- EN: subjects -->
+<VFEM2_MerchantGuild.pawnsPlural>sujets</VFEM2_MerchantGuild.pawnsPlural>
+
+
+<!-- EN: New Kingdom -->
+<VFEM2_PlayerKingdom.label>nouveau royaume</VFEM2_PlayerKingdom.label>
+<!-- EN: A small kingdom. -->
+<VFEM2_PlayerKingdom.description>Un petit royaume.</VFEM2_PlayerKingdom.description>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEM2_PlayerKingdom.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEM2_PlayerKingdom.messageDefendersAttacking>
+<!-- EN: leader -->
+<VFEM2_PlayerKingdom.leaderTitle>chef</VFEM2_PlayerKingdom.leaderTitle>
+<!-- EN: subject -->
+<VFEM2_PlayerKingdom.pawnSingular>sujet</VFEM2_PlayerKingdom.pawnSingular>
+<!-- EN: subjects -->
+<VFEM2_PlayerKingdom.pawnsPlural>sujets</VFEM2_PlayerKingdom.pawnsPlural>
+
+
+</LanguageData>

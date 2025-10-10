@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Form Flesh Hive -->
+<FleshmassHiveSMNSTNL.label>ruche de masse de chair</FleshmassHiveSMNSTNL.label>
+<!-- EN: Use biomass located in the deep layers of the Rim to form a hive of flesh creatures. -->
+<FleshmassHiveSMNSTNL.description>Utilise la biomasse située dans les couches profondes de la bordure pour ruche de créatures de chair.</FleshmassHiveSMNSTNL.description>
+<!-- EN: Using ability: {0} -->
+<FleshmassHiveSMNSTNL.jobReportString>Utilise la capacité : {0}</FleshmassHiveSMNSTNL.jobReportString>
+<!-- EN: Form Flesh Hive -->
+<FleshmassHiveSMNSTNL.verbProperties.label>ruche de masse de chair</FleshmassHiveSMNSTNL.verbProperties.label>
+
+<!-- EN: Form Fleshmass Meat Node -->
+<FleshmassMeatNodeSTNL.label>nœud de viande</FleshmassMeatNodeSTNL.label>
+<!-- EN: Shape the local biomass into a node of flesh which will spew out twisted meat every 3 days. -->
+<FleshmassMeatNodeSTNL.description>Façonne la biomasse locale en un nœud de chair qui produira de la viande difforme tous les 3 jours.</FleshmassMeatNodeSTNL.description>
+<!-- EN: Using ability: {0} -->
+<FleshmassMeatNodeSTNL.jobReportString>Utilise la capacité : {0}</FleshmassMeatNodeSTNL.jobReportString>
+<!-- EN: Form Fleshmass Meat Node -->
+<FleshmassMeatNodeSTNL.verbProperties.label>nœud de viande</FleshmassMeatNodeSTNL.verbProperties.label>
+
+<!-- EN: Form Fleshmass Spitter -->
+<FleshmassSpitterSTNL.label>cracheur de masse de chair</FleshmassSpitterSTNL.label>
+<!-- EN: Use biomass located in the underground layer of the rim to form a Fleshmass Spitter for the colony. -->
+<FleshmassSpitterSTNL.description>Utilise la biomasse située dans la couche souterraine de la bordure pour cracheur de masse de chair pour la colonie.</FleshmassSpitterSTNL.description>
+<!-- EN: Using ability: {0} -->
+<FleshmassSpitterSTNL.jobReportString>Utilise la capacité : {0}</FleshmassSpitterSTNL.jobReportString>
+<!-- EN: Form Fleshmass Spitter -->
+<FleshmassSpitterSTNL.verbProperties.label>cracheur de masse de chair</FleshmassSpitterSTNL.verbProperties.label>
+
+<!-- EN: Form Fleshbulb -->
+<VPE_FleshbulbSTNL.label>bulbochair</VPE_FleshbulbSTNL.label>
+<!-- EN: Use biomass located in the deep layers of the Rim to form a bioluminescent node of flesh. -->
+<VPE_FleshbulbSTNL.description>Utilise la biomasse située dans les couches profondes de la bordure pour nœud de chair bioluminescente.</VPE_FleshbulbSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FleshbulbSTNL.jobReportString>Utilise la capacité : {0}</VPE_FleshbulbSTNL.jobReportString>
+<!-- EN: Form Fleshbulb -->
+<VPE_FleshbulbSTNL.verbProperties.label>bulbochair</VPE_FleshbulbSTNL.verbProperties.label>
+
+<!-- EN: Regenerative Mutation -->
+<VPE_FleshmancerregenSTNL.label>mutation régénératrice</VPE_FleshmancerregenSTNL.label>
+<!-- EN: Mutate the flesh inside of the target to grant them a slow regenerative capability. -->
+<VPE_FleshmancerregenSTNL.description>Mutation de la chair à l'intérieur de la cible pour lui donner une capacité de régénération lente.</VPE_FleshmancerregenSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FleshmancerregenSTNL.jobReportString>Utilise la capacité : {0}</VPE_FleshmancerregenSTNL.jobReportString>
+<!-- EN: Regenerative Mutation -->
+<VPE_FleshmancerregenSTNL.verbProperties.label>mutation régénératrice</VPE_FleshmancerregenSTNL.verbProperties.label>
+
+<!-- EN: Summon Fleshmass Regenerator -->
+<VPE_FleshmassregenspawnSTNL.label>régénérateur de chair</VPE_FleshmassregenspawnSTNL.label>
+<!-- EN: Gather biomass and shape it into a mini-heart, the heart can be consumed to obtain enhanced regeneration for a day. -->
+<VPE_FleshmassregenspawnSTNL.description>Rassemble de la biomasse et la façonne en un mini-cœur, le cœur peut être consommé pour obtenir une régénération améliorée pendant une journée.</VPE_FleshmassregenspawnSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FleshmassregenspawnSTNL.jobReportString>Utilise la capacité : {0}</VPE_FleshmassregenspawnSTNL.jobReportString>
+<!-- EN: Summon Fleshmass Regenerator -->
+<VPE_FleshmassregenspawnSTNL.verbProperties.label>régénérateur de chair</VPE_FleshmassregenspawnSTNL.verbProperties.label>
+
+<!-- EN: Form Flesh Wall -->
+<VPE_FleshwallSTNL.label>mur de chair</VPE_FleshwallSTNL.label>
+<!-- EN: Use biomass located in the deep layers of the Rim to form a wall made of flesh. -->
+<VPE_FleshwallSTNL.description>Utilise la biomasse située dans les couches profondes de la bordure pour mur en chair et en os.</VPE_FleshwallSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FleshwallSTNL.jobReportString>Utilise la capacité : {0}</VPE_FleshwallSTNL.jobReportString>
+<!-- EN: Form Flesh Wall -->
+<VPE_FleshwallSTNL.verbProperties.label>mur de chair</VPE_FleshwallSTNL.verbProperties.label>
+
+<!-- EN: Mitosis -->
+<VPE_MitosisSTNL.label>mitose</VPE_MitosisSTNL.label>
+<!-- EN: Separate yourself into two entities, the other entity will have its own appearence and personality. -->
+<VPE_MitosisSTNL.description>Séparez-vous en deux entités, l'autre entité aura sa propre apparence et sa propre personnalité.</VPE_MitosisSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MitosisSTNL.jobReportString>Utilise la capacité : {0}</VPE_MitosisSTNL.jobReportString>
+<!-- EN: Mitosis -->
+<VPE_MitosisSTNL.verbProperties.label>mitose</VPE_MitosisSTNL.verbProperties.label>
+
+
+</LanguageData>

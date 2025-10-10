@@ -1,0 +1,924 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEPD_LargeDecalArrowLong.label>grande flèche long</VFEPD_LargeDecalArrowLong.label>
+<VFEPD_LargeDecalArrowLong.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalArrowLong.description>
+<VFEPD_LargeDecalArrowShort.label>grande flèche courte</VFEPD_LargeDecalArrowShort.label>
+<VFEPD_LargeDecalArrowShort.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalArrowShort.description>
+<VFEPD_LargeDecalArrowWide.label>grande flèche large</VFEPD_LargeDecalArrowWide.label>
+<VFEPD_LargeDecalArrowWide.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalArrowWide.description>
+<VFEPD_LargeDecalLineDouble.label>grande ligne double</VFEPD_LargeDecalLineDouble.label>
+<VFEPD_LargeDecalLineDouble.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalLineDouble.description>
+<VFEPD_LargeDecalLineDoubleCornerInner.label>grande ligne double coin intérieur</VFEPD_LargeDecalLineDoubleCornerInner.label>
+<VFEPD_LargeDecalLineDoubleCornerInner.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalLineDoubleCornerInner.description>
+<VFEPD_LargeDecalLineDoubleCornerOuter.label>grande ligne double coin extérieur</VFEPD_LargeDecalLineDoubleCornerOuter.label>
+<VFEPD_LargeDecalLineDoubleCornerOuter.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalLineDoubleCornerOuter.description>
+<VFEPD_LargeDecalLineThin.label>grande ligne fine</VFEPD_LargeDecalLineThin.label>
+<VFEPD_LargeDecalLineThin.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalLineThin.description>
+<VFEPD_LargeDecalLineThinCornerInner.label>grande ligne fine coin intérieur</VFEPD_LargeDecalLineThinCornerInner.label>
+<VFEPD_LargeDecalLineThinCornerInner.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalLineThinCornerInner.description>
+<VFEPD_LargeDecalLineThinCornerOuter.label>grande ligne fine coin extérieur</VFEPD_LargeDecalLineThinCornerOuter.label>
+<VFEPD_LargeDecalLineThinCornerOuter.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalLineThinCornerOuter.description>
+
+<VFEPD_LargeDecalSymbolA.label>A (grand)</VFEPD_LargeDecalSymbolA.label>
+<VFEPD_LargeDecalSymbolA.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolA.description>
+<VFEPD_LargeDecalSymbolB.label>B (grand)</VFEPD_LargeDecalSymbolB.label>
+<VFEPD_LargeDecalSymbolB.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolB.description>
+<VFEPD_LargeDecalSymbolC.label>C (grand)</VFEPD_LargeDecalSymbolC.label>
+<VFEPD_LargeDecalSymbolC.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolC.description>
+<VFEPD_LargeDecalSymbolD.label>D (grand)</VFEPD_LargeDecalSymbolD.label>
+<VFEPD_LargeDecalSymbolD.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolD.description>
+<VFEPD_LargeDecalSymbolE.label>E (grand)</VFEPD_LargeDecalSymbolE.label>
+<VFEPD_LargeDecalSymbolE.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolE.description>
+<VFEPD_LargeDecalSymbolF.label>F (grand)</VFEPD_LargeDecalSymbolF.label>
+<VFEPD_LargeDecalSymbolF.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolF.description>
+<VFEPD_LargeDecalSymbolG.label>G (grand)</VFEPD_LargeDecalSymbolG.label>
+<VFEPD_LargeDecalSymbolG.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolG.description>
+<VFEPD_LargeDecalSymbolH.label>H (grand)</VFEPD_LargeDecalSymbolH.label>
+<VFEPD_LargeDecalSymbolH.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolH.description>
+<VFEPD_LargeDecalSymbolI.label>I (grand)</VFEPD_LargeDecalSymbolI.label>
+<VFEPD_LargeDecalSymbolI.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolI.description>
+<VFEPD_LargeDecalSymbolJ.label>J (grand)</VFEPD_LargeDecalSymbolJ.label>
+<VFEPD_LargeDecalSymbolJ.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolJ.description>
+<VFEPD_LargeDecalSymbolK.label>K (grand)</VFEPD_LargeDecalSymbolK.label>
+<VFEPD_LargeDecalSymbolK.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolK.description>
+<VFEPD_LargeDecalSymbolL.label>L (grand)</VFEPD_LargeDecalSymbolL.label>
+<VFEPD_LargeDecalSymbolL.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolL.description>
+<VFEPD_LargeDecalSymbolM.label>M (grand)</VFEPD_LargeDecalSymbolM.label>
+<VFEPD_LargeDecalSymbolM.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolM.description>
+<VFEPD_LargeDecalSymbolN.label>N (grand)</VFEPD_LargeDecalSymbolN.label>
+<VFEPD_LargeDecalSymbolN.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolN.description>
+<VFEPD_LargeDecalSymbolO.label>O (grand)</VFEPD_LargeDecalSymbolO.label>
+<VFEPD_LargeDecalSymbolO.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolO.description>
+<VFEPD_LargeDecalSymbolP.label>P (grand)</VFEPD_LargeDecalSymbolP.label>
+<VFEPD_LargeDecalSymbolP.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolP.description>
+<VFEPD_LargeDecalSymbolQ.label>Q (grand)</VFEPD_LargeDecalSymbolQ.label>
+<VFEPD_LargeDecalSymbolQ.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolQ.description>
+<VFEPD_LargeDecalSymbolV.label>V (grand)</VFEPD_LargeDecalSymbolV.label>
+<VFEPD_LargeDecalSymbolV.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolV.description>
+<VFEPD_LargeDecalSymbolR.label>R (grand)</VFEPD_LargeDecalSymbolR.label>
+<VFEPD_LargeDecalSymbolR.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolR.description>
+<VFEPD_LargeDecalSymbolS.label>S (grand)</VFEPD_LargeDecalSymbolS.label>
+<VFEPD_LargeDecalSymbolS.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolS.description>
+<VFEPD_LargeDecalSymbolT.label>T (grand)</VFEPD_LargeDecalSymbolT.label>
+<VFEPD_LargeDecalSymbolT.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolT.description>
+<VFEPD_LargeDecalSymbolU.label>U (grand)</VFEPD_LargeDecalSymbolU.label>
+<VFEPD_LargeDecalSymbolU.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolU.description>
+<VFEPD_LargeDecalSymbolW.label>W (grand)</VFEPD_LargeDecalSymbolW.label>
+<VFEPD_LargeDecalSymbolW.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolW.description>
+<VFEPD_LargeDecalSymbolX.label>X (grand)</VFEPD_LargeDecalSymbolX.label>
+<VFEPD_LargeDecalSymbolX.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolX.description>
+<VFEPD_LargeDecalSymbolY.label>Y (grand)</VFEPD_LargeDecalSymbolY.label>
+<VFEPD_LargeDecalSymbolY.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolY.description>
+<VFEPD_LargeDecalSymbolZ.label>Z (grand)</VFEPD_LargeDecalSymbolZ.label>
+<VFEPD_LargeDecalSymbolZ.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolZ.description>
+<VFEPD_LargeDecalSymbolOne.label>1 (grand)</VFEPD_LargeDecalSymbolOne.label>
+<VFEPD_LargeDecalSymbolOne.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolOne.description>
+<VFEPD_LargeDecalSymbolTwo.label>2 (grand)</VFEPD_LargeDecalSymbolTwo.label>
+<VFEPD_LargeDecalSymbolTwo.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolTwo.description>
+<VFEPD_LargeDecalSymbolThree.label>3 (grand)</VFEPD_LargeDecalSymbolThree.label>
+<VFEPD_LargeDecalSymbolThree.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolThree.description>
+<VFEPD_LargeDecalSymbolFour.label>4 (grand)</VFEPD_LargeDecalSymbolFour.label>
+<VFEPD_LargeDecalSymbolFour.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolFour.description>
+<VFEPD_LargeDecalSymbolFive.label>5 (grand)</VFEPD_LargeDecalSymbolFive.label>
+<VFEPD_LargeDecalSymbolFive.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolFive.description>
+<VFEPD_LargeDecalSymbolSix.label>6 (grand)</VFEPD_LargeDecalSymbolSix.label>
+<VFEPD_LargeDecalSymbolSix.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolSix.description>
+<VFEPD_LargeDecalSymbolSeven.label>7 (grand)</VFEPD_LargeDecalSymbolSeven.label>
+<VFEPD_LargeDecalSymbolSeven.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolSeven.description>
+<VFEPD_LargeDecalSymbolEight.label>8 (grand)</VFEPD_LargeDecalSymbolEight.label>
+<VFEPD_LargeDecalSymbolEight.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolEight.description>
+<VFEPD_LargeDecalSymbolNine.label>9 (grand)</VFEPD_LargeDecalSymbolNine.label>
+<VFEPD_LargeDecalSymbolNine.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolNine.description>
+<VFEPD_LargeDecalSymbolZero.label>0 (grand)</VFEPD_LargeDecalSymbolZero.label>
+<VFEPD_LargeDecalSymbolZero.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalSymbolZero.description>
+
+<VFEPD_LargeDecalWordArmory.label>armurerie autocollant (grand)</VFEPD_LargeDecalWordArmory.label>
+<VFEPD_LargeDecalWordArmory.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordArmory.description>
+<VFEPD_LargeDecalWordBarracks.label>caserne autocollant (grand)</VFEPD_LargeDecalWordBarracks.label>
+<VFEPD_LargeDecalWordBarracks.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordBarracks.description>
+<VFEPD_LargeDecalWordBlock.label>block autocollant (grand)</VFEPD_LargeDecalWordBlock.label>
+<VFEPD_LargeDecalWordBlock.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordBlock.description>
+<VFEPD_LargeDecalWordCafeteria.label>cafétéria autocollant (grand)</VFEPD_LargeDecalWordCafeteria.label>
+<VFEPD_LargeDecalWordCafeteria.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordCafeteria.description>
+<VFEPD_LargeDecalWordCargo.label>cargaison autocollant (grand)</VFEPD_LargeDecalWordCargo.label>
+<VFEPD_LargeDecalWordCargo.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordCargo.description>
+<VFEPD_LargeDecalWordChamber.label>chambre autocollant (grand)</VFEPD_LargeDecalWordChamber.label>
+<VFEPD_LargeDecalWordChamber.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordChamber.description>
+<VFEPD_LargeDecalWordClimate.label>climat autocollant (grand)</VFEPD_LargeDecalWordClimate.label>
+<VFEPD_LargeDecalWordClimate.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordClimate.description>
+<VFEPD_LargeDecalWordCommand.label>commande autocollant (grand)</VFEPD_LargeDecalWordCommand.label>
+<VFEPD_LargeDecalWordCommand.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordCommand.description>
+<VFEPD_LargeDecalWordControl.label>contrôle autocollant (grand)</VFEPD_LargeDecalWordControl.label>
+<VFEPD_LargeDecalWordControl.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordControl.description>
+<VFEPD_LargeDecalWordEngineer.label>machines autocollant (grand)</VFEPD_LargeDecalWordEngineer.label>
+<VFEPD_LargeDecalWordEngineer.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordEngineer.description>
+<VFEPD_LargeDecalWordFarming.label>agricole autocollant (grand)</VFEPD_LargeDecalWordFarming.label>
+<VFEPD_LargeDecalWordFarming.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordFarming.description>
+<VFEPD_LargeDecalWordFreezer.label>congélateur autocollant (grand)</VFEPD_LargeDecalWordFreezer.label>
+<VFEPD_LargeDecalWordFreezer.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordFreezer.description>
+<VFEPD_LargeDecalWordFridge.label>réfrigérateurautocollant (grand)</VFEPD_LargeDecalWordFridge.label>
+<VFEPD_LargeDecalWordFridge.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordFridge.description>
+<VFEPD_LargeDecalWordHangar.label>hangar autocollant (grand)</VFEPD_LargeDecalWordHangar.label>
+<VFEPD_LargeDecalWordHangar.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordHangar.description>
+<VFEPD_LargeDecalWordHospital.label>hôpital autocollant (grand)</VFEPD_LargeDecalWordHospital.label>
+<VFEPD_LargeDecalWordHospital.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordHospital.description>
+<VFEPD_LargeDecalWordKill.label>abattre autocollant (grand)</VFEPD_LargeDecalWordKill.label>
+<VFEPD_LargeDecalWordKill.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordKill.description>
+<VFEPD_LargeDecalWordKitchen.label>cuisine autocollant (grand)</VFEPD_LargeDecalWordKitchen.label>
+<VFEPD_LargeDecalWordKitchen.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordKitchen.description>
+<VFEPD_LargeDecalWordLanding.label>atterrissage autocollant (grand)</VFEPD_LargeDecalWordLanding.label>
+<VFEPD_LargeDecalWordLanding.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordLanding.description>
+<VFEPD_LargeDecalWordMedical.label>médecine autocollant (grand)</VFEPD_LargeDecalWordMedical.label>
+<VFEPD_LargeDecalWordMedical.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordMedical.description>
+<VFEPD_LargeDecalWordMess.label>mess autocollant (grand)</VFEPD_LargeDecalWordMess.label>
+<VFEPD_LargeDecalWordMess.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordMess.description>
+<VFEPD_LargeDecalWordMorgue.label>morgue autocollant (grand)</VFEPD_LargeDecalWordMorgue.label>
+<VFEPD_LargeDecalWordMorgue.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordMorgue.description>
+<VFEPD_LargeDecalWordMortar.label>mortier autocollant (grand)</VFEPD_LargeDecalWordMortar.label>
+<VFEPD_LargeDecalWordMortar.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordMortar.description>
+<VFEPD_LargeDecalWordPlay.label>jeu autocollant (grand)</VFEPD_LargeDecalWordPlay.label>
+<VFEPD_LargeDecalWordPlay.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordPlay.description>
+<VFEPD_LargeDecalWordPrison.label>prison autocollant (grand)</VFEPD_LargeDecalWordPrison.label>
+<VFEPD_LargeDecalWordPrison.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordPrison.description>
+<VFEPD_LargeDecalWordReactor.label>réacteur autocollant (grand)</VFEPD_LargeDecalWordReactor.label>
+<VFEPD_LargeDecalWordReactor.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordReactor.description>
+<VFEPD_LargeDecalWordRecreation.label>loisir autocollant (grand)</VFEPD_LargeDecalWordRecreation.label>
+<VFEPD_LargeDecalWordRecreation.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordRecreation.description>
+<VFEPD_LargeDecalWordRefinery.label>raffinerie autocollant (grand)</VFEPD_LargeDecalWordRefinery.label>
+<VFEPD_LargeDecalWordRefinery.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordRefinery.description>
+<VFEPD_LargeDecalWordRelax.label>détente autocollant (grand)</VFEPD_LargeDecalWordRelax.label>
+<VFEPD_LargeDecalWordRelax.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordRelax.description>
+<VFEPD_LargeDecalWordResearch.label>recherche autocollant (grand)</VFEPD_LargeDecalWordResearch.label>
+<VFEPD_LargeDecalWordResearch.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordResearch.description>
+<VFEPD_LargeDecalWordSecurity.label>sécurité autocollant (grand)</VFEPD_LargeDecalWordSecurity.label>
+<VFEPD_LargeDecalWordSecurity.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSecurity.description>
+<VFEPD_LargeDecalWordShipping.label>expédition autocollant (grand)</VFEPD_LargeDecalWordShipping.label>
+<VFEPD_LargeDecalWordShipping.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordShipping.description>
+<VFEPD_LargeDecalWordSleeping.label>dormir autocollant (grand)</VFEPD_LargeDecalWordSleeping.label>
+<VFEPD_LargeDecalWordSleeping.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSleeping.description>
+<VFEPD_LargeDecalWordSmelting.label>fonderie autocollant (grand)</VFEPD_LargeDecalWordSmelting.label>
+<VFEPD_LargeDecalWordSmelting.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmelting.description>
+<VFEPD_LargeDecalWordStorage.label>stockage autocollant (grand)</VFEPD_LargeDecalWordStorage.label>
+<VFEPD_LargeDecalWordStorage.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordStorage.description>
+<VFEPD_LargeDecalWordWarning.label>alerte autocollant (grand)</VFEPD_LargeDecalWordWarning.label>
+<VFEPD_LargeDecalWordWarning.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordWarning.description>
+<VFEPD_LargeDecalWordWorkshop.label>atelier autocollant (grand)</VFEPD_LargeDecalWordWorkshop.label>
+<VFEPD_LargeDecalWordWorkshop.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordWorkshop.description>
+<VFEPD_LargeDecalWordSmallBase.label>base autocollant (grand)</VFEPD_LargeDecalWordSmallBase.label>
+<VFEPD_LargeDecalWordSmallBase.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallBase.description>
+<VFEPD_LargeDecalWordSmallBay.label>soute autocollant (grand)</VFEPD_LargeDecalWordSmallBay.label>
+<VFEPD_LargeDecalWordSmallBay.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallBay.description>
+<VFEPD_LargeDecalWordSmallBox.label>box autocollant (grand)</VFEPD_LargeDecalWordSmallBox.label>
+<VFEPD_LargeDecalWordSmallBox.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallBox.description>
+<VFEPD_LargeDecalWordSmallCell.label>cellule autocollant (grand)</VFEPD_LargeDecalWordSmallCell.label>
+<VFEPD_LargeDecalWordSmallCell.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallCell.description>
+<VFEPD_LargeDecalWordSmallClear.label>vide autocollant (grand)</VFEPD_LargeDecalWordSmallClear.label>
+<VFEPD_LargeDecalWordSmallClear.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallClear.description>
+<VFEPD_LargeDecalWordSmallDock.label>quai autocollant (grand)</VFEPD_LargeDecalWordSmallDock.label>
+<VFEPD_LargeDecalWordSmallDock.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallDock.description>
+<VFEPD_LargeDecalWordSmallGas.label>gaz autocollant (grand)</VFEPD_LargeDecalWordSmallGas.label>
+<VFEPD_LargeDecalWordSmallGas.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallGas.description>
+<VFEPD_LargeDecalWordSmallHall.label>hall autocollant (grand)</VFEPD_LargeDecalWordSmallHall.label>
+<VFEPD_LargeDecalWordSmallHall.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallHall.description>
+<VFEPD_LargeDecalWordSmallKeep.label>donjon autocollant (grand)</VFEPD_LargeDecalWordSmallKeep.label>
+<VFEPD_LargeDecalWordSmallKeep.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallKeep.description>
+<VFEPD_LargeDecalWordSmallLab.label>laboratoire autocollant (grand)</VFEPD_LargeDecalWordSmallLab.label>
+<VFEPD_LargeDecalWordSmallLab.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallLab.description>
+<VFEPD_LargeDecalWordSmallPad.label>pad autocollant (grand)</VFEPD_LargeDecalWordSmallPad.label>
+<VFEPD_LargeDecalWordSmallPad.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallPad.description>
+<VFEPD_LargeDecalWordSmallRoom.label>salle autocollant (grand)</VFEPD_LargeDecalWordSmallRoom.label>
+<VFEPD_LargeDecalWordSmallRoom.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallRoom.description>
+<VFEPD_LargeDecalWordSmallWing.label>aile autocollant (grand)</VFEPD_LargeDecalWordSmallWing.label>
+<VFEPD_LargeDecalWordSmallWing.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallWing.description>
+<VFEPD_LargeDecalWordSmallZone.label>zone autocollant (grand)</VFEPD_LargeDecalWordSmallZone.label>
+<VFEPD_LargeDecalWordSmallZone.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalWordSmallZone.description>
+
+<VFEPD_DecalArrowLong.label>flèche long</VFEPD_DecalArrowLong.label>
+<VFEPD_DecalArrowLong.description>Un autocollant pour le sol.</VFEPD_DecalArrowLong.description>
+<VFEPD_DecalArrowShort.label>flèche courte</VFEPD_DecalArrowShort.label>
+<VFEPD_DecalArrowShort.description>Un autocollant pour le sol.</VFEPD_DecalArrowShort.description>
+<VFEPD_DecalArrowWide.label>flèche large</VFEPD_DecalArrowWide.label>
+<VFEPD_DecalArrowWide.description>Un autocollant pour le sol.</VFEPD_DecalArrowWide.description>
+<VFEPD_DecalLineDouble.label>ligne double</VFEPD_DecalLineDouble.label>
+<VFEPD_DecalLineDouble.description>Un autocollant pour le sol.</VFEPD_DecalLineDouble.description>
+<VFEPD_DecalLineDoubleCornerInner.label>ligne double coin intérieur</VFEPD_DecalLineDoubleCornerInner.label>
+<VFEPD_DecalLineDoubleCornerInner.description>Un autocollant pour le sol.</VFEPD_DecalLineDoubleCornerInner.description>
+<VFEPD_DecalLineDoubleCornerOuter.label>ligne double coin extérieur</VFEPD_DecalLineDoubleCornerOuter.label>
+<VFEPD_DecalLineDoubleCornerOuter.description>Un autocollant pour le sol.</VFEPD_DecalLineDoubleCornerOuter.description>
+<VFEPD_DecalLineThin.label>ligne fine</VFEPD_DecalLineThin.label>
+<VFEPD_DecalLineThin.description>Un autocollant pour le sol.</VFEPD_DecalLineThin.description>
+<VFEPD_DecalLineThinCornerInner.label>ligne fine coin intérieur</VFEPD_DecalLineThinCornerInner.label>
+<VFEPD_DecalLineThinCornerInner.description>Un autocollant pour le sol.</VFEPD_DecalLineThinCornerInner.description>
+<VFEPD_DecalLineThinCornerOuter.label>ligne fine coin extérieur</VFEPD_DecalLineThinCornerOuter.label>
+<VFEPD_DecalLineThinCornerOuter.description>Un autocollant pour le sol.</VFEPD_DecalLineThinCornerOuter.description>
+
+<VFEPD_DecalSymbolA.label>A</VFEPD_DecalSymbolA.label>
+<VFEPD_DecalSymbolA.description>Un autocollant pour le sol.</VFEPD_DecalSymbolA.description>
+<VFEPD_DecalSymbolB.label>B</VFEPD_DecalSymbolB.label>
+<VFEPD_DecalSymbolB.description>Un autocollant pour le sol.</VFEPD_DecalSymbolB.description>
+<VFEPD_DecalSymbolC.label>C</VFEPD_DecalSymbolC.label>
+<VFEPD_DecalSymbolC.description>Un autocollant pour le sol.</VFEPD_DecalSymbolC.description>
+<VFEPD_DecalSymbolD.label>D</VFEPD_DecalSymbolD.label>
+<VFEPD_DecalSymbolD.description>Un autocollant pour le sol.</VFEPD_DecalSymbolD.description>
+<VFEPD_DecalSymbolE.label>E</VFEPD_DecalSymbolE.label>
+<VFEPD_DecalSymbolE.description>Un autocollant pour le sol.</VFEPD_DecalSymbolE.description>
+<VFEPD_DecalSymbolF.label>F</VFEPD_DecalSymbolF.label>
+<VFEPD_DecalSymbolF.description>Un autocollant pour le sol.</VFEPD_DecalSymbolF.description>
+<VFEPD_DecalSymbolG.label>G</VFEPD_DecalSymbolG.label>
+<VFEPD_DecalSymbolG.description>Un autocollant pour le sol.</VFEPD_DecalSymbolG.description>
+<VFEPD_DecalSymbolH.label>H</VFEPD_DecalSymbolH.label>
+<VFEPD_DecalSymbolH.description>Un autocollant pour le sol.</VFEPD_DecalSymbolH.description>
+<VFEPD_DecalSymbolI.label>I</VFEPD_DecalSymbolI.label>
+<VFEPD_DecalSymbolI.description>Un autocollant pour le sol.</VFEPD_DecalSymbolI.description>
+<VFEPD_DecalSymbolJ.label>J</VFEPD_DecalSymbolJ.label>
+<VFEPD_DecalSymbolJ.description>Un autocollant pour le sol.</VFEPD_DecalSymbolJ.description>
+<VFEPD_DecalSymbolK.label>K</VFEPD_DecalSymbolK.label>
+<VFEPD_DecalSymbolK.description>Un autocollant pour le sol.</VFEPD_DecalSymbolK.description>
+<VFEPD_DecalSymbolL.label>L</VFEPD_DecalSymbolL.label>
+<VFEPD_DecalSymbolL.description>Un autocollant pour le sol.</VFEPD_DecalSymbolL.description>
+<VFEPD_DecalSymbolM.label>M</VFEPD_DecalSymbolM.label>
+<VFEPD_DecalSymbolM.description>Un autocollant pour le sol.</VFEPD_DecalSymbolM.description>
+<VFEPD_DecalSymbolN.label>N</VFEPD_DecalSymbolN.label>
+<VFEPD_DecalSymbolN.description>Un autocollant pour le sol.</VFEPD_DecalSymbolN.description>
+<VFEPD_DecalSymbolO.label>O</VFEPD_DecalSymbolO.label>
+<VFEPD_DecalSymbolO.description>Un autocollant pour le sol.</VFEPD_DecalSymbolO.description>
+<VFEPD_DecalSymbolP.label>P</VFEPD_DecalSymbolP.label>
+<VFEPD_DecalSymbolP.description>Un autocollant pour le sol.</VFEPD_DecalSymbolP.description>
+<VFEPD_DecalSymbolQ.label>Q</VFEPD_DecalSymbolQ.label>
+<VFEPD_DecalSymbolQ.description>Un autocollant pour le sol.</VFEPD_DecalSymbolQ.description>
+<VFEPD_DecalSymbolV.label>V</VFEPD_DecalSymbolV.label>
+<VFEPD_DecalSymbolV.description>Un autocollant pour le sol.</VFEPD_DecalSymbolV.description>
+<VFEPD_DecalSymbolR.label>R</VFEPD_DecalSymbolR.label>
+<VFEPD_DecalSymbolR.description>Un autocollant pour le sol.</VFEPD_DecalSymbolR.description>
+<VFEPD_DecalSymbolS.label>S</VFEPD_DecalSymbolS.label>
+<VFEPD_DecalSymbolS.description>Un autocollant pour le sol.</VFEPD_DecalSymbolS.description>
+<VFEPD_DecalSymbolT.label>T</VFEPD_DecalSymbolT.label>
+<VFEPD_DecalSymbolT.description>Un autocollant pour le sol.</VFEPD_DecalSymbolT.description>
+<VFEPD_DecalSymbolU.label>U</VFEPD_DecalSymbolU.label>
+<VFEPD_DecalSymbolU.description>Un autocollant pour le sol.</VFEPD_DecalSymbolU.description>
+<VFEPD_DecalSymbolW.label>W</VFEPD_DecalSymbolW.label>
+<VFEPD_DecalSymbolW.description>Un autocollant pour le sol.</VFEPD_DecalSymbolW.description>
+<VFEPD_DecalSymbolX.label>X</VFEPD_DecalSymbolX.label>
+<VFEPD_DecalSymbolX.description>Un autocollant pour le sol.</VFEPD_DecalSymbolX.description>
+<VFEPD_DecalSymbolY.label>Y</VFEPD_DecalSymbolY.label>
+<VFEPD_DecalSymbolY.description>Un autocollant pour le sol.</VFEPD_DecalSymbolY.description>
+<VFEPD_DecalSymbolZ.label>Z</VFEPD_DecalSymbolZ.label>
+<VFEPD_DecalSymbolZ.description>Un autocollant pour le sol.</VFEPD_DecalSymbolZ.description>
+<VFEPD_DecalSymbolOne.label>1</VFEPD_DecalSymbolOne.label>
+<VFEPD_DecalSymbolOne.description>Un autocollant pour le sol.</VFEPD_DecalSymbolOne.description>
+<VFEPD_DecalSymbolTwo.label>2</VFEPD_DecalSymbolTwo.label>
+<VFEPD_DecalSymbolTwo.description>Un autocollant pour le sol.</VFEPD_DecalSymbolTwo.description>
+<VFEPD_DecalSymbolThree.label>3</VFEPD_DecalSymbolThree.label>
+<VFEPD_DecalSymbolThree.description>Un autocollant pour le sol.</VFEPD_DecalSymbolThree.description>
+<VFEPD_DecalSymbolFour.label>4</VFEPD_DecalSymbolFour.label>
+<VFEPD_DecalSymbolFour.description>Un autocollant pour le sol.</VFEPD_DecalSymbolFour.description>
+<VFEPD_DecalSymbolFive.label>5</VFEPD_DecalSymbolFive.label>
+<VFEPD_DecalSymbolFive.description>Un autocollant pour le sol.</VFEPD_DecalSymbolFive.description>
+<VFEPD_DecalSymbolSix.label>6</VFEPD_DecalSymbolSix.label>
+<VFEPD_DecalSymbolSix.description>Un autocollant pour le sol.</VFEPD_DecalSymbolSix.description>
+<VFEPD_DecalSymbolSeven.label>7</VFEPD_DecalSymbolSeven.label>
+<VFEPD_DecalSymbolSeven.description>Un autocollant pour le sol.</VFEPD_DecalSymbolSeven.description>
+<VFEPD_DecalSymbolEight.label>8</VFEPD_DecalSymbolEight.label>
+<VFEPD_DecalSymbolEight.description>Un autocollant pour le sol.</VFEPD_DecalSymbolEight.description>
+<VFEPD_DecalSymbolNine.label>9</VFEPD_DecalSymbolNine.label>
+<VFEPD_DecalSymbolNine.description>Un autocollant pour le sol.</VFEPD_DecalSymbolNine.description>
+<VFEPD_DecalSymbolZero.label>0</VFEPD_DecalSymbolZero.label>
+<VFEPD_DecalSymbolZero.description>Un autocollant pour le sol.</VFEPD_DecalSymbolZero.description>
+
+<VFEPD_DecalWordArmory.label>armurerie autocollant</VFEPD_DecalWordArmory.label>
+<VFEPD_DecalWordArmory.description>Un autocollant pour le sol.</VFEPD_DecalWordArmory.description>
+<VFEPD_DecalWordBarracks.label>caserne autocollant</VFEPD_DecalWordBarracks.label>
+<VFEPD_DecalWordBarracks.description>Un autocollant pour le sol.</VFEPD_DecalWordBarracks.description>
+<VFEPD_DecalWordBlock.label>block autocollant</VFEPD_DecalWordBlock.label>
+<VFEPD_DecalWordBlock.description>Un autocollant pour le sol.</VFEPD_DecalWordBlock.description>
+<VFEPD_DecalWordCafeteria.label>cafétéria autocollant</VFEPD_DecalWordCafeteria.label>
+<VFEPD_DecalWordCafeteria.description>Un autocollant pour le sol.</VFEPD_DecalWordCafeteria.description>
+<VFEPD_DecalWordCargo.label>cargaison autocollant</VFEPD_DecalWordCargo.label>
+<VFEPD_DecalWordCargo.description>Un autocollant pour le sol.</VFEPD_DecalWordCargo.description>
+<VFEPD_DecalWordChamber.label>chambre autocollant</VFEPD_DecalWordChamber.label>
+<VFEPD_DecalWordChamber.description>Un autocollant pour le sol.</VFEPD_DecalWordChamber.description>
+<VFEPD_DecalWordClimate.label>climat autocollant</VFEPD_DecalWordClimate.label>
+<VFEPD_DecalWordClimate.description>Un autocollant pour le sol.</VFEPD_DecalWordClimate.description>
+<VFEPD_DecalWordCommand.label>commande autocollant</VFEPD_DecalWordCommand.label>
+<VFEPD_DecalWordCommand.description>Un autocollant pour le sol.</VFEPD_DecalWordCommand.description>
+<VFEPD_DecalWordControl.label>contrôle autocollant</VFEPD_DecalWordControl.label>
+<VFEPD_DecalWordControl.description>Un autocollant pour le sol.</VFEPD_DecalWordControl.description>
+<VFEPD_DecalWordEngineer.label>machines autocollant</VFEPD_DecalWordEngineer.label>
+<VFEPD_DecalWordEngineer.description>Un autocollant pour le sol.</VFEPD_DecalWordEngineer.description>
+<VFEPD_DecalWordFarming.label>agricole autocollant</VFEPD_DecalWordFarming.label>
+<VFEPD_DecalWordFarming.description>Un autocollant pour le sol.</VFEPD_DecalWordFarming.description>
+<VFEPD_DecalWordFreezer.label>congélateur autocollant</VFEPD_DecalWordFreezer.label>
+<VFEPD_DecalWordFreezer.description>Un autocollant pour le sol.</VFEPD_DecalWordFreezer.description>
+<VFEPD_DecalWordFridge.label>réfrigérateurautocollant</VFEPD_DecalWordFridge.label>
+<VFEPD_DecalWordFridge.description>Un autocollant pour le sol.</VFEPD_DecalWordFridge.description>
+<VFEPD_DecalWordHangar.label>hangar autocollant</VFEPD_DecalWordHangar.label>
+<VFEPD_DecalWordHangar.description>Un autocollant pour le sol.</VFEPD_DecalWordHangar.description>
+<VFEPD_DecalWordHospital.label>hôpital autocollant</VFEPD_DecalWordHospital.label>
+<VFEPD_DecalWordHospital.description>Un autocollant pour le sol.</VFEPD_DecalWordHospital.description>
+<VFEPD_DecalWordKill.label>abattre autocollant</VFEPD_DecalWordKill.label>
+<VFEPD_DecalWordKill.description>Un autocollant pour le sol.</VFEPD_DecalWordKill.description>
+<VFEPD_DecalWordKitchen.label>cuisine autocollant</VFEPD_DecalWordKitchen.label>
+<VFEPD_DecalWordKitchen.description>Un autocollant pour le sol.</VFEPD_DecalWordKitchen.description>
+<VFEPD_DecalWordLanding.label>atterrissage autocollant</VFEPD_DecalWordLanding.label>
+<VFEPD_DecalWordLanding.description>Un autocollant pour le sol.</VFEPD_DecalWordLanding.description>
+<VFEPD_DecalWordMedical.label>médecine autocollant</VFEPD_DecalWordMedical.label>
+<VFEPD_DecalWordMedical.description>Un autocollant pour le sol.</VFEPD_DecalWordMedical.description>
+<VFEPD_DecalWordMess.label>mess autocollant</VFEPD_DecalWordMess.label>
+<VFEPD_DecalWordMess.description>Un autocollant pour le sol.</VFEPD_DecalWordMess.description>
+<VFEPD_DecalWordMorgue.label>morgue autocollant</VFEPD_DecalWordMorgue.label>
+<VFEPD_DecalWordMorgue.description>Un autocollant pour le sol.</VFEPD_DecalWordMorgue.description>
+<VFEPD_DecalWordMortar.label>mortier autocollant</VFEPD_DecalWordMortar.label>
+<VFEPD_DecalWordMortar.description>Un autocollant pour le sol.</VFEPD_DecalWordMortar.description>
+<VFEPD_DecalWordPlay.label>jeu autocollant</VFEPD_DecalWordPlay.label>
+<VFEPD_DecalWordPlay.description>Un autocollant pour le sol.</VFEPD_DecalWordPlay.description>
+<VFEPD_DecalWordPrison.label>prison autocollant</VFEPD_DecalWordPrison.label>
+<VFEPD_DecalWordPrison.description>Un autocollant pour le sol.</VFEPD_DecalWordPrison.description>
+<VFEPD_DecalWordReactor.label>réacteur autocollant</VFEPD_DecalWordReactor.label>
+<VFEPD_DecalWordReactor.description>Un autocollant pour le sol.</VFEPD_DecalWordReactor.description>
+<VFEPD_DecalWordRecreation.label>loisir autocollant</VFEPD_DecalWordRecreation.label>
+<VFEPD_DecalWordRecreation.description>Un autocollant pour le sol.</VFEPD_DecalWordRecreation.description>
+<VFEPD_DecalWordRefinery.label>raffinerie autocollant</VFEPD_DecalWordRefinery.label>
+<VFEPD_DecalWordRefinery.description>Un autocollant pour le sol.</VFEPD_DecalWordRefinery.description>
+<VFEPD_DecalWordRelax.label>détente autocollant</VFEPD_DecalWordRelax.label>
+<VFEPD_DecalWordRelax.description>Un autocollant pour le sol.</VFEPD_DecalWordRelax.description>
+<VFEPD_DecalWordResearch.label>recherche autocollant</VFEPD_DecalWordResearch.label>
+<VFEPD_DecalWordResearch.description>Un autocollant pour le sol.</VFEPD_DecalWordResearch.description>
+<VFEPD_DecalWordSecurity.label>sécurité autocollant</VFEPD_DecalWordSecurity.label>
+<VFEPD_DecalWordSecurity.description>Un autocollant pour le sol.</VFEPD_DecalWordSecurity.description>
+<VFEPD_DecalWordShipping.label>expédition autocollant</VFEPD_DecalWordShipping.label>
+<VFEPD_DecalWordShipping.description>Un autocollant pour le sol.</VFEPD_DecalWordShipping.description>
+<VFEPD_DecalWordSleeping.label>dormir autocollant</VFEPD_DecalWordSleeping.label>
+<VFEPD_DecalWordSleeping.description>Un autocollant pour le sol.</VFEPD_DecalWordSleeping.description>
+<VFEPD_DecalWordSmelting.label>fonderie autocollant</VFEPD_DecalWordSmelting.label>
+<VFEPD_DecalWordSmelting.description>Un autocollant pour le sol.</VFEPD_DecalWordSmelting.description>
+<VFEPD_DecalWordStorage.label>stockage autocollant</VFEPD_DecalWordStorage.label>
+<VFEPD_DecalWordStorage.description>Un autocollant pour le sol.</VFEPD_DecalWordStorage.description>
+<VFEPD_DecalWordWarning.label>alerte autocollant</VFEPD_DecalWordWarning.label>
+<VFEPD_DecalWordWarning.description>Un autocollant pour le sol.</VFEPD_DecalWordWarning.description>
+<VFEPD_DecalWordWorkshop.label>atelier autocollant</VFEPD_DecalWordWorkshop.label>
+<VFEPD_DecalWordWorkshop.description>Un autocollant pour le sol.</VFEPD_DecalWordWorkshop.description>
+<VFEPD_DecalWordSmallBase.label>base autocollant</VFEPD_DecalWordSmallBase.label>
+<VFEPD_DecalWordSmallBase.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallBase.description>
+<VFEPD_DecalWordSmallBay.label>soute autocollant</VFEPD_DecalWordSmallBay.label>
+<VFEPD_DecalWordSmallBay.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallBay.description>
+<VFEPD_DecalWordSmallBox.label>box autocollant</VFEPD_DecalWordSmallBox.label>
+<VFEPD_DecalWordSmallBox.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallBox.description>
+<VFEPD_DecalWordSmallCell.label>cellule autocollant</VFEPD_DecalWordSmallCell.label>
+<VFEPD_DecalWordSmallCell.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallCell.description>
+<VFEPD_DecalWordSmallClear.label>vide autocollant</VFEPD_DecalWordSmallClear.label>
+<VFEPD_DecalWordSmallClear.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallClear.description>
+<VFEPD_DecalWordSmallDock.label>quai autocollant</VFEPD_DecalWordSmallDock.label>
+<VFEPD_DecalWordSmallDock.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallDock.description>
+<VFEPD_DecalWordSmallGas.label>gaz autocollant</VFEPD_DecalWordSmallGas.label>
+<VFEPD_DecalWordSmallGas.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallGas.description>
+<VFEPD_DecalWordSmallHall.label>hall autocollant</VFEPD_DecalWordSmallHall.label>
+<VFEPD_DecalWordSmallHall.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallHall.description>
+<VFEPD_DecalWordSmallKeep.label>donjon autocollant</VFEPD_DecalWordSmallKeep.label>
+<VFEPD_DecalWordSmallKeep.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallKeep.description>
+<VFEPD_DecalWordSmallLab.label>laboratoire autocollant</VFEPD_DecalWordSmallLab.label>
+<VFEPD_DecalWordSmallLab.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallLab.description>
+<VFEPD_DecalWordSmallPad.label>pad autocollant</VFEPD_DecalWordSmallPad.label>
+<VFEPD_DecalWordSmallPad.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallPad.description>
+<VFEPD_DecalWordSmallRoom.label>salle autocollant</VFEPD_DecalWordSmallRoom.label>
+<VFEPD_DecalWordSmallRoom.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallRoom.description>
+<VFEPD_DecalWordSmallWing.label>aile autocollant</VFEPD_DecalWordSmallWing.label>
+<VFEPD_DecalWordSmallWing.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallWing.description>
+<VFEPD_DecalWordSmallZone.label>zone autocollant</VFEPD_DecalWordSmallZone.label>
+<VFEPD_DecalWordSmallZone.description>Un autocollant pour le sol.</VFEPD_DecalWordSmallZone.description>
+
+<VFEPD_FoodBox.label>boîtes de nourriture vides</VFEPD_FoodBox.label>
+<VFEPD_FoodBox.description>Une pile de boîtes de nourriture vides.</VFEPD_FoodBox.description>
+<VFEPD_HayBaleLarge.label>balle de foin grande</VFEPD_HayBaleLarge.label>
+<VFEPD_HayBaleLarge.description>Une grande balle de foin.</VFEPD_HayBaleLarge.description>
+<VFEPD_HayBaleMedium.label>botte de foin moyenne</VFEPD_HayBaleMedium.label>
+<VFEPD_HayBaleMedium.description>Une botte de foin de taille moyenne.</VFEPD_HayBaleMedium.description>
+<VFEPD_HayBaleSmall.label>ballot de foin petit</VFEPD_HayBaleSmall.label>
+<VFEPD_HayBaleSmall.description>Un petit ballot de foin.</VFEPD_HayBaleSmall.description>
+<VFEPD_Hedge.label>haie</VFEPD_Hedge.label>
+<VFEPD_Hedge.description>Une haie naturelle.</VFEPD_Hedge.description>
+<VFEPD_WoodenLogs.label>rondins de bois</VFEPD_WoodenLogs.label>
+<VFEPD_WoodenLogs.description>Une petite pile franchissable de rondins de bois.</VFEPD_WoodenLogs.description>
+<VFEPD_WoodenLogsLarge.label>stère de bois</VFEPD_WoodenLogsLarge.label>
+<VFEPD_WoodenLogsLarge.description>Une grande pile infranchissable de rondins de bois.</VFEPD_WoodenLogsLarge.description>
+<VFEPD_WoodenWagon.label>chariot en bois</VFEPD_WoodenWagon.label>
+<VFEPD_WoodenWagon.description>Un grand chariot stationnaire pour transporter des marchandises.</VFEPD_WoodenWagon.description>
+<VFEPD_FilthDirt.label>terre</VFEPD_FilthDirt.label>
+<VFEPD_FilthDirt.description>Une petite quantité de terre.</VFEPD_FilthDirt.description>
+<VFEPD_FilthAnimalFilth.label>saleté animale</VFEPD_FilthAnimalFilth.label>
+<VFEPD_FilthAnimalFilth.description>Une petite quantité de saleté animale.</VFEPD_FilthAnimalFilth.description>
+<VFEPD_FilthSand.label>sable</VFEPD_FilthSand.label>
+<VFEPD_FilthSand.description>Une petite quantité de sable.</VFEPD_FilthSand.description>
+<VFEPD_FilthTrash.label>ordure</VFEPD_FilthTrash.label>
+<VFEPD_FilthTrash.description>Une petite quantité d'ordures.</VFEPD_FilthTrash.description>
+<VFEPD_FilthRubbleRock.label>débris de roche</VFEPD_FilthRubbleRock.label>
+<VFEPD_FilthRubbleRock.description>Une petite quantité de débris de roche.</VFEPD_FilthRubbleRock.description>
+<VFEPD_FilthRubbleSlag.label>scorie éparpillée</VFEPD_FilthRubbleSlag.label>
+<VFEPD_FilthRubbleSlag.description>Une petite quantité de scories éparpillées.</VFEPD_FilthRubbleSlag.description>
+<VFEPD_FilthRubbleSandbags.label>sacs de sable éparpillés</VFEPD_FilthRubbleSandbags.label>
+<VFEPD_FilthRubbleSandbags.description>Une petite quantité de sacs de sable éparpillés.</VFEPD_FilthRubbleSandbags.description>
+<VFEPD_FilthBlood.label>sang</VFEPD_FilthBlood.label>
+<VFEPD_FilthBlood.description>Une éclaboussure de sang.</VFEPD_FilthBlood.description>
+<VFEPD_FilthBugBlood.label>sang d'insecte</VFEPD_FilthBugBlood.label>
+<VFEPD_FilthBugBlood.description>Une éclaboussure de sang d'insecte.</VFEPD_FilthBugBlood.description>
+<VFEPD_FilthMachineBits.label>morceaux de machine</VFEPD_FilthMachineBits.label>
+<VFEPD_FilthMachineBits.description>Un tas de pièces de machine.</VFEPD_FilthMachineBits.description>
+<VFEPD_FilthAmnioticFluid.label>liquide amniotique</VFEPD_FilthAmnioticFluid.label>
+<VFEPD_FilthAmnioticFluid.description>Une flaque de liquide amniotique.</VFEPD_FilthAmnioticFluid.description>
+<VFEPD_FilthSlime.label>bave</VFEPD_FilthSlime.label>
+<VFEPD_FilthSlime.description>Une giclée de bave.</VFEPD_FilthSlime.description>
+<VFEPD_FilthVomit.label>vomi</VFEPD_FilthVomit.label>
+<VFEPD_FilthVomit.description>Une petite flaque de vomi qui dégouline.</VFEPD_FilthVomit.description>
+<VFEPD_FilthFireFoam.label>mousse anti-incendie</VFEPD_FilthFireFoam.label>
+<VFEPD_FilthFireFoam.description>Un gros tas de mousse anti-incendie.</VFEPD_FilthFireFoam.description>
+<VFEPD_FilthChemfuel.label>flaque de chemfuel</VFEPD_FilthChemfuel.label>
+<VFEPD_FilthChemfuel.description>Une flaque de carburant chimique inflammable.</VFEPD_FilthChemfuel.description>
+<VFEPD_FilthCorpseBile.label>bile de cadavre</VFEPD_FilthCorpseBile.label>
+<VFEPD_FilthCorpseBile.description>Une petite éclaboussure de bile de cadavre.</VFEPD_FilthCorpseBile.description>
+<VFEPD_FilthAsh.label>cendres</VFEPD_FilthAsh.label>
+<VFEPD_FilthAsh.description>Un tas de cendres.</VFEPD_FilthAsh.description>
+
+<VFEPD_SteelATM.label>DAB en acier</VFEPD_SteelATM.label>
+<VFEPD_SteelATM.description>Un distributeur d'argent en acier non fonctionnel.</VFEPD_SteelATM.description>
+<VFEPD_PlasteelATM.label>DAB en plastacier</VFEPD_PlasteelATM.label>
+<VFEPD_PlasteelATM.description>Un distributeur d'argent en plastacier non fonctionnel.</VFEPD_PlasteelATM.description>
+<VFEPD_SilverATM.label>DAB en argent</VFEPD_SilverATM.label>
+<VFEPD_SilverATM.description>Un distributeur d'argent en argent non fonctionnel.</VFEPD_SilverATM.description>
+<VFEPD_WoodenATM.label>DAB en bois</VFEPD_WoodenATM.label>
+<VFEPD_WoodenATM.description>Un distributeur d'argent en bois non fonctionnel.</VFEPD_WoodenATM.description>
+<VFEPD_SteelBookshelf.label>bibliothèque en acier</VFEPD_SteelBookshelf.label>
+<VFEPD_SteelBookshelf.description>Une étagère contenant une variété de tomes et de publications illisibles.</VFEPD_SteelBookshelf.description>
+<VFEPD_PlasteelBookshelf.label>bibliothèque en plastacier</VFEPD_PlasteelBookshelf.label>
+<VFEPD_PlasteelBookshelf.description>Une étagère contenant une variété de tomes et de publications illisibles.</VFEPD_PlasteelBookshelf.description>
+<VFEPD_SilverBookshelf.label>bibliothèque en argent</VFEPD_SilverBookshelf.label>
+<VFEPD_SilverBookshelf.description>Une étagère contenant une variété de tomes et de publications illisibles.</VFEPD_SilverBookshelf.description>
+<VFEPD_WoodenBookshelf.label>bibliothèque en bois</VFEPD_WoodenBookshelf.label>
+<VFEPD_WoodenBookshelf.description>Une étagère contenant une variété de tomes et de publications illisibles.</VFEPD_WoodenBookshelf.description>
+<VFEPD_SteelCupboard.label>armoire en acier</VFEPD_SteelCupboard.label>
+<VFEPD_SteelCupboard.description>Une grande armoire vide.</VFEPD_SteelCupboard.description>
+<VFEPD_PlasteelCupboard.label>armoire en plastacier</VFEPD_PlasteelCupboard.label>
+<VFEPD_PlasteelCupboard.description>Une grande armoire vide.</VFEPD_PlasteelCupboard.description>
+<VFEPD_SilverCupboard.label>armoire en argent</VFEPD_SilverCupboard.label>
+<VFEPD_SilverCupboard.description>Une grande armoire vide.</VFEPD_SilverCupboard.description>
+<VFEPD_WoodenCupboard.label>armoire en bois</VFEPD_WoodenCupboard.label>
+<VFEPD_WoodenCupboard.description>Une grande armoire vide.</VFEPD_WoodenCupboard.description>
+<VFEPD_SteelCupboardDouble.label>armoire double en acier</VFEPD_SteelCupboardDouble.label>
+<VFEPD_SteelCupboardDouble.description>Une grande armoire double vide.</VFEPD_SteelCupboardDouble.description>
+<VFEPD_PlasteelCupboardDouble.label>armoire double en plastacier</VFEPD_PlasteelCupboardDouble.label>
+<VFEPD_PlasteelCupboardDouble.description>Une grande armoire double vide.</VFEPD_PlasteelCupboardDouble.description>
+<VFEPD_SilverCupboardDouble.label>armoire double en argent</VFEPD_SilverCupboardDouble.label>
+<VFEPD_SilverCupboardDouble.description>Une grande armoire double vide.</VFEPD_SilverCupboardDouble.description>
+<VFEPD_WoodenCupboardDouble.label>armoire double en bois</VFEPD_WoodenCupboardDouble.label>
+<VFEPD_WoodenCupboardDouble.description>Une grande armoire double vide.</VFEPD_WoodenCupboardDouble.description>
+<VFEPD_SteelCupboardPlates.label>vaisselier en acier</VFEPD_SteelCupboardPlates.label>
+<VFEPD_SteelCupboardPlates.description>Une grande armoire avec quelques assiettes.</VFEPD_SteelCupboardPlates.description>
+<VFEPD_PlasteelCupboardPlates.label>vaisselier en plastacier</VFEPD_PlasteelCupboardPlates.label>
+<VFEPD_PlasteelCupboardPlates.description>Une grande armoire avec quelques assiettes.</VFEPD_PlasteelCupboardPlates.description>
+<VFEPD_SilverCupboardPlates.label>vaisselier en argent</VFEPD_SilverCupboardPlates.label>
+<VFEPD_SilverCupboardPlates.description>Une grande armoire avec quelques assiettes.</VFEPD_SilverCupboardPlates.description>
+<VFEPD_WoodenCupboardPlates.label>vaisselier en bois</VFEPD_WoodenCupboardPlates.label>
+<VFEPD_WoodenCupboardPlates.description>Une grande armoire avec quelques assiettes.</VFEPD_WoodenCupboardPlates.description>
+<VFEPD_SteelCupboardNarrow.label>armoire étroite en acier</VFEPD_SteelCupboardNarrow.label>
+<VFEPD_SteelCupboardNarrow.description>Une armoire étroite et vide.</VFEPD_SteelCupboardNarrow.description>
+<VFEPD_PlasteelCupboardNarrow.label>armoire étroite en plastacier</VFEPD_PlasteelCupboardNarrow.label>
+<VFEPD_PlasteelCupboardNarrow.description>Une armoire étroite et vide.</VFEPD_PlasteelCupboardNarrow.description>
+<VFEPD_SilverCupboardNarrow.label>armoire étroite en argent</VFEPD_SilverCupboardNarrow.label>
+<VFEPD_SilverCupboardNarrow.description>Une armoire étroite et vide.</VFEPD_SilverCupboardNarrow.description>
+<VFEPD_WoodenCupboardNarrow.label>armoire étroite en bois</VFEPD_WoodenCupboardNarrow.label>
+<VFEPD_WoodenCupboardNarrow.description>Une armoire étroite et vide.</VFEPD_WoodenCupboardNarrow.description>
+<VFEPD_SteelTallCabinet.label>meuble haut en acier</VFEPD_SteelTallCabinet.label>
+<VFEPD_SteelTallCabinet.description>Un meuble haut.</VFEPD_SteelTallCabinet.description>
+<VFEPD_PlasteelTallCabinet.label>meuble haut en plastacier</VFEPD_PlasteelTallCabinet.label>
+<VFEPD_PlasteelTallCabinet.description>Un meuble haut.</VFEPD_PlasteelTallCabinet.description>
+<VFEPD_SilverTallCabinet.label>meuble haut en argent</VFEPD_SilverTallCabinet.label>
+<VFEPD_SilverTallCabinet.description>Un meuble haut.</VFEPD_SilverTallCabinet.description>
+<VFEPD_WoodenTallCabinet.label>meuble haut en bois</VFEPD_WoodenTallCabinet.label>
+<VFEPD_WoodenTallCabinet.description>Un meuble haut.</VFEPD_WoodenTallCabinet.description>
+<VFEPD_SteelShortCupboard.label>armoire basse en acier</VFEPD_SteelShortCupboard.label>
+<VFEPD_SteelShortCupboard.description>Une armoire basse et vide.</VFEPD_SteelShortCupboard.description>
+<VFEPD_PlasteelShortCupboard.label>armoire basse en plastacier</VFEPD_PlasteelShortCupboard.label>
+<VFEPD_PlasteelShortCupboard.description>Une armoire basse et vide.</VFEPD_PlasteelShortCupboard.description>
+<VFEPD_SilverShortCupboard.label>armoire basse en argent</VFEPD_SilverShortCupboard.label>
+<VFEPD_SilverShortCupboard.description>Une armoire basse et vide.</VFEPD_SilverShortCupboard.description>
+<VFEPD_WoodenShortCupboard.label>armoire basse en bois</VFEPD_WoodenShortCupboard.label>
+<VFEPD_WoodenShortCupboard.description>Une armoire basse et vide.</VFEPD_WoodenShortCupboard.description>
+<VFEPD_SteelShortCupboardPlates.label>buffet bas en acier</VFEPD_SteelShortCupboardPlates.label>
+<VFEPD_SteelShortCupboardPlates.description>Une armoire basse avec des assiettes.</VFEPD_SteelShortCupboardPlates.description>
+<VFEPD_PlasteelShortCupboardPlates.label>buffet bas en plastacier</VFEPD_PlasteelShortCupboardPlates.label>
+<VFEPD_PlasteelShortCupboardPlates.description>Une armoire basse avec des assiettes.</VFEPD_PlasteelShortCupboardPlates.description>
+<VFEPD_SilverShortCupboardPlates.label>buffet bas en argent</VFEPD_SilverShortCupboardPlates.label>
+<VFEPD_SilverShortCupboardPlates.description>Une armoire basse avec des assiettes.</VFEPD_SilverShortCupboardPlates.description>
+<VFEPD_WoodenShortCupboardPlates.label>buffet bas en bois</VFEPD_WoodenShortCupboardPlates.label>
+<VFEPD_WoodenShortCupboardPlates.description>Une armoire basse avec des assiettes.</VFEPD_WoodenShortCupboardPlates.description>
+
+<VFEPD_Desk.label>bureau</VFEPD_Desk.label>
+<VFEPD_Desk.description>Un grand bureau.</VFEPD_Desk.description>
+<VFEPD_CoffeeTable.label>table basse (2x1)</VFEPD_CoffeeTable.label>
+<VFEPD_CoffeeTable.description>Une table basse.</VFEPD_CoffeeTable.description>
+<VFEPD_CoffeeTableSmall.label>table basse (1x1)</VFEPD_CoffeeTableSmall.label>
+<VFEPD_CoffeeTableSmall.description>Une petite table basse.</VFEPD_CoffeeTableSmall.description>
+
+<VFEPD_SteelDivider.label>paravent en acier</VFEPD_SteelDivider.label>
+<VFEPD_SteelDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_SteelDivider.description>
+<VFEPD_PlasteelDivider.label>paravent en plastacier</VFEPD_PlasteelDivider.label>
+<VFEPD_PlasteelDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_PlasteelDivider.description>
+<VFEPD_SilverDivider.label>paravent en argent</VFEPD_SilverDivider.label>
+<VFEPD_SilverDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_SilverDivider.description>
+<VFEPD_WoodenDivider.label>paravent en bois</VFEPD_WoodenDivider.label>
+<VFEPD_WoodenDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_WoodenDivider.description>
+<VFEPD_SteelPlankDivider.label>brise vue en acier</VFEPD_SteelPlankDivider.label>
+<VFEPD_SteelPlankDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_SteelPlankDivider.description>
+<VFEPD_PlasteelPlankDivider.label>brise vue en plastacier</VFEPD_PlasteelPlankDivider.label>
+<VFEPD_PlasteelPlankDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_PlasteelPlankDivider.description>
+<VFEPD_SilverPlankDivider.label>brise vue en argent</VFEPD_SilverPlankDivider.label>
+<VFEPD_SilverPlankDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_SilverPlankDivider.description>
+<VFEPD_WoodenPlankDivider.label>brise vue en bois</VFEPD_WoodenPlankDivider.label>
+<VFEPD_WoodenPlankDivider.description>Un grand et infranchissable diviseur de pièce.</VFEPD_WoodenPlankDivider.description>
+<VFEPD_SteelMirror.label>miroir en acier</VFEPD_SteelMirror.label>
+<VFEPD_SteelMirror.description>Un miroir vertical.</VFEPD_SteelMirror.description>
+<VFEPD_PlasteelMirror.label>miroir en plastacier</VFEPD_PlasteelMirror.label>
+<VFEPD_PlasteelMirror.description>Un miroir vertical.</VFEPD_PlasteelMirror.description>
+<VFEPD_SilverMirror.label>miroir en argent</VFEPD_SilverMirror.label>
+<VFEPD_SilverMirror.description>Un miroir vertical.</VFEPD_SilverMirror.description>
+<VFEPD_WoodenMirror.label>miroir en bois</VFEPD_WoodenMirror.label>
+<VFEPD_WoodenMirror.description>Un miroir vertical.</VFEPD_WoodenMirror.description>
+<VFEPD_SteelVendingMachine.label>distributeur automatique en acier</VFEPD_SteelVendingMachine.label>
+<VFEPD_SteelVendingMachine.description>Un distributeur automatique non fonctionnel.</VFEPD_SteelVendingMachine.description>
+<VFEPD_PlasteelVendingMachine.label>distributeur automatique en plastacier</VFEPD_PlasteelVendingMachine.label>
+<VFEPD_PlasteelVendingMachine.description>Un distributeur automatique non fonctionnel.</VFEPD_PlasteelVendingMachine.description>
+<VFEPD_SilverVendingMachine.label>distributeur automatique en argent</VFEPD_SilverVendingMachine.label>
+<VFEPD_SilverVendingMachine.description>Un distributeur automatique non fonctionnel.</VFEPD_SilverVendingMachine.description>
+<VFEPD_WoodenVendingMachine.label>distributeur automatique en bois</VFEPD_WoodenVendingMachine.label>
+<VFEPD_WoodenVendingMachine.description>Un distributeur automatique non fonctionnel.</VFEPD_WoodenVendingMachine.description>
+<VFEPD_WashingMachine.label>machine à laver</VFEPD_WashingMachine.label>
+<VFEPD_WashingMachine.description>Une machine à laver.</VFEPD_WashingMachine.description>
+<VFEPD_WarehouseShelfEmpty.label>étagère d'entrepôt</VFEPD_WarehouseShelfEmpty.label>
+<VFEPD_WarehouseShelfEmpty.description>Une étagère d'entrepôt vide infranchissable.</VFEPD_WarehouseShelfEmpty.description>
+<VFEPD_WarehouseShelfBoxes.label>étagère d'entrepôt avec des boîtes</VFEPD_WarehouseShelfBoxes.label>
+<VFEPD_WarehouseShelfBoxes.description>Une étagère d'entrepôt infranchissable avec des boîtes.</VFEPD_WarehouseShelfBoxes.description>
+
+<VFEPD_BinBag.label>sac poubelle</VFEPD_BinBag.label>
+<VFEPD_BinBag.description>Un sac noir contenant diverses sortes de déchets.</VFEPD_BinBag.description>
+<VFEPD_BoxLarge.label>grande caisse en bois</VFEPD_BoxLarge.label>
+<VFEPD_BoxLarge.description>Une grande caisse en bois avec un contenu varié.</VFEPD_BoxLarge.description>
+<VFEPD_BoxSmall.label>petite caisse en bois</VFEPD_BoxSmall.label>
+<VFEPD_BoxSmall.description>Une petite caisse en bois avec un contenu varié.</VFEPD_BoxSmall.description>
+<VFEPD_CardboardBoxLarge.label>grande boîte en carton</VFEPD_CardboardBoxLarge.label>
+<VFEPD_CardboardBoxLarge.description>Une grande boîte en carton avec un contenu varié.</VFEPD_CardboardBoxLarge.description>
+<VFEPD_CardboardBoxSmall.label>petite boîte en carton</VFEPD_CardboardBoxSmall.label>
+<VFEPD_CardboardBoxSmall.description>Une petite boîte en carton avec un contenu varié.</VFEPD_CardboardBoxSmall.description>
+
+<VFEPD_BrickPile.label>pile de briques</VFEPD_BrickPile.label>
+<VFEPD_BrickPile.description>Un tas de briques.</VFEPD_BrickPile.description>
+
+<VFEPD_BarrelGreen.label>baril vert</VFEPD_BarrelGreen.label>
+<VFEPD_BarrelGreen.description>Un baril de métal vert.</VFEPD_BarrelGreen.description>
+<VFEPD_BarrelGrey.label>baril gris</VFEPD_BarrelGrey.label>
+<VFEPD_BarrelGrey.description>Un baril de métal gris.</VFEPD_BarrelGrey.description>
+<VFEPD_BarrelRed.label>baril rouge</VFEPD_BarrelRed.label>
+<VFEPD_BarrelRed.description>Un baril de métal rouge.</VFEPD_BarrelRed.description>
+<VFEPD_BarrelYellow.label>baril jaune</VFEPD_BarrelYellow.label>
+<VFEPD_BarrelYellow.description>Un baril de métal jaune.</VFEPD_BarrelYellow.description>
+<VFEPD_BarrelBlue.label>baril bleu</VFEPD_BarrelBlue.label>
+<VFEPD_BarrelBlue.description>Un baril de métal bleu.</VFEPD_BarrelBlue.description>
+<VFEPD_PalletCardboard.label>palette avec boîtes en carton</VFEPD_PalletCardboard.label>
+<VFEPD_PalletCardboard.description>Une grande palette avec plusieurs cartons.</VFEPD_PalletCardboard.description>
+<VFEPD_PalletBoxes.label>palette avec caisses en bois</VFEPD_PalletBoxes.label>
+<VFEPD_PalletBoxes.description>Une grande palette avec plusieurs caisses en bois.</VFEPD_PalletBoxes.description>
+<VFEPD_Pallet.label>palette</VFEPD_Pallet.label>
+<VFEPD_Pallet.description>Une grande palette.</VFEPD_Pallet.description>
+
+<VFEPD_PalletBarrelGreen.label>palette avec des barils verts</VFEPD_PalletBarrelGreen.label>
+<VFEPD_PalletBarrelGreen.description>Un baril de métal vert sur une palette de bois.</VFEPD_PalletBarrelGreen.description>
+<VFEPD_PalletBarrelGrey.label>palette avec des barils gris</VFEPD_PalletBarrelGrey.label>
+<VFEPD_PalletBarrelGrey.description>Un baril de métal gris sur une palette de bois.</VFEPD_PalletBarrelGrey.description>
+<VFEPD_PalletBarrelRed.label>palette avec des barils rouges</VFEPD_PalletBarrelRed.label>
+<VFEPD_PalletBarrelRed.description>Un baril de métal rouge sur une palette de bois.</VFEPD_PalletBarrelRed.description>
+<VFEPD_PalletBarrelYellow.label>palette avec des barils jaunes</VFEPD_PalletBarrelYellow.label>
+<VFEPD_PalletBarrelYellow.description>Un baril de métal jaune sur une palette de bois.</VFEPD_PalletBarrelYellow.description>
+<VFEPD_PalletBarrelBlue.label>palette avec des barils bleus</VFEPD_PalletBarrelBlue.label>
+<VFEPD_PalletBarrelBlue.description>Un baril de métal bleu sur une palette de bois.</VFEPD_PalletBarrelBlue.description>
+
+<VFEPD_ContainerGreen.label>conteneur vert</VFEPD_ContainerGreen.label>
+<VFEPD_ContainerGreen.description>Un conteneur métallique vert. Infranchissable. Ne peut pas soutenir un toit.</VFEPD_ContainerGreen.description>
+<VFEPD_ContainerGrey.label>conteneur gris</VFEPD_ContainerGrey.label>
+<VFEPD_ContainerGrey.description>Un conteneur métallique gris. Infranchissable. Ne peut pas soutenir un toit.</VFEPD_ContainerGrey.description>
+<VFEPD_ContainerRed.label>conteneur rouge</VFEPD_ContainerRed.label>
+<VFEPD_ContainerRed.description>Un conteneur métallique rouge. Infranchissable. Ne peut pas soutenir un toit.</VFEPD_ContainerRed.description>
+<VFEPD_ContainerYellow.label>conteneur jaune</VFEPD_ContainerYellow.label>
+<VFEPD_ContainerYellow.description>Un conteneur métallique jaune. Infranchissable. Ne peut pas soutenir un toit.</VFEPD_ContainerYellow.description>
+<VFEPD_ContainerBlue.label>conteneur bleu</VFEPD_ContainerBlue.label>
+<VFEPD_ContainerBlue.description>Un conteneur métallique bleu. Infranchissable. Ne peut pas soutenir un toit.</VFEPD_ContainerBlue.description>
+
+<VFEPD_Pipes.label>pile de tuyaux</VFEPD_Pipes.label>
+<VFEPD_Pipes.description>Une grande pile de tuyaux industriels.</VFEPD_Pipes.description>
+<VFEPD_Planks.label>pile de planches</VFEPD_Planks.label>
+<VFEPD_Planks.description>Une grande pile de planches de bois.</VFEPD_Planks.description>
+<VFEPD_Cone.label>cône de signalisation</VFEPD_Cone.label>
+<VFEPD_Cone.description>Un cône de signalisation.</VFEPD_Cone.description>
+<VFEPD_ConcreteBags.label>sacs de béton</VFEPD_ConcreteBags.label>
+<VFEPD_ConcreteBags.description>Une grande pile de sacs de béton.</VFEPD_ConcreteBags.description>
+<VFEPD_WaterTank.label>réservoir d'eau</VFEPD_WaterTank.label>
+<VFEPD_WaterTank.description>Une cuve d'eau industrielle.</VFEPD_WaterTank.description>
+<VFEPD_VentilationShaft.label>puits d'aération</VFEPD_VentilationShaft.label>
+<VFEPD_VentilationShaft.description>Une évacuation vers un système de ventilation.</VFEPD_VentilationShaft.description>
+<VFEPD_ElectricalCabinet.label>armoire électrique</VFEPD_ElectricalCabinet.label>
+<VFEPD_ElectricalCabinet.description>Une petite armoire métallique contenant des circuits électriques et des fusibles.</VFEPD_ElectricalCabinet.description>
+<VFEPD_Lockers.label>casiers</VFEPD_Lockers.label>
+<VFEPD_Lockers.description>Une unité de casiers métalliques, permettant aux travailleurs de ranger leurs objets de valeur.</VFEPD_Lockers.description>
+<VFEPD_GasTank.label>réservoir de gaz</VFEPD_GasTank.label>
+<VFEPD_GasTank.description>Un grand réservoir de gaz en métal.</VFEPD_GasTank.description>
+
+<VFEPD_BrewingBarrel.label>tonneau de brassage</VFEPD_BrewingBarrel.label>
+<VFEPD_BrewingBarrel.description>Un grand tonneau de brassage vide.</VFEPD_BrewingBarrel.description>
+<VFEPD_Cooker.label>cuisinière</VFEPD_Cooker.label>
+<VFEPD_Cooker.description>Une unité de cuisson.</VFEPD_Cooker.description>
+<VFEPD_Microwave.label>micro-ondes</VFEPD_Microwave.label>
+<VFEPD_Microwave.description>Un appareil à micro-ondes de table.</VFEPD_Microwave.description>
+<VFEPD_Oven.label>four</VFEPD_Oven.label>
+<VFEPD_Oven.description>Un grand four.</VFEPD_Oven.description>
+<VFEPD_Fridge.label>réfrigérateur</VFEPD_Fridge.label>
+<VFEPD_Fridge.description>Un grand réfrigérateur avec un congélateur intégré.</VFEPD_Fridge.description>
+<VFEPD_WaterDispenser.label>fontaine à eau</VFEPD_WaterDispenser.label>
+<VFEPD_WaterDispenser.description>Un grand distributeur d'eau fraîche sur pied.</VFEPD_WaterDispenser.description>
+<VFEPD_FoodTrolley.label>chariot de repas</VFEPD_FoodTrolley.label>
+<VFEPD_FoodTrolley.description>Un chariot à quatre roues pour les assiettes vides et les plateaux de nourriture.</VFEPD_FoodTrolley.description>
+<VFEPD_KitchenSurface.label>plan de travail de cuisine</VFEPD_KitchenSurface.label>
+<VFEPD_KitchenSurface.description>Une surface de cuisine simple avec une planche à découper.</VFEPD_KitchenSurface.description>
+<VFEPD_KitchenSurfaceEmpty.label>plan de travail de cuisine vide</VFEPD_KitchenSurfaceEmpty.label>
+<VFEPD_KitchenSurfaceEmpty.description>Une simple surface de cuisine.</VFEPD_KitchenSurfaceEmpty.description>
+<VFEPD_KitchenSink.label>évier de cuisine</VFEPD_KitchenSink.label>
+<VFEPD_KitchenSink.description>Un long évier de cuisine.</VFEPD_KitchenSink.description>
+<VFEPD_WineRack.label>range bouteilles</VFEPD_WineRack.label>
+<VFEPD_WineRack.description>Une étagère à vin civilisée.</VFEPD_WineRack.description>
+<VFEPD_MopBucket.label>seau à balai</VFEPD_MopBucket.label>
+<VFEPD_MopBucket.description>Un seau à serpillière stérile. Idéal pour passer la serpillière.</VFEPD_MopBucket.description>
+<VFEPD_CookingAppliances.label>ustensiles de cuisine</VFEPD_CookingAppliances.label>
+<VFEPD_CookingAppliances.description>Des ustensiles de cuisine, comme une marmite ou une poêle.</VFEPD_CookingAppliances.description>
+<VFEPD_CuttingBoard.label>planche à découper</VFEPD_CuttingBoard.label>
+<VFEPD_CuttingBoard.description>Une planche à découper en bois.</VFEPD_CuttingBoard.description>
+<VFEPD_Knives.label>couteaux</VFEPD_Knives.label>
+<VFEPD_Knives.description>Un ensemble de couteaux de cuisine.</VFEPD_Knives.description>
+<VFEPD_DinnerSet.label>service de table</VFEPD_DinnerSet.label>
+<VFEPD_DinnerSet.description>Un service de table simple contenant tous les ustensiles nécessaires.</VFEPD_DinnerSet.description>
+<VFEPD_Spices.label>épices</VFEPD_Spices.label>
+<VFEPD_Spices.description>Un large assortiment d'épices différentes.</VFEPD_Spices.description>
+
+<VFEPD_Anvil.label>enclume</VFEPD_Anvil.label>
+<VFEPD_Anvil.description>Une enclume de forge lourde.</VFEPD_Anvil.description>
+<VFEPD_ArmorStandEmpty.label>support d'armure vide</VFEPD_ArmorStandEmpty.label>
+<VFEPD_ArmorStandEmpty.description>Un support d'armure. Il n'y a actuellement aucune armure installée dessus.</VFEPD_ArmorStandEmpty.description>
+<VFEPD_ArmorStandFull.label>support d'armure complète</VFEPD_ArmorStandFull.label>
+<VFEPD_ArmorStandFull.description>Un support d'armure. Il y a une armure de plaques installée dessus.</VFEPD_ArmorStandFull.description>
+<VFEPD_ArrowCage.label>cage de flèches</VFEPD_ArrowCage.label>
+<VFEPD_ArrowCage.description>Une petite cage avec des flèches.</VFEPD_ArrowCage.description>
+
+<VFEPD_Banner.label>bannière</VFEPD_Banner.label>
+<VFEPD_Banner.description>Une bannière décorative suspendue à un cadre vertical en bois.</VFEPD_Banner.description>
+
+<VFEPD_BrazierEmpty.label>brasero vide</VFEPD_BrazierEmpty.label>
+<VFEPD_BrazierEmpty.description>Un équipement en forme de bol utilisé pour contenir un feu.</VFEPD_BrazierEmpty.description>
+<VFEPD_BucketEmpty.label>seau vide</VFEPD_BucketEmpty.label>
+<VFEPD_BucketEmpty.description>Un seau en bois.</VFEPD_BucketEmpty.description>
+<VFEPD_BucketwithWater.label>seau d'eau</VFEPD_BucketwithWater.label>
+<VFEPD_BucketwithWater.description>Un seau en bois rempli d'eau.</VFEPD_BucketwithWater.description>
+<VFEPD_CageBrazier.label>brasero à cage</VFEPD_CageBrazier.label>
+<VFEPD_CageBrazier.description>Un brasero vide en forme de cage métallique.</VFEPD_CageBrazier.description>
+<VFEPD_WoodenChest.label>coffre en bois</VFEPD_WoodenChest.label>
+<VFEPD_WoodenChest.description>Un coffre en bois de taille moyenne.</VFEPD_WoodenChest.description>
+<VFEPD_WoodenChestLarge.label>grand coffre en bois</VFEPD_WoodenChestLarge.label>
+<VFEPD_WoodenChestLarge.description>Un coffre en bois de grande taille.</VFEPD_WoodenChestLarge.description>
+<VFEPD_WeaponRackEmpty.label>râtelier vide</VFEPD_WeaponRackEmpty.label>
+<VFEPD_WeaponRackEmpty.description>Un long support d'armes. Il n'y a pas d'armes dessus pour le moment.</VFEPD_WeaponRackEmpty.description>
+<VFEPD_WeaponRackSwords.label>râtelier à épées</VFEPD_WeaponRackSwords.label>
+<VFEPD_WeaponRackSwords.description>Un long support d'armes. Il y a une sélection d'épées installées dessus.</VFEPD_WeaponRackSwords.description>
+<VFEPD_WeaponRackSpears.label>râtelier à lances</VFEPD_WeaponRackSpears.label>
+<VFEPD_WeaponRackSpears.description>Un long support d'armes. Il y a une sélection de lances installées dessus.</VFEPD_WeaponRackSpears.description>
+<VFEPD_WoodenSign.label>panneau en bois</VFEPD_WoodenSign.label>
+<VFEPD_WoodenSign.description>Un grand poteau avec des panneaux indiquant des directions différentes.</VFEPD_WoodenSign.description>
+<VFEPD_TanningRack.label>support de tannage</VFEPD_TanningRack.label>
+<VFEPD_TanningRack.description>Un support de tannage avec une peau installée dessus.</VFEPD_TanningRack.description>
+<VFEPD_WoodenPlatform.label>plate-forme en bois</VFEPD_WoodenPlatform.label>
+<VFEPD_WoodenPlatform.description>Une plate-forme en bois sur laquelle on peut marcher.</VFEPD_WoodenPlatform.description>
+<VFEPD_CagePlatform.label>plate-forme de cage</VFEPD_CagePlatform.label>
+<VFEPD_CagePlatform.description>Une plate-forme en forme de cage sur laquelle on peut marcher.</VFEPD_CagePlatform.description>
+
+<VFEPD_Glowstool.label>pied-brillant</VFEPD_Glowstool.label>
+<VFEPD_Glowstool.description>Un faux petit champignon brun que l'on trouve généralement dans les grottes. Il sent comme un vieux chiffon sale tiré de l'estomac d'un muffalo en décomposition - mais il a un goût étonnamment bon lorsqu'il est cuisiné.</VFEPD_Glowstool.description>
+<VFEPD_Agarilux.label>agarilux</VFEPD_Agarilux.label>
+<VFEPD_Agarilux.description>Un faux et énorme champignon violet. Sa taille et ses protubérances lumineuses rendent ce champignon magnifique à regarder.</VFEPD_Agarilux.description>
+<VFEPD_Bryolux.label>bryolux</VFEPD_Bryolux.label>
+<VFEPD_Bryolux.description>Une fausse mousse bleue que l'on trouve généralement dans les grottes profondes et sombres. Elle est collante, avec des fibres enchevêtrées, ce qui ralentit quiconque marche dessus.</VFEPD_Bryolux.description>
+<VFEPD_Rose.label>rose</VFEPD_Rose.label>
+<VFEPD_Rose.description>Fausse belle fleur cultivée, la rose est un symbole d'amour depuis l'Antiquité.</VFEPD_Rose.description>
+<VFEPD_Daylily.label>lys</VFEPD_Daylily.label>
+<VFEPD_Daylily.description>Une fausse fleur cultivée avec de larges pétales et une courte durée de vie. Les lys de jour sont très beaux, mais doivent être replantés souvent.</VFEPD_Daylily.description>
+<VFEPD_Rice.label>plant de riz</VFEPD_Rice.label>
+<VFEPD_Rice.description>Une fausse culture, courte et à croissance rapide, qui donne de petits grains comestibles. Sa grande valeur nutritive et sa facilité de culture en ont fait le noyau économique de nombreuses grandes civilisations. Si le riz pousse rapidement, il est sensible à la fertilité du sol et ne se porte pas bien dans les sols pauvres.</VFEPD_Rice.description>
+<VFEPD_Potato.label>plant de pomme de terre</VFEPD_Potato.label>
+<VFEPD_Potato.description>Un faux tubercule, très nutritif. Les pommes de terre poussent bien, même dans un sol plutôt pauvre, et forment une délicieuse couche extérieure croustillante lorsqu'elles sont frites dans l'huile.</VFEPD_Potato.description>
+<VFEPD_Corn.label>plante de maïs</VFEPD_Corn.label>
+<VFEPD_Corn.description>Une fausse grande plante céréalière qui produit des épis de graines molles et comestibles. Bien que le maïs prenne beaucoup de temps à pousser, il donne beaucoup de nourriture par rapport à d'autres cultures. Le maïs récolté met longtemps à se gâter.</VFEPD_Corn.description>
+<VFEPD_Strawberry.label>fraisier</VFEPD_Strawberry.label>
+<VFEPD_Strawberry.description>Une fausse plante basse en forme de buisson qui donne des fraises fragiles mais délicieuses. Bien qu'elle ne soit pas aussi productive, calorie pour calorie, que d'autres cultures, la fraise est délicieuse même crue.</VFEPD_Strawberry.description>
+<VFEPD_Haygrass.label>herbe à foin</VFEPD_Haygrass.label>
+<VFEPD_Haygrass.description>Un faux mélange d'herbes riches en nutriments qui donne de grandes quantités de foin. Le foin est comestible pour les animaux, mais pas pour les humains.</VFEPD_Haygrass.description>
+<VFEPD_Cotton.label>plante de coton</VFEPD_Cotton.label>
+<VFEPD_Cotton.description>Une fausse culture de taille moyenne qui donne de fines fibres de coton blanc. Celles-ci sont utilisées pour fabriquer du tissu.</VFEPD_Cotton.description>
+<VFEPD_Devilstrand.label>diabledeau</VFEPD_Devilstrand.label>
+<VFEPD_Devilstrand.description>Ce faux champignon fragile a été génétiquement modifié pour produire un filet de soie à la fois difficile à déchirer et doux au toucher. Bien que le champignon mette beaucoup de temps à pousser, seuls les tissus exotiques ultra-techniques sont plus performants que ses fibres "diabledeau".\n\nCertains disent qu'il est appelé diabledeau en raison de sa couleur rouge. D'autres pensent qu'il doit son nom à la cupidité qu'il inspire aux gens.</VFEPD_Devilstrand.description>
+<VFEPD_Healroot.label>racine de vie</VFEPD_Healroot.label>
+<VFEPD_Healroot.description>Une fausse plante à croissance lente qui donne des plantes médicinales lorsqu'elle est récoltée. Le semis et la récolte de la racine de bruyère sont deux tâches très laborieuses en raison de ses pousses délicates.\n\nLa racine de vie a fait l'objet d'une sélection pendant des siècles par les colons. Elle est parfois aussi appelée "main du guérisseur" par les populations tribales - un surnom qu'elle doit à ses cinq grandes vertus médicinales.</VFEPD_Healroot.description>
+<VFEPD_Hops.label>plant de houblon</VFEPD_Hops.label>
+<VFEPD_Hops.description>Une fausse plante à fleurs qui produit du houblon, un ingrédient essentiel de la bière.</VFEPD_Hops.description>
+<VFEPD_Smokeleaf.label>plant de smokeleaf</VFEPD_Smokeleaf.label>
+<VFEPD_Smokeleaf.description>Une fausse plante à feuilles cultivée pour les effets psychologiques des produits chimiques contenus dans ses feuilles. Les feuilles de Smokeleaf peuvent être préparées en joints sur le lieu de fabrication. La feuille de tabac détend l'utilisateur, mais réduit sa motivation et peut créer une dépendance.</VFEPD_Smokeleaf.description>
+<VFEPD_Psychoid.label>plant de psychoïde</VFEPD_Psychoid.label>
+<VFEPD_Psychoid.description>Une fausse plante à feuilles qui génère le composé chimique psychite. Développée à l'origine comme un mécanisme de défense pour éloigner les animaux mangeurs de plantes en les surstimulant et en les rendant malades, la psychite peut être extraite et raffinée sous diverses formes pour un usage récréatif. Elle crée une dépendance.</VFEPD_Psychoid.description>
+<VFEPD_BurnedTree.label>arbre brûlé</VFEPD_BurnedTree.label>
+<VFEPD_BurnedTree.description>Une fausse souche d'arbre brûlée. C'est laid et ça ne donne pas de bois utilisable.</VFEPD_BurnedTree.description>
+<VFEPD_WillowTree.label>saule pleureur</VFEPD_WillowTree.label>
+<VFEPD_WillowTree.description>L'un des arbres d'ombrage à la croissance la plus rapide, les faux saules pleureurs offrent une belle canopée feuillue. Il ne donne pas beaucoup de bois utilisable.</VFEPD_WillowTree.description>
+<VFEPD_CypressTree.label>cyprès</VFEPD_CypressTree.label>
+<VFEPD_CypressTree.description>Un faux grand conifère que l'on trouve souvent dans les marécages. Malgré sa croissance lente, la plantation de ces arbres peut être rentable en tant qu'investissement à faible effort et à long terme, car ils produisent beaucoup de bois utilisable.</VFEPD_CypressTree.description>
+<VFEPD_MapleTree.label>érable</VFEPD_MapleTree.label>
+<VFEPD_MapleTree.description>Un faux arbre commun de taille moyenne, facilement identifiable par sa feuille distincte à trois pointes.</VFEPD_MapleTree.description>
+<VFEPD_Chokevine.label>dompte-venin</VFEPD_Chokevine.label>
+<VFEPD_Chokevine.description>Un faux enchevêtrement de lianes filiformes et hérissées qui s'enroulent en grandes masses le long du sol. Le dompte-venin ralentit considérablement toute personne qui se déplace sur lui. Plusieurs tribus ont indépendamment généré des histoires de dompte-venin étranglant des enfants à mort dans la nuit, comme un moyen d'effrayer les enfants pour qu'ils rentrent avant la nuit.</VFEPD_Chokevine.description>
+<VFEPD_OakTree.label>chêne</VFEPD_OakTree.label>
+<VFEPD_OakTree.description>Un faux arbre à bois dur. Les chênes mettent du temps à pousser, mais leur bois est si solide que le mot "chêne" est utilisé comme une métaphore de la force dans de nombreuses cultures.</VFEPD_OakTree.description>
+<VFEPD_PoplarTree.label>peuplier</VFEPD_PoplarTree.label>
+<VFEPD_PoplarTree.description>Un faux arbre à bois tendre qui pousse très vite. Malheureusement, son bois est faible et il donne donc moins de matériaux utiles que les arbres à bois dur.</VFEPD_PoplarTree.description>
+<VFEPD_PineTree.label>sapin</VFEPD_PineTree.label>
+<VFEPD_PineTree.description>Un faux grand conifère couvert de cônes de pin épineux. Il pousse dans une forme conique distinctive.</VFEPD_PineTree.description>
+<VFEPD_BirchTree.label>bouleau</VFEPD_BirchTree.label>
+<VFEPD_BirchTree.description>Un faux arbre du biome tempéré connu pour son écorce fine, blanche, semblable à du papier.</VFEPD_BirchTree.description>
+<VFEPD_TeakTree.label>teck</VFEPD_TeakTree.label>
+<VFEPD_TeakTree.description>Un faux arbre à bois dur, exceptionnellement solide, qui pousse dans les climats chauds. Parce que le bois de teck est si durable et résistant à l'eau, il était utilisé pour former la quille des voiliers en bois dans les temps anciens.</VFEPD_TeakTree.description>
+<VFEPD_CecropiaTree.label>cecropia</VFEPD_CecropiaTree.label>
+<VFEPD_CecropiaTree.description>L'un des arbres les plus courants de la forêt tropicale. Le Cecropia pousse très vite, mais donne peu de bois utilisable.</VFEPD_CecropiaTree.description>
+<VFEPD_PalmTree.label>palmier</VFEPD_PalmTree.label>
+<VFEPD_PalmTree.description>Un faux arbre tropical avec un grand tronc nu surmonté d'une grappe de feuilles très larges. Malheureusement, cette variété ne produit pas de noix de coco comestibles.</VFEPD_PalmTree.description>
+<VFEPD_BambooTree.label>bambou</VFEPD_BambooTree.label>
+<VFEPD_BambooTree.description>Une fausse plante ressemblant à un arbre, à croissance rapide, qui pousse en bosquets denses. Le bambou peut être récolté pour obtenir un matériau semblable au bois. La plante elle-même n'est pas belle.</VFEPD_BambooTree.description>
+<VFEPD_DragoTree.label>dragonnier</VFEPD_DragoTree.label>
+<VFEPD_DragoTree.description>Un faux arbre du désert, rustique, surmonté de feuilles épaisses et pointues.</VFEPD_DragoTree.description>
+<VFEPD_SaguaroCactus.label>cactus saguaro</VFEPD_SaguaroCactus.label>
+<VFEPD_SaguaroCactus.description>Un faux grand cactus originaire des environnements terrestres arides. Bien que ce ne soit pas un arbre, il produit une petite quantité de matière fibreuse qui peut être utilisée comme du bois.</VFEPD_SaguaroCactus.description>
+<VFEPD_Agave.label>agave</VFEPD_Agave.label>
+<VFEPD_Agave.description>Une fausse plante désertique à grandes feuilles avec des fleurs et des tiges comestibles.</VFEPD_Agave.description>
+<VFEPD_PincushionCactus.label>cactus pelote-d'épingles</VFEPD_PincushionCactus.label>
+<VFEPD_PincushionCactus.description>Un faux cactus court. Il est ainsi nommé parce qu'il ressemble à une pelote à épingles.</VFEPD_PincushionCactus.description>
+<VFEPD_GrassShort.label>herbe folle</VFEPD_GrassShort.label>
+<VFEPD_GrassShort.description>Fausse herbe sauvage. Elle pousse partout où il y a un peu de lumière et un sol peu fertile.</VFEPD_GrassShort.description>
+<VFEPD_GrassLong.label>haute herbe</VFEPD_GrassLong.label>
+<VFEPD_GrassLong.description>De fausses hautes herbes sauvages. Ça ralentit toute personne qui se déplace dessus.</VFEPD_GrassLong.description>
+<VFEPD_Bush.label>buisson</VFEPD_Bush.label>
+<VFEPD_Bush.description>Un faux arbuste court. Ne parle généralement pas.</VFEPD_Bush.description>
+<VFEPD_Brambles.label>ronces</VFEPD_Brambles.label>
+<VFEPD_Brambles.description>De fausses pousses ligneuses, enchevêtrées, épineuses et couvertes de feuilles. Les ronces poussent en grappes et ralentissent toute personne qui se déplace sur elles.</VFEPD_Brambles.description>
+<VFEPD_BerryBush.label>buisson de baies</VFEPD_BerryBush.label>
+<VFEPD_BerryBush.description>Une fausse plante sauvage touffue qui donne de délicieuses baies. Les baies peuvent être cuites, mais elles sont également bonnes à manger même crues.</VFEPD_BerryBush.description>
+<VFEPD_Alocasia.label>alocasia</VFEPD_Alocasia.label>
+<VFEPD_Alocasia.description>Une fausse plante tropicale. Ses feuilles extrêmement larges sont un signe communément reconnu des forêts tropicales.</VFEPD_Alocasia.description>
+<VFEPD_Clivia.label>clivia</VFEPD_Clivia.label>
+<VFEPD_Clivia.description>Une plante inhabituelle avec de grandes et jolies fleurs. Certains l'appellent le "lys des buissons".</VFEPD_Clivia.description>
+<VFEPD_Rafflesia.label>rafflésie géante</VFEPD_Rafflesia.label>
+<VFEPD_Rafflesia.description>Une fleur géante rare que l'on trouve au fin fond des jungles fumantes. On pourrait penser qu'une fleur géante est belle, mais celle-ci ressemble et sent la chair pourrie.</VFEPD_Rafflesia.description>
+
+<VFEPD_AdvancedRotor.label>rotor avancé</VFEPD_AdvancedRotor.label>
+<VFEPD_AdvancedRotor.description>Une unité de rotor avancée.</VFEPD_AdvancedRotor.description>
+<VFEPD_Rotor.label>rotor</VFEPD_Rotor.label>
+<VFEPD_Rotor.description>Une unité de rotor.</VFEPD_Rotor.description>
+<VFEPD_Battery.label>batterie</VFEPD_Battery.label>
+<VFEPD_Battery.description>Un simple dispositif qui stocke l'énergie. Celui-ci est hors service.</VFEPD_Battery.description>
+<VFEPD_Exhaust.label>évacuation</VFEPD_Exhaust.label>
+<VFEPD_Exhaust.description>Un port d'échappement pour les fumées de l'industrialisation.</VFEPD_Exhaust.description>
+<VFEPD_SmallExhaust.label>petite évacuation</VFEPD_SmallExhaust.label>
+<VFEPD_SmallExhaust.description>Un petit port d'échappement pour les fumées de l'industrialisation.</VFEPD_SmallExhaust.description>
+<VFEPD_Generator.label>générateur</VFEPD_Generator.label>
+<VFEPD_Generator.description>Un groupe électrogène très basique.</VFEPD_Generator.description>
+<VFEPD_IndustrialGenerator.label>générateur industriel</VFEPD_IndustrialGenerator.label>
+<VFEPD_IndustrialGenerator.description>Un grand groupe électrogène industriel.</VFEPD_IndustrialGenerator.description>
+<VFEPD_GeneratorUnitLarge.label>unité de générateur</VFEPD_GeneratorUnitLarge.label>
+<VFEPD_GeneratorUnitLarge.description>Une grande partie d'un groupe de générateur industriel.</VFEPD_GeneratorUnitLarge.description>
+<VFEPD_GeneratorUnitSmall.label>petite unité de générateur</VFEPD_GeneratorUnitSmall.label>
+<VFEPD_GeneratorUnitSmall.description>Une petite partie d'un groupe de générateur industriel.</VFEPD_GeneratorUnitSmall.description>
+<VFEPD_GasStorageUnit.label>unité de stockage de gaz</VFEPD_GasStorageUnit.label>
+<VFEPD_GasStorageUnit.description>Une unité de stockage de gaz de style industriel.</VFEPD_GasStorageUnit.description>
+<VFEPD_ToxicWasteBarrel.label>conteneur de déchets toxiques</VFEPD_ToxicWasteBarrel.label>
+<VFEPD_ToxicWasteBarrel.description>Un petit conteneur de déchets toxiques.</VFEPD_ToxicWasteBarrel.description>
+<VFEPD_PowerConverter.label>convertisseur de puissance</VFEPD_PowerConverter.label>
+<VFEPD_PowerConverter.description>Une grande unité de conversion de puissance.</VFEPD_PowerConverter.description>
+<VFEPD_ChemfuelTank.label>grand réservoir de chemfuel</VFEPD_ChemfuelTank.label>
+<VFEPD_ChemfuelTank.description>Un grand réservoir rempli de carburant chimique explosif.</VFEPD_ChemfuelTank.description>
+<VFEPD_LiquidTank.label>grand réservoir de liquide</VFEPD_LiquidTank.label>
+<VFEPD_LiquidTank.description>Un grand réservoir rempli de liquide à base d'eau.</VFEPD_LiquidTank.description>
+<VFEPD_SteelTank.label>grand réservoir en acier</VFEPD_SteelTank.label>
+<VFEPD_SteelTank.description>Un grand réservoir en acier.</VFEPD_SteelTank.description>
+<VFEPD_CoalBurner.label>brûleur à charbon</VFEPD_CoalBurner.label>
+<VFEPD_CoalBurner.description>Un brûleur à charbon de style industriel.</VFEPD_CoalBurner.description>
+<VFEPD_PowerPole.label>poteau électrique</VFEPD_PowerPole.label>
+<VFEPD_PowerPole.description>Un grand poteau pour y fixer des câbles.</VFEPD_PowerPole.description>
+
+<VFEPD_DataConsole.label>console de données</VFEPD_DataConsole.label>
+<VFEPD_DataConsole.description>Une console de données avancée acceptant plusieurs types de formatage de fichiers.</VFEPD_DataConsole.description>
+<VFEPD_DataConveyor.label>convoyeur de données</VFEPD_DataConveyor.label>
+<VFEPD_DataConveyor.description>Une grande boîte contenant des câbles et des tuyaux pour le transfert de données.</VFEPD_DataConveyor.description>
+<VFEPD_DisplayScreen.label>écran disjoint</VFEPD_DisplayScreen.label>
+<VFEPD_DisplayScreen.description>Un grand écran disjoint de données.</VFEPD_DisplayScreen.description>
+<VFEPD_DisplayTable.label>table disjointe</VFEPD_DisplayTable.label>
+<VFEPD_DisplayTable.description>Un écran ddisjoint de grande taille monté sur une grande table.</VFEPD_DisplayTable.description>
+<VFEPD_LongCommandConsole.label>longue console de commande</VFEPD_LongCommandConsole.label>
+<VFEPD_LongCommandConsole.description>Une longue console avec plusieurs modules de commande différents.</VFEPD_LongCommandConsole.description>
+<VFEPD_PlanningScreen.label>écran de planification</VFEPD_PlanningScreen.label>
+<VFEPD_PlanningScreen.description>Un écran de verre, idéal pour planifier des scénarios de combat.</VFEPD_PlanningScreen.description>
+<VFEPD_PlanningTable.label>table de planification</VFEPD_PlanningTable.label>
+<VFEPD_PlanningTable.description>Un écran de planification de grande taille monté sur une grande table.</VFEPD_PlanningTable.description>
+<VFEPD_TripleDisplay.label>tableau de bord triple disjoint</VFEPD_TripleDisplay.label>
+<VFEPD_TripleDisplay.description>Un grand tableau de bord avec plusieurs écrans disjoint, pour des informations à jour sur toutes les versions du mod.</VFEPD_TripleDisplay.description>
+<VFEPD_SpacerContainer.label>conteneur spatial</VFEPD_SpacerContainer.label>
+<VFEPD_SpacerContainer.description>Une boîte de taille moyenne, triplement scellée et protégée par un mot de passe.</VFEPD_SpacerContainer.description>
+<VFEPD_SpacerContainerLarge.label>grand conteneur spatial</VFEPD_SpacerContainerLarge.label>
+<VFEPD_SpacerContainerLarge.description>Une boîte de grande taille, triplement scellée et protégée par un mot de passe.</VFEPD_SpacerContainerLarge.description>
+<VFEPD_SpacerContainerStack.label>pile de conteneurs spatiaux</VFEPD_SpacerContainerStack.label>
+<VFEPD_SpacerContainerStack.description>Une grande pile de boîtes de différentes tailles, triplement scellées et protégées par un mot de passe.</VFEPD_SpacerContainerStack.description>
+<VFEPD_SpacerStorage.label>dispositif de stockage avancé</VFEPD_SpacerStorage.label>
+<VFEPD_SpacerStorage.description>Un grand dispositif de stockage avancé à plusieurs chambres.</VFEPD_SpacerStorage.description>
+<VFEPD_SwitchPanel.label>panneau de commande</VFEPD_SwitchPanel.label>
+<VFEPD_SwitchPanel.description>Un panneau de taille moyenne contenant divers leviers et interrupteurs.</VFEPD_SwitchPanel.description>
+<VFEPD_ServerRack.label>baie de serveur</VFEPD_ServerRack.label>
+<VFEPD_ServerRack.description>Un grand rack de serveurs, contenant plusieurs disques durs et des composants informatiques avancés.</VFEPD_ServerRack.description>
+<VFEPD_SensorPlatform.label>plate-forme de capteurs</VFEPD_SensorPlatform.label>
+<VFEPD_SensorPlatform.description>Une petite plate-forme contenant une variété de capteurs.</VFEPD_SensorPlatform.description>
+<VFEPD_PersonalConsole.label>console personnelle</VFEPD_PersonalConsole.label>
+<VFEPD_PersonalConsole.description>Une petite console de communication personnelle futuriste.</VFEPD_PersonalConsole.description>
+
+<VFEPD_Superpod.label>superpod</VFEPD_Superpod.label>
+<VFEPD_Superpod.description>Une grande capsule de dépôt, hors service, à usage multiple.</VFEPD_Superpod.description>
+<VFEPD_SkipBlack.label>vaisseau noir</VFEPD_SkipBlack.label>
+<VFEPD_SkipBlack.description>Un vaisseau léger, hors service, permettant aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipBlack.description>
+<VFEPD_AlbatrossBlack.label>vaisseau armé noir</VFEPD_AlbatrossBlack.label>
+<VFEPD_AlbatrossBlack.description>Un grand vaisseau de transport multi-personnel actuellement hors service.</VFEPD_AlbatrossBlack.description>
+<VFEPD_SkipWhite.label>vaisseau blanc</VFEPD_SkipWhite.label>
+<VFEPD_SkipWhite.description>Un vaisseau léger, hors service, permettant aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipWhite.description>
+<VFEPD_AlbatrossWhite.label>vaisseau armé blanc</VFEPD_AlbatrossWhite.label>
+<VFEPD_AlbatrossWhite.description>Un grand vaisseau de transport multi-personnel actuellement hors service.</VFEPD_AlbatrossWhite.description>
+<VFEPD_SkipSilver.label>vaisseau argenté</VFEPD_SkipSilver.label>
+<VFEPD_SkipSilver.description>Un vaisseau léger, hors service, permettant aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipSilver.description>
+<VFEPD_AlbatrossSilver.label>vaisseau armé argenté</VFEPD_AlbatrossSilver.label>
+<VFEPD_AlbatrossSilver.description>Un grand vaisseau de transport multi-personnel actuellement hors service.</VFEPD_AlbatrossSilver.description>
+<VFEPD_SkipBlue.label>vaisseau bleu</VFEPD_SkipBlue.label>
+<VFEPD_SkipBlue.description>Un vaisseau léger, hors service, permettant aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipBlue.description>
+<VFEPD_AlbatrossBlue.label>vaisseau armé bleu</VFEPD_AlbatrossBlue.label>
+<VFEPD_AlbatrossBlue.description>Un grand vaisseau de transport multi-personnel actuellement hors service.</VFEPD_AlbatrossBlue.description>
+<VFEPD_SkipRed.label>vaisseau rouge</VFEPD_SkipRed.label>
+<VFEPD_SkipRed.description>Un vaisseau léger, hors service, permettant aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipRed.description>
+<VFEPD_AlbatrossRed.label>vaisseau armé rouge</VFEPD_AlbatrossRed.label>
+<VFEPD_AlbatrossRed.description>Un grand vaisseau de transport multi-personnel actuellement hors service.</VFEPD_AlbatrossRed.description>
+
+<VFEPD_CarForklift.label>chariot élévateur</VFEPD_CarForklift.label>
+<VFEPD_CarForklift.description>Un chariot élévateur de style industriel.</VFEPD_CarForklift.description>
+<VFEPD_CarDeliveryBlack.label>camion de livraison noir</VFEPD_CarDeliveryBlack.label>
+<VFEPD_CarDeliveryBlack.description>Un grand camion de livraison noir.</VFEPD_CarDeliveryBlack.description>
+<VFEPD_CarFamilyBlack.label>voiture familiale noire</VFEPD_CarFamilyBlack.label>
+<VFEPD_CarFamilyBlack.description>Une voiture familiale noire.</VFEPD_CarFamilyBlack.description>
+<VFEPD_CarPickupBlack.label>pick-up noir</VFEPD_CarPickupBlack.label>
+<VFEPD_CarPickupBlack.description>Un pick-up noir.</VFEPD_CarPickupBlack.description>
+<VFEPD_CarVintageBlack.label>voiture noire de collection</VFEPD_CarVintageBlack.label>
+<VFEPD_CarVintageBlack.description>Une voiture de collection noire.</VFEPD_CarVintageBlack.description>
+<VFEPD_CarDeliveryWhite.label>camion de livraison blanc</VFEPD_CarDeliveryWhite.label>
+<VFEPD_CarDeliveryWhite.description>Un grand camion de livraison blanc.</VFEPD_CarDeliveryWhite.description>
+<VFEPD_CarFamilyWhite.label>voiture familiale blanche</VFEPD_CarFamilyWhite.label>
+<VFEPD_CarFamilyWhite.description>Une voiture familiale blanche.</VFEPD_CarFamilyWhite.description>
+<VFEPD_CarPickupWhite.label>pick-up blanc</VFEPD_CarPickupWhite.label>
+<VFEPD_CarPickupWhite.description>Un pick-up blanc.</VFEPD_CarPickupWhite.description>
+<VFEPD_CarVintageWhite.label>voiture blanche de collection</VFEPD_CarVintageWhite.label>
+<VFEPD_CarVintageWhite.description>Une voiture de collection blanche.</VFEPD_CarVintageWhite.description>
+<VFEPD_CarDeliverySilver.label>camion de livraison argenté</VFEPD_CarDeliverySilver.label>
+<VFEPD_CarDeliverySilver.description>Un grand camion de livraison argenté.</VFEPD_CarDeliverySilver.description>
+<VFEPD_CarFamilySilver.label>voiture familiale argentée</VFEPD_CarFamilySilver.label>
+<VFEPD_CarFamilySilver.description>Une voiture familiale argentée.</VFEPD_CarFamilySilver.description>
+<VFEPD_CarPickupSilver.label>pick-up argenté</VFEPD_CarPickupSilver.label>
+<VFEPD_CarPickupSilver.description>Un pick-up argenté.</VFEPD_CarPickupSilver.description>
+<VFEPD_CarVintageSilver.label>voiture argentée de collection</VFEPD_CarVintageSilver.label>
+<VFEPD_CarVintageSilver.description>Une voiture de collection argentée.</VFEPD_CarVintageSilver.description>
+<VFEPD_CarDeliveryBlue.label>camion de livraison bleu</VFEPD_CarDeliveryBlue.label>
+<VFEPD_CarDeliveryBlue.description>Un grand camion de livraison bleu.</VFEPD_CarDeliveryBlue.description>
+<VFEPD_CarFamilyBlue.label>voiture familiale bleue</VFEPD_CarFamilyBlue.label>
+<VFEPD_CarFamilyBlue.description>Une voiture familiale bleue.</VFEPD_CarFamilyBlue.description>
+<VFEPD_CarPickupBlue.label>pick-up bleu</VFEPD_CarPickupBlue.label>
+<VFEPD_CarPickupBlue.description>Un pick-up bleu.</VFEPD_CarPickupBlue.description>
+<VFEPD_CarVintageBlue.label>voiture bleue de collection</VFEPD_CarVintageBlue.label>
+<VFEPD_CarVintageBlue.description>Une voiture de collection bleue.</VFEPD_CarVintageBlue.description>
+<VFEPD_CarDeliveryRed.label>camion de livraison rouge</VFEPD_CarDeliveryRed.label>
+<VFEPD_CarDeliveryRed.description>Un grand camion de livraison rouge.</VFEPD_CarDeliveryRed.description>
+<VFEPD_CarFamilyRed.label>voiture familiale rouge</VFEPD_CarFamilyRed.label>
+<VFEPD_CarFamilyRed.description>Une voiture familiale rouge.</VFEPD_CarFamilyRed.description>
+<VFEPD_CarPickupRed.label>pick-up rouge</VFEPD_CarPickupRed.label>
+<VFEPD_CarPickupRed.description>Un pick-up rouge.</VFEPD_CarPickupRed.description>
+<VFEPD_CarVintageRed.label>voiture rouge de collection</VFEPD_CarVintageRed.label>
+<VFEPD_CarVintageRed.description>Une voiture de collection rouge.</VFEPD_CarVintageRed.description>
+
+
+</LanguageData>

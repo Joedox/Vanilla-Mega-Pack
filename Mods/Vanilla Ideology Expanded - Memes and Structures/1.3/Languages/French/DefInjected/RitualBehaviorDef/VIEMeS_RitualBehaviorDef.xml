@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_BonfireBehaviour.roles.0.label>pompier</VME_BonfireBehaviour.roles.0.label>
+<VME_BonfireBehaviour.spectatorGerund>participe</VME_BonfireBehaviour.spectatorGerund>
+<VME_BonfireBehaviour.spectatorsLabel>Participants</VME_BonfireBehaviour.spectatorsLabel>
+
+<VME_CeremonialSuicideRitualBehaviour.roles.0.label>colon suicidaire</VME_CeremonialSuicideRitualBehaviour.roles.0.label>
+<VME_CeremonialSuicideRitualBehaviour.spectatorGerund>participe</VME_CeremonialSuicideRitualBehaviour.spectatorGerund>
+<VME_CeremonialSuicideRitualBehaviour.spectatorsLabel>Participants</VME_CeremonialSuicideRitualBehaviour.spectatorsLabel>
+
+<VME_DivineStarsRitualBehaviour.roles.0.label>astrologue</VME_DivineStarsRitualBehaviour.roles.0.label>
+<VME_DivineStarsRitualBehaviour.spectatorGerund>participe</VME_DivineStarsRitualBehaviour.spectatorGerund>
+<VME_DivineStarsRitualBehaviour.spectatorsLabel>Participants</VME_DivineStarsRitualBehaviour.spectatorsLabel>
+
+<VME_IncantationBehavior.roles.0.label>orateur</VME_IncantationBehavior.roles.0.label>
+<VME_IncantationBehavior.spectatorGerund>participe</VME_IncantationBehavior.spectatorGerund>
+<VME_IncantationBehavior.spectatorsLabel>Participants</VME_IncantationBehavior.spectatorsLabel>
+
+<VME_InsectoidHymnRitualBehaviour.roles.0.label>chanteur</VME_InsectoidHymnRitualBehaviour.roles.0.label>
+<VME_InsectoidHymnRitualBehaviour.spectatorGerund>participe</VME_InsectoidHymnRitualBehaviour.spectatorGerund>
+<VME_InsectoidHymnRitualBehaviour.spectatorsLabel>Participants</VME_InsectoidHymnRitualBehaviour.spectatorsLabel>
+
+<VME_LeaderConversionBehavior.roles.0.label>orateur</VME_LeaderConversionBehavior.roles.0.label>
+<VME_LeaderConversionBehavior.roles.1.label>converti</VME_LeaderConversionBehavior.roles.1.label>
+<VME_LeaderConversionBehavior.stages.0.failTriggers.0.desc>Le prisonnier n'est pas joignable.</VME_LeaderConversionBehavior.stages.0.failTriggers.0.desc>
+
+<VME_LeadershipChallengeRitualBehaviour.roles.0.label>orateur</VME_LeadershipChallengeRitualBehaviour.roles.0.label>
+<VME_LeadershipChallengeRitualBehaviour.roles.1.label>duelliste</VME_LeadershipChallengeRitualBehaviour.roles.1.label>
+<VME_LeadershipChallengeRitualBehaviour.roles.1.categoryLabel>duellistes</VME_LeadershipChallengeRitualBehaviour.roles.1.categoryLabel>
+<VME_LeadershipChallengeRitualBehaviour.roles.1.missingDesc>chef actuel</VME_LeadershipChallengeRitualBehaviour.roles.1.missingDesc>
+<VME_LeadershipChallengeRitualBehaviour.roles.2.label>dueliste 2</VME_LeadershipChallengeRitualBehaviour.roles.2.label>
+<VME_LeadershipChallengeRitualBehaviour.roles.2.categoryLabel>duellistes</VME_LeadershipChallengeRitualBehaviour.roles.2.categoryLabel>
+<VME_LeadershipChallengeRitualBehaviour.roles.2.missingDesc>un colon avec la plus haute compétence de mêlée</VME_LeadershipChallengeRitualBehaviour.roles.2.missingDesc>
+<VME_LeadershipChallengeRitualBehaviour.spectatorGerund>participe</VME_LeadershipChallengeRitualBehaviour.spectatorGerund>
+<VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>Spectateurs</VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>
+
+<VME_OrgyRitualBehaviour.roles.0.label>organisateur de l'orgie</VME_OrgyRitualBehaviour.roles.0.label>
+<VME_OrgyRitualBehaviour.spectatorFilter.description>Les participants doivent être des adultes consentants.</VME_OrgyRitualBehaviour.spectatorFilter.description>
+<VME_OrgyRitualBehaviour.spectatorGerund>participe</VME_OrgyRitualBehaviour.spectatorGerund>
+<VME_OrgyRitualBehaviour.spectatorsLabel>Participants</VME_OrgyRitualBehaviour.spectatorsLabel>
+
+<VME_PlagueFestivalRitualBehaviour.roles.0.label>sacrificateur</VME_PlagueFestivalRitualBehaviour.roles.0.label>
+<VME_PlagueFestivalRitualBehaviour.roles.1.label>sacrifice</VME_PlagueFestivalRitualBehaviour.roles.1.label>
+<VME_PlagueFestivalRitualBehaviour.roles.1.missingDesc>un animal dont la taille corporelle est d'au moins 0.8</VME_PlagueFestivalRitualBehaviour.roles.1.missingDesc>
+<VME_PlagueFestivalRitualBehaviour.spectatorGerund>participe</VME_PlagueFestivalRitualBehaviour.spectatorGerund>
+<VME_PlagueFestivalRitualBehaviour.spectatorsLabel>Participants</VME_PlagueFestivalRitualBehaviour.spectatorsLabel>
+<VME_PlagueFestivalRitualBehaviour.stages.0.failTriggers.0.desc>L'animal n'est pas accessible.</VME_PlagueFestivalRitualBehaviour.stages.0.failTriggers.0.desc>
+
+<VME_SlaveEmancipationBehavior.roles.0.label>orateur</VME_SlaveEmancipationBehavior.roles.0.label>
+<VME_SlaveEmancipationBehavior.roles.1.label>esclave</VME_SlaveEmancipationBehavior.roles.1.label>
+<VME_SlaveEmancipationBehavior.roles.1.categoryLabel>esclaves</VME_SlaveEmancipationBehavior.roles.1.categoryLabel>
+<VME_SlaveEmancipationBehavior.roles.1.missingDesc>esclaves</VME_SlaveEmancipationBehavior.roles.1.missingDesc>
+<VME_SlaveEmancipationBehavior.spectatorGerund>participe</VME_SlaveEmancipationBehavior.spectatorGerund>
+<VME_SlaveEmancipationBehavior.spectatorsLabel>Participants</VME_SlaveEmancipationBehavior.spectatorsLabel>
+
+<VME_TradingFairRitualBehaviour.roles.0.label>organisateur de la foire commerciale</VME_TradingFairRitualBehaviour.roles.0.label>
+<VME_TradingFairRitualBehaviour.spectatorGerund>participe</VME_TradingFairRitualBehaviour.spectatorGerund>
+<VME_TradingFairRitualBehaviour.spectatorsLabel>Participants</VME_TradingFairRitualBehaviour.spectatorsLabel>
+
+<VME_ViolentConversionRitualBehaviour.roles.0.label>inquisiteur</VME_ViolentConversionRitualBehaviour.roles.0.label>
+<VME_ViolentConversionRitualBehaviour.roles.1.label>prisonnier</VME_ViolentConversionRitualBehaviour.roles.1.label>
+<VME_ViolentConversionRitualBehaviour.roles.1.missingDesc>un prisonnier</VME_ViolentConversionRitualBehaviour.roles.1.missingDesc>
+<VME_ViolentConversionRitualBehaviour.spectatorFilter.description>Les spectateurs doivent être prêts à assister à la conversion violente.</VME_ViolentConversionRitualBehaviour.spectatorFilter.description>
+<VME_ViolentConversionRitualBehaviour.stages.0.failTriggers.0.desc>Le prisonnier n'est pas accessible.</VME_ViolentConversionRitualBehaviour.stages.0.failTriggers.0.desc>
+
+<VME_WickerManBurningBehaviour.roles.0.label>inquisiteur</VME_WickerManBurningBehaviour.roles.0.label>
+<VME_WickerManBurningBehaviour.roles.1.label>prisonnier</VME_WickerManBurningBehaviour.roles.1.label>
+<VME_WickerManBurningBehaviour.roles.1.missingDesc>un prisonnier</VME_WickerManBurningBehaviour.roles.1.missingDesc>
+<VME_WickerManBurningBehaviour.spectatorFilter.description>Les spectateurs doivent être prêts à regarder l'homme en osier brûler.</VME_WickerManBurningBehaviour.spectatorFilter.description>
+<VME_WickerManBurningBehaviour.stages.0.failTriggers.0.desc>Le prisonnier n'est pas accessible.</VME_WickerManBurningBehaviour.stages.0.failTriggers.0.desc>
+
+
+</LanguageData>

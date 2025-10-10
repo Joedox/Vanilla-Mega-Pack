@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Building +++++ -->
+<comfierThanUsual.label>Plus confortable que d'habitude</comfierThanUsual.label>
+<comfierThanUsual.description>Construire un fauteuil en cuir d'humain.</comfierThanUsual.description>
+
+<theArchitect.label>L'architecte</theArchitect.label>
+<theArchitect.description>Construire 1 000 murs.</theArchitect.description>
+
+<buildingTheSkynet.label>Construire Skynet</buildingTheSkynet.label>
+<buildingTheSkynet.description>Construire 30 mini-tourelles.</buildingTheSkynet.description>
+
+<itAintRocketScience.label>Ce n'est pas sorcier</itAintRocketScience.label>
+<itAintRocketScience.description>Construire un vaisseau spatial.</itAintRocketScience.description>
+
+		<!-- +++++ ColonistCount +++++ -->
+<iWillSurvive.label>Je vais survivre</iWillSurvive.label>
+<iWillSurvive.description>Avoir 7 colons.</iWillSurvive.description>
+
+<imStillStanding.label>Je suis toujours debout</imStillStanding.label>
+<imStillStanding.description>Avoir 12 colons.</imStillStanding.description>
+
+<imASurvivor.label>Je suis un survivant</imASurvivor.label>
+<imASurvivor.description>Avoir 18 colons.</imASurvivor.description>
+
+<aintNoStoppingUsNow.label>Rien ne nous arrêtera</aintNoStoppingUsNow.label>
+<aintNoStoppingUsNow.description>Avoir 33 colons.</aintNoStoppingUsNow.description>
+
+		<!-- +++++ DevMode +++++ -->
+<cheaterCheater.label>Tricheur, Tricheur !</cheaterCheater.label>
+<cheaterCheater.description>Activer le mode développement.</cheaterCheater.description>
+
+		<!-- +++++ Hediffs +++++ -->
+<T-800.label>T-800</T-800.label>
+<T-800.description>Avoir un colon avec les jambes, les bras, une colonne vertébrale, les oreilles et les yeux bioniques.</T-800.description>
+
+<imAPirate.label>Je suis un pirate !</imAPirate.label>
+<imAPirate.description>Installer une jambe de bois sur un colon.</imAPirate.description>
+
+<onEdge.label>Sur le fil du rasoir</onEdge.label>
+<onEdge.description>Acquérir l'immunité lorsque l'infection est à 99 %.</onEdge.description>
+
+<thatllShowHim.label>Ça lui apprendra</thatllShowHim.label>
+<thatllShowHim.description>Affamer un colon à mort.</thatllShowHim.description>
+
+		<!-- +++++ Incidents +++++ -->
+<thisIsWhereTheFunBegins.label>C'est ici que le plaisir commence</thisIsWhereTheFunBegins.label>
+<thisIsWhereTheFunBegins.description>Subir un raid pour la première fois.</thisIsWhereTheFunBegins.description>
+
+<showMustGoOn.label>Le spectacle doit continuer</showMustGoOn.label>
+<showMustGoOn.description>Demander à L'homme en noir de rejoindre votre colonie.</showMustGoOn.description>
+
+<brrr.label>Gla gla</brrr.label>
+<brrr.description>Avoir une vague de froid en hiver.</brrr.description>
+
+<phew.label>Ouf</phew.label>
+<phew.description>Avoir une vague de chaleur en été.</phew.description>
+
+<outOfTheFryingPan.label>Hors de la poêle</outOfTheFryingPan.label>
+<outOfTheFryingPan.description>Demander à un colon de développer un lien avec un cochon.</outOfTheFryingPan.description>
+
+<intoTheFire.label>Dans le feu</intoTheFire.label>
+<intoTheFire.description>Tuer un cochon avec un lien dans le feu.</intoTheFire.description>
+
+<blitzkrieg.label>Guerre éclair</blitzkrieg.label>
+<blitzkrieg.description>Détruire 5 bases de factions.</blitzkrieg.description>
+
+		<!-- +++++ Items +++++ -->
+<oneStepCloser.label>Un pas de plus</oneStepCloser.label>
+<oneStepCloser.description>Obtenir un noyau IA de personnalité.</oneStepCloser.description>
+
+<humanLeatherHat.label>Chapeau de cow-boy en cuir d'humain</humanLeatherHat.label>
+<humanLeatherHat.description>Fabriquer un chapeau de cow-boy en cuir d'humain.</humanLeatherHat.description>
+
+<midas.label>Midas</midas.label>
+<midas.description>Avoir 5 000 d'or.</midas.description>
+
+<fourtwentyblazeIt.label>4/20 Brûlez-le</fourtwentyblazeIt.label>
+<fourtwentyblazeIt.description>Obtenir 420 feuilles de smokeleaf</fourtwentyblazeIt.description>
+
+<silenceOfTheLambs.label>Le silence des agneaux</silenceOfTheLambs.label>
+<silenceOfTheLambs.description>Obtenir 100 viandes humaines.</silenceOfTheLambs.description>
+
+<theStuffOfLegends.label>Équipement légendaire</theStuffOfLegends.label>
+<theStuffOfLegends.description>Fabriquer un objet de qualité légendaire.</theStuffOfLegends.description>
+
+<futureCaveman.label>L'homme des cavernes du futur</futureCaveman.label>
+<futureCaveman.description>Fabriquer une massue en plastacier.</futureCaveman.description>
+
+		<!-- +++++ Kills +++++ -->
+<firstBlood.label>Premier sang</firstBlood.label>
+<firstBlood.description>Tuer un autre colon.</firstBlood.description>
+
+<bloodlust.label>Soif de sang</bloodlust.label>
+<bloodlust.description>Tuer un total de 100 humains.</bloodlust.description>
+
+<bloodForTheBloodGod.label>Du sang pour le Dieu du sang</bloodForTheBloodGod.label>
+<bloodForTheBloodGod.description>Tuer un total de 1 000 humains.</bloodForTheBloodGod.description>
+
+<bigGameHunter.label>Chasseur de gros gibier</bigGameHunter.label>
+<bigGameHunter.description>Chasser et tuer 20 Thrumbos.</bigGameHunter.description>
+
+<exterminator.label>Exterminateur</exterminator.label>
+<exterminator.description>Tuer 150 Insectoïdes.</exterminator.description>
+
+<dragonSlayer.label>Tueur de dragon</dragonSlayer.label>
+<dragonSlayer.description>Tuer 50 iguanes.</dragonSlayer.description>
+
+<australianRevenge.label>Vengeance australienne</australianRevenge.label>
+<australianRevenge.description>Tuer 30 émeus.</australianRevenge.description>
+
+		<!-- +++++ Livestock +++++ -->
+<threeLittlePigs.label>Les trois petits cochons</threeLittlePigs.label>
+<threeLittlePigs.description>Avoir 3 Cochons et 1 Loup des bois.</threeLittlePigs.description>
+
+<lookAtAllThoseChickens.label>Regarder tous ces poulets</lookAtAllThoseChickens.label>
+<lookAtAllThoseChickens.description>Avoir 20 oies.</lookAtAllThoseChickens.description>
+
+<sustainableFuelSource.label>Source de carburant durable</sustainableFuelSource.label>
+<sustainableFuelSource.description>Avoir 8 Boomalopes.</sustainableFuelSource.description>
+
+<muffaloRancher.label>Éleveur de muffalo</muffaloRancher.label>
+<muffaloRancher.description>Avoir 12 Muffalos.</muffaloRancher.description>
+
+<arkHalfFull.label>Arche à moitié pleine</arkHalfFull.label>
+<arkHalfFull.description>Avoir les 58 animaux du jeu de base en même temps.</arkHalfFull.description>
+
+<gentleGiant.label>Géant doux</gentleGiant.label>
+<gentleGiant.description>Apprivoiser un Thrumbo.</gentleGiant.description>
+
+		<!-- +++++ MentalBreaks +++++ -->
+<aFormalComplaint.label>Une plainte formelle</aFormalComplaint.label>
+<aFormalComplaint.description>Avoir un colon fou furieux.</aFormalComplaint.description>
+
+<callOfTheWild.label>L'appel de la nature</callOfTheWild.label>
+<callOfTheWild.description>Avoir un colon sauvage.</callOfTheWild.description>
+
+<letsStartARevolution.label>Commençons la révolution</letsStartARevolution.label>
+<letsStartARevolution.description>Avoir 5 colons dans un état mental en même temps.</letsStartARevolution.description>
+
+<fiftyShadesOfGrey.label>50 nuances de Grey</fiftyShadesOfGrey.label>
+<fiftyShadesOfGrey.description>Avoir un colon dans une rage sadique attaquer un prisonnier.</fiftyShadesOfGrey.description>
+
+		<!-- +++++ Mood +++++ -->
+<aHappyEnding.label>Fin heureuse</aHappyEnding.label>
+<aHappyEnding.description>Avoir une humeur moyenne de 90% dans votre colonie.</aHappyEnding.description>
+
+<areYouNotEntertained.label>Vous ne vous amusez pas ?</areYouNotEntertained.label>
+<areYouNotEntertained.description>Avoir une humeur moyenne de 5% dans votre colonie.</areYouNotEntertained.description>
+
+		<!-- +++++ Quests +++++ -->
+<mercenary.label>Mercenaire</mercenary.label>
+<mercenary.description>Terminer 5 quêtes.</mercenary.description>
+
+<ambassadorOfPeace.label>Ambassadeur de paix</ambassadorOfPeace.label>
+<ambassadorOfPeace.description>Terminer 3 quêtes de pourparlers de paix.</ambassadorOfPeace.description>
+
+		<!-- +++++ Records +++++ -->
+<OneShotOneKill.label>Un tir, un mort</OneShotOneKill.label>
+<OneShotOneKill.description>Avoir un colon avec 100 tirs dans la tête.</OneShotOneKill.description>
+
+<TriggerHappy.label>Gâchette facile</TriggerHappy.label>
+<TriggerHappy.description>Avoir un colon avec 2 000 coups de feu tirés.</TriggerHappy.description>
+
+<OneSolidGardner.label>Un vrai jardinier</OneSolidGardner.label>
+<OneSolidGardner.description>Avoir un colon avec 10 000 plantes semées.</OneSolidGardner.description>
+
+<LifeSentence.label>Condamnation à perpétuité</LifeSentence.label>
+<LifeSentence.description>Avoir le même prisonnier pendant 2 ans.</LifeSentence.description>
+
+<IMightNeedAShrink.label>J'ai peut-être besoin d'un psy</IMightNeedAShrink.label>
+<IMightNeedAShrink.description>Avoir un colon avec un total de 24 heures d’état mental.</IMightNeedAShrink.description>
+
+<DrDolittle.label>Dr. Dolittle</DrDolittle.label>
+<DrDolittle.description>Avoir un colon avec 50 animaux apprivoisés.</DrDolittle.description>
+
+<ProfessionalStripper.label>Strip-teaseur professionnel</ProfessionalStripper.label>
+<ProfessionalStripper.description>Avoir un colon avec 100 corps dépouillés.</ProfessionalStripper.description>
+
+<BladeRunner.label>Blade Runner</BladeRunner.label>
+<BladeRunner.description>Avoir un colon avec 50 mécanoïdes abattus.</BladeRunner.description>
+
+<ThreeStarMichelin.label>3 étoiles au Michelin</ThreeStarMichelin.label>
+<ThreeStarMichelin.description>Avoir un colon avec 10 000 repas cuisinés.</ThreeStarMichelin.description>
+
+<ScrubUp.label>Se laver les mains</ScrubUp.label>
+<ScrubUp.description>Réaliser un total de 50 opérations médicales.</ScrubUp.description>
+
+<TheRimsBrightest.label>Le plus brillant du Rim</TheRimsBrightest.label>
+<TheRimsBrightest.description>Consacrer un total de 2 ans à la recherche.</TheRimsBrightest.description>
+
+<IWishThisWasIkea.label>J'aimerais que ce soit du IKEA</IWishThisWasIkea.label>
+<IWishThisWasIkea.description>Construire ET démonter un total de 100 structures.</IWishThisWasIkea.description>
+
+<ImOnFire.label>Je suis en feu !</ImOnFire.label>
+<ImOnFire.description>Avoir un colon avec un total de 3 jours en feu.</ImOnFire.description>
+
+		<!-- +++++ Research +++++ -->
+<sticksAndStones.label>Bâtons et pierres</sticksAndStones.label>
+<sticksAndStones.description>Rechercher toutes les technologies Néolithiques.</sticksAndStones.description>
+
+<outOfTheDarkAges.label>Sortir de l'âge sombre</outOfTheDarkAges.label>
+<outOfTheDarkAges.description>Rechercher toutes les technologies Médiévales.</outOfTheDarkAges.description>
+
+<industrialRevolution.label>Révolution industrielle</industrialRevolution.label>
+<industrialRevolution.description>Recherche de toutes les technologies Industrielles.</industrialRevolution.description>
+
+<offToTheStars.label>En route vers les étoiles</offToTheStars.label>
+<offToTheStars.description>Rechercher toutes les technologies Spatiales.</offToTheStars.description>
+
+		<!-- +++++ Skills +++++ -->
+<sharpshooter.label>Tireur d'élite</sharpshooter.label>
+<sharpshooter.description>Avoir un colon qui atteint le niveau 20 en Tir.</sharpshooter.description>
+
+<mrPresident.label>M. le Président</mrPresident.label>
+<mrPresident.description>Avoir un colon qui atteint le niveau 20 en Sociabilité.</mrPresident.description>
+
+<conanTheBarbarian.label>Crom dieu barbare</conanTheBarbarian.label>
+<conanTheBarbarian.description>Avoir un colon qui atteint le niveau 20 en Mêlée.</conanTheBarbarian.description>
+
+		<!-- +++++ Time +++++ -->
+<couldBeWorse.label>Ça pourrait être pire</couldBeWorse.label>
+<couldBeWorse.description>Survivre une saison.</couldBeWorse.description>
+
+<itsAllDownhillFromHere.label>C'est tout en descente à partir d'ici</itsAllDownhillFromHere.label>
+<itsAllDownhillFromHere.description>Survivre un an.</itsAllDownhillFromHere.description>
+
+<tenHoursWoah.label>10 heures ? Woah !</tenHoursWoah.label>
+<tenHoursWoah.description>Consacrer 10 heures à jouer la colonie actuelle.</tenHoursWoah.description>
+
+<waitAMinute.label>Attendez une minute !</waitAMinute.label>
+<waitAMinute.description>Consacrer 100 heures à jouer la colonie actuelle.</waitAMinute.description>
+
+		<!-- +++++ Trade +++++ -->
+<pabloEmilioEscobarGaviria.label>Pablo Emilio Escobar Gaviria</pabloEmilioEscobarGaviria.label>
+<pabloEmilioEscobarGaviria.description>Offrir 400 Yayo à un seul négociant et en une seule transaction.</pabloEmilioEscobarGaviria.description>
+
+<wolfOfWallStreet.label>Le Loup de Wall Street</wolfOfWallStreet.label>
+<wolfOfWallStreet.description>Gagner 3 000 d'argent en une seule transaction.</wolfOfWallStreet.description>
+
+<slaverScum.label>Ordure d'esclavagiste</slaverScum.label>
+<slaverScum.description>Offrir 5 prisonniers en une seule transaction.</slaverScum.description>
+
+		<!-- +++++ Wealth +++++ -->
+<inForAPenny.label>Pour un centime</inForAPenny.label>
+<inForAPenny.description>Accumuler une richesse de colonie de 100 000.</inForAPenny.description>
+
+<inForAPound.label>Pour une pièce</inForAPound.label>
+<inForAPound.description>Accumuler une richesse de colonie de 1 000 000.</inForAPound.description>
+
+
+</LanguageData>

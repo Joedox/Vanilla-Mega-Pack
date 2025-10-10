@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEE_RoyalAddress.label>discours royal</VFEE_RoyalAddress.label>
+<VFEE_RoyalAddress.description>Prononce un discours royal depuis le trône.\nSi tout se passe bien, chaque participant possédant un titre gagnera un peu d'honneur, et l'orateur gagnera de l'honneur pour chaque participant possédant un titre.\nSi tout se passe mal, le discours fera des dégâts sociaux et l'orateur perdra de l'honneur pour chaque participant possédant un titre. Le résultat dépend de leurs capacités sociales.\nLes membres de la noblesse impériale résidant dans la région se joindront au discours et compteront comme des participants possédant un titre.</VFEE_RoyalAddress.description>
+
+<VFEE_BestowFreeholder.label>accorder : Propriétaire foncier</VFEE_BestowFreeholder.label>
+<VFEE_BestowFreeholder.description>Accorde le titre de Propriétaire foncier au colon ciblé. Ce colon reçoit 1 d'honneur.\nNe peut pas être lancé sur un colon qui est déjà Propriétaire foncier ou supérieur.\nTemps de recharge 3 jours.</VFEE_BestowFreeholder.description>
+
+<VFEE_BestowYeoman.label>accorder : Mandataire</VFEE_BestowYeoman.label>
+<VFEE_BestowYeoman.description>Accorde le titre de Mandataire au colon ciblé. Ce colon reçoit 7 d'honneur.\nNe peut pas être lancé sur un colon qui est déjà Mandataire ou supérieur.\nTemps de recharge 3 jours.</VFEE_BestowYeoman.description>
+
+<VFEE_BestowAcolyte.label>accorder : Écuyer</VFEE_BestowAcolyte.label>
+<VFEE_BestowAcolyte.description>Accorde le titre d'Écuyer / Écuyère au colon ciblé. Ce colon reçoit 13 d'honneur.\nNe peut pas être lancé sur un colon qui est déjà Écuyer / Écuyère ou supérieur.\nTemps de recharge 3 jours.</VFEE_BestowAcolyte.description>
+
+<VFEE_BestowKnight.label>accorder : Chevalier</VFEE_BestowKnight.label>
+<VFEE_BestowKnight.description>Accorde le titre de Chevalier / Chevaleresse au colon ciblé. Ce colon reçoit 21 d'honneur.\nNe peut pas être lancé sur un colon qui est déjà Chevalier / Chevaleresse ou supérieur.\nTemps de recharge 3 jours.</VFEE_BestowKnight.description>
+
+<VFEE_BestowPraetor.label>accorder : Préteur</VFEE_BestowPraetor.label>
+<VFEE_BestowPraetor.description>Accorde le titre de Préteur / Prétrice au colon ciblé. Ce colon reçoit 31 d'honneur.\nNe peut pas être lancé sur un colon qui est déjà Préteur / Prétrice ou supérieur.\nTemps de recharge 3 jours.</VFEE_BestowPraetor.description>
+
+<VFEE_BestowBaron.label>accorder : Baron</VFEE_BestowBaron.label>
+<VFEE_BestowBaron.description>Accorde le titre de Baron / Baronne au colon ciblé. Ce colon reçoit 45 d'honneur.\nNe peut pas être lancé sur un colon qui est déjà Baron / Baronne ou supérieur.\nTemps de recharge 3 jours.</VFEE_BestowBaron.description>
+
+<VFEE_BestowCount.label>accorder : Comte</VFEE_BestowCount.label>
+<VFEE_BestowCount.description>Accorde le titre de Comte / Comptesse au colon ciblé. Ce colon reçoit 45 d'honneur.\nNe peut pas être lancé sur un colon qui est déjà Comte / Comptesse ou supérieur.\nTemps de recharge 3 jours.</VFEE_BestowCount.description>
+
+
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: [PAWN_nameDef] was part of a team attempting to reverse-engineer ancient ARC components. The mysteries behind the machine’s intricate designs fascinated [PAWN_objective]. Although much of the technology was incomprehensible, [PAWN_pronoun] successfully adapted a few critical parts for modern use. -->
+<VQE_AncientEngineer01.description>{PAWN_nameDef} faisait partie d'une équipe qui tentait d'effectuer une rétro-ingénierie des anciens composants ARC. Les mystères se cachant derrière les conceptions complexes de la machine le fascinaient. Bien qu'une grande partie de la technologie soit incompréhensible, {PAWN_pronoun} a réussi à adapter quelques pièces essentielles à un usage moderne.</VQE_AncientEngineer01.description>
+<!-- EN: ancient engineer -->
+<VQE_AncientEngineer01.title>ancien ingénieur</VQE_AncientEngineer01.title>
+<!-- EN: engineer -->
+<VQE_AncientEngineer01.titleShort>ingénieur</VQE_AncientEngineer01.titleShort>
+
+<!-- EN: [PAWN_nameDef] was tasked with modernizing the control systems of ARC reactors. While [PAWN_pronoun] integrated new safety protocols, many of the core functions remained a black box. Even so, [PAWN_pronoun] managed to boost efficiency by adapting the ancient algorithms. -->
+<VQE_ControlSystemsEngineer03.description>{PAWN_nameDef} a été chargé{PAWN_gender ? : e } de moderniser les systèmes de contrôle des réacteurs ARC. Bien qu'{PAWN_pronoun} ait intégré de nouveaux protocoles de sécurité, de nombreuses fonctions essentielles sont restées dans la boîte noire. Malgré cela, {PAWN_pronoun} est parvenu{PAWN_gender ? : e } à améliorer l'efficacité en adaptant les anciens algorithmes.</VQE_ControlSystemsEngineer03.description>
+<!-- EN: control systems engineer -->
+<VQE_ControlSystemsEngineer03.title>ingénieur en systèmes de contrôle</VQE_ControlSystemsEngineer03.title>
+<!-- EN: controller -->
+<VQE_ControlSystemsEngineer03.titleShort>contrôleur</VQE_ControlSystemsEngineer03.titleShort>
+<VQE_ControlSystemsEngineer03.titleShortFemale>contrôleuse</VQE_ControlSystemsEngineer03.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent years repairing damaged ARC units in remote colonies. Despite lacking the original schematics, [PAWN_pronoun] became adept at improvising fixes. It was a dangerous job, but [PAWN_pronoun] always carried a few spare ARC components, just in case. -->
+<VQE_FieldRepairTech04.description>{PAWN_nameDef} a passé des années à réparer des unités ARC endommagées dans des colonies éloignées. Bien qu'{PAWN_pronoun} n'ait pas les schémas originaux, {PAWN_pronoun} est devenu{PAWN_gender ? : e } adepte des réparations improvisées. C'était un travail dangereux, mais {PAWN_pronoun} avait toujours sur {PAWN_objective} quelques composants ARC de rechange, au cas où.</VQE_FieldRepairTech04.description>
+<!-- EN: field repair tech -->
+<VQE_FieldRepairTech04.title>technicien en réparation sur site</VQE_FieldRepairTech04.title>
+<VQE_FieldRepairTech04.titleFemale>technicienne en réparation sur site</VQE_FieldRepairTech04.titleFemale>
+<!-- EN: repair tech -->
+<VQE_FieldRepairTech04.titleShort>technicien en réparation</VQE_FieldRepairTech04.titleShort>
+<VQE_FieldRepairTech04.titleShortFemale>technicienne en réparation</VQE_FieldRepairTech04.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] specialized in optimizing the power flow within ARC systems. By carefully calibrating the fuel rods, [PAWN_pronoun] was able to significantly extend the reactor's operational time. Despite lacking full knowledge of the ancient mechanisms, [PAWN_nameDef]'s adjustments became the industry standard. -->
+<VQE_PowerArchitect02.description>{PAWN_nameDef} s'est spécialisé{PAWN_gender ? : e } dans l'optimisation du flux d'énergie au sein des systèmes ARC. En calibrant soigneusement les crayons de combustible, {PAWN_pronoun} a pu prolonger considérablement la durée de fonctionnement du réacteur. Bien qu'{PAWN_pronoun} ne connaisse pas parfaitement les mécanismes anciens, les réglages de {PAWN_nameDef} sont devenus la norme dans l'industrie.</VQE_PowerArchitect02.description>
+<!-- EN: power architect -->
+<VQE_PowerArchitect02.title>énergéticien</VQE_PowerArchitect02.title>
+<VQE_PowerArchitect02.titleFemale>énergéticienne</VQE_PowerArchitect02.titleFemale>
+<!-- EN: architect -->
+<VQE_PowerArchitect02.titleShort>énergéticien</VQE_PowerArchitect02.titleShort>
+<VQE_PowerArchitect02.titleShortFemale>énergéticienne</VQE_PowerArchitect02.titleShortFemale>
+
+<!-- EN: As a safety inspector, [PAWN_nameDef] traveled between colonies, checking the status of ARC reactors. Although [PAWN_pronoun] could only speculate about how the core systems worked, [PAWN_pronoun] was able to identify potential failures and suggest maintenance that extended reactor lifespans. -->
+<VQE_SafetyInspector05.description>En tant qu'inspect{PAWN_gender ? eur : rice } de la sécurité, {PAWN_nameDef} voyageait entre les colonies pour vérifier l'état des réacteurs ARC. Bien qu'{PAWN_pronoun} ne puisse que spéculer sur le fonctionnement des systèmes centraux, {PAWN_pronoun} est en mesure d'identifier les défaillances potentielles et de suggérer des travaux d'entretien qui prolongent la durée de vie des réacteurs.</VQE_SafetyInspector05.description>
+<!-- EN: ARC safety inspector -->
+<VQE_SafetyInspector05.title>inspecteur de sécurité ARC</VQE_SafetyInspector05.title>
+<VQE_SafetyInspector05.titleFemale>inspectrice de sécurité ARC</VQE_SafetyInspector05.titleFemale>
+<!-- EN: inspector -->
+<VQE_SafetyInspector05.titleShort>inspecteur</VQE_SafetyInspector05.titleShort>
+<VQE_SafetyInspector05.titleShortFemale>inspectrice</VQE_SafetyInspector05.titleShortFemale>
+
+<!-- EN: As a child, [PAWN_nameDef] was never content with toys or simple amusements. [PAWN_pronoun] found joy in taking apart old machines and scraps salvaged from the colony’s scrapyard. While the other children played, [PAWN_nameDef] could be found elbows-deep in a broken generator or defunct mining drone, trying to understand what made it tick. The adults often saw this as a nuisance, especially when [PAWN_pronoun] "borrowed" essential equipment for experiments. But those who looked closer saw a spark of genius. -->
+<VQE_ChildhoodInventorGenetron.description>Enfant, {PAWN_nameDef} ne s'est jamais contenté{PAWN_gender ? : e } de jouets ou d'amusements simples. {PAWN_pronoun} trouvait sa joie dans le démontage de vieilles machines et de pièces récupérées dans la casse de la colonie. Pendant que les autres enfants jouaient, on pouvait trouver {PAWN_nameDef} les coudes plongés dans un générateur en panne ou un drone minier hors d'usage, essayant de comprendre ce qui le faisait fonctionner. Les adultes considéraient souvent cela comme une nuisance, surtout lorsqu'{PAWN_pronoun} "empruntait" des équipements essentiels pour ses expériences. Mais ceux qui y regardaient de plus près y voyaient une étincelle de génie.</VQE_ChildhoodInventorGenetron.description>
+<!-- EN: curious tinkerer -->
+<VQE_ChildhoodInventorGenetron.title>bricoleur curieux</VQE_ChildhoodInventorGenetron.title>
+<VQE_ChildhoodInventorGenetron.titleFemale>bricoleuse curieuse</VQE_ChildhoodInventorGenetron.titleFemale>
+<!-- EN: tinkerer -->
+<VQE_ChildhoodInventorGenetron.titleShort>bricoleur</VQE_ChildhoodInventorGenetron.titleShort>
+<VQE_ChildhoodInventorGenetron.titleShortFemale>bricoleuse</VQE_ChildhoodInventorGenetron.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] became a legend among engineers as the inventor of the ARC, a groundbreaking power generator that changed the fate of entire colonies. Driven by a relentless desire to solve the energy shortages crippling the outer rim, [PAWN_pronoun] pushed the boundaries of safe experimentation. The first prototypes were rushed, leading to tragic accidents that claimed many lives. Though these failures weighed heavily on [PAWN_objective], they fueled [PAWN_possessive] determination. After countless trials, [PAWN_nameDef] finally succeeded, cementing [PAWN_possessive] legacy as a hero to some, and a reckless maverick to others. -->
+<VQE_InventorGenetronAdulthood.description>{PAWN_nameDef} est devenu{PAWN_gender ? : e } une légende parmi les ingénieurs en tant qu'invent{PAWN_gender ? eur : rice } de l'ARC, un générateur d'énergie révolutionnaire qui a changé le destin de colonies entières. Animé{PAWN_gender ? : e } par le désir inlassable de résoudre les problèmes de pénurie d'énergie qui paralysent la Bordure, {PAWN_pronoun} a repoussé les limites de la sécurité en matière d'expérimentation. Les premiers prototypes ont été mis au point à la hâte, ce qui a entraîné des accidents tragiques qui ont coûté la vie à de nombreuses personnes. Bien que ces échecs lui pèsaient lourdement, ils alimentaient sa détermination. Après d'innombrables essais, {PAWN_nameDef} a finalement réussi, consolidant son héritage de héros pour certains, et de franc-tireur téméraire pour d'autres.</VQE_InventorGenetronAdulthood.description>
+<!-- EN: inventor of the ARC -->
+<VQE_InventorGenetronAdulthood.title>inventeur de l'ARC</VQE_InventorGenetronAdulthood.title>
+<VQE_InventorGenetronAdulthood.titleFemale>inventrice de l'ARC</VQE_InventorGenetronAdulthood.titleFemale>
+<!-- EN: inventor -->
+<VQE_InventorGenetronAdulthood.titleShort>inventeur</VQE_InventorGenetronAdulthood.titleShort>
+<VQE_InventorGenetronAdulthood.titleShortFemale>inventrice</VQE_InventorGenetronAdulthood.titleShortFemale>
+
+
+</LanguageData>

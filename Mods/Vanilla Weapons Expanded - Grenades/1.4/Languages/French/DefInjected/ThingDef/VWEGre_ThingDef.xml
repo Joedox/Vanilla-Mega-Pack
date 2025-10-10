@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_Apparel_GrenadeFragBelt.label>ceinture grenades à fragmentation</VWE_Apparel_GrenadeFragBelt.label>
+<VWE_Apparel_GrenadeFragBelt.description>Attachées à la ceinture, ces grenades à fragmentation de la vieille école peuvent être lancées sur une courte distance, à l’explosion, elles endommagent tout et tous ceux qui se trouvent à proximité.\n\nPeut-être rechargées avec une grenade à fragmentation.</VWE_Apparel_GrenadeFragBelt.description>
+<VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>fragmentation</VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>
+<VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>lancer une grenade à fragmentation</VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>
+<VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.cooldownGerund>
+
+<VWE_Apparel_GrenadeMolotovBelt.label>ceinture cocktail Molotov</VWE_Apparel_GrenadeMolotovBelt.label>
+<VWE_Apparel_GrenadeMolotovBelt.description>Attachées à la ceinture, ces bouteilles en verre remplies de liquide inflammable, avec un tissu brûlant dans le goulot et une arme favorite des hooligans et des guerriers désespérés d'un bout à l'autre du pays. Elles peuvent être lancées sur une courte distance, à l’explosion, endommagent tout ce qui se trouve à proximité et mettent le feu au liquide inflammable.\n\nPeut-être rechargées avec un cocktail Molotov.</VWE_Apparel_GrenadeMolotovBelt.description>
+<VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>cocktail Molotov</VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>
+<VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>lancer un cocktail Molotov</VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>
+<VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.cooldownGerund>
+
+<VWE_Apparel_GrenadeEMPBelt.label>ceinture grenades IEM</VWE_Apparel_GrenadeEMPBelt.label>
+<VWE_Apparel_GrenadeEMPBelt.description>Attachées à la ceinture, ces grenades à impulsion électromagnétique peuvent être lancées sur une courte distance, à l’explosion, elles désactivent tout équipement électronique pendant une courte durée.\n\nPeut-être rechargées avec une grenade IEM.</VWE_Apparel_GrenadeEMPBelt.description>
+<VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>IEM</VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>
+<VWE_Apparel_GrenadeEMPBelt.verbs.throw_EMP_grenade.label>lancer une grenade IEM</VWE_Apparel_GrenadeEMPBelt.verbs.throw_EMP_grenade.label>
+<VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.cooldownGerund>
+
+<VWE_Apparel_GrenadeToxicBelt.label>ceinture grenades toxique</VWE_Apparel_GrenadeToxicBelt.label>
+<VWE_Apparel_GrenadeToxicBelt.description>Attachées à la ceinture, ces cartouches de gaz mortel actionnées par une charge, provoquent une forte accumulation de substances toxiques sur une très courte période.\n\nPeut-être rechargées avec une grenade toxique.</VWE_Apparel_GrenadeToxicBelt.description>
+<VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.chargeNoun>gaz</VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.chargeNoun>
+<VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.cooldownGerund>
+<VWE_Apparel_GrenadeToxicBelt.verbs.throw_tox_grenade.label>lancer une grenade toxique</VWE_Apparel_GrenadeToxicBelt.verbs.throw_tox_grenade.label>
+
+
+</LanguageData>

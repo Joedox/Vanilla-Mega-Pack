@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWEB_Warbolter.label>warbolter</VWEB_Warbolter.label>
+<VWEB_Warbolter.description>Variante réduite d'une tourelle de missiles essaim montée sur un châssis de fusil, le warbolter tire des missiles semi-précis à moyenne portée avec la cadence de tir d'une mitrailleuse. En raison du recul très important causé par les missiles quittant le canon, il ne peut être tiré qu'en courtes rafales.\n\nL'arme est également équipée d'un brûleur à bioferrite qui génère un jet de flammes très fin à partir d'une charge de bioferrite sous pression. Grâce au jet fin du brûleur, le jet peut être tiré sur de très longues distances. Le brûleur doit être rechargé après chaque utilisation.</VWEB_Warbolter.description>
+<VWEB_Warbolter.comps.CompEquippableAbilityReloadable.chargeNoun>charge de brûleur</VWEB_Warbolter.comps.CompEquippableAbilityReloadable.chargeNoun>
+<VWEB_Warbolter.comps.CompEquippableAbilityReloadable.cooldownGerund>en recharge</VWEB_Warbolter.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<VWEB_Warbolter.tools.stock.label>crosse</VWEB_Warbolter.tools.stock.label>
+<VWEB_Warbolter.tools.barrel.label>canon</VWEB_Warbolter.tools.barrel.label>
+<VWEB_Warbolter.verbs.Verb_Shoot.label>warbolter</VWEB_Warbolter.verbs.Verb_Shoot.label>
+
+<VWEB_Rocket.label>roquette</VWEB_Rocket.label>
+
+<VFEP_Box_Warbolter.label>warbolter</VFEP_Box_Warbolter.label>
+<VFEP_Box_Warbolter.description>Variante réduite d'une tourelle de missiles essaim montée sur un châssis de fusil, le warbolter tire des missiles semi-précis à moyenne portée avec la cadence de tir d'une mitrailleuse. En raison du recul très important causé par les missiles quittant le canon, il ne peut être tiré qu'en courtes rafales.\n\nL'arme est également équipée d'un brûleur à bioferrite qui génère un jet de flammes très fin à partir d'une charge de bioferrite sous pression. Grâce au jet fin du brûleur, le jet peut être tiré sur de très longues distances. Le brûleur doit être rechargé après chaque utilisation.</VFEP_Box_Warbolter.description>
+
+
+</LanguageData>

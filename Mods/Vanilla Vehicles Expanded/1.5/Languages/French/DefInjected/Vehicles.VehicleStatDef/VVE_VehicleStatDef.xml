@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<AccelerationRate.label>Taux d'accélération</AccelerationRate.label>
+<AccelerationRate.description>Le taux d'accélération de la voiture, en cases par seconde. Un taux plus élevé signifie que le véhicule atteindra plus rapidement sa vitesse maximum. Cela affecte également le taux de décélération, qui est le double du taux d'accélération.</AccelerationRate.description>
+<AccelerationRate.formatString>{0} c/s²</AccelerationRate.formatString>
+
+
+</LanguageData>

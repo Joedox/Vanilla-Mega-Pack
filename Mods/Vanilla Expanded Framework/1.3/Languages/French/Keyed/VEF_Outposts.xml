@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Outposts.Settings.Title>Vanilla Outposts Expanded</Outposts.Settings.Title>
+<Outposts.Settings.Multiplier.Production>Multiplicateur de production de l'avant-poste : {0}</Outposts.Settings.Multiplier.Production>
+<Outposts.Settings.Multiplier.Time>Multiplicateur de temps de l'avant-poste : {0}</Outposts.Settings.Multiplier.Time>
+	<Outposts.Settings.RaidDifficulty>Multiplicateur de difficulté global des raid : {0}</Outposts.Settings.RaidDifficulty>
+	<Outposts.Settings.RaidFrequency>Plage de fréquence des raids</Outposts.Settings.RaidFrequency>
+<Outposts.Dialog.Create>Créer</Outposts.Dialog.Create>
+<Outposts.Commands.Create.Label>Créer un avant-poste</Outposts.Commands.Create.Label>
+<Outposts.Commands.Create.Desc>Créer un nouvel avant-poste en utilisant cette caravane.</Outposts.Commands.Create.Desc>
+<Outposts.Commands.TakeItems.Label>Prendre objet</Outposts.Commands.TakeItems.Label>
+<Outposts.Commands.TakeItems.Desc>Prendre les objets dans {0} et les ajouter à la caravane</Outposts.Commands.TakeItems.Desc>
+	<Outposts.Commands.GiveItems.Label>Donner objet</Outposts.Commands.GiveItems.Label>
+    <Outposts.Commands.GiveItems.Desc>Prendre des objets de {0} et les ajouter à l'avant-poste</Outposts.Commands.GiveItems.Desc>
+<Outposts.Letters.Lost.Label>Avant-poste perdu</Outposts.Letters.Lost.Label>
+<Outposts.Letters.Lost.Text>Malheureusement, en raison de la mort de tous les colons, nous avons perdu l'avant-poste {0}.</Outposts.Letters.Lost.Text>
+<Outposts.Letters.BattleWon.Label>Victoire de l'avant-poste</Outposts.Letters.BattleWon.Label>
+<Outposts.Letters.BattleWon.Text>Nous avons gagné avec succès la bataille pour {0}. {1}</Outposts.Letters.BattleWon.Text>
+	<Outposts.Letters.BattleWon.Captured>Nous avons réussi à capturer {0} dans la foulée</Outposts.Letters.BattleWon.Captured> <!-- We have managed to capture {0} in the aftermath -->
+	<Outposts.Letters.BattleWon.Rescued>Nous avons réussi à récupérer le corps de {0}</Outposts.Letters.BattleWon.Rescued>
+	<Outposts.Letters.BattleWon.Secured>Nous avons récupéré pour {0} de biens et d'armes des pilleurs.</Outposts.Letters.BattleWon.Secured> <!-- We have secured: {0} worth of goods and weapons from the raiders -->
+<Outposts.Letters.Items.Label>Livraison de {0}</Outposts.Letters.Items.Label>
+<Outposts.Letters.Items.Text>Vous avez reçu les objets suivants de l'avant-poste {0} :</Outposts.Letters.Items.Text>
+<Outposts.Commands.AddPawn.Label>Ajouter un colon</Outposts.Commands.AddPawn.Label>
+<Outposts.Commands.AddPawn.Desc>Transférer un colon de cette caravane à l'avant-poste.</Outposts.Commands.AddPawn.Desc>
+	<Outposts.Commands.DeliveryColony.Label>Destination de livraison</Outposts.Commands.DeliveryColony.Label>
+    <Outposts.Commands.DeliveryColony.Desc>Sélectionner la colonie qui recevra les biens. Actuellement : {0}</Outposts.Commands.DeliveryColony.Desc>
+<Outposts.Commands.Pack.Label>Démonter avant-poste</Outposts.Commands.Pack.Label>
+<Outposts.Commands.Pack.Desc>Commencer à replier cet avant-poste dans une caravane.</Outposts.Commands.Pack.Desc>
+<Outposts.Commands.StopPack.Label>Annuler le démontage</Outposts.Commands.StopPack.Label>
+<Outposts.Commands.StopPack.Desc>Annuler le démantèlement de cet avant-poste dans une caravane.</Outposts.Commands.StopPack.Desc>
+<Outposts.Commands.Remove.Label>Retirer un colon</Outposts.Commands.Remove.Label>
+<Outposts.Commands.Remove.Desc>Retirer un colon de cet avant-poste dans une nouvelle caravane.</Outposts.Commands.Remove.Desc>
+<Outposts.Command.Remove.Only1>Impossible de retirer le colon : Seulement 1 habitant. Si vous voulez supprimer cet avant-poste, sélectionner "Démonter avant-poste"</Outposts.Command.Remove.Only1>
+<Outposts.Contains>Contient {0} colon{0_multiple ? s : }</Outposts.Contains>
+<Outposts.Packing>Démonter dans une caravane. Terminé dans {0}</Outposts.Packing>
+<Outposts.NotSkilledEnough>Colons non qualifiés, nécessite la compétence {0} d'au moins {1}</Outposts.NotSkilledEnough>
+<Outposts.RestingAt>Repos à l'avant-poste {0}</Outposts.RestingAt>
+<Outposts.WillProduce.0>Produira certains articles dans {0}</Outposts.WillProduce.0>
+<Outposts.WillProduce.1>Produira {0} {1} dans {2}</Outposts.WillProduce.1>
+<Outposts.WillProduce.2>Produira {0} {1} et {2} {3} dans {4}</Outposts.WillProduce.2>
+<Outposts.WillProduce.N>Produira ce qui suit dans {0}:\n{1}</Outposts.WillProduce.N>
+<Outposts.CannotBeMade>Impossible à construire dans {0}</Outposts.CannotBeMade>
+<Outposts.NotEnoughPawns>Pas assez de colons dans la caravane, il en faut au moins {0}</Outposts.NotEnoughPawns>
+<Outposts.TotalSkill>Cumul de la compétence {0} : {1}</Outposts.TotalSkill>
+<Outposts.TooClose>Trop proche d'une colonie ou d'un avant-poste</Outposts.TooClose>
+<Outposts.AddedFromTransportPods>Votre capsule de transport est arrivée. {0} a rejoint {1}.</Outposts.AddedFromTransportPods>
+<Outposts.AddTo>Ajouter à l'avant-poste</Outposts.AddTo>
+<Outposts.SendNonPawns>Confirmez-vous l'envoi d'objets à l'avant-poste ? Ils seront définitivement perdus.</Outposts.SendNonPawns>
+<Outposts.AlreadyPacking>Je fais déjà mes bagages</Outposts.AlreadyPacking>
+<Outposts.Settings.DeliveryMethod>Méthode de livraison des avants-postes</Outposts.Settings.DeliveryMethod>
+<Outposts.Settings.DeliveryMethod.Teleport>Téléporter les objets vers la colonie</Outposts.Settings.DeliveryMethod.Teleport>
+<Outposts.Settings.DeliveryMethod.PackAnimal>Bête de somme transportant les objets vers la colonie</Outposts.Settings.DeliveryMethod.PackAnimal>
+<Outposts.Settings.DeliveryMethod.Store>Stocker les objets à l'avant-poste</Outposts.Settings.DeliveryMethod.Store>
+<Outposts.Settings.DeliveryMethod.ForcePods>Envoyer des capsules de transport vers la colonie</Outposts.Settings.DeliveryMethod.ForcePods>
+<Outposts.Settings.DeliveryMethod.PackOrPods>Capsules de transport si disponible, sinon bête de somme</Outposts.Settings.DeliveryMethod.PackOrPods>
+<Outposts.Abandoned>Avant-poste abandonné</Outposts.Abandoned>
+<Outposts.Abandoned.Desc>{0} a été abandonné parce qu'il n'y avait personne à l'intérieur pour le faire fonctionner. Il sera très rapidement pillé et envahi par la nature, ne laissant aucune trace de son existence.</Outposts.Abandoned.Desc>
+<Outposts.Take>Prendre</Outposts.Take>
+<Outposts.Give>Donner</Outposts.Give>
+<Outposts.AllowedBiomes>Doit se trouver dans un biome :</Outposts.AllowedBiomes>
+<Outposts.DisallowedBiomes>Impossible dans les biomes :</Outposts.DisallowedBiomes>
+<Outposts.NumPawns>Doit avoir au moins {0} colons</Outposts.NumPawns>
+<Outposts.RequiredSkill>Le cumul de la compétence {0} doit être d'au moins {1}</Outposts.RequiredSkill>
+<Outposts.GrowingRequired>Doit pouvoir cultiver des plantes</Outposts.GrowingRequired>
+<Outposts.MustHaveInCaravan>La caravane doit posséder {0}</Outposts.MustHaveInCaravan>
+<Outposts.NoValidPawns>Aucun colon valide à ajouter à l'avant-poste</Outposts.NoValidPawns>
+<Outposts.SkillChange>En raison d’un changement de niveau de compétence, {0} ne peut plus produire {1}</Outposts.SkillChange>
+<Outposts.Setting.ProductionTime>Temps de production </Outposts.Setting.ProductionTime>
+<Outposts.Setting.PackTime>Temps de préparation </Outposts.Setting.PackTime>  <!-- EN: Pack Time-->
+<Outposts.Setting.Range>Portée </Outposts.Setting.Range>
+<Outposts.Setting.MinimumPawns>Colon minimum pour créer l'avant-poste </Outposts.Setting.MinimumPawns>  <!-- EN: Minimum Pawns to Create-->
+<Outposts.Settings.Production>Multiplicateur de production </Outposts.Settings.Production>
+<Outposts.Settings.DoRaids>Activer les raids d'avant-postes ?</Outposts.Settings.DoRaids>
+</LanguageData>

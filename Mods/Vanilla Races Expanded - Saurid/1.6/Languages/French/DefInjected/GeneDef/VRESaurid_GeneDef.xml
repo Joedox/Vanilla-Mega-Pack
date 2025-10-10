@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: center-frill -->
+<VRESaurids_CenterFrill.label>collerette centrale</VRESaurids_CenterFrill.label>
+<!-- EN: Carriers of this gene grow a lizard-like frill protruding from the top of their head. -->
+<VRESaurids_CenterFrill.description>Les porteurs de ce gène ont une collerette sur leur tête qui ressemble à celle des lézards.</VRESaurids_CenterFrill.description>
+<!-- EN: frill -->
+<VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>collerette</VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: iguana -->
+<VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>iguane</VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: lizard -->
+<VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>lézard</VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: spine -->
+<VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>dos</VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: reptile -->
+<VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>reptile</VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>
+<!-- EN: spike -->
+<VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>pointe</VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: lance -->
+<VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>lance</VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: frill -->
+<VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>collerette</VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: saurus -->
+<VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>saurus</VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>
+
+<!-- EN: frilled ears -->
+<VRESaurids_FrilledEars.label>oreilles à collerette</VRESaurids_FrilledEars.label>
+<!-- EN: Carriers of this gene have lizard-like frilled ears. -->
+<VRESaurids_FrilledEars.description>Les porteurs de ce gène ont des oreilles à collerette semblables à celles des lézards.</VRESaurids_FrilledEars.description>
+<!-- EN: frill -->
+<VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>collerette</VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: iguana -->
+<VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>iguane</VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: lizard -->
+<VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>lézard</VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: spine -->
+<VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>dos</VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: reptile -->
+<VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>reptile</VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>
+<!-- EN: spike -->
+<VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>pointe</VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: lance -->
+<VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>lance</VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: frill -->
+<VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>collerette</VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: saurus -->
+<VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>saurus</VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>
+
+<!-- EN: gecko tail -->
+<VRESaurids_GeckoTail.label>queue de gecko</VRESaurids_GeckoTail.label>
+<!-- EN: Carriers of this gene grow a short, scaly tail that has no function what-so-ever. -->
+<VRESaurids_GeckoTail.description>Les porteurs de ce gène ont une queue courte et écailleuse qui n'a aucune fonction.</VRESaurids_GeckoTail.description>
+
+
+<!-- EN: saurid claws -->
+<VRESaurids_SauridClaws.label>griffes de saurides</VRESaurids_SauridClaws.label>
+<!-- EN: Carriers of this gene have hands that partially resemble dinosaur claws. This has a slight impact on their ability to manipulate objects, but allows them to deal deep cuts in melee combat. -->
+<VRESaurids_SauridClaws.description>Les porteurs de ce gène ont des mains qui ressemblent partiellement à des griffes de dinosaures. Cela a un léger impact sur leur capacité à manipuler les objets, mais leur permet d'infliger des blessures profondes en combat rapproché.</VRESaurids_SauridClaws.description>
+<!-- EN: Causes cuts when using unarmed attacks. -->
+<VRESaurids_SauridClaws.customEffectDescriptions.0>Provoque des coupures lors des attaques à mains nues.</VRESaurids_SauridClaws.customEffectDescriptions.0>
+<!-- EN: saurid -->
+<VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>sauride</VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: raptor -->
+<VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>raptor</VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: claw -->
+<VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>griffe</VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: predator -->
+<VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>prédateur</VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: hook -->
+<VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>crochet</VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>
+<!-- EN: reptile -->
+<VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>reptile</VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>
+<!-- EN: claw -->
+<VRESaurids_SauridClaws.symbolPack.suffixSymbols.0.symbol>griffe</VRESaurids_SauridClaws.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: sharp -->
+<VRESaurids_SauridClaws.symbolPack.suffixSymbols.1.symbol>pointu</VRESaurids_SauridClaws.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: hook -->
+<VRESaurids_SauridClaws.symbolPack.suffixSymbols.2.symbol>crochet</VRESaurids_SauridClaws.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: predator -->
+<VRESaurids_SauridClaws.symbolPack.suffixSymbols.3.symbol>prédateur</VRESaurids_SauridClaws.symbolPack.suffixSymbols.3.symbol>
+<!-- EN: raptor -->
+<VRESaurids_SauridClaws.symbolPack.suffixSymbols.4.symbol>raptor</VRESaurids_SauridClaws.symbolPack.suffixSymbols.4.symbol>
+<!-- EN: reptile -->
+<VRESaurids_SauridClaws.symbolPack.suffixSymbols.5.symbol>reptile</VRESaurids_SauridClaws.symbolPack.suffixSymbols.5.symbol>
+<!-- EN: saurus -->
+<VRESaurids_SauridClaws.symbolPack.suffixSymbols.6.symbol>saurus</VRESaurids_SauridClaws.symbolPack.suffixSymbols.6.symbol>
+<!-- EN: claws -->
+<VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>griffes</VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>
+
+
+<!-- EN: cold-blooded -->
+<VRESaurids_ColdBlooded.label>ectotherme</VRESaurids_ColdBlooded.label>
+<!-- EN: Carriers of this gene need to maintain a steady body temperature. Being too hot or too cold will result in loss of motor functions, and if unchecked too long - death. -->
+<VRESaurids_ColdBlooded.description>Les porteurs de ce gène (ou sang froid) doivent maintenir une température corporelle constante. Une température trop élevée ou trop basse entraîne une perte des fonctions motrices et si elle n'est pas maîtrisée pendant un certain temps, cela entraîne la mort.</VRESaurids_ColdBlooded.description>
+<!-- EN: Suffers from a much more drastic version of hypothermia/hyperthermia where capacities quickly decrease till death. -->
+<VRESaurids_ColdBlooded.customEffectDescriptions.0>Souffre d'une version beaucoup plus sévère de l'hypothermie/hyperthermie où les capacités diminuent rapidement jusqu'à la mort.</VRESaurids_ColdBlooded.customEffectDescriptions.0>
+<!-- EN: thermo -->
+<VRESaurids_ColdBlooded.symbolPack.prefixSymbols.0.symbol>thermo</VRESaurids_ColdBlooded.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: lizard -->
+<VRESaurids_ColdBlooded.symbolPack.suffixSymbols.0.symbol>lézard</VRESaurids_ColdBlooded.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: cold-blooded -->
+<VRESaurids_ColdBlooded.symbolPack.wholeNameSymbols.0.symbol>sang froid</VRESaurids_ColdBlooded.symbolPack.wholeNameSymbols.0.symbol>
+
+<!-- EN: oviparous -->
+<VRESaurids_Oviparous.label>ovipare</VRESaurids_Oviparous.label>
+<!-- EN: Carriers of this gene lay eggs instead of giving live birth. Eggs need time and correct conditions to hatch.\n		 -->
+<VRESaurids_Oviparous.description>Les porteurs de ce gène pondent des œufs au lieu de donner naissance à des bébés. Les œufs ont besoin de temps et de conditions favorables pour éclore.\n		</VRESaurids_Oviparous.description>
+<!-- EN: Lays eggs instead of pregnancy and live birth. -->
+<VRESaurids_Oviparous.customEffectDescriptions.0>Ponte des œufs au lieu d'une grossesse et d'un accouchement.</VRESaurids_Oviparous.customEffectDescriptions.0>
+<!-- EN: Laying eggs makes the pawn temporarily infertile. -->
+<VRESaurids_Oviparous.customEffectDescriptions.1>La ponte des œufs rend le colon temporairement stérile.</VRESaurids_Oviparous.customEffectDescriptions.1>
+<!-- EN: egg -->
+<VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>œuf</VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: bud -->
+<VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>bud</VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: roe -->
+<VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>roe</VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: layer -->
+<VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>layer</VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: parous -->
+<VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>parous</VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: egglayer -->
+<VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>egglayer</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>
+<!-- EN: oviparous -->
+<VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>ovipare</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>
+<!-- EN: egger -->
+<VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>egger</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>
+<!-- EN: hatcher -->
+<VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>hatcher</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>
+
+<!-- EN: pheromones -->
+<VRESaurids_Pheromones.label>phéromones</VRESaurids_Pheromones.label>
+<!-- EN: Carriers of this gene excrete special pheromones that attract members of the same xenotype. -->
+<VRESaurids_Pheromones.description>Les porteurs de ce gène sécrètent des phéromones spéciales qui attirent les membres du même xénotype.</VRESaurids_Pheromones.description>
+<!-- EN: Improved relations with any pawn of the same xenotype. -->
+<VRESaurids_Pheromones.customEffectDescriptions.0>Amélioration des relations avec tout colon du même xénotype.</VRESaurids_Pheromones.customEffectDescriptions.0>
+
+
+<!-- EN: scaleskin -->
+<VRESaurids_ScaleSkin.label>peau d'écailles</VRESaurids_ScaleSkin.label>
+<!-- EN: Carriers of this gene grow scales all over their body, which protect them from sharp damage of any kind. -->
+<VRESaurids_ScaleSkin.description>Les porteurs de ce gène font pousser des écailles sur tout leur corps, ce qui les protège des dégâts tranchants de toute sorte.</VRESaurids_ScaleSkin.description>
+<!-- EN: scaleskinned -->
+<VRESaurids_ScaleSkin.labelShortAdj>peau d'écailles</VRESaurids_ScaleSkin.labelShortAdj>
+
+
+<!-- EN: lizard voice -->
+<VRESaurids_LizardVoice.label>voix de lézard</VRESaurids_LizardVoice.label>
+<!-- EN: Carriers have a terrifying voice like that of a dinosaur. -->
+<VRESaurids_LizardVoice.description>Les porteurs de ce gène ont une voix terrifiante comme celle d'un dinosaure.</VRESaurids_LizardVoice.description>
+<!-- EN: dino -->
+<VRESaurids_LizardVoice.symbolPack.prefixSymbols.0.symbol>dino</VRESaurids_LizardVoice.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: lizard -->
+<VRESaurids_LizardVoice.symbolPack.prefixSymbols.1.symbol>lézard</VRESaurids_LizardVoice.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: raptor -->
+<VRESaurids_LizardVoice.symbolPack.prefixSymbols.2.symbol>raptor</VRESaurids_LizardVoice.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: reptile -->
+<VRESaurids_LizardVoice.symbolPack.prefixSymbols.3.symbol>reptile</VRESaurids_LizardVoice.symbolPack.prefixSymbols.3.symbol>
+<!-- EN: saur -->
+<VRESaurids_LizardVoice.symbolPack.suffixSymbols.0.symbol>saur</VRESaurids_LizardVoice.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: saurid -->
+<VRESaurids_LizardVoice.symbolPack.suffixSymbols.1.symbol>sauride</VRESaurids_LizardVoice.symbolPack.suffixSymbols.1.symbol>
+<!-- EN: saurus -->
+<VRESaurids_LizardVoice.symbolPack.suffixSymbols.2.symbol>saurus</VRESaurids_LizardVoice.symbolPack.suffixSymbols.2.symbol>
+<!-- EN: screamer -->
+<VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.0.symbol>hurleur</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.0.symbol>
+<!-- EN: screecher -->
+<VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.1.symbol>crieur</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.1.symbol>
+<!-- EN: raptor -->
+<VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.2.symbol>raptor</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.2.symbol>
+<!-- EN: reptile -->
+<VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.3.symbol>reptile</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.3.symbol>
+
+
+</LanguageData>

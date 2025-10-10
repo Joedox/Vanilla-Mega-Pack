@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguagData>
+<VPE.MustTargetBattery>La cible doit être une batterie.</VPE.MustTargetBattery>
+<VPE.StopHurricane>Arrêt de l'ouragan</VPE.StopHurricane>
+<VPE.NoChunks>Aucun morceau à proximité</VPE.NoChunks>
+<VPE.MustHaveLivingFamilyMembers>{PAWN_nameDef} doit avoir des membres vivants de sa famille.</VPE.MustHaveLivingFamilyMembers>
+    <VPE.ThingsOfLevel>{0} things at level {1}</VPE.ThingsOfLevel>
+<VPE.TooCheap>Valeur insuffisante, doit avoir une valeur d'au moins 1€ par article.</VPE.TooCheap>
+<VPE_BreakLink>Rompre le lien</VPE_BreakLink>
+<VPE_BreakLinkDesc>Rompre le lien et tuer immédiatement ce construteur.</VPE_BreakLinkDesc>
+<VPE.PsySetNext>PsySet suivant</VPE.PsySetNext>
+<VPE.PsySetPrev>PsySet précédent</VPE.PsySetPrev>
+    <VPE.Nearby>Nearby</VPE.Nearby>
+    <VPE.WealthNearby>{0} wealth nearby out of {1} total wealth</VPE.WealthNearby>
+    <VPE.GroupFocus>{0} other pawns nearby</VPE.GroupFocus>
+<VPE.All>Tout</VPE.All>
+<VPE.PsySetDesc>Passer au PsySet suivant. Cliquer avec le bouton droit de la souris pour en choisir un en particulier.\nActuel : {0}, Suivant : {1}</VPE.PsySetDesc>
+<VPE.MustHaveQuality>La cible doit avoir une qualité</VPE.MustHaveQuality>
+<VPE.QualityTooHigh>La qualité de la cible est trop élevée, doit être inférieure à Excellent.</VPE.QualityTooHigh>
+<VPE.NotEnoughHeat>Pas assez d'échauffement neuronal disponible.</VPE.NotEnoughHeat>
+<VPE.MustConsumePower>L'appareil doit fonctionner à l’électricité.</VPE.MustConsumePower>
+<VPE.MustBeStoneChunk>La cible doit être un morceau de roche.</VPE.MustBeStoneChunk>
+<VPE.MustBeSteelSlag>La cible doit être un débris d'acier.</VPE.MustBeSteelSlag>
+<VPE.PsylinkGained>Niveau de lien physique gagné : {0}</VPE.PsylinkGained>
+<VPE.PsylinkGained.Desc>{0} a gagné un nouveau niveau de lien psychique. En atteignant ce niveau, {1} a légèrement augmenté les statistiques liées au psylanceur. {1} peut maintenant allouer un point pour apprendre un nouveau psysort, améliorer ses statistiques ou débloquer une nouvelle méditation.\n\nL'expérience nécessaire pour le prochain niveau est : {2}.</VPE.PsylinkGained.Desc>
+<VPE.UnlockedByPoints>Débloqué par des points Psylanceur</VPE.UnlockedByPoints>
+<VPE.MustEltex>La cible doit être de l'eltex.</VPE.MustEltex>
+<VPE.NotPsycaster>Doit être un psylanceur</VPE.NotPsycaster>
+<VPE.AlreadyPsyring>Porte déjà un anneau psychique</VPE.AlreadyPsyring>
+<VPE.Research>Doit pouvoir faire l'objet d'une recherche</VPE.Research>
+<VPE.AlreadyResearch>Déjà recherché</VPE.AlreadyResearch>
+<VPE.MustBeAllyOrNeutral>La cible doit être alliée ou neutre.</VPE.MustBeAllyOrNeutral>
+<VPE.MustBeDowned>La cible doit être à terre.</VPE.MustBeDowned>
+<VPE.MustHavePsychicLevel>La cible doit avoir au moins un niveau de psylanceur.</VPE.MustHavePsychicLevel>
+<VPE.MustHaveHeatAmount>Doit avoir au moins {0} d'échauffement neuronal.</VPE.MustHaveHeatAmount>
+<VPE.MustBeCorpse>La cible doit être un cadavre.</VPE.MustBeCorpse>
+<VPE.MustBeCorpseHumanlike>Le cadavre doit être de type humain.</VPE.MustBeCorpseHumanlike>
+<VPE.PackSummon>La meute est invoquée !</VPE.PackSummon>
+<VPE.PackSummon.Desc>Une meute d'animaux sauvages a été invoquée par {0} pour défendre la colonie.</VPE.PackSummon.Desc>
+<VPE.NoAvailableFingers>Aucun doigt disponible</VPE.NoAvailableFingers>
+<VPE.CurrentChanneling>En train de canaliser {0}</VPE.CurrentChanneling>
+<VPE.MustBeInDark>La cible doit être dans l'obscurité.</VPE.MustBeInDark>
+<VPE.MustBePsycaster>Doit être un psylanceur.</VPE.MustBePsycaster>
+<VPE.AlreadyHasPsycast>Connaît déjà {0}</VPE.AlreadyHasPsycast>
+<VPE.MustBeAlly>La cible doit être de la même faction.</VPE.MustBeAlly>
+<VPE.MustHaveDamagedEquipment>L'équipement de la cible doit être endommagé.</VPE.MustHaveDamagedEquipment>
+<VPE.NoAnimals>Ne peut pas cibler les animaux.</VPE.NoAnimals>
+<VPE.MustBeDamaged>La cible doit être endommagée.</VPE.MustBeDamaged>
+
+
+</LanguagData>

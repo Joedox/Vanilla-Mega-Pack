@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!-- Vehicle stats -->
+<VVE_AccelerationSundayDriver>Accélération : le précepte du conducteur du dimanche</VVE_AccelerationSundayDriver>
+<VVE_AccelerationHigh>Accélération : précepte élevé</VVE_AccelerationHigh>
+<VVE_MaxSpeed_Increased>Vitesse max. : précepte augmenté</VVE_MaxSpeed_Increased>
+<VVE_HandbrakeDealsDamage>Le frein à main inflige des dégâts</VVE_HandbrakeDealsDamage>
+<VVE_StatsReport_AccelerationRate>Taux d'accélération : {0}\nVitesse actuelle : {1} c/s</VVE_StatsReport_AccelerationRate>
+<VVE_HandbrakeWarning>{VEHICLE_nameDef} n'aura pas assez d'espace pour décélérer et devra utiliser le frein à main. Cela entraînera une détérioration des pneus.</VVE_HandbrakeWarning>
+
+<VVE_Open>Ouvrir</VVE_Open>
+<VVE_Close>Fermer</VVE_Close>
+<VVE_OpenDescription>Demander l’ouverture de la porte du garage.</VVE_OpenDescription>
+<VVE_CloseDescription>Demander la fermeture de la porte du garage.</VVE_CloseDescription>
+<VVE_OpenDescription_AutoDoor>Ouvre la porte du garage.</VVE_OpenDescription_AutoDoor>
+<VVE_CloseDescription_AutoDoor>Ferme la porte du garage.</VVE_CloseDescription_AutoDoor>
+<VVE_VehicleObstructingClosingGarage>Un véhicule bloque la porte de garage.</VVE_VehicleObstructingClosingGarage>
+
+<VVE_VehicleTier>Tier</VVE_VehicleTier>
+<VVE_Tier0>Tier 0</VVE_Tier0>
+<VVE_Tier1>Tier 1</VVE_Tier1>
+<VVE_Tier2>Tier 2</VVE_Tier2>
+<VVE_Tier3>Tier 3</VVE_Tier3>
+<VVE_Tier4>Tier 3</VVE_Tier4>
+
+
+<!-- Stats Descriptions -->
+
+<VVE_Tier0Desc>Les véhicules de niveau 0 sont les plus basiques et les plus faciles d'accès. Ils ne nécessitent ni de pièce à construire, ni de projet de recherche.</VVE_Tier0Desc>
+<VVE_Tier1Desc>Les véhicules de niveau 1 nécessitent un projet de recherche basique et un faible coût en ressources pour être construits. Ils sont inefficaces, ne sont pas idéaux et présentent de nombreux inconvénients, mais ils sont bon marché et disponibles tôt dans le jeu.</VVE_Tier1Desc>
+<VVE_Tier2Desc>Les véhicules de niveau 2 sont liés à des projets de recherche plus spécialisés et nécessitent des ressources qui ne sont disponibles qu'à un stade ultérieur du jeu. Le niveau 2 est considéré comme la "base" de tous les véhicules.</VVE_Tier2Desc>
+<VVE_Tier3Desc>Les véhicules de niveau 3 ne peuvent être obtenus que si une condition spécifique est remplie. Par exemple, ils doivent d'abord être trouvés sous forme d'épave puis restaurés. Ils nécessitent des ressources de fin de jeu et ont généralement une fonction très spécifique.</VVE_Tier3Desc>
+<VVE_Tier4Desc>Les véhicules de niveau 4 ne peuvent pas être construits par le joueur, mais ils peuvent toujours être trouvés, achetés ou engendrés d'une autre manière. Ils représentent généralement une technologie supérieure à ce qui est réalisable dans le cadre de Rimworld.</VVE_Tier4Desc>
+
+<VVE_RestoreWreck>Restaurer l'épave</VVE_RestoreWreck>
+<VVE_RestoreWreckDesc>Apporte les composants nécessaires à la restauration complète de cette épave, pour en faire un véhicule opérationnel.</VVE_RestoreWreckDesc>
+<VVE_WreckNotRestored>{0} pas encore trouvée et restaurée</VVE_WreckNotRestored>
+<VVE_CannotBeResearched>{0} ne peuvent pas être recherchés tant que vous n'avez pas trouvé et restauré une épave de ce véhicule.</VVE_CannotBeResearched>
+	<VVE_Reload>Reload {0} with {AMMO_label}</VVE_Reload>
+	<VVE_CannotReloadNotEnoughAmmo>Can't reload {0} with {1} (not enough {1})</VVE_CannotReloadNotEnoughAmmo>
+	<VVE_CannotReloadFullAmmo>Can't reload {0} with {1} (full ammo)</VVE_CannotReloadFullAmmo>
+
+
+</LanguageData>

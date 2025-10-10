@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VCE_CookBakeSimple.label>cuisiner des pains simples x2</VCE_CookBakeSimple.label>
+<VCE_CookBakeSimple.description>Cuisiner deux pains simples et rapides à base de farine.</VCE_CookBakeSimple.description>
+<VCE_CookBakeSimple.jobString>Cuisine les pains simples x2.</VCE_CookBakeSimple.jobString>
+
+<VCE_CookBakeSimpleBulk.label>cuisiner des pains simples x8</VCE_CookBakeSimpleBulk.label>
+<VCE_CookBakeSimpleBulk.description>Cuisiner huit pains simples et rapides à partir de farine.</VCE_CookBakeSimpleBulk.description>
+<VCE_CookBakeSimpleBulk.jobString>Cuisine les pains simples x8.</VCE_CookBakeSimpleBulk.jobString>
+
+<VCE_CookBakeFine.label>cuisiner des pains raffinés x2</VCE_CookBakeFine.label>
+<VCE_CookBakeFine.description>Cuisiner deux pains complexes assemblés avec soin à partir d'une large sélection d'ingrédients et de farine.</VCE_CookBakeFine.description>
+<VCE_CookBakeFine.jobString>Cuisine les pains raffinés x2.</VCE_CookBakeFine.jobString>
+
+<VCE_CookBakeFineBulk.label>cuisiner des pains raffinés x8</VCE_CookBakeFineBulk.label>
+<VCE_CookBakeFineBulk.description>Cuisiner huit pains complexes assemblés avec soin à partir d'une large sélection d'ingrédients et de farine.</VCE_CookBakeFineBulk.description>
+<VCE_CookBakeFineBulk.jobString>Cuisine les pains raffinés x8.</VCE_CookBakeFineBulk.jobString>
+
+<VCE_CookBakeLavish.label>cuisiner des pains gastronomiques x2</VCE_CookBakeLavish.label>
+<VCE_CookBakeLavish.description>Cuisiner deux chefs-d'œuvre de l'art culinaire, ces pains nourrissent le corps, l'esprit et l'âme.</VCE_CookBakeLavish.description>
+<VCE_CookBakeLavish.jobString>Cuisine les pains gastronomiques x2.</VCE_CookBakeLavish.jobString>
+
+<VCE_CookBakeLavishBulk.label>cuisiner des pains gastronomiques x8</VCE_CookBakeLavishBulk.label>
+<VCE_CookBakeLavishBulk.description>Cuisiner huit chefs-d'œuvre de l'art culinaire, ces pains nourrissent le corps, l'esprit et l'âme.</VCE_CookBakeLavishBulk.description>
+<VCE_CookBakeLavishBulk.jobString>Cuisine les pains gastronomiques x8.</VCE_CookBakeLavishBulk.jobString>
+
+<VCE_CookBakeGourmet.label>cuisiner des pains de gourmet x2</VCE_CookBakeGourmet.label>
+<VCE_CookBakeGourmet.description>Cuisiner deux œuvres d'art culinaires, caractérisées par une préparation et une présentation raffinées, voire élaborées, d'une cuisson harmonieuse sur le plan esthétique, mais de faible quantité.\n\nCette recette ne permet pas de mélanger les ingrédients.</VCE_CookBakeGourmet.description>
+<VCE_CookBakeGourmet.jobString>Cuisine les pains de gourmet x2.</VCE_CookBakeGourmet.jobString>
+
+<VCE_CanMeats.label>viande en conserve x20</VCE_CanMeats.label>
+<VCE_CanMeats.description>Conserver en toute sécurité les morceaux de viande dans une boîte en acier. La mise en conserve prolonge la durée de conservation des aliments presque indéfiniment.</VCE_CanMeats.description>
+<VCE_CanMeats.jobString>Mise en conserve de la viande.</VCE_CanMeats.jobString>
+
+<VCE_CanProduce.label>légumes en conserve x20</VCE_CanProduce.label>
+<VCE_CanProduce.description>Conserver les légumes en toute sécurité dans une boîte en acier. La mise en conserve prolonge la durée de conservation des aliments presque indéfiniment.</VCE_CanProduce.description>
+<VCE_CanProduce.jobString>Mise en conserve des légumes.</VCE_CanProduce.jobString>
+
+<VCE_CanFruit.label>fruits en conserve x20</VCE_CanFruit.label>
+<VCE_CanFruit.description>Conserver les fruits en toute sécurité dans une boîte en acier. La mise en conserve prolonge presque indéfiniment la durée de conservation des aliments.\n\nLes fruits conservés peuvent être utilisés dans la production de desserts.</VCE_CanFruit.description>
+<VCE_CanFruit.jobString>Mise en conserve des fruits.</VCE_CanFruit.jobString>
+
+<VCE_CanEggs.label>œufs en conserve x20</VCE_CanEggs.label>
+<VCE_CanEggs.description>Conserver en toute sécurité les œufs durs dans une boîte en acier. La mise en conserve prolonge presque indéfiniment la durée de conservation des aliments.</VCE_CanEggs.description>
+<VCE_CanEggs.jobString>Mise en conserve des oeufs.</VCE_CanEggs.jobString>
+
+<VCE_ChopCondiments.label>mélanger des condiments aux croquettes</VCE_ChopCondiments.label>
+<VCE_ChopCondiments.description>Mélanger un lot de différents condiments pour obtenir une masse organique à peine comestible qui peut être donnée aux animaux. C'est toujours mieux que la nourriture pour animaux de supermarché.</VCE_ChopCondiments.description>
+<VCE_ChopCondiments.jobString>Mélange des condiments dans les croquettes.</VCE_ChopCondiments.jobString>
+
+<VCE_MakeSalt.label>faire du sel</VCE_MakeSalt.label>
+<VCE_MakeSalt.description>Broyer et traiter la pierre naturelle pour extraire du sel comestible des morceaux de pierre.\n\nUtilise la compétence Cuisine.</VCE_MakeSalt.description>
+<VCE_MakeSalt.jobString>Fait du sel.</VCE_MakeSalt.jobString>
+
+<VCE_MakeSaltfromBlocks.label>faire du sel (blocs)</VCE_MakeSaltfromBlocks.label>
+<VCE_MakeSaltfromBlocks.description>Broyer et traiter la pierre naturelle pour extraire du sel comestible à l'intérieur des blocs de pierre.\n\nUtilise la compétence Cuisine.</VCE_MakeSaltfromBlocks.description>
+<VCE_MakeSaltfromBlocks.jobString>Fait du sel à partir de blocs.</VCE_MakeSaltfromBlocks.jobString>
+
+<VCE_AgaveNectar.label>préparer du nectar d'agave</VCE_AgaveNectar.label>
+<VCE_AgaveNectar.description>Créer du nectar d'agave à partir d'agave. Le nectar d'agave est un nectar fin et semi-sucré, connu pour ses propriétés curatives et anti-inflammatoires.</VCE_AgaveNectar.description>
+<VCE_AgaveNectar.jobString>Prépare le nectar d'agave.</VCE_AgaveNectar.jobString>
+
+<VCE_InsectJellyPreserves.label>gelée d'insectes en conserve</VCE_InsectJellyPreserves.label>
+<VCE_InsectJellyPreserves.description>Créer des conserves de gelée d'insectes à partir de gelée d'insectes. Très riches et sucrées, tout en étant étonnamment saines.</VCE_InsectJellyPreserves.description>
+<VCE_InsectJellyPreserves.jobString>Fait des conserves de gelée d'insectes.</VCE_InsectJellyPreserves.jobString>
+
+<VCE_Mayo.label>préparer de la mayonnaise</VCE_Mayo.label>
+<VCE_Mayo.description>Créer de la mayonnaise à partir d'œufs. Une émulsion épaisse d'œuf, d'huile et d'autres herbes. La mayonnaise, bien que mauvaise pour la santé, ajoute un goût agréable et elle est très calorique.</VCE_Mayo.description>
+<VCE_Mayo.jobString>Prépare de la mayonnaise.</VCE_Mayo.jobString>
+
+<VCE_SmokeleafButter.label>préparer du beurre de smokeleaf</VCE_SmokeleafButter.label>
+<VCE_SmokeleafButter.description>Créer du beurre de smokeleaf à partir de la feuille de smokeleaf et du lait. Une substance grasse et épaisse obtenue en barattant le lait pour obtenir une crème très épaisse, en la combinant avec de l'huile de smokeleaf et en la laissant durcir. Très malsain et plus fort qu'un joint.</VCE_SmokeleafButter.description>
+<VCE_SmokeleafButter.jobString>Prépare le beurre de smokeleaf.</VCE_SmokeleafButter.jobString>
+
+<VCE_ChocolateSyrup.label>préparer du sirop de chocolat</VCE_ChocolateSyrup.label>
+<VCE_ChocolateSyrup.description>Créer du sirop de chocolat à partir de chocolat génétiquement modifié. Bien qu'il ne soit toujours pas bon pour la santé, le sirop de chocolat n'est pas aussi mauvais que le sucre pur.</VCE_ChocolateSyrup.description>
+<VCE_ChocolateSyrup.jobString>Prépare le sirop de chocolat.</VCE_ChocolateSyrup.jobString>
+
+<VCE_CookDessertSimple.label>cuisiner un dessert simple</VCE_CookDessertSimple.label>
+<VCE_CookDessertSimple.description>Préparer un dessert simple et rapide à partir de quelques fruits et autres ingrédients.</VCE_CookDessertSimple.description>
+<VCE_CookDessertSimple.jobString>Cuisine le dessert simple.</VCE_CookDessertSimple.jobString>
+
+<VCE_CookDessertSimpleBulk.label>cuisiner un dessert simple x4</VCE_CookDessertSimpleBulk.label>
+<VCE_CookDessertSimpleBulk.description>Préparer 4 desserts simples et rapides à partir de quelques fruits et autres ingrédients.</VCE_CookDessertSimpleBulk.description>
+<VCE_CookDessertSimpleBulk.jobString>Cuisine le dessert simple x4.</VCE_CookDessertSimpleBulk.jobString>
+
+<VCE_CookDessertFine.label>cuisiner un dessert raffiné</VCE_CookDessertFine.label>
+<VCE_CookDessertFine.description>Préparer un dessert complexe assemblé avec soin à partir d'une large sélection d'ingrédients.\n\nNotez que le chocolat ayant une valeur nutritive de 0,10 par unité, une partie de celui-ci sera gaspillée lors de la préparation de cette recette. Pensez à utiliser la version en vrac (x4) de cette recette pour éviter le gaspillage.</VCE_CookDessertFine.description>
+<VCE_CookDessertFine.jobString>Cuisine le dessert raffiné.</VCE_CookDessertFine.jobString>
+
+<VCE_CookDessertFineBulk.label>cuisiner un dessert raffiné x4</VCE_CookDessertFineBulk.label>
+<VCE_CookDessertFineBulk.description>Préparer 4 desserts complexes assemblés avec soin à partir d'une large sélection d'ingrédients.</VCE_CookDessertFineBulk.description>
+<VCE_CookDessertFineBulk.jobString>Cuisine le dessert raffiné x4.</VCE_CookDessertFineBulk.jobString>
+
+<VCE_CookDessertLavish.label>cuisiner un dessert gastronomique</VCE_CookDessertLavish.label>
+<VCE_CookDessertLavish.description>Chef-d'œuvre de l'art culinaire, ce dessert nourrit le corps, l'esprit et l'âme.\n\nNotez que le chocolat ayant une valeur nutritive de 0,10 par unité, une partie du chocolat sera gaspillée lors de la préparation de cette recette. Pensez à utiliser la version en vrac (x4) de cette recette pour éviter le gaspillage.</VCE_CookDessertLavish.description>
+<VCE_CookDessertLavish.jobString>Cuisine le dessert gastronomique.</VCE_CookDessertLavish.jobString>
+
+<VCE_CookDessertLavishBulk.label>cuisiner un dessert gastronomique x4</VCE_CookDessertLavishBulk.label>
+<VCE_CookDessertLavishBulk.description>Préparer 4 chefs-d'œuvre de l'art culinaire, ce dessert nourrit le corps, l'esprit et l'âme.</VCE_CookDessertLavishBulk.description>
+<VCE_CookDessertLavishBulk.jobString>Cuisine le dessert gastronomique x4.</VCE_CookDessertLavishBulk.jobString>
+
+<VCE_CookDessertGourmet.label>cuisiner un dessert de gourmet</VCE_CookDessertGourmet.label>
+<VCE_CookDessertGourmet.description>Préparer une œuvre d'art culinaire, caractérisée par une préparation et une présentation raffinées, voire élaborées, d'un dessert esthétiquement équilibré, mais de faible quantité.</VCE_CookDessertGourmet.description>
+<VCE_CookDessertGourmet.jobString>Cuisine le dessert de gourmet.</VCE_CookDessertGourmet.jobString>
+
+<VCE_DeepFryMeats.label>viande frit x20</VCE_DeepFryMeats.label>
+<VCE_DeepFryMeats.description>Faites frire de gros morceaux de viande. Les aliments frits sont très savoureux, mais pas très bons pour la santé.</VCE_DeepFryMeats.description>
+<VCE_DeepFryMeats.jobString>Fait frire la viande.</VCE_DeepFryMeats.jobString>
+
+<VCE_DeepFryVegetables.label>légume frit x20</VCE_DeepFryVegetables.label>
+<VCE_DeepFryVegetables.description>Des légumes frits. Les aliments frits sont très savoureux, mais pas très bons pour la santé.</VCE_DeepFryVegetables.description>
+<VCE_DeepFryVegetables.jobString>Fait frire les légumes.</VCE_DeepFryVegetables.jobString>
+
+<VCE_CookGrillSimple.label>cuisiner grillade simple</VCE_CookGrillSimple.label>
+<VCE_CookGrillSimple.description>Préparer deux grillades simples et rapides à partir de quelques ingrédients et de la viande.</VCE_CookGrillSimple.description>
+<VCE_CookGrillSimple.jobString>Cuisine la grillade simple.</VCE_CookGrillSimple.jobString>
+
+<VCE_CookGrillSimpleBulk.label>cuisiner grillade simple x4</VCE_CookGrillSimpleBulk.label>
+<VCE_CookGrillSimpleBulk.description>Préparer 4 grillades simples et rapides à partir de quelques ingrédients et de la viande.</VCE_CookGrillSimpleBulk.description>
+<VCE_CookGrillSimpleBulk.jobString>Cuisine la grillade simple x4.</VCE_CookGrillSimpleBulk.jobString>
+
+<VCE_CookGrillFine.label>cuisiner grillade raffinée</VCE_CookGrillFine.label>
+<VCE_CookGrillFine.description>Préparer une grillade complexe assemblée avec soin à partir d'une large sélection d'ingrédients.</VCE_CookGrillFine.description>
+<VCE_CookGrillFine.jobString>Cuisine la grillade raffinée.</VCE_CookGrillFine.jobString>
+
+<VCE_CookGrillFineBulk.label>cuisiner grillade raffinée x4</VCE_CookGrillFineBulk.label>
+<VCE_CookGrillFineBulk.description>Préparer 4 grillades complexes assemblées avec soin à partir d'une large sélection d'ingrédients.</VCE_CookGrillFineBulk.description>
+<VCE_CookGrillFineBulk.jobString>Cuisine la grillade raffinée x4.</VCE_CookGrillFineBulk.jobString>
+
+<VCE_CookGrillLavish.label>cuisiner grillade gastronomique</VCE_CookGrillLavish.label>
+<VCE_CookGrillLavish.description>Préparer un chef-d'œuvre de l'art culinaire, cette grillade nourrit le corps, l'esprit et l'âme.</VCE_CookGrillLavish.description>
+<VCE_CookGrillLavish.jobString>Cuisine la grillade gastronomique.</VCE_CookGrillLavish.jobString>
+
+<VCE_CookGrillLavishhBulk.label>cuisiner grillade gastronomique x4</VCE_CookGrillLavishhBulk.label>
+<VCE_CookGrillLavishhBulk.description>Préparer 4 chefs-d'œuvre de l'art culinaire, ces grillades nourrissent le corps, l'esprit et l'âme.</VCE_CookGrillLavishhBulk.description>
+<VCE_CookGrillLavishhBulk.jobString>Cuisine la grillade gastronomique x4.</VCE_CookGrillLavishhBulk.jobString>
+
+<VCE_CookGrillGourmet.label>cuisiner grillade de gourmet</VCE_CookGrillGourmet.label>
+<VCE_CookGrillGourmet.description>Préparer une œuvre d'art culinaire, caractérisée par une préparation et une présentation raffinées, voire élaborées, d'une grillade esthétiquement équilibrée, mais de faible quantité.</VCE_CookGrillGourmet.description>
+<VCE_CookGrillGourmet.jobString>Cuisine la grillade de gourmet.</VCE_CookGrillGourmet.jobString>
+
+<VCE_CookMealGourmet.label>cuisiner un repas de gourmet</VCE_CookMealGourmet.label>
+<VCE_CookMealGourmet.description>Préparer une œuvre d'art culinaire, caractérisée par une préparation et une présentation raffinées, voire élaborées, d'un repas esthétiquement équilibré, mais de faible quantité.</VCE_CookMealGourmet.description>
+<VCE_CookMealGourmet.jobString>Cuisine le repas de gourmet.</VCE_CookMealGourmet.jobString>
+
+<VCE_CookSoupSimple.label>préparer une soupe simple</VCE_CookSoupSimple.label>
+<VCE_CookSoupSimple.description>Préparer une soupe simple non mijotée et rapide à partir de quelques ingrédients.</VCE_CookSoupSimple.description>
+<VCE_CookSoupSimple.jobString>Prépare la soupe simple.</VCE_CookSoupSimple.jobString>
+
+<VCE_CookSoupFine.label>préparer une soupe raffinée</VCE_CookSoupFine.label>
+<VCE_CookSoupFine.description>Préparer une soupe raffinée non mijotée assemblée avec soin à partir d'une large sélection d'ingrédients.</VCE_CookSoupFine.description>
+<VCE_CookSoupFine.jobString>Prépare la soupe raffinée.</VCE_CookSoupFine.jobString>
+
+<VCE_CookSoupLavish.label>préparer une soupe gastronomique</VCE_CookSoupLavish.label>
+<VCE_CookSoupLavish.description>Préparer une soupe gastronomique non mijotée. Chef-d'œuvre de l'art culinaire, cette soupe nourrit le corps, l'esprit et l'âme.</VCE_CookSoupLavish.description>
+<VCE_CookSoupLavish.jobString>Prépare la soupe gastronomique.</VCE_CookSoupLavish.jobString>
+
+<VCE_CookSoupGourmet.label>préparer une soupe de gourmet</VCE_CookSoupGourmet.label>
+<VCE_CookSoupGourmet.description>Préparer une soupe de gourmet non mijotée. Une œuvre d'art culinaire, caractérisée par une préparation et une présentation raffinées, voire élaborées, d'une soupe esthétiquement équilibrée, mais de faible quantité.\n\nCette recette ne permet pas de mélanger les ingrédients, et sa réalisation est longue.</VCE_CookSoupGourmet.description>
+<VCE_CookSoupGourmet.jobString>Prépare la soupe de gourmet.</VCE_CookSoupGourmet.jobString>
+
+
+</LanguageData>

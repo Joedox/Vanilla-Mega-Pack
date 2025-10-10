@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ NamerFactionMechanoid +++++ -->
+<VFE_NamerFactionMechanoid.rulePack.rulesStrings>
+  <li>r_name->[mechhive] [natoalphabet] [smechpart] [fmechpart]</li>
+  <li>mechhive->essaim mécanoïde</li>
+  <li>fmechpart->universel</li>
+  <li>fmechpart->haute puissance</li>
+  <li>fmechpart->réactif</li>
+  <li>fmechpart->cybernétique</li>
+  <li>fmechpart->autonome</li>
+  <li>fmechpart->cybernétique</li>
+  <li>fmechpart->auto-ajusté</li>
+  <li>fmechpart->solaire</li>
+  <li>fmechpart->numérique</li>
+  <li>fmechpart->néohumain</li>
+  <li>fmechpart->surpuissant</li>
+  <li>fmechpart->automatisé</li>
+  <li>fmechpart->intégré</li>
+  <li>fmechpart->compact</li>
+  <li>fmechpart->ultime</li>
+  <li>fmechpart->super</li>
+  <li>fmechpart->stratégique</li>
+  <li>fmechpart->unifié</li>
+  <li>fmechpart->indépendant</li>
+  <li>fmechpart->temporaire</li>
+  <li>fmechpart->urgence</li>
+  <li>fmechpart->mécanique</li>
+  <li>fmechpart->programmé</li>
+  <li>fmechpart->stratégique</li>
+  <li>fmechpart->nucléaire</li>
+  <li>smechpart->opération</li>
+  <li>smechpart->annulation</li>
+  <li>smechpart->terraformation</li>
+  <li>smechpart->invasion</li>
+  <li>smechpart->sécurité</li>
+  <li>smechpart->navigation</li>
+  <li>smechpart->suppression</li>
+  <li>smechpart->récolte</li>
+  <li>smechpart->réponse</li>
+  <li>smechpart->élimination</li>
+  <li>smechpart->gestion de guerre</li>
+  <li>smechpart->contrôle des émeutes</li>
+  <li>smechpart->simulation de vie</li>
+  <li>smechpart->algorithme</li>
+  <li>smechpart->gardien</li>
+  <li>smechpart->guerre</li>
+  <li>smechpart->collecte</li>
+  <li>smechpart->exécution</li>
+  <li>natoalphabet->alpha</li>
+  <li>natoalphabet->bravo</li>
+  <li>natoalphabet->charlie</li>
+  <li>natoalphabet->delta</li>
+  <li>natoalphabet->echo</li>
+  <li>natoalphabet->foxtrot</li>
+  <li>natoalphabet->golf</li>
+  <li>natoalphabet->hotel</li>
+  <li>natoalphabet->india</li>
+  <li>natoalphabet->juliett</li>
+  <li>natoalphabet->kilo</li>
+  <li>natoalphabet->lima</li>
+  <li>natoalphabet->mike</li>
+  <li>natoalphabet->november</li>
+  <li>natoalphabet->oscar</li>
+  <li>natoalphabet->papa</li>
+  <li>natoalphabet->quebec</li>
+  <li>natoalphabet->romeo</li>
+  <li>natoalphabet->sierra</li>
+  <li>natoalphabet->tango</li>
+  <li>natoalphabet->uniform</li>
+  <li>natoalphabet->victor</li>
+  <li>natoalphabet->whiskey</li>
+  <li>natoalphabet->x-ray</li>
+  <li>natoalphabet->yankee</li>
+  <li>natoalphabet->zulu</li>
+</VFE_NamerFactionMechanoid.rulePack.rulesStrings>
+
+		<!-- +++++ NamerShipFrigate +++++ -->
+<VFE_NamerShipFrigate.rulePack.rulesStrings>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+  <li>shiptype->frégate</li>
+  <li>maybe_letter(p=3)-></li>
+  <li>maybe_letter->[Letter]</li>
+  <li>maybe_letter->[Letter][Letter]</li>
+</VFE_NamerShipFrigate.rulePack.rulesStrings>
+
+		<!-- +++++ NamerShipDestroyer +++++ -->
+<VFE_NamerShipDestroyer.rulePack.rulesStrings>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+  <li>shiptype->destroyer</li>
+  <li>maybe_letter(p=3)-></li>
+  <li>maybe_letter->[Letter]</li>
+  <li>maybe_letter->[Letter][Letter]</li>
+</VFE_NamerShipDestroyer.rulePack.rulesStrings>
+
+		<!-- +++++ NamerShipCruiser +++++ -->
+<VFE_NamerShipCruiser.rulePack.rulesStrings>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+  <li>shiptype->croiseur</li>
+  <li>maybe_letter(p=3)-></li>
+  <li>maybe_letter->[Letter]</li>
+  <li>maybe_letter->[Letter][Letter]</li>
+</VFE_NamerShipCruiser.rulePack.rulesStrings>
+
+		<!-- +++++ NamerShipTroopship +++++ -->
+<VFE_NamerShipTroopship.rulePack.rulesStrings>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+  <li>shiptype->transporteur</li>
+  <li>maybe_letter(p=3)-></li>
+  <li>maybe_letter->[Letter]</li>
+  <li>maybe_letter->[Letter][Letter]</li>
+</VFE_NamerShipTroopship.rulePack.rulesStrings>
+
+		<!-- +++++ NamerShipCarrier +++++ -->
+<VFE_NamerShipCarrier.rulePack.rulesStrings>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+  <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+  <li>shiptype->carrier</li>
+  <li>maybe_letter(p=3)-></li>
+  <li>maybe_letter->[Letter]</li>
+  <li>maybe_letter->[Letter][Letter]</li>
+</VFE_NamerShipCarrier.rulePack.rulesStrings>
+
+</LanguageData>

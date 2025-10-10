@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: This machine is not working at the moment -->
+<VRecyclingE_NotWorking>Cette machine ne fonctionne pas actuellement.</VRecyclingE_NotWorking>
+<!-- EN: This reactive isotopack is leaking radiation -->
+<VRecyclingE_Leaking>Ce déchet libère des radiations.</VRecyclingE_Leaking>
+<!-- EN: Time until {1} {0_labelPlural} are ready -->
+<VRecyclingE_DurationUntilNextProcess>Temps restant pour obtenir {1} {0_label} </VRecyclingE_DurationUntilNextProcess>
+<!-- EN: Contained {0} -->
+<VRecyclingE_ContainedThings>Contient {0} </VRecyclingE_ContainedThings>
+<!-- EN: Protected (won't dissolve). -->
+<VRecyclingE_DissolutionWasteCrate>Protégé (ne se désagrège pas).</VRecyclingE_DissolutionWasteCrate>
+
+
+</LanguageData>

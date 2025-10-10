@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Construct -->
+<VOEPowerGrid.Construct.Label>Construire</VOEPowerGrid.Construct.Label>
+<!-- EN: Construct new building -->
+<VOEPowerGrid.Construct.Desc>Construire un nouveau bâtiment.</VOEPowerGrid.Construct.Desc>
+<!-- EN: Maximum capacity reached -->
+<VOEPowerGrid.Construct.Reason>Nombre de bâtiment max. atteint</VOEPowerGrid.Construct.Reason>
+<!-- EN: Deconstruct -->
+<VOEPowerGrid.Deconstruct.Label>Démolir</VOEPowerGrid.Deconstruct.Label>
+<!-- EN: Deconstruct existing building -->
+<VOEPowerGrid.Deconstruct.Desc>Démolir un bâtiment existant.</VOEPowerGrid.Deconstruct.Desc>
+<!-- EN: Nothing to deconstruct -->
+<VOEPowerGrid.Deconstruct.Reason>Aucun bâtiment à démolir</VOEPowerGrid.Deconstruct.Reason>
+<!-- EN: {0}Capacity: {1} / {2}\nTransmission range: {3} [{4}]\nPower: {5} -->
+<VOEPowerGrid.Base.ProductionString>{0}Capacité bâtiment : {1} / {2}  |  Portée des pylônes : {3} [{4}]\nÉnergie produite : {5}</VOEPowerGrid.Base.ProductionString>
+<!-- EN: Constucting:\n{0} -->
+<VOEPowerGrid.Base.ConstructionString>\nConstruction :\n{0}</VOEPowerGrid.Base.ConstructionString>
+<!-- EN: Deconstructing:\n{0} -->
+<VOEPowerGrid.Base.DeconstructionString>\nDémolition :\n{0}</VOEPowerGrid.Base.DeconstructionString>
+<!-- EN: Available Buildings -->
+<VOEPowerGrid.Base.AvailableBuildingString>Bâtiments disponibles</VOEPowerGrid.Base.AvailableBuildingString>
+<!-- EN: Terrain Capacity Multiplier: {0} -->
+<VOEPowerGrid.Base.TerrainCapacityString>Multiplicateur de capacité du terrain : {0}</VOEPowerGrid.Base.TerrainCapacityString>
+<!-- EN: Terrain Power Multiplier: {0} -->
+<VOEPowerGrid.Base.TerrainPowerString>Multiplicateur d'énergie du terrain : {0}</VOEPowerGrid.Base.TerrainPowerString>
+<!-- EN: Terrain Fuel Gathering Multiplier: {0} -->
+<VOEPowerGrid.Base.TerrainFuelString>Multiplicateur de carburant du terrain : {0}</VOEPowerGrid.Base.TerrainFuelString>
+<!-- EN: Fuel Power Multiplier: {0} -->
+<VOEPowerGrid.Base.FuelPowerString>Multiplicateur d'énergie combustible : {0}</VOEPowerGrid.Base.FuelPowerString>
+<!-- EN: Fuel Consumption Per Day: {0} {1} -->
+<VOEPowerGrid.Base.FuelConsumptionString>Consommation de carburant par jour : {0} {1}</VOEPowerGrid.Base.FuelConsumptionString>
+<!-- EN: No colonist with high enough skill. Require {0}. Current {1} -->
+<VOEPowerGrid.MaxSkillTooLow>Aucun colon n'a la compétence suffisante. Nécessite {0}. Actuel {1}</VOEPowerGrid.MaxSkillTooLow>
+<!-- EN: Capacity too low, structure cost {0} -->
+<VOEPowerGrid.ConstructionSkillCostTooHigh>Capacité bâtiment faible, coût {0}</VOEPowerGrid.ConstructionSkillCostTooHigh>
+<!-- EN: Not enough materials, structure cost:\n{0} -->
+<VOEPowerGrid.ConstructionMaterialCostTooHigh>Construction indisponible, nécessite :\n{0}</VOEPowerGrid.ConstructionMaterialCostTooHigh>
+<!-- EN: Research not finished -->
+<VOEPowerGrid.ResearchNotFinished>Indisponible, recherche nécessaire</VOEPowerGrid.ResearchNotFinished>
+<!-- EN: Range -->
+<VOEPowerGrid.PowerRange>portée</VOEPowerGrid.PowerRange>
+<!-- EN: All power transmission towers are already in use -->
+<VOEPowerGrid.AllPowerTransmissionTowerUsed>Les pylônes électriques sont déjà tous utilisés</VOEPowerGrid.AllPowerTransmissionTowerUsed>
+
+<!-- EN: Power Grid -->
+<VOEPowerGrid.PowerGridTab>Réseau</VOEPowerGrid.PowerGridTab>
+
+<!-- EN: Overload of {0} Power Grid -->
+<VOEPowerGrid.Letters.ActiveBuildingReset.Label>Surcharge du réseau d'énergie à {0}</VOEPowerGrid.Letters.ActiveBuildingReset.Label>
+<!-- EN: Active buildings in Power Grid have been overloaded, due to lack of capacity for maintenance. Some buildings were automatically shut down to return to safe capacity. -->
+<VOEPowerGrid.Letters.ActiveBuildingReset.Text>Les bâtiments actifs du réseau d'énergie ont été surchargés en raison d'un manque de capacité de maintenance. Certains bâtiments ont été automatiquement désactivés afin de revenir à une capacité sûre.</VOEPowerGrid.Letters.ActiveBuildingReset.Text>
+<!-- EN: Insufficient Fuel on {0} Power Grid -->
+<VOEPowerGrid.Letters.InsufficientFuel.Label>Carburant insuffisant du réseau d'énergie à {0}</VOEPowerGrid.Letters.InsufficientFuel.Label>
+<!-- EN: The Power Grid is experiencing a fuel shortage. This will lead to a decrease in energy production. -->
+<VOEPowerGrid.Letters.InsufficientFuel.Text>Le réseau d'énergie connaît une pénurie de combustible. Cela entraînera une baisse de la production d'énergie.</VOEPowerGrid.Letters.InsufficientFuel.Text>
+
+<!-- EN: Vanilla Outposts Expanded: Power Grid -->
+<VOEPowerGrid.Settings.Title>VOE: Power Grid</VOEPowerGrid.Settings.Title>
+<!-- EN: Power Multiplier -->
+<VOEPowerGrid.Settings.PowerMultiplier>Multiplicateur d'énergie </VOEPowerGrid.Settings.PowerMultiplier>
+<!-- EN: Building Capacity Per Skill: {0} -->
+<VOEPowerGrid.Settings.BuildingCapacityPerSkill>Nombre de bâtiment par point de compétence : {0}</VOEPowerGrid.Settings.BuildingCapacityPerSkill>
+<!-- EN: Base Building Capacity: {0} -->
+<VOEPowerGrid.Settings.BaseBuildingCapacity>Capacité du nombre de bâtiment de base : {0}</VOEPowerGrid.Settings.BaseBuildingCapacity>
+<!-- EN: 1% Power Loss Per {0} Tiles -->
+<VOEPowerGrid.Settings.PowerLossPerTiles>1% de perte d'énergie toutes les {0} tuile</VOEPowerGrid.Settings.PowerLossPerTiles>
+<!-- EN: 1 Power Transmission Tower Covers {0} Tiles -->
+<VOEPowerGrid.Settings.TransmissionTowerRange>Un pylône électrique couvre {0} tuile</VOEPowerGrid.Settings.TransmissionTowerRange>
+
+<!-- EN: Connected to {0}\n -->
+<VOEPowerGrid.Outlet.Connected>Connecté à {0}\n</VOEPowerGrid.Outlet.Connected>
+<!-- EN: Power loss: {0}\n -->
+<VOEPowerGrid.Outlet.PowerLoss>Perte d'énergie : {0}\n</VOEPowerGrid.Outlet.PowerLoss>
+<!-- EN: Not connected\n -->
+<VOEPowerGrid.Outlet.NotConnected>Non connecté\n</VOEPowerGrid.Outlet.NotConnected>
+<!-- EN: Disconnect from {0}\n -->
+<VOEPowerGrid.Outlet.Disconnect>Déconnecté de {0}\n</VOEPowerGrid.Outlet.Disconnect>
+<!-- EN: Connect to Power Grid -->
+<VOEPowerGrid.Outlet.Connect.Label>Connecter</VOEPowerGrid.Outlet.Connect.Label>
+<!-- EN: Connect to an external outpost with Power Grid -->
+<VOEPowerGrid.Outlet.Connect.Desc>Connecter un avant-poste électrique à cette sortie.</VOEPowerGrid.Outlet.Connect.Desc>
+<!-- EN: Outpost {0} already connected to outlet -->
+<VOEPowerGrid.Outlet.AlreadyConnected>L'avant-poste {0} est déjà connecté à une sortie</VOEPowerGrid.Outlet.AlreadyConnected>
+<!-- EN: Outpost {0} has insufficient power transmission range {1}/{2} -->
+<VOEPowerGrid.Outlet.PowerRangeNotEnough>L'avant-poste {0} manque de pylônes électriques {1}/{2}</VOEPowerGrid.Outlet.PowerRangeNotEnough>
+<!-- EN: No Power Grid to connect -->
+<VOEPowerGrid.Outlet.Connect.Reason>Aucun réseau électrique à connecter</VOEPowerGrid.Outlet.Connect.Reason>
+
+<!-- EN: Must be made on river -->
+<VOEPowerGrid.MustBeMade.River>Doit être sur une rivière</VOEPowerGrid.MustBeMade.River>
+<!-- EN: Must be made on coast -->
+<VOEPowerGrid.MustBeMade.Coast>Doit être sur un littoral</VOEPowerGrid.MustBeMade.Coast>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VSIE.RandomSelectionInsteadOfUI>Activer la sélection aléatoire parmi des listes de traits au lieu de choisir manuellement</VSIE.RandomSelectionInsteadOfUI>
+<VSIE.MaxTraitCount>Le nombre maximum de traits pour une sélection : {0}</VSIE.MaxTraitCount>
+<VSIE.PickTrait>Choisissez le trait que {0_nameDef} va obtenir :</VSIE.PickTrait>
+<VSIE.SelectATrait>Choisir un trait</VSIE.SelectATrait>
+<VSIE.AddCancelButtonToUI>Ajouter le bouton "Annuler" à l'interface de sélection</VSIE.AddCancelButtonToUI>
+<VSIE.MarriedTraitChange>Lorsque {PAWN_nameDef} s'est marié{PAWN_gender ? : e } avec l'amour de sa vie, {PAWN_pronoun} a développé le trait {0}.\n\n{1}</VSIE.MarriedTraitChange>
+<VSIE.BecameParentTraitChange>À l'arrivé{PAWN_gender ? : e } de son nouveau-né, {PAWN_nameDef} est heureu{PAWN_gender ? x : se } de devenir parent et a développé le trait {0}.\n\n{1}</VSIE.BecameParentTraitChange>
+<VSIE.BecameParentStillbornTraitChange>Dévasté{PAWN_gender ? : e } par son bébé mort-né, {PAWN_nameDef} a développé le trait {0}.\n\n{1}</VSIE.BecameParentStillbornTraitChange>
+
+
+</LanguageData>

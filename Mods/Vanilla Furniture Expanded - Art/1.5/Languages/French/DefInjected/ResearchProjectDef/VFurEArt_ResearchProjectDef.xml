@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFE_Res_Obelisk.label>obélisque</VFE_Res_Obelisk.label>
+<VFE_Res_Obelisk.description>Vous permet d'apprendre à sculpter des obélisques hauts et étroits pour commémorer des événements importants.</VFE_Res_Obelisk.description>
+<VFE_Res_Obelisk.generalRules.rulesStrings>
+    <li>subject->les sentinelles de pierre de l'histoire</li>
+    <li>subject_story->a maîtrisé l'art de sculpter la pierre pour en faire d'imposants obélisques, symboles de réalisations importantes et de la mémoire</li>
+    <li>subject_story->a marqué le paysage avec ces monolithes, guidant les générations futures vers la compréhension de leur patrimoine</li>
+    <li>subject_gerund->la gravure du récit de la civilisation sur la terre elle-même</li>
+</VFE_Res_Obelisk.generalRules.rulesStrings>
+
+<VFE_Res_Pottery.label>poterie</VFE_Res_Pottery.label>
+<VFE_Res_Pottery.description>Vous permet d'apprendre à créer de beaux vases et autres récipients à partir de matériaux simples.</VFE_Res_Pottery.description>
+<VFE_Res_Pottery.generalRules.rulesStrings>
+    <li>subject->la toile en argile</li>
+    <li>subject_story->a redécouvert d'anciennes techniques de façonnage de l'argile pour en faire des récipients beaux et utiles</li>
+    <li>subject_story->a élevé des matériaux simples au rang d'œuvres d'art, capturant l'essence de la culture dans chaque courbe et chaque couleur</li>
+    <li>subject_gerund->la transformation des richesses de la terre en un héritage durable</li>
+</VFE_Res_Pottery.generalRules.rulesStrings>
+
+<VFE_Res_WallCarvings.label>sculpture</VFE_Res_WallCarvings.label>
+<VFE_Res_WallCarvings.description>Vous permet de maîtriser les techniques de sculpture murale pour créer de beaux piliers avec des reliefs.</VFE_Res_WallCarvings.description>
+<VFE_Res_WallCarvings.generalRules.rulesStrings>
+    <li>subject->les récits en pierre</li>
+    <li>subject_story->a gravé des récits de triomphe et de tragédie dans les murs mêmes qui les abritaient</li>
+    <li>subject_story->a transformé des toiles de pierre vierges en histoires visuelles épiques, immortalisant les héros et l'histoire</li>
+    <li>subject_gerund->l'art d'insuffler la vie à la pierre avec des histoires anciennes et nouvelles</li>
+</VFE_Res_WallCarvings.generalRules.rulesStrings>
+
+<VFE_Res_ArtfulDisplay.label>exposition artistique</VFE_Res_ArtfulDisplay.label>
+<VFE_Res_ArtfulDisplay.description>Vous permet de créer de magnifiques socles pour afficher des artefacts et des biens importants de la colonie.</VFE_Res_ArtfulDisplay.description>
+<VFE_Res_ArtfulDisplay.generalRules.rulesStrings>
+    <li>subject->la mise en valeur de la splendeur</li>
+    <li>subject_story->a conçu des expositions exquises, élevant la présentation des artefacts au-delà de la simple possession pour en faire une célébration</li>
+    <li>subject_story->a renforcé l'attrait des trésors, en créant des espaces où convergent culture et curiosité</li>
+    <li>subject_gerund->la constitution de collections pour susciter l'émerveillement et la sagesse</li>
+</VFE_Res_ArtfulDisplay.generalRules.rulesStrings>
+
+<VFE_Res_Statues.label>statues</VFE_Res_Statues.label>
+<VFE_Res_Statues.description>Vous permet de sculpter des sculptures précises en forme de personnage, gravés d'illustrations artistiques.</VFE_Res_Statues.description>
+<VFE_Res_Statues.generalRules.rulesStrings>
+    <li>subject->la forme de la commémoration</li>
+    <li>subject_story->a sculpté des personnages dans le marbre et la pierre, capturant l'esprit de ceux qui ont façonné leur monde</li>
+    <li>subject_story->a peuplé ses salles et ses places des portraits des personnes vénérées, faisant de chaque regard une leçon d'héritage</li>
+    <li>subject_gerund->la gravure des moments de grandeur dans la pierre pour l'éternité</li>
+</VFE_Res_Statues.generalRules.rulesStrings>
+
+<VFE_Res_Monuments.label>monuments</VFE_Res_Monuments.label>
+<VFE_Res_Monuments.description>Vous permet de créer d'énormes monuments, dans vos pièces maîtresses de votre colonie, pour commémorer ceux qui passent et donner de l'inspiration à ceux qui luttent encore.</VFE_Res_Monuments.description>
+<VFE_Res_Monuments.generalRules.rulesStrings>
+    <li>subject->les testaments du temps</li>
+    <li>subject_story->a érigé des monuments grandioses, chacun racontant l'histoire d'une survie, d'une réussite et d'une perte</li>
+    <li>subject_story->a cimenté ses récits dans les fondements de la civilisation, inspirant tous ceux qui les regardent</li>
+    <li>subject_gerund->la construction des piliers de l'histoire et de l'espoir</li>
+</VFE_Res_Monuments.generalRules.rulesStrings>
+
+<VFE_Res_Rugs.label>tapis</VFE_Res_Rugs.label>
+<VFE_Res_Rugs.description>Vous permet d'apprendre à créer de beaux tapis pour décorer votre colonie.</VFE_Res_Rugs.description>
+<VFE_Res_Rugs.generalRules.rulesStrings>
+    <li>subject->le tissage de la chaleur et de l'émerveillement</li>
+    <li>subject_story->a entrelacé des fils d'origines diverses pour en faire des tapis, chacun étant un chef-d'œuvre de couleur et de confort</li>
+    <li>subject_story->a répandu le tissu de leur culture sous ses pieds, une base souple pour la vie quotidienne et le luxe</li>
+    <li>subject_gerund->l'exposition des tapisseries d'histoires non racontées</li>
+</VFE_Res_Rugs.generalRules.rulesStrings>
+
+<VFE_Res_Wallpapers.label>papier peint</VFE_Res_Wallpapers.label>
+<VFE_Res_Wallpapers.description>Vous permet de construire de beaux murs recouverts de papier peint avec la couleur souhaitée.</VFE_Res_Wallpapers.description>
+<VFE_Res_Wallpapers.generalRules.rulesStrings>
+    <li>subject->la texture des époques</li>
+    <li>subject_story->a orné les murs de papiers peints dont les motifs reflètent l'esthétique et l'éthique de l'époque</li>
+    <li>subject_story->a transformé les espaces de vie en toiles d'expression personnelle et collective</li>
+    <li>subject_gerund->l'habillement des murs avec les vêtements de la vision et de la vitalité</li>
+</VFE_Res_Wallpapers.generalRules.rulesStrings>
+
+<VFE_Res_Holograms.label>hologrammes</VFE_Res_Holograms.label>
+<VFE_Res_Holograms.description>Vous permet d'adapter des techniques d'affichage avancées pour présenter des modèles tridimensionnels dans votre colonie.</VFE_Res_Holograms.description>
+<VFE_Res_Holograms.generalRules.rulesStrings>
+    <li>subject->l'innovation en lumière</li>
+    <li>subject_story->a exploité la lumière pour donner forme à l'informe, en créant des hologrammes qui défient les limites de la réalité</li>
+    <li>subject_story->a donné vie aux merveilles du cosmos et aux subtilités de l'imagination en les mettant en scène de façon saisissante</li>
+    <li>subject_gerund->la mise en lumière des rêves, où les pensées prennent une forme tangible</li>
+</VFE_Res_Holograms.generalRules.rulesStrings>
+
+
+</LanguageData>

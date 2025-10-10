@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: advanced warcaskets -->
+<VFEP_AdvancedWarcaskets.label>warcaskets avancés</VFEP_AdvancedWarcaskets.label>
+<!-- EN: Construct improved variations of warcaskets which lean towards speed, protection or a balanced approach. -->
+<VFEP_AdvancedWarcaskets.description>Vous permet de fabriquer des variantes améliorées des warcaskets qui privilégient la vitesse, la protection ou une approche équilibrée.</VFEP_AdvancedWarcaskets.description>
+<!-- EN:
+  <li>subject->warcasket evolution</li>
+  <li>subject_story->refined warcasket designs for speed, durability, and versatility, setting new standards in mechanized warfare</li>
+  <li>subject_story->crafted war machines that danced in battlefields with lethal grace</li>
+  <li>subject_story->balanced the trinity of speed, protection, and firepower in a symphony of destruction</li>
+  <li>subject_gerund->enhancing the anatomy of war</li>
+-->
+<VFEP_AdvancedWarcaskets.generalRules.rulesStrings>
+  <li>subject->l'évolution du warcasket</li>
+  <li>subject_story->a perfectionné la conception des warcaskets pour les rendre plus rapides, plus durables et plus polyvalents, établissant ainsi de nouvelles normes dans le domaine de la guerre mécanisée</li>
+  <li>subject_story->a conçu des machines de guerre qui dansaient sur les champs de bataille avec une grâce mortelle</li>
+  <li>subject_story->a équilibré la trinité de la vitesse, de la protection et de la puissance de feu dans une symphonie de destruction</li>
+  <li>subject_gerund->l'amélioration de l'anatomie de la guerre</li>
+</VFEP_AdvancedWarcaskets.generalRules.rulesStrings>
+
+<!-- EN: spacer warcaskets -->
+<VFEP_SpacerWarcaskets.label>warcaskets spatiales</VFEP_SpacerWarcaskets.label>
+<!-- EN: Manufacture Spacer-era warcaskets - a pinacle of war technology. -->
+<VFEP_SpacerWarcaskets.description>Vous permet de fabriquer des warcaskets de l'ère spatiale - un pinacle de la technologie de guerre.</VFEP_SpacerWarcaskets.description>
+<!-- EN:
+  <li>subject->pinnacle of mechanized warfare</li>
+  <li>subject_story->crafted warcaskets that harnessed spacer-era technology, embodying the zenith of military engineering</li>
+  <li>subject_story->merged the cutting edge of space-age tech with the ancient art of war, creating unparalleled battle machines</li>
+  <li>subject_story->redefined the battlefield with warcaskets that were legends incarnate</li>
+  <li>subject_gerund->achieving the apex of combat evolution</li>
+-->
+<VFEP_SpacerWarcaskets.generalRules.rulesStrings>
+  <li>subject->l'apogée de la guerre mécanisée</li>
+  <li>subject_story->a fabriqué des warcaskets qui exploitent la technologie de l'ère spatiale, incarnant le zénith de l'ingénierie militaire</li>
+  <li>subject_story->a fusionné la technologie de pointe de l'ère spatiale avec l'art ancien de la guerre, créant ainsi des machines de combat inégalées</li>
+  <li>subject_story->a redéfini le champ de bataille avec des warcaskets qui étaient des légendes incarnées</li>
+  <li>subject_gerund->l'apogée de l'évolution du combat</li>
+</VFEP_SpacerWarcaskets.generalRules.rulesStrings>
+
+<!-- EN: spacer warcasket weaponry -->
+<VFEP_SpacerWarcasketWeaponry.label>armement des warcaskets spatiales</VFEP_SpacerWarcasketWeaponry.label>
+<!-- EN: Utilise new spacer technologies to create upscaled weapons designed to be mounted on warcaskets. -->
+<VFEP_SpacerWarcasketWeaponry.description>Vous permet d'utiliser les nouvelles technologies spatiales pour créer des armes améliorées conçues pour être montées sur des warcaskets.</VFEP_SpacerWarcasketWeaponry.description>
+<!-- EN:
+  <li>subject->spacer-grade armaments</li>
+  <li>subject_story->harnessed the mysteries of spacer tech to craft weapons of unrivaled potency for warcaskets</li>
+  <li>subject_story->ushered in an era where warcaskets wielded the power to alter the course of wars with a single shot</li>
+  <li>subject_story->married the art of war to the science of the stars, creating armaments born of the cosmos</li>
+  <li>subject_gerund->wielding the stars' wrath</li>
+-->
+<VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings>
+  <li>subject->l'armement de qualité spatiale</li>
+  <li>subject_story->a maîtrisé les mystères de la technologie spatiale pour fabriquer des armes d'une puissance inégalée pour les warcaskets</li>
+  <li>subject_story->a inauguré une ère où les warcaskets avaient le pouvoir de modifier le cours des guerres d'un seul tir</li>
+  <li>subject_story->a marié l'art de la guerre à la science des étoiles, créant des armements nés du cosmos</li>
+  <li>subject_gerund->la colère des étoiles</li>
+</VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings>
+
+<!-- EN: specialised warcaskets -->
+<VFEP_SpecialisedWarcaskets.label>warcaskets spécialisés</VFEP_SpecialisedWarcaskets.label>
+<!-- EN: Manufacture warcaskets designed to fit specialized roles. -->
+<VFEP_SpecialisedWarcaskets.description>Vous permet de fabriquer des warcaskets conçus pour s'adapter à des rôles spécifiques.</VFEP_SpecialisedWarcaskets.description>
+<!-- EN:
+  <li>subject->custom combat solutions</li>
+  <li>subject_story->designed warcaskets with specialized roles, from silent assassins to unstoppable juggernauts</li>
+  <li>subject_story->broke the mold of traditional warfare, introducing units tailored for specific tactical needs</li>
+  <li>subject_story->elevated the warcasket program to new heights with bespoke war machines</li>
+  <li>subject_gerund->specializing the gears of war</li>
+-->
+<VFEP_SpecialisedWarcaskets.generalRules.rulesStrings>
+  <li>subject->les solutions de combat personnalisées</li>
+  <li>subject_story->a conçu des warcaskets avec des rôles spécialisés, allant des assassins silencieux aux juggernauts inarrêtables</li>
+  <li>subject_story->a brisé le moule de la guerre traditionnelle en introduisant des unités adaptées à des besoins tactiques spécifiques</li>
+  <li>subject_story->a porté le programme des warcaskets à de nouveaux sommets grâce à des machines de guerre sur mesure</li>
+  <li>subject_gerund->la spécialisation des engrenages de la guerre</li>
+</VFEP_SpecialisedWarcaskets.generalRules.rulesStrings>
+
+<!-- EN: sweat fermentation -->
+<VFEP_SweatFermentation.label>fermentation sudorale</VFEP_SweatFermentation.label>
+<!-- EN: Craft suits which combine alcohol distillation and nutrient paste synthesis to produce rum from recycled human waste. -->
+<VFEP_SweatFermentation.description>Vous permet de fabriquer des combinaisons artisanales qui combinent la distillation de l'alcool et la synthèse de la pâte nutritive pour produire du rhum à partir de déchets humains recyclés.</VFEP_SweatFermentation.description>
+<!-- EN:
+  <li>subject->biochemical ingenuity</li>
+  <li>subject_story->turned the cycle of waste into a source of sustenance and spirit, crafting rum from the sweat of toil</li>
+  <li>subject_story->blurred the lines between distillation and desperation, finding innovation in the unconventional</li>
+  <li>subject_story->created a self-sustaining cycle of work, waste, and whiskey, fueling both body and morale</li>
+  <li>subject_gerund->brewing resilience from refuse</li>
+-->
+<VFEP_SweatFermentation.generalRules.rulesStrings>
+  <li>subject->l'ingéniosité biochimique</li>
+  <li>subject_story->a transformé le cycle des déchets en source de subsistance et d'esprit, en fabriquant du rhum à partir de la sueur du labeur</li>
+  <li>subject_story->a brouillé les lignes entre la distillation et le désespoir, trouvant l'innovation dans le non conventionnel</li>
+  <li>subject_story->a créé un cycle auto-entretenu de travail, de gaspillage et de whisky, alimentant à la fois le corps et le moral</li>
+  <li>subject_gerund->la résilience des déchets au service du brassage</li>
+</VFEP_SweatFermentation.generalRules.rulesStrings>
+
+<!-- EN: warcasket removal -->
+<VFEP_WarcasketRemoval.label>Retrait des warcaskets</VFEP_WarcasketRemoval.label>
+<!-- EN: Unlocks the operation “remove warcasket” to remove a pawn from a warcasket, losing both their arms and legs, and reducing the warcasket to slag. -->
+<VFEP_WarcasketRemoval.description>Vous permet de déverrouiller l'opération "retirer le warcasket" pour retirer un colon d'un warcasket, en perdant ses bras et ses jambes, et en réduisant le warcasket en scories.</VFEP_WarcasketRemoval.description>
+<!-- EN:
+  <li>subject->the cost of war</li>
+  <li>subject_story->developed techniques to reclaim warriors from their metal confines, a bittersweet victory over the machine</li>
+  <li>subject_story->faced the grim reality of extracting the human core from the war machine, sacrificing limb for life</li>
+  <li>subject_story->turned the promise of mechanized might into the pain of loss, with every warcasket removal a reminder of war's toll</li>
+  <li>subject_gerund->unraveling the bond between flesh and steel</li>
+-->
+<VFEP_WarcasketRemoval.generalRules.rulesStrings>
+  <li>subject->le coût de la guerre</li>
+  <li>subject_story->a mis au point des techniques pour libérer les guerriers de leur carcan de métal, une victoire douce-amère sur la machine</li>
+  <li>subject_story->a été confronté à la triste réalité de l'extraction du noyau humain de la machine de guerre, en sacrifiant un membre pour la vie</li>
+  <li>subject_story->a transformé la promesse d'une puissance mécanisée en douleur de la perte, le retrait de chaque warcasket rappelant le tribut payé à la guerre</li>
+  <li>subject_gerund->la rupture du lien entre la chair et l'acier</li>
+</VFEP_WarcasketRemoval.generalRules.rulesStrings>
+
+<!-- EN: warcaskets -->
+<VFEP_Warcaskets.label>warcaskets</VFEP_Warcaskets.label>
+<!-- EN: Build warcasket foundries to manufacture basic warcasket parts and outfit pawns to utilise said warcaskets. -->
+<VFEP_Warcaskets.description>Vous permet de construire des fonderies warcaskets pour fabriquer des pièces de base de warcaskets et équiper les colons pour utiliser ces warcaskets.</VFEP_Warcaskets.description>
+<!-- EN:
+  <li>subject->mechanized infantry development</li>
+  <li>subject_story->initiated the age of warcaskets, transforming foot soldiers into titans on the battlefield</li>
+  <li>subject_story->mastered the art of warcasket manufacturing, melding metal and might into a singular force</li>
+  <li>subject_story->ushered in a new era of warfare, where the line between man and machine blurred</li>
+  <li>subject_gerund->pioneering the future of combat</li>
+-->
+<VFEP_Warcaskets.generalRules.rulesStrings>
+  <li>subject->le développement de l'infanterie mécanisée</li>
+  <li>subject_story->a initié l'ère des warcaskets, transformant les fantassins en titans sur le champ de bataille</li>
+  <li>subject_story->a maîtrisé l'art de la fabrication des warcaskets, fusionnant le métal et la puissance en une force singulière</li>
+  <li>subject_story->a inauguré une nouvelle ère de la guerre, où la frontière entre l'homme et la machine s'est estompée</li>
+  <li>subject_gerund->l'avant-garde de l'avenir du combat</li>
+</VFEP_Warcaskets.generalRules.rulesStrings>
+
+<!-- EN: warcasket weaponry -->
+<VFEP_WarcasketWeaponry.label>armement des warcaskets</VFEP_WarcasketWeaponry.label>
+<!-- EN: Build upscaled weapons designed to be mounted on warcaskets. -->
+<VFEP_WarcasketWeaponry.description>Vous permet de fabriquer des armes à échelle supérieure conçues pour être montées sur des warcaskets.</VFEP_WarcasketWeaponry.description>
+<!-- EN:
+  <li>subject->armament innovation</li>
+  <li>subject_story->engineered devastating weaponry for warcaskets, turning them into walking arsenals</li>
+  <li>subject_story->bridged the gap between artillery power and infantry flexibility</li>
+  <li>subject_story->granted warcaskets the firepower to decimate, defend, and dominate</li>
+  <li>subject_gerund->arming the giants of war</li>
+-->
+<VFEP_WarcasketWeaponry.generalRules.rulesStrings>
+  <li>subject->l'innovation en matière d'armement</li>
+  <li>subject_story->a mis au point des armes dévastatrices pour les warcaskets, les transformant en arsenaux ambulants</li>
+  <li>subject_story->a comblé le fossé entre la puissance de l'artillerie et la souplesse de l'infanterie</li>
+  <li>subject_story->a donné aux warcaskets la puissance de feu nécessaire pour décimer, défendre et dominer</li>
+  <li>subject_gerund->l'armement des géants de la guerre</li>
+</VFEP_WarcasketWeaponry.generalRules.rulesStrings>
+
+
+</LanguageData>

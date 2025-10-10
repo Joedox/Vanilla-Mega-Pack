@@ -1,0 +1,1107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: demanded -->
+<VME_Alcohol_Demanded.label>nécessaire</VME_Alcohol_Demanded.label>
+<!-- EN: Spirits, booze, sauce, whatever you call it, we desire it. At least an occasional drink should be encouraged and we shouldn’t even think of sobriety. -->
+<VME_Alcohol_Demanded.description>Spiritueux, alcool, digestif, peu importe comment vous l'appelez, nous le désirons. Boire au moins un verre de manière occasionnelle devrait être encouragé et nous ne devrions même pas penser à la sobriété.</VME_Alcohol_Demanded.description>
+<!-- EN: Missing alcohol (3 days) -->
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>En manque d'alcool (3 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
+<!-- EN: No alcohol (5 days) -->
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>Pas d'alcool (5 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Needs alcohol (10 days) -->
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>A envie d'alcool (10 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Craves alcohol (15 days) -->
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>Désire de l'alcool (15 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Demands alcohol (30 days) -->
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>A besoin d'alcool (30 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
+
+<!-- EN: desired -->
+<VME_Alcohol_Desired.label>apprécié</VME_Alcohol_Desired.label>
+<!-- EN: Drinking is just plain fun, though not in excess. -->
+<VME_Alcohol_Desired.description>Boire est un vrai plaisir, mais pas en excès.</VME_Alcohol_Desired.description>
+<!-- EN: Missing alcohol (3 days) -->
+<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>En manque d'alcool (3 jours)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Desiring a drink (5 days) -->
+<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>Envie d'un verre (5 jours)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Wanting a drink (10 days or more) -->
+<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>Veut un verre (10 jours ou plus)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
+
+<!-- EN: mild abstinence -->
+<VME_Alcohol_MildAbstinence.label>avec modération</VME_Alcohol_MildAbstinence.label>
+<!-- EN: Alcohol is okay when consumed in small dosages, but it is better to stay away from it as long as possible. -->
+<VME_Alcohol_MildAbstinence.description>L'alcool est acceptable lorsqu'il est consommé à petites doses, mais il est préférable de s'en abstenir le plus longtemps possible.</VME_Alcohol_MildAbstinence.description>
+<!-- EN: Consumed alcohol -->
+<VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>A consommé de l'alcool</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Abstained from alcohol -->
+<VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>N'a pas consommé d'alcool</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>
+
+
+<!-- EN: required -->
+<VME_Anonymity_Required.label>requis</VME_Anonymity_Required.label>
+<!-- EN: Histrionic tendencies are despicable, through true anonymity we can achieve things thought unfathomable. For the betterment of yourself and your brothers in faith, keep your voice to a whisper and your face covered. -->
+<VME_Anonymity_Required.description>Les tendances histrioniques sont méprisables, grâce à un véritable anonymat, nous pouvons réaliser des choses que l'on croyait insondables. Pour votre bien et celui de vos frères dans la foi, parlez à voix basse et gardez votre visage couvert.</VME_Anonymity_Required.description>
+
+
+<!-- EN: despicable -->
+<Apostasy_Despicable.label>méprisable</Apostasy_Despicable.label>
+<!-- EN: Being coerced or otherwise manipulated into following a different belief is a despicable act. If somebody seeks knowledge of another's faith, then let them ask for it naturally. -->
+<Apostasy_Despicable.description>Être contraint ou manipulé à suivre une croyance différente est un acte méprisable. Si quelqu'un cherche à connaître la foi d'un autre, alors qu'il le demande naturellement.</Apostasy_Despicable.description>
+<!-- EN: Changed ideoligion -->
+<Apostasy_Despicable.comps.0.description>Idéoligion changée</Apostasy_Despicable.comps.0.description>
+
+<!-- EN: accepted -->
+<VME_Apostasy_Accepted.label>accepté</VME_Apostasy_Accepted.label>
+<!-- EN: We feel bound by authority alone to follow our current ideology, and will not think twice if an opportunity presents itself to change our ways. -->
+<VME_Apostasy_Accepted.description>Nous nous sentons forcé à suivre notre idéologie actuelle, et n'y réfléchirons pas à deux fois si une opportunité se présente de changer nos habitudes.</VME_Apostasy_Accepted.description>
+
+
+<!-- EN: amazing -->
+<VME_Aurora_Amazing.label>incroyable</VME_Aurora_Amazing.label>
+<!-- EN: Auroras are a beautiful respite from the absolute darkness. -->
+<VME_Aurora_Amazing.description>Les aurores sont un magnifique répit de l'obscurité absolue.</VME_Aurora_Amazing.description>
+
+<!-- EN: despised -->
+<VME_Aurora_Despised.label>méprisable</VME_Aurora_Despised.label>
+<!-- EN: The blinding lights in the heavens give us a nasty headache. -->
+<VME_Aurora_Despised.description>Les lumières aveuglantes dans les cieux nous donnent un méchant mal de tête.</VME_Aurora_Despised.description>
+
+
+<!-- EN: decreased -->
+<VME_AutomationEfficiency_Decreased.label>réduite</VME_AutomationEfficiency_Decreased.label>
+<!-- EN: Advanced machines and automated factories are to be shunned, for they detract from the exquisiteness of artisanal work.\n\n<color=#E5E54C>Stats:</color>\n - Electric work table speed: -50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: -25%. -->
+<VME_AutomationEfficiency_Decreased.description>Les machines avancées et les usines automatisées sont à éviter, car elles nuisent à la finesse du travail artisanal.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse des établis électriques : -50%\n - Vanilla Factions Expanded - Vitesse des usines de mécanoïdes : -25%.</VME_AutomationEfficiency_Decreased.description>
+
+<!-- EN: increased -->
+<VME_AutomationEfficiency_Increased.label>augmentée</VME_AutomationEfficiency_Increased.label>
+<!-- EN: From the woodwork of a simple bow to grand factoriums, a craftmaster knows how to craft with efficiency.\n\n<color=#E5E54C>Stats:</color>\n - Electric work table speed: +50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: +25%. -->
+<VME_AutomationEfficiency_Increased.description>Des boiseries d'un simple arc aux grands factoriums, un maître artisan sait fabriquer avec efficacité.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse des établis électriques : +50 %.\n - Vanilla Factions Expanded - Vitesse des usines de mécanoïdes : +25%.</VME_AutomationEfficiency_Increased.description>
+
+
+<!-- EN: accepted -->
+<VME_AutonomousWeapons_Accepted.label>acceptées</VME_AutonomousWeapons_Accepted.label>
+<!-- EN: Automated defenses are a good way to defend our colony. -->
+<VME_AutonomousWeapons_Accepted.description>Les défenses automatisées sont un bon moyen de défendre notre colonie.</VME_AutonomousWeapons_Accepted.description>
+<!-- EN: Automated turret in colony -->
+<VME_AutonomousWeapons_Accepted.comps.0.description>Tourelle automatisée dans la colonie</VME_AutonomousWeapons_Accepted.comps.0.description>
+
+<!-- EN: exalted -->
+<VME_AutonomousWeapons_Exalted.label>exaltées</VME_AutonomousWeapons_Exalted.label>
+<!-- EN: Automated defenses are key to a proper defense of what is ours. -->
+<VME_AutonomousWeapons_Exalted.description>Les défenses automatisées sont la clé d'une défense adéquate de ce qui nous appartient.</VME_AutonomousWeapons_Exalted.description>
+<!-- EN: Automated turret in colony -->
+<VME_AutonomousWeapons_Exalted.comps.0.description>Tourelle automatisée dans la colonie</VME_AutonomousWeapons_Exalted.comps.0.description>
+
+
+<!-- EN: only biological -->
+<VME_BodyMod_OnlyBiological.label>biologique uniquement</VME_BodyMod_OnlyBiological.label>
+<!-- EN: Flesh only should be replaced by flesh, to replace a body with a machine is forbidden.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This covers fleshcrafted limbs, natural limbs, mutant limbs from Anomaly, Vanilla Genetics Expanded implants and Alpha Animals "ocular" implants. -->
+<VME_BodyMod_OnlyBiological.description>La chair doit être remplacée par de la chair, remplacer un corps par une machine est interdit.</VME_BodyMod_OnlyBiological.description>
+
+
+<!-- EN: desired -->
+<VME_BookQuality_Desired.label>désiré</VME_BookQuality_Desired.label>
+<!-- EN: There is nothing that would make us happier than acquiring exquisite tomes of knowledge for our colony. -->
+<VME_BookQuality_Desired.description>Il n'y a rien qui nous rendrait plus heureux que d'acquérir des tomes exquis de connaissances pour notre colonie.</VME_BookQuality_Desired.description>
+<!-- EN: A single legendary book -->
+<VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.0>Un seul livre légendaire</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Two legendary books -->
+<VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.1>Deux livres légendaires</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Three legendary books -->
+<VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.2>Trois livres légendaires</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Four legendary books -->
+<VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.3>Quatre livres légendaires</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Five or more legendary books -->
+<VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.4>Cinq livres légendaires ou plus</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.4>
+
+
+<!-- EN: decreased -->
+<VME_BookReadingSpeed_Decreased.label>réduite</VME_BookReadingSpeed_Decreased.label>
+<!-- EN: Reading is not something that can be rushed. It is important to spend a lot of time on each page, absorbing all the little details. -->
+<VME_BookReadingSpeed_Decreased.description>La lecture n'est pas une activité que l'on peut mener à la hâte. Il est important de passer beaucoup de temps sur chaque page, d'absorber tous les petits détails.</VME_BookReadingSpeed_Decreased.description>
+
+<!-- EN: increased -->
+<VME_BookReadingSpeed_Increased.label>augmentée</VME_BookReadingSpeed_Increased.label>
+<!-- EN: Books are an open window to a world filled with wonders. We love reading and will quickly devour any text we come across. -->
+<VME_BookReadingSpeed_Increased.description>Les livres sont une fenêtre ouverte sur un monde plein de merveilles. Nous aimons lire et nous dévorons rapidement tout texte qui nous tombe sous la main.</VME_BookReadingSpeed_Increased.description>
+
+
+<!-- EN: essential -->
+<VME_Corruption_Essential.label>essentielle</VME_Corruption_Essential.label>
+<!-- EN: It is by the hand of an omniscient and all-powerful ancient god that we are threatened. Let us partake in an ever-obscuring, ritualistic way of life, that it may shield us from such baneful judgements. -->
+<VME_Corruption_Essential.description>C'est par la main d'un ancien dieu omniscient et tout-puissant que nous sommes menacés. Participons à un mode de vie toujours plus obscur et ritualiste, afin qu'il puisse nous protéger de jugements aussi funestes.</VME_Corruption_Essential.description>
+
+
+<!-- EN: decreased -->
+<VME_CraftingQuality_Decreased.label>diminuée</VME_CraftingQuality_Decreased.label>
+<!-- EN: We don't care about artisanal work. Why create something when you can buy it or steal it from others?\n\n<color=#E5E54C>Gameplay effect:</color>\n - Decreases quality of items created on a worktable by 1, down to Awful. -->
+<VME_CraftingQuality_Decreased.description>Nous ne nous soucions pas du travail artisanal. Pourquoi créer quelque chose quand on peut l'acheter ou le voler à d'autres ?\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Diminue la qualité des éléments créés de 1, jusqu'à horrible.</VME_CraftingQuality_Decreased.description>
+
+<!-- EN: increased -->
+<VME_CraftingQuality_Increased.label>augmentée</VME_CraftingQuality_Increased.label>
+<!-- EN: We pride ourselves in our work, and take no shortcuts in achieving perfection.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Increases quality of items created on a worktable by 1, up to Legendary. -->
+<VME_CraftingQuality_Increased.description>Nous sommes fiers de notre travail et ne prenons aucun raccourci pour atteindre la perfection.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Augmente la qualité des objets créés de 1, jusqu'à légendaire.</VME_CraftingQuality_Increased.description>
+
+
+<!-- EN: slower -->
+<VME_CraftingSpeed_Slower.label>plus lente</VME_CraftingSpeed_Slower.label>
+<!-- EN: A craftmaster must never rush, lest the quality of the product suffer. -->
+<VME_CraftingSpeed_Slower.description>Un maître artisan ne doit jamais se précipiter, de peur que la qualité du produit n'en souffre.</VME_CraftingSpeed_Slower.description>
+
+<!-- EN: slower for manual -->
+<VME_CraftingSpeed_SlowerForManual.label>plus lente pour le manuel</VME_CraftingSpeed_SlowerForManual.label>
+<!-- EN: Manual processes are unefficient. We can't waste our precious lives toiling away in mindless manual labour.\n\n<color=#E5E54C>Stats:</color>\n - Non-electric work table speed: -25%. -->
+<VME_CraftingSpeed_SlowerForManual.description>Les processus manuels sont inefficaces. Nous ne pouvons pas gaspiller nos précieuses vies à travailler dur dans un travail manuel insensé.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse des établis non électriques: -25%.</VME_CraftingSpeed_SlowerForManual.description>
+
+
+<!-- EN: don't care -->
+<VME_Death_DontCare.label>insignifiante</VME_Death_DontCare.label>
+<!-- EN: Death is inevitable, should we lose an ally or slay an enemy it is not to be thought about.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists won't get any mood effects for losing other colonists. -->
+<VME_Death_DontCare.description>La mort est inévitable, si nous perdons un allié ou tuons un ennemi, il ne faut pas y penser.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons n'auront aucun effet d'humeur s'ils perdent d'autres colons.</VME_Death_DontCare.description>
+
+<!-- EN: normal -->
+<VME_Death_Normal.label>normale</VME_Death_Normal.label>
+<!-- EN: Death is inevitable, an incredibly sad fact of life. -->
+<VME_Death_Normal.description>La mort est inévitable, une réalité incroyablement triste de la vie.</VME_Death_Normal.description>
+
+<!-- EN: troubling -->
+<VME_Death_Troubling.label>troublante</VME_Death_Troubling.label>
+<!-- EN: Death is inevitable, but we prefer not to dwell on it and not be reminded of its reality as much as possible. -->
+<VME_Death_Troubling.description>La mort est inévitable, mais nous préférons ne pas nous y attarder et ne pas nous souvenir le plus possible de sa réalité.</VME_Death_Troubling.description>
+
+
+<!-- EN: dishonorable -->
+<VME_Defeat_Dishonorable.label>déshonorant</VME_Defeat_Dishonorable.label>
+<!-- EN: Suffering a setback on the battlefield is an insult to body, mind, and spirit.\n\n<color=#E5E54C>Gameplay effect:</color>\n - A colonist that is downed in combat by a humanlike enemy twice in less than 30 days will start requiring a ceremonial suicide ritual to cleanse his dishonor. Mechanoids and animals don't count for this. -->
+<VME_Defeat_Dishonorable.description>Subir un revers sur le champ de bataille est une insulte au corps et à l'esprit.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Un colon abattu au combat par un ennemi semblable à un humain deux fois en moins de 30 jours commencera à exiger un rituel de seppuku pour nettoyer son déshonneur. Les mécanoïdes et les animaux ne comptent pas.</VME_Defeat_Dishonorable.description>
+
+
+<!-- EN: disliked -->
+<VME_DumbLabor_Disliked.label>peu apprécié</VME_DumbLabor_Disliked.label>
+<!-- EN: We'd rather not do cleaning and hauling tasks, as they are incredibly exhausting, but they are necessary. -->
+<VME_DumbLabor_Disliked.description>Nous préférons ne pas effectuer de tâches de nettoyage et de transport, car bien que nécesaires, elles sont incroyablement épuisantes.</VME_DumbLabor_Disliked.description>
+
+<!-- EN: exalted -->
+<VME_DumbLabor_Exalted.label>exalté</VME_DumbLabor_Exalted.label>
+<!-- EN: An aching body is to be revered. Nearly nothing is found more rewarding than a day of hard work. -->
+<VME_DumbLabor_Exalted.description>Un corps douloureux doit être vénéré. Rien n'est plus gratifiant qu'une journée de travail acharnée.</VME_DumbLabor_Exalted.description>
+
+<!-- EN: horrible -->
+<VME_DumbLabor_Horrible.label>horrible</VME_DumbLabor_Horrible.label>
+<!-- EN: We should not suffer the laborious degradation of our bodies, nor the degradation of sweat forming on our brow.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Leader and Moralist roles will be incapable of Dumb Labor. -->
+<VME_DumbLabor_Horrible.description>Notre corps ne doit ne doit pas connaître le dur labeur, et la sueur ne doit pas couler sur notre front.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Les rôles de chef et de moraliste seront incapables de faire du travail peu qualifié.</VME_DumbLabor_Horrible.description>
+
+<!-- EN: indifferent -->
+<VME_DumbLabor_Indifferent.label>indifférent</VME_DumbLabor_Indifferent.label>
+<!-- EN: Dumb tasks are necessary. That's all there is to it. -->
+<VME_DumbLabor_Indifferent.description>Les tâches peu qualifiées sont nécessaires. C'est tout ce qu'on peut en dire.</VME_DumbLabor_Indifferent.description>
+
+<!-- EN: liked -->
+<VME_DumbLabor_Liked.label>apprécié</VME_DumbLabor_Liked.label>
+<!-- EN: Hard work is good for your body and for your mind. -->
+<VME_DumbLabor_Liked.description>Le travail manuel est bon pour votre corps et votre esprit.</VME_DumbLabor_Liked.description>
+
+
+<!-- EN: despised -->
+<VME_Eclipse_Despised.label>méprisées</VME_Eclipse_Despised.label>
+<!-- EN: Eclipses are scary, a preternatural darkness bloating the light of the sun. -->
+<VME_Eclipse_Despised.description>Les éclipses sont effrayantes, une obscurité surnaturelle bloquant la lumière du soleil.</VME_Eclipse_Despised.description>
+
+
+<!-- EN: despised -->
+<VME_Elders_Despised.label>méprisés</VME_Elders_Despised.label>
+<!-- EN: What is this, a retirement home? Get out of my way, fossil! -->
+<VME_Elders_Despised.description>Qu'est-ce que c'est, une maison de retraite ? Dégage de mon chemin, fossile !</VME_Elders_Despised.description>
+<!-- EN: Elder (more than 65 years) -->
+<VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>Aîné (plus de 65 ans)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Youth (less than 25 years) -->
+<VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>Jeune (moins de 25 ans)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
+
+<!-- EN: holy -->
+<VME_Elders_Holy.label>vénérés</VME_Elders_Holy.label>
+<!-- EN: Our elders are to be respected and revered, and never shall we expect them to do hard work.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists older than 65 will not do dumb labor. -->
+<VME_Elders_Holy.description>Nos aînés doivent être respectés et vénérés, et nous n'attendrons jamais d'eux qu'ils fassent un travail acharné.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons de plus de 65 ans ne feront pas de travail peu qualifié.</VME_Elders_Holy.description>
+<!-- EN: Elder (more than 65 years) -->
+<VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>Aîné (plus de 65 ans)</VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>
+
+<!-- EN: respected -->
+<VME_Elders_Respected.label>respectés</VME_Elders_Respected.label>
+<!-- EN: True wisdom comes only with age, and those who have seen many seasons are to be venerated. -->
+<VME_Elders_Respected.description>La vraie sagesse ne vient qu'avec l'âge, et ceux qui ont connu plusieurs saisons doivent être respectés.</VME_Elders_Respected.description>
+<!-- EN: Elder (more than 65 years) -->
+<VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>Aîné (plus de 65 ans)</VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>
+
+
+<!-- EN: high -->
+<VME_Expectations_High.label>hautes</VME_Expectations_High.label>
+<!-- EN: Our people are creatures of comfort, even the commoners among us deserve to relax or be pampered from time to time.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Expectations increased by 1 for everyone in the colony, except elite and supreme, which are unaffected for balance reasons. -->
+<VME_Expectations_High.description>Nos gens sont des créatures de confort, même les roturiers parmi nous méritent de se détendre ou de se faire dorloter de temps en temps.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les attentes ont augmenté de 1 pour tout le monde dans la colonie.</VME_Expectations_High.description>
+
+<!-- EN: low -->
+<VME_Expectations_Low.label>basses</VME_Expectations_Low.label>
+<!-- EN: The Rim is an inhospitable place. We shouldn't expect a comfy live.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Expectations lowered by 1 for everyone in the colony, except elite and supreme, which are unaffected for balance reasons. -->
+<VME_Expectations_Low.description>La Bordure est un endroit inhospitalier. Il ne faut pas s'attendre à une vie confortable.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Attentes réduites de 1 pour tout le monde dans la colonie.</VME_Expectations_Low.description>
+
+
+<!-- EN: high -->
+<VME_FarmingYield_High.label>important</VME_FarmingYield_High.label>
+<!-- EN: Each vegetable or fruit harvested should be harvested down to the last stem, root, or leaf. Leave not a single bit of produce unharvested.\n\n<color=#E5E54C>Stats:</color>\n - Farming yield: +10%. -->
+<VME_FarmingYield_High.description>Chaque légume ou fruit récolté doit être récolté jusqu'à la dernière tige, racine ou feuille. Ne laissez pas un seul morceau de produit non récolté.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Rendement agricole: +10%.</VME_FarmingYield_High.description>
+
+
+<!-- EN: desired -->
+<VME_Fire_Desired.label>désiré</VME_Fire_Desired.label>
+<!-- EN: The warmth of ash, the light of embers, scintillating flame is an awesome sight to behold.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists get moods bonuses depending on the number of active fires on the map. Campfires, torches, other vanilla fire sources and Stone Campfires from Vanilla Furniture Expanded - Core also count. -->
+<VME_Fire_Desired.description>La chaleur de la cendre, la lumière des braises, la flamme scintillante est un spectacle impressionnant à voir.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons obtiennent des bonus d'humeur en fonction du nombre de feux actifs sur la carte. Feux de camp, torches, feux de camp en pierre de Vanilla Furniture Expanded et les foyers de Vanilla Factions Expanded - Les Vikings comptent également.</VME_Fire_Desired.description>
+<!-- EN: No fires nearby -->
+<VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>Pas de feu à proximité</VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Very few fires -->
+<VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>Très peu de feux</VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Small fires -->
+<VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>De petits feux</VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Saw fires -->
+<VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>Présence de feux</VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Amazing fires -->
+<VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>Des feux flambloyants</VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>
+<!-- EN: Beautiful fires -->
+<VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>Des feux grandioses</VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>
+
+<!-- EN: despised -->
+<VME_Fire_Despised.label>méprisé</VME_Fire_Despised.label>
+<!-- EN: There is nothing as disgusting as an out of control fire. The flames shall be avoided by any means necessary, for their destructive power is unmatched.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists get negative moods depending on the number of active fires on the map. Campfires, torches, other vanilla fire sources and Stone Campfires from Vanilla Furniture Expanded - Core also count. -->
+<VME_Fire_Despised.description>Il n'y a rien de plus dégoûtant qu'un incendie incontrôlable. Les flammes doivent être évitées par tous les moyens nécessaires, car leur pouvoir destructeur est inégalé.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons obtiennent des malus d'humeur en fonction du nombre de feux actifs sur la carte. Feux de camp, torches, feux de camp en pierre de Vanilla Furniture Expanded et les foyers de Vanilla Factions Expanded - Les Vikings comptent également.</VME_Fire_Despised.description>
+<!-- EN: No fires nearby -->
+<VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>Pas de feu à proximité</VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Very few fires -->
+<VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>Très peu de feux</VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Small fire -->
+<VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>De petits feux</VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Saw fire -->
+<VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>Présence de feux</VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Blazing fires -->
+<VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>Des feux flamboyants</VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>
+<!-- EN: Conflagration -->
+<VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>Incendie</VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>
+
+
+<!-- EN: abhorrent -->
+<VME_Firefighting_Abhorrent.label>détesté</VME_Firefighting_Abhorrent.label>
+<!-- EN: To quash a sacred flame is to commit an unspeakable sin. -->
+<VME_Firefighting_Abhorrent.description>Éteindre une flamme sacrée, c'est commettre un péché indicible.</VME_Firefighting_Abhorrent.description>
+
+<!-- EN: preferred -->
+<VME_Firefighting_Preferred.label>respecté</VME_Firefighting_Preferred.label>
+<!-- EN: There is nothing more exhilarating than extinguishing a dangerous fire. -->
+<VME_Firefighting_Preferred.description>Il n'y a rien de plus exaltant que d'éteindre un incendie dangereux.</VME_Firefighting_Preferred.description>
+
+
+<!-- EN: don't care -->
+<VME_FungusEating_DontCare.label>indifférent</VME_FungusEating_DontCare.label>
+<!-- EN: Fungus goes well with lasagna. -->
+<VME_FungusEating_DontCare.description>Le champignon se marie bien avec les lasagnes.</VME_FungusEating_DontCare.description>
+
+
+<!-- EN: required -->
+<VME_Hospital_Required.label>requis</VME_Hospital_Required.label>
+<!-- EN: A place of refuge and healing is essential for the long-term health of our community. It’s important to make sure we have open beds and plenty of medicine should the worst come to worst.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists gets mood penalties / bonuses depending on size of hospital rooms found in the map. Only hospital rooms with an impressiveness of "decent" or higher will count for this calculation. Hospitals will need to be clean or colonists will complain too! -->
+<VME_Hospital_Required.description>Un lieu de refuge et de guérison est essentiel pour la santé à long terme de notre communauté. Il est important de s'assurer que nous avons des lits ouverts et beaucoup de médicaments si le pire devait arriver.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons reçoivent des pénalités / bonus d'humeur en fonction de la taille des chambres d'hôpital trouvées sur la carte. Seules les chambres d'hôpital dont l'impression est "décente" ou supérieure compteront pour ce calcul.</VME_Hospital_Required.description>
+<!-- EN: Need hospital -->
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>Besoin d'un hôpital</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Unimpressive hospital (less than decent impressiveness) -->
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Hôpital médiocre (inférieur à décent)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Dirty hospital -->
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Hôpital sale</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Small hospital (less than 25 tiles) -->
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Petit hôpital (moins de 25 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Spacious hospital (less than 50 tiles) -->
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>Grand hôpital (moins de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>
+<!-- EN: Huge hospital (more than 50 tiles) -->
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.5>Immense hôpital (plus de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.5>
+
+
+<!-- EN: exalted -->
+<VME_Illness_Exalted.label>exaltée</VME_Illness_Exalted.label>
+<!-- EN: To be infected is to be blessed, and to go long without blessing is regrettable. -->
+<VME_Illness_Exalted.description>Être infecté, c'est être béni, et rester longtemps sans bénédiction est regrettable.</VME_Illness_Exalted.description>
+
+<!-- EN: indifferent -->
+<VME_Illness_Indifferent.label>indifférent</VME_Illness_Indifferent.label>
+<!-- EN: Illness is just another fact of life. -->
+<VME_Illness_Indifferent.description>La maladie n'est qu'une autre réalité de la vie.</VME_Illness_Indifferent.description>
+
+<!-- EN: preferred -->
+<VME_Illness_Preferred.label>appréciée</VME_Illness_Preferred.label>
+<!-- EN: Being sick gives you an excuse to lie down and work less. It's worth it! -->
+<VME_Illness_Preferred.description>Être malade vous donne une excuse pour vous allonger et travailler moins. Ça en vaut la peine!</VME_Illness_Preferred.description>
+
+
+<!-- EN: enhanced -->
+<VME_Immunity_Enhanced.label>renforcée</VME_Immunity_Enhanced.label>
+<!-- EN: Plague, suffering, pain, these are all but temporary visitors through which my body acts as a divine conduit. Brief will be their respite in my being, for they will bestow themselves to fellow plague children before long. -->
+<VME_Immunity_Enhanced.description>Peste, souffrance, douleur, ce ne sont que des visiteurs temporaires à travers lesquels mon corps agit comme un conduit divin. Bref sera leur répit dans mon être, car ils se donneront bientôt à d'autres enfants de la peste.</VME_Immunity_Enhanced.description>
+
+
+<!-- EN: despised -->
+<VME_InsectJellyEaten_Despised.label>méprisée</VME_InsectJellyEaten_Despised.label>
+<!-- EN: Insect jelly is a disgusting concept. -->
+<VME_InsectJellyEaten_Despised.description>La gelée d'insectes est un concept dégoûtant.</VME_InsectJellyEaten_Despised.description>
+
+<!-- EN: loved -->
+<VME_InsectJellyEaten_Loved_Classic.label>appréciée</VME_InsectJellyEaten_Loved_Classic.label>
+<!-- EN: Insect jelly is divine ambrosia, a gift from perfect creatures. -->
+<VME_InsectJellyEaten_Loved_Classic.description>La gelée d'insectes est une ambroisie divine, un cadeau de créatures parfaites.</VME_InsectJellyEaten_Loved_Classic.description>
+
+<!-- EN: neutral -->
+<VME_InsectJellyEaten_Neutral_Classic.label>neutre</VME_InsectJellyEaten_Neutral_Classic.label>
+<!-- EN: Insect jelly is smooth, rich and nourishing, even though it has some... questionable origins. -->
+<VME_InsectJellyEaten_Neutral_Classic.description>La gelée d'insectes est onctueuse, riche et nourrissante, même si elle a des origines... discutables.</VME_InsectJellyEaten_Neutral_Classic.description>
+
+
+<!-- EN: don't care -->
+<VME_InsectMeatEating_DontCare.label>indifférent</VME_InsectMeatEating_DontCare.label>
+<!-- EN: Insect meat is just another type of meat. There are innumerable cultures in human history with a rich entomophagy tradition. -->
+<VME_InsectMeatEating_DontCare.description>La viande d'insecte n'est qu'un autre type de viande. Il existe d'innombrables cultures dans l'histoire de l'humanité avec une riche tradition d'entomophagie.</VME_InsectMeatEating_DontCare.description>
+
+<!-- EN: abhorrent -->
+<VME_InsectMeatEating_Sacrilegious.label>dégoûtante</VME_InsectMeatEating_Sacrilegious.label>
+<!-- EN: Eating the flesh of divine insects is vile and disgusting, even the idea of putting it near your mouth should be met with embarrassment. -->
+<VME_InsectMeatEating_Sacrilegious.description>Manger la chair d'insectes divins est ignoble et dégoûtant, même l'idée de la mettre près de votre bouche devrait être gênante.</VME_InsectMeatEating_Sacrilegious.description>
+
+
+<!-- EN: despised -->
+<VME_Insectoids_Despised.label>méprisés</VME_Insectoids_Despised.label>
+<!-- EN: Insects are our enemies, a plague that deserves to be exterminated. -->
+<VME_Insectoids_Despised.description>Les insectes sont nos ennemis, un fléau qui mérite d'être exterminé.</VME_Insectoids_Despised.description>
+
+<!-- EN: exalted -->
+<VME_Insectoids_Exalted.label>exaltés</VME_Insectoids_Exalted.label>
+<!-- EN: Insects are not our enemies, only misunderstood and they certainly don’t deserve our aggression. -->
+<VME_Insectoids_Exalted.description>Les insectes ne sont pas nos ennemis, seulement incompris et ils ne méritent certainement pas notre agressivité.</VME_Insectoids_Exalted.description>
+
+
+<!-- EN: beautiful -->
+<VME_Junk_Beautiful.label>beaux</VME_Junk_Beautiful.label>
+<!-- EN: The machinations of old are breath-taking, and their weathering should be viewed as art. It's wonderful to live surrounded by things discarded by others.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Ancient junk buildings can be uninstalled and placed again as needed.\n - Colonists get mood penalties / bonuses depending on amount of ancient junk buildings in a 20 tiles radius around them. Effect checks approximately once every 5 hours. -->
+<VME_Junk_Beautiful.description>Les machines d'autrefois sont à couper le souffle et leur altération doit être considérée comme de l'art. C'est merveilleux de vivre entouré de choses rejetées par les autres.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les anciens bâtiments indésirables peuvent être désinstallés et placés à nouveau si nécessaire.\n - Les colons reçoivent des pénalités/bonus d'humeur en fonction de la quantité d'anciens bâtiments indésirables dans un rayon de 20 cases autour d'eux. Contrôles d'effet environ une fois toutes les 5 heures.</VME_Junk_Beautiful.description>
+<!-- EN: No junk -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>Aucun ancien débris</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Few pieces of ancient junk (1 nearby) -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>Ancien débris (1 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Few pieces of ancient junk (2 nearby) -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>Ancien débris (2 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Few pieces of ancient junk (3 nearby) -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>Ancien débris (3 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Few pieces of ancient junk (4 nearby) -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>Ancien débris (4 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>
+<!-- EN: very little junk (5 nearby) -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>Très peu d'ancien débris (5 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>
+<!-- EN: Small junk -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>Peu d'ancien débris</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>
+<!-- EN: Saw junk -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>Présence d'ancien débris</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>
+<!-- EN: Amazing junk -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>Superbe ancien débris</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>
+<!-- EN: Beautiful junk -->
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>Magnifique ancien débris</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>
+
+<!-- EN: preferred -->
+<VME_Junk_Preferred.label>préférés</VME_Junk_Preferred.label>
+<!-- EN: Ancient junk reminds us of the tribulations of our forefathers, subject to the eternal struggle of humanity among the stars. We can learn a great deal from studying this discarded tech.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Ancient junk buildings can be uninstalled and placed again as needed.\n - Colonists get moderate mood penalties / bonuses depending on amount of ancient junk buildings in a 20 tiles radius around them. Effect checks approximately once every 5 hours. -->
+<VME_Junk_Preferred.description>Les anciens déchets nous rappellent les tribulations de nos ancêtres, soumis à la lutte éternelle de l'humanité parmi les étoiles. Nous pouvons apprendre beaucoup de l'étude de cette technologie abandonnée.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les anciens bâtiments indésirables peuvent être désinstallés et placés à nouveau si nécessaire.\n - Les colons reçoivent des pénalités/bonus d'humeur en fonction de la quantité d'anciens bâtiments indésirables dans un rayon de 20 cases autour d'eux. Contrôles d'effet environ une fois toutes les 5 heures.</VME_Junk_Preferred.description>
+<!-- EN: No junk -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>Aucun ancien débris</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Few pieces of ancient junk (1 nearby) -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>Ancien débris (1 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Few pieces of ancient junk (2 nearby) -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>Ancien débris (2 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Few pieces of ancient junk (3 nearby) -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>Ancien débris (3 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Few pieces of ancient junk (4 nearby) -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>Ancien débris (4 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>
+<!-- EN: very little junk (5 nearby) -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>Très peu d'ancien débris (5 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>
+<!-- EN: Small junk -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>Peu d'ancien débris</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>
+<!-- EN: Saw junk -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>Présence d'ancien débris</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>
+<!-- EN: Plenty of junk -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>Beaucoup d'ancien débris</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>
+<!-- EN: Lots of junk -->
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>Une tonne d'ancien débris</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>
+
+
+<!-- EN: high -->
+<VME_JunkDeconstructionYield_High.label>haut</VME_JunkDeconstructionYield_High.label>
+<!-- EN: To throw away that which could be reused is utterly wasteful, every last shred of leather or fragment of steel can be repurposed.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Deconstructing a building returns 100% of its original materials. This also applies to destroying a building (as long as the building produces resources when destroyed), and when failing to construct it. -->
+<VME_JunkDeconstructionYield_High.description>Jeter ce qui pourrait être réutilisé est un gaspillage total, chaque dernier lambeau de cuir ou fragment d'acier peut être réutilisé.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Déconstruire un bâtiment restitue 100 % de ses matériaux d'origine. Cela s'applique également à la destruction d'un bâtiment (tant que le bâtiment produit des ressources lorsqu'il est détruit) et à l'échec de sa construction.</VME_JunkDeconstructionYield_High.description>
+
+
+<!-- EN: abhorrent -->
+<VME_KillingWithFire_Abhorrent.label>détesté</VME_KillingWithFire_Abhorrent.label>
+<!-- EN: Watching a person burn to dead without trying to help is horrible, and should be avoided at all costs. -->
+<VME_KillingWithFire_Abhorrent.description>Regarder une personne brûler sans essayer d'aider est horrible et devrait être évité à tout prix.</VME_KillingWithFire_Abhorrent.description>
+
+<!-- EN: preferred -->
+<VME_KillingWithFire_Preferred.label>préféré</VME_KillingWithFire_Preferred.label>
+<!-- EN: To watch my enemies be burnt in sacred fire elates our kind like nothing else can. -->
+<VME_KillingWithFire_Preferred.description>Regarder mes ennemis être brûlés dans un feu sacré exalte notre espèce comme rien d'autre ne peut le faire.</VME_KillingWithFire_Preferred.description>
+
+
+<!-- EN: best psycaster -->
+<VME_Leader_BestPsycaster.label>meilleur psylanceur</VME_Leader_BestPsycaster.label>
+<!-- EN: We will only be led by one who’s proven themselves to be our most powerful psyker among us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest level psycaster in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest psylink level in your colony. Even if the current leader has the same level. -->
+<VME_Leader_BestPsycaster.description>Nous ne serons dirigés que par celui qui s'est avéré être notre psyker le plus puissant parmi nous.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Le rôle de leader sera périodiquement imposé au psylanceur de plus haut niveau de la colonie (cela ne fonctionnera que si l'idéologie est la principale). Le rôle de leader sera attribué au dernier pion ayant atteint le niveau de lien psychique le plus élevé de votre colonie. Même si le leader actuel a le même niveau.</VME_Leader_BestPsycaster.description>
+
+<!-- EN: highest title -->
+<VME_Leader_HighestTitle.label>plus haut titre</VME_Leader_HighestTitle.label>
+<!-- EN: Standing at imperial court is the most significant trait a leader can have.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest royalty title in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest royalty title in your colony. Even if the current leader has the same level. -->
+<VME_Leader_HighestTitle.description>Se tenir à la cour impériale est le trait le plus important qu'un dirigeant puisse avoir.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Le rôle de leader sera périodiquement imposé au titre de royauté le plus élevé de la colonie (uniquement si cette idéologie est la principale). Le rôle de leader sera assigné au dernier colon qui a obtenu le titre de royauté le plus élevé dans votre colonie. Même si le leader actuel a le même niveau.</VME_Leader_HighestTitle.description>
+
+
+<!-- EN: best crafter -->
+<VME_Leader_BestCrafter.label>meilleur artisan</VME_Leader_BestCrafter.label>
+<!-- EN: Our most skilled artisan is our leader, through their keen eye and delicate touch our workshops will sing the song of creation.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest level crafter in the colony (this will only work if the ideology is the primary one). -->
+<VME_Leader_BestCrafter.description>Notre artisan le plus qualifié est notre chef, par son œil vif et son toucher délicat nos ateliers chanteront les louanges de la création.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Le rôle de chef sera périodiquement imposé à l'artisan le plus qualifié de la colonie (cela ne fonctionnera que si l'idéologie est la principale).</VME_Leader_BestCrafter.description>
+
+<!-- EN: best fighter -->
+<VME_Leader_BestFighter.label>meilleur combattant</VME_Leader_BestFighter.label>
+<!-- EN: Martial expertise, be it with a blade or spear is a show of strength and courage. Our most talented fighter will be our leader, no questions asked (this will only work if the ideology is the primary one). -->
+<VME_Leader_BestFighter.description>L'expertise martiale, que ce soit avec une lame ou une lance, est une démonstration de force et de courage. Notre combattant le plus talentueux sera notre chef, sans poser de questions (cela ne fonctionnera que si l'idéologie est la principale).</VME_Leader_BestFighter.description>
+
+<!-- EN: godlike -->
+<VME_Leader_Godlike.label>divin</VME_Leader_Godlike.label>
+<!-- EN: Our leader should be exalted as a god, to treat them as any less assures our demise.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Opinion of the leader depends on a person's certainty in its ideoligion. -->
+<VME_Leader_Godlike.description>Notre chef devrait être glorifié comme un dieu, ne pas le traiter comme tel est l'assurance de notre disparition.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - L'opinion qu'un colon aura du chef dépendra de sa certitude en son idéoligie.</VME_Leader_Godlike.description>
+<!-- EN: Supreme god emperor (certainty above 75%) -->
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>Dieu suprême empereur (certitude supérieure à 75%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
+<!-- EN: God emperor (certainty above 50%) -->
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>Dieu empereur (certitude supérieure à 50%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Dubious divinity (certainty above 25%) -->
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>Divinité douteuse (certitude supérieure à 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
+<!-- EN: False god (certainty below 25%) -->
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>Faux dieu (certitude inférieure à 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
+
+<!-- EN: moralist -->
+<VME_Leader_Moralist.label>moraliste</VME_Leader_Moralist.label>
+<!-- EN: Our leader is a morale bastion, and through them and their divinity we shall flourish.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The colony's leader can use moralist abilities too. -->
+<VME_Leader_Moralist.description>Notre chef est un bastion moral, et à travers lui et ses divinités nous prospérerons.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Le chef de la colonie peut également utiliser les capacités de moraliste.</VME_Leader_Moralist.description>
+
+<!-- EN: three -->
+<VME_Leader_Three.label>trois</VME_Leader_Three.label>
+<!-- EN: It’s vital that we put our trust in the hands of few rather than the hand of one.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Up to three people can be designated as leader. -->
+<VME_Leader_Three.description>Il est vital que nous placions notre confiance dans les mains de plusieurs plutôt que dans celles d'un seul.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n -Jusqu'à trois personnes peuvent être désignées comme chef.</VME_Leader_Three.description>
+
+
+<!-- EN: abhorrent -->
+<VME_LeatherApparel_Abhorrent.label>odieux</VME_LeatherApparel_Abhorrent.label>
+<!-- EN: Slaughtering an animal to use its skin as apparel is cruel and inhumane. -->
+<VME_LeatherApparel_Abhorrent.description>Abattre un animal pour utiliser sa peau comme vêtement est cruel et inhumain.</VME_LeatherApparel_Abhorrent.description>
+
+<!-- EN: disliked -->
+<VME_LeatherApparel_Disliked.label>désapprouvé</VME_LeatherApparel_Disliked.label>
+<!-- EN: Using animal leathers is something that should be avoided. -->
+<VME_LeatherApparel_Disliked.description>L'utilisation de cuirs d'animaux est quelque chose qui devrait être évité.</VME_LeatherApparel_Disliked.description>
+
+
+<!-- EN: normal preferred -->
+<VME_Darklight_NormalPreferred.label>normale préférée</VME_Darklight_NormalPreferred.label>
+<!-- EN: Darklight is an unnatural and cheap imitation of the miracle that is light, and should be avoided. -->
+<VME_Darklight_NormalPreferred.description>La lumière tamisée est une imitation contre nature et bon marché du miracle qu'est la lumière et doit être évitée.</VME_Darklight_NormalPreferred.description>
+
+<!-- EN: despised -->
+<VME_DarknessCombat_Despised.label>méprisée</VME_DarknessCombat_Despised.label>
+<!-- EN: Beyond being difficult to fight in, bloodshed should never take place in darkness, lest the enemy be spared peering into your eyes before you end their lives. -->
+<VME_DarknessCombat_Despised.description>En plus d'être difficile à combattre, l'effusion de sang ne devrait jamais avoir lieu dans l'obscurité, de peur que l'ennemi ne soit épargné de vous regarder dans les yeux avant que vous ne mettiez fin à ses jours.</VME_DarknessCombat_Despised.description>
+
+
+<!-- EN: abhorrent (strict) -->
+<VME_MeatEating_Abhorrent_Strict.label>dégoûtant</VME_MeatEating_Abhorrent_Strict.label>
+<!-- EN: Eating meat of any kind is deeply evil. Consuming any animal product is immoral. -->
+<VME_MeatEating_Abhorrent_Strict.description>Manger de la viande, quelle qu'elle soit, est profondément maléfique. Consommer n'importe quel produit animal est immoral.</VME_MeatEating_Abhorrent_Strict.description>
+
+
+<!-- EN: despised -->
+<VME_Mechanoids_Despised.label>désapprouvé</VME_Mechanoids_Despised.label>
+<!-- EN: Mechanoids are an abomination, a reminder of man's hubris. -->
+<VME_Mechanoids_Despised.description>Les mécanoïdes sont une abomination, un rappel de l'orgueil de l'homme.</VME_Mechanoids_Despised.description>
+
+<!-- EN: exalted -->
+<VME_Mechanoids_Exalted.label>exalté</VME_Mechanoids_Exalted.label>
+<!-- EN: To destroy a child of machination is a short-sighted and foolish act. -->
+<VME_Mechanoids_Exalted.description>Détruire un enfant de machination est un acte à courte vue et insensé.</VME_Mechanoids_Exalted.description>
+
+
+<!-- EN: exquisite -->
+<VME_Meditation_Exquisite.label>exquis</VME_Meditation_Exquisite.label>
+<!-- EN: Hear, feel, think… Beyond meditation, enter trance and surrender yourself to your own soul and those souls around it. -->
+<VME_Meditation_Exquisite.description>Écoutez, ressentez, pensez… Au-delà de la méditation, entrez en transe et abandonnez-vous à votre propre âme et aux âmes qui l'entourent.</VME_Meditation_Exquisite.description>
+
+
+<!-- EN: dictated by stars -->
+<VME_Mood_DictatedByStars.label>dicté par les étoiles</VME_Mood_DictatedByStars.label>
+<!-- EN: The endless sea of stars in our skies will dictate my future, be it benevolent or otherwise.\n\n<color=#E5E54C>Gameplay effect:</color>\n - After every Divine the Stars ritual, a solar eclipse or an aurora, mood will randomly change between -30 and +30. -->
+<VME_Mood_DictatedByStars.description>La mer infinie d'étoiles dans nos cieux dictera mon avenir, qu'il soit bienveillant ou autre.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Après chaque rituel de divination des étoiles, une éclipse solaire ou une aurore, l'humeur changera aléatoirement entre -30 et +30.</VME_Mood_DictatedByStars.description>
+<!-- EN: Stars are aligned -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.0>Les étoiles sont alignées</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Stars are perfect -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.1>Les étoiles sont parfaites</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Stars are excellent -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.2>Les étoiles sont excellentes</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Stars are good -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.3>Les étoiles sont bonnes</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Stars are indifferent -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.4>Les étoiles sont indifférentes</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.4>
+<!-- EN: Stars are bad -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.5>Les étoiles sont mauvaises</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.5>
+<!-- EN: Stars are not on my side -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.6>Les étoiles ne sont pas de mon côté</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.6>
+<!-- EN: Stars are a bad omen -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.7>Les étoiles sont de mauvais augure</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.7>
+<!-- EN: Stars are aligned… against me -->
+<VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.8>Les étoiles sont alignées… contre moi</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.8>
+
+<!-- EN: high spirits -->
+<VME_Mood_HighExpectations.label>optimiste</VME_Mood_HighExpectations.label>
+<!-- EN: The whole world is ours to explore and enjoy. -->
+<VME_Mood_HighExpectations.description>Le monde entier est à nous, à explorer et à apprécier.</VME_Mood_HighExpectations.description>
+
+<!-- EN: low spirits -->
+<VME_Mood_LowExpectations.label>pessimiste</VME_Mood_LowExpectations.label>
+<!-- EN: We are stranded on a lost, forgotten planet on the Rim. Things can hardly get worse. -->
+<VME_Mood_LowExpectations.description>Nous sommes bloqués sur une planète perdue et oubliée de la Bordure. Les choses peuvent difficilement empirer.</VME_Mood_LowExpectations.description>
+
+<!-- EN: normal -->
+<VME_Mood_Normal.label>normal</VME_Mood_Normal.label>
+<!-- EN: I'm fine, thanks. -->
+<VME_Mood_Normal.description>Je vais bien, merci.</VME_Mood_Normal.description>
+
+<!-- EN: shared -->
+<VME_Mood_Shared.label>partagé</VME_Mood_Shared.label>
+<!-- EN: Empathy is a quality we must all strive to possess. We bear each other's burdens as well as each other's jubilations.\n\n<color=#E5E54C>Gameplay effect:</color>\n - If the average colony mood is happy, colonists receive a positive thought, and vice versa. -->
+<VME_Mood_Shared.description>L'empathie est une qualité que nous devons tous nous efforcer de posséder. Nous portons les fardeaux les uns des autres ainsi que les jubilations les uns des autres.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Si l'humeur moyenne de la colonie est heureuse, les colons reçoivent une pensée positive, et vice versa.</VME_Mood_Shared.description>
+<!-- EN: Average colony mood is positive -->
+<VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>L'humeur moyenne de la colonie est positive</VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Average colony mood is negative -->
+<VME_Mood_Shared.comps.0.thoughtStageDescriptions.1>L'humeur moyenne de la colonie est négative</VME_Mood_Shared.comps.0.thoughtStageDescriptions.1>
+
+
+<!-- EN: post mortem -->
+<VME_OrganUse_PostMortem.label>post mortem</VME_OrganUse_PostMortem.label>
+<!-- EN: The organs of one’s being should never go to waste, so long as their vessel is no longer required.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Through the fleshcrafter role, the colony can butcher fresh humanoid bodies to acquire fleshcrafted organs. -->
+<VME_OrganUse_PostMortem.description>Les organes de l'être ne devraient jamais se perdre, tant que leur vaisseau n'est plus nécessaire.\n\n&lt;color=#E5E54C&gt;Effet du gameplay:&lt;/color&gt;\n - Grâce au rôle d'artisan de chair, vous pouvez découper des corps humanoïdes frais pour acquérir des organes fabriqués en chair.</VME_OrganUse_PostMortem.description>
+
+
+<!-- EN: don't care -->
+<VME_Pain_DontCare.label>indifférent</VME_Pain_DontCare.label>
+<!-- EN: Pain is only in your mind, so long as your spirit remains whole, you are in control of it. -->
+<VME_Pain_DontCare.description>La douleur n'est que dans votre esprit, tant que votre esprit reste entier, vous en avez le contrôle.</VME_Pain_DontCare.description>
+
+
+<!-- EN: desired -->
+<VME_PermanentBases_Desired.label>désirées</VME_PermanentBases_Desired.label>
+<!-- EN: Our colony should become our forever home, the more buildings, paths, and lights we can erect the better off we’ll all be.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists gets mood penalties / bonuses depending on amount of buildings on the map. "Building" is a completely enclosed structure with at least 25 tiles size. -->
+<VME_PermanentBases_Desired.description>Notre colonie devrait devenir notre maison pour toujours, plus nous pourrons ériger de bâtiments, de chemins et de lumières, mieux nous nous porterons tous.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons reçoivent des pénalités / bonus d'humeur en fonction du nombre de bâtiments sur la carte. Le "bâtiment" est une structure complètement fermée avec un minimum de 25 cases.</VME_PermanentBases_Desired.description>
+<!-- EN: Magnificent city (more than 20 buildings) -->
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>Ville magnifique (plus de 20 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Lots of beautiful buildings (less than 20 buildings) -->
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>Beaucoup de beaux bâtiments (moins de 20 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Many beautiful buildings (less than 15 buildings) -->
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>De beaux bâtiments (moins de 15 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Burgeoning city (less than 10 buildings) -->
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>Ville en plein essor (moins de 10 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Not enough buildings (less than 5 buildings) -->
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>Pas assez de bâtiments (moins de 5 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>
+
+<!-- EN: despised -->
+<VME_PermanentBases_Despised.label>méprisées</VME_PermanentBases_Despised.label>
+<!-- EN: Our colony is only temporary, should we stay it will only be a matter of time before we are unable to defend it, it is better to never gain such comfort.\n\n<color=#E5E54C>Stats:</color>\n - Farming yield: -10%.\n - Gathering yield: +40%.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This precept will only work when using the vanilla game world system. Vehicles for example won't interact with it. Using other mods such as Caravan Adventure to leave the map won't work either. You need to use vanilla systems. -->
+<VME_PermanentBases_Despised.description>Notre colonie n'est que temporaire, si nous restons ce ne sera qu'une question de temps avant que nous ne soyons incapables de la défendre, il vaut mieux ne jamais gagner un tel confort.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Rendement agricole: -10%.\n - Rendement de récolte: +40%.</VME_PermanentBases_Despised.description>
+<!-- EN: Wanderlust (15 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>Esprit d'aventure (15 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Wanderlust (16 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>Esprit d'aventure (16 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Wanderlust (17 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>Esprit d'aventure (17 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Wanderlust (20 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>Esprit d'aventure (20 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Wanderlust (30 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>Esprit d'aventure (30 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>
+<!-- EN: Wanderlust (40 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>Esprit d'aventure (40 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>
+<!-- EN: Wanderlust (50 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>Esprit d'aventure (50 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>
+<!-- EN: Wanderlust (60 days) -->
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>Esprit d'aventure (60 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>
+
+
+<!-- EN: increased -->
+<VME_PermitCooldown_Increased.label>augmentée</VME_PermitCooldown_Increased.label>
+<!-- EN: Patience is a virtue, and now a necessity, as the cooldown of permits is doubled. Time crawls as the court awaits the next invocation of royal privilege. -->
+<VME_PermitCooldown_Increased.description>La patience est une vertu, et maintenant une nécessité, car la durée des licences est doublée. Le temps s'écoule tandis que la Cour attend la prochaine demande du privilège royal.</VME_PermitCooldown_Increased.description>
+
+<!-- EN: lowered -->
+<VME_PermitCooldown_Lowered.label>réduite</VME_PermitCooldown_Lowered.label>
+<!-- EN: Royalty demands swift action; thus, the cooldown of permits is lessened, allowing for a more rapid response to the ever-changing whims of noble desire. -->
+<VME_PermitCooldown_Lowered.description>La royauté exige des actions rapides ; ainsi, la durée des licences est réduite, ce qui permet une réponse plus rapide aux caprices toujours changeants des désirs de la noblesse.</VME_PermitCooldown_Lowered.description>
+
+
+<!-- EN: doubled -->
+<VME_PermitHonorCost_Doubled.label>doublé</VME_PermitHonorCost_Doubled.label>
+<!-- EN: Every call for aid is a heavy toll, a demand of honor twice the usual rate. Such is the price of urgency, a cost only to be borne when the need is direst. -->
+<VME_PermitHonorCost_Doubled.description>Chaque appel à l'aide est un lourd tribut, une demande d'honneur multipliée par deux. Tel est le prix de l'urgence, un coût qui ne doit être supporté que lorsque le besoin est le plus pressant.</VME_PermitHonorCost_Doubled.description>
+
+<!-- EN: halved -->
+<VME_PermitHonorCost_Halved.label>réduit de moitié</VME_PermitHonorCost_Halved.label>
+<!-- EN: The honored have the privilege of calling upon their allies more frequently, their requests for aid met with a nod and a half a cost, easing the burden of leadership. -->
+<VME_PermitHonorCost_Halved.description>Les membres d'honneur ont le privilège de faire appel à leurs alliés plus fréquemment, leurs demandes d'aide étant accueillies par un hochement de tête et d'un coût divisé par deux, ce qui allège le fardeau du commandement.</VME_PermitHonorCost_Halved.description>
+
+
+<!-- EN: desired -->
+<VME_Power_Desired.label>désiré</VME_Power_Desired.label>
+<!-- EN: Craving to be one of the powerful elite is a very understandable desire and should not be looked down upon. -->
+<VME_Power_Desired.description>Le désir de faire partie de l'élite puissante est un désir très compréhensible et ne doit pas être méprisé.</VME_Power_Desired.description>
+<!-- EN: Leader and moralist -->
+<VME_Power_Desired.comps.0.thoughtStageDescriptions.0>Chef et moraliste</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
+
+<!-- EN: exalted -->
+<VME_Power_Exalted.label>exalté</VME_Power_Exalted.label>
+<!-- EN: I am righteousness! I am no mere king—I have ascended to godhood! Bow before me, or atone with your life. -->
+<VME_Power_Exalted.description>Je suis justice ! Je ne suis pas un simple roi, je suis devenu un dieu ! Inclinez-vous devant moi ou expier votre vie.</VME_Power_Exalted.description>
+<!-- EN: Leader -->
+<VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>Chef</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
+
+<!-- EN: preferred -->
+<VME_Power_Preferred.label>préféré</VME_Power_Preferred.label>
+<!-- EN: It’s unthinkable to be considered a commoner. I want people to take my word seriously and put forth great effort not to disappoint me. -->
+<VME_Power_Preferred.description>Il est impensable d'être considéré comme un roturier. Je veux que les gens prennent ma parole au sérieux et fassent de gros efforts pour ne pas me décevoir.</VME_Power_Preferred.description>
+<!-- EN: Any ideo role -->
+<VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>N'importe quel rôle idéologique</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
+
+
+<!-- EN: forceful -->
+<VME_Proselytizing_Forceful.label>forcé</VME_Proselytizing_Forceful.label>
+<!-- EN: If somebody can’t see the error in their ways, then we are not beyond resorting to aggression to show them, it’s an obligation to our creed. -->
+<VME_Proselytizing_Forceful.description>Si quelqu'un ne voit pas l'erreur dans son credo, alors nous ne sommes pas à l'abri de recourir à la violence pour lui faire comprendre, c'est une obligation envers notre credo.</VME_Proselytizing_Forceful.description>
+
+<!-- EN: never -->
+<VME_Proselytizing_Never.label>jamais</VME_Proselytizing_Never.label>
+<!-- EN: Everyone has their own truth, and everyone should respect the rights of others to follow their own.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Disables conversion rituals and the convert ability of the moralist role. -->
+<VME_Proselytizing_Never.description>Chacun a sa propre vérité et chacun doit respecter le droit des autres à suivre la sienne.\n\n&lt;color=#E5E54C&gt;Effet du gameplay:&lt;/color&gt;\n - Désactive les rituels de conversion et la capacité de conversion du rôle de moraliste.</VME_Proselytizing_Never.description>
+
+
+<!-- EN: heightened -->
+<VME_PsychicSensitivity_Heightened.label>augmentée</VME_PsychicSensitivity_Heightened.label>
+<!-- EN: Reach with your mind to encompass the whole world. Let your mind be a swift weapon of psychic retribution. -->
+<VME_PsychicSensitivity_Heightened.description>Atteignez avec votre esprit pour englober le monde entier. Laissez votre esprit être une arme rapide de rétribution psychique.</VME_PsychicSensitivity_Heightened.description>
+
+<!-- EN: lowered -->
+<VME_PsychicSensitivity_Lowered.label>abaissée</VME_PsychicSensitivity_Lowered.label>
+<!-- EN: Barricade your mind to all thoughts that aren’t your own. Let your mind be a veritable fortress of unwavering mental constitution. -->
+<VME_PsychicSensitivity_Lowered.description>Barricadez votre esprit à toutes les pensées qui ne sont pas les vôtres. Laissez votre esprit être une véritable forteresse de constitution mentale inébranlable.</VME_PsychicSensitivity_Lowered.description>
+
+
+<!-- EN: doubled -->
+<VME_PsyfocusGain_Doubled.label>doublé</VME_PsyfocusGain_Doubled.label>
+<!-- EN: By inducing trance on oneself and reaching erudition you cast away the shackles of the physical and find the ability to manipulate the world just as trivial as breathing. -->
+<VME_PsyfocusGain_Doubled.description>En induisant la transe en soi et en atteignant l'érudition, vous vous débarrassez des entraves du physique et trouvez la capacité de manipuler le monde tout aussi insignifiante que la respiration.</VME_PsyfocusGain_Doubled.description>
+
+
+<!-- EN: abhorrent -->
+<VME_Raiding_Abhorrent.label>odieux</VME_Raiding_Abhorrent.label>
+<!-- EN: We worked hard for what we have, we cannot take from the weak as we too were once weak. Doing so is a tremendous shame.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Any raid will trigger this precept. Even those with a defensive focus such as problem causers. Yes, it's tough. -->
+<VME_Raiding_Abhorrent.description>Nous avons travaillé dur pour ce que nous avons, nous ne pouvons pas prendre aux faibles car nous aussi nous étions autrefois faibles. C'est une honte énorme.</VME_Raiding_Abhorrent.description>
+<!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+<VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>Moins de {DAYSSINCELASTRAIDTHRESHOLD} jours depuis notre dernier pillage</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>
+<!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+<VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>Plus de {DAYSSINCELASTRAIDTHRESHOLD} jours depuis notre dernier pillage</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>
+
+<!-- EN: honorable -->
+<VME_Raiding_Honorable.label>honorable</VME_Raiding_Honorable.label>
+<!-- EN: We display our strength and perseverance through conquest, and in doing so we bring honor to our colony. -->
+<VME_Raiding_Honorable.description>Nous montrons notre force et notre persévérance à travers la conquête, et ce faisant, nous faisons honneur à notre colonie.</VME_Raiding_Honorable.description>
+<!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+<VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>Moins de {DAYSSINCELASTRAIDTHRESHOLD} jours depuis notre dernier pillage</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>
+<!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+<VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>Plus de {DAYSSINCELASTRAIDTHRESHOLD} jours depuis notre dernier pillage</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>
+
+
+<!-- EN: disliked -->
+<VME_Ranching_Disliked.label>détesté</VME_Ranching_Disliked.label>
+<!-- EN: Keeping animals captive to consume their flesh and their resources is deeply immoral and should be avoided at all costs. Growing our own fruits and vegetables is a much nobler pursuit. -->
+<VME_Ranching_Disliked.description>Garder des animaux captifs pour consommer leur chair et leurs ressources est profondément immoral et doit être évité à tout prix. Cultiver nos propres fruits et légumes est une activité bien plus noble.</VME_Ranching_Disliked.description>
+<!-- EN: No pen markers around -->
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>Pas d'enclos aux alentours</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Pen marker around -->
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>Un enclos aux alentours</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Pen markers around (2 or 3) -->
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>Des enclos aux alentours</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Factory farming (more than 3 pen markers) -->
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>Elevage industriel</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>
+
+<!-- EN: nomadic -->
+<VME_Ranching_Nomadic.label>nomade</VME_Ranching_Nomadic.label>
+<!-- EN: A nomad is nothing without their trusty steed. Developing a bond with beasts of burden means traveling this world will never be a lonely endeavour. -->
+<VME_Ranching_Nomadic.description>Un nomade n'est rien sans son fidèle destrier. Développer un lien avec les bêtes de somme signifie que voyager dans ce monde ne sera jamais une entreprise solitaire.</VME_Ranching_Nomadic.description>
+
+
+<!-- EN: disapproved -->
+<VME_Recreation_Disapproved.label>désapprouvé</VME_Recreation_Disapproved.label>
+<!-- EN: Recreation is a waste of time.\n\n<color=#E5E54C>Stats:</color>\n - Colonists get -5 mood for half a day after doing a recreation job. -->
+<VME_Recreation_Disapproved.description>Les loisirs sont une perte de temps.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Les colons auront un malus d'humeur de -5 pendant une demi-journée après s'être divertis.</VME_Recreation_Disapproved.description>
+
+<!-- EN: loved -->
+<VME_Recreation_Loved.label>aimé</VME_Recreation_Loved.label>
+<!-- EN: Fun and games aren’t optional - Enjoy every moment of recreation and make it the best you can for yourself and your friends.\n\n<color=#E5E54C>Stats:</color>\n - Colonists gain recreation at 50% the speed when using any Joy buildings.\n - Increases by 50% the mood buff acquired by colonists after a party. -->
+<VME_Recreation_Loved.description>Le plaisir et les jeux ne sont pas facultatifs - Profitez de chaque moment de divertissement et faites-en le meilleur possible pour vous et vos amis.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Les colons gagnent en divertissement à 50% de la vitesse lorsqu'ils utilisent n'importe quel bâtiment de loisir.\n - Augmente de 50% le bonus d'humeur acquis par les colons après une fête.</VME_Recreation_Loved.description>
+
+<!-- EN: normal -->
+<VME_Recreation_Normal.label>normal</VME_Recreation_Normal.label>
+<!-- EN: Recreation is an important part of life. -->
+<VME_Recreation_Normal.description>Les loisirs sont une partie importante de la vie.</VME_Recreation_Normal.description>
+
+
+<!-- EN: bonfire -->
+<VME_BonfirePrecept.label>feu de joie</VME_BonfirePrecept.label>
+<!-- EN: A huge ritual bonfire. -->
+<VME_BonfirePrecept.description>Un immense feu de joie rituel.</VME_BonfirePrecept.description>
+
+
+<!-- EN: ceremonial suicide -->
+<VME_CeremonialSuicidePrecept.label>seppuku</VME_CeremonialSuicidePrecept.label>
+<!-- EN: A ceremonial suicide. -->
+<VME_CeremonialSuicidePrecept.description>Un suicide cérémoniel.</VME_CeremonialSuicidePrecept.description>
+
+
+<!-- EN: divine the stars -->
+<VME_DivineStarsPrecept.label>rituel divinatoire</VME_DivineStarsPrecept.label>
+<!-- EN: A divination ritual. -->
+<VME_DivineStarsPrecept.description>Un rituel divinatoire.</VME_DivineStarsPrecept.description>
+
+
+<!-- EN: incantation -->
+<VME_IncantationPrecept.label>incantation</VME_IncantationPrecept.label>
+<!-- EN: An incantation. A dark chant to appease the eldritch entities that defy all natural laws. -->
+<VME_IncantationPrecept.description>Une incantation. Un chant sombre pour apaiser les entités surnaturelles qui défient toutes les lois naturelles.</VME_IncantationPrecept.description>
+
+
+<!-- EN: insectoid hymn -->
+<VME_InsectoidHymnPrecept.label>hymne insectoïde</VME_InsectoidHymnPrecept.label>
+<!-- EN: An insectoid hymn. The ritual will refresh the cooldown of the insectoid herder's "Construct a Nest" ability. If the ritual gets the best possible result it will make any insectoids currently assaulting the colony flee. Except the Black HIve, those want your blood. -->
+<VME_InsectoidHymnPrecept.description>Un hymne insectoïde. Le rituel rafraîchira le temps de recharge de la capacité "Construire un nid" du dompteur d'insectoïdes. Si le rituel obtient le meilleur résultat possible, il fera fuir tous les insectoïdes qui attaquent actuellement la colonie. Sauf la Ruche Noire, ceux-là veulent votre sang.</VME_InsectoidHymnPrecept.description>
+
+
+<!-- EN: conversion ritual (leader) -->
+<VME_LeaderConversion.label>rituel de conversion (chef)</VME_LeaderConversion.label>
+<!-- EN: The leader tries to persuade someone into joining your ideoligion. -->
+<VME_LeaderConversion.description>Le chef essaie de persuader quelqu'un de rejoindre votre idéologie.</VME_LeaderConversion.description>
+
+
+<!-- EN: leadership challenge -->
+<VME_LeadershipChallengePrecept.label>défi de commandement</VME_LeadershipChallengePrecept.label>
+<!-- EN: A leadership challenge. -->
+<VME_LeadershipChallengePrecept.description>Un défi de commandement.</VME_LeadershipChallengePrecept.description>
+
+
+<!-- EN: orgy -->
+<VME_OrgyPrecept.label>orgie</VME_OrgyPrecept.label>
+<!-- EN: An orgy. Participants will ignore any sexual preferences during the event's duration. -->
+<VME_OrgyPrecept.description>Une orgie. Les participants ignoreront toute préférence sexuelle pendant la durée de l'événement.</VME_OrgyPrecept.description>
+
+
+<!-- EN: plague festival -->
+<VME_PlagueFestivalPrecept.label>festival de la peste</VME_PlagueFestivalPrecept.label>
+<!-- EN: A plague festival. -->
+<VME_PlagueFestivalPrecept.description>Un festival de la peste.</VME_PlagueFestivalPrecept.description>
+
+
+<!-- EN: slave emancipation -->
+<VME_SlaveEmancipationPrecept.label>affranchissement</VME_SlaveEmancipationPrecept.label>
+<!-- EN: Cast off your shackles, and should you find us suitable, be welcomed within our community as kin and kith alike. Should you find your new home ill-suited for your needs, we wish you a warm, albeit melancholy goodbye. -->
+<VME_SlaveEmancipationPrecept.description>Débarrassez-vous de vos chaînes, et si vous nous trouvez convenable, soyez les bienvenus au sein de notre communauté en tant que parents et amis. Si vous trouvez votre nouvelle maison inadaptée à vos besoins, nous vous souhaitons un au revoir chaleureux, quoique mélancolique.</VME_SlaveEmancipationPrecept.description>
+
+
+<!-- EN: trading fair -->
+<VME_TradingFairPrecept.label>foire commerciale</VME_TradingFairPrecept.label>
+<!-- EN: A trading fair. -->
+<VME_TradingFairPrecept.description>Une foire commerciale.</VME_TradingFairPrecept.description>
+
+
+<!-- EN: violent conversion -->
+<VME_ViolentConversionPrecept.label>conversion violente</VME_ViolentConversionPrecept.label>
+<!-- EN: Infidels must either join our cause, or their skulls shall be caved in with a thousand hammers. -->
+<VME_ViolentConversionPrecept.description>Les infidèles doivent soit rejoindre notre cause, soit leurs crânes seront brisés par mille marteaux.</VME_ViolentConversionPrecept.description>
+
+
+<!-- EN: wicker man burning -->
+<VME_WickerManBurningPrecept.label>homme en osier brûlant</VME_WickerManBurningPrecept.label>
+<!-- EN: A wicker man burning. -->
+<VME_WickerManBurningPrecept.description>Un homme en osier brûlant.</VME_WickerManBurningPrecept.description>
+
+
+<!-- EN: commissar -->
+<VME_IdeoRole_Commissar.label>commissaire</VME_IdeoRole_Commissar.label>
+<!-- EN: A brave and ruthless military tactician who specializes in leading by means of fear and threats. Capable of executing insubordinate pawns in order to motivate the rest. -->
+<VME_IdeoRole_Commissar.description>Un tacticien militaire courageux et impitoyable qui se spécialise dans la conduite par la peur et les menaces. Capable d'exécuter des colons insoumis afin de motiver les autres.</VME_IdeoRole_Commissar.description>
+
+
+<!-- EN: fire keeper -->
+<VME_IdeoRole_FireKeeper.label>pompier</VME_IdeoRole_FireKeeper.label>
+<!-- EN: A keeper of sacred flame whose primary job is to control pyres, bonfires, and kilns. Respected unanimously by their disciples, they have no qualms extinguishing fires and followers will respect their decisions to do so. All Firekeepers possess the ability to ignite flame sources and cause an explosion. -->
+<VME_IdeoRole_FireKeeper.description>Un gardien de la flamme sacrée dont le travail principal est de contrôler les bûchers, les feux de joie et les fours. Respectés à l'unanimité par leurs disciples, ils n'hésitent pas à éteindre les incendies et leurs fidèles respecteront leurs décisions de le faire. Tous les pompiers possèdent la capacité d'allumer des sources de flammes et de provoquer une explosion.</VME_IdeoRole_FireKeeper.description>
+
+
+<!-- EN: fleshcrafter -->
+<VME_IdeoRole_Fleshcrafter.label>médecin légiste</VME_IdeoRole_Fleshcrafter.label>
+<!-- EN: A veritable anatomical expert capable of excising organs from recently deceased cadavers. Because of organ damage and decay only between one and three organs will be harvested at random and the rest of the corpse will be reduced to meat. -->
+<VME_IdeoRole_Fleshcrafter.description>Un véritable spécialiste de l'anatomie capable d'exciser les organes de cadavres récemment décédés. En raison des dommages aux organes et de la pourriture, seuls un à trois organes seront prélevés au hasard et le reste du cadavre sera réduit en viande.</VME_IdeoRole_Fleshcrafter.description>
+
+
+<!-- EN: insectoid herder -->
+<VME_IdeoRole_InsectoidHerder.label>dompteur d'insectoïdes</VME_IdeoRole_InsectoidHerder.label>
+<!-- EN: A talented tamer of insectoids. Through study or natural talent these leaders are capable of immediately understanding and controlling insectoid creatures, however, as a sacred bond they are not allowed to partake in any other kinds of work. Insectoid herders can erect insectoid hives as part of a short ritual. -->
+<VME_IdeoRole_InsectoidHerder.description>Un talentueux dompteur d'insectoïdes. Grâce à l'étude ou au talent naturel, ces dirigeants sont capables de comprendre et de contrôler immédiatement les créatures insectoïdes, cependant, en tant que lien sacré, ils ne sont pas autorisés à participer à d'autres types de travail. Les éleveurs insectoïdes peuvent ériger des ruches insectoïdes dans le cadre d'un court rituel.</VME_IdeoRole_InsectoidHerder.description>
+
+
+<!-- EN: majordomo -->
+<VME_IdeoRole_Majordomo.label>majordome</VME_IdeoRole_Majordomo.label>
+<!-- EN: A management specialist, Majordomo is the steward of nobility and overseer of estates. They wield authority to organize, manage, and ensure the seamless operation of every aspect of aristocratic life, but are unable to hold titles themselves. They possess an ability to inspire everyone around them to go an extra mile, at the cost of greatly lowering their recreation.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Gains recreation from any work. -->
+<VME_IdeoRole_Majordomo.description>Spécialiste de la gestion, le Majordome est l'intendant de la noblesse et le superviseur des domaines. Il a le pouvoir d'organiser, de gérer et d'assurer le bon fonctionnement de tous les aspects de la vie aristocratique, mais il ne peut pas porter de titre lui-même. Il a la capacité d'inciter tous ceux qui l'entourent à se surpasser, au prix d'une baisse considérable de leurs plaisirs.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Se divertir grâce à n'importe quel travail.</VME_IdeoRole_Majordomo.description>
+
+
+<!-- EN: mechacker -->
+<VME_IdeoRole_Mechacker.label>mécahackeur</VME_IdeoRole_Mechacker.label>
+<!-- EN: A brilliant engineer capable of assembling mechanoid effigies. Unlike their lazy counterparts, Mechackers are willing to do all work types. All Mechackers possess the ability to overload and detonate turrets or hostile mechanoids, causing an explosion. -->
+<VME_IdeoRole_Mechacker.description>Un brillant ingénieur capable d'assembler des effigies mécanoïdes. Contrairement à leurs homologues paresseux, les mécahackeurs sont prêts à faire tous les types de travail. Tous les mécahackeurs possèdent la capacité de surcharger et de faire exploser des tourelles ou des mécanoïdes hostiles, provoquant une explosion.</VME_IdeoRole_Mechacker.description>
+
+
+<!-- EN: merchant -->
+<VME_IdeoRole_Merchant.label>commerçant</VME_IdeoRole_Merchant.label>
+<!-- EN: A welcoming and charismatic, though somewhat cutthroat trader, specializes in establishing mercantile routes with other colonies. Can signal for a random friendly faction trade caravan to make a detour directly to the colony every 5 days. Also receives a small bonus to trading prices through sheer charisma. -->
+<VME_IdeoRole_Merchant.description>Un commerçant accueillant et charismatique, quoique quelque peu acharné, se spécialise dans l'établissement de routes commerciales avec d'autres colonies. Peut signaler à une caravane commerciale de faction amie aléatoire de faire un détour directement vers la colonie tous les 5 jours. Reçoit également un petit bonus aux prix de négociation grâce à son charisme pur.</VME_IdeoRole_Merchant.description>
+
+
+<!-- EN: nurse -->
+<VME_IdeoRole_Nurse.label>infirmier</VME_IdeoRole_Nurse.label>
+<!-- EN: A dedicated medical professional able to tend to wounds with surgical precision. Possesses the unique ability to hyperfocus on their doctoring patients in times of mass trauma, temporarily suppressing their needs for rest, recreation, or hunger. -->
+<VME_IdeoRole_Nurse.description>Un professionnel de la santé dévoué capable de soigner les plaies avec une précision chirurgicale. Possède la capacité unique de se concentrer sur ses patients médicaux en période de traumatisme de masse, supprimant temporairement leurs besoins de repos, de loisirs ou de faim.</VME_IdeoRole_Nurse.description>
+
+
+<!-- EN: party host -->
+<VME_IdeoRole_PartyHost.label>organisateur de fêtes</VME_IdeoRole_PartyHost.label>
+<!-- EN: A most jovial hooligan incapable of understanding that not all times can be party time. A party leader is able to throw an amazing party at any time. However, they will find themselves needing about twice the recreation time as the normal person to be happy on a day-to-day basis. -->
+<VME_IdeoRole_PartyHost.description>Un hooligan des plus joviaux incapable de comprendre que tous les moments ne peuvent pas être l'heure de la fête. Un organisateur de fêtes est capable d'organiser une fête incroyable à tout moment. Cependant, ils auront besoin d'environ deux fois plus de temps de divertissement qu'une personne normale pour être heureux au quotidien.</VME_IdeoRole_PartyHost.description>
+
+
+<!-- EN: second triumvir -->
+<VME_IdeoRole_LeaderSecond.label>second triumvir</VME_IdeoRole_LeaderSecond.label>
+<!-- EN: A leader who holds the group together and represents your faction in diplomatic interactions. -->
+<VME_IdeoRole_LeaderSecond.description>Un leader qui maintient le groupe ensemble et représente votre faction dans les interactions diplomatiques.</VME_IdeoRole_LeaderSecond.description>
+
+<!-- EN: third triumvir -->
+<VME_IdeoRole_LeaderThird.label>troisième triumvir</VME_IdeoRole_LeaderThird.label>
+<!-- EN: A leader who holds the group together and represents your faction in diplomatic interactions. -->
+<VME_IdeoRole_LeaderThird.description>Un leader qui maintient le groupe ensemble et représente votre faction dans les interactions diplomatiques.</VME_IdeoRole_LeaderThird.description>
+
+
+<!-- EN: disliked -->
+<VME_Royalty_Disliked.label>désapprouvé</VME_Royalty_Disliked.label>
+<!-- EN: Titles and crowns, relics of a bygone era, draw ire more than admiration. Those who flaunt their noble status find themselves at the receiving end of equal disdain. -->
+<VME_Royalty_Disliked.description>Les titres et les couronnes, vestiges d'une époque révolue, suscitent l'ire plus que l'admiration. Ceux qui font étalage de leur noblesse se retrouvent au centre d'un mépris équivalent.</VME_Royalty_Disliked.description>
+
+<!-- EN: exalted -->
+<VME_Royalty_Exalted.label>exalté</VME_Royalty_Exalted.label>
+<!-- EN: Those who drape themselves in the vestments of royalty ascend beyond mere mortals. Each step up the ladder of nobility brings greater veneration from the common folk, from a respectful nod for a Yeoman to awestruck reverence for a High Stellarch. -->
+<VME_Royalty_Exalted.description>Ceux qui se drapent dans les vêtements de la royauté s'élèvent au-delà des simples mortels. Chaque étape de l'échelle de la noblesse entraîne une plus grande considération de la part des gens du peuple, allant d'un hochement de tête respectueux pour un Mandataire à une vénération effrayée pour un Haut stellaire.</VME_Royalty_Exalted.description>
+
+<!-- EN: hated -->
+<VME_Royalty_Hated.label>détesté</VME_Royalty_Hated.label>
+<!-- EN: Royal titles are chains that bind freedom, and each title is a shackle more cursed than the last. From Yeoman to High Stellarch, the disdain grows with the weight of the crown, heavy is the head that wears it. -->
+<VME_Royalty_Hated.description>Les titres royaux sont des chaînes qui lient la liberté, et chaque titre est une entrave plus maudite que la précédente. Du Mandataire au Haut stellaire, le mépris grandit avec le poids de la couronne, lourde est la tête qui la porte.</VME_Royalty_Hated.description>
+
+<!-- EN: respected -->
+<VME_Royalty_Respected.label>respecté</VME_Royalty_Respected.label>
+<!-- EN: Every crown and every title is a symbol of burdens shouldered for the good of all. Regardless of the rank, a title earns a uniform respect, an acknowledgment of the wearer's elevated place in our order. -->
+<VME_Royalty_Respected.description>Chaque couronne et chaque titre est un symbole de charges assumées pour le bien de tous. Quel que soit le rang, un titre mérite un respect uniforme, une reconnaissance de la place élevée de celui qui le porte dans notre ordre.</VME_Royalty_Respected.description>
+
+
+<!-- EN: disgusting -->
+<VME_Scars_Disgusting.label>dégoûtant</VME_Scars_Disgusting.label>
+<!-- EN: A body marked with scars is disgusting. -->
+<VME_Scars_Disgusting.description>Un corps marqué de cicatrices est dégoûtant.</VME_Scars_Disgusting.description>
+<!-- EN: Faintly scarred (1 scarification scar) -->
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>Peu de cicatrices</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Scarred (2 scarification scars) -->
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>Quelques cicatrices</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Heavily scarred (3 scarification scars) -->
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>Présence de cicatrices</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Extremely scarred (4 scarification scars) -->
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>Beaucoup de cicatrices</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Innumerable battlefield scars  (more than 4 scarification scars) -->
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>Innombrables cicatrices</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>
+
+<!-- EN: honorable -->
+<VME_Scars_Honorable.label>honorable</VME_Scars_Honorable.label>
+<!-- EN: Scars are marks of honor and strength, to be scarred and continue on is nothing short of an incredible act. -->
+<VME_Scars_Honorable.description>Les cicatrices sont des marques d'honneur et de force, être marqué et continuer n'est rien de moins qu'un acte incroyable.</VME_Scars_Honorable.description>
+<!-- EN: Faintly scarred (1 scarification scar) -->
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>Peu de cicatrices</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Scarred (2 scarification scars) -->
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>Quelques cicatrices</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Heavily scarred (3 scarification scars) -->
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>Présence de cicatrices</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Extremely scarred (4 scarification scars) -->
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>Beaucoup de cicatrices</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>
+<!-- EN: Innumerable battlefield scars  (more than 4 scarification scars) -->
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>Innombrables cicatrices</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>
+
+
+<!-- EN: relaxed -->
+<VME_SkilledLabor_Relaxed.label>détendu</VME_SkilledLabor_Relaxed.label>
+<!-- EN: Skilled labour should be approached with care and time. Rushing things only leads to sloppy results and unfortunate accidents. -->
+<VME_SkilledLabor_Relaxed.description>La main-d'œuvre qualifiée doit être abordée avec soin et temps. Se précipiter ne conduit qu'à des résultats bâclés et à des accidents malheureux.</VME_SkilledLabor_Relaxed.description>
+
+<!-- EN: slow -->
+<VME_SkilledLabor_Slow.label>lent</VME_SkilledLabor_Slow.label>
+<!-- EN: Pursuits of skilled labor are meticulous and time-consuming, it is better to focus our attention and efforts elsewhere. -->
+<VME_SkilledLabor_Slow.description>Les recherches de main-d'œuvre qualifiée sont méticuleuses et prennent du temps, il vaut mieux concentrer notre attention et nos efforts ailleurs.</VME_SkilledLabor_Slow.description>
+
+
+<!-- EN: forbidden -->
+<VME_Slavery_Forbidden.label>interdit</VME_Slavery_Forbidden.label>
+<!-- EN: Participating in slave trade is an absolutely vile idea. The only reason to purchase a slave is with intent to immediately free them. Moreso, those who struggled through enslavement deserve our compassion and respect. -->
+<VME_Slavery_Forbidden.description>Participer à la traite négrière est une idée absolument vile. La seule raison d'acheter un esclave est de le libérer immédiatement. De plus, ceux qui ont lutté contre l'esclavage méritent notre compassion et notre respect.</VME_Slavery_Forbidden.description>
+<!-- EN: Any slave in colony (until emancipated) -->
+<VME_Slavery_Forbidden.comps.0.description>Tout esclave dans la colonie (jusqu'à son émancipation)</VME_Slavery_Forbidden.comps.0.description>
+
+
+<!-- EN: only buying -->
+<VME_SlaveTrading_OnlyBuying.label>achat uniquement</VME_SlaveTrading_OnlyBuying.label>
+<!-- EN: Only buying slaves is justifiable, after which we should provide them amicable amounts of lodging and consideration within our colony. By selling a slave one leaves their fate up to the good faith of their buyer, a very unwise decision. -->
+<VME_SlaveTrading_OnlyBuying.description>Seul l'achat d'esclaves est justifiable, après quoi nous devrons leur fournir des montants à l'amiable de logement et de considération au sein de notre colonie. En vendant un esclave on laisse son sort à la bonne foi de son acheteur, une décision très imprudente.</VME_SlaveTrading_OnlyBuying.description>
+<!-- EN: Someone bought a slave -->
+<VME_SlaveTrading_OnlyBuying.comps.2.description>Quelqu'un a acheté un esclave</VME_SlaveTrading_OnlyBuying.comps.2.description>
+<!-- EN: Someone sold a slave -->
+<VME_SlaveTrading_OnlyBuying.comps.3.description>Quelqu'un a vendu un esclave</VME_SlaveTrading_OnlyBuying.comps.3.description>
+
+
+<!-- EN: disallowed -->
+<VME_SocialInteractions_Disallowed.label>interdites</VME_SocialInteractions_Disallowed.label>
+<!-- EN: Chatter between those of our creed is forbidden. We seek to achieve a greater understanding through a venere of silence and secrecy, an oath few outsiders can comprehend. -->
+<VME_SocialInteractions_Disallowed.description>Le bavardage entre ceux de notre foi est interdit. Nous cherchons à parvenir à une plus grande compréhension à travers une vénération de silence et de secret, un serment que peu d'étrangers peuvent comprendre.</VME_SocialInteractions_Disallowed.description>
+
+
+<!-- EN: abhorrent -->
+<VME_TaintedApparel_Abhorrent.label>détesté</VME_TaintedApparel_Abhorrent.label>
+<!-- EN: There can be nothing more disgusting in this world than wearing the clothing used by a dead person. -->
+<VME_TaintedApparel_Abhorrent.description>Il n'y a rien de plus dégoûtant dans ce monde que de porter les vêtements utilisés par une personne décédée.</VME_TaintedApparel_Abhorrent.description>
+
+<!-- EN: disapproved -->
+<VME_TaintedApparel_Disapproved.label>désapprouvé</VME_TaintedApparel_Disapproved.label>
+<!-- EN: Wearing a dead person's apparel is quite disgusting. -->
+<VME_TaintedApparel_Disapproved.description>Porter les vêtements d'une personne décédée est assez dégoûtant.</VME_TaintedApparel_Disapproved.description>
+
+<!-- EN: don't care -->
+<VME_TaintedApparel_DontCare.label>pas d'importance</VME_TaintedApparel_DontCare.label>
+<!-- EN: Clothing soaked in blood or bits shouldn’t dissuade one from covering themselves and making use of what would otherwise be worn away by time. -->
+<VME_TaintedApparel_DontCare.description>Les vêtements trempés de sang ou de morceaux ne doivent pas dissuader de se couvrir et d'utiliser ce qui serait autrement usé par le temps.</VME_TaintedApparel_DontCare.description>
+
+
+<!-- EN: abhorrent -->
+<VME_TatteredApparel_Abhorrent.label>détesté</VME_TatteredApparel_Abhorrent.label>
+<!-- EN: Ratty clothes are disgusting and should be discarded as soon as possible. -->
+<VME_TatteredApparel_Abhorrent.description>Les vêtements miteux sont dégoûtants et doivent être jetés dès que possible.</VME_TatteredApparel_Abhorrent.description>
+
+<!-- EN: disapproved -->
+<VME_TatteredApparel_Disapproved.label>désapprouvé</VME_TatteredApparel_Disapproved.label>
+<!-- EN: Wearing ratty clothes is uncomfortable and should be avoided. -->
+<VME_TatteredApparel_Disapproved.description>Le port de vêtements miteux est inconfortable et doit être évité.</VME_TatteredApparel_Disapproved.description>
+
+<!-- EN: don't care -->
+<VME_TatteredApparel_DontCare.label>pas d'importance</VME_TatteredApparel_DontCare.label>
+<!-- EN: We have bigger concerns to address than holes in our clothes, let's not waste our valuable time fretting or lamenting about such trivialities. -->
+<VME_TatteredApparel_DontCare.description>Nous avons de plus grandes préoccupations à résoudre que des trous dans nos vêtements, ne perdons pas notre temps précieux à nous inquiéter ou à nous lamenter sur de telles banalités.</VME_TatteredApparel_DontCare.description>
+
+
+<!-- EN: increased -->
+<VME_TendQuality_Increased.label>amélioré</VME_TendQuality_Increased.label>
+<!-- EN: Our people are heavily encouraged to be diligent about healing and caring for each other. If we can’t take care of each other, how could we hope to survive this harsh world? -->
+<VME_TendQuality_Increased.description>Notre peuple est fortement encouragé à faire preuve de diligence dans la guérison et à prendre soin les uns des autres. Si nous ne pouvons pas prendre soin les uns des autres, comment pourrions-nous espérer survivre dans ce monde difficile ?</VME_TendQuality_Increased.description>
+
+
+<!-- EN: inherited -->
+<VME_TitleInheritance_Inherited.label>hérité</VME_TitleInheritance_Inherited.label>
+<!-- EN: Nobility flows through blood, as titles pass from the fallen to their kin. A parent's demise elevates the firstborn, inheriting the mantle of leadership. -->
+<VME_TitleInheritance_Inherited.description>La noblesse coule dans le sang, les titres étant transmis par le défunt à ses proches. La disparition d'un parent confère au premier-né le statut d'héritier.</VME_TitleInheritance_Inherited.description>
+
+
+<!-- EN: required -->
+<VME_Trading_Required.label>requis</VME_Trading_Required.label>
+<!-- EN: Our colony, like it or not, is a business. Going too long without a sale is stressful, but making a hefty profit is veritably euphoric. -->
+<VME_Trading_Required.description>Notre colonie, qu'on le veuille ou non, est une entreprise. Passer trop de temps sans vendre est stressant, mais faire un gros profit est véritablement euphorique.</VME_Trading_Required.description>
+<!-- EN: Recently traded -->
+<VME_Trading_Required.comps.0.thoughtStageDescriptions.0>Echange commercial récent</VME_Trading_Required.comps.0.thoughtStageDescriptions.0>
+<!-- EN: No recent trades -->
+<VME_Trading_Required.comps.0.thoughtStageDescriptions.1>Pas d'échange commercial récent</VME_Trading_Required.comps.0.thoughtStageDescriptions.1>
+
+
+<!-- EN: improved -->
+<VME_TradingPrice_Improved.label>amélioré</VME_TradingPrice_Improved.label>
+<!-- EN: Everything has a price, and it just so happens our kind are particularly persuasive when it comes to proving that to others. -->
+<VME_TradingPrice_Improved.description>Tout a un prix, et il se trouve que notre espèce est particulièrement convaincante lorsqu'il s'agit de le prouver aux autres.</VME_TradingPrice_Improved.description>
+
+
+<!-- EN: desired -->
+<VME_Travel_Desired.label>désirés</VME_Travel_Desired.label>
+<!-- EN: It’s a simple-minded claim that this planet doesn’t have exotic and beautiful lands to appreciate and immerse oneself in. Traveling this world should be a priority. -->
+<VME_Travel_Desired.description>C'est une affirmation simple que cette planète n'a pas de terres exotiques et magnifiques pour apprécier et s'immerger. Voyager dans ce monde devrait être une priorité.</VME_Travel_Desired.description>
+<!-- EN: Traveled (less than 5 days ago) -->
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>A voyagé (il y a moins de 5 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Traveled (less than 10 days ago) -->
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>A voyagé (il y a moins de 10 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Traveled (less than 15 days ago) -->
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>A voyagé (il y a moins de 15 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Traveled (less than 60 days ago) -->
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>A voyagé (il y a moins de 60 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>
+
+<!-- EN: despised -->
+<VME_Travel_Despised.label>détestés</VME_Travel_Despised.label>
+<!-- EN: Every moment spent away from home is another moment running away from the inevitable. Time spent traveling can be spent more wisely at home building and defending it. -->
+<VME_Travel_Despised.description>Chaque moment passé loin de chez soi est un autre moment pour fuir l'inévitable. Le temps passé à voyager peut être consacré plus judicieusement à la construction et à la défense de sa colonie.</VME_Travel_Despised.description>
+<!-- EN: Traveled (less than 5 days ago) -->
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>A voyagé (il y a moins de 5 jours)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>
+<!-- EN: Traveled (less than 10 days ago) -->
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>A voyagé (il y a moins de 10 jours)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>
+<!-- EN: Traveled (less than 15 days ago) -->
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>A voyagé (il y a moins de 15 jours)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>
+<!-- EN: Traveled (less than 60 days ago) -->
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>A voyagé (il y a moins de 60 jours))</VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>
+
+
+<!-- EN: abhorrent -->
+<VME_Violence_Abhorrent.label>détestée</VME_Violence_Abhorrent.label>
+<!-- EN: To shed blood or break bone is barbaric and disgusting. \n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a substantial negative mood if they are forced to attack non-hostile humanoid targets.\n - The only mental break allowed is psychotic wander.\n - All drafted colonists will undraft if an attacking enemy starts fleeing. -->
+<VME_Violence_Abhorrent.description>Faire couler du sang ou casser des os est barbare et dégoûtant.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons recevront une humeur négative substantielle s'ils sont forcés d'attaquer des cibles humanoïdes non hostiles.\n - La seule crise autorisée est l'errance psychotique.\n - Tous les colons mobilisés seront démobilisés si un ennemi attaquant commence à fuir.</VME_Violence_Abhorrent.description>
+
+<!-- EN: acceptable -->
+<VME_Violence_Acceptable.label>acceptable</VME_Violence_Acceptable.label>
+<!-- EN: Violence is just a fact of life. -->
+<VME_Violence_Acceptable.description>La violence n'est qu'une réalité de la vie.</VME_Violence_Acceptable.description>
+
+<!-- EN: disapproved -->
+<VME_Violence_Disapproved.label>désapprouvée</VME_Violence_Disapproved.label>
+<!-- EN: We should avoid harming innocents if possible. Attacking a harmless person is immoral. \n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a negative mood if they are forced to attack non-hostile humanoid targets. -->
+<VME_Violence_Disapproved.description>Nous devrions éviter de blesser des innocents autant que possible. Attaquer une personne inoffensive est immoral.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons recevront une humeur négative s'ils sont forcés d'attaquer des cibles humanoïdes non hostiles.</VME_Violence_Disapproved.description>
+
+<!-- EN: honorable -->
+<VME_Violence_Honorable.label>honorable</VME_Violence_Honorable.label>
+<!-- EN: Harming innocents is an honorable necessity on the Rim, it proves our strength and our resolve.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a positive mood if they are forced to attack non-hostile humanoid targets. -->
+<VME_Violence_Honorable.description>Faire du mal à des innocents est une nécessité honorable, cela prouve notre force et notre détermination.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Les colons recevront une humeur positive s'ils sont forcés d'attaquer des cibles humanoïdes non hostiles.</VME_Violence_Honorable.description>
+
+
+<!-- EN: high -->
+<VME_WoodcuttingYield_High.label>important</VME_WoodcuttingYield_High.label>
+<!-- EN: Lumber is infinitely useful, not even stumps go to waste when our kind is in charge.\n\n<color=#E5E54C>Stats:</color>\n - Woodcutting yield: +10%. -->
+<VME_WoodcuttingYield_High.description>Le bois est infiniment utile, même les souches ne sont pas gaspillées lorsque notre espèce est aux commandes.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Rendement d'abattage du bois : +10%.</VME_WoodcuttingYield_High.description>
+
+
+</LanguageData>

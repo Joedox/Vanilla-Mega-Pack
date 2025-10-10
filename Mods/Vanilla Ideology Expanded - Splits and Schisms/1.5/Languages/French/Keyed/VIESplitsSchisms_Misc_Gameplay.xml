@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<VIESAS.IdeoSplit>Idéo partagé : {0}</VIESAS.IdeoSplit>
+<VIESAS.IdeoSplitDesc>Comme dans toutes les grandes communautés, certaines traditions de votre colonie se sont développées de manière différente. Certaines personnes ont commencé à considérer que les anciennes méthodes n'étaient plus valables à l'époque où vous vivez, et ont décidé que l'avenir exigeait que votre idéologie s'adapte. Ainsi, {0} a été trouvé.
+
+{1}
+
+Les personnes suivantes ont décidé de rejoindre la nouvelle idéologie :
+{2}</VIESAS.IdeoSplitDesc>
+<VIESAS.IdeoSplitDescOptions>Le schisme s'accompagne de nouveaux défis. Vous devrez désormais vous occuper de deux idéologies uniques dans votre colonie, jusqu'à ce que l'une d'entre elles domine l'autre.
+
+Sélectionnez une option ci-dessous pour décider de la suite à donner à la nouvelle idéologie. Vous pouvez la configurer ou l'accepter telle quelle et fermer la fenêtre.</VIESAS.IdeoSplitDescOptions>
+<VIESAS.OddsOfSchismToOccur>Pourcentage de chances qu'un schisme se produise : </VIESAS.OddsOfSchismToOccur>
+<VIESAS.PctOfColonistsToTurnToNewIdeology>Pourcentage max de colons dans une nouvelle idéologie : </VIESAS.PctOfColonistsToTurnToNewIdeology>
+<VIESAS.MinimumColonistCountForSchismToOccur>Minimum de colons dans une idéologie pour qu'un schisme se produise : </VIESAS.MinimumColonistCountForSchismToOccur>
+<VIESAS.AmountOfMemesChangedDuringSchism>Quantité de Mèmes changée pendant le Schisme : </VIESAS.AmountOfMemesChangedDuringSchism>
+<VIESAS.IdeologyConversionCheckDaysInterval>Contrôle de l'intervalle entre les jours de conversion de l'idéologie : </VIESAS.IdeologyConversionCheckDaysInterval>
+<VIESAS.MemeChanged>Mème changé</VIESAS.MemeChanged>
+<VIESAS.NewMeme>Nouveau mème</VIESAS.NewMeme>
+<VIESAS.OldIdeoForgotten>{0} oublié</VIESAS.OldIdeoForgotten>
+<VIESAS.OldIdeoForgottenDesc>{0} a été oubliée. Personne sur cette planète ne se souvient des anciennes méthodes, et les traditions, la culture et le culte de cette idéologie ont été perdus au profit du progrès.
+
+L'idéologie a disparu par manque d'adeptes.</VIESAS.OldIdeoForgottenDesc>
+<VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>Seuil de certitude des colons d'adhérer à la nouvelle idéologie : </VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>
+
+
+</LanguageData>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Buildings_Ancient_Indoors +++++ -->
+<VME_AncientSystemRack.label>ancien système de rack</VME_AncientSystemRack.label>
+<VME_AncientSystemRack.description>Un vieux rack rempli d'appareils non identifiables. Des pièces précieuses manquent, et tout le reste est détérioré et inutile.</VME_AncientSystemRack.description>
+
+<VME_AncientEquipmentBlocks.label>ancien bloc d'équipement</VME_AncientEquipmentBlocks.label>
+<VME_AncientEquipmentBlocks.description>Une collection d'anciens blocs d'équipement dont la fonction est inconnue. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientEquipmentBlocks.description>
+
+<VME_AncientMachine.label>ancienne machine</VME_AncientMachine.label>
+<VME_AncientMachine.description>Une grosse caisse de machine ancienne remplie de machines inconnues. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientMachine.description>
+
+<VME_AncientStorageCylinder.label>ancien cylindre de stockage</VME_AncientStorageCylinder.label>
+<VME_AncientStorageCylinder.description>Un appareil ancien qui semble avoir stocké une sorte de fluide. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientStorageCylinder.description>
+
+<VME_AncientLamp.label>ancienne lampe</VME_AncientLamp.label>
+<VME_AncientLamp.description>Une ancienne lampe auto-alimentée. Son alimentation interne est épuisée, mais elle émet encore une faible lueur.</VME_AncientLamp.description>
+
+<VME_AncientBed.label>ancien lit</VME_AncientBed.label>
+<VME_AncientBed.description>Un vieux matelas pourri sur un cadre rouillé. Bien qu'inconfortable, il peut encore être utilisé, mais il est trop délabré pour être réparé.</VME_AncientBed.description>
+
+<VME_AncientDisplayBank.label>ancienne banque d'affichage</VME_AncientDisplayBank.label>
+<VME_AncientDisplayBank.description>Une ancienne interface d'ordinateur. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientDisplayBank.description>
+
+<VME_AncientLockerBank.label>ancien ensemble de casiers</VME_AncientLockerBank.label>
+<VME_AncientLockerBank.description>Un ancien ensemble de casiers rouillés. Tous les casiers ont été forcés et rien de valeur n'a été laissé sur place.</VME_AncientLockerBank.description>
+
+<VME_AncientCrate.label>ancienne caisse</VME_AncientCrate.label>
+<VME_AncientCrate.description>Une vieille caisse cassée. Les objets de valeur qu'elle contenait sont devenus inutiles.</VME_AncientCrate.description>
+
+<VME_AncientMilitaryCrate.label>ancienne caisse militaire</VME_AncientMilitaryCrate.label>
+<VME_AncientMilitaryCrate.description>Une ancienne caisse d'aspect militaire. Elle a été cassée il y a longtemps et tous les objets de valeur qu'elle contenait ont été pillés.</VME_AncientMilitaryCrate.description>
+
+<VME_AncientSpacerCrate.label>ancienne caisse spatiale</VME_AncientSpacerCrate.label>
+<VME_AncientSpacerCrate.description>Une vieille caisse cassée. Les objets de valeur qu'elle contenait ont été pris il y a longtemps.</VME_AncientSpacerCrate.description>
+
+<VME_AncientBarrel.label>ancien baril</VME_AncientBarrel.label>
+<VME_AncientBarrel.description>Un vieux tonneau cassé qui semble avoir contenu des déchets. La seule chose qu'il contient maintenant est une tache de boue séchée.</VME_AncientBarrel.description>
+
+<VME_AncientGenerator.label>ancien générateur</VME_AncientGenerator.label>
+<VME_AncientGenerator.description>Un ancien générateur électrique. Ses parties utilisables ont été détruites ou pillées il y a longtemps, et le reste a rouillé jusqu'à devenir inutile.</VME_AncientGenerator.description>
+
+<VME_AncientOperatingTable.label>ancienne table d'opération</VME_AncientOperatingTable.label>
+<VME_AncientOperatingTable.description>Une table utilisée autrefois pour les opérations chirurgicales. Elle s'est depuis longtemps détériorée et est devenue inutile.</VME_AncientOperatingTable.description>
+
+		<!-- +++++ Buildings_Ancient_Outdoors +++++ -->
+<VME_AncientShoppingCart.label>ancien caddie</VME_AncientShoppingCart.label>
+<VME_AncientShoppingCart.description>Un vieux chariot de supermarché rouillé. La façon dont il est arrivé ici est un mystère, mais l'histoire est longue et probablement assez triste.</VME_AncientShoppingCart.description>
+
+<VME_AncientPostbox.label>ancienne boîte aux lettres</VME_AncientPostbox.label>
+<VME_AncientPostbox.description>Une ancienne boîte aux lettres, écrasée et détériorée jusqu'à devenir inutile. Elle semble avoir été déplacée ici il y a longtemps pour une raison inconnue.</VME_AncientPostbox.description>
+
+<VME_AncientVendingMachine.label>ancien distributeur automatique</VME_AncientVendingMachine.label>
+<VME_AncientVendingMachine.description>Un ancien distributeur automatique. Il a été détruit il y a des années et des générations de pillards ont pris toutes les pièces. Comment a-t-il fini ici ? C'est un mystère.</VME_AncientVendingMachine.description>
+
+<VME_AncientAirConditioner.label>ancien climatiseur</VME_AncientAirConditioner.label>
+<VME_AncientAirConditioner.description>Une ancienne machine à air conditionné. Ses composants internes ont été détruits il y a longtemps et ce qui n'a pas été pillé a rouillé.</VME_AncientAirConditioner.description>
+
+<VME_AncientKitchenSink.label>ancien évier de cuisine</VME_AncientKitchenSink.label>
+<VME_AncientKitchenSink.description>Un ancien évier de cuisine fait d'un matériau non-métallique en fibre. Il est très détérioré et il n'y a aucun moyen d'en récupérer quoi que ce soit. La façon dont il est arrivé là doit être une longue histoire.</VME_AncientKitchenSink.description>
+
+<VME_AncientStove.label>ancien poêle</VME_AncientStove.label>
+<VME_AncientStove.description>Un vieux poêle. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé là, c'est difficile à dire.</VME_AncientStove.description>
+
+<VME_AncientOven.label>ancien four</VME_AncientOven.label>
+<VME_AncientOven.description>Un ancien four. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé là, c'est difficile à dire.</VME_AncientOven.description>
+
+<VME_AncientATM.label>ancien DAB</VME_AncientATM.label>
+<VME_AncientATM.description>Un ancien distributeur de billets. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé là, c'est difficile à dire.</VME_AncientATM.description>
+
+<VME_AncientWashingMachine.label>ancienne machine à laver</VME_AncientWashingMachine.label>
+<VME_AncientWashingMachine.description>Un ancien appareil utilisé pour laver les textiles. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé ici, c'est difficile à dire.</VME_AncientWashingMachine.description>
+
+<VME_AncientHydrant.label>ancienne bouche d'incendie</VME_AncientHydrant.label>
+<VME_AncientHydrant.description>Une ancienne bouche d'incendie. Fortement rouillée, elle est complètement inutile maintenant.\n\nComment est-elle arrivée là, c'est difficile à dire.</VME_AncientHydrant.description>
+
+<VME_AncientMicrowave.label>ancien micro-ondes</VME_AncientMicrowave.label>
+<VME_AncientMicrowave.description>Un ancien appareil pour chauffer la nourriture. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé ici, c'est difficile à dire.</VME_AncientMicrowave.description>
+
+<VME_AncientToilet.label>ancien toilette</VME_AncientToilet.label>
+<VME_AncientToilet.description>Un ancien WC. Cassé il y a longtemps, il est complètement inutile maintenant.\n\nComment est-il arrivé ici, c'est difficile à dire.</VME_AncientToilet.description>
+
+<VME_AncientRefrigerator.label>ancien réfrigérateur</VME_AncientRefrigerator.label>
+<VME_AncientRefrigerator.description>Un ancien réfrigérateur. Il a été dépouillé de ses pièces intéressantes il y a longtemps.</VME_AncientRefrigerator.description>
+
+<VME_AncientSmallCrate.label>ancienne petite caisse</VME_AncientSmallCrate.label>
+<VME_AncientSmallCrate.description>Une petite caisse vide qui a été abandonnée il y a des années. Elle est trop rouillée pour y stocker quoi que ce soit.</VME_AncientSmallCrate.description>
+
+<VME_AncientLongCrate.label>ancienne longue caisse</VME_AncientLongCrate.label>
+<VME_AncientLongCrate.description>Une longue caisse vide qui a été abandonnée il y a des années. Elle est trop rouillée pour stocker quoi que ce soit.</VME_AncientLongCrate.description>
+
+<VME_AncientLargeCrate.label>ancienne grande caisse</VME_AncientLargeCrate.label>
+<VME_AncientLargeCrate.description>Une grande caisse qui a été abandonnée il y a des années. Elle est trop rouillée pour y stocker quoi que ce soit.</VME_AncientLargeCrate.description>
+
+<VME_AncientWheel.label>ancienne roue</VME_AncientWheel.label>
+<VME_AncientWheel.description>Une roue ancienne provenant d'un véhicule quelconque. Le caoutchouc s'est désagrégé et le métal est tordu et rouillé.</VME_AncientWheel.description>
+
+<VME_AncientGiantWheel.label>ancienne roue géante</VME_AncientGiantWheel.label>
+<VME_AncientGiantWheel.description>Une roue géante qui s'est détachée d'un gros véhicule il y a bien longtemps. Le caoutchouc s'est désagrégé et le métal est tordu et rouillé.</VME_AncientGiantWheel.description>
+
+<VME_AncientRustedCar.label>ancienne voiture</VME_AncientRustedCar.label>
+<VME_AncientRustedCar.description>Une vieille voiture cassée. Tout ce qui n'est pas rouillé a été pillé il y a longtemps.</VME_AncientRustedCar.description>
+
+<VME_AncientRustedTruck.label>ancien camion</VME_AncientRustedTruck.label>
+<VME_AncientRustedTruck.description>Un vieux camion cassé. Tout ce qui est utile est rouillé ou a été pillé il y a longtemps.</VME_AncientRustedTruck.description>
+
+<VME_AncientRustedJeep.label>ancien transporteur de troupes</VME_AncientRustedJeep.label>
+<VME_AncientRustedJeep.description>Un vieux transporteur de troupes en panne. Tout ce qui n'est pas rouillé a été pillé il y a longtemps.</VME_AncientRustedJeep.description>
+
+<VME_AncientRustedCarFrame.label>ancien châssis de voiture</VME_AncientRustedCarFrame.label>
+<VME_AncientRustedCarFrame.description>Un vieux châssis de voiture rouillé. La carrosserie a depuis longtemps rouillé et n'existe plus.</VME_AncientRustedCarFrame.description>
+
+<VME_AncientWarwalkerTorso.label>ancien torse de marcheur de combat</VME_AncientWarwalkerTorso.label>
+<VME_AncientWarwalkerTorso.description>Le torse d'un marcheur de combat de taille moyenne qui est tombé ici dans des temps anciens. Les pièces de valeur ont été pillées il y a longtemps.</VME_AncientWarwalkerTorso.description>
+
+<VME_AncientRustedDropship.label>ancien vaisseau spatial</VME_AncientRustedDropship.label>
+<VME_AncientRustedDropship.description>Les restes d'un ancien vaisseau. Les pièces de valeur ont été pillées il y a longtemps et le reste s'est détérioré jusqu'à en devenir inutile.</VME_AncientRustedDropship.description>
+
+<VME_AncientWarwalkerClaw.label>ancienne griffe de marcheur de combat</VME_AncientWarwalkerClaw.label>
+<VME_AncientWarwalkerClaw.description>La griffe d'assaut d'un ancien marcheur de combat de taille moyenne. Cette arme est spécialisée dans le déchirement des armures lourdes en plastacier à courte portée. Ses composants précieux ont été pillés il y a longtemps.</VME_AncientWarwalkerClaw.description>
+
+<VME_AncientWarwalkerLeg.label>ancienne jambe de marcheur de combat</VME_AncientWarwalkerLeg.label>
+<VME_AncientWarwalkerLeg.description>La jambe brisée d'un marcheur de combat de taille moyenne qui est tombé ici il y a longtemps. Elle a été dépouillée par les pillards, et il ne reste aucun composant de valeur.</VME_AncientWarwalkerLeg.description>
+
+<VME_AncientMiniWarwalkerRemains.label>anciens restes de sprinteur de combat</VME_AncientMiniWarwalkerRemains.label>
+<VME_AncientMiniWarwalkerRemains.description>Les restes brisés d'un ancien sprinteur de combat de petite taille. Toutes les parties qui n'ont pas été détruites lors de sa destruction ont été pillées il y a longtemps.</VME_AncientMiniWarwalkerRemains.description>
+
+<VME_AncientWarspiderRemains.label>anciens restes d'araignée de guerre</VME_AncientWarspiderRemains.label>
+<VME_AncientWarspiderRemains.description>Les restes en ruine d'une ancienne araignée de guerre de taille moyenne. Elle a été pillée de nombreuses fois et il n'y a plus rien de précieux à récupérer.</VME_AncientWarspiderRemains.description>
+
+<VME_AncientPipelineSection.label>ancien tronçon de canalisation</VME_AncientPipelineSection.label>
+<VME_AncientPipelineSection.description>Une section d'une ancienne canalisation. Elle transportait autrefois un fluide précieux sur de longues distances. Maintenant, elle a été pillée et détériorée jusqu'à devenir inutile.</VME_AncientPipelineSection.description>
+
+<VME_AncientWarwalkerFoot.label>ancien pied de marcheur de combat</VME_AncientWarwalkerFoot.label>
+<VME_AncientWarwalkerFoot.description>Un pied massif d'un ancien marcheur de combat. Il semble avoir été arraché à son propriétaire par une sorte d'arme lourde. Tous les composants utiles ont été pillés ou détériorés il y a longtemps.</VME_AncientWarwalkerFoot.description>
+
+<VME_AncientTank.label>ancien tank en ruine</VME_AncientTank.label>
+<VME_AncientTank.description>Les restes d'un ancien tank qui a été détruit par une sorte d'arme lourde. Tous les composants utiles ont été pillés ou détériorés il y a longtemps.</VME_AncientTank.description>
+
+<VME_AncientAPC.label>ancien VBT en ruine</VME_AncientAPC.label>
+<VME_AncientAPC.description>Les restes d'un ancien transporteur de troupes blindé qui a été détruit par une sorte d'arme lourde. Tous les composants utiles ont été pillés ou détériorés il y a longtemps.</VME_AncientAPC.description>
+
+<VME_AncientWarwalkerShell.label>ancienne coque de marcheur de combat</VME_AncientWarwalkerShell.label>
+<VME_AncientWarwalkerShell.description>Le plus gros de la carapace blindée d'un marcheur de combat. Elle semble avoir été arrachée par un système d'armement colossal. Toutes les pièces de valeur ont été pillées, et le reste est très détérioré.</VME_AncientWarwalkerShell.description>
+
+<VME_AncientJetEngine.label>ancien moteur à réaction</VME_AncientJetEngine.label>
+<VME_AncientJetEngine.description>Un ancien moteur à réaction, probablement détaché d'un gros avion. Ses composants internes fragiles sont rouillés et inutiles, et les pièces de valeur ont été pillées il y a longtemps.</VME_AncientJetEngine.description>
+
+<VME_AncientDropshipEngine.label>ancien moteur de capsule de largage</VME_AncientDropshipEngine.label>
+<VME_AncientDropshipEngine.description>Un ancien moteur de capsule de largage. Il s'agissait probablement d'un transporteur de troupes militaires. Ses intérieurs délicats sont rouillés et inutiles, et les pièces de valeurs ont été pillées il y a longtemps.</VME_AncientDropshipEngine.description>
+
+<VME_AncientPodCar.label>ancienne voiture nacelle</VME_AncientPodCar.label>
+<VME_AncientPodCar.description>Une ancienne voiture nacelle autrefois capable de voler automatiquement. Ses pièces de valeur ont été pillées il y a longtemps, et le reste est très détérioré.</VME_AncientPodCar.description>
+
+<VME_AncientTankTrap.label>ancien piège à chars</VME_AncientTankTrap.label>
+<VME_AncientTankTrap.description>Une fortification défensive pour arrêter les véhicules. Se dégrade depuis de nombreuses années.</VME_AncientTankTrap.description>
+
+<VME_AncientLargeRustedEngineBlock.label>ancien bloc macro-moteur</VME_AncientLargeRustedEngineBlock.label>
+<VME_AncientLargeRustedEngineBlock.description>Un grand et ancien bloc moteur provenant d'un véhicule géant ou d'une source d'énergie. Il est rouillé et tous les composants utiles ont disparu. Aucune réparation ne pourrait sauver cela.</VME_AncientLargeRustedEngineBlock.description>
+
+<VME_AncientFence.label>ancienne clôture</VME_AncientFence.label>
+<VME_AncientFence.description>Une ancienne clôture faite de poteaux en béton armé reliés par des panneaux en béton.</VME_AncientFence.description>
+
+<VME_AncientRazorWire.label>ancien fil barbelé</VME_AncientRazorWire.label>
+<VME_AncientRazorWire.description>Un morceau de fil barbelé ancien. Il se dégrade depuis de nombreuses années et ne présente plus aucun danger.</VME_AncientRazorWire.description>
+
+<VME_AncientPipes.label>anciens tuyaux</VME_AncientPipes.label>
+<VME_AncientPipes.description>Un tas de vieux tuyaux rouillés. Il est difficile de dire comment ceux-ci se sont retrouvés ici.</VME_AncientPipes.description>
+
+<VME_AncientMegaCannonTripod.label>ancienne plateforme de canon</VME_AncientMegaCannonTripod.label>
+<VME_AncientMegaCannonTripod.description>Une plate-forme de levage qui contenait autrefois une sorte de canon. Il est cassé depuis de nombreuses années et chaque composant utile a été pillé il y a longtemps.</VME_AncientMegaCannonTripod.description>
+
+<VME_AncientMegaCannonBarrel.label>ancien canon longue portée</VME_AncientMegaCannonBarrel.label>
+<VME_AncientMegaCannonBarrel.description>Un canon à longue portée pour l'artillerie ou l'anti-navire. Quand il était neuf, il devait être terriblement puissant. Maintenant, il est irréparable et chaque composant utile a été pillé.</VME_AncientMegaCannonBarrel.description>
+
+<VME_AncientContainer.label>ancien conteneur</VME_AncientContainer.label>
+<VME_AncientContainer.description>Un grand conteneur d'un ancien véhicule de transport de marchandises. Il a depuis longtemps été pillé et détérioré jusqu'à l'inutilité.</VME_AncientContainer.description>
+
+<VME_AncientMechanoidShell.label>ancienne coquille mécanoïde</VME_AncientMechanoidShell.label>
+<VME_AncientMechanoidShell.description>Une coquille provenant d'un mécanoïde qui s'est écrasé. Elle s'est détériorée pendant de nombreuses années et les composants utiles se sont désintégrés.</VME_AncientMechanoidShell.description>
+
+<VME_AncientMechDropBeacon.label>ancienne balise mécanoïde</VME_AncientMechDropBeacon.label>
+<VME_AncientMechDropBeacon.description>La coque cassée d'une balise mécanoïde. Ses composants utiles sont manquants et la coque s'est détériorée après de nombreuses années.</VME_AncientMechDropBeacon.description>
+
+<VME_AncientSecurityTurret.label>ancienne tourelle de sécurité</VME_AncientSecurityTurret.label>
+<VME_AncientSecurityTurret.description>Une ancienne tourelle de sécurité cassée. Les pièces de valeur ont toutes été pillées ou détruites.</VME_AncientSecurityTurret.description>
+
+<VME_AncientRustedEngineBlock.label>ancien bloc moteur</VME_AncientRustedEngineBlock.label>
+<VME_AncientRustedEngineBlock.description>Un ancien bloc moteur rouillé de part en part. Aucune réparation ne pourrait le sauver.</VME_AncientRustedEngineBlock.description>
+
+<VME_AncientShipBeacon.label>ancienne balise de navigation</VME_AncientShipBeacon.label>
+<VME_AncientShipBeacon.description>Une ancienne balise de navigation cassée. Chaque composant utile a été pillé il y a longtemps.</VME_AncientShipBeacon.description>
+
+<VME_AncientSpaceJunk.label>anciens débris spatiaux</VME_AncientSpaceJunk.label>
+<VME_AncientSpaceJunk.description>D'anciens morceaux de débris spatiaux tombés d'orbite. Peut-être une relique d'une ancienne bataille spatiale.</VME_AncientSpaceJunk.description>
+
+
+		<!-- +++++ Buildings_Ideo +++++ -->
+<VME_WickerMan.label>homme en osier</VME_WickerMan.label>
+<VME_WickerMan.description>Une grande figure humanoïde fabriquée à partir de broussailles sèches, de chaume et de déchets de bois. Les prisonniers doivent être physiquement attachés à la figurine puis brûlés vifs dans le cadre d'un procès ou d'un rituel.</VME_WickerMan.description>
+
+<VME_Bonfire.label>feu de joie</VME_Bonfire.label>
+<VME_Bonfire.description>Un feu de joie incroyablement grand et lumineux fait d'une pile de bûches soigneusement organisée sur une base en pierre. Il est très utilisé lors des rituels à base de flammes et ne peut être placé qu'à l'extérieur.</VME_Bonfire.description>
+<VME_BonfireAfterRitual.label>feu de joie</VME_BonfireAfterRitual.label>
+<VME_BonfireAfterRitual.description>Un feu de joie incroyablement grand et lumineux fait d'une pile de bûches soigneusement organisée sur une base en pierre. Il est très utilisé lors des rituels à base de flammes et ne peut être placé qu'à l'extérieur. Durera au moins deux quadrums et assurera la beauté à proximité, tout en comptant pour le feu : Précepte souhaité.</VME_BonfireAfterRitual.description>
+
+<VME_MechanoidEffigy.label>effigie mécanoïde</VME_MechanoidEffigy.label>
+<VME_MechanoidEffigy.description>Une structure assemblée à partir de pièces de mécanoïdes mises à la casse. Emet un signal de programmation IFF capable de confondre les anciens récepteurs mécanoïdes. S'il y en a deux par colon, le bruit du signal est suffisant pour réinitialiser la programmation des anciens mécanoïdes et provoquer une retraite immédiate.</VME_MechanoidEffigy.description>
+
+<VME_Obelisk.label>obélisque sinistre</VME_Obelisk.label>
+<VME_Obelisk.description>Un obélisque à l'aspect sinistre, fait de pierre pure ciselée. Il semble dégager une aura de désespoir et de détresse.\n\nLe besoin de Corruption de tout colon se trouvant dans le rayon d'effet de l'obélisque ne diminue pas.</VME_Obelisk.description>
+
+<VME_InsectNest.label>nid d'insectes</VME_InsectNest.label>
+<VME_InsectNest.description>Une grande ruche boursouflée qui semble suinter de grandes quantités de gelée d'insectoïdes bouillonnante mais qui ne couve aucun insectoïde.\n\nLe nid devra être entretenu par un colon ayant le rôle de gardien d'insectoïdes. Si la maintenance atteint 0 %, le nid sera détruit.</VME_InsectNest.description>
+
+
+</LanguageData>

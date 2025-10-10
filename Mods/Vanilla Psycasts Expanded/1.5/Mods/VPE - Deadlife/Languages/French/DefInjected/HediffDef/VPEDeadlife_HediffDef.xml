@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Dead-life -->
+<DeadlifeRegenSTNL.label>résurrection</DeadlifeRegenSTNL.label>
+<!-- EN: This person has absorbed deadlife dust from a corpse, enhancing their regeneration and reducing their feeling of pain for a day. -->
+<DeadlifeRegenSTNL.description>Cette personne a absorbé la poussière de résurrection d'un cadavre, ce qui améliore sa régénération et réduit sa sensation de douleur pendant une journée.</DeadlifeRegenSTNL.description>
+
+<!-- EN: Deadlife sacks -->
+<DeadlifesacksSTNL.label>poches de résurrection</DeadlifesacksSTNL.label>
+<!-- EN: This person possesses the ability to spew out deadlife dust from their body. -->
+<DeadlifesacksSTNL.description>Cette personne a la capacité de libérer de la poussière de résurrection de son corps.</DeadlifesacksSTNL.description>
+<!-- EN: This person possesses the ability to spew out deadlife dust from their body. -->
+<DeadlifesacksSTNL.descriptionShort>Cette personne a la capacité de libérer de la poussière de résurrection de son corps.</DeadlifesacksSTNL.descriptionShort>
+
+<!-- EN: Death -->
+<DeadSTNLA.label>mort</DeadSTNLA.label>
+<!-- EN: This creature is dead. -->
+<DeadSTNLA.description>Cette créature est morte.</DeadSTNLA.description>
+<!-- EN: Dying -->
+<DeadSTNLA.stages.Dying.label>mourant</DeadSTNLA.stages.Dying.label>
+<!-- EN: Dead -->
+<DeadSTNLA.stages.Dead.label>mort</DeadSTNLA.stages.Dead.label>
+
+<!-- EN: Psychic Burnout -->
+<PsychicBurnoutSTNL.label>épuisement psychique</PsychicBurnoutSTNL.label>
+<!-- EN: This person has lost the ability to use psychic abilities for a while due to overworking themselves. -->
+<PsychicBurnoutSTNL.description>Cette personne a perdu ses capacités psychiques pendant un certain temps en raison d'un surmenage.</PsychicBurnoutSTNL.description>
+<!-- EN: This person has lost the ability to use psychic abilities for a while due to overworking themselves. -->
+<PsychicBurnoutSTNL.descriptionShort>Cette personne a perdu ses capacités psychiques pendant un certain temps en raison d'un surmenage.</PsychicBurnoutSTNL.descriptionShort>
+
+
+</LanguageData>

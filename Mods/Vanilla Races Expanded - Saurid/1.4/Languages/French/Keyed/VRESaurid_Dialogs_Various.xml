@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRESaurids_FactionGreetingHostile>{0} crie quelque chose que seuls les saurides peuvent comprendre dans le microphone et se déconnecte.</VRESaurids_FactionGreetingHostile>
+<VRESaurids_FactionGreetingHostileAppreciative>Sifflant et hurlant de colère, {0} exige que vous fassiez un geste d'unité, comme apporter des cadeaux à l'une de ses colonies ou libérer les prisonniers de sa faction sains et saufs. Jusque-là, {0_pronoun} elle ne veut pas parler.\n\nEn sifflant une insulte, {0_pronoun} se déconnecte.</VRESaurids_FactionGreetingHostileAppreciative>
+<VRESaurids_FactionGreetingWary>{0} vous salue en sifflant et vous demande ce que vous voulez faire.</VRESaurids_FactionGreetingWary>
+<VRESaurids_FactionGreetingWarm>Aboyant avec enthousiasme, {0} salue {NEGOTIATOR_labelShort} et lui demande ce qu'{LEADER_pronoun} peut faire pour vous aider.</VRESaurids_FactionGreetingWarm>
+<VRESaurids_MilitaryAidSent>{0} accepte d'envoyer des combattants saurides pour vous aider.</VRESaurids_MilitaryAidSent>
+
+<VRESaurids.EggLaidLabel>{0} a pondu un œuf !</VRESaurids.EggLaidLabel>
+<VRESaurids.EggLaidDesc>{0} a pondu un œuf car elle est ovipare. Assurez-vous de conserver l'œuf dans un environnement sûr, sous le toit et entre 0°C et 50°C. Après un certain temps, l'œuf va éclore et donner naissance à un bébé. {0} ne pourra plus pondre d'autres œufs jusqu'à ce que son corps se remette de ce processus.</VRESaurids.EggLaidDesc>
+<VRESaurids.EggHatchedLabel>L'œuf de {0} a éclos !</VRESaurids.EggHatchedLabel>
+<VRESaurids.EggHatchedDesc>L'œuf de {0} a éclos avec succès, ajoutant un nouveau bébé à la colonie ! N'oubliez pas de prendre soin de lui et de veiller à ce qu'il grandisse en bonne santé.</VRESaurids.EggHatchedDesc>
+<VRESaurids.CannotOviparous>ovipare</VRESaurids.CannotOviparous>
+<VRESaurids.ColdBloodedDanger>Ectotherme en danger !</VRESaurids.ColdBloodedDanger>
+<VRESaurids.ColdBloodedDangerExplanation>Les colons ectothermes succomberont aux températures extrêmes beaucoup plus facilement et rapidement que les autres, ces colons sont actuellement en danger </VRESaurids.ColdBloodedDangerExplanation>
+
+
+</LanguageData>

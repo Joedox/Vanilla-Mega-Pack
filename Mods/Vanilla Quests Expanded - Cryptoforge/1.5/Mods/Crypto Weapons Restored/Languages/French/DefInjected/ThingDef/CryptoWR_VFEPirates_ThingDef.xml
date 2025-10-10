@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- ========== Si "Vanilla Factions Expanded - Pirates" est présent. ========== -->
+
+<!-- EN: crypto cannon charge -->
+<VFE_Bullet_CryptoCannon.label>charge crypto-canon</VFE_Bullet_CryptoCannon.label>
+
+<!-- EN: warcasket cryptocannon -->
+<VFEP_WarcasketGun_CryptoCannon.label>crypto-canon warcasket</VFEP_WarcasketGun_CryptoCannon.label>
+<!-- EN: Combines both crypto technology with military flamethrowers for a close range defense weapon. Sacrifices direct damage potential for area denial. Applies variable cold effect to those affected by the stream of supercooled particles, reducing their manipulation and inducing hypothermia. Ideally used with a pair of fast-moving warcaskets. -->
+<VFEP_WarcasketGun_CryptoCannon.description>Combine à la fois la crypto-technologie et les lance-flammes militaires pour créer une arme de défense à courte portée. Sacrifie le potentiel de dommages directs au profit de la suppression de zone. Applique un effet de froid variable à ceux qui sont touchés par le flux de particules ultra-froides, réduisant leur manipulation et provoquant l'hypothermie. Idéalement utilisé avec une armure warcasket à déplacement rapide.</VFEP_WarcasketGun_CryptoCannon.description>
+<!-- EN: stock -->
+<VFEP_WarcasketGun_CryptoCannon.tools.stock.label>crosse</VFEP_WarcasketGun_CryptoCannon.tools.stock.label>
+<!-- EN: barrel -->
+<VFEP_WarcasketGun_CryptoCannon.tools.barrel.label>canon</VFEP_WarcasketGun_CryptoCannon.tools.barrel.label>
+<!-- EN: warcasket cryptocannon -->
+<VFEP_WarcasketGun_CryptoCannon.verbs.Verb_Shoot.label>crypto-canon warcasket</VFEP_WarcasketGun_CryptoCannon.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

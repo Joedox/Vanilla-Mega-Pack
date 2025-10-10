@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Outposts.Settings.ResearchRate>Taux de recherche </Outposts.Settings.ResearchRate>
+<Outposts.Settings.WorkToDrill>Temps de forage (doit avoir lieu avant le début de la production) </Outposts.Settings.WorkToDrill>
+<Outposts.Settings.Cooldown>Temps de recharge </Outposts.Settings.Cooldown>
+<Outposts.Settings.Shooting>Importance du tir </Outposts.Settings.Shooting>
+<Outposts.Settings.Animals>Importance des animaux </Outposts.Settings.Animals>
+<Outposts.Settings.NeedPods>Besoin de la technologie Capsule de transport pour déployer les renforts ?</Outposts.Settings.NeedPods>
+<Outposts.Settings.Leather>Multiplicateur de cuir </Outposts.Settings.Leather>
+<Outposts.Settings.Meat>Multiplicateur de viande </Outposts.Settings.Meat>
+<Outposts.Settings.DoIntercept>Intercepter les raids entrants ?</Outposts.Settings.DoIntercept>
+<Outposts.Settings.Chance>Multiplicateur de chance de recrutement </Outposts.Settings.Chance>
+<Outposts.Commands.Fire.Label>Frappe d'artillerie</Outposts.Commands.Fire.Label>
+<Outposts.Commands.Fire.Desc>Commencer le ciblage pour une frappe d'artillerie</Outposts.Commands.Fire.Desc>
+<Outposts.Commands.Disabled.Cooldown>en recharge</Outposts.Commands.Disabled.Cooldown>
+<Outposts.Cooldown>En recharge : {0} restantes</Outposts.Cooldown>
+<Outposts.Letters.Intercept.Label>Raid intercepté</Outposts.Letters.Intercept.Label>
+<Outposts.Letters.Intercept.Text>Un raid à destination de {0} a été intercepté par l'avant-poste défensif {0}. Espérons qu'ils puissent survivre à cette courageuse manœuvre.</Outposts.Letters.Intercept.Text>
+<Outposts.Commands.Deploy.Label>Envoyer des renforts</Outposts.Commands.Deploy.Label>
+<Outposts.Commands.Deploy.Desc>Déployer la garnison de cet avant-poste dans des capsules de transport pour vous aider dans un combat.</Outposts.Commands.Deploy.Desc>
+<Outposts.Commands.Deploy.Disabled>Envoi impossible : Nécessite la recherche Capsule de transport</Outposts.Commands.Deploy.Disabled>
+<Outposts.Commands.Deploy.Only1>Impossible d'envoyer le dernier colon</Outposts.Commands.Deploy.Only1>
+<Outposts.Drilling>Forage de sondage. Reste {0}. Temps estimé : {1}</Outposts.Drilling>
+<Outposts.MustBeMade>Doit être fait dans le {0}</Outposts.MustBeMade>
+<Outposts.MustBeMade.Hill>Doit être sur une montagne ou une colline</Outposts.MustBeMade.Hill>
+<Outposts.SkillTooLow>Cumul de compétence trop basse, mini. {0}</Outposts.SkillTooLow>
+<Outposts.NearbySettlements>Pas assez de colonies à proximité, il en faut {0} dans un rayon de {1} cases</Outposts.NearbySettlements>
+<Outposts.Letters.Recruit.Label>Colons recrutés : {0}</Outposts.Letters.Recruit.Label>
+<Outposts.Letters.Recruit.Desc>Les colons suivants ont été nouvellement recrutés dans la ville de {0}:\n{1}</Outposts.Letters.Recruit.Desc>
+<Outposts.Commands.Factory.Label>Changer l'usine</Outposts.Commands.Factory.Label>
+<Outposts.Commands.Factory.Desc>Changer le bâtiment d'usine que cet avant-poste utilise pour produire des articles pour vous</Outposts.Commands.Factory.Desc>
+<Outposts.Commands.Comb.Label>Production</Outposts.Commands.Comb.Label>
+<Outposts.Commands.Comb.Desc>Changer la production de cette usine</Outposts.Commands.Comb.Desc>
+<Outposts.MustBeOnCoastOrRiver>Doit être près de la côte ou sur une rivière</Outposts.MustBeOnCoastOrRiver>
+<Outposts.MustBeArmed>Tous les occupants doivent être armés et prêts à combattre.</Outposts.MustBeArmed>
+<Outposts.WillProduce.Pawns>Peut recruter des nouveaux colons dans {0}</Outposts.WillProduce.Pawns>
+<Outposts.Defensive.Won.Label>Raid d'embuscade gagné</Outposts.Defensive.Won.Label>
+<Outposts.Defensive.Won.Desc>Vos soldats ont réussi à vaincre le raid entrant avant qu'il ne puisse atteindre votre colonie.</Outposts.Defensive.Won.Desc>
+<Outposts.Defensive.Lost.Label>Raid d'embuscade perdu</Outposts.Defensive.Lost.Label>
+<Outposts.Defensive.Lost.Desc>Vos soldats ont été vaincus alors qu'ils tendaient une embuscade à un raid ciblant votre colonie. Heureusement, les pillards ont été découragés par votre audace et ont décidé de rentrer chez eux sans attaquer votre colonie. Le sacrifice de vos soldats n'est pas vain.</Outposts.Defensive.Lost.Desc>
+</LanguageData>

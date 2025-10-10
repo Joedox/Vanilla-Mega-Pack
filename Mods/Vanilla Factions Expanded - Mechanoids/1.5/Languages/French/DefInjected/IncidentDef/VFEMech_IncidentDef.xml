@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEM_MechShipDestroyed.label>Vaisseau mécanoïde détruit</VFEM_MechShipDestroyed.label>
+<VFEM_MechShipDestroyed.letterLabel>{FACTION_name} a détruit {1}</VFEM_MechShipDestroyed.letterLabel>
+<VFEM_MechShipDestroyed.letterText>Grâce à des stratégies astucieuses, un grand nombre de pertes et une incroyable persévérance, {FACTION_name} a réussi à détruire {1}.</VFEM_MechShipDestroyed.letterText>
+
+<VFEM_ShipLandFrigate.label>Atterrissage du vaisseau Frégate</VFEM_ShipLandFrigate.label>
+<VFEM_ShipLandFrigate.letterLabel>Atterrissage : Frégate mécanoïde</VFEM_ShipLandFrigate.letterLabel>
+<VFEM_ShipLandFrigate.letterText>{0} a fait atterrir un nouveau vaisseau sur la planète.\n\nUn petit vaisseau souvent utilisé pour des opérations de reconnaissance au sol. Il a des défenses minimales. S'il est détruit, la présence de mécanoïde sera réduite.\n\nS'il est laissé opérationnel, il contribuera à augmenter la taille des groupes d'attaque des mécanoïdes.</VFEM_ShipLandFrigate.letterText>
+
+<VFEM_ShipLandDestroyer.label>Atterrissage du vaisseau Destroyer</VFEM_ShipLandDestroyer.label>
+<VFEM_ShipLandDestroyer.letterLabel>Atterrissage : Destroyer mécanoïde</VFEM_ShipLandDestroyer.letterLabel>
+<VFEM_ShipLandDestroyer.letterText>{0} a fait atterrir un nouveau vaisseau sur la planète.\n\nLe Destroyer est un vaisseau de taille moyenne servant habituellement à défendre l’essaim mécanoïde. S'il est détruit, la présence de mécanoïde sera réduite.\n\nS'il est laissé opérationnel, il contribuera à augmenter la taille des groupes d'attaque des mécanoïdes.</VFEM_ShipLandDestroyer.letterText>
+
+<VFEM_ShipLandCruiser.label>Atterrissage du vaisseau Croiseur</VFEM_ShipLandCruiser.label>
+<VFEM_ShipLandCruiser.letterLabel>Atterrissage : Croiseur mécanoïde</VFEM_ShipLandCruiser.letterLabel>
+<VFEM_ShipLandCruiser.letterText>{0} a fait atterrir un nouveau vaisseau sur la planète.\n\nLe croiseur est un vaisseau de taille moyenne qui sert généralement de base à une flotte d’essaim mécanoïde. Il dispose d'un certain nombre de mesures défensives à courte portée, mais ne dispose pas d'armement à longue portée. S'il est détruit, la présence de mécanoïde sera réduite.\n\nS'il est laissé opérationnel, il contribuera à augmenter la taille des groupes d'attaque des mécanoïdes.</VFEM_ShipLandCruiser.letterText>
+
+<VFEM_ShipLandTroopship.label>Atterrissage du vaisseau Transporteur</VFEM_ShipLandTroopship.label>
+<VFEM_ShipLandTroopship.letterLabel>Atterrissage : Transporteur mécanoïde</VFEM_ShipLandTroopship.letterLabel>
+<VFEM_ShipLandTroopship.letterText>{0} a fait atterrir un nouveau vaisseau sur la planète.\n\nLe transporteur est un grand vaisseau-usine de mécanoïdes, capable de produire de grandes quantités de mécanoïdes prêts au combat en très peu de temps. S'il est détruit, la présence de mécanoïde sera réduite.\n\nS'il est laissé opérationnel, il contribuera à augmenter la taille des groupes d'attaque des mécanoïdes.</VFEM_ShipLandTroopship.letterText>
+
+<VFEM_ShipLandCarrier.label>Atterrissage du vaisseau Carrier</VFEM_ShipLandCarrier.label>
+<VFEM_ShipLandCarrier.letterLabel>Atterrissage : Carrier mécanoïde</VFEM_ShipLandCarrier.letterLabel>
+<VFEM_ShipLandCarrier.letterText>{0} a fait atterrir un nouveau vaisseau sur la planète.\n\nLe transporteur est le plus gros vaisseau de l’essaim mécanoïde, fortement défendu et disposant de nombreux moyens de produire de nouvelles unités mécanoïdes prêtes au combat. S'il est détruit, la présence de mécanoïde sera réduite.\n\nS'il est laissé opérationnel, il contribuera à augmenter la taille des groupes d'attaque des mécanoïdes.</VFEM_ShipLandCarrier.letterText>
+
+
+</LanguageData>

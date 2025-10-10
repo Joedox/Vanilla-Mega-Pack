@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<PTA_PsionicShockwave.label>onde de choc psionique</PTA_PsionicShockwave.label>
+
+<PTA_ResonanceCoil.label>sphère de particules</PTA_ResonanceCoil.label>
+<PTA_ResonanceCoil.description>Un projectile énergétique d'une force destructrice qui inflige des dégâts massifs aux bâtiments et aux objets infranchissables.</PTA_ResonanceCoil.description>
+
+<PTA_Interceptor.label>intercepteur</PTA_Interceptor.label>
+<PTA_Interceptor.description>Les intercepteurs sont équipés de boucliers et peuvent effectuer des attaques à distance. Lorsqu'ils sont actifs, les intercepteurs consomment en permanence l'entropie psionique du psylanceur.</PTA_Interceptor.description>
+<PTA_Interceptor.tools.0.label>tête</PTA_Interceptor.tools.0.label>
+<PTA_Interceptor.verbs.Verb_Shoot.label>canon à impulsion</PTA_Interceptor.verbs.Verb_Shoot.label>
+
+<PTA_PurificationNova.label>disrupteur</PTA_PurificationNova.label>
+<PTA_PurificationNova.description>Les disrupteurs durent 2 heures et libèrent une puissante nova purificatrice à leur mort, infligeant des dégâts massifs aux unités proches.</PTA_PurificationNova.description>
+<PTA_PurificationNova.tools.0.label>tête</PTA_PurificationNova.tools.0.label>
+
+<PTA_TimeWarp.label>distorsion temporelle</PTA_TimeWarp.label>
+
+<PTA_SparksBlue.label>Mote</PTA_SparksBlue.label>
+<PTA_PurificationNova_Mote.label>Mote</PTA_PurificationNova_Mote.label>
+<PTA_PsychicInvisibility.label>Mote</PTA_PsychicInvisibility.label>
+
+
+</LanguageData>

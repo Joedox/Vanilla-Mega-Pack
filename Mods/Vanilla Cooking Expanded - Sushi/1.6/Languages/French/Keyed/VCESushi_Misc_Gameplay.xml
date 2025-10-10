@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Sauce fermenter -->
+
+<!-- EN: Fermenting Item -->
+<VCE_InsertSoybeansDesc>Article de fermentation</VCE_InsertSoybeansDesc>
+
+<!-- EN: Bring Soybeans -->
+<VCE_StartSoybeanInsertion>Apporter du soja</VCE_StartSoybeanInsertion>
+<!-- EN: Bring soybeans to the fermenter to start fermentation process -->
+<VCE_StartSoybeanInsertionDesc>Apporter les graines de soja dans le fermenteur pour démarrer le processus de fermentation.</VCE_StartSoybeanInsertionDesc>
+
+<!-- EN: Cancel Bringing Soybeans -->
+<VCE_CancelBringingSoybeans>Annuler</VCE_CancelBringingSoybeans>
+<!-- EN: Cancel bringing soybeans to the fermenter. -->
+<VCE_CancelBringingSoybeansDesc>Annuler l'apport de soja dans le fermenteur.</VCE_CancelBringingSoybeansDesc>
+
+<!-- EN: Remove Soy Sauce ({0}) -->
+<VCE_RemoveSoySauce>Retirer la sauce soja ({0})</VCE_RemoveSoySauce>
+<!-- EN: Remove soy sauce from the fermenter. The sauce will be ready at the present quality level ({0}) -->
+<VCE_RemoveSoySauceDesc>Retirer la sauce de soja du fermenteur. La sauce sera prête au niveau de qualité actuel ({0})</VCE_RemoveSoySauceDesc>
+
+<!-- EN: This soy sauce fermenter is not working at the moment -->
+<VCE_SoyFermenterNotWorking>Ce fermenteur de sauce soja ne fonctionne pas pour le moment.</VCE_SoyFermenterNotWorking>
+
+<!-- Condiment stats (using code from AnimalBehaviours) -->
+
+
+<!-- EN: Consuming meals that include this condiment increases mood by 5 and increases blood pumping and filtration by 5% for 12 hours. -->
+<VCE_CondimentEffectsSoy>La consommation de repas comprenant ce condiment augmente l'humeur de 5 et augmente de 5% le pompage et le filtrage du sang pendant 12 heures.</VCE_CondimentEffectsSoy>
+<!-- EN: Consuming meals that include this condiment increases consciousness and breathing by 5%, decreases mood by 1 and decreases minimum lower temperature by 10ºC, all for 12 hours. -->
+<VCE_CondimentEffectsWasabi>La consommation de repas comprenant ce condiment augmente de 5% la conscience et la respiration, diminue de 1 l'humeur et abaisse de 10ºC la température minimale de confort, le tout pendant 12 heures.</VCE_CondimentEffectsWasabi>
+
+
+
+</LanguageData>

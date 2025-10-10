@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VEF_RangedCooldownFactor.label>facteur recharge à distance</VEF_RangedCooldownFactor.label>
+<VEF_RangedCooldownFactor.description>Le temps de recharge des armes à distance du porteur est multiplié par cette valeur.</VEF_RangedCooldownFactor.description>
+
+<VEF_VerbRangeFactor.label>facteur de portée</VEF_VerbRangeFactor.label>
+<VEF_VerbRangeFactor.description>La portée des armes du manieur est multipliée par cette valeur.</VEF_VerbRangeFactor.description>
+<VEF_VerbRangeFactor.labelForFullStatList>facteur de portée (personne)</VEF_VerbRangeFactor.labelForFullStatList>
+
+<VEF_VerbCooldownFactor.label>facteur de cadence de tir</VEF_VerbCooldownFactor.label>
+<VEF_VerbCooldownFactor.description>La cadence de tir des armes du porteur est multiplié par cette valeur.</VEF_VerbCooldownFactor.description>
+<VEF_VerbCooldownFactor.labelForFullStatList>facteur de cadence de tir (personnes)</VEF_VerbCooldownFactor.labelForFullStatList>
+
+<VEF_EnergyShieldEnergyMaxOffset.label>compenser l'énergie max. du bouclier</VEF_EnergyShieldEnergyMaxOffset.label>
+<VEF_EnergyShieldEnergyMaxOffset.description>Compense l'énergie maximum du bouclier que l'utilisateur peut augmenter par divers moyens.</VEF_EnergyShieldEnergyMaxOffset.description>
+
+<VEF_EnergyShieldEnergyMaxFactor.label>facteur d'énergie max. du bouclier</VEF_EnergyShieldEnergyMaxFactor.label>
+<VEF_EnergyShieldEnergyMaxFactor.description>Facteur de l'énergie maximum du bouclier que l'utilisateur peut augmenter par divers moyens.</VEF_EnergyShieldEnergyMaxFactor.description>
+
+<VEF_EnergyShieldEnergyMaxApparel.label>énergie max. du bouclier</VEF_EnergyShieldEnergyMaxApparel.label>
+<VEF_EnergyShieldEnergyMaxApparel.description>L'énergie maximum qu'un générateur de bouclier peut atteindre à un moment donné. Plus d'énergie permet d'absorber plus de dégâts.</VEF_EnergyShieldEnergyMaxApparel.description>
+
+<VEF_EnergyShieldRechargeRateApparel.label>taux de recharge du bouclier</VEF_EnergyShieldRechargeRateApparel.label>
+<VEF_EnergyShieldRechargeRateApparel.description>La vitesse à laquelle un bouclier récupère de l'énergie tant qu'il n'est pas brisé.</VEF_EnergyShieldRechargeRateApparel.description>
+<VEF_EnergyShieldRechargeRateApparel.formatString>{0}/s</VEF_EnergyShieldRechargeRateApparel.formatString>
+
+<VEF_EnergyShieldRadiusApparel.label>rayon du bouclier</VEF_EnergyShieldRadiusApparel.label>
+<VEF_EnergyShieldRadiusApparel.description>La zone de couverture lorsque le bouclier énergétique est actif.</VEF_EnergyShieldRadiusApparel.description>
+<VEF_EnergyShieldRadiusApparel.formatString>{0} c</VEF_EnergyShieldRadiusApparel.formatString>
+
+<VEF_EnergyShieldEnergyMaxPawn.label>énergie max. du bouclier</VEF_EnergyShieldEnergyMaxPawn.label>
+<VEF_EnergyShieldEnergyMaxPawn.description>L'énergie maximum qu'un générateur de bouclier peut atteindre à un moment donné. Plus d'énergie permet d'absorber plus de dégâts.</VEF_EnergyShieldEnergyMaxPawn.description>
+
+<VEF_EnergyShieldRechargeRatePawn.label>taux de recharge du bouclier</VEF_EnergyShieldRechargeRatePawn.label>
+<VEF_EnergyShieldRechargeRatePawn.description>La vitesse à laquelle un bouclier récupère de l'énergie tant qu'il n'est pas brisé.</VEF_EnergyShieldRechargeRatePawn.description>
+<VEF_EnergyShieldRechargeRatePawn.formatString>{0}/s</VEF_EnergyShieldRechargeRatePawn.formatString>
+
+<VEF_EnergyShieldRadiusPawn.label>rayon du bouclier</VEF_EnergyShieldRadiusPawn.label>
+<VEF_EnergyShieldRadiusPawn.description>La zone de couverture lorsque le bouclier énergétique est actif.</VEF_EnergyShieldRadiusPawn.description>
+<VEF_EnergyShieldRadiusPawn.formatString>{0} c</VEF_EnergyShieldRadiusPawn.formatString>
+
+<VEF_MeleeAttackSpeedFactor.label>facteur de vitesse des attaques en mêlée</VEF_MeleeAttackSpeedFactor.label>
+<VEF_MeleeAttackSpeedFactor.description>Un multiplicateur de la vitesse d'attaque en mêlée.</VEF_MeleeAttackSpeedFactor.description>
+
+<VEF_RangeAttackSpeedFactor.label>facteur de vitesse d'attaque à distance</VEF_RangeAttackSpeedFactor.label>
+<VEF_RangeAttackSpeedFactor.description>Un multiplicateur de la vitesse d'attaque à distance.</VEF_RangeAttackSpeedFactor.description>
+
+<VEF_MeleeAttackDamageFactor.label>facteur de dégâts des attaques en mêlée</VEF_MeleeAttackDamageFactor.label>
+<VEF_MeleeAttackDamageFactor.description>Un multiplicateur des dégâts des attaques en mêlée.</VEF_MeleeAttackDamageFactor.description>
+
+<VEF_RangeAttackDamageFactor.label>facteur de dégâts des attaques à distance</VEF_RangeAttackDamageFactor.label>
+<VEF_RangeAttackDamageFactor.description>Un multiplicateur des dégâts des attaques à distance.</VEF_RangeAttackDamageFactor.description>
+
+
+
+<VEF_FoodCapacityMultiplier.label>multiplicateur alimentaire du corps</VEF_FoodCapacityMultiplier.label><!-- multiplicateur de la capacité alimentaire du corps -->
+<VEF_FoodCapacityMultiplier.description>Augmente la taille de la barre de faim du colon. Cela n'affecte pas la faim.</VEF_FoodCapacityMultiplier.description>
+
+<VEF_BodySize_Offset.label>décalage de la taille du corps</VEF_BodySize_Offset.label>
+<VEF_BodySize_Offset.description>Augmente la taille du colon par rapport à sa taille actuelle.</VEF_BodySize_Offset.description>
+
+<VEF_BodySize_Multiplier.label>multiplicateur de la taille du corps</VEF_BodySize_Multiplier.label>
+<VEF_BodySize_Multiplier.description>Augmente la taille du colon d'un multiple de sa taille actuelle.</VEF_BodySize_Multiplier.description>
+
+<VEF_CosmeticBodySize_Offset.label>décalage de la taille du corps cosmétique</VEF_CosmeticBodySize_Offset.label>
+<VEF_CosmeticBodySize_Offset.description>Augmente la taille du colon par rapport à sa taille actuelle.</VEF_CosmeticBodySize_Offset.description>
+
+<VEF_CosmeticBodySize_Multiplier.label>multiplicateur de la taille du corps cosmétique</VEF_CosmeticBodySize_Multiplier.label>
+<VEF_CosmeticBodySize_Multiplier.description>Augmente la taille du colon d'un multiple de sa taille actuelle.</VEF_CosmeticBodySize_Multiplier.description>
+
+<VEF_HeadSize_Cosmetic.label>multiplicateur de la taille de la tête</VEF_HeadSize_Cosmetic.label>
+
+<VEF_PawnRenderPosOffset.label>décalage du rendu du colon</VEF_PawnRenderPosOffset.label>
+<VEF_PawnRenderPosOffset.description>Modifie la position du colon sur l'axe des ordonnées.</VEF_PawnRenderPosOffset.description>
+
+
+</LanguageData>

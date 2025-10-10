@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_PsychicFocus.label>concentration psychique</VME_PsychicFocus.label>
+<VME_PsychicFocus.description>Maîtriser le pouvoir de l'esprit est essentiel pour assurer sa place dans l'univers. La force de l'esprit ne peut être atteinte que par la paix intérieure, et la paix intérieure ne peut être atteinte que par la méditation.</VME_PsychicFocus.description>
+<VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_PsychicFocus)        ->[deity0_name] a doté l'humanité de pouvoirs psychiques afin que nous puissions suivre sa volonté.</li>
+    <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] dit à tous les [memberNamePlural] : "Votre esprit est votre plus grande richesse. Apprenez à l'utiliser, et aucun ennemi ne vous résistera."</li>
+    <!-- theist founder -->
+    <li>intro(tag=meme_PsychicFocus)           ->[memberNamePlural] ont construit un grand [altarName] sur la [place_summary] [place_name], un lieu d'apprentissage et une école pour affiner ses pouvoirs psychiques afin d'exalter la volonté de [deity0_name].</li>
+    <li>conflict(tag=meme_PsychicFocus)        ->Un [foeLeader] lâche, cherchant à nier la volonté de [deity0_name], a dit à ses [foeSoldiers] d'attaquer les fidèles de [deity0_name] avec des pouvoirs psychiques insensés.</li>
+    <li>founderJoin(tag=meme_PsychicFocus)     ->[deity0_name] a béni un [place_job] nommé [founderName] avec ses prouesses mentales étonnantes, et personne ne pouvait se détourner lorsqu'[founder_pronoun] parlait, envoûté par ses sages paroles.</li>
+    <li>victory(tag=meme_PsychicFocus)         ->[founderName] a manipulé l'esprit de nombreux [foeSoldiers] et les a incités à prier [deity0_name]. Le [foeLeader] a eu honte et on n'a plus jamais entendu parler de lui.</li>
+    <!-- ideological founder -->
+    <li>setup(tag=meme_PsychicFocus)           ->Notre fondateur [founderName] était un guerrier psychique dans un empire stellaire oublié et brisé. [founder_pronoun] avait une incroyable discipline mentale, qui se manifestait par de merveilleux pouvoirs psychiques.</li>
+    <li>story(uses=1,tag=meme_PsychicFocus)    ->[founder_pronoun] a fondé une prestigieuse académie martiale où tous ses disciples pouvaient apprendre à affiner leur esprit et à l'utiliser comme une arme.</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_PsychicFocus)         ->Au cours de toutes mes années d'enseignement des disciplines de l'esprit, j'ai appris une leçon qui est plus importante que tout le reste :</li>
+    <li>lesson(tag=meme_PsychicFocus)              ->vous n'utilisez pas votre esprit comme une arme, votre esprit EST l'arme. Vous ne l'utilisez pas seulement à des fins offensives, sinon il est gaspillé</li>
+    <li>lessonReinforcement(tag=meme_PsychicFocus) ->Le plus grand guerrier psychique ne sera pas celui qui sait utiliser ces pouvoirs, mais celui qui sait réfléchir avant de les utiliser.</li>
+    <!-- archist -->
+    <li>archistBasis(tag=meme_PsychicFocus)    ->Les archotechs sont des esprits purs, des intellects immaculés qui dépassent tellement tout le reste qu'ils sont comme des dieux.</li>
+    <li>archistFact(tag=meme_PsychicFocus)     ->Les pouvoirs psychiques sont un cadeau des archotechs. En les éveillant dans notre esprit, nous participons, bien que faiblement, à la gloire de l'intellect archotech.</li>
+    <li>archistProphecy(tag=meme_PsychicFocus) ->[inTheEnd], les archotechs choisiront ceux qui maîtrisent le mieux leur esprit, et eux seuls seront autorisés à la transcendance.</li>
+    <!-- animist -->
+    <li>animistFact(tag=meme_PsychicFocus)     ->Les esprits sont les esprits ultimes, et en éveillant et en canalisant notre potentiel psychique caché, nous pouvons communier avec eux.</li>
+    <!-- serketist -->
+    <li>serketistProphecy(tag=meme_PsychicFocus)->[itIsSaid] nous débloquerons le potentiel psychique caché de nos esprits, et utiliserons ces nouveaux pouvoirs pour vénérer nos insectes bien-aimés.</li>
+    <!-- eldritch / chthonian -->
+    <li>chthonianProphecy(tag=meme_PsychicFocus)->Ces entités eldritch sont les intellects ultimes, aussi vastes et profonds que des nébuleuses entières, leur folie engloutissant un millier d'étoiles. Ce n'est qu'en éveillant et en canalisant notre potentiel psychique caché que nous pouvons espérer leur résister.</li>
+    <!-- esoteric -->
+    <li>esotericismProphecy(tag=meme_PsychicFocus)->Nous allons réveiller et canaliser notre potentiel psychique caché afin de dévoiler tous ces secrets, en les révélant à tous.</li>
+    <!-- eschatologism -->
+    <li>eschatologismFact(tag=meme_PsychicFocus)->Nous allons réveiller et canaliser notre potentiel psychique caché et utiliser nos pouvoirs destructeurs pour massacrer tous ceux qui se trouvent sur notre chemin.</li>
+    <!-- corporate -->
+    <li>introMemo(tag=meme_PsychicFocus)->Comme vous le savez tous, nous accordons une grande importance à l'intelligence dans notre entreprise. Par conséquent, ceux qui manifestent un potentiel psychique caché sont encouragés à en informer les ressources humaines dès que possible, afin qu'ils puissent être réaffectés à un nouveau département où ils pourront être mis à profit.</li>
+</VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
+<VME_PsychicFocus.generalRules.rulesStrings>
+    <li>memeAdjective->mental</li>
+    <li>memeAdjective->psychique</li>
+    <li>memeAdjective->métaphysique</li>
+    <li>memeHyphenPrefix->esprit</li>
+    <li>memeConcept->pouvoir psychique</li>
+    <li>memeLeaderNoun->mentaliste</li>
+    <li>memeLeaderNoun->augure</li>
+    <li>memeLeaderNoun->voyant</li>
+    <li>memeMoralist->prophète</li>
+    <li>memeMoralist->clairvoyant</li>
+</VME_PsychicFocus.generalRules.rulesStrings>
+<VME_PsychicFocus.symbolPacks.0.adjective>psychique</VME_PsychicFocus.symbolPacks.0.adjective>
+<VME_PsychicFocus.symbolPacks.0.ideoName>Psychique</VME_PsychicFocus.symbolPacks.0.ideoName>
+<VME_PsychicFocus.symbolPacks.0.member>psychique</VME_PsychicFocus.symbolPacks.0.member>
+<VME_PsychicFocus.symbolPacks.0.theme>pouvoirs psychiques</VME_PsychicFocus.symbolPacks.0.theme>
+<VME_PsychicFocus.symbolPacks.1.adjective>mentaliste</VME_PsychicFocus.symbolPacks.1.adjective>
+<VME_PsychicFocus.symbolPacks.1.ideoName>Mentalisme</VME_PsychicFocus.symbolPacks.1.ideoName>
+<VME_PsychicFocus.symbolPacks.1.member>mentaliste</VME_PsychicFocus.symbolPacks.1.member>
+<VME_PsychicFocus.symbolPacks.1.theme>mentalisme</VME_PsychicFocus.symbolPacks.1.theme>
+<VME_PsychicFocus.symbolPacks.2.adjective>psionique</VME_PsychicFocus.symbolPacks.2.adjective>
+<VME_PsychicFocus.symbolPacks.2.ideoName>Psionique</VME_PsychicFocus.symbolPacks.2.ideoName>
+<VME_PsychicFocus.symbolPacks.2.member>psion</VME_PsychicFocus.symbolPacks.2.member>
+<VME_PsychicFocus.symbolPacks.2.theme>psionique</VME_PsychicFocus.symbolPacks.2.theme>
+
+
+</LanguageData>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VTE_FactionSiegePlan.rulePack.rulesStrings.0>root->[FACTION_name] planifie un certain nombre de missions de siège et commence à stocker des armes et des munitions.</VTE_FactionSiegePlan.rulePack.rulesStrings.0>
+<VTE_FactionSiegePlan.rulePack.rulesStrings.1>root->[FACTION_name] se prépare à la guerre et va stocker des armes et des munitions.</VTE_FactionSiegePlan.rulePack.rulesStrings.1>
+<VTE_FactionSiegePlan.rulePack.rulesStrings.2>root->[FACTION_name] achète des quantités excessives d'armes et d'obus de mortier.</VTE_FactionSiegePlan.rulePack.rulesStrings.2>
+
+<VTE_FactionInfestationLoot.rulePack.rulesStrings.0>root->[FACTION_name] s'est finalement occupé de leurs infestations et a décidé de vendre leur surplus de gelée.</VTE_FactionInfestationLoot.rulePack.rulesStrings.0>
+<VTE_FactionInfestationLoot.rulePack.rulesStrings.1>root->[FACTION_name] a pillé des grottes insectoïdes et revend la gelée sur le marché.</VTE_FactionInfestationLoot.rulePack.rulesStrings.1>
+<VTE_FactionInfestationLoot.rulePack.rulesStrings.2>root->[FACTION_name] a mis la main sur une grande quantité de gelée d'insectes et prévoit de la vendre.</VTE_FactionInfestationLoot.rulePack.rulesStrings.2>
+
+<VTE_SettlementGotPlague.rulePack.rulesStrings.0>root->[SETTLEMENT_label] est aux prises avec un fléau. La frénésie d'achat de médicaments a commencé.</VTE_SettlementGotPlague.rulePack.rulesStrings.0>
+<VTE_SettlementGotPlague.rulePack.rulesStrings.1>root->[SETTLEMENT_label] lutte contre une épidémie. La frénésie d'achat de médicaments a commencé.</VTE_SettlementGotPlague.rulePack.rulesStrings.1>
+<VTE_SettlementGotPlague.rulePack.rulesStrings.2>root->[SETTLEMENT_label] a un besoin urgent de médicaments, cela signifie que les prix vont augmenter.</VTE_SettlementGotPlague.rulePack.rulesStrings.2>
+
+<VTE_SettlementPrisonBreak.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a eu une évasion de prison. Ils promettent de renforcer la sécurité.</VTE_SettlementPrisonBreak.rulePack.rulesStrings.0>
+<VTE_SettlementPrisonBreak.rulePack.rulesStrings.1>root->[SETTLEMENT_label] stocke des armes.</VTE_SettlementPrisonBreak.rulePack.rulesStrings.1>
+<VTE_SettlementPrisonBreak.rulePack.rulesStrings.2>root->[SETTLEMENT_label] prévoit d'équiper tout le monde avec de nouvelles armes.</VTE_SettlementPrisonBreak.rulePack.rulesStrings.2>
+
+<VTE_SettlementGotRaided.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a été récemment attaqué. La reconstruction est en cours.</VTE_SettlementGotRaided.rulePack.rulesStrings.0>
+<VTE_SettlementGotRaided.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a subi une catastrophe naturelle et va acheter des matériaux de construction.</VTE_SettlementGotRaided.rulePack.rulesStrings.1>
+<VTE_SettlementGotRaided.rulePack.rulesStrings.2>root->[SETTLEMENT_label] prévoit de s'étendre, mais a besoin de matériaux de construction pour le faire.</VTE_SettlementGotRaided.rulePack.rulesStrings.2>
+
+<VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.0>root->[SETTLEMENT_label] s'est occupé de leur épidémie et revend maintenant l'excès de médicaments.</VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.0>
+<VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.1>root->[SETTLEMENT_label] vend le surplus de ses médicaments.</VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.1>
+<VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.2>root->[SETTLEMENT_label] n'a plus besoin de ses réserves de médicaments.</VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.2>
+
+<VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a organisé une évasion de prison qui a échoué dramatiquement. Ils ont décidé de vendre les surplus d'armes et d'armures.</VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.0>
+<VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a décidé de ne pas entrer en guerre. Ils vont vendre leurs armes et leurs armures.</VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.1>
+<VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.2>root->[SETTLEMENT_label] va vendre ses vieilles armes et armures.</VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.2>
+
+<VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a été récemment dévalisé. Les pillards vendent ce qu'ils ont volé.</VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.0>
+<VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a récupéré beaucoup de ferraille utile et va bientôt en inonder le marché.</VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.1>
+<VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.2>root->[SETTLEMENT_label] prévoit de vider ses stocks.</VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.2>
+
+<VTE_SettlementCombatEmergency.rulePack.rulesStrings.0>root->[SETTLEMENT_label] achète de grandes quantités d'armes en raison d'une urgence.</VTE_SettlementCombatEmergency.rulePack.rulesStrings.0>
+<VTE_SettlementCombatEmergency.rulePack.rulesStrings.1>root->[SETTLEMENT_label] se prépare à entrer en guerre et va acheter des armes.</VTE_SettlementCombatEmergency.rulePack.rulesStrings.1>
+<VTE_SettlementCombatEmergency.rulePack.rulesStrings.2>root->[SETTLEMENT_label] a besoin d'une grande quantité d'armes de toute urgence. Les prix devraient augmenter.</VTE_SettlementCombatEmergency.rulePack.rulesStrings.2>
+
+<VTE_SettlementManhunterMeat.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend de grandes quantités de viande qu'il a obtenues d'une meute de chasseurs d'hommes.</VTE_SettlementManhunterMeat.rulePack.rulesStrings.0>
+<VTE_SettlementManhunterMeat.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a eu une chasse très fructueuse et va vendre le surplus de viande.</VTE_SettlementManhunterMeat.rulePack.rulesStrings.1>
+<VTE_SettlementManhunterMeat.rulePack.rulesStrings.2>root->[SETTLEMENT_label] n'a plus besoin de viande et va inonder le marché avec celle-ci.</VTE_SettlementManhunterMeat.rulePack.rulesStrings.2>
+
+<VTE_SettlementZzzt.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a subi un Zzztt, et prévoit maintenant d'acheter une grande quantité de matériaux pour la reconstruction., et prévoit maintenant d'acheter une grande quantité de matériaux de construction pour reconstruire.</VTE_SettlementZzzt.rulePack.rulesStrings.0>
+<VTE_SettlementZzzt.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a subi une explosion de gaz et a besoin de matériaux pour la reconstruction.</VTE_SettlementZzzt.rulePack.rulesStrings.1>
+<VTE_SettlementZzzt.rulePack.rulesStrings.2>root->[SETTLEMENT_label] prévoit une expansion et va acquérir des ressources de construction. Les prix vont forcément augmenter.</VTE_SettlementZzzt.rulePack.rulesStrings.2>
+
+<VTE_SettlementAlphabeavers.rulePack.rulesStrings.0>root->[SETTLEMENT_label] est aux prises avec une meute d'alphacastors, et achète de grandes quantités de bois.</VTE_SettlementAlphabeavers.rulePack.rulesStrings.0>
+<VTE_SettlementAlphabeavers.rulePack.rulesStrings.1>root->[SETTLEMENT_label] n'a plus de bois et va en acheter en masse.</VTE_SettlementAlphabeavers.rulePack.rulesStrings.1>
+<VTE_SettlementAlphabeavers.rulePack.rulesStrings.2>root->[SETTLEMENT_label] a besoin de grandes quantités de bois pour son projet.</VTE_SettlementAlphabeavers.rulePack.rulesStrings.2>
+
+<VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.0>root->[SETTLEMENT_label] s'est débarrassé de la meute de castors qui le gênait, et vend désormais le surplus de bois.</VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.0>
+<VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.1>root->[SETTLEMENT_label] vend son excédant de bois.</VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.1>
+<VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.2>root->[SETTLEMENT_label] a coupé une grande partie de la forêt avec l'intention de vendre le bois.</VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.2>
+
+<VTE_SettlementBlight.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a subi un terrible mildiou et achète de grandes quantités de nourriture.</VTE_SettlementBlight.rulePack.rulesStrings.0>
+<VTE_SettlementBlight.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a vu ses stocks de nourriture brûler.</VTE_SettlementBlight.rulePack.rulesStrings.1>
+<VTE_SettlementBlight.rulePack.rulesStrings.2>root->[SETTLEMENT_label] prévoit d'acheter une grande quantité de nourriture.</VTE_SettlementBlight.rulePack.rulesStrings.2>
+
+<VTE_SettlementBigHarvest.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a eu une récolte exceptionnelle et vend ses réserves de nourriture.</VTE_SettlementBigHarvest.rulePack.rulesStrings.0>
+<VTE_SettlementBigHarvest.rulePack.rulesStrings.1>root->[SETTLEMENT_label] prévoit de vendre de grandes quantités de nourriture.</VTE_SettlementBigHarvest.rulePack.rulesStrings.1>
+<VTE_SettlementBigHarvest.rulePack.rulesStrings.2>root->[SETTLEMENT_label] a eu une bonne récolte et va vendre l'excédent de nourriture.</VTE_SettlementBigHarvest.rulePack.rulesStrings.2>
+
+<VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.0>root->[SETTLEMENT_label] s'est occupé de vaisseau défoliateur et vend maintenant l'excès de plastacier.</VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.0>
+<VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a extrait de grandes quantités de plastacier et prévoit de les vendre.</VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.1>
+<VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.2>root->[SETTLEMENT_label] vend du plastacier inutilisé.</VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.2>
+
+<VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a décidé d'améliorer ses défenses avec un nouvel ensemble d'armures motorisées. Ils achètent du plastacier en masse.</VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.0>
+<VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a besoin de plastacier et prévoit d'en acheter en gros.</VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.1>
+<VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.2>root->[SETTLEMENT_label] améliore ses défenses et prévoit d'obtenir du plastacier, de l'acier et des composants.</VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.2>
+
+<VTE_SettlementColdSnap.rulePack.rulesStrings.0>root->[SETTLEMENT_label] a été frappé par une vague de froid, qui a détruit leur production de nourriture.</VTE_SettlementColdSnap.rulePack.rulesStrings.0>
+<VTE_SettlementColdSnap.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a perdu ses réserves de nourriture.</VTE_SettlementColdSnap.rulePack.rulesStrings.1>
+<VTE_SettlementColdSnap.rulePack.rulesStrings.2>root->[SETTLEMENT_label] achète de la nourriture en masse.</VTE_SettlementColdSnap.rulePack.rulesStrings.2>
+
+<VTE_SettlementHeatWave.rulePack.rulesStrings.0>root->[SETTLEMENT_label] subit une terrible vague de chaleur et a décidé de vendre sa nourriture avant qu'elle ne pourrisse.</VTE_SettlementHeatWave.rulePack.rulesStrings.0>
+<VTE_SettlementHeatWave.rulePack.rulesStrings.1>root->[SETTLEMENT_label] a eu un dysfonctionnement de ses congélateurs et vend de la nourriture avant qu'elle ne pourrisse.</VTE_SettlementHeatWave.rulePack.rulesStrings.1>
+<VTE_SettlementHeatWave.rulePack.rulesStrings.2>root->[SETTLEMENT_label] vend son stock de nourriture.</VTE_SettlementHeatWave.rulePack.rulesStrings.2>
+
+<VTE_SettlementTextilePurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de textiles.</VTE_SettlementTextilePurchase.rulePack.rulesStrings.0>
+<VTE_SettlementTextilePurchase.rulePack.rulesStrings.1>root->[SETTLEMENT_label] prévoit de fournir à ses tailleurs de généreux volumes de textiles.</VTE_SettlementTextilePurchase.rulePack.rulesStrings.1>
+<VTE_SettlementTextilePurchase.rulePack.rulesStrings.2>root->[SETTLEMENT_label]achète des textiles en vrac.</VTE_SettlementTextilePurchase.rulePack.rulesStrings.2>
+
+<VTE_SettlementLeatherPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de cuirs.</VTE_SettlementLeatherPurchase.rulePack.rulesStrings.0>
+<VTE_SettlementLeatherPurchase.rulePack.rulesStrings.1>root->[SETTLEMENT_label] achète des cuirs en vrac.</VTE_SettlementLeatherPurchase.rulePack.rulesStrings.1>
+<VTE_SettlementLeatherPurchase.rulePack.rulesStrings.2>root->[SETTLEMENT_label] acquiert des quantités impressionnantes de différents cuirs.</VTE_SettlementLeatherPurchase.rulePack.rulesStrings.2>
+
+<VTE_SettlementWoolsPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de laine.</VTE_SettlementWoolsPurchase.rulePack.rulesStrings.0>
+<VTE_SettlementWoolsPurchase.rulePack.rulesStrings.1>root->[SETTLEMENT_label] achète de grandes quantités de différentes laines.</VTE_SettlementWoolsPurchase.rulePack.rulesStrings.1>
+<VTE_SettlementDrugsPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de drogues.</VTE_SettlementDrugsPurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de blocs de pierre.</VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementTechprintsPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de schémas techniques.</VTE_SettlementTechprintsPurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de parties du corps.</VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité d'armes de mêlée.</VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité d'armes à distance.</VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementApparelPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité de vêtements.</VTE_SettlementApparelPurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementArmorPurchase.rulePack.rulesStrings.0>root->[SETTLEMENT_label] acquiert une grande quantité d'armures.</VTE_SettlementArmorPurchase.rulePack.rulesStrings.0>
+
+<VTE_SettlementTextileSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de textiles.</VTE_SettlementTextileSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementLeatherSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de cuirs.</VTE_SettlementLeatherSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementWoolsSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de laines.</VTE_SettlementWoolsSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementDrugsSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de drogues.</VTE_SettlementDrugsSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de blocs de pierre.</VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementTechprintsSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de schémas techniques.</VTE_SettlementTechprintsSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de parties du corps.</VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité d'armes de mêlée.</VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité d'armes à distance.</VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementApparelSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité de vêtements.</VTE_SettlementApparelSellOff.rulePack.rulesStrings.0>
+
+<VTE_SettlementArmorSellOff.rulePack.rulesStrings.0>root->[SETTLEMENT_label] vend une grande quantité d'armures.</VTE_SettlementArmorSellOff.rulePack.rulesStrings.0>
+
+<VTE_CompanyGrowth.rulePack.rulesStrings.0>root->[COMPANY] a enregistré une croissance régulière. Le prix de l'action est appelé à augmenter à long terme.</VTE_CompanyGrowth.rulePack.rulesStrings.0>
+
+<VTE_NewShipPurchased.rulePack.rulesStrings.0>root->[COMPANY] a acheté un tout nouveau vaisseau commercial en orbite basse. Le prix des actions devrait augmenter à long terme.</VTE_NewShipPurchased.rulePack.rulesStrings.0>
+
+<VTE_CompanyDecline.rulePack.rulesStrings.0>root->[COMPANY] a annoncé des réductions budgétaires. Le prix de l'action est appelé à baisser à long terme.</VTE_CompanyDecline.rulePack.rulesStrings.0>
+
+<VTE_ShipCrashed.rulePack.rulesStrings.0>root->[COMPANY] a signalé qu'un de ses vaisseaux s'est écrasé. Le prix des actions devrait baisser.</VTE_ShipCrashed.rulePack.rulesStrings.0>
+
+<VTE_FearOfBankruptcy.rulePack.rulesStrings.0>root->[COMPANY] est pressenti pour annoncer sa faillite. Le prix de l'action peut soit s'effondrer, soit monter en flèche.</VTE_FearOfBankruptcy.rulePack.rulesStrings.0>
+
+<VTE_MediocreEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un rapport de résultats médiocre. Le prix devrait rester stable.</VTE_MediocreEarnings.rulePack.rulesStrings.0>
+
+<VTE_DecentEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un rapport sur ses bénéfices raisonnable. Le prix devrait augmenter légèrement.</VTE_DecentEarnings.rulePack.rulesStrings.0>
+
+<VTE_GoodEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un bon rapport sur ses bénéfices. Le prix devrait augmenter légèrement.</VTE_GoodEarnings.rulePack.rulesStrings.0>
+
+<VTE_GreatEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un excellent rapport sur ses bénéfices. Le prix devrait augmenter.</VTE_GreatEarnings.rulePack.rulesStrings.0>
+
+<VTE_ExcellentEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un excellent rapport sur ses bénéfices. Le prix devrait augmenter.</VTE_ExcellentEarnings.rulePack.rulesStrings.0>
+
+<VTE_OutstandingEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un rapport exceptionnel sur ses bénéfices. Le prix devrait monter en flèche.</VTE_OutstandingEarnings.rulePack.rulesStrings.0>
+
+<VTE_BelowAverageEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un rapport sur ses bénéfices inférieur à la moyenne. Le prix devrait baisser légèrement.</VTE_BelowAverageEarnings.rulePack.rulesStrings.0>
+
+<VTE_SubParEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un rapport sur ses bénéfices médiocres. Le prix devrait baisser légèrement.</VTE_SubParEarnings.rulePack.rulesStrings.0>
+
+<VTE_BadEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un mauvais rapport sur ses bénéfices. Le prix devrait baisser.</VTE_BadEarnings.rulePack.rulesStrings.0>
+
+<VTE_VeryBadEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un très mauvais rapport sur ses bénéfices. Le prix devrait baisser fortement.</VTE_VeryBadEarnings.rulePack.rulesStrings.0>
+
+<VTE_TerribleEarnings.rulePack.rulesStrings.0>root->[COMPANY] a publié un terrible rapport sur ses bénéfices. Le prix devrait s'effondrer.</VTE_TerribleEarnings.rulePack.rulesStrings.0>
+
+
+</LanguageData>

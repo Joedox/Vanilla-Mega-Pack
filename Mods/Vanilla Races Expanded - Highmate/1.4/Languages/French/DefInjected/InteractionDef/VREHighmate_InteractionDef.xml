@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_FlirtingAttempt.label>mots affectueux</VRE_FlirtingAttempt.label>
+<VRE_FlirtingAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] [wootactic].</li>
+
+    <li>wooed->a essayé de flirter avec</li>
+    <li>wooed->a flirté avec</li>
+    <li>wooed->a essayé d'attirer</li>
+    <li>wooed->a essayé de séduire</li>
+    <li>wooed->a courtisé</li>
+    <li>wooed->a poursuivi</li>
+    <li>wooed->a charmé</li>
+    <li>wooed->a fait la cour à</li>
+
+    <li>wootactic(p=4)->[complimenting] sur son [PersonalCharacteristic]</li>
+    <li>wootactic(p=4)->[complimenting] sur sa [PersonalCharacteristic_Feminine]</li>
+    <li>wootactic->en lui racontant une histoire [TalkTopicAny]</li>
+    <li>wootactic->en lui racontant une blague à propos [TalkTopicAny]</li>
+    <li>wootactic->en plaisantant à propos [TalkTopicAny]</li>
+    <li>wootactic->en faisant une observation [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] son propre [PersonalCharacteristic]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] sa propre [PersonalCharacteristic_Feminine]</li>
+    <li>wootactic->en [RECIPIENT_gender ? le : la ] comparant à un [romantic_noun] [romantic_adj]</li>
+    <li>wootactic->en [RECIPIENT_gender ? le : la ] comparant à une [romantic_nounF] [romantic_adjF]</li>
+    <li>wootactic->en [RECIPIENT_gender ? le : la ] décrivant comme un [romantic_noun] [romantic_adj]</li>
+    <li>wootactic->en [RECIPIENT_gender ? le : la ] décrivant comme une [romantic_nounF] [romantic_adjF]</li>
+
+    <li>boasting->en se vantant de</li>
+    <li>boasting->en mentionnant</li>
+    <li>boasting->en insinuant de bonnes choses sur</li>
+    <li>boasting->en exagérant sur</li>
+    <li>boasting->en lui parlant de</li>
+    <li>boasting->en attirant l'attention sur</li>
+
+    <li>complimenting(p=3)->[RECIPIENT_gender ? le : la ] complimentant</li>
+    <li>complimenting->[RECIPIENT_gender ? le : la ] complimentant subtilement</li>
+    <li>complimenting->[RECIPIENT_gender ? le : la ] louant</li>
+    <li>complimenting->[RECIPIENT_gender ? le : la ] félicitant</li>
+    <li>complimenting->en disant du bien d'[RECIPIENT_objective] </li>
+    <li>complimenting(p=2)->en se moquant ludiquement d'[RECIPIENT_objective]</li>
+    <li>complimenting->en plaisantant</li>
+    <li>complimenting->en la complimentant à moitié</li>
+    <li>complimenting->en lui posant des questions</li>
+    <li>complimenting->en se moquant allègrement</li>
+
+    <li>romantic_adj->magnifique</li>
+    <li>romantic_adjF->magnifique</li>
+    <li>romantic_adj->brillant</li>
+    <li>romantic_adjF->brillante</li>
+    <li>romantic_adj->scintillant</li>
+    <li>romantic_adjF->scintillante</li>
+    <li>romantic_adj->céleste</li>
+    <li>romantic_adjF->céleste</li>
+    <li>romantic_adj->doré</li>
+    <li>romantic_adjF->dorée</li>
+    <li>romantic_adj->lumineux</li>
+    <li>romantic_adjF->lumineuse</li>
+    <li>romantic_adj->époustouflant</li>
+    <li>romantic_adjF->époustouflante</li>
+    <li>romantic_adj->charmant</li>
+    <li>romantic_adjF->charmante</li>
+    <li>romantic_adj->éblouissant</li>
+    <li>romantic_adjF->éblouissante</li>
+    <li>romantic_adj->délicat</li>
+    <li>romantic_adjF->délicate</li>
+    <li>romantic_adj->superbe</li>
+    <li>romantic_adjF->superbe</li>
+    <li>romantic_adj->splendide</li>
+    <li>romantic_adjF->splendide</li>
+    <li>romantic_adj->joli</li>
+    <li>romantic_adjF->jolie</li>
+    <li>romantic_adj->merveilleux</li>
+    <li>romantic_adjF->merveilleuse</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_adjF(p=3)->[AdjectiveBadass_Feminine]</li>
+
+    <li>romantic_nounF->fleur</li>
+    <li>romantic_nounF->source</li>
+    <li>romantic_nounF->rivière</li>
+    <li>romantic_nounF->étoile</li>
+    <li>romantic_nounF->lune</li>
+    <li>romantic_noun->soleil</li>
+    <li>romantic_nounF->maison</li>
+    <li>romantic_nounF->aurore</li>
+    <li>romantic_noun->[TreeTypeAny_indef]</li>
+    <li>romantic_nounF->[TreeType_Feminine]</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_nounF(p=2)->[TerrainFeature_Feminine]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+    <li>romantic_nounF(p=2)->[NaturalObject_Feminine]</li>
+</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>

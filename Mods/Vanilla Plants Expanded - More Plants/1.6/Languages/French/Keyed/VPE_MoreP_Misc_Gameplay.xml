@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Aquatic Growing Zone -->
+<VCE_AquaticGrowingZone>Zone agricole aquatique</VCE_AquaticGrowingZone>
+<!-- EN: Create a zone where your colonists will try to grow aquatic plants. Aquatic plants ignore terrain fertility but take a very long time to sow and harvest.\n\nThese zones can't be placed on oceanic (salty) water. -->
+<VCE_AquaticGrowingZoneDesc>Créer une zone dans laquelle vos colons vont tenter de cultiver des plantes aquatiques. Les plantes aquatiques ignorent la fertilité du terrain mais prennent beaucoup de temps à être semées et récoltées.\n\nCette zone ne peut pas être placée sur des eaux océaniques (salées).</VCE_AquaticGrowingZoneDesc>
+
+<!-- EN: Sand Growing Zone -->
+<VCE_SandyGrowingZone>Zone agricole sableuse</VCE_SandyGrowingZone>
+<!-- EN: Create a zone where your colonists will try to grow sandy terrain plants. Sand plants ignore terrain fertility but take a very long time to sow and harvest. -->
+<VCE_SandyGrowingZoneDesc>Créer une zone dans laquelle vos colons vont tenter de cultiver des plantes sableuses. Les plantes sableuses ignorent la fertilité du terrain mais prennent beaucoup de temps à être semées et récoltées.\n\nCette zone ne peut pas être placée sur le sable fin.</VCE_SandyGrowingZoneDesc>
+
+<!-- EN: Flower Garden Zone -->
+<VCE_FlowerGardenGrowingZone>Zone jardin de fleurs</VCE_FlowerGardenGrowingZone>
+<!-- EN: Create a zone where your colonists will try to grow decorative flowers. -->
+<VCE_FlowerGardenGrowingZoneDesc>Créer une zone dans laquelle vos colons vont tenter de cultiver des fleurs décoratives.</VCE_FlowerGardenGrowingZoneDesc>
+
+<!-- EN: Not in equatorial region (in this planet, below {0} latitude). Growing normally. -->
+<VCE_NotInEquator>Pas dans la région équatoriale (sur cette planète, en dessous de la latitude {0}). Croissance normale.</VCE_NotInEquator>
+<!-- EN: In equatorial region, growing 30% faster. -->
+<VCE_InEquator>Dans la région équatoriale, la croissance est 30 % plus rapide.</VCE_InEquator>
+
+<!-- EN: This plant needs to grow in shade: outside, but under a roof. -->
+<VCE_NeedsShade>Cette plante a besoin de pousser à l'ombre : à l'extérieur, mais sous un toit.</VCE_NeedsShade>
+
+<!-- EN: Apiary found nearby -->
+<VCE_Pollinated>Ruche à proximité</VCE_Pollinated>
+<!-- EN: No apiary found in a 6 tiles radius (calculated on sowing) -->
+<VCE_NotPollinated>Aucune ruche trouvée dans un rayon de 6 cases (calculé à la plantation).</VCE_NotPollinated>
+
+<!-- EN: Carrots planted nearby: {0}/100 -->
+<VCE_CarrotsNearby>Carotte{0_multiple ? s : } plantée{0_multiple ? s : } à proximité : {0}/100</VCE_CarrotsNearby>
+<!-- EN: Green beans planted nearby: {0}/100 -->
+<VCE_BeansNearby>Haricot{0_multiple ? s : } vert{0_multiple ? s : } planté{0_multiple ? s : } à proximité : {0}/100</VCE_BeansNearby>
+
+<!-- EN: Growth reduced due to non-rocky terrain -->
+<VCE_StuntedGrowthFertility>Croissance réduite en raison d'un sol non rocailleux.</VCE_StuntedGrowthFertility>
+<!-- EN: Growth impossible due to too fertile terrain -->
+<VCE_StoppedGrowthFertility>Croissance impossible en raison d'un terrain trop fertile.</VCE_StoppedGrowthFertility>
+
+<!-- EN: A body of water nearby is impeding this plant's growth -->
+<VCE_WaterNearby>Un plan d'eau à proximité empêche la croissance de cette plante.</VCE_WaterNearby>
+<!-- EN: Lack of a body of water nearby is impeding this plant's growth -->
+<VCE_NoWaterNearby>L'absence d'un plan d'eau à proximité empêche la croissance de cette plante.</VCE_NoWaterNearby>
+
+<!-- EN: Too far away from the sea, no extra growth bonus -->
+<VCE_NoSeaTilesNearby>Trop loin de la mer, pas de bonus de croissance supplémentaire.</VCE_NoSeaTilesNearby>
+<!-- EN: {0} sea tiles nearby, providing {0}% growth bonus -->
+<VCE_SeaTilesNearby>{0} case{0_multiple ? s : } de mer à proximité, {0}% de croissance bonus.</VCE_SeaTilesNearby>
+
+
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Leader_HighestTitle.label>plus haut titre</VME_Leader_HighestTitle.label>
+<VME_Leader_HighestTitle.description>Se tenir à la cour impériale est le trait le plus important qu'un dirigeant puisse avoir.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Le rôle de leader sera périodiquement imposé au titre de royauté le plus élevé de la colonie (uniquement si cette idéologie est la principale). Le rôle de leader sera assigné au dernier colon qui a obtenu le titre de royauté le plus élevé dans votre colonie. Même si le leader actuel a le même niveau.</VME_Leader_HighestTitle.description>
+
+<VME_PermitCooldown_Lowered.label>réduite</VME_PermitCooldown_Lowered.label>
+<VME_PermitCooldown_Lowered.description>La royauté exige des actions rapides ; ainsi, la durée des licences est réduite, ce qui permet une réponse plus rapide aux caprices toujours changeants des désirs de la noblesse.</VME_PermitCooldown_Lowered.description>
+
+<VME_PermitCooldown_Increased.label>augmentée</VME_PermitCooldown_Increased.label>
+<VME_PermitCooldown_Increased.description>La patience est une vertu, et maintenant une nécessité, car la durée des licences est doublée. Le temps s'écoule tandis que la Cour attend la prochaine demande du privilège royal.</VME_PermitCooldown_Increased.description>
+
+<VME_PermitHonorCost_Halved.label>réduit de moitié</VME_PermitHonorCost_Halved.label>
+<VME_PermitHonorCost_Halved.description>Les membres d'honneur ont le privilège de faire appel à leurs alliés plus fréquemment, leurs demandes d'aide étant accueillies par un hochement de tête et d'un coût divisé par deux, ce qui allège le fardeau du commandement.</VME_PermitHonorCost_Halved.description>
+
+<VME_PermitHonorCost_Doubled.label>doublé</VME_PermitHonorCost_Doubled.label>
+<VME_PermitHonorCost_Doubled.description>Chaque appel à l'aide est un lourd tribut, une demande d'honneur multipliée par deux. Tel est le prix de l'urgence, un coût qui ne doit être supporté que lorsque le besoin est le plus pressant.</VME_PermitHonorCost_Doubled.description>
+
+<VME_IdeoRole_Majordomo.label>majordome</VME_IdeoRole_Majordomo.label>
+<VME_IdeoRole_Majordomo.description>Spécialiste de la gestion, le Majordome est l'intendant de la noblesse et le superviseur des domaines. Il a le pouvoir d'organiser, de gérer et d'assurer le bon fonctionnement de tous les aspects de la vie aristocratique, mais il ne peut pas porter de titre lui-même. Il a la capacité d'inciter tous ceux qui l'entourent à se surpasser, au prix d'une baisse considérable de leurs plaisirs.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;\n - Se divertir grâce à n'importe quel travail.</VME_IdeoRole_Majordomo.description>
+
+<VME_Royalty_Exalted.label>exalté</VME_Royalty_Exalted.label>
+<VME_Royalty_Exalted.description>Ceux qui se drapent dans les vêtements de la royauté s'élèvent au-delà des simples mortels. Chaque étape de l'échelle de la noblesse entraîne une plus grande considération de la part des gens du peuple, allant d'un hochement de tête respectueux pour un Mandataire à une vénération effrayée pour un Haut stellaire.</VME_Royalty_Exalted.description>
+
+<VME_Royalty_Respected.label>respecté</VME_Royalty_Respected.label>
+<VME_Royalty_Respected.description>Chaque couronne et chaque titre est un symbole de charges assumées pour le bien de tous. Quel que soit le rang, un titre mérite un respect uniforme, une reconnaissance de la place élevée de celui qui le porte dans notre ordre.</VME_Royalty_Respected.description>
+
+<VME_Royalty_Disliked.label>désapprouvé</VME_Royalty_Disliked.label>
+<VME_Royalty_Disliked.description>Les titres et les couronnes, vestiges d'une époque révolue, suscitent l'ire plus que l'admiration. Ceux qui font étalage de leur noblesse se retrouvent au centre d'un mépris équivalent.</VME_Royalty_Disliked.description>
+
+<VME_Royalty_Hated.label>détesté</VME_Royalty_Hated.label>
+<VME_Royalty_Hated.description>Les titres royaux sont des chaînes qui lient la liberté, et chaque titre est une entrave plus maudite que la précédente. Du Mandataire au Haut stellaire, le mépris grandit avec le poids de la couronne, lourde est la tête qui la porte.</VME_Royalty_Hated.description>
+
+<VME_TitleInheritance_Inherited.label>hérité</VME_TitleInheritance_Inherited.label>
+<VME_TitleInheritance_Inherited.description>La noblesse coule dans le sang, les titres étant transmis par le défunt à ses proches. La disparition d'un parent confère au premier-né le statut d'héritier.</VME_TitleInheritance_Inherited.description>
+
+
+</LanguageData>

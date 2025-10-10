@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<PTA_PsiBlades.label>lames psioniques</PTA_PsiBlades.label>
+<PTA_PsiBlades.description>Ce psylanceur utilise des lames psioniques en combat au corps à corps.</PTA_PsiBlades.description>
+<PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.0.label>tranchant</PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.0.label>
+<PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.1.label>pointe</PTA_PsiBlades.comps.HediffComp_VerbGiver.tools.1.label>
+
+<PTA_Shield.label>bouclier psionique hérité</PTA_Shield.label>
+<PTA_Shield.description>bouclier psionique hérité</PTA_Shield.description>
+
+<PTA_Psy_Shield.label>bouclier psionique</PTA_Psy_Shield.label>
+<PTA_Psy_Shield.description>Le bouclier psionique est capable d'absorber les dégâts reçus.</PTA_Psy_Shield.description>   
+
+<PTA_Interceptor_Shield.label>bouclier intercepteur</PTA_Interceptor_Shield.label>
+<PTA_Interceptor_Shield.description>Le bouclier de l'intercepteur est capable d'absorber les dégâts.</PTA_Interceptor_Shield.description> 
+
+<PTA_HardenedShields.label>bouclier renforcé hérité</PTA_HardenedShields.label>
+<PTA_HardenedShields.description>bouclier renforcé hérité</PTA_HardenedShields.description>
+
+<PTA_Psy_HardenedShield.label>bouclier renforcé</PTA_Psy_HardenedShield.label>
+<PTA_Psy_HardenedShield.description>Le bouclier renforcé est capable d'absorber une grande partie des dégâts.</PTA_Psy_HardenedShield.description>    
+
+<PTA_PurificationNova_Hediff.label>zone d'explosion</PTA_PurificationNova_Hediff.label>
+<PTA_PurificationNova_Hediff.description>Indication en temps réel de la zone d'explosion de nova purificatrice. Attention aux blessures involontaires.</PTA_PurificationNova_Hediff.description>
+
+<PTA_ExplosionRange.label>dans la zone d'explosion</PTA_ExplosionRange.label>
+<PTA_ExplosionRange.description>L'unité se trouve dans la zone d'explosion de nova purificatrice. Éloignez-vous rapidement.</PTA_ExplosionRange.description>
+
+<PTA_PsychicInvisibility.label>champ de camouflage</PTA_PsychicInvisibility.label>
+<PTA_PsychicInvisibility.description>Le champ de camouflage rend invisible les alliés alentours.</PTA_PsychicInvisibility.description>
+
+<Invisibility.label>invisible</Invisibility.label>
+<Invisibility.description>L'unité est invisible grâce au psysort champ de camouflage.</Invisibility.description>
+
+<PTA_TimeWarp.label>distorsion temporelle</PTA_TimeWarp.label>
+<PTA_TimeWarp.description>Les unités situées dans cette zone verront leurs capacités de mouvement et de manipulation réduites.</PTA_TimeWarp.description>
+
+
+</LanguageData>

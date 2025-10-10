@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Disable photophobia message -->
+<VRE_DisablePhotophobiaMessage>Désactiver les messages de photophobie</VRE_DisablePhotophobiaMessage>
+<!-- EN: By default, every time a pawn with the photophobia gene fless from light the game will generate a letter informing the player. This may be a bit too much if you have many pawns fleeing often, so you can disable it with this toggle. Bear in mind the pawns will still flee, you'll just NOT get informed. -->
+<VRE_DisablePhotophobiaMessage_Description>Par défaut, chaque fois qu'un colon porteur du gène Photophobie fuit la lumière, le jeu génère une lettre pour en informer le joueur. Cela peut être un peu trop si vous avez beaucoup de colons qui fuient souvent, vous pouvez donc le désactiver avec cette option. Gardez à l'esprit que les colons continueront à fuir, mais que vous n'en serez PLUS informé.</VRE_DisablePhotophobiaMessage_Description>
+<!-- EN: This quest can only be accepted during daytime -->
+<VRE_OnlyOnDaytime>Cette quête ne peut être acceptée que pendant la journée</VRE_OnlyOnDaytime>
+<!-- EN: {0_labelShort} has no available endogenes to implant. -->
+<VRE_MessagePawnHasNoGermline>{0_labelShort} n'a pas de gènes germinaux à implanter.</VRE_MessagePawnHasNoGermline>
+<!-- EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} germline before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
+<VRE_WarningPawnWillDieFromReimplanting>Attention : Les gènes de {PAWN_nameDef} sont en train de se régénérer. {PAWN_gender ? S'il : Si elle } implante ses gènes germinaux avant que ses gènes n'aient complètement régénéré, cela l{PAWN_gender ? e : a } tuera.\n\nÊtes-vous sûr de vouloir continuer ?</VRE_WarningPawnWillDieFromReimplanting>
+<!-- EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} germline into {TARGET_nameDef}, passing all endogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in an endogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} germline again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
+<VRE_LetterTextGenesImplanted>{CASTER_nameDef} a implanté une copie de ses gènes germinaux dans {TARGET_nameDef}, lui transmettant tous les gènes germinaux.\n\n{TARGET_nameDef} sera dans un coma de germinaugermination pendant {COMADURATION} le temps que son corps s'ajuste aux modifications.\n\n{CASTER_nameDef} souffrira d'un choc de perte de gène pendant {SHOCKDURATION}. Ses gènes devront également se régénérer. Ce processus prend du temps. Si {CASTER_nameDef} implante à nouveau ses gènes germinaux avant que ses gènes ne se régénèrent, {CASTER_pronoun} mourra.</VRE_LetterTextGenesImplanted>
+<!-- EN: Force germline implantation -->
+<VRE_ForceGermlineImplantation>Forcer l'implantation de germinaux</VRE_ForceGermlineImplantation>
+<!-- EN: Force this person to implant their germline into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a germline will overwrite the target's endogenes. Xenogenes will be unaffected. -->
+<VRE_ForceGermlineImplantationDesc>Forcer cette personne à implanter ses gènes germinaux dans un autre individu en utilisant un organe d'injection spécial. Si les gènes de cette personne sont en phase de régénération, elle mourra dans le processus.\n\nUne fois implanté, les gènes germinaux écraseront ceux de la cible. Les xénogènes ne sont pas affectés.</VRE_ForceGermlineImplantationDesc>
+<!-- EN: Absorbing {PAWN_nameDef}'s germline will anger {0}. -->
+<VRE_MessageAbsorbingGermlineWillAngerFaction>Absorber les gènes germinaux de {PAWN_nameDef} mettra {0} en colère.</VRE_MessageAbsorbingGermlineWillAngerFaction>
+<!-- EN: {PAWN_nameDef} suffering from endogene loss shock -->
+<VRE_EndogeneLossShockPresent>{PAWN_nameDef} souffre d'un choc de perte de gènes germinaux</VRE_EndogeneLossShockPresent>
+<!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} germline. -->
+<VRE_MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} doit être inconscient{PAWN_gender ? : e} avant de pouvoir {PAWN_gender ? le : la} forcer à réimplanter ses gènes germinaux.</VRE_MessageTargetMustBeDownedToForceReimplant>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<!-- ================ Pour afficher le menu pour les options des mods Vanilla Expanded [Fr]. ================ -->
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label></label>
+		<tooltip>Cette option ne fait rien, elle est présente juste pour afficher le menu "Vanilla Expanded [Fr]".\n\nCela servira dans un futur, si j’ajoute des options dans mes mods de traductions.\n\nActuellement, les mods :\nVanilla Ideology Expanded - Memes and Structures [Fr]\nVanilla Psycasts Expanded [Fr]\nVanilla Races Expanded - Lycanthrope [Fr]\npossèdent des options.</tooltip>
+		<id>VanillaOption</id>
+		<category>VanillaOption</category>
+		<order>0</order>
+	</Operation>
+
+
+</Patch>

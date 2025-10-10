@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: forcefully implanted by {0} -->
+<VRE_Implanted.stages.forcefully_implanted_by.label>implanté de force par {0}</VRE_Implanted.stages.forcefully_implanted_by.label>
+<!-- EN: I was violated and stung. -->
+<VRE_Implanted.stages.forcefully_implanted_by.description>J'ai été violé{PAWN_gender ? : e} et piqué{PAWN_gender ? : e}.</VRE_Implanted.stages.forcefully_implanted_by.description>
+
+<!-- EN: forcefully implanted -->
+<VRE_Implanted_Social.stages.forcefully_implanted.label>implanté de force</VRE_Implanted_Social.stages.forcefully_implanted.label>
+
+<!-- EN: protein denaturation -->
+<VRE_ProteinDenaturation.stages.protein_denaturation.label>dénaturation des protéines</VRE_ProteinDenaturation.stages.protein_denaturation.label>
+<!-- EN: The sunlight burns my eyes and my chitin feels like it's being scorched. -->
+<VRE_ProteinDenaturation.stages.protein_denaturation.description>La lumière du soleil me brûle les yeux et ma chitine a l'air d'être brûlée.</VRE_ProteinDenaturation.stages.protein_denaturation.description>
+
+
+<!-- EN: afraid of fire -->
+<VRE_Heatstress.stages.afraid_of_fire.label>peur du feu</VRE_Heatstress.stages.afraid_of_fire.label>
+<!-- EN: The flames make me so nervous. Such searing heat - I feel like it will leap at me at any moment! -->
+<VRE_Heatstress.stages.afraid_of_fire.description>Les flammes me rendent si nerveu{PAWN_gender ? x : se}. Une chaleur si brûlante, j'ai l'impression qu'elle peut me bondir dessus à tout moment !</VRE_Heatstress.stages.afraid_of_fire.description>
+
+<!-- EN: octopamine-down -->
+<VRE_LowOctopamine.stages.octopaminedown.label>octopamine faible</VRE_LowOctopamine.stages.octopaminedown.label>
+<!-- EN: I just feel down, I think my octopamine may be low, but what do I know? -->
+<VRE_LowOctopamine.stages.octopaminedown.description>Je me sens déprimé, je pense que mon taux d'octopamine est faible, mais qu'en sais-je ?</VRE_LowOctopamine.stages.octopaminedown.description>
+
+<!-- EN: serotonin-buzz -->
+<VRE_Serotonin.stages.serotoninbuzz.label>effervescence de sérotonine</VRE_Serotonin.stages.serotoninbuzz.label>
+<!-- EN: I am incredibly happy and it seems that nothing will be able to bring me down. -->
+<VRE_Serotonin.stages.serotoninbuzz.description>Je suis incroyablement heureuse et j'ai l'impression que rien ne pourra m'abattre.</VRE_Serotonin.stages.serotoninbuzz.description>
+
+
+</LanguageData>

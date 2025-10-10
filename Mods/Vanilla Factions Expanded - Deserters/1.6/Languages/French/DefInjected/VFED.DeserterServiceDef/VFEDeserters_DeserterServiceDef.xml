@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: call shuttle -->
+<VFED_CallShuttle.label>appeler une navette</VFED_CallShuttle.label>
+<!-- EN: Call a one-way deserter shuttle for your own use, which will transport colonists, items, and animals up to 70 tiles away. -->
+<VFED_CallShuttle.description>Appelle une navette de déserteur à sens unique pour votre propre usage, qui transportera des colons, des objets ou des animaux jusqu'à une distance de 70 tuiles.</VFED_CallShuttle.description>
+
+<!-- EN: change critical intel -->
+<VFED_ChangeCritical.label>échanger vos rens. crit.</VFED_ChangeCritical.label>
+<!-- EN: Trade critical intel for 10 standard intel. -->
+<VFED_ChangeCritical.description>Échange vos renseignements critiques contre 10 renseignements.</VFED_ChangeCritical.description>
+
+<!-- EN: delay response -->
+<VFED_DelayResponse.label>délai de réponse</VFED_DelayResponse.label>
+<!-- EN: Trade intel to convince the deserter network to create a distraction, increasing the response time on all currently ongoing operations where the counter is already ticking down. This delays the response by 1 minute. Can be used several times. -->
+<VFED_DelayResponse.description>Échange vos renseignements pour convaincre le réseau des déserteurs de créer une distraction, augmentant ainsi le temps de réponse de toutes les opérations en cours où le compteur tourne déjà. Cela retarde la réponse d'une minute. Peut être utilisé plusieurs fois.</VFED_DelayResponse.description>
+
+<!-- EN: increase goodwill -->
+<VFED_IncreaseGoodwill.label>augmenter votre relation</VFED_IncreaseGoodwill.label>
+<!-- EN: Trade intel to convince the deserter network to increase your goodwill with a random faction by 5. -->
+<VFED_IncreaseGoodwill.description>Échange vos renseignements pour convaincre le réseau des déserteurs d'augmenter de votre relation de 5 auprès d'une faction aléatoire.</VFED_IncreaseGoodwill.description>
+
+<!-- EN: lower visibility -->
+<VFED_LowerVisibility.label>réduire la visibilité</VFED_LowerVisibility.label>
+<!-- EN: Use intel to convince the deserter network to clear your name and reduce your visibility by 1. -->
+<VFED_LowerVisibility.description>Utilise vos renseignements pour convaincre le réseau des déserteurs de laver votre nom et de réduire votre visibilité de 1.</VFED_LowerVisibility.description>
+
+<!-- EN: taunt imperial forces -->
+<VFED_TauntImperials.label>provoquer l'Empire</VFED_TauntImperials.label>
+<!-- EN: Spend intel to taunt imperial strike force to attack your colony. -->
+<VFED_TauntImperials.description>Dépense vos renseignements pour inciter la force de frappe impériale à attaquer votre colonie.</VFED_TauntImperials.description>
+
+
+</LanguageData>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Triple True Shot -->
+<Makai_Ranger_Eight.label>triple tir perforant</Makai_Ranger_Eight.label>
+<!-- EN: Target 3 spots, then fire 3 devastating shots that penetrate everything in their path until they reach the designated locations -->
+<Makai_Ranger_Eight.description>Cible 3 points, puis tire 3 coups dévastateurs qui transpercent tout ce qui se trouve sur leur passage jusqu'à ce qu'ils atteignent les points ciblés.</Makai_Ranger_Eight.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Eight.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Eight.jobReportString>
+<!-- EN: triple tir perforant -->
+<Makai_Ranger_Eight.verbProperties.label>triple tir perforant</Makai_Ranger_Eight.verbProperties.label>
+
+<!-- EN: Ricochet Shot -->
+<Makai_Ranger_Five.label>tir ricochet</Makai_Ranger_Five.label>
+<!-- EN: Fire an enhanced arrow that will ricochet between enemies up to 5 times. -->
+<Makai_Ranger_Five.description>Tire une flèche améliorée qui ricoche entre les ennemis jusqu'à 5 fois.</Makai_Ranger_Five.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Five.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Five.jobReportString>
+<!-- EN: tir ricochet -->
+<Makai_Ranger_Five.verbProperties.label>tir ricochet</Makai_Ranger_Five.verbProperties.label>
+
+<!-- EN: Trapping Net -->
+<Makai_Ranger_Four.label>filet</Makai_Ranger_Four.label>
+<!-- EN: Launch a binding arrow toward target. Then bind them to the nearest tree or building. -->
+<Makai_Ranger_Four.description>Lance une flèche avec un filet sur la cible qui la neutralise et l’attache à l'arbre ou au bâtiment le plus proche.</Makai_Ranger_Four.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Four.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Four.jobReportString>
+<!-- EN: filet -->
+<Makai_Ranger_Four.verbProperties.label>filet</Makai_Ranger_Four.verbProperties.label>
+
+<!-- EN: Flaming Rain -->
+<Makai_Ranger_Nine.label>pluie enflammée</Makai_Ranger_Nine.label>
+<!-- EN: Fire a bundle of arrows with an explosive coating into the sky that then split falling back down as a rain of destruction -->
+<Makai_Ranger_Nine.description>Tire une volée de flèches enflammées dans le ciel, qui se divisent ensuite et tombent en une pluie de destruction.</Makai_Ranger_Nine.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Nine.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Nine.jobReportString>
+<!-- EN: pluie enflammée -->
+<Makai_Ranger_Nine.verbProperties.label>pluie enflammée</Makai_Ranger_Nine.verbProperties.label>
+
+<!-- EN: Split Shot -->
+<Makai_Ranger_One.label>tir multiple</Makai_Ranger_One.label>
+<!-- EN: Take aim with current weapon, then fire multiple shots up to the number of targets in the area. -->
+<Makai_Ranger_One.description>Vise avec l'arme actuelle, et tire sur tous les ennemis dans la zone ciblée.</Makai_Ranger_One.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_One.jobReportString>Utilise la capacité : {0}</Makai_Ranger_One.jobReportString>
+<!-- EN: tir multiple -->
+<Makai_Ranger_One.verbProperties.label>tir multiple</Makai_Ranger_One.verbProperties.label>
+
+<!-- EN: Arrow Gale -->
+<Makai_Ranger_Seven.label>marque du forestier</Makai_Ranger_Seven.label>
+<!-- EN: Taking a steady aim, prepare for continuous focused fire. For the duration, the longer the user fires at the same target, the faster their attacks are, buff speed will be reset if the user changes target. -->
+<Makai_Ranger_Seven.description>Applique Marque du forestier à la cible pour chaque tir réussi pendant une heure. Lorsque vous touchez une cible affectée par Marque du forestier, vous gagniez une charge de Frénésie du vent qui diminue le temps de visée et la cadence de tir.\n\nLes charges Frénésie du vent sont réinitialisées si vous changez de cible.</Makai_Ranger_Seven.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Seven.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Seven.jobReportString>
+<!-- EN: marque du forestier -->
+<Makai_Ranger_Seven.verbProperties.label>marque du forestier</Makai_Ranger_Seven.verbProperties.label>
+
+<!-- EN: Arcing Shot -->
+<Makai_Ranger_Six.label>tir arqué</Makai_Ranger_Six.label>
+<!-- EN: Prepare for an arcing shot. the next 5 shot that the user fires will be aimed above the target and split into multiple smaller projectile that then rain down. -->
+<Makai_Ranger_Six.description>Prépare un tir arqué. Les 5 prochains tirs du pyslanceur seront orientés au-dessus de la cible et se diviseront en plusieurs projectiles plus petits qui tomberont ensuite en pluie.</Makai_Ranger_Six.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Six.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Six.jobReportString>
+<!-- EN: tir arqué -->
+<Makai_Ranger_Six.verbProperties.label>tir arqué</Makai_Ranger_Six.verbProperties.label>
+
+<!-- EN: True Shot -->
+<Makai_Ranger_Ten.label>tir perforant</Makai_Ranger_Ten.label>
+<!-- EN: Pull back on the bow, then release a penetrating shot that fly through flesh and wall alike. -->
+<Makai_Ranger_Ten.description>Bande l'arc à l'extrême, pour tirer un projectile perforant qui transperce les murs et la chair.</Makai_Ranger_Ten.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Ten.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Ten.jobReportString>
+<!-- EN: tir perforant -->
+<Makai_Ranger_Ten.verbProperties.label>tir perforant</Makai_Ranger_Ten.verbProperties.label>
+
+<!-- EN: Double Tap -->
+<Makai_Ranger_Three.label>double tir</Makai_Ranger_Three.label>
+<!-- EN: For the buff duration, whenever the user fires a projectile they will also fire an extra shot. -->
+<Makai_Ranger_Three.description>Double tous les projectiles tirés de l’arme du psylanceur.</Makai_Ranger_Three.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Three.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Three.jobReportString>
+<!-- EN: double tir -->
+<Makai_Ranger_Three.verbProperties.label>double tir</Makai_Ranger_Three.verbProperties.label>
+
+<!-- EN: Arrow Rain -->
+<Makai_Ranger_Two.label>pluie de flèches</Makai_Ranger_Two.label>
+<!-- EN: Shoot a bundle of arrows up into the sky that then split and rain down on the target area -->
+<Makai_Ranger_Two.description>Tire une volée de flèches dans le ciel, qui se divisent ensuite et tombent en pluie sur la zone ciblée.</Makai_Ranger_Two.description>
+<!-- EN: Using ability: {0} -->
+<Makai_Ranger_Two.jobReportString>Utilise la capacité : {0}</Makai_Ranger_Two.jobReportString>
+<!-- EN: pluie de flèches -->
+<Makai_Ranger_Two.verbProperties.label>pluie de flèches</Makai_Ranger_Two.verbProperties.label>
+
+
+</LanguageData>

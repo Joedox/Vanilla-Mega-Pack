@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: burned creep -->
+<VFEI2_BurnedCreep.label>mucus brûlé</VFEI2_BurnedCreep.label>
+<!-- EN: Burned-out creep. -->
+<VFEI2_BurnedCreep.description>Mucus brûlé.</VFEI2_BurnedCreep.description>
+
+<!-- EN: creep -->
+<VFEI2_Creep.label>mucus</VFEI2_Creep.label>
+<!-- EN: A unique form of cracked soil, devoid of any minerals and nutrition, created around the insectoid infested areas. Supports insectoid structures and significantly hinders non-insectoid movement. -->
+<VFEI2_Creep.description>Une forme unique de sol fissuré, dépourvu de minéraux et de nutriments, créé autour des zones infestées d'insectoïdes. Il soutient les structures insectoïdes et entrave considérablement les mouvements des non-insectoïdes.</VFEI2_Creep.description>
+
+
+<!-- EN: jellyfloor -->
+<VFEI2_JellyFloor.label>sol en gelée</VFEI2_JellyFloor.label>
+<!-- EN: A special form of gellatinous floor, which sprouts from the creep in insectoid hives. Supports insectoid structures and significantly hinders non-insectoid movement. It’s much less flammable than the creep, and it’s significantly easier to clean. -->
+<VFEI2_JellyFloor.description>Forme particulière de plancher gélatineux, qui jaillit du sol dans les ruches insectoïdes. Il soutient les structures insectoïdes et entrave considérablement les mouvements des non-insectoïdes. Moins inflammable que le mucus, et beaucoup plus facile à nettoyer.</VFEI2_JellyFloor.description>
+
+<!-- EN: burned jellyfloor -->
+<VFEI2_BurnedJellyFloor.label>sol en gelée brûlé</VFEI2_BurnedJellyFloor.label>
+<!-- EN: Burned-out jellyfloor. -->
+<VFEI2_BurnedJellyFloor.description>Un sol en gelée brûlé.</VFEI2_BurnedJellyFloor.description>
+
+
+<!-- EN: royal jellyfloor -->
+<VFEI2_RoyalJellyFloor.label>sol en gelée royale</VFEI2_RoyalJellyFloor.label>
+<!-- EN: A special form of gellatinous floor consisting of royal jelly, which is created as a result of enriching jellyfloors. Supports insectoid structures and significantly hinders non-insectoid movement. Unlike creep, it’s not flammable, and does not collect animal filth. -->
+<VFEI2_RoyalJellyFloor.description>Forme particulière de plancher gélatineux composé de gelée royale, créé à la suite de l'enrichissement des planchers gélatineux. Il soutient les structures insectoïdes et entrave considérablement les mouvements des non-insectoïdes. Contrairement au mucus, il n'est pas inflammable et n'accumule pas les saletés animales.</VFEI2_RoyalJellyFloor.description>
+
+
+</LanguageData>

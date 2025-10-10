@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Book -->
+<VBE.Book>Livre</VBE.Book>
+<!-- EN: Read {0} -->
+<VBE.ReadBook>Lire {0}</VBE.ReadBook>
+
+<!-- EN: Can't read: This skillbook is not sufficient. -->
+<VBE.CantReadSkillBookTooSimple>Ne peut le lire : Ce livre est inférieur à la compétence du lecteur.</VBE.CantReadSkillBookTooSimple>
+
+<!-- EN: Read newspaper -->
+<VBE.ReadNewsPaper>Lire le journal</VBE.ReadNewsPaper>
+<!-- EN: Relevant until:  -->
+<VBE.NewspaperRelevantUntil>Pertinent jusqu'au : </VBE.NewspaperRelevantUntil>
+<!-- EN: Can't read: This newspaper is out of date. -->
+<VBE.CantReadNewsPaperExpired>Ne peut le lire : Ce journal est périmé.</VBE.CantReadNewsPaperExpired>
+
+<!-- EN: Read {0} -->
+<VBE.ReadBlueprint>Lire {0}</VBE.ReadBlueprint>
+<!-- EN: Can't read: This technology is already known. -->
+<VBE.CantReadBlueprintAlreadyResearched>Ne peut le lire : Cette technologie est déjà connue.</VBE.CantReadBlueprintAlreadyResearched>
+<!-- EN: Can't read: This technology is too advanced. -->
+<VBE.CantReadBlueprintTooAdvanced>Ne peut le lire : Cette technologie est trop avancée.</VBE.CantReadBlueprintTooAdvanced>
+<!-- EN: Can't read: This blueprint is already used. -->
+<VBE.CantReadBlueprintUsed>Ne peut le lire : Ce plan a déjà été utilisé.</VBE.CantReadBlueprintUsed>
+
+<!-- EN: Read map -->
+<VBE.ReadMap>Lire la carte</VBE.ReadMap>
+<!-- EN: Can't read: This map is already used -->
+<VBE.CantReadMapUsed>Ne peut le lire : Cette carte a déjà été utilisée</VBE.CantReadMapUsed>
+<!-- EN: New location found -->
+<VBE.LocationsOpened>Nouveau site trouvé</VBE.LocationsOpened>
+<!-- EN: Reading the map has unlocked a new location. -->
+<VBE.LocationsOpenedDesc>La lecture de la carte a débloqué un nouvel emplacement.</VBE.LocationsOpenedDesc>
+
+
+</LanguageData>

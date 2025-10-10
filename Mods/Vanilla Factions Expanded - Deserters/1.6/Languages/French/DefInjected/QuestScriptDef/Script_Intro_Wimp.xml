@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Traduction du jeu modifier –[ Ne fonctionne pas ]– -->
+<!--
+<Intro_Wimp.questDescriptionRules.rulesStrings>
+    <li>manhuntingBeastArrived(animalKindDef==Cow)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Goat)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Goose)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Turkey)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Gazelle)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Boomalope)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Megaspider)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Ostrich)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef==Tortoise)->arrivée</li>
+    <li>manhuntingBeastArrived(animalKindDef!=Cow,animalKindDef!=Goat,animalKindDef!=Goose,animalKindDef!=Turkey,animalKindDef!=Gazelle,animalKindDef!=Boomalope,animalKindDef!=Megaspider,animalKindDef!=Ostrich,animalKindDef!=Tortoise)->arrivé</li>
+    <li>questDescription(deserters==True)->[asker_nameFull], [asker_royalTitleInCurrentFactionIndef] de [asker_faction_name], nous contacte d'une zone avoisinante. Ses gardes ont été tués dans une embuscade. [asker_pronoun] s'est [asker_escaped] mais [asker_pronoun] est [asker_followed] par (*Threat)[animalKindDef_indefinite] en rage(/Threat).\n\n[asker_nameDef] veut que vous assuriez sa sécurité à [map_definite] pendant quelques heures jusqu’à ce qu'une navette puisse procéder à sa récupération.\n\n[asker_pronoun] accordera [royalFavorReward] points de [asker_faction_royalFavorLabel] pour celui qui acceptera cette quête. C'est suffisamment de [asker_faction_royalFavorLabel] pour recevoir le titre royal de mandataire et tous les avantages qui en découlent, y compris un neuroformateur qui vous donnera des capacités psychiques.\n\nPuisque vous êtes allié avec les déserteurs, les Impériaux vous attaqueront à vue. Cependant, cela pourrait être une opportunité de porter un coup à l'Empire quand il est le plus vulnérable.</li>
+    <li>questDescription(asker_royalInCurrentFaction!=True)->[asker_nameFull], [asker_titleIndef] de [asker_faction_name], nous contacte d'une zone avoisinante. Ses gardes ont été tués dans une embuscade. [asker_pronoun] s'est [asker_escaped] mais [asker_pronoun] est [asker_followed] par (*Threat)[animalKindDef_indefinite] en rage(/Threat).\n\n[asker_nameDef] veut que vous assuriez sa sécurité à [map_definite] pendant quelques heures jusqu’à ce qu'une navette puisse procéder à sa récupération.\n\n[asker_pronoun] accordera [royalFavorReward] points de [asker_faction_royalFavorLabel] pour celui qui acceptera cette quête. C'est suffisamment de [asker_faction_royalFavorLabel] pour recevoir le titre royal de mandataire et tous les avantages qui en découlent, y compris un neuroformateur qui vous donnera des capacités psychiques.</li>
+    <li>questDescription(deserters!=True)->[asker_nameFull], [asker_royalTitleInCurrentFactionIndef] de [asker_faction_name], nous contacte d'une zone avoisinante. Ses gardes ont été tués dans une embuscade. [asker_pronoun] s'est [asker_escaped] mais [asker_pronoun] est [asker_followed] par (*Threat)[animalKindDef_indefinite] en rage(/Threat).\n\n[asker_nameDef] veut que vous assuriez sa sécurité à [map_definite] pendant quelques heures jusqu’à ce qu'une navette puisse procéder à sa récupération.\n\n[asker_pronoun] accordera [royalFavorReward] points de [asker_faction_royalFavorLabel] pour celui qui acceptera cette quête. C'est suffisamment de [asker_faction_royalFavorLabel] pour recevoir le titre royal de mandataire et tous les avantages qui en découlent, y compris un neuroformateur qui vous donnera des capacités psychiques.</li>
+    <li>asker_followed(asker_gender==Male)->poursuivi</li>
+    <li>asker_followed(asker_gender==Female)->poursuivie</li>
+    <li>asker_followed(asker_gender==None)->poursuivi</li>
+    <li>asker_offended(asker_gender==Male)->offensé</li>
+    <li>asker_offended(asker_gender==Female)->offensée</li>
+    <li>asker_offended(asker_gender==None)->offensé</li>
+    <li>asker_escaped(asker_gender==Male)->échappé</li>
+    <li>asker_escaped(asker_gender==Female)->échappée</li>
+    <li>asker_escaped(asker_gender==None)->échappé</li>
+</Intro_Wimp.questDescriptionRules.rulesStrings>
+-->
+<Intro_Wimp.root.nodes.CheckDesertion.storeAs.slateRef>deserters</Intro_Wimp.root.nodes.CheckDesertion.storeAs.slateRef>
+
+
+</LanguageData>

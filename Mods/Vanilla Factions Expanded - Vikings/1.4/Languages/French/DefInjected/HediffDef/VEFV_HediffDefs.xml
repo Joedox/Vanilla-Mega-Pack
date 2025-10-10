@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ MeadAlcoholHigh +++++ -->
+<VFEF_MeadAlcoholHigh.label>hydromel</VFEF_MeadAlcoholHigh.label>
+<VFEF_MeadAlcoholHigh.description>Cela vous rend heureux, mais réduit les performances. Réduit légèrement la sensibilité psychique.</VFEF_MeadAlcoholHigh.description>
+<VFEF_MeadAlcoholHigh.labelNoun>Sous l'effet de l'hydromel</VFEF_MeadAlcoholHigh.labelNoun>
+<VFEF_MeadAlcoholHigh.stages.warm.label>joyeux</VFEF_MeadAlcoholHigh.stages.warm.label>
+<VFEF_MeadAlcoholHigh.stages.tipsy.label>pompette</VFEF_MeadAlcoholHigh.stages.tipsy.label>
+<VFEF_MeadAlcoholHigh.stages.drunk.label>ivre</VFEF_MeadAlcoholHigh.stages.drunk.label>
+<VFEF_MeadAlcoholHigh.stages.hammered.label>bourré</VFEF_MeadAlcoholHigh.stages.hammered.label>
+<VFEF_MeadAlcoholHigh.stages.blackout.label>black-out</VFEF_MeadAlcoholHigh.stages.blackout.label>
+
+		<!-- +++++ Hediffs_Local_Armour +++++ -->
+<VFEV_EnragedWithDamage.label>mannequin</VFEV_EnragedWithDamage.label>
+<VFEV_EnragedWithDamage.description>Un mannequin.</VFEV_EnragedWithDamage.description>
+<VFEV_EnragedWithDamage.labelNoun>mannequin</VFEV_EnragedWithDamage.labelNoun>
+<VFEV_EnragedWithDamage.stages.dummy.label>mannequin</VFEV_EnragedWithDamage.stages.dummy.label>
+
+<VFEV_BleedrateCrypto_5.label>cryo</VFEV_BleedrateCrypto_5.label>
+<VFEV_BleedrateCrypto_5.description>Une technologie expérimentale cryo qui ralentit les saignements.</VFEV_BleedrateCrypto_5.description>
+<VFEV_BleedrateCrypto_5.stages.Armour.label>Armure</VFEV_BleedrateCrypto_5.stages.Armour.label>
+
+<VFEV_BleedrateCrypto_10.label>cryo</VFEV_BleedrateCrypto_10.label>
+<VFEV_BleedrateCrypto_10.description>Une technologie expérimentale cryo qui ralentit les saignements.</VFEV_BleedrateCrypto_10.description>
+<VFEV_BleedrateCrypto_10.stages.Armour.label>Armure</VFEV_BleedrateCrypto_10.stages.Armour.label>
+
+<VFEV_BleedrateCrypto_20.label>cryo</VFEV_BleedrateCrypto_20.label>
+<VFEV_BleedrateCrypto_20.description>Une technologie expérimentale cryo qui ralentit les saignements.</VFEV_BleedrateCrypto_20.description>
+<VFEV_BleedrateCrypto_20.stages.Armour.label>Armure</VFEV_BleedrateCrypto_20.stages.Armour.label>
+
+		<!-- +++++ Sting +++++ -->
+<VFEV_Sting.label>piqûre</VFEV_Sting.label>
+<VFEV_Sting.description>Une piqûre d'abeille douloureuse.</VFEV_Sting.description>
+<VFEV_Sting.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de piqûre</VFEV_Sting.comps.HediffComp_GetsPermanent.permanentLabel>
+<VFEV_Sting.labelNoun>une piqûre d'abeille</VFEV_Sting.labelNoun>
+<VFEV_Sting.labelNounPretty>{0} dans le {1}</VFEV_Sting.labelNounPretty>
+
+
+</LanguageData>

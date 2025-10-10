@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<FFE_ShippingContainer.label>conteneur de fret</FFE_ShippingContainer.label>
+<FFE_ShippingContainer.description>Un simple conteneur de marchandises qui peut être utilisé pour stocker des objets.</FFE_ShippingContainer.description>
+
+<FFE_PalletSmall.label>palette</FFE_PalletSmall.label>
+<FFE_PalletSmall.description>Une palette pour emballer des objets. Ne protège pas des intempéries. Parfois difficile à gérer, mais néanmoins utile.</FFE_PalletSmall.description>
+
+<FFE_PalletMedium.label>palette double</FFE_PalletMedium.label>
+<FFE_PalletMedium.description>Une palette double pour emballer des objets. Ne protège pas des intempéries. Parfois difficile à gérer, mais néanmoins utile.</FFE_PalletMedium.description>
+
+<FFE_PalletLarge.label>palette large</FFE_PalletLarge.label>
+<FFE_PalletLarge.description>Une palette large pour emballer des objets. Ne protège pas des intempéries. Parfois difficile à gérer, mais néanmoins utile.</FFE_PalletLarge.description>
+
+<FFE_PalletBoxesSmall.label>palette de boîtes</FFE_PalletBoxesSmall.label>
+<FFE_PalletBoxesSmall.description>Une palette pour emballer des choses. Protéger contre les intempéries. Parfois difficile à gérer, mais néanmoins utile.</FFE_PalletBoxesSmall.description>
+
+<FFE_PalletBoxesMedium.label>palette double de boîtes</FFE_PalletBoxesMedium.label>
+<FFE_PalletBoxesMedium.description>Une palette double pour emballer des choses. Protéger contre les intempéries. Parfois difficile à gérer, mais néanmoins utile.</FFE_PalletBoxesMedium.description>
+
+<FFE_PalletBoxesLarge.label>palette large de boîtes</FFE_PalletBoxesLarge.label>
+<FFE_PalletBoxesLarge.description>Une palette large pour emballer des choses. Protéger contre les intempéries. Parfois difficile à gérer, mais néanmoins utile.</FFE_PalletBoxesLarge.description>
+
+<FFE_AnimalFeeder.label>petite mangeoire</FFE_AnimalFeeder.label>
+<FFE_AnimalFeeder.description>Une petite mangeoire pour les animaux de compagnie.</FFE_AnimalFeeder.description>
+
+<FFE_AnimalTrough.label>mangeoire</FFE_AnimalTrough.label>
+<FFE_AnimalTrough.description>Une mangeoire simple pour nourrir les animaux avec du foin, des croquettes ou de la nourriture crue.</FFE_AnimalTrough.description>
+
+<FFE_Meat_Hook.label>crochets à viande</FFE_Meat_Hook.label>
+<FFE_Meat_Hook.description>Un grand cadre avec plusieurs crochets attachés à des chaînes pour stocker les cadavres d'animaux ou autres.</FFE_Meat_Hook.description>
+
+<FFE_FoodBags.label>sac de nourriture</FFE_FoodBags.label>
+<FFE_FoodBags.description>Un ensemble de sacs simples pour le stockage des plantes crues.</FFE_FoodBags.description>
+
+<FFE_FoodBarell.label>tonneau de nourriture</FFE_FoodBarell.label>
+<FFE_FoodBarell.description>Un tonneau pour conserver les aliments crus.</FFE_FoodBarell.description>
+
+<FFE_WoodenBox.label>caisse</FFE_WoodenBox.label>
+<FFE_WoodenBox.description>Un rangement simple en bois pour plusieurs objets.</FFE_WoodenBox.description>
+
+<FFE_SpacerContainer.label>conteneur spatial</FFE_SpacerContainer.label>
+<FFE_SpacerContainer.description>Une boîte de niveau spatial complexe avec système de tri automatique vous permet de stocker plusieurs objets et de les récupérer facilement.</FFE_SpacerContainer.description>
+
+<FFE_VanometricStorage.label>stockage vanométrique</FFE_VanometricStorage.label>
+<FFE_VanometricStorage.description>Étrange conteneur qui permet de stocker une énorme quantité d'objets. Paradoxalement, son intérieur est montré comme étant beaucoup plus grand que son extérieur, communément décrit comme étant "plus grand à l'intérieur". Cette technologie est développée par les archotechs, et dépasse même la plupart des sociétés du Glitterworld.</FFE_VanometricStorage.description>
+
+<FFE_Minibar.label>minibar</FFE_Minibar.label>
+<FFE_Minibar.description>Un simple rangement pour les drogues sociales et l'alcool.</FFE_Minibar.description>
+
+<FFE_Medical_Cabinet.label>armoire médicale</FFE_Medical_Cabinet.label>
+<FFE_Medical_Cabinet.description>Un ensemble d'armoires et d'étagères pour stocker les médicaments et les drogues.</FFE_Medical_Cabinet.description>
+
+<FFE_WeaponsLocker.label>casier à armes</FFE_WeaponsLocker.label>
+<FFE_WeaponsLocker.description>Un casier métallique de grande capacité pour stocker en toute sécurité de nombreuses armes. Les objets qui y sont stockés ne se détérioreront pas, même s'ils sont à l'extérieur.</FFE_WeaponsLocker.description>
+
+<FFE_PersonalLockers.label>casiers personnels</FFE_PersonalLockers.label>
+<FFE_PersonalLockers.description>Un casier métallique de grande capacité pour stocker en toute sécurité les vêtements. Les objets qui y sont stockés ne se détérioreront pas, même s'ils sont à l'extérieur.</FFE_PersonalLockers.description>
+
+<FFE_WeaponRackMelee.label>râtelier (mêlée)</FFE_WeaponRackMelee.label>
+<FFE_WeaponRackMelee.description>Un support simple pour les armes de mêlée.</FFE_WeaponRackMelee.description>
+
+<FFE_WeaponRackBows.label>râtelier (arcs)</FFE_WeaponRackBows.label>
+<FFE_WeaponRackBows.description>Un support médiéval simple pour les arcs.</FFE_WeaponRackBows.description>
+
+<FFE_WeaponRackShields.label>râtelier (boucliers)</FFE_WeaponRackShields.label>
+<FFE_WeaponRackShields.description>Un support médiéval simple pour les boucliers.</FFE_WeaponRackShields.description>
+
+<FFE_WallMealRack.label>plateaux-repas mural</FFE_WallMealRack.label>
+<FFE_WallMealRack.description>Une étagère haute pour stocker les plats cuisinés, qui peut être fixée au mur pour transférer les repas d'une pièce à l'autre.</FFE_WallMealRack.description>
+
+<!-- Si "RimFrige" présent -->
+<FFE_FridgeContainer.label>conteneur réfrigéré</FFE_FridgeContainer.label>
+<FFE_FridgeContainer.description>Un conteneur de fret électrique qui peut être utilisé pour congeler et stocker des aliments périssables.</FFE_FridgeContainer.description>
+
+
+</LanguageData>

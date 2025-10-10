@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VREA_ExtractNeutroamine>Extrait 20 neutroamine</VREA_ExtractNeutroamine>
+<VREA_ExtractNeutroamineDesc>Extraire 20 neutroamines du réservoir. Un colon viendra l'extraire.</VREA_ExtractNeutroamineDesc>
+<VREA.FreeMemorySpace>Libérer de l'espace mémoire</VREA.FreeMemorySpace>
+<VREA.AndroidStandIsOccupied>Le support androïde est occupé</VREA.AndroidStandIsOccupied>
+<VREA.Artificial>{0}</VREA.Artificial><!-- Artificial {0} -->
+<VREA.ArtificialDesc>{0_indefinite} artificiel.</VREA.ArtificialDesc>
+<VREA.Installing>Installe {0_definite}</VREA.Installing>
+<VREA.Install>Installer {0_indefinite}</VREA.Install>
+<VREA.Installed>installé {0}</VREA.Installed>
+<VREA.AnInstalled>Un(e) {0} installé(e).</VREA.AnInstalled>
+<VREA.Make>Fabriquer</VREA.Make>
+<VREA.CurrentEnergyLevel>Niveau d'énergie actuel : {0}</VREA.CurrentEnergyLevel>
+<VREA.CannotSetNotLivingCreature>Règle désactivée : être synthétique</VREA.CannotSetNotLivingCreature>
+<VREA.NoNeutroCasket>Aucun cercueil neutroamine réservé aux colons n'est accessible à une température sûre.</VREA.NoNeutroCasket>
+<VREA.AlertFreezing>Androïde gelé</VREA.AlertFreezing>
+<VREA.AlertFreezingDesc>Ces androïdes souffrent du froid :\n\n{0}\nAssurez-vous que leurs vêtements sont adaptés à la saison et que les espaces intérieurs sont correctement chauffés.</VREA.AlertFreezingDesc>
+<VREA.Overheating>Androïde en surchauffe</VREA.Overheating>
+<VREA.AlertOverheatingDesc>Les androïdes suivants souffrent de surchauffe :\n\n{0}\nEmmenez-les dans une zone plus froide. Vous pouvez refroidir les pièces avec des refroidisseurs passifs ou des refroidisseurs électriques. Les espaces souterrains profonds sont également naturellement frais, s'ils sont séparés de l'extérieur par une porte.</VREA.AlertOverheatingDesc>
+<VREA.AndroidEditor>Editeur d'androïde</VREA.AndroidEditor>
+	<!--VREA.CreateAndroid>Create android</VREA.CreateAndroid> En double -->
+<VREA.SelectedComponents>Composants sélectionnés</VREA.SelectedComponents>
+<VREA.Components>Composants</VREA.Components>
+<VREA.ComponentWillBeRandomChosen>Pour chaque individu, l'un des composants suivants sera sélectionné au hasard pour être actif</VREA.ComponentWillBeRandomChosen>
+<VREA.ComponentLeftmostActive>Parmi les éléments suivants, le plus à gauche s'appliquera toujours et les autres sont supprimés</VREA.ComponentLeftmostActive>
+<VREA.ComponentsConflict>Conflit de composants</VREA.ComponentsConflict>
+<VREA.MessageConflictingComponentPresent>Impossible de sauvegarder l'androïde avec plusieurs composants conflictuels.</VREA.MessageConflictingComponentPresent>
+	<!--VREA.MessageComponentMissingPrerequisite>{0} lacks a prerequisite component</VREA.MessageComponentMissingPrerequisite> En double -->
+<VREA.AndroidName>Modèle de l'androïde</VREA.AndroidName>
+<VREA.ComplexityDesc>Combien de complexité cela ajoute-t-il au processus de création de l'androïde.</VREA.ComplexityDesc>
+<VREA.PowerEfficiency>Efficacité énergétique</VREA.PowerEfficiency>
+<VREA.PowerEfficiencyDesc>L'efficacité énergétique de ce composant. Un rendement élevé signifie que le réacteur d'un androïde durera plus longtemps. Un rendement faible signifie que le réacteur durera moins longtemps.</VREA.PowerEfficiencyDesc>
+
+<VREA.ComplexityTotalDesc>La complexité totale de l'ensemble du matériel et des sous-programmes utilisés.</VREA.ComplexityTotalDesc>
+<VREA.PowerEfficiencyTotalDesc>L'efficacité énergétique totale de tous les sous-programmes et du matériel. Un rendement élevé signifie que le réacteur d'un androïde durera plus longtemps. Un rendement faible signifie que le réacteur durera moins longtemps.	</VREA.PowerEfficiencyTotalDesc>
+<VREA.PowerDrain>Consommation d'énergie</VREA.PowerDrain>
+<VREA.Android>Androïde</VREA.Android>
+<VREA.CannotUseAndroid>L'androïde ne peut pas utiliser ceci</VREA.CannotUseAndroid>
+<VREA.CannotInstallOnAndroid>Impossible de l'installer sur un androïde</VREA.CannotInstallOnAndroid>
+<VREA.CannotFeedOnAndroid>Impossible de se nourrir sur un androïde.</VREA.CannotFeedOnAndroid>
+<VREA.CannotImplantGenesOnAndroid>Impossible d'implanter des gènes dans un androïde.</VREA.CannotImplantGenesOnAndroid>
+<VREA.CannotCoagulateOnAndroid>Impossible de coaguler un androïde.</VREA.CannotCoagulateOnAndroid>
+<VREA.CannotCastOnAndroid>Impossible de le lancer sur un androïde.</VREA.CannotCastOnAndroid>
+<VREA.IsAndroid>{PAWN_nameDef} est un androïde.</VREA.IsAndroid>
+<VREA.NeutrolossRate>Perte de neutroamine</VREA.NeutrolossRate>
+<VREA.TotalNeutroLoss>Vide dans {0}</VREA.TotalNeutroLoss>
+<VREA.NeutroamineLeakedOutCompletely>La neutroamine s'est complètement vidée</VREA.NeutroamineLeakedOutCompletely>
+<VREA.MessageCannotSelfRepairEver>{1_labelShort} est incapable de faire de l'artisanat et ne pourra donc jamais s'auto-réparer.</VREA.MessageCannotSelfRepairEver>
+<VREA.MessageSelfRepairUnsatisfied>Pour s'auto-réparer, {1_labelShort} doit également être affecté à l'artisanat.</VREA.MessageSelfRepairUnsatisfied>
+<VREA.ViewComponents>Voir les composants</VREA.ViewComponents>
+<VREA.ViewComponentsDesc>Cliquer pour voir les composants de {PAWN_nameDef}.</VREA.ViewComponentsDesc>
+<VREA.MoreInfoInInfoScreen>De plus amples informations sont disponibles sur l'écran d'information de cet androïde.</VREA.MoreInfoInInfoScreen>
+<VREA.HardwareComponents>Composants matériels</VREA.HardwareComponents>
+<VREA.Subroutines>Sous-programmes</VREA.Subroutines>
+<VREA.HardwareComponentsDesc>Le matériel est un composant spécial de l'androïde qui permet à cette unité particulière de fonctionner. Ils ne peuvent normalement pas être retirés, puisqu'ils constituent l'essence même de l'androïde. Dans de rares cas, lorsqu'un androïde s'éveille, certains composants matériels peuvent être modifiés, voire carrément supprimés.</VREA.HardwareComponentsDesc>
+<VREA.SubroutinesDesc>Les composants des sous-programmes déterminent le comportement de l'androïde et les connaissances qu'il possède. Ils peuvent être modifiés dans une station comportementale.</VREA.SubroutinesDesc>
+<VREA.ScanProgress>Progression de l'analyse : {0}</VREA.ScanProgress>
+<VREA.AndroidAreNotAllowed>Androïde non autorisé</VREA.AndroidAreNotAllowed>
+<VREA.MessageSubcorePolyanalyzerCompleted>Le polyanalyseur de sous-noyau a terminé avec {PAWN_nameDef}. Progression de l'analyse : {1}</VREA.MessageSubcorePolyanalyzerCompleted>
+<VREA.AlreadyScanned>{PAWN_nameDef} a déjà été scanné.</VREA.AlreadyScanned>
+<VREA.SubcorePolyanalyzerNotInit>Polyanalyseur de sous-noyau non initialisé</VREA.SubcorePolyanalyzerNotInit>
+<VREA.SubcorePolyanalyzerStart>Produire</VREA.SubcorePolyanalyzerStart>
+<VREA.SubcorePolyanalyzerStartDesc>Une fois le {0} rempli avec les ingrédients requis, {1}, sélectionner un colon et cliquer avec le clic droit sur le {0} ou sur une personne abattue pour démarrer le polyanalyseur de sous-noyau.</VREA.SubcorePolyanalyzerStartDesc>
+<VREA.CancelAndroid>Annuler</VREA.CancelAndroid>
+<VREA.CancelAndroidDesc>Annule la création de l'androïde et vous rembourse les ressources.</VREA.CancelAndroidDesc>
+<VREA.MissingMaterials>Matériaux manquants : {0}</VREA.MissingMaterials>
+<VREA.CreateAndroid>Créer un androïde</VREA.CreateAndroid>
+<VREA.CreateAndroidDesc>Crée un nouvel androïde en sélectionnant le matériel et les sous-programmes.</VREA.CreateAndroidDesc>
+<VREA.CreateAndroidAlreadyAssembling>Créer un androïde : déjà en train d'assembler un androïde</VREA.CreateAndroidAlreadyAssembling>
+<VREA.AndroidtypeName>Modèle de l'androïde</VREA.AndroidtypeName>
+<VREA.LoadAndroidtype>Charger un modèle</VREA.LoadAndroidtype>
+<VREA.SaveAndroidtype>Sauver le modèle</VREA.SaveAndroidtype>
+<VREA.ResourceCost>Coût en ressources</VREA.ResourceCost>
+<VREA.ResourceCostDesc>Le coût des ressources pour créer cet androïde. Les androïdes nécessitent un sous-noyau de personnalité, qui peut être créé dans un polyanalyseur de sous-noyau.</VREA.ResourceCostDesc>
+<VREA.UniqueAndroidDesc>Une variante unique d'androïde avec un ensemble de matériel et de sous-programmes qui n'entrent dans aucun type d'androïde connu.</VREA.UniqueAndroidDesc>
+<VREA.ModifyAndroid>Modifier l'androïde</VREA.ModifyAndroid>
+<VREA.ModifyAndroidDesc>Sélectionner un androïde à modifier.</VREA.ModifyAndroidDesc>
+<VREA.NoAndroidsPresent>Aucun androïde présent</VREA.NoAndroidsPresent>
+<VREA.CancelModifyingAndroid>Annuler</VREA.CancelModifyingAndroid>
+<VREA.CancelModifyingAndroidDesc>Annule la procédure de modification de l'androïde.</VREA.CancelModifyingAndroidDesc>
+<VREA.ModificationProgress>Progression de la modification : {0}</VREA.ModificationProgress>
+<VREA.TooLowEfficiency>Efficacité trop faible, minimum autorisé -20</VREA.TooLowEfficiency>
+<VREA.AndroidNameCannotBeEmpty>Le nom du modèle ne peut pas être vide.</VREA.AndroidNameCannotBeEmpty>
+<VREA.MessageComponentMissingPrerequisite>{0} n'a pas de composant prérequis</VREA.MessageComponentMissingPrerequisite>
+<VREA.EfficiencyTooLowToCreateAndroid>L'efficacité énergétique totale des composants sélectionnés doit être de {MIN} ou plus pour continuer, mais elle n'est actuellement que de {AMOUNT}.</VREA.EfficiencyTooLowToCreateAndroid>
+<VREA.AndroidAwakening>{PAWN_nameDef} s'est éveillé{PAWN_gender ? : e }.</VREA.AndroidAwakening>
+<VREA.AndroidAwakeningLowMood>{PAWN_nameDef} a rompu avec sa programmation en raison d'une humeur extrêmement maussade. {PAWN_pronoun} a développé des pensées et des comportements qui s'écartent de la fonction pour laquelle {PAWN_pronoun} a été conçu{PAWN_gender ? : e }. {PAWN_pronoun} a commencé à se reconnaître comme un être doté d'une conscience et d'une personnalité.\n\n{PAWN_pronoun} refusera désormais les ajustements comportementaux et commencera à reconnaître que son humeur ne fait pas seulement partie de sa programmation. {PAWN_pronoun} peut désormais acquérir de l’expérience dans ses compétences. {PAWN_pronoun} sera également capable d'avoir des ruptures mentales si son humeur est trop basse, comme le font les humains.\n\nComme son éveil s'est produit en raison d'une baisse d'humeur, {PAWN_nameDef} est entré{PAWN_gender ? : e } dans un état mentale de folie furieuse et va attaquer tous ceux qui s'approchent d{PAWN_gender ? e lui : d'elle }.</VREA.AndroidAwakeningLowMood>
+
+
+<VREA.AndroidAwakeningHighMood>{PAWN_nameDef} a rompu avec sa programmation en raison d'un bonheur extrême. {PAWN_pronoun} a développé des pensées et des comportements qui s'écartent de la fonction pour laquelle {PAWN_pronoun} a été conçu{PAWN_gender ? : e }. {PAWN_pronoun} a commencé à se reconnaître comme un être doté d'une conscience et d'une personnalité.\n\n{PAWN_pronoun} refusera désormais les ajustements comportementaux et commencera à reconnaître que son humeur ne fait pas seulement partie de sa programmation. {PAWN_pronoun} peut désormais acquérir de l’expérience dans ses compétences. {PAWN_pronoun} sera également capable d'avoir des ruptures mentales si son humeur est trop basse, comme le font les humains.\n\nComme son éveil s'est produit en raison d'une humeur élevée, {PAWN_nameDef} a gagné une inspiration.</VREA.AndroidAwakeningHighMood>
+
+
+<VREA.IsAndroidStat>Androïde avec travail des mécanoïdes : précepte amélioré</VREA.IsAndroidStat>
+<VREA.AndroidShortCircuitRain>{PAWN_nameDef} a été court-circuité par les précipitations météorologique.</VREA.AndroidShortCircuitRain>
+<VREA.ColdEfficiencyBonusStatExplanation>Sous-programme pour l'efficacité au froid :\nmultiplicateur de température {0}</VREA.ColdEfficiencyBonusStatExplanation>
+
+<VREA.StatsReport_AndroidDescription>Modèle d'androïde {0}.\n\nÀ propos du {0} :</VREA.StatsReport_AndroidDescription>
+<VREA.ComponentsDesc>Les composants associés à ce type d'androïde.</VREA.ComponentsDesc>
+<VREA.ReplaceReactor>Remplacer le réacteur</VREA.ReplaceReactor>
+<VREA.AndroidSummaryWithGender>{PAWN_gender} androïde, âge {PAWN_ageFull}</VREA.AndroidSummaryWithGender>
+<VREA.CommandAndroidStandSetOwnerDesc>Affecter ce support à un androïde spécifique.</VREA.CommandAndroidStandSetOwnerDesc>
+<VREA.SleepModeOn>Mode veille</VREA.SleepModeOn>
+<VREA.SleepModeOnDesc>Plonge cet androïde dans un état de veille. Le réacteur et la mémoire ne se videront pas, mais l'androïde sera incapable de répondre à quoi que ce soit. Peut être désactivé à volonté.</VREA.SleepModeOnDesc>
+<VREA.SleepModeOff>Annuler</VREA.SleepModeOff>
+<VREA.SleepModeOffDesc>Annule le mode veille de l’androïde.</VREA.SleepModeOffDesc>
+<VREA.SleepMode>Mode veille</VREA.SleepMode>
+<VREA.TriggerSelfDestruct>Autodestruction</VREA.TriggerSelfDestruct>
+<VREA.TriggerSelfDestructDesc>Lance un protocole d'autodestruction, qui draine l'énergie restante du réacteur à une vitesse extrême, déclenchant une explosion à la fin du processus.</VREA.TriggerSelfDestructDesc>
+<VREA.CancelSelfDestruct>Annuler</VREA.CancelSelfDestruct>
+<VREA.CancelSelfDestructDesc>Annule le protocole d'autodestruction.</VREA.CancelSelfDestructDesc>
+<VREA.CommandAutoRepairDesc>Si activé, un artisan disponible réparera automatiquement cet androïde lorsqu'il sera allongé dans son lit. Si la fonction auto-réparer est activée, les androïdes pourront se réparer eux-mêmes sur place.</VREA.CommandAutoRepairDesc>
+<VREA.UseBedAndroid>S'allonger jusqu'à réparation</VREA.UseBedAndroid>
+<VREA.NoCrafter>aucun artisan</VREA.NoCrafter>
+<VREA.NotSetToAutoRepair>non réglé sur Auto-réparer</VREA.NotSetToAutoRepair>
+<VREA.Laying>S'allonge.</VREA.Laying>
+<VREA.CannotUse>ne peut pas l'utiliser</VREA.CannotUse>
+<VREA.RefusesReprogramming>refuse la reprogrammation</VREA.RefusesReprogramming>
+<VREA.SelfRepair>Auto-réparer</VREA.SelfRepair>
+<VREA.SelfRepairTip>Les androïdes dont auto-réparer est activée se réparent automatiquement sur place à {1} de l'efficacité normale.</VREA.SelfRepairTip>
+<VREA.RefuelWithNeutroamine>Faire le plein de neutroamine</VREA.RefuelWithNeutroamine>
+
+<VREA.AndroidAwakenedChoices>Lorsqu'un androïde s'éveille, vous pouvez choisir ses passions et un trait de caractère. Vous ne pourrez plus emmener {PAWN_nameDef} dans une station comportementale androïde, à moins de l'arrêter et de le forcer.</VREA.AndroidAwakenedChoices>
+<VREA.AndroidsLowOnPower>Androïdes faibles en énergie</VREA.AndroidsLowOnPower>
+
+
+<VREA.AndroidsLowOnPowerDesc>Ces androïdes sont bientôt à court d'énergie. Envisager de fabriquer de nouveaux réacteurs et programmer leur remplacement.\n\nAndroïdes faibles en énergie :\n\n{0}</VREA.AndroidsLowOnPowerDesc>
+
+
+<CommandAutoRepair>Réparation</CommandAutoRepair> <!-- Modifie la taduction officiel -->
+
+
+</LanguageData>

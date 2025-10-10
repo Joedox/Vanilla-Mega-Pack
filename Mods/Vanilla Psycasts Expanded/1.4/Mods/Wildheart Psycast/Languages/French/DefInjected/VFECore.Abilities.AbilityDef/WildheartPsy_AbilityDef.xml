@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Druid -->
+<Wildheart_Druid_One.label>calmer un animal</Wildheart_Druid_One.label>
+<Wildheart_Druid_One.description>Se connecte psychiquement à un animal en état mental et le calme.</Wildheart_Druid_One.description>
+<Wildheart_Druid_One.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_One.jobReportString>
+<Wildheart_Druid_One.verbProperties.label>calmer un animal</Wildheart_Druid_One.verbProperties.label>
+
+<Wildheart_Druid_Two.label>apprivoiser un animal</Wildheart_Druid_Two.label>
+<Wildheart_Druid_Two.description>Envoie un signal vers un animal sauvage, les chances de l'apprivoiser dépendent de la compétence Animaux du psylanceur.</Wildheart_Druid_Two.description>
+<Wildheart_Druid_Two.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Two.jobReportString>
+<Wildheart_Druid_Two.verbProperties.label>apprivoiser un animal</Wildheart_Druid_Two.verbProperties.label>
+
+<Wildheart_Druid_Three.label>éclosion</Wildheart_Druid_Three.label>
+<Wildheart_Druid_Three.description>Envoie une onde psychique vers une pile d'œufs pour les faire éclore instantanément.</Wildheart_Druid_Three.description>
+<Wildheart_Druid_Three.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Three.jobReportString>
+<Wildheart_Druid_Three.verbProperties.label>éclosion</Wildheart_Druid_Three.verbProperties.label>
+
+<Wildheart_Druid_Four.label>régénération animale</Wildheart_Druid_Four.label>
+<Wildheart_Druid_Four.description>Augmente la capacité de guérison d'un animal de 300%.</Wildheart_Druid_Four.description>
+<Wildheart_Druid_Four.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Four.jobReportString>
+<Wildheart_Druid_Four.verbProperties.label>régénération animale</Wildheart_Druid_Four.verbProperties.label>
+
+<Wildheart_Druid_Five.label>ressource animalière</Wildheart_Druid_Five.label>
+<Wildheart_Druid_Five.description>Accélère la production de ressources animalières dans la zone ciblée. Termine le processus immédiatement.</Wildheart_Druid_Five.description>
+<Wildheart_Druid_Five.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Five.jobReportString>
+<Wildheart_Druid_Five.verbProperties.label>ressource animalière</Wildheart_Druid_Five.verbProperties.label>
+
+<Wildheart_Druid_Six.label>guérir une cicatrice</Wildheart_Druid_Six.label>
+<Wildheart_Druid_Six.description>Soigne une cicatrice aléatoire sur l'animal ciblé.</Wildheart_Druid_Six.description>
+<Wildheart_Druid_Six.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Six.jobReportString>
+<Wildheart_Druid_Six.verbProperties.label>guérir une cicatrice</Wildheart_Druid_Six.verbProperties.label>
+
+<Wildheart_Druid_Seven.label>calmer tous les animaux</Wildheart_Druid_Seven.label>
+<Wildheart_Druid_Seven.description>Calme tous les animaux de la carte.</Wildheart_Druid_Seven.description>
+<Wildheart_Druid_Seven.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Seven.jobReportString>
+<Wildheart_Druid_Seven.verbProperties.label>calmer tous les animaux</Wildheart_Druid_Seven.verbProperties.label>
+
+<Wildheart_Druid_Eight.label>ressusciter un animal</Wildheart_Druid_Eight.label>
+<Wildheart_Druid_Eight.description>Ramène à la vie l'animal ciblé.</Wildheart_Druid_Eight.description>
+<Wildheart_Druid_Eight.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Eight.jobReportString>
+<Wildheart_Druid_Eight.verbProperties.label>ressusciter un animal</Wildheart_Druid_Eight.verbProperties.label>
+
+<Wildheart_Druid_Nine.label>régénération partie animale</Wildheart_Druid_Nine.label>
+<Wildheart_Druid_Nine.description>Régénération aléatoire d'une partie manquante de l'animal ciblé.</Wildheart_Druid_Nine.description>
+<Wildheart_Druid_Nine.jobReportString>Utilise la capacité : {0}</Wildheart_Druid_Nine.jobReportString>
+<Wildheart_Druid_Nine.verbProperties.label>régénération partie animale</Wildheart_Druid_Nine.verbProperties.label>
+
+<!-- Wildheart -->
+<Wildheart_Wildhunter_One.label>former une meute</Wildheart_Wildhunter_One.label>
+<Wildheart_Wildhunter_One.description>Une fois utilisé, les animaux dans le rayon d'action du psylanceur seront enregistrés comme membre de la meute.</Wildheart_Wildhunter_One.description>
+<Wildheart_Wildhunter_One.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_One.jobReportString>
+<Wildheart_Wildhunter_One.verbProperties.label>former une meute</Wildheart_Wildhunter_One.verbProperties.label>
+
+<Wildheart_Wildhunter_Two.label>chasseur d’hommes</Wildheart_Wildhunter_Two.label>
+<Wildheart_Wildhunter_Two.description>L’animal ciblé entre dans une folie de territoire chasse à l'homme et attaquera les personnes hostiles à la faction du psylanceur.</Wildheart_Wildhunter_Two.description>
+<Wildheart_Wildhunter_Two.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Two.jobReportString>
+<Wildheart_Wildhunter_Two.verbProperties.label>chasseur d’hommes</Wildheart_Wildhunter_Two.verbProperties.label>
+
+<Wildheart_Wildhunter_Three.label>entropie de la meute</Wildheart_Wildhunter_Three.label>
+<Wildheart_Wildhunter_Three.description>Augmente la limite maximum de l'échauffement neuronal du psylanceur de 10 par membre de la meute.</Wildheart_Wildhunter_Three.description>
+<Wildheart_Wildhunter_Three.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Three.jobReportString>
+<Wildheart_Wildhunter_Three.verbProperties.label>entropie de la meute</Wildheart_Wildhunter_Three.verbProperties.label>
+
+<Wildheart_Wildhunter_Four.label>échauffement ciblé</Wildheart_Wildhunter_Four.label>
+<Wildheart_Wildhunter_Four.description>Inflige à la cible des dégâts égaux à l'échauffement neuronal maximum du psylanceur (max. 50).</Wildheart_Wildhunter_Four.description>
+<Wildheart_Wildhunter_Four.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Four.jobReportString>
+<Wildheart_Wildhunter_Four.verbProperties.label>échauffement ciblé</Wildheart_Wildhunter_Four.verbProperties.label>
+
+<Wildheart_Wildhunter_Five.label>meute endurcit</Wildheart_Wildhunter_Five.label>
+<Wildheart_Wildhunter_Five.description>(Amélioration permanente)\nUne fois lancé, donne au psylanceur l'amélioration meute endurcit. Lorsque le psylanceur subit des dégâts, ceux-ci sont divisés entre tous les membres de la meute.</Wildheart_Wildhunter_Five.description>
+<Wildheart_Wildhunter_Five.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Five.jobReportString>
+<Wildheart_Wildhunter_Five.verbProperties.label>meute endurcit</Wildheart_Wildhunter_Five.verbProperties.label>
+
+<Wildheart_Wildhunter_Six.label>marque alpha</Wildheart_Wildhunter_Six.label>
+<Wildheart_Wildhunter_Six.description>Marque une cible. Toute attaque effectuée par le psylanceur et sa meute inflige 10% de dégâts supplémentaires.</Wildheart_Wildhunter_Six.description>
+<Wildheart_Wildhunter_Six.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Six.jobReportString>
+<Wildheart_Wildhunter_Six.verbProperties.label>marque alpha</Wildheart_Wildhunter_Six.verbProperties.label>
+
+<Wildheart_Wildhunter_Seven.label>groupe chasseurs d'hommes</Wildheart_Wildhunter_Seven.label>
+<Wildheart_Wildhunter_Seven.description>Les animaux dans la zone ciblée entre dans une folie de territoire chasse à l'homme, ils attaqueront les personnes hostiles à la faction du psylanceur.</Wildheart_Wildhunter_Seven.description>
+<Wildheart_Wildhunter_Seven.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Seven.jobReportString>
+<Wildheart_Wildhunter_Seven.verbProperties.label>groupe chasseurs d'hommes</Wildheart_Wildhunter_Seven.verbProperties.label>
+
+<Wildheart_Wildhunter_Eight.label>cri alpha</Wildheart_Wildhunter_Eight.label>
+<Wildheart_Wildhunter_Eight.description>Envoie un cri de guerre à tous les membres de la meute. Augmente leur capacité de combat.</Wildheart_Wildhunter_Eight.description>
+<Wildheart_Wildhunter_Eight.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Eight.jobReportString>
+<Wildheart_Wildhunter_Eight.verbProperties.label>cri alpha</Wildheart_Wildhunter_Eight.verbProperties.label>
+
+<Wildheart_Wildhunter_Nine.label>meute défensive</Wildheart_Wildhunter_Nine.label>
+<Wildheart_Wildhunter_Nine.description>Diminue les dégâts entrants pour tous les membres de la meute (meute endurcit ne fonctionnera pas pendant la durée).</Wildheart_Wildhunter_Nine.description>
+<Wildheart_Wildhunter_Nine.jobReportString>Utilise la capacité : {0}</Wildheart_Wildhunter_Nine.jobReportString>
+<Wildheart_Wildhunter_Nine.verbProperties.label>meute défensive</Wildheart_Wildhunter_Nine.verbProperties.label>
+
+
+</LanguageData>

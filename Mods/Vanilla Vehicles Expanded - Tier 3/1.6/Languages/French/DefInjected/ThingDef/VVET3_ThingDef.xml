@@ -1,0 +1,862 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: artillery wreck -->
+<VVE_ArtilleryWreck.label>épave d'artillerie</VVE_ArtilleryWreck.label>
+<!-- EN: An ancient, broken self propelled artillery. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into an Udar. -->
+<VVE_ArtilleryWreck.description>Une ancienne artillerie automotrice cassée. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de la restaurer pour en faire un Udar.</VVE_ArtilleryWreck.description>
+
+<!-- EN: battle tank wreck -->
+<VVE_BattleTankWreck.label>épave de char de combat</VVE_BattleTankWreck.label>
+<!-- EN: An ancient, broken battle tank. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Marshal. -->
+<VVE_BattleTankWreck.description>Un ancien char de combat cassé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Marshal.</VVE_BattleTankWreck.description>
+
+<!-- EN: cargo helicopter wreck -->
+<VVE_CargoHelicopterWreck.label>épave d'hélicoptère de transport</VVE_CargoHelicopterWreck.label>
+<!-- EN: An ancient, crashed cargo helicopter. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Cherokee. -->
+<VVE_CargoHelicopterWreck.description>Un vieil hélicoptère cargo écrasé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Cherokee.</VVE_CargoHelicopterWreck.description>
+
+<!-- EN: classical car wreck -->
+<VVE_ClassicCarWreck.label>épave de voiture de de collection</VVE_ClassicCarWreck.label>
+<!-- EN: An ancient, broken classic car. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Springbok. -->
+<VVE_ClassicCarWreck.description>Une voiture de collection ancienne et cassée. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de la restaurer pour en faire un Springbok.</VVE_ClassicCarWreck.description>
+
+<!-- EN: helicopter wreck -->
+<VVE_HelicopterWreck.label>épave d'hélicoptère</VVE_HelicopterWreck.label>
+<!-- EN: An ancient, broken helicopter. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Louie. -->
+<VVE_HelicopterWreck.description>Un vieil hélicoptère cassé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Louie.</VVE_HelicopterWreck.description>
+
+<!-- EN: infantry fighting vehicle wreck -->
+<VVE_InfantryFightingVehicleWreck.label>épave de véhicule de combat d'infanterie</VVE_InfantryFightingVehicleWreck.label>
+<!-- EN: An ancient, broken infantry fighting vehicle. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Badger. -->
+<VVE_InfantryFightingVehicleWreck.description>Un ancien véhicule de combat d'infanterie cassé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Harceleur.</VVE_InfantryFightingVehicleWreck.description>
+
+<!-- EN: light armored vehicle wreck -->
+<VVE_LightArmoredVehicleWreck.label>épave de véhicule blindé léger</VVE_LightArmoredVehicleWreck.label>
+<!-- EN: An ancient, broken light armored vehicle. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Paladin. -->
+<VVE_LightArmoredVehicleWreck.description>Un ancien véhicule blindé léger cassé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Paladin.</VVE_LightArmoredVehicleWreck.description>
+
+<!-- EN: offroad jeep wreck -->
+<VVE_OffroadJeepWreck.label>épave de jeep tout-terrain</VVE_OffroadJeepWreck.label>
+<!-- EN: An ancient, broken offroad jeep. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Nomad. -->
+<VVE_OffroadJeepWreck.description>Une ancienne jeep tout-terrain cassée. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de la restaurer pour en faire un Nomade.</VVE_OffroadJeepWreck.description>
+
+<!-- EN: refrigerated truck wreck -->
+<VVE_RefrigeratedTruckWreck.label>épave de camion frigorifique</VVE_RefrigeratedTruckWreck.label>
+<!-- EN: An ancient, broken refrigerated truck. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Hermano. -->
+<VVE_RefrigeratedTruckWreck.description>Un vieux camion frigorifique cassé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Hermano.</VVE_RefrigeratedTruckWreck.description>
+
+<!-- EN: rocket artillery wreck -->
+<VVE_RocketArtilleryWreck.label>épave d'artillerie à roquettes</VVE_RocketArtilleryWreck.label>
+<!-- EN: An ancient, broken rocket artillery truck. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Burya. -->
+<VVE_RocketArtilleryWreck.description>Un vieux camion d'artillerie à roquettes cassé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Burya.</VVE_RocketArtilleryWreck.description>
+
+<!-- EN: siege pod wreck -->
+<VVE_SiegePodWreck.label>épave de capsule de siège</VVE_SiegePodWreck.label>
+<!-- EN: An ancient, destroyed siege pod. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Goliath. -->
+<VVE_SiegePodWreck.description>Une ancienne capsule de siège détruite. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de la restaurer pour en faire un Goliath.</VVE_SiegePodWreck.description>
+
+<!-- EN: supercar wreck -->
+<VVE_SupercarWreck.label>épave de supercar</VVE_SupercarWreck.label>
+<!-- EN: An ancient, broken supercar. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Lightning. -->
+<VVE_SupercarWreck.description>Une ancienne supercar cassée. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de la restaurer pour en faire une Foudre.</VVE_SupercarWreck.description>
+
+<!-- EN: truck wreck -->
+<VVE_TruckWreck.label>épave de camion</VVE_TruckWreck.label>
+<!-- EN: An ancient, broken truck. Everything that isn't rusted away was looted long ago. Given enough resources, it can be restored into a Big Rig. -->
+<VVE_TruckWreck.description>Un vieux camion cassé. Tout ce qui n'est pas rouillé a été pillé il y a longtemps. Avec suffisamment de ressources, il est possible de le restaurer pour en faire un Gros engin.</VVE_TruckWreck.description>
+
+
+<!-- EN: Harceleur 
+<VVE_Badger_Blueprint.label>harceleur</VVE_Badger_Blueprint.label>-->
+<!-- EN: Véhicule de combat blindé à chenilles, l'Harceleur est conçu pour transporter des éclaireurs et de l'infanterie tout en assurant un tir de couverture pour contenir les troupes ennemies. Son blindage latéral renforcé, sa capacité à déployer des fumigènes et son puissant canon automatisé anti-infanterie en font un véhicule puissant dans les petits combats. Il est relativement vulnérable aux attaques venant de l'arrière, et la courte portée de la tourelle signifie qu'il est surclassé par la plupart des chars désignés.\n\nPar rapport aux générations précédentes, ce VFI est conçu pour déposer rapidement l'infanterie à l'endroit voulu et fournir un feu de couverture léger. Le fait que les projectiles tirés ne perforent pas le blindage le rend peu efficace contre les chars ennemis.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Tireur x1, Passager x4\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Badger_Blueprint.description>Véhicule de combat blindé à chenilles, l'Harceleur est conçu pour transporter des éclaireurs et de l'infanterie tout en assurant un tir de couverture pour contenir les troupes ennemies. Son blindage latéral renforcé, sa capacité à déployer des fumigènes et son puissant canon automatisé anti-infanterie en font un véhicule puissant dans les petits combats. Il est relativement vulnérable aux attaques venant de l'arrière, et la courte portée de la tourelle signifie qu'il est surclassé par la plupart des chars désignés.\n\nPar rapport aux générations précédentes, ce VFI est conçu pour déposer rapidement l'infanterie à l'endroit voulu et fournir un feu de couverture léger. Le fait que les projectiles tirés ne perforent pas le blindage le rend peu efficace contre les chars ennemis.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Passager x4\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Badger_Blueprint.description>-->
+
+<!-- EN: anti-infantry shell -->
+<Bullet_Badger_MainTurret.label>obus anti-infanterie</Bullet_Badger_MainTurret.label>
+
+<!-- EN: Badger -->
+<VVE_Badger.label>Harceleur</VVE_Badger.label>
+<!-- EN: A tracked, armoured fighting vehicle, the Badger is designed to transport scouts and infantry while providing covering fire to suppress enemy troops. Reinforced side armour plating, ability to deploy blindsmoke and a powerful anti-infantry automated gun make it a powerful vehicle in small combat engagement. It’s relatively vulnerable to attacks from behind, and the short range of the turret means it is outclassed by most designated tanks.\n\nCompared to previous generations, this IFV is designed to quickly drop infantry off at a desired location and provide light covering fire. Lack of armor piercing on fired projectiles make it weak against enemy tanks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Badger.description>Véhicule de combat blindé à chenilles, l'Harceleur est conçu pour transporter des éclaireurs et de l'infanterie tout en assurant un tir de couverture pour contenir les troupes ennemies. Son blindage latéral renforcé, sa capacité à déployer des fumigènes et son puissant canon automatisé anti-infanterie en font un véhicule puissant dans les petits combats. Il est relativement vulnérable aux attaques venant de l'arrière, et la courte portée de la tourelle signifie qu'il est surclassé par la plupart des chars désignés.\n\nPar rapport aux générations précédentes, ce VFI est conçu pour déposer rapidement l'infanterie à l'endroit voulu et fournir un feu de couverture léger. Le fait que les projectiles tirés ne perforent pas le blindage le rend peu efficace contre les chars ennemis.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Passager x4\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Badger.description>
+<!-- EN: Engine -->
+<VVE_Badger.components.0.label>Moteur</VVE_Badger.components.0.label>
+<!-- EN: Left Track -->
+<VVE_Badger.components.1.label>Chenille gauche</VVE_Badger.components.1.label>
+<!-- EN: Right Track -->
+<VVE_Badger.components.2.label>Chenille droite</VVE_Badger.components.2.label>
+<!-- EN: Front Left Drive Sprocket -->
+<VVE_Badger.components.3.label>Roue barbotin gauche</VVE_Badger.components.3.label>
+<!-- EN: Front Right Drive Sprocket -->
+<VVE_Badger.components.4.label>Roue barbotin droite</VVE_Badger.components.4.label>
+<!-- EN: Back Left Drive Sprocket -->
+<VVE_Badger.components.5.label>Roue folle/tendeur gauche</VVE_Badger.components.5.label>
+<!-- EN: Back Right Drive Sprocket -->
+<VVE_Badger.components.6.label>Roue folle/tendeur droite</VVE_Badger.components.6.label>
+<!-- EN: Gearbox -->
+<VVE_Badger.components.7.label>Boîte de vitesses</VVE_Badger.components.7.label>
+<!-- EN: Left Armor Plating -->
+<VVE_Badger.components.8.label>Plaque de blindage gauche</VVE_Badger.components.8.label>
+<!-- EN: Right Armor Plating -->
+<VVE_Badger.components.9.label>Plaque de blindage droite</VVE_Badger.components.9.label>
+<!-- EN: Front Armor Plating -->
+<VVE_Badger.components.10.label>Plaque de blindage avant</VVE_Badger.components.10.label>
+<!-- EN: Rear Armor Plating -->
+<VVE_Badger.components.11.label>Plaque de blindage arrière</VVE_Badger.components.11.label>
+<!-- EN: Chemtank -->
+<VVE_Badger.components.12.label>Réservoir</VVE_Badger.components.12.label>
+<!-- EN: Dashboard -->
+<VVE_Badger.components.13.label>Tableau de bord</VVE_Badger.components.13.label>
+<!-- EN: Steering Apparatus -->
+<VVE_Badger.components.14.label>Appareil de pilotage</VVE_Badger.components.14.label>
+<!-- EN: Alternator -->
+<VVE_Badger.components.15.label>Alternateur</VVE_Badger.components.15.label>
+<!-- EN: Roof -->
+<VVE_Badger.components.16.label>Toit</VVE_Badger.components.16.label>
+<!-- EN: Main Turret -->
+<VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!-- EN: smokepop -->
+<VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>fumigène</VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>
+<!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. Right click to reload. -->
+<VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>Un écran de fumée défensif. Lorsqu'il est activé, il libère un nuage de fumée qui masque les tirs entrants et empêche les tourelles de se verrouiller. Il dispose de trois charges et doit être rechargé en chemfuel une fois qu'elles sont épuisées.</VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>
+<!-- EN: on cooldown -->
+<VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>en recharge</VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>
+<!-- EN: pop smoke -->
+<VVE_Badger.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>fumigène</VVE_Badger.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>
+<!-- EN: Driver -->
+<VVE_Badger.properties.roles.0.label>Conducteur</VVE_Badger.properties.roles.0.label>
+<!-- EN: Gunner -->
+<VVE_Badger.properties.roles.1.label>Tireur</VVE_Badger.properties.roles.1.label>
+<!-- EN: Passenger -->
+<VVE_Badger.properties.roles.2.label>Passager</VVE_Badger.properties.roles.2.label>
+
+
+<!-- EN: Gros engin 
+<VVE_BigRig_Blueprint.label>gros engin</VVE_BigRig_Blueprint.label>-->
+<!-- EN: Transporteur de marchandises, le Gros engin est l'incarnation même du transport de matériaux en vrac. Bien qu'il soit mieux adapté aux routes plates, il dispose d'un moteur suffisamment puissant pour traverser efficacement les terrains difficiles.\n\nUn transporteur de marchandises étonnamment rapide et gourmand en carburant, dont l'accélération est épouvantable, mais que peu de choses peuvent ralentir une fois qu'il a atteint sa vitesse de croisière.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Passager x1\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_BigRig_Blueprint.description>Transporteur de marchandises, le Gros engin est l'incarnation même du transport de matériaux en vrac. Bien qu'il soit mieux adapté aux routes plates, il dispose d'un moteur suffisamment puissant pour traverser efficacement les terrains difficiles.\n\nUn transporteur de marchandises étonnamment rapide et gourmand en carburant, dont l'accélération est épouvantable, mais que peu de choses peuvent ralentir une fois qu'il a atteint sa vitesse de croisière.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_BigRig_Blueprint.description>-->
+
+<!-- EN: Big Rig -->
+<VVE_BigRig.label>Gros engin</VVE_BigRig.label>
+<!-- EN: A dedicated cargo transporter, the Big Rig is the epitome of bulk material transportation. While best suited on flat roads, it still has a powerful enough engine to effectively charge through difficult terrain.\n\nA surprisingly quick, gas-guzzling cargo transporter that has terrible acceleration, but very little can slow it down once it gets up to speed.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_BigRig.description>Transporteur de marchandises, le Gros engin est l'incarnation même du transport de matériaux en vrac. Bien qu'il soit mieux adapté aux routes plates, il dispose d'un moteur suffisamment puissant pour traverser efficacement les terrains difficiles.\n\nUn transporteur de marchandises étonnamment rapide et gourmand en carburant, dont l'accélération est épouvantable, mais que peu de choses peuvent ralentir une fois qu'il a atteint sa vitesse de croisière.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_BigRig.description>
+<!-- EN: Engine -->
+<VVE_BigRig.components.0.label>Moteur</VVE_BigRig.components.0.label>
+<!-- EN: Front Left Wheel -->
+<VVE_BigRig.components.1.label>Roue avant gauche</VVE_BigRig.components.1.label>
+<!-- EN: Front Right Wheel -->
+<VVE_BigRig.components.2.label>Roue avant droite</VVE_BigRig.components.2.label>
+<!-- EN: Left Middle Wheel -->
+<VVE_BigRig.components.3.label>Roue milieu gauche</VVE_BigRig.components.3.label>
+<!-- EN: Right Middle Wheel -->
+<VVE_BigRig.components.4.label>Roue milieu droite</VVE_BigRig.components.4.label>
+<!-- EN: Back Left Wheel -->
+<VVE_BigRig.components.5.label>Roue arrière gauche</VVE_BigRig.components.5.label>
+<!-- EN: Back Right Wheel -->
+<VVE_BigRig.components.6.label>Roue arrière droite</VVE_BigRig.components.6.label>
+<!-- EN: Front Left Suspension -->
+<VVE_BigRig.components.7.label>Suspension avant gauche</VVE_BigRig.components.7.label>
+<!-- EN: Front Right Suspension -->
+<VVE_BigRig.components.8.label>Suspension avant droite</VVE_BigRig.components.8.label>
+<!-- EN: Left Middle Suspension -->
+<VVE_BigRig.components.9.label>Suspension milieu gauche</VVE_BigRig.components.9.label>
+<!-- EN: Right Middle Suspension -->
+<VVE_BigRig.components.10.label>Suspension milieu droite</VVE_BigRig.components.10.label>
+<!-- EN: Back Left Suspension -->
+<VVE_BigRig.components.11.label>Suspension arrière gauche</VVE_BigRig.components.11.label>
+<!-- EN: Back Right Suspension -->
+<VVE_BigRig.components.12.label>Suspension arrière droite</VVE_BigRig.components.12.label>
+<!-- EN: Gearbox -->
+<VVE_BigRig.components.13.label>Boîte de vitesses</VVE_BigRig.components.13.label>
+<!-- EN: Left Side Panel -->
+<VVE_BigRig.components.14.label>Portière gauche</VVE_BigRig.components.14.label>
+<!-- EN: Right Side Panel -->
+<VVE_BigRig.components.15.label>Portière droite</VVE_BigRig.components.15.label>
+<!-- EN: Left Chemtank -->
+<VVE_BigRig.components.16.label>Réservoir gauche</VVE_BigRig.components.16.label>
+<!-- EN: Right Chemtank -->
+<VVE_BigRig.components.17.label>Réservoir droit</VVE_BigRig.components.17.label>
+<!-- EN: Front Bumper -->
+<VVE_BigRig.components.18.label>Pare-chocs avant</VVE_BigRig.components.18.label>
+<!-- EN: Rear Bumper -->
+<VVE_BigRig.components.19.label>Pare-chocs arrière</VVE_BigRig.components.19.label>
+<!-- EN: Upholstery -->
+<VVE_BigRig.components.20.label>Garniture</VVE_BigRig.components.20.label>
+<!-- EN: Dashboard -->
+<VVE_BigRig.components.21.label>Tableau de bord</VVE_BigRig.components.21.label>
+<!-- EN: Steering Wheel -->
+<VVE_BigRig.components.22.label>Volant</VVE_BigRig.components.22.label>
+<!-- EN: Alternator -->
+<VVE_BigRig.components.23.label>Alternateur</VVE_BigRig.components.23.label>
+<!-- EN: Hood -->
+<VVE_BigRig.components.24.label>Capot</VVE_BigRig.components.24.label>
+<!-- EN: Roof -->
+<VVE_BigRig.components.25.label>Toit</VVE_BigRig.components.25.label>
+<!-- EN: Driver -->
+<VVE_BigRig.properties.roles.0.label>Conducteur</VVE_BigRig.properties.roles.0.label>
+<!-- EN: Passenger -->
+<VVE_BigRig.properties.roles.1.label>Passager</VVE_BigRig.properties.roles.1.label>
+
+
+<!-- EN: burya 
+<VVE_Burya_Blueprint.label>burya</VVE_Burya_Blueprint.label>-->
+<!-- EN: Le Burya est une plate-forme dédiée au système de roquettes à lancement multiple. Il s'agit d'une arme de siège et de suppression de zone à longue portée qui peut être utilisée par un équipage de deux personnes pour un chargement plus rapide. Pouvant tirer des volées continues de missiles à longue portée, le Burya peut recouvrir des zones entières d'explosions de roquettes anti-infanterie.\n\nLent à se déplacer et vulnérable aux tirs ennemis, le Burya doit se déployer avant de pouvoir ouvrir le feu, ce qui peut le laisser immobilisé en territoire ennemi.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Artilleur x2\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Burya_Blueprint.description>Le Burya est une plate-forme dédiée au système de roquettes à lancement multiple. Il s'agit d'une arme de siège et de suppression de zone à longue portée qui peut être utilisée par un équipage de deux personnes pour un chargement plus rapide. Pouvant tirer des volées continues de missiles à longue portée, le Burya peut recouvrir des zones entières d'explosions de roquettes anti-infanterie.\n\nLent à se déplacer et vulnérable aux tirs ennemis, le Burya doit se déployer avant de pouvoir ouvrir le feu, ce qui peut le laisser immobilisé en territoire ennemi.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Artilleur x2\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Burya_Blueprint.description>-->
+
+<!-- EN: Burya -->
+<VVE_Burya.label>Burya</VVE_Burya.label>
+<!-- EN: A dedicated multiple launch rocket system platform, the Burya is a long-range siege and area denial weapon that can be operated by a two-man crew for faster loading speeds. Capable of firing continuous volleys of long range missiles, Burya can blanket whole areas in anti-infantry rocket explosions.\n\nSlow-moving and vulnerable to enemy fire, Burya needs to deploy before it can open fire, which may leave it stranded in enemy territory.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Burya.description>Le Burya est une plate-forme dédiée au système de roquettes à lancement multiple. Il s'agit d'une arme de siège et de suppression de zone à longue portée qui peut être utilisée par un équipage de deux personnes pour un chargement plus rapide. Pouvant tirer des volées continues de missiles à longue portée, le Burya peut recouvrir des zones entières d'explosions de roquettes anti-infanterie.\n\nLent à se déplacer et vulnérable aux tirs ennemis, le Burya doit se déployer avant de pouvoir ouvrir le feu, ce qui peut le laisser immobilisé en territoire ennemi.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Artilleur x2\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Burya.description>
+<!-- EN: Engine -->
+<VVE_Burya.components.0.label>Moteur</VVE_Burya.components.0.label>
+<!-- EN: Front Left Wheel -->
+<VVE_Burya.components.1.label>Roue avant gauche</VVE_Burya.components.1.label>
+<!-- EN: Front Right Wheel -->
+<VVE_Burya.components.2.label>Roue avant droite</VVE_Burya.components.2.label>
+<!-- EN: Middle Left Wheel -->
+<VVE_Burya.components.3.label>Roue milieu gauche</VVE_Burya.components.3.label>
+<!-- EN: Middle Right Wheel -->
+<VVE_Burya.components.4.label>Roue milieu droite</VVE_Burya.components.4.label>
+<!-- EN: Back Left Wheel -->
+<VVE_Burya.components.5.label>Roue arrière gauche</VVE_Burya.components.5.label>
+<!-- EN: Back Right Wheel -->
+<VVE_Burya.components.6.label>Roue arrière droite</VVE_Burya.components.6.label>
+<!-- EN: Front Left Suspension -->
+<VVE_Burya.components.7.label>Suspension avant gauche</VVE_Burya.components.7.label>
+<!-- EN: Front Right Suspension -->
+<VVE_Burya.components.8.label>Suspension avant droite</VVE_Burya.components.8.label>
+<!-- EN: Middle Left Suspension -->
+<VVE_Burya.components.9.label>Suspension milieu gauche</VVE_Burya.components.9.label>
+<!-- EN: Middle Right Suspension -->
+<VVE_Burya.components.10.label>Suspension milieu droite</VVE_Burya.components.10.label>
+<!-- EN: Back Left Suspension -->
+<VVE_Burya.components.11.label>Suspension arrière gauche</VVE_Burya.components.11.label>
+<!-- EN: Back Right Suspension -->
+<VVE_Burya.components.12.label>Suspension arrière droite</VVE_Burya.components.12.label>
+<!-- EN: Gearbox -->
+<VVE_Burya.components.13.label>Boîte de vitesses</VVE_Burya.components.13.label>
+<!-- EN: Left Armor Plating -->
+<VVE_Burya.components.14.label>Plaque de blindage gauche</VVE_Burya.components.14.label>
+<!-- EN: Right Armor Plating -->
+<VVE_Burya.components.15.label>Plaque de blindage droite</VVE_Burya.components.15.label>
+<!-- EN: Front Armor Plating -->
+<VVE_Burya.components.16.label>Plaque de blindage avant</VVE_Burya.components.16.label>
+<!-- EN: Left Chemtank -->
+<VVE_Burya.components.17.label>Réservoir gauche</VVE_Burya.components.17.label>
+<!-- EN: Right Chemtank -->
+<VVE_Burya.components.18.label>Réservoir droit</VVE_Burya.components.18.label>
+<!-- EN: Dashboard -->
+<VVE_Burya.components.19.label>Tableau de bord</VVE_Burya.components.19.label>
+<!-- EN: Steering Wheel -->
+<VVE_Burya.components.20.label>Volant</VVE_Burya.components.20.label>
+<!-- EN: Alternator -->
+<VVE_Burya.components.21.label>Alternateur</VVE_Burya.components.21.label>
+<!-- EN: Roof -->
+<VVE_Burya.components.22.label>Toit</VVE_Burya.components.22.label>
+<!-- EN: Rocket Salvo -->
+<VVE_Burya.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Rampe à roquettes</VVE_Burya.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!-- EN: driver -->
+<VVE_Burya.properties.roles.0.label>Conducteur</VVE_Burya.properties.roles.0.label>
+<!-- EN: gunner -->
+<VVE_Burya.properties.roles.1.label>Artilleur</VVE_Burya.properties.roles.1.label>
+
+
+<!-- EN: Cherokee 
+<VVE_Cherokee_Blueprint.label>cherokee</VVE_Cherokee_Blueprint.label>-->
+<!-- EN: Hélicoptère de transport lourd, le Cherokee est une énorme monstruosité de l'ingénierie aéronautique. Très lent en raison de son encombrement, il est également très gourmand en carburant et dispose d'une énorme capacité de chargement. À prévoir en conséquence.\n\nHélicoptère de transport spécialisé doté d'une soute modifiée, il nécessite deux pilotes et des ravitaillements fréquents. Cependant, rien ne se rapproche du transport en vrac à son niveau technologique.\n\n<color=#bb8f04>Équipage :</color> Pilote x2\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Cherokee_Blueprint.description>Hélicoptère de transport lourd, le Cherokee est une énorme monstruosité de l'ingénierie aéronautique. Très lent en raison de son encombrement, il est également très gourmand en carburant et dispose d'une énorme capacité de chargement. À prévoir en conséquence.\n\nHélicoptère de transport spécialisé doté d'une soute modifiée, il nécessite deux pilotes et des ravitaillements fréquents. Cependant, rien ne se rapproche du transport en vrac à son niveau technologique.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x2\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Cherokee_Blueprint.description>-->
+
+<!-- EN: Cherokee -->
+<VVE_Cherokee.label>Cherokee</VVE_Cherokee.label>
+<!-- EN: A heavy duty transport aircraft, the Cherokee is a hulking monstrosity of aeronautical engineering. Very slow due to all the bulk, equally thirsty, and sports massive cargo capacity. Plan accordingly.\n\nA dedicated transport helicopter with a modified cargo bay, it requires two pilots to operate and frequent refueling. However, nothing comes even close to bulk transportation at its tech level.\n\n<color=#bb8f04>Crew:</color> Pilot x2\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Cherokee.description>Hélicoptère de transport lourd, le Cherokee est une énorme monstruosité de l'ingénierie aéronautique. Très lent en raison de son encombrement, il est également très gourmand en carburant et dispose d'une énorme capacité de chargement. À prévoir en conséquence.\n\nHélicoptère de transport spécialisé doté d'une soute modifiée, il nécessite deux pilotes et des ravitaillements fréquents. Cependant, rien ne se rapproche du transport en vrac à son niveau technologique.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x2\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Cherokee.description>
+<!-- EN: Front Engine -->
+<VVE_Cherokee.components.0.label>Moteur avant</VVE_Cherokee.components.0.label>
+<!-- EN: Rear Engine -->
+<VVE_Cherokee.components.1.label>Moteur arrière</VVE_Cherokee.components.1.label>
+<!-- EN: Front Left Landing Wheel -->
+<VVE_Cherokee.components.2.label>Roue atterrissage av. gauche</VVE_Cherokee.components.2.label>
+<!-- EN: Front Right Landing Wheel -->
+<VVE_Cherokee.components.3.label>Roue atterrissage av. droite</VVE_Cherokee.components.3.label>
+<!-- EN: Rear Left Landing Wheel -->
+<VVE_Cherokee.components.4.label>Roue atterrissage arr. gauche</VVE_Cherokee.components.4.label>
+<!-- EN: Rear Right Landing Wheel -->
+<VVE_Cherokee.components.5.label>Roue atterrissage arr. droite</VVE_Cherokee.components.5.label>
+<!-- EN: Front Left Suspension -->
+<VVE_Cherokee.components.6.label>Suspension avant gauche</VVE_Cherokee.components.6.label>
+<!-- EN: Front Engine Cover -->
+<VVE_Cherokee.components.7.label>Capot moteur avant</VVE_Cherokee.components.7.label>
+<!-- EN: Rear Engine Cover -->
+<VVE_Cherokee.components.8.label>Capot moteur arrière</VVE_Cherokee.components.8.label>
+<!-- EN: Left Fuel Intake -->
+<VVE_Cherokee.components.9.label>Admission carburant gauche</VVE_Cherokee.components.9.label>
+<!-- EN: Right Fuel Intake -->
+<VVE_Cherokee.components.10.label>Admission carburant droite</VVE_Cherokee.components.10.label>
+<!-- EN: Front Transmission -->
+<VVE_Cherokee.components.11.label>Transmission avant</VVE_Cherokee.components.11.label>
+<!-- EN: Rear Transmission -->
+<VVE_Cherokee.components.12.label>Transmission arrière</VVE_Cherokee.components.12.label>
+<!-- EN: Left Turbo Shaft -->
+<VVE_Cherokee.components.13.label>Arbre du turbo gauche</VVE_Cherokee.components.13.label>
+<!-- EN: Right Turbo Shaft -->
+<VVE_Cherokee.components.14.label>Arbre du turbo droit</VVE_Cherokee.components.14.label>
+<!-- EN: Left Frontal Panel -->
+<VVE_Cherokee.components.15.label>Panneau avant gauche</VVE_Cherokee.components.15.label>
+<!-- EN: Right Frontal Panel -->
+<VVE_Cherokee.components.16.label>Panneau avant droit</VVE_Cherokee.components.16.label>
+<!-- EN: Left Rear Panel -->
+<VVE_Cherokee.components.17.label>Panneau arrière gauche</VVE_Cherokee.components.17.label>
+<!-- EN: Right Rear Panel -->
+<VVE_Cherokee.components.18.label>Panneau arrière droit</VVE_Cherokee.components.18.label>
+<!-- EN: Chemtank -->
+<VVE_Cherokee.components.19.label>Réservoir</VVE_Cherokee.components.19.label>
+<!-- EN: Front Rotor Mast -->
+<VVE_Cherokee.components.20.label>Mât du rotor avant</VVE_Cherokee.components.20.label>
+<!-- EN: Rear Rotor Mast -->
+<VVE_Cherokee.components.21.label>Mât du rotor arrière</VVE_Cherokee.components.21.label>
+<!-- EN: Upholstery -->
+<VVE_Cherokee.components.22.label>Garniture</VVE_Cherokee.components.22.label>
+<!-- EN: Dashboard -->
+<VVE_Cherokee.components.23.label>Tableau de bord</VVE_Cherokee.components.23.label>
+<!-- EN: Gearbox -->
+<VVE_Cherokee.components.24.label>Boîte de vitesses</VVE_Cherokee.components.24.label>
+<!-- EN: Front Servos -->
+<VVE_Cherokee.components.25.label>Servomoteurs avant</VVE_Cherokee.components.25.label>
+<!-- EN: Rear Servos -->
+<VVE_Cherokee.components.26.label>Servomoteurs arrière</VVE_Cherokee.components.26.label>
+<!-- EN: Pilot -->
+<VVE_Cherokee.properties.roles.0.label>Pilote</VVE_Cherokee.properties.roles.0.label>
+
+
+<!-- EN: Goliath 
+<VVE_Goliath_Blueprint.label>goliath</VVE_Goliath_Blueprint.label>-->
+<!-- EN: Plus une mini-base mobile qu'une capsule de déploiement, le Goliath est une solution coûteuse mais puissante pour tout objet ennemi inamovible. Équipé de quatre tourelles militaires et d'une tourelle lance-roquettes à longue portée à son sommet, ce module de siège est capable de faire pleuvoir des tirs dans un rayon de 360 degrés. Presque impénétrable, il peut servir de base d'opérations portative et assurer la sécurité de toutes les troupes qui s'y trouvent.\n\nIl est incroyablement lourd et son décollage nécessite des boosters à usage unique qui se séparent une fois la trajectoire et la vitesse atteintes. Pour redécoller, les boosters doivent être reconstruits.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n<color=#bb8f04>Équipage :</color> Opérateur x1, Artilleur x1, Mitrailleur x4, Passager x4\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Goliath_Blueprint.description>Plus une mini-base mobile qu'une capsule de déploiement, le Goliath est une solution coûteuse mais puissante pour tout objet ennemi inamovible. Équipé de quatre tourelles militaires et d'une tourelle lance-roquettes à longue portée à son sommet, ce module de siège est capable de faire pleuvoir des tirs dans un rayon de 360 degrés. Presque impénétrable, il peut servir de base d'opérations portative et assurer la sécurité de toutes les troupes qui s'y trouvent.\n\nIl est incroyablement lourd et son décollage nécessite des boosters à usage unique qui se séparent une fois la trajectoire et la vitesse atteintes. Pour redécoller, les boosters doivent être reconstruits.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Opérateur x1, Artilleur x1, Mitrailleur x4, Passager x4\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Goliath_Blueprint.description>-->
+
+<!-- EN: Goliath -->
+<VVE_Goliath.label>Goliath</VVE_Goliath.label>
+<!-- EN: More of a movable mini-base than a deployment pod, Goliath is an expensive but powerful solution to any immovable enemy object. Equipped with four military turret stations and a long range rocket swarm turret at the top, this siege pod is capable of raining fire in 360 degree radius. Nearly impenetrable, it can serve as a portable base of operations, keeping all troops inside safe.\n\nIt’s incredibly heavy and lift off requires single-use boosters that separate once the trajectory and velocity is reached. In order to lift off again, the boosters need to be rebuilt.\n\nBeing a flying vehicle, it is extremely obvious when on the move. -->
+<VVE_Goliath.description>Plus une mini-base mobile qu'une capsule de déploiement, le Goliath est une solution coûteuse mais puissante pour tout objet ennemi inamovible. Équipé de quatre tourelles militaires et d'une tourelle lance-roquettes à longue portée à son sommet, ce module de siège est capable de faire pleuvoir des tirs dans un rayon de 360 degrés. Presque impénétrable, il peut servir de base d'opérations portative et assurer la sécurité de toutes les troupes qui s'y trouvent.\n\nIl est incroyablement lourd et son décollage nécessite des boosters à usage unique qui se séparent une fois la trajectoire et la vitesse atteintes. Pour redécoller, les boosters doivent être reconstruits.\n\nComme il s'agit d'un véhicule volant, il est extrêmement visible lorsqu'il se déplace.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Opérateur x1, Artilleur x1, Mitrailleur x4, Passager x4\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Goliath.description>
+<!-- EN: Engine -->
+<VVE_Goliath.components.0.label>Moteur</VVE_Goliath.components.0.label>
+<!-- EN: First Thruster -->
+<VVE_Goliath.components.1.label>Premier propulseur</VVE_Goliath.components.1.label>
+<!-- EN: Second Thruster -->
+<VVE_Goliath.components.2.label>Deuxième propulseur</VVE_Goliath.components.2.label>
+<!-- EN: Third Thruster -->
+<VVE_Goliath.components.3.label>Troisième propulseur</VVE_Goliath.components.3.label>
+<!-- EN: Fourth Thruster -->
+<VVE_Goliath.components.4.label>Quatrième propulseur</VVE_Goliath.components.4.label>
+<!-- EN: First Booster -->
+<VVE_Goliath.components.5.label>Premier booster</VVE_Goliath.components.5.label>
+<!-- EN: Second Booster -->
+<VVE_Goliath.components.6.label>Deuxième booster</VVE_Goliath.components.6.label>
+<!-- EN: Third Booster -->
+<VVE_Goliath.components.7.label>Troisième booster</VVE_Goliath.components.7.label>
+<!-- EN: Fourth Booster -->
+<VVE_Goliath.components.8.label>Quatrième booster</VVE_Goliath.components.8.label>
+<!-- EN: Chemtank -->
+<VVE_Goliath.components.9.label>Réservoir</VVE_Goliath.components.9.label>
+<!-- EN: Hull -->
+<VVE_Goliath.components.10.label>Coque</VVE_Goliath.components.10.label>
+<!-- EN: Blast Shield -->
+<VVE_Goliath.components.11.label>Bouclier anti-souffle</VVE_Goliath.components.11.label>
+<!-- EN: Swarm Turret -->
+<VVE_Goliath.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Rampe à roquettes</VVE_Goliath.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!-- EN: Military Turret -->
+<VVE_Goliath.comps.CompVehicleTurrets.turrets.1.gizmoLabel>Tourelle militaire</VVE_Goliath.comps.CompVehicleTurrets.turrets.1.gizmoLabel>
+<!-- EN: Military Turret -->
+<VVE_Goliath.comps.CompVehicleTurrets.turrets.2.gizmoLabel>Tourelle militaire</VVE_Goliath.comps.CompVehicleTurrets.turrets.2.gizmoLabel>
+<!-- EN: Military Turret -->
+<VVE_Goliath.comps.CompVehicleTurrets.turrets.3.gizmoLabel>Tourelle militaire</VVE_Goliath.comps.CompVehicleTurrets.turrets.3.gizmoLabel>
+<!-- EN: Military Turret -->
+<VVE_Goliath.comps.CompVehicleTurrets.turrets.4.gizmoLabel>Tourelle militaire</VVE_Goliath.comps.CompVehicleTurrets.turrets.4.gizmoLabel>
+<!-- EN: Operator -->
+<VVE_Goliath.properties.roles.0.label>Opérateur</VVE_Goliath.properties.roles.0.label>
+<!-- EN: Swarm Gunner -->
+<VVE_Goliath.properties.roles.1.label>Artilleur</VVE_Goliath.properties.roles.1.label>
+<!-- EN: Gunner 1 -->
+<VVE_Goliath.properties.roles.2.label>Mitrailleur 1</VVE_Goliath.properties.roles.2.label>
+<!-- EN: Gunner 2 -->
+<VVE_Goliath.properties.roles.3.label>Mitrailleur 2</VVE_Goliath.properties.roles.3.label>
+<!-- EN: Gunner 3 -->
+<VVE_Goliath.properties.roles.4.label>Mitrailleur 3</VVE_Goliath.properties.roles.4.label>
+<!-- EN: Gunner 4 -->
+<VVE_Goliath.properties.roles.5.label>Mitrailleur 4</VVE_Goliath.properties.roles.5.label>
+<!-- EN: Passenger -->
+<VVE_Goliath.properties.roles.6.label>Passager</VVE_Goliath.properties.roles.6.label>
+
+
+<!-- EN: Hermano 
+<VVE_Hermano_Blueprint.label>hermano</VVE_Hermano_Blueprint.label>-->
+<!-- EN: Véhicule frigorifique spécialisé, l'Hermano est un transporteur de fret décent, spécialisé dans le transport de denrées périssables. Décent pour les longs trajets sur route, il est très peu performant en tout-terrain ou en hiver.\n\nBien qu'il existe de meilleurs transporteurs de marchandises, même dans les catégories inférieures, ce camion peut transporter des marchandises à l'état congelé, évitant ainsi qu'elles ne se gâtent. En raison de la machinerie supplémentaire, les performances en pâtissent et il devrait rester à l'écart des zones de conflit.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Passager x1\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Hermano_Blueprint.description>Véhicule frigorifique spécialisé, l'Hermano est un transporteur de fret décent, spécialisé dans le transport de denrées périssables. Décent pour les longs trajets sur route, il est très peu performant en tout-terrain ou en hiver.\n\nBien qu'il existe de meilleurs transporteurs de marchandises, même dans les catégories inférieures, ce camion peut transporter des marchandises à l'état congelé, évitant ainsi qu'elles ne se gâtent. En raison de la machinerie supplémentaire, les performances en pâtissent et il devrait rester à l'écart des zones de conflit.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Hermano_Blueprint.description>-->
+
+<!-- EN: Hermano -->
+<VVE_Hermano.label>Hermano</VVE_Hermano.label>
+<!-- EN: A dedicated refrigeration vehicle, the Hermano is a decent cargo transporter with a specific niche in ferrying perishable goods. Decent in long-range travel along roads, it performs terribly in off-road or winter conditions.\n\nWhile there are better cargo transporters even in lower tiers, this truck can transport cargo in a frozen state, preventing spoilage. Due to the extra machinery, performance suffers and it should stay away from conflict zones.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Hermano.description>Véhicule frigorifique spécialisé, l'Hermano est un transporteur de fret décent, spécialisé dans le transport de denrées périssables. Décent pour les longs trajets sur route, il est très peu performant en tout-terrain ou en hiver.\n\nBien qu'il existe de meilleurs transporteurs de marchandises, même dans les catégories inférieures, ce camion peut transporter des marchandises à l'état congelé, évitant ainsi qu'elles ne se gâtent. En raison de la machinerie supplémentaire, les performances en pâtissent et il devrait rester à l'écart des zones de conflit.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Hermano.description>
+<!-- EN: Engine -->
+<VVE_Hermano.components.0.label>Moteur</VVE_Hermano.components.0.label>
+<!-- EN: Front Left Wheel -->
+<VVE_Hermano.components.1.label>Roue avant gauche</VVE_Hermano.components.1.label>
+<!-- EN: Front Right Wheel -->
+<VVE_Hermano.components.2.label>Roue avant droite</VVE_Hermano.components.2.label>
+<!-- EN: Back Left Wheel -->
+<VVE_Hermano.components.3.label>Roue arrière gauche</VVE_Hermano.components.3.label>
+<!-- EN: Back Right Wheel -->
+<VVE_Hermano.components.4.label>Roue arrière droite</VVE_Hermano.components.4.label>
+<!-- EN: Front Left Suspension -->
+<VVE_Hermano.components.5.label>Suspension avant gauche</VVE_Hermano.components.5.label>
+<!-- EN: Front Right Suspension -->
+<VVE_Hermano.components.6.label>Suspension avant droite</VVE_Hermano.components.6.label>
+<!-- EN: Back Left Suspension -->
+<VVE_Hermano.components.7.label>Suspension arrière gauche</VVE_Hermano.components.7.label>
+<!-- EN: Back Right Suspension -->
+<VVE_Hermano.components.8.label>Suspension arrière droite</VVE_Hermano.components.8.label>
+<!-- EN: Gearbox -->
+<VVE_Hermano.components.9.label>Boîte de vitesses</VVE_Hermano.components.9.label>
+<!-- EN: Left Side Panel -->
+<VVE_Hermano.components.10.label>Panneau latéral gauche</VVE_Hermano.components.10.label>
+<!-- EN: Right Side Panel -->
+<VVE_Hermano.components.11.label>Panneau latéral droit</VVE_Hermano.components.11.label>
+<!-- EN: Left Chemtank -->
+<VVE_Hermano.components.12.label>Réservoir gauche</VVE_Hermano.components.12.label>
+<!-- EN: Front Bumper -->
+<VVE_Hermano.components.13.label>Pare-chocs avant</VVE_Hermano.components.13.label>
+<!-- EN: Rear Bumper -->
+<VVE_Hermano.components.14.label>Pare-chocs arrière</VVE_Hermano.components.14.label>
+<!-- EN: Upholstery -->
+<VVE_Hermano.components.15.label>Garniture</VVE_Hermano.components.15.label>
+<!-- EN: Dashboard -->
+<VVE_Hermano.components.16.label>Tableau de bord</VVE_Hermano.components.16.label>
+<!-- EN: Steering Wheel -->
+<VVE_Hermano.components.17.label>Volant</VVE_Hermano.components.17.label>
+<!-- EN: Alternator -->
+<VVE_Hermano.components.18.label>Alternateur</VVE_Hermano.components.18.label>
+<!-- EN: Grill -->
+<VVE_Hermano.components.19.label>Grille</VVE_Hermano.components.19.label>
+<!-- EN: Roof -->
+<VVE_Hermano.components.20.label>Toit</VVE_Hermano.components.20.label>
+<!-- EN: Cargo refrigeration -->
+<VVE_Hermano.comps.CompRefrigerator.label>réfrigérer</VVE_Hermano.comps.CompRefrigerator.label>
+<!-- EN: Enable or disable cargo refrigeration on this refrigerated truck. Refrigeration will stop items from spoiling, but will continuously use up fuel. -->
+<VVE_Hermano.comps.CompRefrigerator.description>Active ou désactive la réfrigération de la cargaison sur ce camion frigorifique. La réfrigération empêchera les denrées de se gâter, mais consommera continuellement du carburant.</VVE_Hermano.comps.CompRefrigerator.description>
+<!-- EN: Driver -->
+<VVE_Hermano.properties.roles.0.label>Conducteur</VVE_Hermano.properties.roles.0.label>
+<!-- EN: Passenger -->
+<VVE_Hermano.properties.roles.1.label>Passager</VVE_Hermano.properties.roles.1.label>
+
+
+<!-- EN: Foudre 
+<VVE_Lightning_Blueprint.label>foudre</VVE_Lightning_Blueprint.label>-->
+<!-- EN: Transporteur rapide et polyvalent, la Foudre est un excellent véhicule routier pour transporter une quantité appréciable de marchandises en très peu de temps. Incroyablement rapide sur les routes plates, elle aura du mal sur les collines, la neige ou les tuiles d'hiver.\n\nComme elle est conçue pour la vitesse, les trajets doivent toujours être planifiés de manière à rester sur les routes et à avoir du carburant supplémentaire, qui peut occuper la majeure partie de l'espace de chargement supplémentaire. La consommation de carburant est très élevée en raison de ses performances, il faut donc prévoir le nécessaire.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Passager x1\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Lightning_Blueprint.description>Transporteur rapide et polyvalent, la Foudre est un excellent véhicule routier pour transporter une quantité appréciable de marchandises en très peu de temps. Incroyablement rapide sur les routes plates, elle aura du mal sur les collines, la neige ou les tuiles d'hiver.\n\nComme elle est conçue pour la vitesse, les trajets doivent toujours être planifiés de manière à rester sur les routes et à avoir du carburant supplémentaire, qui peut occuper la majeure partie de l'espace de chargement supplémentaire. La consommation de carburant est très élevée en raison de ses performances, il faut donc prévoir le nécessaire.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Lightning_Blueprint.description>-->
+
+<!-- EN: Lightning -->
+<VVE_Lightning.label>Foudre</VVE_Lightning.label>
+<!-- EN: A fast general purpose transporter, the Lightning is an excellent road vehicle for getting an appreciable amount of cargo in a very small time frame. Incredibly fast on flat roads and will struggle on hills, snow or winter tiles.\n\nAs it is designed for speed, trips should always be planned for staying on roads and having extra fuel, which can occupy most of the extra cargo space. It has terrible fuel efficiency due to the performance, so plan accordingly.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Lightning.description>Transporteur rapide et polyvalent, la Foudre est un excellent véhicule routier pour transporter une quantité appréciable de marchandises en très peu de temps. Incroyablement rapide sur les routes plates, elle aura du mal sur les collines, la neige ou les tuiles d'hiver.\n\nComme elle est conçue pour la vitesse, les trajets doivent toujours être planifiés de manière à rester sur les routes et à avoir du carburant supplémentaire, qui peut occuper la majeure partie de l'espace de chargement supplémentaire. La consommation de carburant est très élevée en raison de ses performances, il faut donc prévoir le nécessaire.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Lightning.description>
+<!-- EN: Engine -->
+<VVE_Lightning.components.0.label>Moteur</VVE_Lightning.components.0.label>
+<!-- EN: Front Left Wheel -->
+<VVE_Lightning.components.1.label>Roue avant gauche</VVE_Lightning.components.1.label>
+<!-- EN: Front Right Wheel -->
+<VVE_Lightning.components.2.label>Roue avant droite</VVE_Lightning.components.2.label>
+<!-- EN: Back Left Wheel -->
+<VVE_Lightning.components.3.label>Roue arrière gauche</VVE_Lightning.components.3.label>
+<!-- EN: Back Right Wheel -->
+<VVE_Lightning.components.4.label>Roue arrière droite</VVE_Lightning.components.4.label>
+<!-- EN: Front Left Suspension -->
+<VVE_Lightning.components.5.label>Suspension avant gauche</VVE_Lightning.components.5.label>
+<!-- EN: Front Right Suspension -->
+<VVE_Lightning.components.6.label>Suspension avant droite</VVE_Lightning.components.6.label>
+<!-- EN: Back Left Suspension -->
+<VVE_Lightning.components.7.label>Suspension arrière gauche</VVE_Lightning.components.7.label>
+<!-- EN: Back Right Suspension -->
+<VVE_Lightning.components.8.label>Suspension arrière droite</VVE_Lightning.components.8.label>
+<!-- EN: Gearbox -->
+<VVE_Lightning.components.9.label>Boîte de vitesses</VVE_Lightning.components.9.label>
+<!-- EN: Left Side Panel -->
+<VVE_Lightning.components.10.label>Panneau latéral gauche</VVE_Lightning.components.10.label>
+<!-- EN: Right Side Panel -->
+<VVE_Lightning.components.11.label>Panneau latéral droit</VVE_Lightning.components.11.label>
+<!-- EN: Chemtank -->
+<VVE_Lightning.components.12.label>Réservoir</VVE_Lightning.components.12.label>
+<!-- EN: Front Bumper -->
+<VVE_Lightning.components.13.label>Pare-chocs avant</VVE_Lightning.components.13.label>
+<!-- EN: Rear Bumper -->
+<VVE_Lightning.components.14.label>Pare-chocs arrière</VVE_Lightning.components.14.label>
+<!-- EN: Upholstery -->
+<VVE_Lightning.components.15.label>Garniture</VVE_Lightning.components.15.label>
+<!-- EN: Dashboard -->
+<VVE_Lightning.components.16.label>Tableau de bord</VVE_Lightning.components.16.label>
+<!-- EN: Steering Wheel -->
+<VVE_Lightning.components.17.label>Volant</VVE_Lightning.components.17.label>
+<!-- EN: Alternator -->
+<VVE_Lightning.components.18.label>Alternateur</VVE_Lightning.components.18.label>
+<!-- EN: Hood -->
+<VVE_Lightning.components.19.label>Capot</VVE_Lightning.components.19.label>
+<!-- EN: Roof -->
+<VVE_Lightning.components.20.label>Toit</VVE_Lightning.components.20.label>
+<!-- EN: Driver -->
+<VVE_Lightning.properties.roles.0.label>Conducteur</VVE_Lightning.properties.roles.0.label>
+<!-- EN: Passenger -->
+<VVE_Lightning.properties.roles.1.label>Passager</VVE_Lightning.properties.roles.1.label>
+
+
+<!-- EN: Louie 
+<VVE_Louie_Blueprint.label>louie</VVE_Louie_Blueprint.label>-->
+<!-- EN: Hélicoptère de transport blindé, le Louie est un moyen de transport mobile, robuste et agile. Il n'a pas besoin de piste d'atterrissage et ne se désintègre pas au premier coup de feu.\n\nHélicoptère relativement polyvalent, il dispose d'une excellente capacité de chargement et de transport de passagers. Il dispose d'un certain blindage pour un aéronef, ce qui lui permet de se déployer et de s'extraire des zones de conflit.\n\n<color=#bb8f04>Équipage :</color> Pilote x1, Passager x5\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Louie_Blueprint.description>Hélicoptère de transport blindé, le Louie est un moyen de transport mobile, robuste et agile. Il n'a pas besoin de piste d'atterrissage et ne se désintègre pas au premier coup de feu.\n\nHélicoptère relativement polyvalent, il dispose d'une excellente capacité de chargement et de transport de passagers. Il dispose d'un certain blindage pour un aéronef, ce qui lui permet de se déployer et de s'extraire des zones de conflit.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Louie_Blueprint.description>-->
+
+<!-- EN: Louie -->
+<VVE_Louie.label>Louie</VVE_Louie.label>
+<!-- EN: An armoured transport aircraft, the Louie is a robust and agile mobile mode of transportation. Doesn’t require a landing strip and won’t fall apart at the first sign of fire.\n\nA relatively general purpose helicopter, it has both excellent cargo and passenger capacity. Has some armour for an aircraft, allowing it to deploy and extract from hot zones.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Louie.description>Hélicoptère de transport blindé, le Louie est un moyen de transport mobile, robuste et agile. Il n'a pas besoin de piste d'atterrissage et ne se désintègre pas au premier coup de feu.\n\nHélicoptère relativement polyvalent, il dispose d'une excellente capacité de chargement et de transport de passagers. Il dispose d'un certain blindage pour un aéronef, ce qui lui permet de se déployer et de s'extraire des zones de conflit.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Pilote x1, Passager x5\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Louie.description>
+<!-- EN: Left Landing Skid -->
+<VVE_Louie.components.0.label>Patin d'atterrissage gauche</VVE_Louie.components.0.label>
+<!-- EN: Right Landing Skid -->
+<VVE_Louie.components.1.label>Patin d'atterrissage droit</VVE_Louie.components.1.label>
+<!-- EN: Left Horizontal Stabilizer -->
+<VVE_Louie.components.2.label>Stabilisateur horizontal gauche</VVE_Louie.components.2.label>
+<!-- EN: Right Horizontal Stabilizer -->
+<VVE_Louie.components.3.label>Stabilisateur horizontal droit</VVE_Louie.components.3.label>
+<!-- EN: Engine -->
+<VVE_Louie.components.4.label>Moteur</VVE_Louie.components.4.label>
+<!-- EN: Fuel Intake -->
+<VVE_Louie.components.5.label>Admission de carburant</VVE_Louie.components.5.label>
+<!-- EN: Transmission -->
+<VVE_Louie.components.6.label>Transmission</VVE_Louie.components.6.label>
+<!-- EN: Rudder -->
+<VVE_Louie.components.7.label>Empennage</VVE_Louie.components.7.label>
+<!-- EN: Left Side Panel -->
+<VVE_Louie.components.8.label>Panneau latéral gauche</VVE_Louie.components.8.label>
+<!-- EN: Right Side Panel -->
+<VVE_Louie.components.9.label>Panneau latéral droit</VVE_Louie.components.9.label>
+<!-- EN: Chemtank -->
+<VVE_Louie.components.10.label>Réservoir</VVE_Louie.components.10.label>
+<!-- EN: Rotor Mast -->
+<VVE_Louie.components.11.label>Mât du rotor</VVE_Louie.components.11.label>
+<!-- EN: Upholstery -->
+<VVE_Louie.components.12.label>Garniture</VVE_Louie.components.12.label>
+<!-- EN: Dashboard -->
+<VVE_Louie.components.13.label>Tableau de bord</VVE_Louie.components.13.label>
+<!-- EN: Gearbox -->
+<VVE_Louie.components.14.label>Boîte de vitesses</VVE_Louie.components.14.label>
+<!-- EN: Servos -->
+<VVE_Louie.components.15.label>Servomoteurs</VVE_Louie.components.15.label>
+<!-- EN: Pilot -->
+<VVE_Louie.properties.roles.0.label>Pilote</VVE_Louie.properties.roles.0.label>
+<!-- EN: Passenger -->
+<VVE_Louie.properties.roles.1.label>Passager</VVE_Louie.properties.roles.1.label>
+
+
+<!-- EN: Marshal 
+<VVE_Marshal_Blueprint.label>marshal</VVE_Marshal_Blueprint.label>-->
+<!-- EN: Char de combat polyvalent, le Marshal est un véhicule de combat amélioré qui se comporte bien dans n'importe quel engagement. Il est plus performant sur les terrains moins favorables, car il est blindé de tous les côtés, le blindage le plus fin se trouvant à l'arrière, près du moteur.\n\nLes améliorations apportées au blindage sont minimes par rapport aux chars de niveau précédent. En revanche, il dispose d'un canon principal plus puissant et d'un canon secondaire. Il peut tirer en se déplaçant, car il a besoin d'un conducteur et de deux tireurs, un pour chaque système d'armement.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Tireur x1, Mitrailleur x1\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Marshal_Blueprint.description>Char de combat polyvalent, le Marshal est un véhicule de combat amélioré qui se comporte bien dans n'importe quel engagement. Il est plus performant sur les terrains moins favorables, car il est blindé de tous les côtés, le blindage le plus fin se trouvant à l'arrière, près du moteur.\n\nLes améliorations apportées au blindage sont minimes par rapport aux chars de niveau précédent. En revanche, il dispose d'un canon principal plus puissant et d'un canon secondaire. Il peut tirer en se déplaçant, car il a besoin d'un conducteur et de deux tireurs, un pour chaque système d'armement.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Mitrailleur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Marshal_Blueprint.description>-->
+
+<!-- EN: high-explosive shell -->
+<Bullet_Marshal_MainTurret.label>obus hautement explosif</Bullet_Marshal_MainTurret.label>
+
+<!-- EN: Marshal -->
+<VVE_Marshal.label>Marshal</VVE_Marshal.label>
+<!-- EN: A general main battle tank, the Marshal is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nMinimal armour improvements compared to previous tier tanks, instead it has a more powerful main gun and a secondary gun. Can fire while moving, as it requires one driver and two gunners; one for each weapon system.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Machine gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Marshal.description>Char de combat polyvalent, le Marshal est un véhicule de combat amélioré qui se comporte bien dans n'importe quel engagement. Il est plus performant sur les terrains moins favorables, car il est blindé de tous les côtés, le blindage le plus fin se trouvant à l'arrière, près du moteur.\n\nLes améliorations apportées au blindage sont minimes par rapport aux chars de niveau précédent. En revanche, il dispose d'un canon principal plus puissant et d'un canon secondaire. Il peut tirer en se déplaçant, car il a besoin d'un conducteur et de deux tireurs, un pour chaque système d'armement.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Tireur x1, Mitrailleur x1\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Marshal.description>
+<!-- EN: Engine -->
+<VVE_Marshal.components.0.label>Moteur</VVE_Marshal.components.0.label>
+<!-- EN: Left Track -->
+<VVE_Marshal.components.1.label>Chenille gauche</VVE_Marshal.components.1.label>
+<!-- EN: Right Track -->
+<VVE_Marshal.components.2.label>Chenille droite</VVE_Marshal.components.2.label>
+<!-- EN: Front Left Drive Sprocket -->
+<VVE_Marshal.components.3.label>Roue barbotin gauche</VVE_Marshal.components.3.label>
+<!-- EN: Front Right Drive Sprocket -->
+<VVE_Marshal.components.4.label>Roue barbotin droite</VVE_Marshal.components.4.label>
+<!-- EN: Back Left Drive Sprocket -->
+<VVE_Marshal.components.5.label>Roue folle/tendeur gauche</VVE_Marshal.components.5.label>
+<!-- EN: Back Right Drive Sprocket -->
+<VVE_Marshal.components.6.label>Roue folle/tendeur droite</VVE_Marshal.components.6.label>
+<!-- EN: Gearbox -->
+<VVE_Marshal.components.7.label>Boîte de vitesses</VVE_Marshal.components.7.label>
+<!-- EN: Front Armor Plating -->
+<VVE_Marshal.components.8.label>Plaque de blindage avant</VVE_Marshal.components.8.label>
+<!-- EN: Left Armor Plating -->
+<VVE_Marshal.components.9.label>Plaque de blindage gauche</VVE_Marshal.components.9.label>
+<!-- EN: Right Armor Plating -->
+<VVE_Marshal.components.10.label>Plaque de blindage droite</VVE_Marshal.components.10.label>
+<!-- EN: Rear Armor Plating -->
+<VVE_Marshal.components.11.label>Plaque de blindage arrière</VVE_Marshal.components.11.label>
+<!-- EN: Chemtank -->
+<VVE_Marshal.components.12.label>Réservoir</VVE_Marshal.components.12.label>
+<!-- EN: Dashboard -->
+<VVE_Marshal.components.13.label>Tableau de bord</VVE_Marshal.components.13.label>
+<!-- EN: Steering Apparatus -->
+<VVE_Marshal.components.14.label>Appareil de pilotage</VVE_Marshal.components.14.label>
+<!-- EN: Alternator -->
+<VVE_Marshal.components.15.label>Alternateur</VVE_Marshal.components.15.label>
+<!-- EN: Roof -->
+<VVE_Marshal.components.16.label>Toit</VVE_Marshal.components.16.label>
+<!-- EN: Main Turret -->
+<VVE_Marshal.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle</VVE_Marshal.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!-- EN: Mounted Turret -->
+<VVE_Marshal.comps.CompVehicleTurrets.turrets.1.gizmoLabel>Mitrailleuse</VVE_Marshal.comps.CompVehicleTurrets.turrets.1.gizmoLabel>
+<!-- EN: smokepop -->
+<VVE_Marshal.comps.CompReloadableWithVerbs.chargeNoun>fumigène</VVE_Marshal.comps.CompReloadableWithVerbs.chargeNoun>
+<!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. Right click to reload. -->
+<VVE_Marshal.comps.CompReloadableWithVerbs.commandDescriptions.0>Un écran de fumée défensif. Lorsqu'il est activé, il libère un nuage de fumée qui masque les tirs entrants et empêche les tourelles de se verrouiller. Il dispose de trois charges et doit être rechargé en chemfuel une fois qu'elles sont épuisées.</VVE_Marshal.comps.CompReloadableWithVerbs.commandDescriptions.0>
+<!-- EN: on cooldown -->
+<VVE_Marshal.comps.CompReloadableWithVerbs.cooldownGerund>en recharge</VVE_Marshal.comps.CompReloadableWithVerbs.cooldownGerund>
+<!-- EN: pop smoke -->
+<VVE_Marshal.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>fumigène</VVE_Marshal.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>
+<!-- EN: Driver -->
+<VVE_Marshal.properties.roles.0.label>Conducteur</VVE_Marshal.properties.roles.0.label>
+<!-- EN: Gunner -->
+<VVE_Marshal.properties.roles.1.label>Tireur</VVE_Marshal.properties.roles.1.label>
+<!-- EN: Machine Gunner -->
+<VVE_Marshal.properties.roles.2.label>Mitrailleur</VVE_Marshal.properties.roles.2.label>
+
+
+<!-- EN: Nomade 
+<VVE_Nomad_Blueprint.label>nomade</VVE_Nomad_Blueprint.label>-->
+<!-- EN: Véhicule blindé polyvalent, le Nomade est remarquablement performant dans toutes les catégories, avec une excellente capacité de chargement et de transport de passagers. Il se comporte bien sur tous les terrains, avec quelques problèmes mineurs dans le froid.\n\nIl s'agit d'un véhicule de niveau 3 à usage relativement général, qui est en fait un VBTT (Véhicule Blindé de Transport de Troupes) légèrement blindé. Bien qu'il excelle en matière de capacités tout-terrain et qu'il fonctionne bien dans toutes les situations, d'autres véhicules sont encore plus performants sur les routes ou pour des tâches spécialisées.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Passager x3\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Nomad_Blueprint.description>Véhicule blindé polyvalent, le Nomade est remarquablement performant dans toutes les catégories, avec une excellente capacité de chargement et de transport de passagers. Il se comporte bien sur tous les terrains, avec quelques problèmes mineurs dans le froid.\n\nIl s'agit d'un véhicule de niveau 3 à usage relativement général, qui est en fait un VBTT (Véhicule Blindé de Transport de Troupes) légèrement blindé. Bien qu'il excelle en matière de capacités tout-terrain et qu'il fonctionne bien dans toutes les situations, d'autres véhicules sont encore plus performants sur les routes ou pour des tâches spécialisées.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Nomad_Blueprint.description>-->
+
+<!-- EN: Nomad -->
+<VVE_Nomad.label>Nomade</VVE_Nomad.label>
+<!-- EN: An armoured all-rounder vehicle, the Nomad performs remarkably well in all categories with an excellent cargo and passenger capacity. Performs well in any and all terrain, with some minor issues in the cold.\n\nA relatively general purpose tier 3, effectively being a lightly armoured APC. While it excels in off road capabilities and works well in all situations, other vehicles perform even better on roads or in specialized tasks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Nomad.description>Véhicule blindé polyvalent, le Nomade est remarquablement performant dans toutes les catégories, avec une excellente capacité de chargement et de transport de passagers. Il se comporte bien sur tous les terrains, avec quelques problèmes mineurs dans le froid.\n\nIl s'agit d'un véhicule de niveau 3 à usage relativement général, qui est en fait un VBTT (Véhicule Blindé de Transport de Troupes) légèrement blindé. Bien qu'il excelle en matière de capacités tout-terrain et qu'il fonctionne bien dans toutes les situations, d'autres véhicules sont encore plus performants sur les routes ou pour des tâches spécialisées.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Nomad.description>
+<!-- EN: Engine -->
+<VVE_Nomad.components.0.label>Moteur</VVE_Nomad.components.0.label>
+<!-- EN: Front Left Wheel -->
+<VVE_Nomad.components.1.label>Roue avant gauche</VVE_Nomad.components.1.label>
+<!-- EN: Front Right Wheel -->
+<VVE_Nomad.components.2.label>Roue avant droite</VVE_Nomad.components.2.label>
+<!-- EN: Back Left Wheel -->
+<VVE_Nomad.components.3.label>Roue arrière gauche</VVE_Nomad.components.3.label>
+<!-- EN: Back Right Wheel -->
+<VVE_Nomad.components.4.label>Roue arrière droite</VVE_Nomad.components.4.label>
+<!-- EN: Front Left Suspension -->
+<VVE_Nomad.components.5.label>Suspension avant gauche</VVE_Nomad.components.5.label>
+<!-- EN: Front Right Suspension -->
+<VVE_Nomad.components.6.label>Suspension avant droite</VVE_Nomad.components.6.label>
+<!-- EN: Back Left Suspension -->
+<VVE_Nomad.components.7.label>Suspension arrière gauche</VVE_Nomad.components.7.label>
+<!-- EN: Back Right Suspension -->
+<VVE_Nomad.components.8.label>Suspension arrière droite</VVE_Nomad.components.8.label>
+<!-- EN: Gearbox -->
+<VVE_Nomad.components.9.label>Boîte de vitesses</VVE_Nomad.components.9.label>
+<!-- EN: Left Side Panel -->
+<VVE_Nomad.components.10.label>Panneau latéral gauche</VVE_Nomad.components.10.label>
+<!-- EN: Right Side Panel -->
+<VVE_Nomad.components.11.label>Panneau latéral droit</VVE_Nomad.components.11.label>
+<!-- EN: Front Panel Panel -->
+<VVE_Nomad.components.12.label>Panneau avant</VVE_Nomad.components.12.label>
+<!-- EN: Chemtank -->
+<VVE_Nomad.components.13.label>Réservoir</VVE_Nomad.components.13.label>
+<!-- EN: Front Bumper -->
+<VVE_Nomad.components.14.label>Pare-chocs avant</VVE_Nomad.components.14.label>
+<!-- EN: Rear Bumper -->
+<VVE_Nomad.components.15.label>Pare-chocs arrière</VVE_Nomad.components.15.label>
+<!-- EN: Upholstery -->
+<VVE_Nomad.components.16.label>Garniture</VVE_Nomad.components.16.label>
+<!-- EN: Dashboard -->
+<VVE_Nomad.components.17.label>Tableau de bord</VVE_Nomad.components.17.label>
+<!-- EN: Steering Wheel -->
+<VVE_Nomad.components.18.label>Volant</VVE_Nomad.components.18.label>
+<!-- EN: Alternator -->
+<VVE_Nomad.components.19.label>Alternateur</VVE_Nomad.components.19.label>
+<!-- EN: Hood -->
+<VVE_Nomad.components.20.label>Capot</VVE_Nomad.components.20.label>
+<!-- EN: Roof -->
+<VVE_Nomad.components.21.label>Toit</VVE_Nomad.components.21.label>
+<!-- EN: Driver -->
+<VVE_Nomad.properties.roles.0.label>Conducteur</VVE_Nomad.properties.roles.0.label>
+<!-- EN: Passenger -->
+<VVE_Nomad.properties.roles.1.label>Passager</VVE_Nomad.properties.roles.1.label>
+
+
+<!-- EN: Paladin 
+<VVE_Paladin_Blueprint.label>paladin</VVE_Paladin_Blueprint.label>-->
+<!-- EN: Le Paladin est un véhicule blindé de transport de troupes à usage général, rapide et robuste. Il dispose de soutes décentes, d'un blindage renforcé, d'une capacité tout-terrain et d'une tourelle à grenades fumigènes pour le déploiement des troupes. Les principaux inconvénients sont l'absence de chenilles pour une meilleure navigation sur le terrain et un blindage plus fin à l'arrière.\n\nPar rapport aux générations précédentes, ce VBTT (Véhicule Blindé de Transport de Troupes) est conçu pour déposer rapidement l'infanterie à l'endroit souhaité et se replier rapidement. Il peut servir de couverture temporaire, mais dans l'idéal, il devrait être capable de déployer sa cargaison et de la ramener à bon port.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Mitrailleur x1, Passager x6\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Paladin_Blueprint.description>Le Paladin est un véhicule blindé de transport de troupes à usage général, rapide et robuste. Il dispose de soutes décentes, d'un blindage renforcé, d'une capacité tout-terrain et d'une tourelle à grenades fumigènes pour le déploiement des troupes. Les principaux inconvénients sont l'absence de chenilles pour une meilleure navigation sur le terrain et un blindage plus fin à l'arrière.\n\nPar rapport aux générations précédentes, ce VBTT (Véhicule Blindé de Transport de Troupes) est conçu pour déposer rapidement l'infanterie à l'endroit souhaité et se replier rapidement. Il peut servir de couverture temporaire, mais dans l'idéal, il devrait être capable de déployer sa cargaison et de la ramener à bon port.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Mitrailleur x1, Passager x6\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Paladin_Blueprint.description>-->
+
+<!-- EN: Paladin -->
+<VVE_Paladin.label>Paladin</VVE_Paladin.label>
+<!-- EN: A general purpose armoured personnel carrier, the Paladin is a fast and hardy troop transport. Decent cargo holds, reinforced armour plating, all-terrain capability and a smoke grenade turret for screening troop deployment. The major downsides are no tracks for better terrain navigation and thinner plating on the rear.\n\nCompared to previous generations, this APC is designed to quickly drop infantry off at a desired location and quickly retreat. It can act as temporary cover but ideally it should be able to deploy its cargo and bring it home safely.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x6\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Paladin.description>Le Paladin est un véhicule blindé de transport de troupes à usage général, rapide et robuste. Il dispose de soutes décentes, d'un blindage renforcé, d'une capacité tout-terrain et d'une tourelle à grenades fumigènes pour le déploiement des troupes. Les principaux inconvénients sont l'absence de chenilles pour une meilleure navigation sur le terrain et un blindage plus fin à l'arrière.\n\nPar rapport aux générations précédentes, ce VBTT (Véhicule Blindé de Transport de Troupes) est conçu pour déposer rapidement l'infanterie à l'endroit souhaité et se replier rapidement. Il peut servir de couverture temporaire, mais dans l'idéal, il devrait être capable de déployer sa cargaison et de la ramener à bon port.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Mitrailleur x1, Passager x6\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Paladin.description>
+<!-- EN: Engine -->
+<VVE_Paladin.components.0.label>Moteur</VVE_Paladin.components.0.label>
+<!-- EN: First Left Wheel -->
+<VVE_Paladin.components.1.label>Première roue gauche</VVE_Paladin.components.1.label>
+<!-- EN: Second Left Wheel -->
+<VVE_Paladin.components.2.label>Deuxième roue gauche</VVE_Paladin.components.2.label>
+<!-- EN: Third Left Wheel -->
+<VVE_Paladin.components.3.label>Troisième roue gauche</VVE_Paladin.components.3.label>
+<!-- EN: Fourth Left Wheel -->
+<VVE_Paladin.components.4.label>Quatrième roue gauche</VVE_Paladin.components.4.label>
+<!-- EN: First Right Wheel -->
+<VVE_Paladin.components.5.label>Première roue droite</VVE_Paladin.components.5.label>
+<!-- EN: Second Right Wheel -->
+<VVE_Paladin.components.6.label>Deuxième roue droite</VVE_Paladin.components.6.label>
+<!-- EN: Third Right Wheel -->
+<VVE_Paladin.components.7.label>Troisième roue droite</VVE_Paladin.components.7.label>
+<!-- EN: Fourth Right Wheel -->
+<VVE_Paladin.components.8.label>Quatrième roue droite</VVE_Paladin.components.8.label>
+<!-- EN: First Left Suspension -->
+<VVE_Paladin.components.9.label>Première suspension gauche</VVE_Paladin.components.9.label>
+<!-- EN: Second Left Suspension -->
+<VVE_Paladin.components.10.label>Deuxième suspension gauche</VVE_Paladin.components.10.label>
+<!-- EN: Third Left Suspension -->
+<VVE_Paladin.components.11.label>Troisième suspension gauche</VVE_Paladin.components.11.label>
+<!-- EN: Fourth Left Suspension -->
+<VVE_Paladin.components.12.label>Quatrième suspension gauche</VVE_Paladin.components.12.label>
+<!-- EN: First Right Suspension -->
+<VVE_Paladin.components.13.label>Première suspension droite</VVE_Paladin.components.13.label>
+<!-- EN: Second Right Suspension -->
+<VVE_Paladin.components.14.label>Deuxième suspension droite</VVE_Paladin.components.14.label>
+<!-- EN: Third Right Suspension -->
+<VVE_Paladin.components.15.label>Troisième suspension droite</VVE_Paladin.components.15.label>
+<!-- EN: Fourth Right Suspension -->
+<VVE_Paladin.components.16.label>Quatrième suspension droite</VVE_Paladin.components.16.label>
+<!-- EN: Gearbox -->
+<VVE_Paladin.components.17.label>Boîte de vitesses</VVE_Paladin.components.17.label>
+<!-- EN: Front Armor Plating -->
+<VVE_Paladin.components.18.label>Plaque de blindage avant</VVE_Paladin.components.18.label>
+<!-- EN: Left Armor Plating -->
+<VVE_Paladin.components.19.label>Plaque de blindage gauche</VVE_Paladin.components.19.label>
+<!-- EN: Right Armor Plating -->
+<VVE_Paladin.components.20.label>Plaque de blindage droite</VVE_Paladin.components.20.label>
+<!-- EN: Rear Armor Plating -->
+<VVE_Paladin.components.21.label>Plaque de blindage arrière</VVE_Paladin.components.21.label>
+<!-- EN: Chemtank -->
+<VVE_Paladin.components.22.label>Réservoir</VVE_Paladin.components.22.label>
+<!-- EN: Dashboard -->
+<VVE_Paladin.components.23.label>Tableau de bord</VVE_Paladin.components.23.label>
+<!-- EN: Steering Apparatus -->
+<VVE_Paladin.components.24.label>Appareil de pilotage</VVE_Paladin.components.24.label>
+<!-- EN: Alternator -->
+<VVE_Paladin.components.25.label>Alternateur</VVE_Paladin.components.25.label>
+<!-- EN: Roof -->
+<VVE_Paladin.components.26.label>Toit</VVE_Paladin.components.26.label>
+<!-- EN: Main Turret -->
+<VVE_Paladin.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle lance-grenades</VVE_Paladin.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!-- EN: Driver -->
+<VVE_Paladin.properties.roles.0.label>Conducteur</VVE_Paladin.properties.roles.0.label>
+<!-- EN: Gunner -->
+<VVE_Paladin.properties.roles.1.label>Mitrailleur</VVE_Paladin.properties.roles.1.label>
+<!-- EN: Passenger -->
+<VVE_Paladin.properties.roles.2.label>Passager</VVE_Paladin.properties.roles.2.label>
+
+
+
+<!-- EN: Springbok 
+<VVE_Springbok_Blueprint.label>springbok</VVE_Springbok_Blueprint.label>-->
+<!-- EN: Véhicule polyvalent, le Springbok est performant dans toutes les catégories et offre une bonne capacité de chargement et de transport de passagers. Sa construction ancienne et robuste et son moteur bruyant ont un impact négatif sur sa consommation de carburant et sa visibilité. Mieux adapté aux routes plates, il éprouve quelques difficultés sur les collines, la neige ou les tuiles d'hiver.\n\nUn peu moins performant que les véhicules de niveau 2, c'est en revanche un véhicule élégant à conduire et qui met de bonne humeur tous ses passagers.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Passager x3\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Springbok_Blueprint.description>Véhicule polyvalent, le Springbok est performant dans toutes les catégories et offre une bonne capacité de chargement et de transport de passagers. Sa construction ancienne et robuste et son moteur bruyant ont un impact négatif sur sa consommation de carburant et sa visibilité. Mieux adapté aux routes plates, il éprouve quelques difficultés sur les collines, la neige ou les tuiles d'hiver.\n\nUn peu moins performant que les véhicules de niveau 2, c'est en revanche un véhicule élégant à conduire et qui met de bonne humeur tous ses passagers.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Springbok_Blueprint.description>-->
+
+<!-- EN: Springbok -->
+<VVE_Springbok.label>Springbok</VVE_Springbok.label>
+<!-- EN: A general all-rounder vehicle, the Springbok performs well in all categories with a good cargo and passenger capacity. The old, robust build and loud engine negatively affect its fuel efficiency and visibility. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nA slightly worse performer compared to tier 2 vehicles, it is instead a stylish vehicle to drive and will provide a mood boost to all passengers.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Springbok.description>Véhicule polyvalent, le Springbok est performant dans toutes les catégories et offre une bonne capacité de chargement et de transport de passagers. Sa construction ancienne et robuste et son moteur bruyant ont un impact négatif sur sa consommation de carburant et sa visibilité. Mieux adapté aux routes plates, il éprouve quelques difficultés sur les collines, la neige ou les tuiles d'hiver.\n\nUn peu moins performant que les véhicules de niveau 2, c'est en revanche un véhicule élégant à conduire et qui met de bonne humeur tous ses passagers.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Passager x3\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Springbok.description>
+<!-- EN: Engine -->
+<VVE_Springbok.components.0.label>Moteur</VVE_Springbok.components.0.label>
+<!-- EN: Front Left Wheel -->
+<VVE_Springbok.components.1.label>Roue avant gauche</VVE_Springbok.components.1.label>
+<!-- EN: Front Right Wheel -->
+<VVE_Springbok.components.2.label>Roue avant droite</VVE_Springbok.components.2.label>
+<!-- EN: Back Left Wheel -->
+<VVE_Springbok.components.3.label>Roue arrière gauche</VVE_Springbok.components.3.label>
+<!-- EN: Back Right Wheel -->
+<VVE_Springbok.components.4.label>Roue arrière droite</VVE_Springbok.components.4.label>
+<!-- EN: Front Left Suspension -->
+<VVE_Springbok.components.5.label>Suspension avant gauche</VVE_Springbok.components.5.label>
+<!-- EN: Front Right Suspension -->
+<VVE_Springbok.components.6.label>Suspension avant droite</VVE_Springbok.components.6.label>
+<!-- EN: Back Left Suspension -->
+<VVE_Springbok.components.7.label>Suspension arrière gauche</VVE_Springbok.components.7.label>
+<!-- EN: Back Right Suspension -->
+<VVE_Springbok.components.8.label>Suspension arrière droite</VVE_Springbok.components.8.label>
+<!-- EN: Gearbox -->
+<VVE_Springbok.components.9.label>Boîte de vitesses</VVE_Springbok.components.9.label>
+<!-- EN: Left Side Panel -->
+<VVE_Springbok.components.10.label>Panneau latéral gauche</VVE_Springbok.components.10.label>
+<!-- EN: Right Side Panel -->
+<VVE_Springbok.components.11.label>Panneau latéral droit</VVE_Springbok.components.11.label>
+<!-- EN: Chemtank -->
+<VVE_Springbok.components.12.label>Réservoir</VVE_Springbok.components.12.label>
+<!-- EN: Front Bumper -->
+<VVE_Springbok.components.13.label>Pare-chocs avant</VVE_Springbok.components.13.label>
+<!-- EN: Rear Bumper -->
+<VVE_Springbok.components.14.label>Pare-chocs arrière</VVE_Springbok.components.14.label>
+<!-- EN: Upholstery -->
+<VVE_Springbok.components.15.label>Garniture</VVE_Springbok.components.15.label>
+<!-- EN: Dashboard -->
+<VVE_Springbok.components.16.label>Tableau de bord</VVE_Springbok.components.16.label>
+<!-- EN: Steering Wheel -->
+<VVE_Springbok.components.17.label>Volant</VVE_Springbok.components.17.label>
+<!-- EN: Alternator -->
+<VVE_Springbok.components.18.label>Alternateur</VVE_Springbok.components.18.label>
+<!-- EN: Hood -->
+<VVE_Springbok.components.19.label>Capot</VVE_Springbok.components.19.label>
+<!-- EN: Roof -->
+<VVE_Springbok.components.20.label>Toit</VVE_Springbok.components.20.label>
+<!-- EN: Driver -->
+<VVE_Springbok.properties.roles.0.label>Conducteur</VVE_Springbok.properties.roles.0.label>
+<!-- EN: Passenger -->
+<VVE_Springbok.properties.roles.1.label>Passager</VVE_Springbok.properties.roles.1.label>
+
+
+<!-- EN: Udar 
+<VVE_Udar_Blueprint.label>udar</VVE_Udar_Blueprint.label>-->
+<!-- EN: Unité d'artillerie spécialisée, l'Udar est une arme de siège à longue portée qui peut être utilisée par un équipage de deux personnes pour des vitesses de chargement plus rapides. Ses réserves de carburant, petites et inefficaces, sont son facteur limitant, car il peut traverser n'importe quel terrain sans problème.\n\nCible prioritaire et sans défense, seul ou à courte distance, surtout avec son mince blindage arrière, un Udar bien défendu peut lancer de brefs barrages d'obus de mortier et se repositionner hors de danger.\n\n<color=#bb8f04>Équipage :</color> Conducteur x1, Artilleur x2\n<color=#bb8f04>Type de carburant :</color> Chemfuel 
+<VVE_Udar_Blueprint.description>Unité d'artillerie spécialisée, l'Udar est une arme de siège à longue portée qui peut être utilisée par un équipage de deux personnes pour des vitesses de chargement plus rapides. Ses réserves de carburant, petites et inefficaces, sont son facteur limitant, car il peut traverser n'importe quel terrain sans problème.\n\nCible prioritaire et sans défense, seul ou à courte distance, surtout avec son mince blindage arrière, un Udar bien défendu peut lancer de brefs barrages d'obus de mortier et se repositionner hors de danger.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Artilleur x2\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Udar_Blueprint.description>-->
+
+<!-- EN: Udar -->
+<VVE_Udar.label>Udar</VVE_Udar.label>
+<!-- EN: A dedicated artillery unit, the Udar is a long-range siege weapon that can be operated by a two-man crew for faster loading speeds. Small and inefficient fuel reserves are its limiting factor, as it can drive through any terrain without issue.\n\nA priority target and defenseless by itself or in close range, especially with its thin rear plating, a well-defended Udar can lay down quick barrages of mortar shells and reposition out of danger.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel -->
+<VVE_Udar.description>Unité d'artillerie spécialisée, l'Udar est une arme de siège à longue portée qui peut être utilisée par un équipage de deux personnes pour des vitesses de chargement plus rapides. Ses réserves de carburant, petites et inefficaces, sont son facteur limitant, car il peut traverser n'importe quel terrain sans problème.\n\nCible prioritaire et sans défense, seul ou à courte distance, surtout avec son mince blindage arrière, un Udar bien défendu peut lancer de brefs barrages d'obus de mortier et se repositionner hors de danger.\n\n&lt;color=#bb8f04&gt;Équipage :&lt;/color&gt; Conducteur x1, Artilleur x2\n&lt;color=#bb8f04&gt;Type de carburant :&lt;/color&gt; Chemfuel</VVE_Udar.description>
+<!-- EN: Engine -->
+<VVE_Udar.components.0.label>Moteur</VVE_Udar.components.0.label>
+<!-- EN: Left Track -->
+<VVE_Udar.components.1.label>Chenille gauche</VVE_Udar.components.1.label>
+<!-- EN: Right Track -->
+<VVE_Udar.components.2.label>Chenille droite</VVE_Udar.components.2.label>
+<!-- EN: Front Left Drive Sprocket -->
+<VVE_Udar.components.3.label>Roue barbotin gauche</VVE_Udar.components.3.label>
+<!-- EN: Front Right Drive Sprocket -->
+<VVE_Udar.components.4.label>Roue barbotin droite</VVE_Udar.components.4.label>
+<!-- EN: Back Left Drive Sprocket -->
+<VVE_Udar.components.5.label>Roue folle/tendeur gauche</VVE_Udar.components.5.label>
+<!-- EN: Back Right Drive Sprocket -->
+<VVE_Udar.components.6.label>Roue folle/tendeur droite</VVE_Udar.components.6.label>
+<!-- EN: Gearbox -->
+<VVE_Udar.components.7.label>Boîte de vitesses</VVE_Udar.components.7.label>
+<!-- EN: Front Armor Plating -->
+<VVE_Udar.components.8.label>Plaque de blindage avant</VVE_Udar.components.8.label>
+<!-- EN: Left Armor Plating -->
+<VVE_Udar.components.9.label>Plaque de blindage gauche</VVE_Udar.components.9.label>
+<!-- EN: Right Armor Plating -->
+<VVE_Udar.components.10.label>Plaque de blindage droite</VVE_Udar.components.10.label>
+<!-- EN: Rear Armor Plating -->
+<VVE_Udar.components.11.label>Plaque de blindage arrière</VVE_Udar.components.11.label>
+<!-- EN: Chemtank -->
+<VVE_Udar.components.12.label>Réservoir</VVE_Udar.components.12.label>
+<!-- EN: Dashboard -->
+<VVE_Udar.components.13.label>Tableau de bord</VVE_Udar.components.13.label>
+<!-- EN: Steering Apparatus -->
+<VVE_Udar.components.14.label>Appareil de pilotage</VVE_Udar.components.14.label>
+<!-- EN: Alternator -->
+<VVE_Udar.components.15.label>Alternateur</VVE_Udar.components.15.label>
+<!-- EN: Roof -->
+<VVE_Udar.components.16.label>Toit</VVE_Udar.components.16.label>
+<!-- EN: Main Turret -->
+<VVE_Udar.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Tourelle d'artillerie</VVE_Udar.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+<!-- EN: Driver -->
+<VVE_Udar.properties.roles.0.label>Conducteur</VVE_Udar.properties.roles.0.label>
+<!-- EN: Gunner -->
+<VVE_Udar.properties.roles.1.label>Artilleur</VVE_Udar.properties.roles.1.label>
+
+
+</LanguageData>

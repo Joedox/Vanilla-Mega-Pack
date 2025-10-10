@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Cultured.label>cultivé</VME_Cultured.label>
+<VME_Cultured.description>Lire et transmettre son savoir est une mission des plus érudites, qui devrait susciter un grand enthousiasme.</VME_Cultured.description>
+<VME_Cultured.descriptionMaker.rules.rulesStrings>
+	<!-- theist myth -->
+	<li>creation(tag=meme_Cultured)        ->[deity0_name] a enseigné à tous ses disciples les secrets de l'écriture : "Ecris dans un livre toutes les paroles que je t'ai dites."</li>
+	<li>episode(uses=1,tag=meme_Cultured)  ->[deity0_name] dit à tous les [memberNamePlural] : "Tout scribe qui est devenu disciple du royaume des cieux est semblable à un chef de famille, qui tire de son trésor des choses nouvelles et anciennes."</li>
+	<!-- theist founder -->
+	<li>intro(tag=meme_Cultured)           ->[memberNamePlural] ont construit une grande bibliothèque sur la [place_summary] [place_name], et l'ont rempli de livres et de parchemins merveilleux contenant la sagesse de leurs ancêtres.</li>
+	<li>conflict(tag=meme_Cultured)        ->Un [foeLeader] simplet, cherchant à nier la volonté de [deity0_name], a dit à ses [foeSoldiers] de réduire en cendres tout le savoir, car[foeLeader_pronoun] était un anti-intellectuel enragé.</li>
+	<li>founderJoin(tag=meme_Cultured)     ->[deity0_name] a béni un [place_job] nommé [founderName] avec son savoir infini, et [founder_pronoun] a transcrit tout le savoir des [memberNamePlural] en noyaux de données quasi indestructibles.</li>
+	<li>victory(tag=meme_Cultured)         ->Les [foeSoldiers] ont réussi à brûler et à détruire tous les anciens livres des [memberNamePlural] , mais cela n'avait aucune importance : les données étaient déjà en sécurité grâce aux efforts de [founderName].</li>
+	<!-- ideological founder -->
+	<li>setup(tag=meme_Cultured)           ->Notre fondateur [founderName] était un écrivain, l'un des plus grands que la galaxie ait jamais connu. Sa prose vous permettait de visiter des mondes lointains et de vous perdre dans des fantasmes complexes.</li>
+	<li>story(uses=1,tag=meme_Cultured)    ->[founderName] nous a appris qu'une société qui ne valorise pas la tradition par écrit est perdue.</li>
+	<!-- ideological lesson -->
+	<li>lessonIntro(tag=meme_Cultured)         ->J'ai écrit des livres pendant la majeure partie de ma vie, et j'ai appris une chose essentielle :</li>
+	<li>lesson(tag=meme_Cultured)              ->il n'y a pas de plus grande agonie que de porter une histoire non racontée en soi</li>
+	<li>lessonReinforcement(tag=meme_Cultured) ->S'il y a un livre que vous voulez lire, mais qui n'a pas encore été écrit, alors vous devez l'écrire.</li>
+	<!-- archist -->
+	<li>archistBasis(tag=meme_Cultured)    ->Les archotechs accordent une grande importance à la connaissance et respectent les traditions manuscrites de l'humanité.</li>
+	<li>archistFact(tag=meme_Cultured)     ->Les archontechs ne voudraient pas que nous soyons des simplets sans éducation, avançant dans la vie comme des automates sans cervelle.</li>
+	<li>archistProphecy(tag=meme_Cultured) ->[inTheEnd], les archotechs ne choisiront pour la transcendance que ceux qui sont suffisamment cultivés et éduqués.</li>
+	<!-- animist -->
+	<li>animistFact(tag=meme_Cultured)     ->Les esprits veulent que nous développions notre intelligence, que nous soyons cultivés et éduqués, car un esprit simple est offensant pour eux.</li>
+	<!-- serketist -->
+	<li>serketistProphecy(tag=meme_Cultured)->[itIsSaid] nous fixerons les connaissances des insectes dans des tablettes d'obsidiennes, afin que leurs paroles divines ne puissent être effacées par le passage du temps.</li>
+	<!-- eldritch / chthonian -->
+	<li>chthonianProphecy(tag=meme_Cultured)->Un tome noir de magie interdite contiendrait des informations sur la folie de ces intelligences transhumanises. Peut-être nos scribes déchiffreront-ils un jour le message eldritch.</li>
+	<!-- esoteric -->
+	<li>esotericismProphecy(tag=meme_Cultured)->Seule une étude minutieuse des textes les plus obscurs peut nous permettre de percer ces secrets.</li>
+	<!-- eschatologism -->
+	<li>eschatologismFact(tag=meme_Cultured)->Trois parchemins écrits avec le sang et en peau humaine de nos ennemis seront le testament de notre victoire, et en les voyant, nos ennemis ne connaîtront que la peur.</li>
+	<!-- corporate -->
+	<li>introMemo(tag=meme_Cultured)->Je suis si fatigué, si fatigué d'avoir à vous rappeler ceci... S'il vous plaît, pour tout ce qui est saint, DOCUMENTEZ VOTRE CODE ! Un code non documenté est inutile au bout du compte, et je ne veux pas avoir à former le prochain développeur pour qu'il déchiffre les vagues divagations du code de la dernière personne qui a "commodément oublié" de le faire ! Allez, tout le monde !</li>
+</VME_Cultured.descriptionMaker.rules.rulesStrings>
+<VME_Cultured.generalRules.rulesStrings>
+	<li>memeAdjective->cultivé</li>
+	<li>memeAdjective->éclairé</li>
+	<li>memeAdjective->bien instruit</li>
+	<li>memeAdjective->érudit</li>
+	<li>memeAdjective->bien informé</li>
+	<li>memeConcept->écriture de livres</li>
+	<li>memeConcept->lecture</li>
+	<li>memeLeaderNoun->documentaliste</li>
+	<li>memeMoralist->scribe</li>
+</VME_Cultured.generalRules.rulesStrings>
+<VME_Cultured.symbolPacks.0.adjective>cultivé</VME_Cultured.symbolPacks.0.adjective>
+<VME_Cultured.symbolPacks.0.ideoName>Cultivé</VME_Cultured.symbolPacks.0.ideoName>
+<VME_Cultured.symbolPacks.0.member>lecteur</VME_Cultured.symbolPacks.0.member>
+<VME_Cultured.symbolPacks.0.theme>livre</VME_Cultured.symbolPacks.0.theme>
+<VME_Cultured.symbolPacks.1.adjective>écrire</VME_Cultured.symbolPacks.1.adjective>
+<VME_Cultured.symbolPacks.1.ideoName>Écriture</VME_Cultured.symbolPacks.1.ideoName>
+<VME_Cultured.symbolPacks.1.member>écrivain</VME_Cultured.symbolPacks.1.member>
+<VME_Cultured.symbolPacks.1.theme>écriture</VME_Cultured.symbolPacks.1.theme>
+
+
+</LanguageData>

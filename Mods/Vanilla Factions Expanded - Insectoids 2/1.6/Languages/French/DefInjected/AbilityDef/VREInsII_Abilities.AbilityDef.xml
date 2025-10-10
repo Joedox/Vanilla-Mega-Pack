@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: fuel spew -->
+<VFEI2_ChemfuelSpew.label>gerbe de carburant</VFEI2_ChemfuelSpew.label>
+<!-- EN: Discharge a stream of liquid chemfuel from the mouth. This liquid, when released, can coat any object or individual it contacts, without igniting or causing immediate combustion. The chemfuel is synthesized and stored within a specialized organ in the neck area. -->
+<VFEI2_ChemfuelSpew.description>Projette un jet de chemfuel liquide à partir de la gueule. Ce liquide, une fois libéré, peut recouvrir tout objet ou individu avec lequel il entre en contact, mais sans prendre feu ni provoquer de combustion immédiate. Le chemfuel est synthétisé et stocké dans un organe spécialisé situé dans la région du cou.</VFEI2_ChemfuelSpew.description>
+
+<!-- EN: chemfuel spit -->
+<VFEI2_ChemfuelSpit.label>crachat de chemfuel</VFEI2_ChemfuelSpit.label>
+<!-- EN: Titantick vomits a giant blob of burning chemfuel over a large distance. -->
+<VFEI2_ChemfuelSpit.description>Le titantique vomit une énorme boule de chemfuel brûlant sur une grande distance.</VFEI2_ChemfuelSpit.description>
+
+<!-- EN: flame spew -->
+<VFEI2_FlameSpew.label>gerbe de flamme</VFEI2_FlameSpew.label>
+<!-- EN: Eject a flow of adhesive, combustible fluid from the oral cavity. This fluid, upon contact, can set ablaze any target or create burning patches upon surfaces. It is produced and held within a gland located in the throat, accompanied by a distinct sac filled with a spontaneously igniting chemical, ensuring immediate combustion upon expulsion. -->
+<VFEI2_FlameSpew.description>Ejecte un flux de liquide adhésif et combustible de la cavité buccale. Ce fluide, à son contact, peut enflammer n'importe quelle cible ou créer des taches brûlantes sur les surfaces. Il est produit et conservé dans une glande située dans la gorge, accompagnée d'une poche distincte remplie d'un produit chimique qui s'enflamme spontanément, assurant une combustion immédiate lors de l'expulsion.</VFEI2_FlameSpew.description>
+
+<!-- EN: insect acid spew -->
+<VFEI2_InsectAcidSpew.label>gerbe d'insecte acide</VFEI2_InsectAcidSpew.label>
+<!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them. -->
+<VFEI2_InsectAcidSpew.description>L'insectoïde pulvérise une substance acide collante à partir de glandes situées dans le cou, sur toute la zone ciblée. L'acide colle aux cibles et les brûle.</VFEI2_InsectAcidSpew.description>
+
+<!-- EN: insect acid spit -->
+<VFEI2_InsectAcidSpit.label>crachat d'insecte acide</VFEI2_InsectAcidSpit.label>
+<!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them. -->
+<VFEI2_InsectAcidSpit.description>L'insectoïde pulvérise une substance acide collante à partir de glandes situées dans le cou, sur toute la zone ciblée. L'acide colle aux cibles et les brûle.</VFEI2_InsectAcidSpit.description>
+
+<!-- EN: insect farglide -->
+<VFEI2_InsectGlide_Far.label>vol d'insecte</VFEI2_InsectGlide_Far.label>
+<!-- EN: Insectoid does a wing-assisted jump to a very distant location using strong hind legs. -->
+<VFEI2_InsectGlide_Far.description>L'insectoïde effectue un saut à l'aide de ses ailes vers un endroit très éloigné en s'aidant de ses puissantes pattes arrière.</VFEI2_InsectGlide_Far.description>
+<!-- EN: insect farglide -->
+<VFEI2_InsectGlide_Far.verbProperties.label>vol d'insecte</VFEI2_InsectGlide_Far.verbProperties.label>
+
+<!-- EN: insect glide -->
+<VFEI2_InsectGlide_Medium.label>saut d'insecte</VFEI2_InsectGlide_Medium.label>
+<!-- EN: Insectoid does a wing-assisted jump to a location using strong hind legs. -->
+<VFEI2_InsectGlide_Medium.description>L'insectoïde saute à l'aide de ses ailes vers un endroit en utilisant ses puissantes pattes arrière.</VFEI2_InsectGlide_Medium.description>
+<!-- EN: insect glide -->
+<VFEI2_InsectGlide_Medium.verbProperties.label>saut d'insecte</VFEI2_InsectGlide_Medium.verbProperties.label>
+
+<!-- EN: insect shortglide -->
+<VFEI2_InsectGlide_Short.label>bond d'insecte</VFEI2_InsectGlide_Short.label>
+<!-- EN: Insectoid does a wing-assisted jump to a close location using strong hind legs. -->
+<VFEI2_InsectGlide_Short.description>L'insectoïde saute à l'aide de ses ailes vers un endroit proche en utilisant ses puissantes pattes arrière.</VFEI2_InsectGlide_Short.description>
+<!-- EN: insect shortglide -->
+<VFEI2_InsectGlide_Short.verbProperties.label>bond d'insecte</VFEI2_InsectGlide_Short.verbProperties.label>
+
+<!-- EN: large acid spew -->
+<VFEI2_LargeAcidSpew.label>grande gerbe d'acide</VFEI2_LargeAcidSpew.label>
+<!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid deals damage over time. -->
+<VFEI2_LargeAcidSpew.description>L'insectoïde pulvérise une substance acide collante à partir de glandes situées dans le cou, en passant par la gueule, et sur toute la zone ciblée. L'acide inflige des dégâts sur la durée.</VFEI2_LargeAcidSpew.description>
+
+<!-- EN: breacher charge -->
+<VFEI2_WideTunnels.label>charge destructive</VFEI2_WideTunnels.label>
+<!-- EN: Insectoid charges towards the target, dealing significant damage to anything on the path. Will destroy any sort of defenses with ease. -->
+<VFEI2_WideTunnels.description>L'insectoïde charge vers la cible, infligeant d'importants dégâts à tout ce qui se trouve sur son chemin. Il détruit facilement toutes les défenses.</VFEI2_WideTunnels.description>
+<!-- EN: wide tunnels -->
+<VFEI2_WideTunnels.verbProperties.label>larges tunnels</VFEI2_WideTunnels.verbProperties.label>
+
+
+<!-- EN: create small burrow -->
+<VFEI2_CreateSmallBurrow.label>petit terrier</VFEI2_CreateSmallBurrow.label>
+<!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a small burrow. -->
+<VFEI2_CreateSmallBurrow.description>Le patriarche émet des vibrations qui incitent la caste royale des insectes à creuser à la surface, créant ainsi un petit terrier.</VFEI2_CreateSmallBurrow.description>
+
+<!-- EN: create burrow -->
+<VFEI2_CreateMediumBurrow.label>terrier</VFEI2_CreateMediumBurrow.label>
+<!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a medium burrow. -->
+<VFEI2_CreateMediumBurrow.description>Le patriarche émet des vibrations qui incitent la caste royale des insectes à creuser à la surface, créant ainsi un terrier.</VFEI2_CreateMediumBurrow.description>
+
+<!-- EN: create large burrow -->
+<VFEI2_CreateLargeBurrow.label>grand terrier</VFEI2_CreateLargeBurrow.label>
+<!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a large burrow. -->
+<VFEI2_CreateLargeBurrow.description>Le patriarche émet des vibrations qui incitent la caste royale des insectes à creuser à la surface, créant ainsi un grand terrier.</VFEI2_CreateLargeBurrow.description>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: haute cuisine -->
+<VCE_HauteCuisine.label>haute cuisine</VCE_HauteCuisine.label>
+<!-- EN: Haute cuisine is the pinnacle of culinary artistry, emphasizing meticulous preparation, refined techniques, and exquisite presentation. It transforms the finest ingredients into visually stunning and harmoniously balanced dishes, elevating dining to an experience of sophistication. This research also unlocks the haute section, a specialized workstation for crafting these masterful creations. -->
+<VCE_HauteCuisine.description>La haute cuisine est le summum de l'art culinaire. Elle met l'accent sur une préparation méticuleuse, des techniques raffinées et une présentation exquise. Elle transforme les ingrédients les plus fins en plats visuellement étonnants et harmonieusement équilibrés, élevant le repas au rang d'expérience sophistiquée. Cette recherche permet également de découvrir la haute section, un poste de travail spécialisé dans l'élaboration de ces créations magistrales.</VCE_HauteCuisine.description>
+<!-- EN:
+  <li>subject->culinary artistry</li>
+  <li>subject_story->perfected the delicate balance of flavors, elevating cooking to an art form</li>
+  <li>subject_story->trained under master chefs, mastering techniques passed down through generations</li>
+  <li>subject_story->founded an elite dining establishment, attracting nobles and connoisseurs alike</li>
+  <li>subject_gerund->crafting exquisite haute dishes</li>
+-->
+<VCE_HauteCuisine.generalRules.rulesStrings>
+  <li>subject->l'art culinaire</li>
+  <li>subject_story->a perfectionné l'équilibre délicat des saveurs, élevant la cuisine au rang d'art</li>
+  <li>subject_story->a suivi une formation auprès de grands chefs, maîtrisant des techniques transmises de génération en génération</li>
+  <li>subject_story->a fondé un restaurant d'élite, attirant nobles et connaisseurs</li>
+  <li>subject_gerund->l'élaboration de hauts plats exquis</li>
+</VCE_HauteCuisine.generalRules.rulesStrings>
+
+
+</LanguageData>

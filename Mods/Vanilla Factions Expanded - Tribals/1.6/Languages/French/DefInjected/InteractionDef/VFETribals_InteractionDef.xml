@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: sharing ideas -->
+<VFET_TribalGatheringInteraction.label>partage d'idées</VFET_TribalGatheringInteraction.label>
+<!-- EN:
+  <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight].</li>
+  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight].</li>
+  <li>talkedabout(p=4)->chatted about</li>
+  <li>talkedabout->shared a word about</li>
+  <li>talkedabout->spoke about</li>
+  <li>talkedabout->gabbed about</li>
+  <li>talkedabout->talked about</li>
+  <li>talkedabout->joked about</li>
+  <li>talkedabout->quipped about</li>
+  <li>commentedabout->said something about</li>
+  <li>commentedabout->said a word about</li>
+  <li>commentedabout->made a comment about</li>
+  <li>commentedabout->commented about</li>
+  <li>commentedabout->told a joke about</li>
+-->
+<VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
+  <li>r_logentry->[INITIATOR_nameDef] et [Interlocuteur] ont [talkedabout] [TalkTopicLight].</li>
+  <li>r_logentry->[INITIATOR_nameDef] a [talkedabout] [TalkTopicLight] avec [Interlocuteur].</li>
+  <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] à [Interlocuteur].</li>
+  <li>talkedabout(p=4)->discuté</li>
+  <li>talkedabout->échangé un mot</li>
+  <li>talkedabout->parlé</li>
+  <li>talkedabout->discuté</li>
+  <li>talkedabout->évoqué</li>
+  <li>talkedabout->plaisanté</li>
+  <li>talkedabout->rigolé à propos</li>
+  <li>commentedabout->a dit quelque chose à propos</li>
+  <li>commentedabout->a dit un mot à propos</li>
+  <li>commentedabout->a fait un commentaire</li>
+  <li>commentedabout->a commenté</li>
+  <li>commentedabout->a raconté une blague</li>
+  <!-- Pour remplacer le [RECIPIENT_nameDef] qui bug. -->
+  <li>Interlocuteur->un autre membre de la tribu</li>
+  <li>Interlocuteur->un autre homme sauvage</li>
+  <li>Interlocuteur->un autre sauvageon</li>
+</VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>

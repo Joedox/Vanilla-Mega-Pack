@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VPE.Psycasts>Psysorts</VPE.Psycasts>
+<VPE.PsyLevel>Niveau de Psylanceur : {0}</VPE.PsyLevel>
+<VPE.EarnXP>Gagner de l'expérience de psylanceur en méditant.</VPE.EarnXP>
+<VPE.Points>Point{0_multiple ? s : } disponible{0_multiple ? s : } à dépenser : {0}</VPE.Points>
+<VPE.SpendPoints>Dépenser des points pour débloquer de nouvelles voies, débloquer des psysorts, débloquer des types de méditation, améliorer les statistiques, etc.</VPE.SpendPoints>
+<VPE.PsycasterStats>Statistiques du Psylanceur :</VPE.PsycasterStats>
+<VPE.Upgrade>Améliorer</VPE.Upgrade>
+<VPE.FocusTypes>Types de focalisation de méditation :</VPE.FocusTypes>
+<VPE.PsysetCustomize>Personnaliser les PsySets</VPE.PsysetCustomize>
+<VPE.PsysetDesc>Glisser et déposer les psysorts appris dans les psysets entre lesquels vous pouvez défiler dans le jeu.</VPE.PsysetDesc>
+<VPE.CreatePsyset>Créer un PsySet</VPE.CreatePsyset>
+<VPE.Unlock>Débloquer</VPE.Unlock>
+<VPE.ClickToUnlock>Cliquer pour déverrouiller</VPE.ClickToUnlock>
+<VPE.UseAltBackground>Utiliser des arrière-plans alternatifs</VPE.UseAltBackground>
+<VPE.DestroySkipdoor>Détruire</VPE.DestroySkipdoor>
+<VPE.DestroySkipdoor.Desc>Détruire cette porte de saut. Elle ne sera plus utilisable, mais n'aura plus d'impact sur l'échauffement neuronal maximum de {0}.</VPE.DestroySkipdoor.Desc>
+<VPE.RenameSkipdoor>Renommer</VPE.RenameSkipdoor>
+<VPE.RenameSkipdoor.Desc>Renommer cette porte de saut.</VPE.RenameSkipdoor.Desc>
+<VPE.TeleportTo>Téléportation vers {0}</VPE.TeleportTo>
+<VPE.CancelSkipbarrier>Annuler Gardien saut de barrage</VPE.CancelSkipbarrier>
+<VPE.CancelSkipbarrierDesc>Cliquer pour annuler Gardien saut de barrage sur le lanceur.</VPE.CancelSkipbarrierDesc>
+<VPE.Edit>Modifier</VPE.Edit>
+<VPE.Rename>Renommer</VPE.Rename>
+<VPE.Untitled>PsySet #1</VPE.Untitled>
+<VPE.Remove>Supprimer</VPE.Remove>
+<VPE.Contents>Contenu :</VPE.Contents>
+<VPE.ClickRemove>Cliquer pour retirer</VPE.ClickRemove>
+<VPE.SellingEltexWarning>La vente d'Eltex est contraire à la loi impériale. Cela peut ou non affecter vos relations avec l'Empire à l'avenir.</VPE.SellingEltexWarning>
+<VPE.GiftingEltexWarning>Le don d'Eltex est contraire à la loi impériale. Cela peut ou non affecter vos relations avec l'Empire à l'avenir.</VPE.GiftingEltexWarning>
+<VPE.EmpireAngeredTitle>Empire en colère</VPE.EmpireAngeredTitle>
+<VPE.EmpireAngeredDesc>L'Empire a eu vent que vous avez {0}Eltex dans leur dos. Ils considèrent que c'est contre la loi impériale, et vos relations se sont dégradées.</VPE.EmpireAngeredDesc>
+<VPE.Gifting>fait don d'</VPE.Gifting>
+<VPE.Trading>vendu de l'</VPE.Trading>
+<VPE.FactionRelationReducedInfo>Le niveau de relations avec {FACTION_name} est maintenant de {1}. (Réduit par {2})</VPE.FactionRelationReducedInfo>
+<VPE.CreatePsyringTitle>Choisissez le Psysort :</VPE.CreatePsyringTitle>
+<VPE.CreatePsyringButton>Fabriquer l'anneau psychique</VPE.CreatePsyringButton>
+<VPE.Locked>Verrouillé</VPE.Locked>
+<VPE.StatsReport_BodiesConsumed>Corps consommé{0_multiple ? s : } : +{0}</VPE.StatsReport_BodiesConsumed>
+<VPE.DevMode>Mode développeur</VPE.DevMode>
+<VPE.NotEnoughPoints>Pas assez de points disponibles</VPE.NotEnoughPoints>
+<VPE.AbilitiesList>Psysorts disponibles :</VPE.AbilitiesList>
+    <VPE.Hover>hover</VPE.Hover>
+<VPE.PsycasterRaidDescription>{0}
+
+La capture de psylanceurs est une stratégie viable et peut être considérée comme bénéfique.</VPE.PsycasterRaidDescription>
+<VPE.LockedTitle>Verrouillé : Nécessite un titre royal</VPE.LockedTitle>
+<VPE.LockedLocked>Verrouillé : Ne peut être déverrouillé avec des points</VPE.LockedLocked>
+
+
+</LanguageData>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_AnimalFeed.label>alimentation animale</VRE_AnimalFeed.label>
+<VRE_AnimalFeed.description>Mord l'animal ciblé et extrait l'hémogène directement de son sang. L'animal perdra du sang et sera horrifié par l'interaction, ce qui peut l'amener à se défendre. Un coagulant à action rapide scellera la plaie pour empêcher une hémorragie.\n\nNe peut cibler que les animaux.</VRE_AnimalFeed.description>
+
+<VRE_CorpseFeed.label>alimentation cadavérique</VRE_CorpseFeed.label>
+<VRE_CorpseFeed.description>Mord le cadavre ciblé et extrait l'hémogène directement de son sang. Le cadavre se videra de tout le sang restant.\n\nNe peut cibler que des cadavres humains.</VRE_CorpseFeed.description>
+
+<VRE_SanguoFeed.label>alimentation sanguophage</VRE_SanguoFeed.label>
+<VRE_SanguoFeed.description>Mord la cible et extrait l'hémogène directement de son sang. La cible perdra du sang et sera insultée par l'interaction, mais sera par ailleurs indemne. Un coagulant à action rapide scellera la plaie pour empêcher les saignements.\n\nNe peut cibler que les humains hémogéniques.</VRE_SanguoFeed.description>
+
+<VRE_Ecstasy.label>extase</VRE_Ecstasy.label>
+<VRE_Ecstasy.description>Accorde à la cible un sentiment d'extase extrême pendant une courte durée, qui la fait tomber amoureuse du lanceur.</VRE_Ecstasy.description>
+
+<VRE_HeartCrush.label>voler son cœur</VRE_HeartCrush.label>
+<VRE_HeartCrush.description>Arrache le cœur d'un ennemi à proximité, le tue instantanément et recouvre la zone de sang.</VRE_HeartCrush.description>
+
+<VRE_FilterInfection.label>filtre à infection</VRE_FilterInfection.label>
+<VRE_FilterInfection.description>Impose les mains sur la cible et l'aide à combattre ses infections. Fonctionne sur les animaux et les humains.</VRE_FilterInfection.description>
+
+<VRE_Hemosmosis.label>hémotose</VRE_Hemosmosis.label>
+<VRE_Hemosmosis.description>Aspire les flaques de sang au sol de la zone environnant ciblée et les transforme en hémogène.</VRE_Hemosmosis.description>
+
+<VRE_Resurrect.label>ressusciter</VRE_Resurrect.label>
+<VRE_Resurrect.description>Utilise les archites dans la circulation sanguine pour insuffler une nouvelle vie au corps d'un cadavre, en réparant les structures cellulaires dégénérées et en relançant les fonctions vitales. Plus le cadavre est vieux et mal conservé, plus il est probable qu'il revienne avec des pertes de mémoire ou des problèmes de santé. Cette capacité semble épuiser les archites d'une manière ou d'une autre, si bien qu'elle peut être utilisée très rarement.</VRE_Resurrect.description>
+
+<VRE_ToxicCloud.label>nuage toxique</VRE_ToxicCloud.label>
+<VRE_ToxicCloud.description>Excrète une épaisse fumée toxique à partir de réservoirs organiques spéciaux situés dans les poumons. Le gaz toxique est mortel pour presque toutes les créatures.</VRE_ToxicCloud.description>
+
+<VRE_ViscuousGoo.label>gelée visqueuse</VRE_ViscuousGoo.label>
+<VRE_ViscuousGoo.description>Ejecte un projectile qui explose à l'impact et crée une grande quantité de saletés qui ralentit considérablement les personnes qui tentent de s'y frayer un passage.</VRE_ViscuousGoo.description>
+
+<VRE_Coagulate_SingleUse.label>coaguler</VRE_Coagulate_SingleUse.label>
+<VRE_Coagulate_SingleUse.description>Utilise des glandes spéciales dans les poignets pour soigner rapidement les blessures d'une personne.</VRE_Coagulate_SingleUse.description>
+
+<VRE_PiercingSpine_SingleUse.label>épine perçante</VRE_PiercingSpine_SingleUse.label>
+<VRE_PiercingSpine_SingleUse.description>Utilise une réaction chimique hémogène pour lancer une épine osseuse sur la cible. L'épine sort à travers la peau par un orifice situé entre les clavicules. Compte tenu de la méthode de lancement, il est étonnamment facile de viser.</VRE_PiercingSpine_SingleUse.description>
+
+<VRE_AcidSpray_SingleUse.label>pulvérisation d'acide</VRE_AcidSpray_SingleUse.label>
+<VRE_AcidSpray_SingleUse.description>Vaporise une substance acide collante à partir des glandes situées dans le cou, remontant par la bouche sur la zone ciblée. L'acide colle aux cibles et les brûle.</VRE_AcidSpray_SingleUse.description>
+
+<VRE_ToxicCloud_SingleUse.label>nuage toxique</VRE_ToxicCloud_SingleUse.label>
+<VRE_ToxicCloud_SingleUse.description>Excrète une épaisse fumée toxique à partir de réservoirs organiques spéciaux situés dans les poumons. Le gaz toxique est mortel pour presque toutes les créatures.</VRE_ToxicCloud_SingleUse.description>
+
+<VRE_FilterInfection_SingleUse.label>filtre à infection</VRE_FilterInfection_SingleUse.label>
+<VRE_FilterInfection_SingleUse.description>Impose les mains sur la cible et l'aide à combattre ses infections. Fonctionne sur les animaux et les humains.</VRE_FilterInfection_SingleUse.description>
+
+<VRE_Ecstasy_SingleUse.label>ecstasy</VRE_Ecstasy_SingleUse.label>
+<VRE_Ecstasy_SingleUse.description>Grant a target a feeling of extreme ecstasy for a brief duration, which makes them fall head over heels with the caster.</VRE_Ecstasy_SingleUse.description>
+
+<VRE_Hemosmosis_SingleUse.label>hémotose</VRE_Hemosmosis_SingleUse.label>
+<VRE_Hemosmosis_SingleUse.description>Aspire les flaques de sang au sol de la zone environnant ciblée et les transforme en hémogène.</VRE_Hemosmosis_SingleUse.description>
+
+<VRE_ViscuousGoo_SingleUse.label>gelée visqueuse</VRE_ViscuousGoo_SingleUse.label>
+<VRE_ViscuousGoo_SingleUse.description>Ejecte un projectile qui explose à l'impact et crée une grande quantité de saletés qui ralentit considérablement les personnes qui tentent de s'y frayer un passage.</VRE_ViscuousGoo_SingleUse.description>
+
+<VRE_HeartCrush_SingleUse.label>voler son cœur</VRE_HeartCrush_SingleUse.label>
+<VRE_HeartCrush_SingleUse.description>Arrache le cœur d'un ennemi à proximité, le tue instantanément et recouvre la zone de sang.</VRE_HeartCrush_SingleUse.description>
+
+
+</LanguageData>

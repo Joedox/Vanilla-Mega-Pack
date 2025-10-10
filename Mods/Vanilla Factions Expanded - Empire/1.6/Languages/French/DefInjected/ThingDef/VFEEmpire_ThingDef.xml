@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: aperitif -->
+<VFEE_Aperitif.label>apéritif</VFEE_Aperitif.label>
+<!-- EN: A non-alcoholic, pleasantly light, citrusy and slightly bitter aperitif that owes its flavors and aromas to sweet and bitter oranges, rhubarb, and imperial craftsmanship. Drinking it induces heavy but painless vomiting, completely clearing the stomach and taste buds. Aperitif recipe is kept secret by the Hospitality guilds of the Empire, and noone was quite able to recreate this fine delicacy on the rimworld surface.\n\nImperial nobility loves aperitif for its ability to clear out food from the digestive system, allowing them to consume even more of the finest imperial food. -->
+<VFEE_Aperitif.description>Un apéritif sans alcool, agréablement léger, citronné et légèrement amer qui doit ses saveurs et ses arômes aux oranges douces et amères, à la rhubarbe et au savoir-faire impérial. Sa consommation provoque des vomissements abondants mais indolores, libérant complètement l'estomac et les papilles gustatives. La recette de l'apéritif est gardée secrète par les guildes d'hospitalité de l'Empire, et personne n'a été en mesure de recréer cette délicatesse sur la surface de Rimworld.\n\nLa noblesse impériale aime l'apéritif pour sa capacité à évacuer les aliments du système digestif, ce qui lui permet de consommer davantage de la meilleure nourriture impériale.</VFEE_Aperitif.description>
+<!-- EN: Drink {0} -->
+<VFEE_Aperitif.ingestible.ingestCommandString>Boire un {0}</VFEE_Aperitif.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VFEE_Aperitif.ingestible.ingestReportString>Boit l'{0}.</VFEE_Aperitif.ingestible.ingestReportString>
+
+
+<!-- EN: absolver helmet -->
+<VFEE_Apparel_AbsolverHelmet.label>casque d'absolution</VFEE_Apparel_AbsolverHelmet.label>
+<!-- EN: A high-tech helmet with a solid plasteel-weave shell and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while feeding firing solutions using real-time strategic information. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production. -->
+<VFEE_Apparel_AbsolverHelmet.description>Un casque de haute technologie doté d'une coque solide en plastacier tissé et de capteurs multi-spectres, qui fournissent des données télémétriques à l'utilisateur et à la coque extérieure. Bien qu'il offre une excellente protection, son but premier est de cacher l'utilisateur en utilisant un système de camouflage optique complexe tout en alimentant des systèmes de tir à l'aide d'informations stratégiques en temps réel. Une armure de ce type n'est disponible que pour les assassins d'élite de l'Empire Sophien en raison d'une production limitée.</VFEE_Apparel_AbsolverHelmet.description>
+
+<!-- EN: deserter helmet -->
+<VFEE_Apparel_DeserterHelmet.label>casque de déserteur</VFEE_Apparel_DeserterHelmet.label>
+<!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nOriginally a standard cataphract helmet, this has been modified to include a gunlink at the cost of removing the faceplate, sacrificing defense to improve offensive capabilities. -->
+<VFEE_Apparel_DeserterHelmet.description>Un casque de haute technologie lourdement armé, avec une coque solide en plastacier et un système visuel indirect pour les angles de vue non frontaux. Il protège contre tous les tirs, sauf les plus puissants ou les plus chanceux.\n\nÀ l'origine, il s'agissait d'un casque de cataphracte standard, mais il a été modifié pour inclure un lien avec le canon au prix du retrait du plastron, sacrifiant ainsi la défense pour améliorer les capacités offensives.</VFEE_Apparel_DeserterHelmet.description>
+
+<!-- EN: janissary helmet -->
+<VFEE_Apparel_JanissaryHelmet.label>casque de janissaire</VFEE_Apparel_JanissaryHelmet.label>
+<!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nIncludes a plasteel-plated gas mask that offers full protection against gas-related attacks, such as toxic environments. -->
+<VFEE_Apparel_JanissaryHelmet.description>Un casque blindé de haute technologie avec un ordinateur d'état intégré et une plaque de protection en plastacier.\n\nComprend un masque à gaz plaqué en plastacier qui offre une protection complète contre les risques liés aux gaz, comme les environnements toxiques.</VFEE_Apparel_JanissaryHelmet.description>
+
+<!-- EN: techfriar crown -->
+<VFEE_Apparel_TechfriarCrown.label>couronne techfriar</VFEE_Apparel_TechfriarCrown.label>
+<!-- EN: An exceedingly complex facemask fitted with advanced technology that is only known to high-ranking Sophian techpriests. Designed to be worn by designated researchers so that they can advance the empire’s needs without rest.\n\nThe inlaid techprint will synchronize and stimulate the wearer’s brain when they are performing research, effectively doubling research speed as well as restoring their needs for rest and recreation. -->
+<VFEE_Apparel_TechfriarCrown.description>Un masque extrêmement complexe équipé d'une technologie avancée qui n'est connue que des techpriests Sophiens de haut rang. Conçu pour être porté par des chercheurs désignés afin qu'ils puissent faire avancer les besoins de l'empire sans repos.\n\nL'empreinte technologique incrustée synchronise et stimule le cerveau du porteur lorsqu'il effectue des recherches, doublant ainsi sa vitesse de recherche et restaurant ses besoins de repos et de loisirs.</VFEE_Apparel_TechfriarCrown.description>
+
+
+<!-- EN: stellic robe -->
+<VFE_Apparel_StellicRobe.label>robe stellaire</VFE_Apparel_StellicRobe.label>
+<!-- EN: A glorious, long and flowing robe embroidered with intricately complex decorative designs. -->
+<VFE_Apparel_StellicRobe.description>Une robe glorieuse, longue et fluide, brodée de motifs décoratifs complexes et sophistiqués.</VFE_Apparel_StellicRobe.description>
+
+
+<!-- EN: absolver armor -->
+<VFEE_Apparel_ArmorAbsolver.label>armure d'absolution</VFEE_Apparel_ArmorAbsolver.label>
+<!-- EN: A high-tech suit of powered armor with layered plasteel-weave plates and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while adjusting and assisting their movement. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production. -->
+<VFEE_Apparel_ArmorAbsolver.description>Une armure motorisée de haute technologie avec des plaques superposées en plastacier et des capteurs multi-spectres, qui fournissent des données télémétriques à l'utilisateur et à la coque extérieure. Bien qu'elle offre une excellente protection, son but premier est de cacher l'utilisateur en utilisant un système de camouflage optique complexe tout en ajustant et en assistant ses mouvements. Une armure de ce type n'est disponible que pour les assassins d'élite de l'Empire Sophian en raison de sa production limitée.</VFEE_Apparel_ArmorAbsolver.description>
+
+<!-- EN: deserter armor -->
+<VFEE_Apparel_ArmorDeserter.label>armure de déserteur</VFEE_Apparel_ArmorDeserter.label>
+<!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nOriginally an elaborate suit of prestige armor, this has been modified to make greater use of eltex weave in order to improve the performance of psycasters. This comes at a cost of removing interfering armor plating, but enhances psychic sensitivity and neural heat dissipation. -->
+<VFEE_Apparel_ArmorDeserter.description>Une combinaison d'armure lourde motorisée, conçue pour une protection maximum au détriment de la mobilité. De lourdes plaques en plastacier tissé avec des revêtements ablatifs solides arrêtent toutes les attaques, sauf les plus puissantes ou les mieux ciblées. Des assistants neuro-mémétiques empêchent le poids massif de la combinaison d'immobiliser complètement le porteur, mais la combinaison reste assez encombrante.\n\nÀ l'origine, il s'agissait d'une armure de prestige élaborée, mais elle a été modifiée pour faire un plus grand usage de l'eltex afin d'améliorer les performances des psylanceurs. Cela a pour conséquence d'éliminer les plaques d'armure gênantes, mais améliore la sensibilité psychique et la dissipation de l'échauffement neuronal.</VFEE_Apparel_ArmorDeserter.description>
+
+<!-- EN: janissary cuirass -->
+<VFEE_Apparel_JanissaryCuirass.label>cuirasse de janissaire</VFEE_Apparel_JanissaryCuirass.label>
+<!-- EN: A set of pauldrons and neck guard that extends down the wearer’s chest made from layered plasteel-weave plates. While it offers high protection for those areas, it is more of a status symbol and is intended to be worn over clothing and under armor without affecting mobility. -->
+<VFEE_Apparel_JanissaryCuirass.description>Un ensemble d'épaulières et d'un protège-cou qui s'étend jusqu'à la poitrine du porteur et qui est fait de plaques superposées tissées en plastacier. Bien qu'il offre une protection élevée pour ces zones, il s'agit davantage d'un symbole de statut et il est destiné à être porté par-dessus les vêtements et sous l'armure sans affecter la mobilité.</VFEE_Apparel_JanissaryCuirass.description>
+
+
+<!-- EN: grand imperial sculpture -->
+<VFEE_RoyalSculptureGrand.label>sculpture monumentale impériale</VFEE_RoyalSculptureGrand.label>
+<!-- EN: A huge sculpture sized to dominate a room. -->
+<VFEE_RoyalSculptureGrand.description>Une sculpture énorme, dimensionnée pour dominer une pièce.</VFEE_RoyalSculptureGrand.description>
+
+<!-- EN: large imperial sculpture -->
+<VFEE_RoyalSculptureLarge.label>grande sculpture impériale</VFEE_RoyalSculptureLarge.label>
+<!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+<VFEE_RoyalSculptureLarge.description>Un morceau de matériau de la taille d'une personne, sculpté dans une forme artistique.</VFEE_RoyalSculptureLarge.description>
+
+<!-- EN: small imperial sculpture -->
+<VFEE_RoyalSculptureSmall.label>petite sculpture impériale</VFEE_RoyalSculptureSmall.label>
+<!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+<VFEE_RoyalSculptureSmall.description>Un morceau de matériau de la taille d'un torse sculpté dans une forme artistique.</VFEE_RoyalSculptureSmall.description>
+
+
+<!-- EN: armored shuttle -->
+<VFEI_ArmoredShuttle.label>navette blindée</VFEI_ArmoredShuttle.label>
+<!-- EN: A spacer-tech imperial gunship designed for transit between surface and orbit, or between moons of a planetary system. Equipped with a twin-linked autocannon for ground support, these armored shuttles often land in the middle of the battlefield to extract stranded troops. -->
+<VFEI_ArmoredShuttle.description>Un vaisseau impérial de technologie spatiale conçu pour le transit entre la surface et l'orbite, ou entre les lunes d'un système planétaire. Équipées d'un autocanon jumelé articulé pour l'appui au sol, ces navettes blindées atterrissent souvent au milieu du champ de bataille pour extraire les troupes bloquées.</VFEI_ArmoredShuttle.description>
+
+<!-- EN: double autocannon -->
+<VFEI_TurretArmoredShuttle.label>double autocanon</VFEI_TurretArmoredShuttle.label>
+<!-- EN: A powerful, twin-linked autocannon. -->
+<VFEI_TurretArmoredShuttle.description>Un puissant autocanon à deux canons jumelés.</VFEI_TurretArmoredShuttle.description>
+<!-- EN: double autocannon -->
+<VFEI_TurretArmoredShuttle.verbs.Verb_Shoot.label>double autocannon</VFEI_TurretArmoredShuttle.verbs.Verb_Shoot.label>
+
+
+<!-- EN: candelabra -->
+<VFEE_Candelabra.label>chandelier</VFEE_Candelabra.label>
+<!-- EN: An elaborate, artistic electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+<VFEE_Candelabra.description>Une lampe électrique sur pied élaborée et artistique qui éclaire une zone. Les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse.</VFEE_Candelabra.description>
+
+<!-- EN: grand chair -->
+<VFEE_GrandChair.label>chaise grandiose</VFEE_GrandChair.label>
+<!-- EN: A comfortable and elegant chair, it is a work of art in itself. Can be used at tables, work stations, and elsewhere. -->
+<VFEE_GrandChair.description>Une chaise confortable et élégante, c'est une œuvre d'art en soi. Elle peut être utilisée autour d'une table, sur un poste de travail ou ailleurs.</VFEE_GrandChair.description>
+
+<!-- EN: grand table -->
+<VFEE_GrandTable.label>table grandiose</VFEE_GrandTable.label>
+<!-- EN: A luxurious, beautiful gold-inlaid table fit for the highborn, it is a work of art in itself. People eat off tables when chairs are placed facing them. -->
+<VFEE_GrandTable.description>Une luxueuse et magnifique table incrustée d'or, digne d'une personne de haut rang, c'est une œuvre d'art en soi. Les gens mangent sur les tables lorsque des chaises sont placées toutes autour d'elles.</VFEE_GrandTable.description>
+
+<!-- EN: imperial banner -->
+<VFEE_ImperialBanner.label>bannière impériale</VFEE_ImperialBanner.label>
+<!-- EN: A decorative strip of cloth hanging from a vertical wooden frame. Appropriate for royal rooms. -->
+<VFEE_ImperialBanner.description>Une bande de tissu décorative suspendue à un cadre vertical en bois. Convient aux pièces royales.</VFEE_ImperialBanner.description>
+
+<!-- EN: royal mirror -->
+<VFEE_RoyalMirror.label>miroir royal</VFEE_RoyalMirror.label>
+<!-- EN: A beautiful and elegant mirror. Gives a small comfort bonus to all nearby beds. Placing more than one mirror near the same bed has no effect. -->
+<VFEE_RoyalMirror.description>Un miroir beau et élégant. Donne un petit bonus de confort à tous les lits voisins. Placer plus d'un miroir près du même lit n'a aucun effet.</VFEE_RoyalMirror.description>
+
+<!-- EN: royal stool -->
+<VFEE_RoyalStool.label>tabouret royal</VFEE_RoyalStool.label>
+<!-- EN: A luxurious gold-inlaid stool fit for the nobility. Can be used at tables, work stations, and elsewhere. -->
+<VFEE_RoyalStool.description>Un luxueux tabouret incrusté d'or digne de la noblesse. Peut être utilisé autour des tables, des postes de travail et ailleurs.</VFEE_RoyalStool.description>
+
+<!-- EN: stellic meditation throne -->
+<VFEE_StellicThrone.label>trône de méditation stellaire</VFEE_StellicThrone.label>
+<!-- EN: A titanic, ornate chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
+<VFEE_StellicThrone.description>Un siège titanesque et orné, conçu pour qu'un psylanceur de type digne puisse s'asseoir et méditer. Régner sur un trône est une forme de méditation qui développe la concentration psychique. Les trônes et les salles de méditation plus impressionnants augmentent le taux de gain de concentration psychique pour les psylanceurs de type digne.</VFEE_StellicThrone.description>
+
+
+<!-- EN: bomb -->
+<VFEE_Bomb.label>bombe</VFEE_Bomb.label>
+<!-- EN: A small, makeshift bomb. Can be easily defused if found on time. -->
+<VFEE_Bomb.description>Une petite bombe de fortune. Elle peut être facilement désamorcée si elle est trouvée à temps.</VFEE_Bomb.description>
+
+<!-- EN: small stele -->
+<VFEE_SteleSmall.label>petite stèle</VFEE_SteleSmall.label>
+<!-- EN: A slender, modest slab with limited engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+<VFEE_SteleSmall.description>Une dalle mince et modeste avec des gravures limitées sur les côtés. Les stèles sont utilisées depuis l'Antiquité pour commémorer des individus, des batailles et d'autres événements importants.</VFEE_SteleSmall.description>
+
+
+<!-- EN: organ -->
+<VFEE_PipeOrgan.label>orgue</VFEE_PipeOrgan.label>
+<!-- EN: An exceedingly complex stationary musical instrument crafted at a smithy. A series of tuned pipes are played from the keyboard which releases pressurized air to produce the desired pitch, which lasts as long as the key is pressed. The complex and intricate design, along with the unique sound it produces, make it an ideal apparatus for instigating concerts of the nobility as its music reaches far and wide. -->
+<VFEE_PipeOrgan.description>Instrument de musique fixe extrêmement complexe, fabriqué dans une forge. Une série de tuyaux harmonieux sont actionnés à partir du clavier qui libère de l'air sous pression pour produire le ton désiré, qui dure aussi longtemps que la touche est enfoncée. Sa conception complexe et compliquée, ainsi que le son unique qu'il produit, en fait un appareil idéal pour organiser des concerts pour la noblesse, car sa musique est diffusée très largement autour de lui.</VFEE_PipeOrgan.description>
+
+<!-- EN: unfinished organ -->
+<VFEE_UnfinishedOrgan.label>orgue inachevé</VFEE_UnfinishedOrgan.label>
+<!-- EN: An unfinished organ. -->
+<VFEE_UnfinishedOrgan.description>Un orgue inachevé.</VFEE_UnfinishedOrgan.description>
+
+
+<!-- EN: striker gun -->
+<VFEE_Gun_StrikerTurret.label>canon de tourelle</VFEE_Gun_StrikerTurret.label>
+<!-- EN: A powerful turret mounted on the striker drop pod. -->
+<VFEE_Gun_StrikerTurret.description>Une puissante tourelle montée sur une nacelle de largage.</VFEE_Gun_StrikerTurret.description>
+<!-- EN: striker gun -->
+<VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>canon de tourelle</VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>
+
+<!-- EN: striker turret -->
+<VFEE_Turret_StrikerTurret.label>tourelle de largage</VFEE_Turret_StrikerTurret.label>
+<!-- EN: A redesigned cargo pod designed to bury stabilizing legs upon impact and deploy a powerful turret. Has a limited battery and ammunition pool, and will self-destruct if either run out or it is sufficiently damaged. -->
+<VFEE_Turret_StrikerTurret.description>Une nacelle cargo modifiée conçue pour enterrer des pieds stabilisateurs à l'impact et déployer une puissante tourelle. Elle dispose d'une batterie et d'une réserve de munitions limitées et s'autodétruit si elle est déchargée ou si elle est suffisamment endommagée.</VFEE_Turret_StrikerTurret.description>
+<!-- EN: Ammo -->
+<VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>Munitions</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Shots left -->
+<VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>Tirs restants</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Out of shots -->
+<VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>Plus de munitions</VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>
+<!-- EN: deactivates after: -->
+<VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>Désactivation dans</VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>
+
+
+<!-- EN: drop pod (incoming) -->
+<VFEE_DropPodIncoming_Building.label>capsule de largage (en approche)</VFEE_DropPodIncoming_Building.label>
+
+<!-- EN: armored shuttle (incoming) -->
+<VFEI_ArmoredShuttleIncoming.label>navette blindée (en approche)</VFEI_ArmoredShuttleIncoming.label>
+
+<!-- EN: armored shuttle (leaving) -->
+<VFEI_ArmoredShuttleLeaving.label>navette blindée (en partance)</VFEI_ArmoredShuttleLeaving.label>
+
+
+<!-- EN: grand royal rug -->
+<VFEE_GrandRoyalRug.label>grand tapis royal</VFEE_GrandRoyalRug.label>
+<!-- EN: A majestic rug with an imperial-style pattern, for decorating a floor. -->
+<VFEE_GrandRoyalRug.description>Un tapis majestueux avec un motif de style impérial, pour décorer un sol.</VFEE_GrandRoyalRug.description>
+
+<!-- EN: imperial slab -->
+<VFEE_ImperialSlab.label>dalle impériale</VFEE_ImperialSlab.label>
+<!-- EN: A stoney bas relief of imperial imagery for decorating a floor. -->
+<VFEE_ImperialSlab.description>Un bas-relief en pierre de l'imagerie impériale pour décorer un sol.</VFEE_ImperialSlab.description>
+
+<!-- EN: large royal rug -->
+<VFEE_LargeRoyalRug.label>tapis royal</VFEE_LargeRoyalRug.label>
+<!-- EN: An intricate rug with an imperial-style pattern, for decorating a floor. -->
+<VFEE_LargeRoyalRug.description>Un tapis complexe avec un motif de style impérial, pour décorer un sol.</VFEE_LargeRoyalRug.description>
+
+
+<!-- EN: persona toxblade -->
+<VFEE_MeleeWeapon_ToxbladeBladelink.label>lame toxique consciente</VFEE_MeleeWeapon_ToxbladeBladelink.label>
+<!-- EN: A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon. -->
+<VFEE_MeleeWeapon_ToxbladeBladelink.description>Une arme de mêlée défensive généralement attribuée à tout noble impérial de rang Mandataire ou supérieur. Bien que la pénétration d'armure soit comparable à celle des lames en plastacier, sa fonction principale est de distribuer des fluides acidifères et des vapeurs toxiques lors des entailles infligées. L'effet ne dure que quelques secondes et est infligé environ la moitié du temps en raison de la taille limitée de l'arme.\n\nCette arme a une conscience qui ne peut se lier qu’à une seule et unique personne. Le porteur et l'arme intelligente peuvent synchroniser leurs réflexes et attaquer avec une vitesse, une précision et une créativité effrayantes. Une fois lié à un porteur, la conscience de l'arme refusera d'être utilisée par quelqu'un d'autre.</VFEE_MeleeWeapon_ToxbladeBladelink.description>
+<!-- EN: handle -->
+<VFEE_MeleeWeapon_ToxbladeBladelink.tools.handle.label>poignée</VFEE_MeleeWeapon_ToxbladeBladelink.tools.handle.label>
+<!-- EN: point -->
+<VFEE_MeleeWeapon_ToxbladeBladelink.tools.point.label>pointe</VFEE_MeleeWeapon_ToxbladeBladelink.tools.point.label>
+<!-- EN: edge -->
+<VFEE_MeleeWeapon_ToxbladeBladelink.tools.edge.label>tranchant</VFEE_MeleeWeapon_ToxbladeBladelink.tools.edge.label>
+
+
+<!-- EN: toxblade -->
+<VFEE_MeleeWeapon_Toxblade.label>lame toxique</VFEE_MeleeWeapon_Toxblade.label>
+<!-- EN: A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon. -->
+<VFEE_MeleeWeapon_Toxblade.description>Une arme de mêlée défensive généralement attribuée à tout noble impérial de rang Mandataire ou supérieur. Bien que la pénétration d'armure soit comparable à celle des lames en plastacier, sa fonction principale est de distribuer des fluides acidifères et des vapeurs toxiques lors des entailles infligées. L'effet ne dure que quelques secondes et est infligé environ la moitié du temps en raison de la taille limitée de l'arme.</VFEE_MeleeWeapon_Toxblade.description>
+<!-- EN: handle -->
+<VFEE_MeleeWeapon_Toxblade.tools.handle.label>poignée</VFEE_MeleeWeapon_Toxblade.tools.handle.label>
+<!-- EN: point -->
+<VFEE_MeleeWeapon_Toxblade.tools.point.label>pointe</VFEE_MeleeWeapon_Toxblade.tools.point.label>
+<!-- EN: edge -->
+<VFEE_MeleeWeapon_Toxblade.tools.edge.label>tranchant</VFEE_MeleeWeapon_Toxblade.tools.edge.label>
+
+
+<!-- EN: orbital slicer -->
+<VFEE_OrbitalSlicer.label>trancheur orbital</VFEE_OrbitalSlicer.label>
+
+<!-- EN: poison -->
+<VFEE_Poison.label>poison</VFEE_Poison.label>
+<!-- EN: text_todo -->
+<VFEE_Poison.description>Du poison.</VFEE_Poison.description>
+
+
+<!-- EN: fletcher -->
+<VEE_Gun_Fletcher.label>fléchier</VEE_Gun_Fletcher.label>
+<!-- EN: An ultra-long range sniper rifle which fires fin-stabilized flechettes with acidifier injectors. Due to their lethality and danger of falling into enemy hands, they are always biocoded and will self-destruct if their owner either dies or is disarmed. Lethal to organics and almost useless against non-organics, such as mechanoids.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. The acid will rampage through the target’s body and usually results in vital organs being dissolved, however lethality isn’t guaranteed. -->
+<VEE_Gun_Fletcher.description>Un fusil de précision à très longue portée qui tire des fléchettes stabilisées par des ailettes avec des injecteurs d'acides. En raison de leur létalité et du risque de tomber entre les mains de l'ennemi, ils sont toujours biocodés et s'autodétruisent si leur propriétaire meurt ou est désarmé. Létales pour les organiques et presque inutiles contre les non-organiques, comme les mécanoïdes.\n\nLes cibles touchées par ces fléchettes se verront infliger une variante instable de fluides acidifiants, conçus pour dissoudre la cible de l'intérieur plutôt que de détruire son équipement. L'acide se propage dans le corps de la cible et entraîne généralement la dissolution des organes vitaux, mais la létalité n'est pas garantie.</VEE_Gun_Fletcher.description>
+<!-- EN: barrel -->
+<VEE_Gun_Fletcher.tools.barrel.label>canon</VEE_Gun_Fletcher.tools.barrel.label>
+<!-- EN: fletcher -->
+<VEE_Gun_Fletcher.verbs.Verb_Shoot.label>fléchier</VEE_Gun_Fletcher.verbs.Verb_Shoot.label>
+
+<!-- EN: thump charge -->
+<VFEE_Bullet_ChargeThumper.label>tir de percuteur</VFEE_Bullet_ChargeThumper.label>
+
+<!-- EN: fletcher dart -->
+<VFEE_Bullet_FletcherDart.label>fléchette de fléchier</VFEE_Bullet_FletcherDart.label>
+
+<!-- EN: charge thumper -->
+<VFEE_Gun_ChargeThumper.label>percuteur de charge</VFEE_Gun_ChargeThumper.label>
+<!-- EN: A modified charged-shot assault shotgun that incorporates mechanoid technology. Recovered thump cannons have been reversed engineered to produce a portable ranged weapon capable of firing blunt projectiles. Quite powerful but short ranged, with high performance against structures and heavily armored targets. -->
+<VFEE_Gun_ChargeThumper.description>Un fusil d'assaut à balles chargées modifié qui incorpore la technologie mécanoïde. Des canons à percussion récupérés ont été modifiés pour produire une arme à distance portable capable de tirer des projectiles contondants. Assez puissante mais à courte portée, elle est très performante contre les structures et les cibles lourdement blindées.</VFEE_Gun_ChargeThumper.description>
+<!-- EN: stock -->
+<VFEE_Gun_ChargeThumper.tools.stock.label>crosse</VFEE_Gun_ChargeThumper.tools.stock.label>
+<!-- EN: barrel -->
+<VFEE_Gun_ChargeThumper.tools.barrel.label>canon</VFEE_Gun_ChargeThumper.tools.barrel.label>
+<!-- EN: charge thumper -->
+<VFEE_Gun_ChargeThumper.verbs.Verb_Shoot.label>percuteur de charge</VFEE_Gun_ChargeThumper.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

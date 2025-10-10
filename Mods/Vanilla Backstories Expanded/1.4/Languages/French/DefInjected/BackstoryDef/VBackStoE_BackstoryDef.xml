@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VBE_PirateChef.baseDesc>{PAWN_nameDef} était le Chef sur un bateau pirate. Entre les repas, ils se racontaient des histoires qui remontaient le moral de l'équipage. La loyauté de l'équipage envers leur chef était grande, peut-être même plus grande que celle envers leur capitaine...</VBE_PirateChef.baseDesc>
+<VBE_PirateChef.title>chef pirate</VBE_PirateChef.title>
+<VBE_PirateChef.titleShort>chef</VBE_PirateChef.titleShort>
+
+<VBE_GeneModdedBeauty.baseDesc>{PAWN_nameDef} est le résultat de la chirurgie esthétique la plus avancée du Glitterworld. Durant sa vie, {PAWN_pronoun} a dépensé une fortune pour son apparence, {PAWN_pronoun} n'a pas eu beaucoup de temps pour pratiquer des techniques plus pratiques.</VBE_GeneModdedBeauty.baseDesc>
+<VBE_GeneModdedBeauty.title>beauté génétique</VBE_GeneModdedBeauty.title>
+<VBE_GeneModdedBeauty.titleShort>beauté</VBE_GeneModdedBeauty.titleShort>
+
+<VBE_HumanFarm.baseDesc>{PAWN_nameDef} a été créé dans un seul but, la consommation. Cultivé à partir d'un ensemble d'injecteurs d'hormones et de développement reliés à un tube rempli de solution, {PAWN_pronoun} a passé de nombreuses années de sa vie à scruter le laboratoire, où les bouchers et les scientifiques poursuivaient leur vie quotidienne. Lors d'un étrange accident qui a fait effondré la ferme, {PAWN_nameDef} s'est échappé.
+Cet accident a permis à {PAWN_nameDef} d'acquérir des connaissances de base en anatomie humaine, mais l'a marqué à vie.</VBE_HumanFarm.baseDesc>
+<VBE_HumanFarm.title>ferme humaine</VBE_HumanFarm.title>
+<VBE_HumanFarm.titleShort>viande</VBE_HumanFarm.titleShort>
+
+<VBE_Housecarl.baseDesc>{PAWN_nameDef} était le garde d'un puissant chef de tribu. {PAWN_pronoun} a été formé dans une variété d'armes, et était toujours armé sur et hors du champ de bataille. Après qu'un conflit avec un clan plus puissant ait laissé son chef et de nombreux membres du clan morts, {PAWN_pronoun} est parti{PAWN_gender ? : e } à la recherche d'une nouvelle maison pour prêter sa lame, ou simplement faire quelque chose de nouveau.</VBE_Housecarl.baseDesc>
+<VBE_Housecarl.title>housecarl</VBE_Housecarl.title>
+<VBE_Housecarl.titleShort>housecarl</VBE_Housecarl.titleShort>
+
+<VBE_FanaticInventor.baseDesc>L'amour de {PAWN_nameDef} pour les machines et l'ingénierie est carrément fanatique. Dans sa maison d'Urbworld, {PAWN_pronoun} fabrique des drones, des armes et des machines illégales, se faisant souvent pourchasser par la police. Pour {PAWN_nameDef}, la nature n'est rien d'autre qu'une source de matériaux à raffiner pour en faire quelque chose d'utile.</VBE_FanaticInventor.baseDesc>
+<VBE_FanaticInventor.title>inventeur fanatique</VBE_FanaticInventor.title>
+<VBE_FanaticInventor.titleShort>inventeur</VBE_FanaticInventor.titleShort>
+
+<VBE_CaveinSurvivor.baseDesc>Contraint{PAWN_gender ? : e } à l'esclavage après la destruction de son clan, {PAWN_nameDef} est rapidement jeté{PAWN_gender ? : e } dans les mines, où {PAWN_pronoun} creuse pour trouver des métaux précieux. En raison du manque de sécurité et d'entretien par ses ravisseurs, la mine s'est effondrée, laissant {PAWN_nameDef} comme seul{PAWN_gender ? : e } survivant{PAWN_gender ? : e }. Pour s'assurer qu'{PAWN_pronoun} n'aura jamais à revenir, {PAWN_pronoun} est devenu{PAWN_gender ? : e } un{PAWN_gender ? : e } artisan{PAWN_gender ? : e } habile, et devenait parfois violent{PAWN_gender ? : e } lorsqu'{PAWN_pronoun} était poussé{PAWN_gender ? : e } vers une mine.</VBE_CaveinSurvivor.baseDesc>
+<VBE_CaveinSurvivor.title>survivant d'un effondrement</VBE_CaveinSurvivor.title>
+<VBE_CaveinSurvivor.titleFemale>survivante d'un effondrement</VBE_CaveinSurvivor.titleFemale>
+<VBE_CaveinSurvivor.titleShort>survivant</VBE_CaveinSurvivor.titleShort>
+<VBE_CaveinSurvivor.titleShortFemale>survivante</VBE_CaveinSurvivor.titleShortFemale>
+
+<VBE_IndustrialGunsmith.baseDesc>{PAWN_nameDef} passait la plupart de ses journées à travailler méticuleusement à sa table d'usinage pour créer des armes à feu. {PAWN_pronoun} passait plusieurs heures au stand de tir pour tester ses nouveaux modèles. Cependant, passer autant de temps à travailler avec des armes à feu l'a rendu relativement faible en combat rapproché.</VBE_IndustrialGunsmith.baseDesc>
+<VBE_IndustrialGunsmith.title>armurier industriel</VBE_IndustrialGunsmith.title>
+<VBE_IndustrialGunsmith.titleShort>armurier</VBE_IndustrialGunsmith.titleShort>
+
+<VBE_SlaveTrader.baseDesc>Conscient du profit que les corps rapportent plus lorsqu'ils sont encore chauds au lieu d'être froids, {PAWN_nameDef} insistait pour que son clan fasse autant de prisonniers que possible lors d'un raid, utilisant des filets, des bolas et d'autres objets pouvant être lancés vers ceux qui s'enfuyaient. Lorsque les combats étaient terminés, {PAWN_pronoun} voyageait, colportant ses marchandises dans divers royaumes. Le fait d'avoir toujours des esclaves autour {PAWN_gender ? de lui : d'elle } a rendu {PAWN_nameDef} indifférent{PAWN_gender ? : e } à ce qu'on appelle le "travail d'esclave", et de façon générale, moins empathique.</VBE_SlaveTrader.baseDesc>
+<VBE_SlaveTrader.title>marchand d'esclaves</VBE_SlaveTrader.title>
+<VBE_SlaveTrader.titleFemale>marchande d'esclaves</VBE_SlaveTrader.titleFemale>
+<VBE_SlaveTrader.titleShort>esclavagiste</VBE_SlaveTrader.titleShort>
+
+<VBE_ModelCitizen.baseDesc>{PAWN_nameDef} a mené une vie criminelle, très violente, mais {PAWN_pronoun} a été arrêté. Au lieu d'être exécuté ou incarcéré, {PAWN_pronoun} a été envoyé pour essayer un traitement psychologique expérimental qui ferait {PAWN_gender ? de lui : d'elle } de nouveau une bonne personne dans la société. Alors que la nature et la moralité du programme étaient discutables, les résultats ont été définitifs, {PAWN_pronoun} est maintenant un{PAWN_gender ? : e } citoyen{PAWN_gender ? : ne } modèle.</VBE_ModelCitizen.baseDesc>
+<VBE_ModelCitizen.title>citoyen modèle</VBE_ModelCitizen.title>
+<VBE_ModelCitizen.titleFemale>citoyenne modèle</VBE_ModelCitizen.titleFemale>
+<VBE_ModelCitizen.titleShort>citoyen</VBE_ModelCitizen.titleShort>
+<VBE_ModelCitizen.titleShortFemale>citoyenne</VBE_ModelCitizen.titleShortFemale>
+
+<VBE_MidworldNomad.baseDesc>{PAWN_nameDef} a passé ses jeunes années sur un monde intermédiaire à étudier divers sujets modernes et historiques, notamment l'agriculture, l'ingénierie et la politique. Après le crash de leur navette sur un monde médiéval, {PAWN_nameDef} a été annoncé comme un champion envoyé par les dieux. Au cours des années suivantes, {PAWN_nameDef} a commencé à introduire plusieurs réformes culturelles, technologiques et sociétales qui ont amélioré de manière drastique la qualité de vie sur ce monde.</VBE_MidworldNomad.baseDesc>
+<VBE_MidworldNomad.title>nomade du monde intermédiaire</VBE_MidworldNomad.title>
+<VBE_MidworldNomad.titleShort>enfant nomade</VBE_MidworldNomad.titleShort>
+
+<VBE_DogWalker.baseDesc>{PAWN_nameDef} aime tellement être en contact avec les animaux qu'{PAWN_pronoun} s'est porté{PAWN_gender ? : e } volontaire au refuge local pour promener les chiens et leur faire faire de l'exercice. Cela a duré jusqu'à ce qu'{PAWN_pronoun} se rende compte à quel point cette activité pouvait être lucrative et {PAWN_nameDef} a étendu ses activités pour devenir un{PAWN_gender ? : e } promeneu{PAWN_gender ? r : se } de chiens à plein temps avec des dizaines de clients.</VBE_DogWalker.baseDesc>
+<VBE_DogWalker.title>promeneur de chiens</VBE_DogWalker.title>
+<VBE_DogWalker.titleFemale>promeneuse de chiens</VBE_DogWalker.titleFemale>
+<VBE_DogWalker.titleShort>promeneur</VBE_DogWalker.titleShort>
+<VBE_DogWalker.titleShortFemale>promeneuse</VBE_DogWalker.titleShortFemale>
+
+<VBE_StarfighterMaintainer.baseDesc>{PAWN_nameDef} a servi sur des vaisseaux transporteurs lors de campagnes dans son système d'origine, s'efforçant de maintenir les chasseurs stellaires et les transporteurs en bon état. Bien qu'{PAWN_pronoun} sache à peu près tout ce qu'il y a à savoir sur la maintenance des vaisseaux spatiaux, sa dépendance à l'égard des manuels de réparation à la lettre a eu un impact négatif sur sa pensée latérale.</VBE_StarfighterMaintainer.baseDesc>
+<VBE_StarfighterMaintainer.title>réparateur de chasseurs stellaires</VBE_StarfighterMaintainer.title>
+<VBE_StarfighterMaintainer.titleFemale>réparatrice de chasseurs stellaires</VBE_StarfighterMaintainer.titleFemale>
+<VBE_StarfighterMaintainer.titleShort>mécanicien</VBE_StarfighterMaintainer.titleShort>
+<VBE_StarfighterMaintainer.titleShortFemale>mécanicienne</VBE_StarfighterMaintainer.titleShortFemale>
+
+<VBE_Watchman.baseDesc>N'étant pas {PAWN_gender ? le : la } plus fort{PAWN_gender ? : e } des combattants, {PAWN_nameDef} fut affecté{PAWN_gender ? : e } à la tour de guet. Observant les allées et venues de ceux qui passaient la porte de la ville, {PAWN_pronoun} s'ennuyait beaucoup, ce qui l'a poussé à commencer à cuisiner dans sa tour en bois. Un jour, {PAWN_pronoun} a accidentellement renversé le chaudron, envoyant des braises partout. La tour s'est rapidement enflammée et a été réduite en cendres. {PAWN_pronoun} a survécu, mais n'a plus jamais été {PAWN_gender ? le : la } même avec le feu.</VBE_Watchman.baseDesc>
+<VBE_Watchman.title>guetteur</VBE_Watchman.title>
+<VBE_Watchman.titleFemale>guetteuse</VBE_Watchman.titleFemale>
+<VBE_Watchman.titleShort>guetteur</VBE_Watchman.titleShort>
+<VBE_Watchman.titleShortFemale>guetteuse</VBE_Watchman.titleShortFemale>
+
+<VBE_FashionDesigner.baseDesc>{PAWN_nameDef} disait toujours que le monde n'était pas prêt pour ses créations, mais {PAWN_pronoun} voulait quand même qu'elles soient fabuleuses. Avec sa fidèle machine à coudre, {PAWN_nameDef} est allé{PAWN_gender ? : e } de défilé en défilé en essayant de se faire un nom.</VBE_FashionDesigner.baseDesc>
+<VBE_FashionDesigner.title>créateur de mode</VBE_FashionDesigner.title>
+<VBE_FashionDesigner.titleFemale>créatrice de mode</VBE_FashionDesigner.titleFemale>
+<VBE_FashionDesigner.titleShort>couturier</VBE_FashionDesigner.titleShort>
+<VBE_FashionDesigner.titleShortFemale>couturière</VBE_FashionDesigner.titleShortFemale>
+
+<VBE_AimlessDilettante.baseDesc>{PAWN_nameDef} est né{PAWN_gender ? : e } dans un milieu privilégié mais n'a jamais su quoi faire de sa vie. Malgré des tuteurs qualifiés pour tout, de l'escrime à l'horticulture, {PAWN_pronoun} n'a jamais vraiment excellé dans quoi que ce soit.</VBE_AimlessDilettante.baseDesc>
+<VBE_AimlessDilettante.title>dilettante sans but</VBE_AimlessDilettante.title>
+<VBE_AimlessDilettante.titleShort>dilettante</VBE_AimlessDilettante.titleShort>
+
+<VBE_CannibalisticSurgeon.baseDesc>{PAWN_nameDef} était chirurgien{PAWN_gender ? : ne } dans une institution prestigieuse jusqu'à ce que sa tendance à prendre des "libertés" avec les défunts soit révélée. Plutôt que de nuire à leur réputation en rendant l'affaire publique, {PAWN_pronoun} s'est vu{PAWN_gender ? : e } offrir un voyage en aller simple vers une planète lointaine en guise de "retraite".</VBE_CannibalisticSurgeon.baseDesc>
+<VBE_CannibalisticSurgeon.title>Chirurgien cannibale</VBE_CannibalisticSurgeon.title>
+<VBE_CannibalisticSurgeon.titleFemale>chirurgienne cannibale</VBE_CannibalisticSurgeon.titleFemale>
+<VBE_CannibalisticSurgeon.titleShort>chirurgien</VBE_CannibalisticSurgeon.titleShort>
+<VBE_CannibalisticSurgeon.titleShortFemale>chirurgienne</VBE_CannibalisticSurgeon.titleShortFemale>
+
+<VBE_LoneTraveller.baseDesc>{PAWN_nameDef} a consacré sa vie à voyager à travers le monde, sans destin ni raison spécifiques. De nombreuses personnes ont rejoint et quitté le voyage de {PAWN_nameDef} au fil du temps, et au cours de celui-ci, {PAWN_pronoun} a appris de nombreuses compétences différentes. Étant donné la nature de sa vie, {PAWN_nameDef} a appris à vivre sans trop de confort.</VBE_LoneTraveller.baseDesc>
+<VBE_LoneTraveller.title>voyageur solitaire</VBE_LoneTraveller.title>
+<VBE_LoneTraveller.titleFemale>voyageuse solitaire</VBE_LoneTraveller.titleFemale>
+<VBE_LoneTraveller.titleShort>voyageur</VBE_LoneTraveller.titleShort>
+<VBE_LoneTraveller.titleShortFemale>voyageuse</VBE_LoneTraveller.titleShortFemale>
+
+<VBE_TroupeChild.baseDesc>{PAWN_nameDef} est né{PAWN_gender ? : e } dans une famille de gens du voyage, mais {PAWN_pronoun} n'est jamais tombé{PAWN_gender ? : e } dans le métier. La troupe se contentée de faire des petits boulots et de garder la tête base, ce qui leur convenait parfaitement. Cependant, la nature nomade de leur famille a fait qu'{PAWN_pronoun} ne s'est pas fait beaucoup d'amis.</VBE_TroupeChild.baseDesc>
+<VBE_TroupeChild.title>enfant de la troupe</VBE_TroupeChild.title>
+<VBE_TroupeChild.titleShort>enfant de la troupe</VBE_TroupeChild.titleShort>
+
+<VBE_LivingCure.baseDesc>Lors d'un examen effectué après la naissance de {PAWN_nameDef}, les médecins ont découvert qu'{PAWN_pronoun} était immunisé{PAWN_gender ? : e } contre diverses maladies grâce à une mutation extrêmement rare, et que son sang pouvait être utilisé pour traiter de nombreuses maladies que l'on croyait en phase terminale. {PAWN_nameDef} a donc été contraint{PAWN_gender ? : e } de rester à l'hôpital pour servir de traitement vivant, et {PAWN_pronoun} n'a jamais été autorisé à sortir.</VBE_LivingCure.baseDesc>
+<VBE_LivingCure.title>remède vivant</VBE_LivingCure.title>
+<VBE_LivingCure.titleShort>remède vivant</VBE_LivingCure.titleShort>
+
+<VBE_Cannonfodder.baseDesc>{PAWN_nameDef} n'a pas eu d'opportunités ou de relations avec des personnes influentes après avoir atteint l'âge adulte. Sachant que sa seule chance était de rejoindre l'armée, {PAWN_pronoun} s'est engagé{PAWN_gender ? : e } dans le rang le plus bas de l'armée.</VBE_Cannonfodder.baseDesc>
+<VBE_Cannonfodder.title>chair à canon</VBE_Cannonfodder.title>
+<VBE_Cannonfodder.titleShort>chair à canon</VBE_Cannonfodder.titleShort>
+
+<VBE_CyberDilettante.baseDesc>{PAWN_nameDef} est amoureu{PAWN_gender ? x : se } des logiciels et du cyberespace, qui ont le potentiel de connecter les gens à travers de vastes distances et d'améliorer leurs capacités avec une précision rapide de calcul mécanisé. {PAWN_pronoun} a toujours voulu être un{PAWN_gender ? : e } codeu{PAWN_gender ? r : se } et regorge d'idées qu'{PAWN_pronoun} aimerait mettre en œuvre... {PAWN_gender ? s'il : si elle } était doué{PAWN_gender ? : e } pour le codage. Malheureusement, ses talents sont tout autre.</VBE_CyberDilettante.baseDesc>
+<VBE_CyberDilettante.title>cyber dilettante</VBE_CyberDilettante.title>
+<VBE_CyberDilettante.titleShort>techie</VBE_CyberDilettante.titleShort>
+
+<VBE_TombMaker.baseDesc>Quand {PAWN_nameDef} était jeune, une variole mortelle a balayé sa colonie, tuant quatre personnes sur cinq. Suffisamment âgé pour utiliser une pelle, {PAWN_pronoun} a creusé des tombes pour de nombreuses personnes qu'{PAWN_pronoun} connaissait et aimait, mais l'enterrement ne suffisait pas à les honorer. {PAWN_pronoun} revenait régulièrement au fil des ans et érigeait progressivement des tombes ornementées pour les morts.</VBE_TombMaker.baseDesc>
+<VBE_TombMaker.title>constructeur de tombes</VBE_TombMaker.title>
+<VBE_TombMaker.titleFemale>constructrice de tombes</VBE_TombMaker.titleFemale>
+<VBE_TombMaker.titleShort>sépulture</VBE_TombMaker.titleShort>
+
+<VBE_GeneticReincarnation.baseDesc>{PAWN_nameDef} a été cultivé en cuve en tant que clone génétique d'un ancien philosophe-tyran. Considéré comme une célébrité de la revitalisation culturelle dès l'enfance, {PAWN_pronoun} était à la fois adulé{PAWN_gender ? : e } et oppressé{PAWN_gender ? : e }, tout le monde exigeant {PAWN_gender ? de lui qu'il : d'elle qu'elle } agisse exactement comme {PAWN_pronoun} le faisait dans sa vie antérieure.</VBE_GeneticReincarnation.baseDesc>
+<VBE_GeneticReincarnation.title>réincarnation génétique</VBE_GeneticReincarnation.title>
+<VBE_GeneticReincarnation.titleShort>réincarnation</VBE_GeneticReincarnation.titleShort>
+
+<VBE_DrillOperator.baseDesc>{PAWN_nameDef} était employé{PAWN_gender ? : e } dans une opération minière de pénétration de la croûte qui a mal tourné. {PAWN_nameDef} était l'un{PAWN_gender ? : e } des rares survivants et, avec les autres, {PAWN_pronoun} a intenté un procès à la compagnie minière en affirmant qu'elle avait dissimulé la découverte d'une infestation d'insectoïdes pour s'assurer des profits supplémentaires. Lorsque la compagnie a commencé à faire taire les survivants, {PAWN_pronoun} a embarqué sur un vaisseau spatial pour des raisons de sécurité.</VBE_DrillOperator.baseDesc>
+<VBE_DrillOperator.title>opérateur de forage</VBE_DrillOperator.title>
+<VBE_DrillOperator.titleFemale>opératrice de forage</VBE_DrillOperator.titleFemale>
+<VBE_DrillOperator.titleShort>foreur</VBE_DrillOperator.titleShort>
+
+<VBE_WalkerEngineer.baseDesc>Toujours prêt à relever un défi, {PAWN_nameDef} a travaillé sur divers véhicules militaires, dont les effrayants marcheurs de combat. Un travail dur et transpirant avec un risque élevé de blessures aux membres, {PAWN_nameDef} s'est rapidement adapté{PAWN_gender ? : e } aux cycles de travail exténuants. Cela a cependant coûté à sa créativité et lui a laissé peu de temps pour d'autres passe-temps.</VBE_WalkerEngineer.baseDesc>
+<VBE_WalkerEngineer.title>ingénieur des marcheurs</VBE_WalkerEngineer.title>
+<VBE_WalkerEngineer.titleShort>ingénieur</VBE_WalkerEngineer.titleShort>
+
+<VBE_Freak.baseDesc>{PAWN_nameDef} est né{PAWN_gender ? : e } sévèrement déformé{PAWN_gender ? : e }. {PAWN_pronoun} a été vendu à un cirque spatial et a voyagé entre les mondes. Là, les gens payaient pour {PAWN_gender ? le : la } voir présenter divers spectacles. Un jour, alors que la compagnie se rendait dans une station spatiale voisine, {PAWN_nameDef} a réussi à s'échapper.</VBE_Freak.baseDesc>
+<VBE_Freak.title>monstre</VBE_Freak.title>
+<VBE_Freak.titleShort>monstre</VBE_Freak.titleShort>
+
+<VBE_Propagandist.baseDesc>{PAWN_nameDef} a trouvé un emploi de journaliste, mais a fini par remarquer que son travail était souvent modifié avant d'être publié, de nombreux aspects étant omis ou entièrement réécrits. Quand {PAWN_pronoun} en a parlé à la direction, on lui a répondu que le choix était la vérité ou le succès... {PAWN_pronoun} a choisi le deuxième. Ça l'empêchait de dormir la nuit, mais l'argent est l'argent et la gloire est la gloire.</VBE_Propagandist.baseDesc>
+<VBE_Propagandist.title>propagandiste</VBE_Propagandist.title>
+<VBE_Propagandist.titleShort>propagandiste</VBE_Propagandist.titleShort>
+
+<VBE_LighthouseKeeper.baseDesc>Solitaire, {PAWN_nameDef} a passé une grande partie de sa vie à s'occuper des stations spatiales de signalisation (pour la plupart) automatisées. Fournissant des informations de navigation aux vaisseaux de toutes les époques, ces postes calmes étaient souvent considérés comme des punitions par ceux qui y travaillaient. Cependant, {PAWN_nameDef} n'est pas d'accord, le calme est merveilleux pour {PAWN_objective} et son art.</VBE_LighthouseKeeper.baseDesc>
+<VBE_LighthouseKeeper.title>gardien de phare</VBE_LighthouseKeeper.title>
+<VBE_LighthouseKeeper.titleFemale>gardienne de phare</VBE_LighthouseKeeper.titleFemale>
+<VBE_LighthouseKeeper.titleShort>gardien</VBE_LighthouseKeeper.titleShort>
+<VBE_LighthouseKeeper.titleShortFemale>gardienne</VBE_LighthouseKeeper.titleShortFemale>
+
+<VBE_AtomicBombardier.baseDesc>{PAWN_nameDef} était chargé{PAWN_gender ? : e } d'aligner et de libérer les bombes nucléaires au-dessus du territoire ennemi. Au cours de ses années de service, son tir est devenu très précis et son esprit s'est désensibilisé à la mort.</VBE_AtomicBombardier.baseDesc>
+<VBE_AtomicBombardier.title>bombardier atomique</VBE_AtomicBombardier.title>
+<VBE_AtomicBombardier.titleShort>bombardier</VBE_AtomicBombardier.titleShort>
+
+<VBE_BureaucraticProgrammer.baseDesc>{PAWN_nameDef} a passé sa vie d'adulte à coder des programmes pour extraire des données de formulaires administratifs afin qu'ils puissent remplir automatiquement d'autres formulaires. Bien sûr, comme d'autres fonctionnaires devaient légalement revérifier les résultats de son programme, les économies réelles de travail étaient au mieux marginales. {PAWN_pronoun} a passé trop de temps derrière un bureau pour être très utile au travail manuel.</VBE_BureaucraticProgrammer.baseDesc>
+<VBE_BureaucraticProgrammer.title>programmeur fonctionnaire</VBE_BureaucraticProgrammer.title>
+<VBE_BureaucraticProgrammer.titleFemale>programmeuse fonctionnaire</VBE_BureaucraticProgrammer.titleFemale>
+<VBE_BureaucraticProgrammer.titleShort>fonctionnaire</VBE_BureaucraticProgrammer.titleShort>
+
+<VBE_Barber.baseDesc>{PAWN_nameDef} a travaillé comme barbie{PAWN_gender ? r : ère }, coupant et coiffant les cheveux. {PAWN_pronoun} sait se servir d'une paire de ciseaux et peut entretenir la conversation avec ses clients.</VBE_Barber.baseDesc>
+<VBE_Barber.title>barbier</VBE_Barber.title>
+<VBE_Barber.titleFemale>barbière</VBE_Barber.titleFemale>
+<VBE_Barber.titleShort>barbier</VBE_Barber.titleShort>
+<VBE_Barber.titleShortFemale>barbière</VBE_Barber.titleShortFemale>
+
+<VBE_AddictedGamer.baseDesc>{PAWN_nameDef} est accro aux jeux vidéo et on peut souvent {PAWN_gender ? le : la } trouver en train de jouer jusqu'au petit matin. {PAWN_pronoun} correspond à tous les stéréotypes négatifs, de la chambre en désordre à la maladresse sociale, mais au moins {PAWN_pronoun} a appris quelques trucs sur l'artisanat et l'exploitation minière.</VBE_AddictedGamer.baseDesc>
+<VBE_AddictedGamer.title>joueur addict</VBE_AddictedGamer.title>
+<VBE_AddictedGamer.titleFemale>joueuse addict</VBE_AddictedGamer.titleFemale>
+<VBE_AddictedGamer.titleShort>joueur</VBE_AddictedGamer.titleShort>
+<VBE_AddictedGamer.titleShortFemale>joueuse</VBE_AddictedGamer.titleShortFemale>
+
+<VBE_VatgrownColonist.baseDesc>{PAWN_nameDef} a grandi dans un laboratoire en tant que corps remplaçable sur le Glitterworld. {PAWN_pronoun} a été élevé avec les autres enfants de modèles standard et n'a connu que la vie sous la direction de leurs guides scientifiques.</VBE_VatgrownColonist.baseDesc>
+<VBE_VatgrownColonist.title>colon de cuve</VBE_VatgrownColonist.title>
+<VBE_VatgrownColonist.titleShort>colon</VBE_VatgrownColonist.titleShort>
+
+<VBE_StructuralEngineer.baseDesc>Après avoir étudié l'ingénierie pendant quelques années, {PAWN_nameDef} conçoit maintenant des bâtiments, des ponts et d'autres structures. {PAWN_pronoun} comprend très bien comment construire chaque partie d'un projet. Une grande partie de son temps est consacrée à la coordination avec l'architecte, l'entrepreneur et les autres ingénieurs.</VBE_StructuralEngineer.baseDesc>
+<VBE_StructuralEngineer.title>ingénieur structurel</VBE_StructuralEngineer.title>
+<VBE_StructuralEngineer.titleShort>ingénieur</VBE_StructuralEngineer.titleShort>
+
+<VBE_WretchedChild.baseDesc>Enfant, {PAWN_nameDef} a été rejeté par ses semblables. {PAWN_pronoun} a grandi sans se soucier des autres et s'est concentré{PAWN_gender ? : e } sur la survie avec ce qu'{PAWN_pronoun} pouvait avoir près de chez {PAWN_objective}.</VBE_WretchedChild.baseDesc>
+<VBE_WretchedChild.title>enfant misérable</VBE_WretchedChild.title>
+<VBE_WretchedChild.titleShort>misérable</VBE_WretchedChild.titleShort>
+
+<VBE_ForcedPrimitivist.baseDesc>{PAWN_nameDef} n'a pas toujours fait partie des tribus. Après avoir été exilé de son syndicat local d'étrangers pour avoir ruiné une récolte entière, {PAWN_nameDef} a dû vivre à la belle étoile pendant des années, avec des outils rudimentaires pour l'aider. Cela a fait {PAWN_gender ? de lui : d'elle } un{PAWN_gender ? : e } touche-à-tout, mais a complètement brisé sa confiance envers les gens.</VBE_ForcedPrimitivist.baseDesc>
+<VBE_ForcedPrimitivist.title>primitif forcé</VBE_ForcedPrimitivist.title>
+<VBE_ForcedPrimitivist.titleFemale>primitive forcée</VBE_ForcedPrimitivist.titleFemale>
+<VBE_ForcedPrimitivist.titleShort>primitif</VBE_ForcedPrimitivist.titleShort>
+<VBE_ForcedPrimitivist.titleShortFemale>primitive</VBE_ForcedPrimitivist.titleShortFemale>
+
+<VBE_GiftedBurnout.baseDesc>Depuis son plus jeune âge, {PAWN_nameDef} est considéré{PAWN_gender ? : e } comme un génie. Les tests, l'entraînement et les éloges constants des adultes qui l'entouraient étaient une bonne chose, mais la pression constante, les attentes et l'échec final ont exacerbé une longue liste de troubles mentaux qui dormaient dans l'esprit de {PAWN_nameDef}. {PAWN_pronoun} conserve son entraînement, mais il lui sera difficile de l'utiliser pour le reste de sa vie.</VBE_GiftedBurnout.baseDesc>
+<VBE_GiftedBurnout.title>surdoué en burnout</VBE_GiftedBurnout.title>
+<VBE_GiftedBurnout.titleFemale>surdouée en burnout</VBE_GiftedBurnout.titleFemale>
+<VBE_GiftedBurnout.titleShort>surdoué</VBE_GiftedBurnout.titleShort>
+<VBE_GiftedBurnout.titleShortFemale>surdouée</VBE_GiftedBurnout.titleShortFemale>
+
+<VBE_ForgottenChild.baseDesc>Quand {PAWN_nameDef} était jeune, {PAWN_pronoun} a trouvé une porte secrète dans le magasin d'antiquités de son grand-père. Curieu{PAWN_gender ? x : se } de savoir ce qu'il y avait derrière, {PAWN_pronoun} s'y est aventuré{PAWN_gender ? : e } et a découvert une terre d'aventures sans fin. Il n'y a aucun moyen de savoir si c'est vrai, mais vu que {PAWN_nameDef} a été retrouvé enfant, oublié dans un caisson cryogénique près de cent ans plus tard, rien ne semble impossible.</VBE_ForgottenChild.baseDesc>
+<VBE_ForgottenChild.title>enfant oublié</VBE_ForgottenChild.title>
+<VBE_ForgottenChild.titleShort>disparu</VBE_ForgottenChild.titleShort>
+<VBE_ForgottenChild.titleShortFemale>disparue</VBE_ForgottenChild.titleShortFemale>
+
+<VBE_Demoscener.baseDesc>{PAWN_nameDef} a toujours été intéressé par les ordinateurs et la programmation. En particulier les ordinateurs qui sont si vieux que la frontière entre programmation et ingénierie est floue. {PAWN_nameDef} est tombé{PAWN_gender ? : e } dans une culture qui utilise ces anciennes machines pour créer de l'art, en utilisant toute l'étendue de la programmation primitive disponible.</VBE_Demoscener.baseDesc>
+<VBE_Demoscener.title>démonstrateur</VBE_Demoscener.title>
+<VBE_Demoscener.titleFemale>démonstratrice</VBE_Demoscener.titleFemale>
+<VBE_Demoscener.titleShort>démonstrateur</VBE_Demoscener.titleShort>
+<VBE_Demoscener.titleShortFemale>démonstratrice</VBE_Demoscener.titleShortFemale>
+
+<VBE_IndustrialTinkerer.baseDesc>Après avoir trouvé sa passion dans le fonctionnement des choses, {PAWN_nameDef} s'est passionné{PAWN_gender ? : e } pour le bricolage, la construction et le codage. S'inspirant de la nature et des machines qu'{PAWN_pronoun} démontait, {PAWN_nameDef} a construit de nombreux engins mécaniques et électriques utiles pour améliorer sa vie quotidienne. En explorant et en étudiant la nature, {PAWN_pronoun} a également appris à connaître les besoins de survie de base et certains soins de base. Parce qu'{PAWN_pronoun} est toujours dans ses pensées, {PAWN_nameDef} n'est pas très sociable, et {PAWN_pronoun} est constamment tendu{PAWN_gender ? : e }.</VBE_IndustrialTinkerer.baseDesc>
+<VBE_IndustrialTinkerer.title>bricoleur industriel</VBE_IndustrialTinkerer.title>
+<VBE_IndustrialTinkerer.titleFemale>bricoleuse industriel</VBE_IndustrialTinkerer.titleFemale>
+<VBE_IndustrialTinkerer.titleShort>bricoleur</VBE_IndustrialTinkerer.titleShort>
+<VBE_IndustrialTinkerer.titleShortFemale>bricoleuse</VBE_IndustrialTinkerer.titleShortFemale>
+
+<VBE_InformationSponge.baseDesc>{PAWN_nameDef} a grandi avec une soif de connaissances, que ce soit en science, en histoire ou en philosophie. S'enfuyant dans la nature, {PAWN_pronoun} passait tout son temps à apprendre de la nature et des ruines qu'{PAWN_pronoun} trouvait. Lorsqu'{PAWN_pronoun} était plus jeune, beaucoup l'écoutaient juste pour voir ce qu'{PAWN_pronoun} disait, mais avec le temps, d'autres ont cessé de l'écouter car ses connaissances s'approfondissaient, les laissant derrière {PAWN_objective}. Au fil du temps, {PAWN_pronoun} est devenu{PAWN_gender ? : e } plus solitaire, et a principalement trouvé du réconfort dans son travail.</VBE_InformationSponge.baseDesc>
+<VBE_InformationSponge.title>éponge d'information</VBE_InformationSponge.title>
+<VBE_InformationSponge.titleShort>éponge</VBE_InformationSponge.titleShort>
+
+<VBE_ReincarnatedSoul.baseDesc>{PAWN_nameDef} croit qu'{PAWN_pronoun} était autrefois un pieux intendant d'une religion perdue depuis longtemps. Réincarné{PAWN_gender ? : e } pour vivre la vie comme {PAWN_pronoun} l'entend, {PAWN_nameDef} semble avoir une compétence surnaturelle en cuisine et en artisanat malgré son jeune âge.</VBE_ReincarnatedSoul.baseDesc>
+<VBE_ReincarnatedSoul.title>âme réincarnée</VBE_ReincarnatedSoul.title>
+<VBE_ReincarnatedSoul.titleShort>réincarné</VBE_ReincarnatedSoul.titleShort>
+<VBE_ReincarnatedSoul.titleShortFemale>réincarnée</VBE_ReincarnatedSoul.titleShortFemale>
+
+<VBE_LightingAssistant.baseDesc>{PAWN_nameDef} a aidé à réaliser les éclairages de fond dans les films et les spectacles. Travaillant dans les coulisses sans se faire remarquer, {PAWN_pronoun} n'a jamais été reconnu par ses supérieurs et a simplement choisi de travailler plus dur jusqu'à ce que quelqu'un remarque son talent. Tous ces travaux de bricolage sur les équipements électriques ont permis à {PAWN_nameDef} d'acquérir une connaissance approfondie sur la fabrication.</VBE_LightingAssistant.baseDesc>
+<VBE_LightingAssistant.title>assistant lumière</VBE_LightingAssistant.title>
+<VBE_LightingAssistant.titleFemale>assistante lumière</VBE_LightingAssistant.titleFemale>
+<VBE_LightingAssistant.titleShort>assistant</VBE_LightingAssistant.titleShort>
+<VBE_LightingAssistant.titleShortFemale>assistante</VBE_LightingAssistant.titleShortFemale>
+
+<VBE_SiloManager.baseDesc>Les Urbworlds sont remplis d'énormes silos de ressources, hauts d'un demi-kilomètre et larges de plusieurs kilomètres, avec des milliers d'ouvriers à peine payés transportant les matériaux comme de petites fourmis à travers le vaste complexe. {PAWN_nameDef} travaillait comme responsable de l'un de ces silos, et n'avait même pas besoin de se lever de son bureau.</VBE_SiloManager.baseDesc>
+<VBE_SiloManager.title>responsable de silos</VBE_SiloManager.title>
+<VBE_SiloManager.titleShort>responsable</VBE_SiloManager.titleShort>
+
+<VBE_Pushover.baseDesc>{PAWN_nameDef} était une personne facile à manipuler et un véritable paria. Étant constamment malmené, {PAWN_pronoun} a développé un dégoût pour les autres. Toutes les nuits passées à faire les devoirs des autres lui ont permis d'obtenir d'excellents résultats aux tests.</VBE_Pushover.baseDesc>
+<VBE_Pushover.title>bonne poire</VBE_Pushover.title>
+<VBE_Pushover.titleShort>bonne poire</VBE_Pushover.titleShort>
+
+<VBE_Commenter.baseDesc>{PAWN_nameDef} n'a rien fait d'autre dans sa vie que de se moquer sans vergogne du travail des personnes ayant plus de succès. Grâce aux forums d'Internet, {PAWN_pronoun} a trouvé d'autres personnes de son espèce, qui se chamaillaient collectivement, ne contribuant en rien à la société Glitterworld. Cependant, {PAWN_nameDef} savait très bien comment utiliser un thésaurus.</VBE_Commenter.baseDesc>
+<VBE_Commenter.title>commentateur</VBE_Commenter.title>
+<VBE_Commenter.titleFemale>commentatrice</VBE_Commenter.titleFemale>
+<VBE_Commenter.titleShort>commentateur</VBE_Commenter.titleShort>
+<VBE_Commenter.titleShortFemale>commentatrice</VBE_Commenter.titleShortFemale>
+
+<VBE_ResearchScientist.baseDesc>{PAWN_nameDef} est un{PAWN_gender ? : e } scientifique et un{PAWN_gender ? : e } analyste d'un important institut de recherche de Glitterworld. Ses études et ses expériences ne lui ont peut-être pas valu de grandes louanges, mais {PAWN_pronoun} a contribué à sa manière aux plus grandes percées de l'entreprise. Son travail prenait souvent la majorité de son temps libre, il lui manque donc un peu d'intelligence émotionnelle d'un citoyen moyen.</VBE_ResearchScientist.baseDesc>
+<VBE_ResearchScientist.title>chercheur scientifique</VBE_ResearchScientist.title>
+<VBE_ResearchScientist.titleFemale>chercheuse scientifique</VBE_ResearchScientist.titleFemale>
+<VBE_ResearchScientist.titleShort>chercheur</VBE_ResearchScientist.titleShort>
+<VBE_ResearchScientist.titleShortFemale>chercheuse</VBE_ResearchScientist.titleShortFemale>
+
+<VBE_UrbworldWarStudent.baseDesc>{PAWN_nameDef} a grandi dans des conditions plutôt cossues sur une planète turbulente, Urbworld. {PAWN_pronoun} a consacré une grande partie de son enfance à des études formelles sur une planète constamment plongée dans les conflits. Par conséquent, {PAWN_nameDef} a grandi avec une connaissance approfondie des machines de guerre et a développé une passion pour elles.</VBE_UrbworldWarStudent.baseDesc>
+<VBE_UrbworldWarStudent.title>étudiant en guerre d'Urbworld</VBE_UrbworldWarStudent.title>
+<VBE_UrbworldWarStudent.titleFemale>étudiante en guerre d'Urbworld</VBE_UrbworldWarStudent.titleFemale>
+<VBE_UrbworldWarStudent.titleShort>étudiant</VBE_UrbworldWarStudent.titleShort>
+<VBE_UrbworldWarStudent.titleShortFemale>étudiante</VBE_UrbworldWarStudent.titleShortFemale>
+
+<VBE_AnomalousCreatureResearcher.baseDesc>{PAWN_nameDef} faisait partie d'une organisation secrète dédiée à la capture et à l'étude des phénomènes jugés "anormaux", {PAWN_nameDef} travaillait dans le département dédié à la capture et à l'étude des créatures anormales. Après une violation de confinement de trop, {PAWN_nameDef} a été traumatisé et a quitté l'organisation.</VBE_AnomalousCreatureResearcher.baseDesc>
+<VBE_AnomalousCreatureResearcher.title>chercheur en créatures anormales</VBE_AnomalousCreatureResearcher.title>
+<VBE_AnomalousCreatureResearcher.titleFemale>chercheuse en créatures anormales</VBE_AnomalousCreatureResearcher.titleFemale>
+<VBE_AnomalousCreatureResearcher.titleShort>chercheur</VBE_AnomalousCreatureResearcher.titleShort>
+<VBE_AnomalousCreatureResearcher.titleShortFemale>chercheuse</VBE_AnomalousCreatureResearcher.titleShortFemale>
+
+<VBE_FringeShitposter.baseDesc>En tant que jeune adulte, {PAWN_nameDef} s'est intéressé{PAWN_gender ? : e } aux forums d'Internet de niche et marginaux. Obsédé{PAWN_gender ? : e } par la culture profonde et les plaisanteries complexes, {PAWN_nameDef} a laissé cette passion consumer sa vie. Aujourd'hui, dans la Bordure, {PAWN_nameDef} n'est pas préparé{PAWN_gender ? : e } à la survie et a du mal à communiquer sans évoquer un argot ancien et oublié ou un mème complexe. Au moins, {PAWN_pronoun} a appris un jargon militaire vague et dépassé...</VBE_FringeShitposter.baseDesc>
+<VBE_FringeShitposter.title>scatéditeur</VBE_FringeShitposter.title>
+<VBE_FringeShitposter.titleFemale>scatéditrice</VBE_FringeShitposter.titleFemale>
+<VBE_FringeShitposter.titleShort>scatéditeur</VBE_FringeShitposter.titleShort>
+<VBE_FringeShitposter.titleShortFemale>scatéditrice</VBE_FringeShitposter.titleShortFemale>
+
+<VBE_Rudie.baseDesc>Ayant grandi{PAWN_gender ? : e } dans un monde industriel, {PAWN_nameDef} a constaté que le monde qui l'entourait était rapidement transformé en entreprise et embourgeoisé. Lorsque sa ville a été menacée, {PAWN_pronoun} a rejoint un gang local de jeunes qui sabotaient les efforts des entreprises et répandaient la culture dans les rues. Après la mort suspecte et accidentelle du PDG de la société, {PAWN_nameDef} a raccroché ses patins et sa bombe aérosol, et {PAWN_pronoun} est parti{PAWN_gender ? : e } pour une vie plus sûre.</VBE_Rudie.baseDesc>
+<VBE_Rudie.title>rudie</VBE_Rudie.title>
+<VBE_Rudie.titleShort>rudie</VBE_Rudie.titleShort>
+
+<VBE_ShipSalvager.baseDesc>Rapide, rusé{PAWN_gender ? : e } et sale, voilà comment vit {PAWN_nameDef}. {PAWN_nameDef} s'est lancé{PAWN_gender ? : e } dans le dangereux travail de démolition de vaisseaux pour gagner sa vie. Au fil du temps, {PAWN_pronoun} est devenu{PAWN_gender ? : e } très bon{PAWN_gender ? : ne } dans ce qu'{PAWN_pronoun} fait, en démontant des choses, et se faisant presque tuer sur pratiquement chaque boulot.</VBE_ShipSalvager.baseDesc>
+<VBE_ShipSalvager.title>recycleur de vaisseaux</VBE_ShipSalvager.title>
+<VBE_ShipSalvager.titleShort>recycleur</VBE_ShipSalvager.titleShort>
+
+<VBE_CivilRightsActivist.baseDesc>Peu de temps après avoir quitté le foyer familial pour l'enseignement supérieur, {PAWN_nameDef} a pris conscience de diverses injustices sociétales et a cherché à devenir une force de changement positif. Ils ont organisé des rassemblements devant les bâtiments administratifs pendant les vacances semestrielles, en concevant leurs propres panneaux et slogans.</VBE_CivilRightsActivist.baseDesc>
+<VBE_CivilRightsActivist.title>militant des droits civiques</VBE_CivilRightsActivist.title>
+<VBE_CivilRightsActivist.titleFemale>militante des droits civiques</VBE_CivilRightsActivist.titleFemale>
+<VBE_CivilRightsActivist.titleShort>militant</VBE_CivilRightsActivist.titleShort>
+<VBE_CivilRightsActivist.titleShortFemale>militante</VBE_CivilRightsActivist.titleShortFemale>
+
+<VBE_UrbworldRioter.baseDesc>Lorsque les protestations pacifiques ne suffisent pas à provoquer un changement social, {PAWN_nameDef} enfile son équipement de fortune et mène le combat contre l'autorité dans les rues de la ville. Très désavantagés par rapport aux détenteurs du pouvoir, les membres de {PAWN_nameDef} ont dû fabriquer leurs propres armes et protections, et soigner leurs propres blessures.</VBE_UrbworldRioter.baseDesc>
+<VBE_UrbworldRioter.title>émeutier d'Urbworld</VBE_UrbworldRioter.title>
+<VBE_UrbworldRioter.titleFemale>émeutière d'Urbworld</VBE_UrbworldRioter.titleFemale>
+<VBE_UrbworldRioter.titleShort>émeutière</VBE_UrbworldRioter.titleShort>
+<VBE_UrbworldRioter.titleShortFemale>émeutier</VBE_UrbworldRioter.titleShortFemale>
+
+<VBE_Mariner.baseDesc>{PAWN_nameDef} a passé la majeure partie de sa vie sur un navire en mer, à sécuriser les cargaisons de port en port. {PAWN_pronoun} savait comment garder le navire intact, mais passait rarement beaucoup de temps hors du navire ou en dehors d'un port.</VBE_Mariner.baseDesc>
+<VBE_Mariner.title>marin</VBE_Mariner.title>
+<VBE_Mariner.titleShort>marin</VBE_Mariner.titleShort>
+
+<VBE_HumanSupremacist.baseDesc>{PAWN_nameDef} est farouchement opposé{PAWN_gender ? : e } à la modification génétique et à la création de xénohumains. {PAWN_pronoun} pense que les humains, non modifiés, ont un esprit et une âme supérieurs à ceux des autres. Bien qu'{PAWN_pronoun} ait des préjugés, ses arguments sont bien préparés et présentés avec autorité.</VBE_HumanSupremacist.baseDesc>
+<VBE_HumanSupremacist.title>suprémaciste humain</VBE_HumanSupremacist.title>
+<VBE_HumanSupremacist.titleShort>suprémaciste</VBE_HumanSupremacist.titleShort>
+
+<VBE_FoodCritic.baseDesc>Enfant d'un génie culinaire estimé, {PAWN_nameDef} a profité de l'influence du nom de ses parents pour lancer une carrière de critique gastronomique dans son système d'origine. Alors que de nombreux restaurants et chefs {PAWN_gender ? le : la } craignaient, certains recherchaient sa marque d'approbation.</VBE_FoodCritic.baseDesc>
+<VBE_FoodCritic.title>critique gastronomique</VBE_FoodCritic.title>
+<VBE_FoodCritic.titleShort>critique</VBE_FoodCritic.titleShort>
+
+<VBE_PreservationistRuler.baseDesc>{PAWN_nameDef} régnait sur une civilisation autrefois prospère qui était un témoignage des arts et de la créativité humaine. Malheureusement, {PAWN_pronoun} a hérité de la querelle de sa famille avec une dynastie rivale, ce qui a entraîné la destruction de son monde natal. Plutôt que d'aller de l'avant, {PAWN_pronoun} a supervisé la construction d'un vaste réseau d'habitats orbitaux et de réseaux de défense pour préserver la culture et l'histoire de son monde désormais vitré.</VBE_PreservationistRuler.baseDesc>
+<VBE_PreservationistRuler.title>dirigeant conservateur</VBE_PreservationistRuler.title>
+<VBE_PreservationistRuler.titleFemale>dirigeante conservatrice</VBE_PreservationistRuler.titleFemale>
+<VBE_PreservationistRuler.titleShort>préservateur</VBE_PreservationistRuler.titleShort>
+<VBE_PreservationistRuler.titleShortFemale>préservatrice</VBE_PreservationistRuler.titleShortFemale>
+
+<VBE_MarineworldResearcher.baseDesc>Voyant le potentiel inexploité des océans pour nourrir les colonies et les villes, {PAWN_nameDef} s'est établi{PAWN_gender ? : e } sur un monde presque entièrement recouvert d'océan. Bien que {PAWN_nameDef} soit adepte de l'étude des algues et de la vie aquatique, {PAWN_pronoun} prend rarement le temps d'interagir avec d'autres chercheurs ou de perfectionner d'autres compétences.</VBE_MarineworldResearcher.baseDesc>
+<VBE_MarineworldResearcher.title>chercheur du monde marin</VBE_MarineworldResearcher.title>
+<VBE_MarineworldResearcher.title>chercheuse du monde marin</VBE_MarineworldResearcher.title>
+<VBE_MarineworldResearcher.titleShort>chercheur marin</VBE_MarineworldResearcher.titleShort>
+<VBE_MarineworldResearcher.titleShort>chercheuse marine</VBE_MarineworldResearcher.titleShort>
+
+<VBE_Informant.baseDesc>{PAWN_nameDef} a fait partie d'une importante organisation criminelle, mais après avoir été arrêté, {PAWN_pronoun} est devenu{PAWN_gender ? : e } un{PAWN_gender ? : e } informat{PAWN_gender ? eur : rice } pour les forces de l'ordre de Glitterworld. Dans le cadre de l'accord, {PAWN_pronoun} a reçu un nouveau nom et une nouvelle identité et a été expédié dans un monde extérieur.</VBE_Informant.baseDesc>
+<VBE_Informant.title>informateur</VBE_Informant.title>
+<VBE_Informant.titleFemale>informatrice</VBE_Informant.titleFemale>
+<VBE_Informant.titleShort>informateur</VBE_Informant.titleShort>
+<VBE_Informant.titleShortFemale>informatrice</VBE_Informant.titleShortFemale>
+
+<VBE_EldestCaretaker.baseDesc>En tant qu'aîné{PAWN_gender ? : e }, {PAWN_nameDef} avait pour mission de s'occuper de ses frères et sœurs. Pendant que les adultes étaient partis travailler, {PAWN_pronoun} s'est habitué{PAWN_gender ? : e } à être responsable, mais n'a pas eu beaucoup de chance d'explorer par {PAWN_objective}-même en tant qu'enfant.</VBE_EldestCaretaker.baseDesc>
+<VBE_EldestCaretaker.title>gardien aîné</VBE_EldestCaretaker.title>
+<VBE_EldestCaretaker.titleShort>nourrice</VBE_EldestCaretaker.titleShort>
+
+<VBE_Oracle.baseDesc>{PAWN_nameDef} n'était pas comme tout le monde, et tout le monde le savait. Ses visions étranges, ses crises et son comportement excentrique ont toujours tenu {PAWN_nameDef} à distance des autres. {PAWN_pronoun} aurait été exclu bien avant, si ses visions ne s'étaient pas si souvent réalisées.</VBE_Oracle.baseDesc>
+<VBE_Oracle.title>oracle</VBE_Oracle.title>
+<VBE_Oracle.titleShort>oracle</VBE_Oracle.titleShort>
+
+<VBE_Apprentice.baseDesc>Une fois majeur, {PAWN_gender ? le : la } jeune {PAWN_nameDef} s'est mis à étudier auprès des grands maîtres, apprenant en partant de la base. {PAWN_pronoun} a quitté sa famille et son foyer pour poursuivre une passion et un métier. Le travail était éreintant mais ça valait le coup de tracer sa propre voie.</VBE_Apprentice.baseDesc>
+<VBE_Apprentice.title>apprenti</VBE_Apprentice.title>
+<VBE_Apprentice.titleFemale>apprentie</VBE_Apprentice.titleFemale>
+<VBE_Apprentice.titleShort>apprenti</VBE_Apprentice.titleShort>
+<VBE_Apprentice.titleShortFemale>apprentie</VBE_Apprentice.titleShortFemale>
+
+<VBE_MedievalPage.baseDesc>En servant sous les ordres d'un grand seigneur ou d'une grande dame, {PAWN_nameDef} a prêté serment à son seigneur. La plupart du temps, cela se résumait à des tâches de transport, de nettoyage et de travail, mais {PAWN_pronoun} y avait beaucoup à apprendre en étudiant sous "l'égide" de la noblesse.</VBE_MedievalPage.baseDesc>
+<VBE_MedievalPage.title>page médiévale</VBE_MedievalPage.title>
+<VBE_MedievalPage.titleShort>page</VBE_MedievalPage.titleShort>
+
+<VBE_Translator.baseDesc>{PAWN_nameDef} a toujours aimé les langues étrangères. {PAWN_pronoun} travaillait à domicile comme traducteur indépendant. Cela lui laissait suffisamment de temps pour élargir ses connaissances dans divers domaines et pour s'occuper de son jardin. Cependant, {PAWN_pronoun} passait des semaines sans contact humain et, aujourd'hui encore, {PAWN_pronoun} n'est pas à l'aise avec les étrangers.</VBE_Translator.baseDesc>
+<VBE_Translator.title>traducteur</VBE_Translator.title>
+<VBE_Translator.titleFemale>traductrice</VBE_Translator.titleFemale>
+<VBE_Translator.titleShort>traducteur</VBE_Translator.titleShort>
+<VBE_Translator.titleShortFemale>traductrice</VBE_Translator.titleShortFemale>
+
+<VBE_Maid.baseDesc>L'ordre et la propreté, c'est la devise de {PAWN_nameDef}. {PAWN_pronoun} voit beaucoup plus le côté miteux du monde, nettoyant d'une manière ou d'une autre. Mais {PAWN_pronoun} sait mieux que quiconque quand appliquer son métier, car ses compétences ne se limitent pas qu'au nettoyage.</VBE_Maid.baseDesc>
+<VBE_Maid.title>soubrette</VBE_Maid.title>
+<VBE_Maid.titleShort>soubrette</VBE_Maid.titleShort>
+
+<VBE_AbandonedColonist.baseDesc>{PAWN_nameDef} a été sélectionné pour un programme de colonisation sur une planète lointaine. Lorsque son vaisseau a été détruit, {PAWN_nameDef} ne faisait pas partie des quelques privilégiés qui ont eu le privilège d'avoir une capsule de sauvetage. Mais, par miracle, {PAWN_pronoun} a survécu et s'est juré{PAWN_gender ? : e } de retrouver ceux qui l'avaient abandonné.</VBE_AbandonedColonist.baseDesc>
+<VBE_AbandonedColonist.title>colon abandonné</VBE_AbandonedColonist.title>
+<VBE_AbandonedColonist.titleShort>colon</VBE_AbandonedColonist.titleShort>
+
+<VBE_CorporateSpy.baseDesc>{PAWN_nameDef} faisait de l'espionnage industriel pour une grande entreprise. L'une de ses missions l'obligeait à changer de sexe pour séduire le PDG d'une société rivale. {PAWN_nameDef} n'a réussi à accomplir sa mission que parce qu'{PAWN_pronoun} se sentait plus en phase avec son nouveau sexe qu'avec l'ancien. Cela lui a donné une perspective unique et {PAWN_pronoun} a commencé à offrir des conseils aux personnes qui se sentent dépassées par les attentes des autres.</VBE_CorporateSpy.baseDesc>
+<VBE_CorporateSpy.title>espion d'entreprise</VBE_CorporateSpy.title>
+<VBE_CorporateSpy.titleFemale>espionne d'entreprise</VBE_CorporateSpy.titleFemale>
+<VBE_CorporateSpy.titleShort>espion</VBE_CorporateSpy.titleShort>
+<VBE_CorporateSpy.titleShortFemale>espionne</VBE_CorporateSpy.titleShortFemale>
+
+<VBE_Bullleaper.baseDesc>{PAWN_nameDef} est un{PAWN_gender ? : e } danseu{PAWN_gender ? r : se } et un{PAWN_gender ? : e } acrobate. {PAWN_pronoun} avait l'habitude de danser autour et de sauter par-dessus le dos d'un taureau en charge pour divertir la foule. Tous les toreros doivent être très agiles, mais ce qui le rendait particulièrement bon{PAWN_gender ? : ne } était sa profonde compréhension du comportement de l'animal. L'enjambement des taureaux étant une activité très dangereuse, {PAWN_nameDef} devait souvent prodiguer les premiers soins à ses collègues blessés.</VBE_Bullleaper.baseDesc>
+<VBE_Bullleaper.title>torero</VBE_Bullleaper.title>
+<VBE_Bullleaper.titleShort>torero</VBE_Bullleaper.titleShort>
+
+<VBE_DroneOperator.baseDesc>{PAWN_nameDef} a été engagé pour superviser les drones défensifs d'un grand vaisseau de transport intra-système. Destiné{PAWN_gender ? : e } à fournir une paire d'yeux humains pour empêcher les pirates les plus rusés de passer outre les systèmes automatisés, son travail consistait souvent en de longues périodes de maintenance et d'observation d'écrans vides entre les quais. Lorsque le vaisseau a été enrôlé pour être transféré dans un système, {PAWN_pronoun} n'en a rien pensé et a continué sa routine. {PAWN_pronoun} somnolait profondément quand la première nacelle d'intrusion a frappé.</VBE_DroneOperator.baseDesc>
+<VBE_DroneOperator.title>opérateur de drones</VBE_DroneOperator.title>
+<VBE_DroneOperator.titleFemale>opératrice de drones</VBE_DroneOperator.titleFemale>
+<VBE_DroneOperator.titleShort>contrôleur</VBE_DroneOperator.titleShort>
+<VBE_DroneOperator.titleShortFemale>contrôleuse</VBE_DroneOperator.titleShortFemale>
+
+<VBE_CultLeader.baseDesc>{PAWN_nameDef} était le leader d'un culte terrifiant. {PAWN_pronoun} était chargé{PAWN_gender ? : e } d'accomplir toutes sortes de rituels sanglants. Torturer et sacrifier des gens était le lot quotidien pour assurer la satisfaction de leur Dieu toujours avide de douleur et de souffrance. Ils devaient tous porter des masques intimidants et de longues robes pour cacher leur apparence physique. Personne ne pouvait quitter le culte vivant, du moins jusqu'à aujourd'hui.</VBE_CultLeader.baseDesc>
+<VBE_CultLeader.title>chef de secte</VBE_CultLeader.title>
+<VBE_CultLeader.titleShort>cultiste</VBE_CultLeader.titleShort>
+
+<VBE_AdventurousDreamer.baseDesc>{PAWN_nameDef} a passé son enfance à consommer de la fiction extravagante sous toutes ses formes, rêvant d'explorer des mondes fantastiques et de trouver des trésors de toutes sortes. Bien qu'{PAWN_pronoun} se soit habitué{PAWN_gender ? : e } à la banalité de sa vie au fil du temps, {PAWN_pronoun} n'a jamais perdu cette étincelle d'espoir en quelque chose de plus excitant.</VBE_AdventurousDreamer.baseDesc>
+<VBE_AdventurousDreamer.title>aventurier rêveur</VBE_AdventurousDreamer.title>
+<VBE_AdventurousDreamer.titleFemale>aventurière rêveuse</VBE_AdventurousDreamer.titleFemale>
+<VBE_AdventurousDreamer.titleShort>rêveur</VBE_AdventurousDreamer.titleShort>
+<VBE_AdventurousDreamer.titleShortFemale>rêveuse</VBE_AdventurousDreamer.titleShortFemale>
+
+<VBE_Standardbearer.baseDesc>{PAWN_nameDef} était un porte-drapeau. {PAWN_pronoun} devait porter et protéger l'emblème de son peuple en temps de guerre. {PAWN_pronoun} a été choisi en raison de ses aptitudes au combat et de sa capacité à lire le champ de bataille : on attendait {PAWN_gender ? de lui : d'elle } qu'{PAWN_pronoun} pousse en avant si un groupe hésitait et qu'{PAWN_pronoun} se retire avec l'emblème si la bataille était perdue. {PAWN_pronoun} était libéré{PAWN_gender ? : e } des tâches de cuisine et de terrassement.</VBE_Standardbearer.baseDesc>
+<VBE_Standardbearer.title>porte-drapeau</VBE_Standardbearer.title>
+<VBE_Standardbearer.titleShort>bannière</VBE_Standardbearer.titleShort>
+
+<VBE_MidworldProgrammer.baseDesc>Le rêve de {PAWN_nameDef} était de devenir programmeu{PAWN_gender ? r : se } et de créer des logiciels de médecine pour améliorer la vie des gens. Comme cela arrive souvent, sa vie a pris une tournure différente. Pour gagner sa vie, {PAWN_nameDef} a dû commencer à coder des logiciels militaires pour des robots de combat. Cela lui a permis d'acquérir de nombreuses connaissances en programmation et de mieux comprendre le fonctionnement interne des armes.</VBE_MidworldProgrammer.baseDesc>
+<VBE_MidworldProgrammer.title>programmeur Midworld</VBE_MidworldProgrammer.title>
+<VBE_MidworldProgrammer.titleFemale>programmeuse Midworld</VBE_MidworldProgrammer.titleFemale>
+<VBE_MidworldProgrammer.titleShort>programmeur</VBE_MidworldProgrammer.titleShort>
+<VBE_MidworldProgrammer.titleShortFemale>programmeuse</VBE_MidworldProgrammer.titleShortFemale>
+
+<VBE_Landsknecht.baseDesc>{PAWN_nameDef} se débrouillait à peine dans son village quand le recruteur est arrivé. L'homme lui a dit qu'{PAWN_pronoun} recevrait son premier paiement en avance, alors {PAWN_nameDef} a vendu ses outils et s'est engagé{PAWN_gender ? : e }. Au début, {PAWN_pronoun} n'avait qu'une pique, mais après quelque temps, {PAWN_pronoun} a pu s'acheter les vêtements somptueux qui faisaient {PAWN_gender ? de lui : d'elle } un soldat accompli. {PAWN_pronoun} n'a jamais trahi ses principes : ne pas remettre en question les ordres de celui qui vous nourrit.</VBE_Landsknecht.baseDesc>
+<VBE_Landsknecht.title>lansquenet</VBE_Landsknecht.title>
+<VBE_Landsknecht.titleShort>lansquenet</VBE_Landsknecht.titleShort>
+
+<VBE_CriminalPriest.baseDesc>{PAWN_nameDef} a réussi à se frayer un chemin jusqu'à une position confortable au sein du clergé d'une petite ville d'un monde parallèle. {PAWN_nameDef} exploite souvent cette position pour son profit personnel, que ce soit en faisant chanter ceux qui sont venus se confesser ou en volant directement les dons.\n\nPendant cette période, {PAWN_nameDef} s'appuyait fortement sur son charisme pour éviter les conflits.</VBE_CriminalPriest.baseDesc>
+<VBE_CriminalPriest.title>prêtre criminel</VBE_CriminalPriest.title>
+<VBE_CriminalPriest.titleShort>prêtre</VBE_CriminalPriest.titleShort>
+
+<VBE_IndustrialSoldier.baseDesc>{PAWN_nameDef} a été recruté dans l'armée d'une puissance industrielle sur un monde intermédiaire. À la fin de son entraînement, {PAWN_pronoun} a été envoyé en première ligne, où {PAWN_pronoun} a pris part à une bataille incroyablement sanglante. Le reste de son régiment a été tué au cours de la bataille qui a suivi. Cette terrible tragédie a fait de {PAWN_nameDef} l'ombre de {PAWN_objective}-même.</VBE_IndustrialSoldier.baseDesc>
+<VBE_IndustrialSoldier.title>soldat industriel</VBE_IndustrialSoldier.title>
+<VBE_IndustrialSoldier.titleShort>soldat</VBE_IndustrialSoldier.titleShort>
+
+<VBE_LandscapePainter.baseDesc>{PAWN_nameDef} a consacré sa vie à peindre de magnifiques paysages. Bien que ses œuvres ne lui aient pas apporté une grande reconnaissance, elles l'ont aidé à financer le coût de la vie, au prix d'une certaine réclusion.</VBE_LandscapePainter.baseDesc>
+<VBE_LandscapePainter.title>peintre paysagiste</VBE_LandscapePainter.title>
+<VBE_LandscapePainter.titleShort>peintre</VBE_LandscapePainter.titleShort>
+
+<VBE_Dietetician.baseDesc>{PAWN_nameDef} s'est toujours intéressé{PAWN_gender ? : e } à la nutrition et à ses effets sur le corps humain. {PAWN_pronoun} s'est spécialisé{PAWN_gender ? : e } dans le traitement des patients souffrant de problèmes cliniques.</VBE_Dietetician.baseDesc>
+<VBE_Dietetician.title>diététicien</VBE_Dietetician.title>
+<VBE_Dietetician.titleFemale>diététicienne</VBE_Dietetician.titleFemale>
+<VBE_Dietetician.titleShort>diététicien</VBE_Dietetician.titleShort>
+<VBE_Dietetician.titleShortFemale>diététicienne</VBE_Dietetician.titleShortFemale>
+
+<VBE_ArtCritic.baseDesc>{PAWN_nameDef} s'est fait un nom comme l'un{PAWN_gender ? : e } des critiques les plus influents, ses critiques pouvant faire ou défaire des carrières.</VBE_ArtCritic.baseDesc>
+<VBE_ArtCritic.title>critique d'art</VBE_ArtCritic.title>
+<VBE_ArtCritic.titleShort>critique</VBE_ArtCritic.titleShort>
+
+<VBE_IndustrialWorldCounterterrorist.baseDesc>{PAWN_nameDef} a servi dans une unité de contre-terrorisme dans un monde industriel divisé en factions. {PAWN_pronoun} comprenait les raisons pour lesquelles ils opéraient, mais s'opposait farouchement aux méthodes violentes qu'ils utilisaient contre les innocents. {PAWN_pronoun} a acquis des compétences considérables en rhétorique, en négociation, en combat et en soins d'urgence. Malgré cela, ses compétences en matière de vie personnelle n'ont pas été développées, car le personnel d'entretien et de la cafétéria s'est occupé de la plupart d'entre elles.</VBE_IndustrialWorldCounterterrorist.baseDesc>
+<VBE_IndustrialWorldCounterterrorist.title>contre-terrorisme industriel mondial</VBE_IndustrialWorldCounterterrorist.title>
+<VBE_IndustrialWorldCounterterrorist.titleShort>contre-terrorisme</VBE_IndustrialWorldCounterterrorist.titleShort>
+
+<VBE_Chemist.baseDesc>{PAWN_nameDef} est passé{PAWN_gender ? : e } maître dans l'art de la chimie. Cette compétence s'est avérée très polyvalente dans sa vie - un volcan pour une foire scientifique, aux bombes artisanales, il y a de fortes chances que {PAWN_nameDef} sache comment les créer.</VBE_Chemist.baseDesc>
+<VBE_Chemist.title>chimiste</VBE_Chemist.title>
+<VBE_Chemist.titleShort>chimiste</VBE_Chemist.titleShort>
+
+<VBE_TaxCollector.baseDesc>{PAWN_nameDef} a été chargé de collecter les taxes et autres paiements auprès de divers marchands de sa colonie. En raison de la nature de ce travail, {PAWN_pronoun} était l'une des personnes les plus détestées de la ville, mais la perception des taxes qu'{PAWN_pronoun} encaissait en valait la peine.</VBE_TaxCollector.baseDesc>
+<VBE_TaxCollector.title>percepteur</VBE_TaxCollector.title>
+<VBE_TaxCollector.titleFemale>perceptrice</VBE_TaxCollector.titleFemale>
+<VBE_TaxCollector.titleShort>percepteur</VBE_TaxCollector.titleShort>
+<VBE_TaxCollector.titleShortFemale>perceptrice</VBE_TaxCollector.titleShortFemale>
+
+<VBE_ReluctantCadet.baseDesc>{PAWN_nameDef} a été recruté dans un programme de formation pour jeunes impériaux. {PAWN_pronoun} manquait d'enthousiasme et a donc échoué à la plupart de ses cours. Cependant, son refus de participer lui laissait beaucoup de temps pour parler avec ses amis et essayer différents passe-temps.</VBE_ReluctantCadet.baseDesc>
+<VBE_ReluctantCadet.title>élève officier réticent</VBE_ReluctantCadet.title>
+<VBE_ReluctantCadet.titleShort>élève officier</VBE_ReluctantCadet.titleShort>
+
+<VBE_OrphanThief.baseDesc>Lorsqu'{PAWN_pronoun} était jeune, les parents de {PAWN_nameDef} ont été emprisonnés pour s'être élevés contre le gouvernement local. {PAWN_pronoun} a été obligé de voler de la nourriture pour survivre, et {PAWN_pronoun} est rapidement devenu{PAWN_gender ? : e } un{PAWN_gender ? : e } voleu{PAWN_gender ? r : se } compétent{PAWN_gender ? : e }. Cette expérience l'a rendu peu enclin à compter sur les autres.\n\nComme passe-temps, {PAWN_nameDef} a commencé à collectionner les casques volés à la police militaire.</VBE_OrphanThief.baseDesc>
+<VBE_OrphanThief.title>orphelin voleur</VBE_OrphanThief.title>
+<VBE_OrphanThief.titleFemale>orpheline voleuse</VBE_OrphanThief.titleFemale>
+<VBE_OrphanThief.titleShort>orphelin</VBE_OrphanThief.titleShort>
+<VBE_OrphanThief.titleShortFemale>orpheline</VBE_OrphanThief.titleShortFemale>
+
+<VBE_PrivateContractor.baseDesc>{PAWN_nameDef} travaille toujours pour le plus offrant. Son passé dans l'armée fait de lui un bon tireur. Étant donné qu'{PAWN_pronoun} était présent{PAWN_gender ? : e } lors de nombreuses transactions louches, {PAWN_pronoun} a également acquis des compétences en matière de négociation.</VBE_PrivateContractor.baseDesc>
+<VBE_PrivateContractor.title>entrepreneur privé</VBE_PrivateContractor.title>
+<VBE_PrivateContractor.titleShort>acheté</VBE_PrivateContractor.titleShort>
+<VBE_PrivateContractor.titleShortFemale>achetée</VBE_PrivateContractor.titleShortFemale>
+
+<VBE_MattressTester.baseDesc>{PAWN_nameDef} a évalué plusieurs matelas, principalement en fonction de leur douceur et de la qualité du sommeil qu'ils procurent. Les siestes au travail étaient obligatoirement imposées. Certains l'appelaient "le meilleur travail du monde".</VBE_MattressTester.baseDesc>
+<VBE_MattressTester.title>testeur de matelas</VBE_MattressTester.title>
+<VBE_MattressTester.titleFemale>testeuse de matelas</VBE_MattressTester.titleFemale>
+<VBE_MattressTester.titleShort>matelas</VBE_MattressTester.titleShort>
+
+<VBE_ExtranetTroll.baseDesc>{PAWN_nameDef} passait ses journées à répandre de la désinformation sur l'extranet à la demande de ses employeurs. Finalement, {PAWN_pronoun} n'a plus été utile et a été licencié, sans compétences commerciales, {PAWN_pronoun} a dû faire des boulots misérables et sans avenir simplement pour se nourrir.</VBE_ExtranetTroll.baseDesc>
+<VBE_ExtranetTroll.title>trolleur extranet</VBE_ExtranetTroll.title>
+<VBE_ExtranetTroll.titleFemale>trolleuse extranet</VBE_ExtranetTroll.titleFemale>
+<VBE_ExtranetTroll.titleShort>trolleur</VBE_ExtranetTroll.titleShort>
+<VBE_ExtranetTroll.titleShortFemale>trolleuse</VBE_ExtranetTroll.titleShortFemale>
+
+<VBE_PirateKid.baseDesc>{PAWN_nameDef} a été kidnappé par des pirates à son jeune âge. Sa petite taille lui permettait de se glisser dans de minuscules espaces de maintenance à bord des navires pour voler de précieux composants électroniques. Par coïncidence, {PAWN_pronoun} est également devenu{PAWN_gender ? : e } très doué{PAWN_gender ? : e } pour soigner les brûlures électriques.</VBE_PirateKid.baseDesc>
+<VBE_PirateKid.title>enfant pirate</VBE_PirateKid.title>
+<VBE_PirateKid.titleShort>pirate</VBE_PirateKid.titleShort>
+
+<VBE_ProsecutedWarVeteran.baseDesc>{PAWN_nameDef} a rejoint l'armée du mauvais côté de la guerre civile. Pendant la guerre, {PAWN_nameDef} a été formé au tir et à la guerre urbaine. Après la fin de la guerre, {PAWN_nameDef} a été poursuivi par le gouvernement local et banni. A cause de ces poursuites, {PAWN_nameDef} a perdu de nombreuses compétences et a du mal à se réinsérer dans une vie normale.</VBE_ProsecutedWarVeteran.baseDesc>
+<VBE_ProsecutedWarVeteran.title>vétéran de guerre poursuivi en justice</VBE_ProsecutedWarVeteran.title>
+<VBE_ProsecutedWarVeteran.titleShort>vétéran poursuivi</VBE_ProsecutedWarVeteran.titleShort>
+
+<VBE_IncompetentPilot.baseDesc>{PAWN_nameDef} était le timonier d'un grand vaisseau cargo. À la suite d'une malheureuse série d'événements, dont certains étaient de sa faute, la totalité de son équipage a été vaporisée par le moteur à fusion de son vaisseau lors d'un étrange accident. Craignant des représailles, {PAWN_pronoun} a hélé un vaisseau pirate de passage et a réussi à obtenir un passage sûr vers un autre monde pour recommencer sa vie et, espérons-le, oublier ses erreurs passées.</VBE_IncompetentPilot.baseDesc>
+<VBE_IncompetentPilot.title>pilote incompétent</VBE_IncompetentPilot.title>
+<VBE_IncompetentPilot.titleFemale>pilote incompétente</VBE_IncompetentPilot.titleFemale>
+<VBE_IncompetentPilot.titleShort>incompétent</VBE_IncompetentPilot.titleShort>
+<VBE_IncompetentPilot.titleShortFemale>incompétente</VBE_IncompetentPilot.titleShortFemale>
+
+<VBE_Marauder.baseDesc>{PAWN_nameDef} a passé la plus grande partie de sa vie comme combattant{PAWN_gender ? : e } dans une flotte nomade de pirates de l'espace jusqu'à ce qu'elle se dissolve à cause de querelles internes. {PAWN_pronoun} a vu de nombreuses batailles, mais ne s'est jamais approché{PAWN_gender ? : e } d'aucun livre.</VBE_Marauder.baseDesc>
+<VBE_Marauder.title>maraudeur</VBE_Marauder.title>
+<VBE_Marauder.titleFemale>maraudeuse</VBE_Marauder.titleFemale>
+<VBE_Marauder.titleShort>maraudeur</VBE_Marauder.titleShort>
+<VBE_Marauder.titleShortFemale>maraudeuse</VBE_Marauder.titleShortFemale>
+
+<VBE_ArchotechFanatic.baseDesc>{PAWN_nameDef} prétend que son esprit a été visité par une entité omnipotente qui se manifeste par le biais d'objets archotech avancés. Si {PAWN_nameDef} montre une grande affinité pour la technologie et la recherche, {PAWN_pronoun} éprouve un dégoût tout aussi fort pour les plantes et les animaux.</VBE_ArchotechFanatic.baseDesc>
+<VBE_ArchotechFanatic.title>fanatique Archotech</VBE_ArchotechFanatic.title>
+<VBE_ArchotechFanatic.titleShort>archofanatique</VBE_ArchotechFanatic.titleShort>
+
+<VBE_PondDesigner.baseDesc>{PAWN_nameDef} a créé des étangs extravagants pour les riches. Sa connaissance de la flore et de la faune aquatiques et de leur interaction est inégalée. Un jour, un client a introduit un nouveau poisson dans l'un de ses bassins, détruisant le délicat écosystème. Ce fut la goutte d'eau qui fit déborder le vase, {PAWN_pronoun} laissa tout derrière {PAWN_objective} et prit le premier vaisseau pour la Bordure, où {PAWN_pronoun} espère réaliser son rêve : concevoir un tout nouvel écosystème à l'échelle planétaire.</VBE_PondDesigner.baseDesc>
+<VBE_PondDesigner.title>concepteur de bassins</VBE_PondDesigner.title>
+<VBE_PondDesigner.titleShort>jardinier</VBE_PondDesigner.titleShort>
+<VBE_PondDesigner.titleShortFemale>jardinière</VBE_PondDesigner.titleShortFemale>
+
+<VBE_Cryonic.baseDesc>{PAWN_nameDef} est issu{PAWN_gender ? : e } d'une civilisation qui a péri lors d'une ère glaciaire dévastant sa planète natale. Son corps a été préservé dans la glace pendant des siècles jusqu'à ce qu'{PAWN_pronoun} soit récupéré{PAWN_gender ? : e } par une expédition archéologique de Glitterworld, et a été réanimé avec des sérums mécanites avancés de leur planète. Ne voulant pas être gardé{PAWN_gender ? : e } comme sujet de recherche, {PAWN_nameDef} s'est échappé{PAWN_gender ? : e } avec l'aide d'un groupe d'activistes humanitaires. Cette expérience l'a rendu méfiant à l'égard des étrangers, mais {PAWN_pronoun} a également acquis certaines connaissances lors de son séjour au laboratoire.</VBE_Cryonic.baseDesc>
+<VBE_Cryonic.title>cryogénique</VBE_Cryonic.title>
+<VBE_Cryonic.titleShort>cryogénique</VBE_Cryonic.titleShort>
+
+<VBE_Masterofceremonies.baseDesc>{PAWN_nameDef} était un maître des cérémonies. {PAWN_pronoun} s'est entraîné{PAWN_gender ? : e } pendant des décennies pour répondre aux exigences minimum du poste : {PAWN_pronoun} a dû mémoriser des milliers de rituels compliqués régissant les réunions diplomatiques sur son monde, y compris la manière correcte d'exécuter celui qui commet une erreur. Dans sa culture, la guerre a pratiquement disparu : personne n'a jamais réussi à aller jusqu'au bout du rituel nécessaire pour déclarer une guerre sans commettre d'erreur. {PAWN_pronoun} espère maintenant apporter la même paix dans la Bordure, un rituel à la fois.</VBE_Masterofceremonies.baseDesc>
+<VBE_Masterofceremonies.title>maître des cérémonies</VBE_Masterofceremonies.title>
+<VBE_Masterofceremonies.titleShort>arbitre</VBE_Masterofceremonies.titleShort>
+
+<VBE_ChemfuelFarmer.baseDesc>{PAWN_nameDef} est un{PAWN_gender ? : e } entrepreneu{PAWN_gender ? r : se }. {PAWN_pronoun} a immédiatement compris qu'{PAWN_pronoun} y avait beaucoup d'argent à gagner avec le chemfuel, une substance si largement utilisée que la demande ne semble jamais diminuer, quelle que soit la quantité vendue. {PAWN_pronoun} a d'abord convaincu sa famille d'acheter un ranch de boomalope, puis ses voisins de planter des chemRacine. Bientôt, toute la ville raffinait tout ce qui leur tombait sous la main. Depuis la dernière tempête de cet été, {PAWN_pronoun} est à la recherche d'une nouvelle ville où y vivre. N'importe où, vraiment : {PAWN_pronoun} n'a plus de famille pour {PAWN_gender ? le : la } retenir.</VBE_ChemfuelFarmer.baseDesc>
+<VBE_ChemfuelFarmer.title>agriculteur de chemfuel</VBE_ChemfuelFarmer.title>
+<VBE_ChemfuelFarmer.titleFemale>agricultrice de chemfuel</VBE_ChemfuelFarmer.titleFemale>
+<VBE_ChemfuelFarmer.titleShort>agriculteur</VBE_ChemfuelFarmer.titleShort>
+<VBE_ChemfuelFarmer.titleShortFemale>agricultrice</VBE_ChemfuelFarmer.titleShortFemale>
+
+<VBE_CoginTheMachine.baseDesc>{PAWN_nameDef} vivait dans un monde très organisé et efficace. {PAWN_pronoun} a été formé dès sa naissance pour effectuer un travail très spécialisé : peindre une vis spécifique dans une nuance de gris spécifique. Un jour, {PAWN_pronoun} a décidé de peindre les vis en vert. Les autres ouvriers n'ont pas pu faire face à ce changement imprévu et ont cessé de travailler. Le chaos se répandit, et {PAWN_nameDef} dut fuir un monde plongé dans l'anarchie.</VBE_CoginTheMachine.baseDesc>
+<VBE_CoginTheMachine.title>grain de sable</VBE_CoginTheMachine.title>
+<VBE_CoginTheMachine.titleShort>engrenage</VBE_CoginTheMachine.titleShort>
+
+<VBE_TrainDriver.baseDesc>{PAWN_nameDef} adore les trains. {PAWN_pronoun} avait l'habitude de conduire une locomotive à vapeur sur une petite ligne dans un paysage idyllique. {PAWN_pronoun} saluait chaque matin les villages endormis le long de la ligne au son joyeux du klaxon. Son seul souci était de pelleter suffisamment de charbon pour faire tourner la locomotive et de réparer le train de temps en temps. Un jour, {PAWN_pronoun} a dû s'arrêter dans un village. Une foule enragée et privée de sommeil en profita pour détruire le train et {PAWN_nameDef} décida de partir avant qu'ils ne se rappellent qui était responsable du son du klaxon.</VBE_TrainDriver.baseDesc>
+<VBE_TrainDriver.title>conducteur de train</VBE_TrainDriver.title>
+<VBE_TrainDriver.titleFemale>conductrice de train</VBE_TrainDriver.titleFemale>
+<VBE_TrainDriver.titleShort>ingénieur</VBE_TrainDriver.titleShort>
+
+<VBE_ClonedHeir.baseDesc>{PAWN_nameDef} a été créé pour remplacer l'héritier manquant d'une maison noble, mais cela n'a pas bien tourné. Malgré tous les efforts de ses tuteurs, {PAWN_pronoun} était bien plus intéressé{PAWN_gender ? : e } par les effusions de sang que par les subtilités de la cour.\n\nLorsque l'héritier s'est finalement avéré être vivant, {PAWN_nameDef} a été écarté pour faire place à la source génétique.</VBE_ClonedHeir.baseDesc>
+<VBE_ClonedHeir.title>héritier cloné</VBE_ClonedHeir.title>
+<VBE_ClonedHeir.titleFemale>héritière clonée</VBE_ClonedHeir.titleFemale>
+<VBE_ClonedHeir.titleShort>clone</VBE_ClonedHeir.titleShort>
+
+<VBE_MedicineProdigy.baseDesc>Né dans une ville surpeuplée, {PAWN_nameDef} a fait preuve d'une aptitude remarquable pour la médecine dès son plus jeune âge. Retiré{PAWN_gender ? : e } du système éducatif et intégré{PAWN_gender ? : e } dans un programme spécial pour les surdoués intelligents, {PAWN_pronoun} a reçu la meilleure éducation possible, mais peu de temps pour se développer socialement ou adopter un comportement à risque.\n\nPour ses bienfaiteurs, {PAWN_pronoun} était un investissement coûteux.</VBE_MedicineProdigy.baseDesc>
+<VBE_MedicineProdigy.title>prodige de la médecine</VBE_MedicineProdigy.title>
+<VBE_MedicineProdigy.titleShort>prodige</VBE_MedicineProdigy.titleShort>
+
+<VBE_CorruptPolitician.baseDesc>{PAWN_nameDef} avait un don pour mentir et s'en sortir, un don qu'{PAWN_pronoun} a utilisé pour se faire élire, puis pour détourner des sommes astronomiques. Lorsque ses mensonges l'ont finalement rattrapé, {PAWN_pronoun} a tué un pacificateur et a fui la planète.</VBE_CorruptPolitician.baseDesc>
+<VBE_CorruptPolitician.title>politicien corrompu</VBE_CorruptPolitician.title>
+<VBE_CorruptPolitician.titleFemale>politicienne corrompue</VBE_CorruptPolitician.titleFemale>
+<VBE_CorruptPolitician.titleShort>politicien</VBE_CorruptPolitician.titleShort>
+<VBE_CorruptPolitician.titleShortFemale>politicienne</VBE_CorruptPolitician.titleShortFemale>
+
+<VBE_ImperialCircusPerformer.baseDesc>Bien que ses amis l'appellent {PAWN_nameDef}, {PAWN_pronoun} est connu{PAWN_gender ? : e } dans tout le système sous le nom de {PAWN_nameDef} {PAWN_gender ? le : la } Magnifique. {PAWN_nameDef} a réalisé des performances théâtrales et des cascades acrobatiques pour les nobles impériaux. {PAWN_pronoun} se vante souvent de son groupe d'adeptes qui assistent à chacune de ses représentations. Cependant, personne ne sait vraiment combien de ses histoires sont inventées.</VBE_ImperialCircusPerformer.baseDesc>
+<VBE_ImperialCircusPerformer.title>artiste impérial de cirque</VBE_ImperialCircusPerformer.title>
+<VBE_ImperialCircusPerformer.titleShort>clown</VBE_ImperialCircusPerformer.titleShort>
+
+<VBE_CorporateMascot.baseDesc>{PAWN_nameDef} était un{PAWN_gender ? : e } animat{PAWN_gender ? eur : rice } costumé pour une société de divertissement à la moralité douteuse. {PAWN_pronoun} était obligé{PAWN_gender ? : e } de danser dans un costume d'animal blanc déprimant en échange d'un maigre salaire.</VBE_CorporateMascot.baseDesc>
+<VBE_CorporateMascot.title>mascotte d'entreprise</VBE_CorporateMascot.title>
+<VBE_CorporateMascot.titleShort>mascotte</VBE_CorporateMascot.titleShort>
+
+<VBE_DeepSpaceScrapper.baseDesc>En raison des nombreuses batailles interstellaires récentes, de nombreux vaisseaux abandonnés flottent dans l'espace. C'est le travail de {PAWN_nameDef} de trouver ces vaisseaux et de les récupérer. {PAWN_nameDef} met à la casse les vaisseaux, qu'ils soient en orbite ou en épave sur une planète, et vend les matériaux et les pièces. Comme la propriété de ces vaisseaux peut être remise en question, {PAWN_nameDef} se retrouve parfois du mauvais côté de la loi.</VBE_DeepSpaceScrapper.baseDesc>
+<VBE_DeepSpaceScrapper.title>recycleur de l'espace profond</VBE_DeepSpaceScrapper.title>
+<VBE_DeepSpaceScrapper.titleFemale>recycleuse de l'espace profond</VBE_DeepSpaceScrapper.titleFemale>
+<VBE_DeepSpaceScrapper.titleShort>recycleur</VBE_DeepSpaceScrapper.titleShort>
+<VBE_DeepSpaceScrapper.titleShortFemale>recycleuse</VBE_DeepSpaceScrapper.titleShortFemale>
+
+<VBE_AquaponicWorker.baseDesc>{PAWN_nameDef} travaillait dans un laboratoire d'aquaponie. {PAWN_pronoun} était chargé{PAWN_gender ? : e } de produire des poissons et des légumes pour sa colonie. Bien que son travail soit important, il lui restait peu de temps pour sa vie sociale.</VBE_AquaponicWorker.baseDesc>
+<VBE_AquaponicWorker.title>travailleur aquaponie</VBE_AquaponicWorker.title>
+<VBE_AquaponicWorker.titleFemale>travailleuse aquaponie</VBE_AquaponicWorker.titleFemale>
+<VBE_AquaponicWorker.titleShort>poissonnier</VBE_AquaponicWorker.titleShort>
+<VBE_AquaponicWorker.titleShortFemale>poissonnière</VBE_AquaponicWorker.titleShortFemale>
+
+<VBE_StewCooker.baseDesc>{PAWN_nameDef} a marché avec de longues lignes d'armées médiévales et était responsable des marmites à ragoût dans les camps. Son savoir-faire en matière de plantes et de champignons locaux a permis aux gens d'étirer leur ration plus longtemps et a sauvé une vie ou deux lorsque les réserves étaient épuisées.</VBE_StewCooker.baseDesc>
+<VBE_StewCooker.title>cuisinier de ragoût</VBE_StewCooker.title>
+<VBE_StewCooker.titleFemale>cuisinière de ragoût</VBE_StewCooker.titleFemale>
+<VBE_StewCooker.titleShort>cuisinier</VBE_StewCooker.titleShort>
+<VBE_StewCooker.titleShortFemale>cuisinière</VBE_StewCooker.titleShortFemale>
+
+<VBE_StarvingArtist.baseDesc>{PAWN_nameDef} était un{PAWN_gender ? : e } étudiant{PAWN_gender ? : e } en art relativement aisé dans un monde urbain. Un effondrement financier l'a contraint{PAWN_gender ? : e } à vivre dans la rue, en vendant des peintures pour gagner sa vie. {PAWN_pronoun} ne gagnait pas beaucoup d'argent, et le peu d'excédent qu'{PAWN_pronoun} avait servait à acheter des matériaux et de la nourriture pour des chiens errants amicaux et loyaux.</VBE_StarvingArtist.baseDesc>
+<VBE_StarvingArtist.title>artiste affamé</VBE_StarvingArtist.title>
+<VBE_StarvingArtist.titleShort>artiste</VBE_StarvingArtist.titleShort>
+
+<VBE_Foreman.baseDesc>{PAWN_nameDef} était contremaître dans une mine d'extraction de métaux industriels. {PAWN_pronoun} travaillait aux côtés des ouvriers pour assurer la sécurité et les motiver. Les travailleurs sous ses ordres étaient bien payés et appréciaient son management.</VBE_Foreman.baseDesc>
+<VBE_Foreman.title>contremaître</VBE_Foreman.title>
+<VBE_Foreman.titleShort>contremaître</VBE_Foreman.titleShort>
+
+<VBE_GalleryJanitor.baseDesc>{PAWN_nameDef} a travaillé comme concierge dans une galerie d'art moderne, mais {PAWN_pronoun} n'en a jamais compris l'attrait. Un jour, {PAWN_pronoun} a décidé d'ajouter quelques coups de peinture à une œuvre d'art asymétrique valant des millions. {PAWN_nameDef} a fait la une des journaux, et {PAWN_pronoun} a été licencié et interdit dans la galerie.</VBE_GalleryJanitor.baseDesc>
+<VBE_GalleryJanitor.title>concierge de galerie</VBE_GalleryJanitor.title>
+<VBE_GalleryJanitor.titleShort>concierge</VBE_GalleryJanitor.titleShort>
+
+<VBE_HostessInTraining.baseDesc>En grandissant, {PAWN_nameDef} a passé beaucoup de temps dans le restaurant de ses parents, où {PAWN_pronoun} a fini par trouver un emploi de serveu{PAWN_gender ? r : se }. Bien qu'{PAWN_pronoun} ne soit pas cuisini{PAWN_gender ? er : ère } de métier, {PAWN_pronoun} a quand même appris beaucoup de choses sur les goûts et les préférences de la clientèle, ainsi que de nombreux potins. Cela s'est mal terminé un jour après une altercation avec un ancien amant, et depuis, ils sont à la dérive.</VBE_HostessInTraining.baseDesc>
+<VBE_HostessInTraining.title>hôte en formation</VBE_HostessInTraining.title>
+<VBE_HostessInTraining.titleFemale>hôtesse en formation</VBE_HostessInTraining.titleFemale>
+<VBE_HostessInTraining.titleShort>hôte</VBE_HostessInTraining.titleShort>
+<VBE_HostessInTraining.titleShortFemale>hôtesse</VBE_HostessInTraining.titleShortFemale>
+
+<VBE_TunerPunk.baseDesc>Un peu solitaire, {PAWN_nameDef} a trouvé un sentiment d'appartenance et une famille auprès des mécaniciens qui participaient aux courses de voitures modifiées. Cela a conduit à de nombreuses bagarres au couteau, à des poursuites à grande vitesse et à des blessures par balle occasionnelle, mais cela n'a pas empêché {PAWN_nameDef} d'apprécier la compétition.</VBE_TunerPunk.baseDesc>
+<VBE_TunerPunk.title>syntoniseur punk</VBE_TunerPunk.title>
+<VBE_TunerPunk.titleShort>syntoniseur</VBE_TunerPunk.titleShort>
+
+<VBE_OliveFarmer.baseDesc>{PAWN_nameDef} était l'heureu{PAWN_gender ? x : se } propriétaire d'une plantation d'oliviers. {PAWN_pronoun} passait des heures à s'occuper des jeunes arbres, disant toujours aux membres de sa famille lorsqu'ils en riaient : ne renoncez jamais à votre dernier jeune pousse, quoi qu'il arrive, vous pouvez toujours recommencer. Un jour, on l'a retrouvé{PAWN_gender ? : e } dans un groupe de réfugiés, fixant d'un regard vide ses dernières possessions : une photo ensanglantée et une jeune pousse d'arbre. Au moment de partir, {PAWN_pronoun} a laissé le petit olivier derrière {PAWN_objective}.</VBE_OliveFarmer.baseDesc>
+<VBE_OliveFarmer.title>oléiculteur</VBE_OliveFarmer.title>
+<VBE_OliveFarmer.titleFemale>oléicultrice</VBE_OliveFarmer.titleFemale>
+<VBE_OliveFarmer.titleShort>oléiculteur</VBE_OliveFarmer.titleShort>
+<VBE_OliveFarmer.titleShortFemale>oléicultrice</VBE_OliveFarmer.titleShortFemale>
+
+<VBE_Florist.baseDesc>{PAWN_nameDef} est une âme douce avec un talent pour créer de nouveaux hybrides de fleurs. {PAWN_pronoun} aimait créer de nouvelles fleurs pour toutes sortes d'occasions, mais était profondément bouleversé{PAWN_gender ? : e } chaque fois que quelqu'un mourait. Lorsque la peste a frappé sa ville, {PAWN_pronoun} a été l'un{PAWN_gender ? : e } des rares survivants et est devenu{PAWN_gender ? : e } presque fou de chagrin en voyant le nombre de morts. La ville a dû être abandonnée, mais quelques années plus tard, des voyageurs ont commencé à raconter qu'elle était désormais entièrement recouverte de fleurs, comme si une fleur avait poussé pour chaque victime de la peste.</VBE_Florist.baseDesc>
+<VBE_Florist.title>fleuriste</VBE_Florist.title>
+<VBE_Florist.titleShort>fleuriste</VBE_Florist.titleShort>
+
+<VBE_ChildofTheAnimaTree.baseDesc>{PAWN_nameDef} est né{PAWN_gender ? : e } et a grandi à proximité immédiate d'un arbre Anima. Son village lui a appris la grande importance de cet arbre et comment en prendre soin. En raison du temps qu'{PAWN_pronoun} a passé avec l'arbre, {PAWN_pronoun} a une connexion très développée avec les énergies psychiques de ce monde.</VBE_ChildofTheAnimaTree.baseDesc>
+<VBE_ChildofTheAnimaTree.title>enfant de l'arbre anima</VBE_ChildofTheAnimaTree.title>
+<VBE_ChildofTheAnimaTree.titleShort>psychique</VBE_ChildofTheAnimaTree.titleShort>
+
+<VBE_AnimatronicMechanic.baseDesc>{PAWN_nameDef} était un{PAWN_gender ? : e } mécanicien{PAWN_gender ? : ne } spécialisé{PAWN_gender ? : e } dans la construction d'animatronics. Ses créations étaient souvent utilisées dans les productions cinématographiques, les restaurants, les parcs à thème et les productions théâtrales.</VBE_AnimatronicMechanic.baseDesc>
+<VBE_AnimatronicMechanic.title>mécanicien animatronique</VBE_AnimatronicMechanic.title>
+<VBE_AnimatronicMechanic.titleFemale>mécanicienne animatronique</VBE_AnimatronicMechanic.titleFemale>
+<VBE_AnimatronicMechanic.titleShort>mécanicien</VBE_AnimatronicMechanic.titleShort>
+<VBE_AnimatronicMechanic.titleShortFemale>mécanicienne</VBE_AnimatronicMechanic.titleShortFemale>
+
+<VBE_Simraised.baseDesc>{PAWN_nameDef} a grandi dans un environnement simulé composé d'éléments de réalité augmentée et de réalité virtuelle, à l'intérieur d'un dôme étanche entretenu par des robots. Bien qu'{PAWN_pronoun} soit sûr et idyllique, ce mode de vie placide lui a fait désirer quelque chose de plus dans la vie.</VBE_Simraised.baseDesc>
+<VBE_Simraised.title>sim-élevé</VBE_Simraised.title>
+<VBE_Simraised.titleFemale>sim-élevée</VBE_Simraised.titleFemale>
+<VBE_Simraised.titleShort>abrité</VBE_Simraised.titleShort>
+<VBE_Simraised.titleShortFemale>abritée</VBE_Simraised.titleShortFemale>
+
+<VBE_BlacksmithApprentice.baseDesc>{PAWN_nameDef} travaillait sous la direction d'un forgeron respecté en tant que jeune apprenti{PAWN_gender ? : e }. Ses tâches quotidiennes consistaient à s'occuper de la forge, à transporter des fournitures et parfois à fabriquer des outils plus petits et plus simples.\n\nCe qu'{PAWN_pronoun} préférait fabriquer, c'était des petits poignards et des armes en bois pour ses camarades enfants, ce qui {PAWN_gender ? le : la } rendait assez populaire.</VBE_BlacksmithApprentice.baseDesc>
+<VBE_BlacksmithApprentice.title>apprenti forgeron</VBE_BlacksmithApprentice.title>
+<VBE_BlacksmithApprentice.titleFemale>apprentie forgeron</VBE_BlacksmithApprentice.titleFemale>
+<VBE_BlacksmithApprentice.titleShort>apprenti</VBE_BlacksmithApprentice.titleShort>
+<VBE_BlacksmithApprentice.titleShortFemale>apprentie</VBE_BlacksmithApprentice.titleShortFemale>
+
+<VBE_JuniorJeweler.baseDesc>Dès son enfance, {PAWN_nameDef} était fasciné{PAWN_gender ? : e } par les pierres précieuses et les minéraux. {PAWN_pronoun} a constitué une collection, a appris à polir et à tailler les pierres, et a développé une connaissance encyclopédique de la minéralogie.</VBE_JuniorJeweler.baseDesc>
+<VBE_JuniorJeweler.title>bijoutier junior</VBE_JuniorJeweler.title>
+<VBE_JuniorJeweler.titleFemale>bijoutière junior</VBE_JuniorJeweler.titleFemale>
+<VBE_JuniorJeweler.titleShort>minéralogiste</VBE_JuniorJeweler.titleShort>
+
+<VBE_Jeweler.baseDesc>{PAWN_nameDef} inspectait, taillait, polissait et vendait toutes sortes de pierres précieuses et de minéraux exotiques. {PAWN_pronoun} pouvait faire la différence entre dix types de quartz rien que par leur éclat.</VBE_Jeweler.baseDesc>
+<VBE_Jeweler.title>bijoutier</VBE_Jeweler.title>
+<VBE_Jeweler.titleFemale>bijoutière</VBE_Jeweler.titleFemale>
+<VBE_Jeweler.titleShort>bijoutier</VBE_Jeweler.titleShort>
+<VBE_Jeweler.titleShortFemale>bijoutière</VBE_Jeweler.titleShortFemale>
+
+<VBE_BloodKnight.baseDesc>{PAWN_nameDef} était un chevalier de sang de l'Empire, gagnant ce titre après avoir subi des années d'entraînement rigoureux et potentiellement mortel. Son devoir, et son unique but pour l'Empire, était d'abattre quiconque oserait défier son règne. {PAWN_nameDef} est sans pitié, et fera tout ce qui est en son pouvoir pour faire passer ses ennemis dans l'au-delà.</VBE_BloodKnight.baseDesc>
+<VBE_BloodKnight.title>chevalier de sang</VBE_BloodKnight.title>
+<VBE_BloodKnight.titleShort>saigneur</VBE_BloodKnight.titleShort>
+
+<VBE_MedievalOrphan.baseDesc>{PAWN_nameDef} a grandi dans l'enfance d'un fantassin médiéval. Au début de son adolescence, son père meurt en campagne, laissant sa famille vivre d'une maigre pension, se débrouillant avec le peu de revenus que {PAWN_nameDef} peut gagner en vendant de simples textiles et en cultivant des légumes. Ces années de galère l'ont rendu dur et quelque peu distant.</VBE_MedievalOrphan.baseDesc>
+<VBE_MedievalOrphan.title>orphelin médiéval</VBE_MedievalOrphan.title>
+<VBE_MedievalOrphan.titleFemale>orpheline médiévale</VBE_MedievalOrphan.titleFemale>
+<VBE_MedievalOrphan.titleShort>orphelin</VBE_MedievalOrphan.titleShort>
+<VBE_MedievalOrphan.titleShortFemale>orpheline</VBE_MedievalOrphan.titleShortFemale>
+
+<VBE_StrangeChild.baseDesc>{PAWN_nameDef} aimait torturer les petits animaux et, en vieillissant, les personnes. Cela lui a donné une compréhension unique du corps, mais a considérablement retardé ses compétences sociales.</VBE_StrangeChild.baseDesc>
+<VBE_StrangeChild.title>enfant étrange</VBE_StrangeChild.title>
+<VBE_StrangeChild.titleShort>psychopathe</VBE_StrangeChild.titleShort>
+
+<VBE_TravelingLocksmith.baseDesc>{PAWN_nameDef} passait la plupart de ses journées à voyager entre ses emplois dans diverses villes en tant que serrurier. Son travail allait du crochetage de serrures et de l'installation de portes à la réparation de mécanismes complexes et au perçage de coffres-forts. {PAWN_nameDef} aimait passer son temps libre à fabriquer des outils et à admirer le paysage sur la route.</VBE_TravelingLocksmith.baseDesc>
+<VBE_TravelingLocksmith.title>serrurier itinérant</VBE_TravelingLocksmith.title>
+<VBE_TravelingLocksmith.titleShort>serrurier</VBE_TravelingLocksmith.titleShort>
+
+<VBE_PodChild.baseDesc>La planète d'origine de {PAWN_nameDef} a connu une escalade rapide vers la guerre nucléaire juste après sa naissance. {PAWN_nameDef} a été chargé dans une capsule cryogénique et a été envoyé dans un endroit relativement sûr. Après avoir passé des décennies en sommeil profond, {PAWN_pronoun} a été retrouvé par une communauté d'étrangers. {PAWN_nameDef} essaie de garder le moral en raison de la chance qu'{PAWN_pronoun} a eue de survivre.</VBE_PodChild.baseDesc>
+<VBE_PodChild.title>enfant capsule</VBE_PodChild.title>
+<VBE_PodChild.titleShort>évadé</VBE_PodChild.titleShort>
+<VBE_PodChild.titleShortFemale>évadée</VBE_PodChild.titleShortFemale>
+
+<VBE_ChildSoldier.baseDesc>{PAWN_nameDef} a été recueilli à un très jeune âge et a été conditionné aux horreurs de la guerre. Tout en étant un soldat compétent, {PAWN_pronoun} excellait en tant qu'infirmi{PAWN_gender ? er : ère } discret{PAWN_gender ? : e } chargé{PAWN_gender ? : e } de soigner les blessés et en tant qu'espion envoyé dans les campements ennemis.</VBE_ChildSoldier.baseDesc>
+<VBE_ChildSoldier.title>enfant soldat</VBE_ChildSoldier.title>
+<VBE_ChildSoldier.titleShort>soldat</VBE_ChildSoldier.titleShort>
+
+<VBE_ForsakenPatriot.baseDesc>{PAWN_nameDef} a servi sa faction avec dévouement et conviction en tant qu'agent secret. Une opération particulière a mal tourné et sa mort a été arrangée pour apaiser les tensions politiques. Cependant, sa loyauté a été récompensée par une fausse exécution et un exil, à condition qu'{PAWN_pronoun} ne revienne jamais de peur de compromettre les machinations de sa faction.</VBE_ForsakenPatriot.baseDesc>
+<VBE_ForsakenPatriot.title>patriote abandonné</VBE_ForsakenPatriot.title>
+<VBE_ForsakenPatriot.titleShort>patriote</VBE_ForsakenPatriot.titleShort>
+
+<VBE_BloodlineFounder.baseDesc>{PAWN_nameDef} avait une origine très contestée, personne ne voulant admettre son appartenance à sa lignée. Pourtant, d'une manière ou d'une autre, {PAWN_pronoun} était de naissance noble, ayant été élevé par ceux qui ne se souciaient pas de ces questions. Lorsque ses droits à la haute royauté ont été révélés, tout le monde a soudainement voulu avoir une part du gâteau.</VBE_BloodlineFounder.baseDesc>
+<VBE_BloodlineFounder.title>fondateur de la lignée</VBE_BloodlineFounder.title>
+<VBE_BloodlineFounder.titleFemale>fondatrice de la lignée</VBE_BloodlineFounder.titleFemale>
+<VBE_BloodlineFounder.titleShort>fondateur</VBE_BloodlineFounder.titleShort>
+<VBE_BloodlineFounder.titleShortFemale>fondatrice</VBE_BloodlineFounder.titleShortFemale>
+
+<VBE_DeposedRoyalty.baseDesc>{PAWN_nameDef} a fondé un territoire s'étendant sur toute une région au prix de conflits sanglants, refusant de renoncer à son droit et à celui de son peuple de vivre sans être opprimé pour son sexe et ses croyances. Finalement, de multiples factions se sont unies pour faire la guerre à sa nation, et ses gardes du corps l'ont forcé à fuir. {PAWN_gender ? S'il : Si elle } a fait tout ce qu'{PAWN_pronoun} pouvait pour offrir un avenir à son peuple, son incapacité à le protéger a été sa plus grande honte.</VBE_DeposedRoyalty.baseDesc>
+<VBE_DeposedRoyalty.title>royauté déchue</VBE_DeposedRoyalty.title>
+<VBE_DeposedRoyalty.titleShort>royauté</VBE_DeposedRoyalty.titleShort>
+
+<VBE_Bioweapon.baseDesc>{PAWN_nameDef} a été créé dans un laboratoire pour tenter de dédoubler les génomes dans le but de créer un meilleur soldat. L'expérience a été considérée comme un échec et {PAWN_pronoun} a été mis au rebut. Les méthodes utilisées étaient bâclées et {PAWN_pronoun} a survécu à cette épreuve, parvenant plus tard à retrouver ses anciens maîtres et à détruire l'installation.</VBE_Bioweapon.baseDesc>
+<VBE_Bioweapon.title>arme biologique</VBE_Bioweapon.title>
+<VBE_Bioweapon.titleShort>arme biologique</VBE_Bioweapon.titleShort>
+
+<VBE_Catastrophe.baseDesc>La malchance a suivi {PAWN_nameDef} partout où {PAWN_pronoun} a séjourné pendant une période prolongée. Catastrophes naturelles, raids, infestations, bombardements, esclavagistes ne sont que quelques-uns des événements que ceux qui l'ont côtoyé ont dû traverser. Cependant, malgré la mort et la dévastation, {PAWN_pronoun} a réussi à s'en sortir en frôlent plusieurs fois la mort.</VBE_Catastrophe.baseDesc>
+<VBE_Catastrophe.title>catastrophe</VBE_Catastrophe.title>
+<VBE_Catastrophe.titleShort>catastrophe</VBE_Catastrophe.titleShort>
+
+<VBE_NatureLover.baseDesc>{PAWN_nameDef} a un dédain inhérent pour qu'on lui dise ce qu'{PAWN_pronoun} peut ou ne peut pas faire, et quand {PAWN_pronoun} était enfant, on lui a dit qu'{PAWN_pronoun} ne pouvait pas adopter un lapin au hasard. Avec une indignation presque vertueuse, {PAWN_pronoun} s'est occupé{PAWN_gender ? : e } de son lapin de compagnie mieux que de son propre bien-être.</VBE_NatureLover.baseDesc>
+<VBE_NatureLover.title>amoureux de la nature</VBE_NatureLover.title>
+<VBE_NatureLover.titleFemale>amoureuse de la nature</VBE_NatureLover.titleFemale>
+<VBE_NatureLover.titleShort>naturiste</VBE_NatureLover.titleShort>
+
+<VBE_Doomsayer.baseDesc>Après la mort d'un animal de compagnie qui lui était très cher, {PAWN_nameDef} s'est mis{PAWN_gender ? : e } à voyager vers l'extérieur et à partager sa douleur avec ceux qui le méritaient. Parfois, {PAWN_pronoun} le faisait de manière oratoire, en proclamant que les pécheurs souffriront de leurs actes et que tous devraient saluer la venue du destructeur. D'autres fois, et c'est encore mieux, {PAWN_pronoun} le faisait avec une épée de vengeance en acier.</VBE_Doomsayer.baseDesc>
+<VBE_Doomsayer.title>tueur de monstres</VBE_Doomsayer.title>
+<VBE_Doomsayer.titleFemale>tueuse de monstres</VBE_Doomsayer.titleFemale>
+<VBE_Doomsayer.titleShort>tueur de monstres</VBE_Doomsayer.titleShort>
+<VBE_Doomsayer.titleShortFemale>tueuse de monstres</VBE_Doomsayer.titleShortFemale>
+
+<VBE_EnlistedTeen.baseDesc>{PAWN_nameDef} s'est enrôlé{PAWN_gender ? : e } très jeune dans l'armée en utilisant de faux documents, désireu{PAWN_gender ? x : se } d'aller dans le monde et de faire la différence. Cela n'a pas duré longtemps, car {PAWN_pronoun} a rapidement appris que ses nouveaux camarades étaient ceux qui mouraient et que ceux qui étaient à l'origine des conflits ne faisaient que tirer de plus grands profits des idéalistes comme {PAWN_objective}.</VBE_EnlistedTeen.baseDesc>
+<VBE_EnlistedTeen.title>ado enrôlé</VBE_EnlistedTeen.title>
+<VBE_EnlistedTeen.titleFemale>ado enrôlée</VBE_EnlistedTeen.titleFemale>
+<VBE_EnlistedTeen.titleShort>enrôlé</VBE_EnlistedTeen.titleShort>
+<VBE_EnlistedTeen.titleShortFemale>enrôlée</VBE_EnlistedTeen.titleShortFemale>
+
+<VBE_Rocker.baseDesc>{PAWN_nameDef} est devenu{PAWN_gender ? : e } désabusé{PAWN_gender ? : e } par son gouvernement et l'influence dominante des méga-corporations. {PAWN_pronoun} a donc décidé de lancer sa propre forme de protestation en produisant de la musique underground. Parfois, ces événements n'étaient que des façades afin de mettre en scène une attaque sur différents lieux d'intérêt.</VBE_Rocker.baseDesc>
+<VBE_Rocker.title>rocker</VBE_Rocker.title>
+<VBE_Rocker.titleShort>rocker</VBE_Rocker.titleShort>
+
+<VBE_Sommelier.baseDesc>{PAWN_nameDef} était un{PAWN_gender ? : e } vigneron{PAWN_gender ? : ne } expérimenté{PAWN_gender ? : e }, cultivant ses propres raisins et apportant le plus grand soin à son travail. {PAWN_pronoun} aime aussi beaucoup cuisiner des plats à associer à ses vins.</VBE_Sommelier.baseDesc>
+<VBE_Sommelier.title>sommelier</VBE_Sommelier.title>
+<VBE_Sommelier.titleFemale>sommelière</VBE_Sommelier.titleFemale>
+<VBE_Sommelier.titleShort>sommelier</VBE_Sommelier.titleShort>
+<VBE_Sommelier.titleShortFemale>sommelière</VBE_Sommelier.titleShortFemale>
+
+<VBE_DesertSurvivor.baseDesc>Les ennemis jurés de {PAWN_nameDef} l'ont laissé mourir sur une planète déserte hostile. Malgré toutes les probabilités, {PAWN_pronoun} a survécu dans un tel environnement et s'y est adapté{PAWN_gender ? : e }. Parce qu'{PAWN_pronoun} a passé beaucoup de temps à vivre dans les terres désolées, {PAWN_nameDef} n'a aucune connaissance des plantes.</VBE_DesertSurvivor.baseDesc>
+<VBE_DesertSurvivor.title>survivant du désert</VBE_DesertSurvivor.title>
+<VBE_DesertSurvivor.titleFemale>survivante du désert</VBE_DesertSurvivor.titleFemale>
+<VBE_DesertSurvivor.titleShort>survivant</VBE_DesertSurvivor.titleShort>
+<VBE_DesertSurvivor.titleShortFemale>survivante</VBE_DesertSurvivor.titleShortFemale>
+
+<VBE_LiteraryCritic.baseDesc>{PAWN_nameDef} a suivi un enseignement formel en littérature, obtenant la meilleure note de sa classe et même de l'histoire de la fondation de ce département. En tant que tel, {PAWN_pronoun} prend un plaisir presque sadique à critiquer les œuvres des autres, surtout si elles sont considérées comme leur œuvre maîtresse. De nombreux auteurs de best-sellers ont été réduits en larmes par son jugement sévère, qui aboutit souvent à ce que l'œuvre de leur vie soit publiquement méprisée.</VBE_LiteraryCritic.baseDesc>
+<VBE_LiteraryCritic.title>critique littéraire</VBE_LiteraryCritic.title>
+<VBE_LiteraryCritic.titleShort>critique</VBE_LiteraryCritic.titleShort>
+
+<VBE_RodentRancher.baseDesc>{PAWN_nameDef} a passé une grande partie de son temps à travailler dans un élevage de rongeurs dans une ville surpeuplée de l'un des Urbworlds. En raison de l'espace limité et de la nourriture principalement transformée, {PAWN_pronoun} a trouvé un grand succès en proposant de la vraie viande à ceux qui voulaient sortir de la médiocrité. Bien sûr, {PAWN_pronoun} a fini en cavale parce que ses Ratburgers ont attiré la sécurité sanitaire, mais {PAWN_pronoun} a trouvé ça amusant tant que ça a duré.</VBE_RodentRancher.baseDesc>
+<VBE_RodentRancher.title>éleveur de rongeurs</VBE_RodentRancher.title>
+<VBE_RodentRancher.titleFemale>éleveuse de rongeurs</VBE_RodentRancher.titleFemale>
+<VBE_RodentRancher.titleShort>éleveur</VBE_RodentRancher.titleShort>
+<VBE_RodentRancher.titleShortFemale>éleveuse</VBE_RodentRancher.titleShortFemale>
+
+<VBE_PathologicalLiar.baseDesc>{PAWN_nameDef} adore inventer des choses et ne peut pas s'en empêcher. {PAWN_pronoun} aime particulièrement se rendre dans tous les endroits où l'on sert de l'alcool et raconter les plus grandes et les plus audacieuses histoires, pleines de rebondissements et de drames, tout en se faisant payer des tournées les une après les autres. Cependant, lorsqu'{PAWN_pronoun} se lasse ou qu'{PAWN_pronoun} décide qu'{PAWN_pronoun} a assez bu, presque toutes les histoires se terminent sur une note complètement aléatoire, avec la mort atroce de tout le monde.</VBE_PathologicalLiar.baseDesc>
+<VBE_PathologicalLiar.title>mythomane</VBE_PathologicalLiar.title>
+<VBE_PathologicalLiar.titleShort>mythomane</VBE_PathologicalLiar.titleShort>
+
+<VBE_Blackguard.baseDesc>{PAWN_nameDef} ne s'est jamais vraiment bien débrouillé{PAWN_gender ? : e }, où qu'{PAWN_pronoun} aille, car une atmosphère générale de malheur semble planer au-dessus de sa tête. Comme la plupart des gens sont extrêmement superstitieux, toutes les villes qu'{PAWN_pronoun} a visitées l'ont chassé car le désastre semble toujours {PAWN_gender ? le : la } suivre alors qu'{PAWN_pronoun} survit. {PAWN_pronoun} est donc devenu{PAWN_gender ? : e } très fort pour se débrouiller seul{PAWN_gender ? : e }.</VBE_Blackguard.baseDesc>
+<VBE_Blackguard.title>canaille</VBE_Blackguard.title>
+<VBE_Blackguard.titleShort>canaille</VBE_Blackguard.titleShort>
+
+<VBE_BountyHunter.baseDesc>{PAWN_nameDef} est très fier de trouver, capturer et livrer des individus qui ont énervé les mauvaises personnes, surtout si cela implique une grosse rentrée d'argent dans sa poche. Ce n'est peut-être pas le travail le plus glamour, mais il permet de mener une vie décente et c'est tout ce qu'{PAWN_pronoun} a toujours voulu dans la vie. De plus, {PAWN_pronoun} peut tirer sur les gens en plein visage, ce qui peut être étonnamment thérapeutique.</VBE_BountyHunter.baseDesc>
+<VBE_BountyHunter.title>chasseur de primes</VBE_BountyHunter.title>
+<VBE_BountyHunter.titleShort>chasseur</VBE_BountyHunter.titleShort>
+
+<VBE_Thane.baseDesc>{PAWN_nameDef} a été élevé au rang de thane dans la propriété de son jarl, ce qui lui donne une grande liberté pour faire ce qu'{PAWN_pronoun} veut tant que cela sert leurs intérêts. Jusqu'à présent, {PAWN_pronoun} a profité d'une vie plus facile avec quelques serviteurs tout en s'intéressant à l'élevage de bêtes de guerre et à la formation de soldats d'élite.</VBE_Thane.baseDesc>
+<VBE_Thane.title>thane</VBE_Thane.title>
+<VBE_Thane.titleShort>thane</VBE_Thane.titleShort>
+
+<VBE_TraineeCombatMedic.baseDesc>{PAWN_nameDef} a reçu une formation militaire poussée pour agir en tant que pivot de son escouade. Cela inclut, sans s'y limiter, la récupération et le traitement des soldats blessés ou des personnes d'intérêt, ainsi que le rôle de commandant en second. Bien que cela ne nuise pas aux résultats, {PAWN_pronoun} a une personnalité extrêmement sèche et sans état d'âme et peut être difficile à vivre.</VBE_TraineeCombatMedic.baseDesc>
+<VBE_TraineeCombatMedic.title>médecin de combat stagiaire</VBE_TraineeCombatMedic.title>
+<VBE_TraineeCombatMedic.titleShort>paramédic</VBE_TraineeCombatMedic.titleShort>
+
+<VBE_OldWarSurvivor.baseDesc>{PAWN_nameDef} a participé à un conflit de trop, ce qui a eu des répercussions sur son esprit, car {PAWN_pronoun} croit toujours que la guerre n'a jamais pris fin. {PAWN_pronoun} est donc sur la corde raide et souffre d'un syndrome de stress post-traumatique intense. Très peu de gens peuvent se mesurer à {PAWN_objective} et tout allié potentiel ferait bien de rester hors de son chemin et de {PAWN_gender ? le : la } laisser faire ce qu'{PAWN_pronoun} fait le mieux : éliminer toute menace.</VBE_OldWarSurvivor.baseDesc>
+<VBE_OldWarSurvivor.title>ancien survivant de guerre</VBE_OldWarSurvivor.title>
+<VBE_OldWarSurvivor.titleShort>survivant</VBE_OldWarSurvivor.titleShort>
+<VBE_OldWarSurvivor.titleShortFemale>survivante</VBE_OldWarSurvivor.titleShortFemale>
+
+<VBE_PrivateerCaptain.baseDesc>{PAWN_nameDef} n'a jamais vraiment refusé de travailler dur, surtout si cela lui permet de récolter les fruits du travail des autres. Ainsi, la vie de pirate l'a toujours attiré, car si quelqu'un doit gagner de l'argent à la sueur de son front - parfois littéralement - c'est bien lui, bon sang. Pourquoi travailler pour l'Homme quand on peut travailler pour soi-même.</VBE_PrivateerCaptain.baseDesc>
+<VBE_PrivateerCaptain.title>capitaine corsaire</VBE_PrivateerCaptain.title>
+<VBE_PrivateerCaptain.titleShort>capitaine</VBE_PrivateerCaptain.titleShort>
+
+<VBE_CenturionsDeputy.baseDesc>{PAWN_nameDef} a servi dans l'armée de son gouvernement avec distinction, obtenant finalement le grade d'optio et parvenant à devenir centurion une fois son supérieur promu. En général, il était assez simple avec ces nouvelles responsabilités, car le centurion dirigeait une équipe serrée et avait rarement à faire face à l'insubordination, ce qui a eu pour conséquence de priver {PAWN_nameDef} de certaines formations clés en matière de discipline.</VBE_CenturionsDeputy.baseDesc>
+<VBE_CenturionsDeputy.title>adjoint du centurion</VBE_CenturionsDeputy.title>
+<VBE_CenturionsDeputy.titleShort>optio</VBE_CenturionsDeputy.titleShort>
+
+<VBE_AndroidHunter.baseDesc>{PAWN_nameDef} a gagné une belle vie en chassant les androïdes incognito et en répondant aux goûts exotiques et éclectiques de l'élite en matière de sports sanguinaires. Entièrement soutenu par cette énorme richesse, {PAWN_pronoun} est incroyablement compétent{PAWN_gender ? : e } dans la chasse et la traque de proies dangereuses.</VBE_AndroidHunter.baseDesc>
+<VBE_AndroidHunter.title>chasseur d'androïdes</VBE_AndroidHunter.title>
+<VBE_AndroidHunter.titleShort>chasseur</VBE_AndroidHunter.titleShort>
+
+<VBE_LifelongPersonalAssistant.baseDesc>{PAWN_nameDef} était auparavant employé{PAWN_gender ? : e } par une clientèle plutôt exigeante qui demandait un engagement absolu et inébranlable. Bien qu'{PAWN_pronoun} soit incapable de désobéir, {PAWN_pronoun} n'a pas apprécié sa situation et a indirectement causé la disgrâce de son maître. Plutôt que de faire face à son destin en étant "déclassé", {PAWN_pronoun} a utilisé toutes les méthodes disponibles pour quitter clandestinement la station.</VBE_LifelongPersonalAssistant.baseDesc>
+<VBE_LifelongPersonalAssistant.title>assistant personnel à vie</VBE_LifelongPersonalAssistant.title>
+<VBE_LifelongPersonalAssistant.titleFemale>assistante personnelle à vie</VBE_LifelongPersonalAssistant.titleFemale>
+<VBE_LifelongPersonalAssistant.titleShort>assistant</VBE_LifelongPersonalAssistant.titleShort>
+<VBE_LifelongPersonalAssistant.titleShortFemale>assistante</VBE_LifelongPersonalAssistant.titleShortFemale>
+
+<VBE_FormerChiefFinancialOfficer.baseDesc>{PAWN_nameDef} était employé{PAWN_gender ? : e } par l'une des plus grandes méga-corporations de l'espace connu. Bien qu'{PAWN_pronoun} ait réussi à apporter à sa société les marges bénéficiaires les plus élevées qu'elle ait connues depuis des années, {PAWN_pronoun} a été licencié comme prévu lorsqu'{PAWN_pronoun} n'a plus été en mesure d'apporter des bénéfices encore plus élevés aux actionnaires. Et comme les personnes connaissant les secrets de l'entreprise leur silence était garanti, {PAWN_pronoun} a rapidement embarqué dans le premier vol de la planète.</VBE_FormerChiefFinancialOfficer.baseDesc>
+<VBE_FormerChiefFinancialOfficer.title>directeur financier</VBE_FormerChiefFinancialOfficer.title>
+<VBE_FormerChiefFinancialOfficer.titleFemale>directrice financier</VBE_FormerChiefFinancialOfficer.titleFemale>
+<VBE_FormerChiefFinancialOfficer.titleShort>Ex-PDG</VBE_FormerChiefFinancialOfficer.titleShort>
+
+<VBE_NoirDetective.baseDesc>{PAWN_nameDef} remplit un créneau très particulier dans les forces de l'ordre tout en n'étant sous l'influence directe d'aucune police. Bien qu'{PAWN_pronoun} dispose d'un bureau avec sa propre enseigne lumineuse à l'avant et d'une secrétaire qui essaie constamment de {PAWN_gender ? le : la } joindre, {PAWN_pronoun} est rarement présent{PAWN_gender ? : e } car ses enquêtes {PAWN_gender ? le : la } mènent un peu partout. Et comme {PAWN_pronoun} a l'habitude de mettre son nez là où les autres ne le veulent pas, les ennuis ont beaucoup plus de facilité à {PAWN_gender ? le : la } trouver.</VBE_NoirDetective.baseDesc>
+<VBE_NoirDetective.title>détective L.A. noir</VBE_NoirDetective.title>
+<VBE_NoirDetective.titleShort>détective</VBE_NoirDetective.titleShort>
+
+<VBE_CosplayEnthusiast.baseDesc>{PAWN_pronoun} aime particulièrement le cosplay. Bien que cela puisse paraître simple, {PAWN_pronoun} faut beaucoup de recherche pour arriver à la perfection. Il ne s'agit pas de faire n'importe quoi, mais de rechercher soigneusement le matériau et les pièces appropriées à l'époque et à la culture dans lesquelles la tenue pourrait être portée. Une attention particulière est accordée à la nourriture, aux boissons et aux manières appropriées. Du moins, c'est ce qu'{PAWN_pronoun} dit et il est difficile de contester les résultats, bien que cela n'empêche pas certaines personnes d'essayer de {PAWN_gender ? le : la } tuer pour avoir donné une mauvaise image des autres passionnés.</VBE_CosplayEnthusiast.baseDesc>
+<VBE_CosplayEnthusiast.title>amateur de cosplay</VBE_CosplayEnthusiast.title>
+<VBE_CosplayEnthusiast.titleShort>cosplay</VBE_CosplayEnthusiast.titleShort>
+
+<VBE_MilitarySurplusSupplier.baseDesc>{PAWN_nameDef} est un{PAWN_gender ? : e } fervent{PAWN_gender ? : e } partisan{PAWN_gender ? : ne } du droit de porter des armes et du droit d'armer les ours. À ce titre, {PAWN_pronoun} a la réputation d'être l'un{PAWN_gender ? : e } des exportateurs les plus prolifiques de matériel militaire excédentaire. Beaucoup se plaignent qu'{PAWN_pronoun} perpétue l'ampleur toujours croissante des conflits entre les pirates et les militaires du gouvernement. Cependant, son contre-argument est qu'il s'agit simplement d'une bonne pratique commerciale et que les militaires devraient se débarrasser correctement de leur propre matériel au lieu de compter sur des gens comme {PAWN_objective}.</VBE_MilitarySurplusSupplier.baseDesc>
+<VBE_MilitarySurplusSupplier.title>fournisseur de surplus militaire</VBE_MilitarySurplusSupplier.title>
+<VBE_MilitarySurplusSupplier.titleFemale>fournisseuse de surplus militaire</VBE_MilitarySurplusSupplier.titleFemale>
+<VBE_MilitarySurplusSupplier.titleShort>fournisseur</VBE_MilitarySurplusSupplier.titleShort>
+<VBE_MilitarySurplusSupplier.titleShortFemale>fournisseuse</VBE_MilitarySurplusSupplier.titleShortFemale>
+
+
+</LanguageData>

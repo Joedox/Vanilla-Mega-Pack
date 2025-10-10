@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Ideology -->
+
+<!-- Couronne de torture -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Ideology">
+		<defName>JD_Jesus</defName>
+		<label>J.-C, 24 carats</label>
+		<description>Make a gold torture crown of legendary quality.</description>
+
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>Apparel_TortureCrown</def>
+			<madeFrom>Gold</madeFrom>
+			<quality>Legendary</quality>
+			<count>1</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Jesus</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Abolition de l'esclavage en France le 27 avril 1848 -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Ideology">
+		<defName>JD_AbolitionEsclavage</defName>
+		<label>27 avril 1848</label>
+		<description>Make a slave collar and a slave strap of legendary quality.</description>
+
+		<tracker Class="AchievementsExpanded.ItemTrackerMultipleVanillaApparel">
+			<thingList>
+				<li>
+					<key>Apparel_Collar</key>
+					<quality>Legendary</quality>
+					<value>1</value>
+				</li>
+				<li>
+					<key>Apparel_BodyStrap</key>
+					<quality>Legendary</quality>
+					<value>1</value>
+				</li>
+			</thingList>
+		</tracker>
+
+		<texPath>Achievements/JD_AbolitionEsclavage</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Crâne pas, t'es chauve ! -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Ideology">
+		<defName>JD_Crane</defName>
+		<label>Don't skull, you're bald!</label>
+		<description>Obtain a total of 100 human skulls.</description>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>Skull</def>
+			<count>100</count>
+		</tracker>
+
+		<texPath>Achievements/JD_Crane</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+</Defs>

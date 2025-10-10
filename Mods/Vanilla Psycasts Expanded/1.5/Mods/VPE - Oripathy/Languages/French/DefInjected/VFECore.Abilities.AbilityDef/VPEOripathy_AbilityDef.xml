@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Originium Juggernaut -->
+<OriginiumArmorSTNL.label>juggernaut originium</OriginiumArmorSTNL.label>
+<!-- EN: Form an armor of originium around yourself, allowing you to absorb half the damage at the cost of mobility. -->
+<OriginiumArmorSTNL.description>Forme une armure d'originium autour de vous, vous permettant d'absorber la moitié des dégâts au détriment de la mobilité.</OriginiumArmorSTNL.description>
+<!-- EN: Using ability: {0} -->
+<OriginiumArmorSTNL.jobReportString>Utilise la capacité : {0}</OriginiumArmorSTNL.jobReportString>
+<!-- EN: Originium Juggernaut -->
+<OriginiumArmorSTNL.verbProperties.label>juggernaut originium</OriginiumArmorSTNL.verbProperties.label>
+
+<!-- EN: Originium Mind-Control -->
+<VPE_BrainmeltSTNL.label>contrôle mental originium</VPE_BrainmeltSTNL.label>
+<!-- EN: Breaks the brain structure of the target and replaces it with an originium based crystal, effectively killing them and turning them into an originium zombie for your faction. Retains the capabilities of the host but infects them with the first few signs of curable oripathy. -->
+<VPE_BrainmeltSTNL.description>Brise la structure cérébrale de la cible et la remplace par un cristal à base d'originium, ce qui a pour effet de la tuer et de la transformer en zombie d'originium pour votre faction. Conserve les capacités de l'hôte mais l'infecte avec les premiers signes d'une oripathy guérissable.</VPE_BrainmeltSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BrainmeltSTNL.jobReportString>Utilise la capacité : {0}</VPE_BrainmeltSTNL.jobReportString>
+<!-- EN: Originium Mind-Control -->
+<VPE_BrainmeltSTNL.verbProperties.label>contrôle mental originium</VPE_BrainmeltSTNL.verbProperties.label>
+
+<!-- EN: World Of Dark: Resurrecting-Oripathy -->
+<VPE_DarknessSTNL.label>monde des ténèbres</VPE_DarknessSTNL.label>
+<!-- EN: Unleash a huge cloud of Originium dust high in the sky, causing it to resurrect dead creatures back to life in a berserk state. -->
+<VPE_DarknessSTNL.description>Libère un énorme nuage de poussière d'originium haut dans le ciel, qui ressuscite les créatures mortes dans un état de folie furieuse.</VPE_DarknessSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DarknessSTNL.jobReportString>Utilise la capacité : {0}</VPE_DarknessSTNL.jobReportString>
+<!-- EN: World Of Dark: Resurrecting-Oripathy -->
+<VPE_DarknessSTNL.verbProperties.label>monde des ténèbres</VPE_DarknessSTNL.verbProperties.label>
+
+<!-- EN: Summon Stabilized Originite Crystal -->
+<VPE_MDOriginitemanifestSTNL.label>cristal d'originite stabilisé</VPE_MDOriginitemanifestSTNL.label>
+<!-- EN: Psychically transform a pile of stone deep underground into an originite chunk before making it surface. This chunk is stabilized, meaning that the Oripathy from this fragment is curable and that the drawbacks are less severe. (0.20% Infection/u Slowly goes down.) -->
+<VPE_MDOriginitemanifestSTNL.description>Transforme psychiquement un amas de pierre profondément enfoui dans le sol en un morceau d'originite avant de le faire remonter à la surface. Ce morceau est stabilisé, ce qui signifie que l'oripathy de ce fragment est bénin et que les inconvénients sont moins graves. (0,20% d'infection par prise, l'infection diminue lentement.)</VPE_MDOriginitemanifestSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MDOriginitemanifestSTNL.jobReportString>Utilise la capacité : {0}</VPE_MDOriginitemanifestSTNL.jobReportString>
+<!-- EN: Summon Stabilized Originite Crystal -->
+<VPE_MDOriginitemanifestSTNL.verbProperties.label>invoquer un cristal d'originite stabilisé</VPE_MDOriginitemanifestSTNL.verbProperties.label>
+
+<!-- EN: Summon Overcharged Originite Crystal -->
+<VPE_OCOriginitemanifestSTNL.label>cristal d'originite surchargé</VPE_OCOriginitemanifestSTNL.label>
+<!-- EN: Psychically transform a pile of stone deep underground into an originite chunk before making it surface. (0.20% Infection/u) -->
+<VPE_OCOriginitemanifestSTNL.description>Transforme psychiquement un amas de pierre profondément enfoui en un morceau d'originite avant de le faire remonter à la surface. (0.20% d'infection par prise)</VPE_OCOriginitemanifestSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_OCOriginitemanifestSTNL.jobReportString>Utilise la capacité : {0}</VPE_OCOriginitemanifestSTNL.jobReportString>
+<!-- EN: Summon Overcharged Originite Crystal -->
+<VPE_OCOriginitemanifestSTNL.verbProperties.label>invoquer un cristal d'originite surchargé</VPE_OCOriginitemanifestSTNL.verbProperties.label>
+
+<!-- EN: Summon Originite Crystal -->
+<VPE_OriginitemanifestSTNL.label>cristal d'originite</VPE_OriginitemanifestSTNL.label>
+<!-- EN: Psychically transform a pile of stone deep underground into an originite chunk before making it surface. (0.02% Infection/u) -->
+<VPE_OriginitemanifestSTNL.description>Transforme psychiquement un amas de pierre profondément enfoui en un morceau d'originite avant de le faire remonter à la surface. (0,02% d'infection par prise)</VPE_OriginitemanifestSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_OriginitemanifestSTNL.jobReportString>Utilise la capacité : {0}</VPE_OriginitemanifestSTNL.jobReportString>
+<!-- EN: Summon Originite Crystal -->
+<VPE_OriginitemanifestSTNL.verbProperties.label>invoquer un cristal d'originite</VPE_OriginitemanifestSTNL.verbProperties.label>
+
+<!-- EN: Originium Annihilation -->
+<VPE_Oripath-Annihilate.label>annihilation d'originium</VPE_Oripath-Annihilate.label>
+<!-- EN: Attack the target with an absurd amount of Originium, causing the target to instantly die. -->
+<VPE_Oripath-Annihilate.description>Attaque la cible avec une quantité absurde d'originium, provoquant la mort instantanée de la cible.</VPE_Oripath-Annihilate.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Oripath-Annihilate.jobReportString>Utilise la capacité : {0}</VPE_Oripath-Annihilate.jobReportString>
+<!-- EN: Originium Annihilation -->
+<VPE_Oripath-Annihilate.verbProperties.label>annihilation d'originium</VPE_Oripath-Annihilate.verbProperties.label>
+
+<!-- EN: Originium Infection -->
+<VPE_Oripath-Y-Infect.label>infection d'originium</VPE_Oripath-Y-Infect.label>
+<!-- EN: Skip an originium crystal inside the target to infect them with Oripathy, boosting their psychic sensitivity stat at the cost of others and certain death. (This psycast raises the infection by 50%, killing in two casts.) -->
+<VPE_Oripath-Y-Infect.description>Insère un cristal d'originium à l'intérieur de la cible pour l'infecter avec l'oripathy, augmentant ainsi sa sensibilité psychique au prix d'une mort certaine. (Ce psysort augmente l'infection de 50%, tuant en deux lancers).</VPE_Oripath-Y-Infect.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Oripath-Y-Infect.jobReportString>Utilise la capacité : {0}</VPE_Oripath-Y-Infect.jobReportString>
+<!-- EN: Originium Infection -->
+<VPE_Oripath-Y-Infect.verbProperties.label>infection d'originium</VPE_Oripath-Y-Infect.verbProperties.label>
+
+<!-- EN: Originium Infection (Poisoned) -->
+<VPE_Oripath-Y-InfectDanger.label>infection d'originium (mortelle)</VPE_Oripath-Y-InfectDanger.label>
+<!-- EN: Skip an originium crystal inside the targets present in the AOE to infect them with Oripathy, rapidly killing the target. (50% per cast, rapidly ramps up.) -->
+<VPE_Oripath-Y-InfectDanger.description>Insère un cristal d'originium dans les cibles présentes dans l'AOE pour les infecter avec de l'oripathy, tuant rapidement les cibles. (50% par lancer, l'infection augmente rapidement).</VPE_Oripath-Y-InfectDanger.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Oripath-Y-InfectDanger.jobReportString>Utilise la capacité : {0}</VPE_Oripath-Y-InfectDanger.jobReportString>
+<!-- EN: Originium Infection (Poisoned) -->
+<VPE_Oripath-Y-InfectDanger.verbProperties.label>infection d'originium (mortelle)</VPE_Oripath-Y-InfectDanger.verbProperties.label>
+
+<!-- EN: Originium Infection (Curable) -->
+<VPE_Oripath-Y-InfectSafe.label>infection d'originium (bénigne)</VPE_Oripath-Y-InfectSafe.label>
+<!-- EN: Skip an originium crystal inside the target to infect them with Oripathy, boosting their psychic sensitivity stat at the cost of others and certain death if abused. While this type of infection is less severe and curable the lethality remains the same if it reaches critical levels. (50% Infection per cast, slowly goes down.) -->
+<VPE_Oripath-Y-InfectSafe.description>Insère un cristal d'originium dans la cible pour l'infecter avec de l'oripathy, augmentant ainsi sa sensibilité psychique au détriment des autres et d'une mort certaine en cas d'abus. Bien que ce type d'infection soit moins grave et bénigne, la létalité reste la même si elle atteint un niveau critique. (50% d'infection par lancer, l'infection diminue lentement).</VPE_Oripath-Y-InfectSafe.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Oripath-Y-InfectSafe.jobReportString>Utilise la capacité : {0}</VPE_Oripath-Y-InfectSafe.jobReportString>
+<!-- EN: Originium Infection (Curable) -->
+<VPE_Oripath-Y-InfectSafe.verbProperties.label>infection d'originium (bénigne)</VPE_Oripath-Y-InfectSafe.verbProperties.label>
+
+<!-- EN: Oripathy Limit-Break -->
+<VPE_OripathyLimitBreakSTNL.label>rupture de limite oripathy</VPE_OripathyLimitBreakSTNL.label>
+<!-- EN: Overcharge your body with a modified strain of the Oripathy virus, drastically changing your metabolism to be hyper-efficient and self regenerating for two hours. -->
+<VPE_OripathyLimitBreakSTNL.description>Surcharge votre corps avec une souche modifiée du virus oripathy, modifiant radicalement votre métabolisme pour qu'il devienne hyper efficace et se régénère de lui-même pendant deux heures.</VPE_OripathyLimitBreakSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_OripathyLimitBreakSTNL.jobReportString>Utilise la capacité : {0}</VPE_OripathyLimitBreakSTNL.jobReportString>
+<!-- EN: Oripathy Limit-Break -->
+<VPE_OripathyLimitBreakSTNL.verbProperties.label>rupture de limite oripathy</VPE_OripathyLimitBreakSTNL.verbProperties.label>
+
+<!-- EN: Originium Psy-form -->
+<VPE_OriPsyFormSTNL.label>psy-forme originium</VPE_OriPsyFormSTNL.label>
+<!-- EN: Manifest Originium catalysts, doubling your psychic sensitivity and halving the heat drain of psycasts. Additionally allows you to refill psyfocus faster when meditating. -->
+<VPE_OriPsyFormSTNL.description>Manifeste les catalyseurs d'originium, doublant votre sensibilité psychique et réduisant de moitié l'échauffement neuronal des psysorts. De plus, il vous permet de recharger plus rapidement votre concentration psychique lorsque vous méditez.</VPE_OriPsyFormSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_OriPsyFormSTNL.jobReportString>Utilise la capacité : {0}</VPE_OriPsyFormSTNL.jobReportString>
+<!-- EN: Originium Psy-form -->
+<VPE_OriPsyFormSTNL.verbProperties.label>psy-forme originium</VPE_OriPsyFormSTNL.verbProperties.label>
+
+<!-- EN: Phase -->
+<VPE_PhasingSTNL.label>phase</VPE_PhasingSTNL.label>
+<!-- EN: Use your Arts to phase, allowing you to avoid any incoming damage for a 10 sec duration. Dodging will still require time to get back into fighting position, Causing a slight stun when hit. -->
+<VPE_PhasingSTNL.description>Utilise les arts de phase, ce qui vous permet d'éviter les dégâts pour une durée de 10 secondes. En esquivant, vous aurez toujours besoin de temps pour vous remettre en position de combat, ce qui provoque un léger étourdissement lorsque vous êtes touché.</VPE_PhasingSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PhasingSTNL.jobReportString>Utilise la capacité : {0}</VPE_PhasingSTNL.jobReportString>
+<!-- EN: Phase -->
+<VPE_PhasingSTNL.verbProperties.label>phase</VPE_PhasingSTNL.verbProperties.label>
+
+<!-- EN: Dead World -->
+<VPE_UDarknessSTNL.label>monde mort</VPE_UDarknessSTNL.label>
+<!-- EN: Unleash a huge cloud of Originium dust high in the sky, causing it to shroud the world in darkness scaring away any caravan. Allies and Foes alike. -->
+<VPE_UDarknessSTNL.description>Libère un énorme nuage de poussière d'originium dans le ciel, qui plonge le monde dans l'obscurité et fait fuir les caravanes. Alliés et ennemis confondus.</VPE_UDarknessSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_UDarknessSTNL.jobReportString>Utilise la capacité : {0}</VPE_UDarknessSTNL.jobReportString>
+<!-- EN: Dead World -->
+<VPE_UDarknessSTNL.verbProperties.label>monde mort</VPE_UDarknessSTNL.verbProperties.label>
+
+
+</LanguageData>

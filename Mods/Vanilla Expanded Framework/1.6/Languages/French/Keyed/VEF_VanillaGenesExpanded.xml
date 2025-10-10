@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: over 40ºC -->
+<VGE_StatsReport_Over40>plus de 40ºC</VGE_StatsReport_Over40>	
+<!-- EN: below 0ºC -->
+<VGE_StatsReport_Below0>sous 0ºC</VGE_StatsReport_Below0>
+<!-- EN: armoured -->
+<VGE_StatsReport_Armoured>blindé</VGE_StatsReport_Armoured>
+<!-- EN: no sunlight -->
+<VGE_StatsReport_NoSunlight>pas de soleil</VGE_StatsReport_NoSunlight>
+<!-- EN: on water -->
+<VGE_StatsReport_Water>sur l'eau</VGE_StatsReport_Water>
+<!-- EN: on dry land -->
+<VGE_StatsReport_NotWater>sur la terre ferme</VGE_StatsReport_NotWater>
+<!-- EN: outdoors -->
+<VGE_StatsReport_Outside>à l'extérieur</VGE_StatsReport_Outside>
+<!-- EN: indoors -->
+<VGE_StatsReport_Inside>à l'intérieur</VGE_StatsReport_Inside>
+<!-- EN: above 50% lit -->
+<VGE_StatsReport_InLight>éclairé à plus de 50%</VGE_StatsReport_InLight>
+<!-- EN: below 50% lit -->
+<VGE_StatsReport_InDarkness>éclairé à moins de 50%</VGE_StatsReport_InDarkness>
+<!-- EN: in pain -->
+<VGE_StatsReport_InPain>dans la douleur</VGE_StatsReport_InPain>
+<!-- EN: in polluted terrain -->
+<VGE_StatsReport_InPollution>sur un terrain pollué</VGE_StatsReport_InPollution>
+<!-- EN: on colony map -->
+<VGE_StatsReport_ColonyMap>sur la carte de la colonie</VGE_StatsReport_ColonyMap>
+<!-- EN: outside colony map -->
+<VGE_StatsReport_OutsideColonyMap>carte extérieure à la colonie</VGE_StatsReport_OutsideColonyMap>
+<!-- EN: light sensitivity -->
+<VGE_StatsReport_AnyLightSensitivity>sensibilité à la lumière</VGE_StatsReport_AnyLightSensitivity>
+<!-- EN: in vacuum -->
+<VGE_StatsReport_InVacuum>dans le vide</VGE_StatsReport_InVacuum>
+<!-- EN: in Space -->
+<VGE_StatsReport_InSpace>dans l'espace</VGE_StatsReport_InSpace>
+<!-- EN: in the planet -->
+<VGE_StatsReport_InPlanet>sur la planète</VGE_StatsReport_InPlanet>
+
+<!-- EN: {0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid. -->
+<VGE_EggPregnancy>Les œufs de {0} ont été fécondés ! Le processus de ponte va se poursuivre jusqu'à ce qu'un œuf fertile soit pondu.</VGE_EggPregnancy>
+<!-- EN: {0} fertilized! -->
+<VGE_EggPregnancyLabel>{0} fertilisé !</VGE_EggPregnancyLabel>
+
+<!-- EN: {0} has laid an egg! Keep it warm and protected. -->
+<VGE_EggLaid>{0} a pondu un œuf ! Gardez-le au chaud et protégez-le.</VGE_EggLaid>
+<!-- EN: {0} laid an egg! -->
+<VGE_EggLaidLabel>{0} a pondu un œuf !</VGE_EggLaidLabel>
+
+<!-- EN: {0} has hatched from an egg! -->
+<VGE_EggHatched>{0} a éclos de son œuf !</VGE_EggHatched>
+<!-- EN: {0} hatched! -->
+<VGE_EggHatchedLabel>{0} a éclos !</VGE_EggHatchedLabel>
+
+<!-- EN: Males don't lay eggs -->
+<VGE_Male_Egg>Les mâles ne pondent pas d'œufs</VGE_Male_Egg>
+
+<!-- EN: Pregnancy factor gene: {0} gestation speed -->
+<VGE_PregnancyFactor>Gène facteur de grossesse : {0} de vitesse de gestation</VGE_PregnancyFactor>
+
+<!-- EN: {0} only gene. -->
+<VGE_ForGenderOnly>Gène {0} uniquement.</VGE_ForGenderOnly>
+
+
+</LanguageData>

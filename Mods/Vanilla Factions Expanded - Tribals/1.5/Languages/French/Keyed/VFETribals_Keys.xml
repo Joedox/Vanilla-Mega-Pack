@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFET.AvailableCornerstonePoint>Pierre angulaire disponible</VFET.AvailableCornerstonePoint>
+<VFET.AvailableCornerstonePoints>Pierre angulaire : {0}</VFET.AvailableCornerstonePoints>
+<VFET.AvailableCornerstonePointDesc>Vous pouvez dépenser une pierre angulaire pour obtenir une amélioration permanente à l'échelle de votre colonie qui vous aidera à façonner votre civilisation.</VFET.AvailableCornerstonePointDesc>
+<VFET.Cornerstones>Pierres angulaires</VFET.Cornerstones><!--Les pierres angulaires :-->
+<VFET.CustomizeCornerstones>Personnalisation des pierres angulaires</VFET.CustomizeCornerstones>
+<VFET.Ethos>Récit</VFET.Ethos>
+<VFET.EthosUnlocked>Verrouillez ou déverrouillez le récit de votre faction. Lorsqu'il est verrouillé, le texte narratif ne se régénère pas automatiquement lorsque vous déverrouillez une nouvelle pierre angulaire.\n\nLe verrouillage du récit est actuellement désactivé. Le texte du récit ne se régénérera pas automatiquement.</VFET.EthosUnlocked>
+<VFET.EthosLocked>Verrouillez ou déverrouillez le récit de votre faction. Lorsqu'il est verrouillé, le texte narratif ne se régénère pas automatiquement lorsque vous déverrouillez une nouvelle pierre angulaire.\n\nLe verrouillage du récit est actuellement activé. Le texte du récit ne se régénérera pas automatiquement.</VFET.EthosLocked>
+<VFET.CornerstonesExplanation>Gagner des pierres angulaires en passant à l'âge suivant.</VFET.CornerstonesExplanation>
+<VFET.EthosTooltip>Le récit central de votre idéoligion. Cela n'a aucun impact sur le gameplay, mais les pierres angulaires associées en ont un.</VFET.EthosTooltip>
+<VFET.EditEthos>Modifier le récit</VFET.EditEthos>
+<VFET.UnlockCornerstone>Débloquer la pierre angulaire</VFET.UnlockCornerstone>
+<VFET.StatsReport_Cornerstones>Bonus des pierres angulaires</VFET.StatsReport_Cornerstones>
+<VFET.WorkDisabledByMissingResearch>Nécessite la recherche "{0}" pour le débloquer.</VFET.WorkDisabledByMissingResearch>
+<VFET.FormIdeology>Votre idéologie</VFET.FormIdeology>
+<VFET.FormIdeologyDesc>Quelles seront les croyances de vos colons ? Ces croyances affectent le gameplay et les graphismes. Vous pourrez recruter d'autres personnes pour qu'elles adhèrent à vos croyances, ou adopter leurs croyances.\n\n\nChoisir "classique" vous permettra de jouer sans le système d'idéologie. Tout le contenu de l'extension Ideology reste actif.\n\nChoisir "fluide" vous permet de commencer avec une idéologie de base et de la développer au fil du temps.\n\nChoisir "personnalisé" vous permet de créer l'idéologie et d'en personnaliser tous les aspects. Cela peut prendre un certain temps.</VFET.FormIdeologyDesc>
+<VFET.WildMenJoin>En raison du petit nombre d'hommes sauvages, ils ont décidé de vous rejoindre.</VFET.WildMenJoin>
+<VFET.WildMenRetreat>En raison de l'incertitude de pouvoir vous vaincre, les hommes sauvages ont décidé de battre en retraite.</VFET.WildMenRetreat>
+<VFET.WildMenJoinTitle>Des hommes sauvages demandent à vous rejoindre</VFET.WildMenJoinTitle>
+<VFET.WildMenJoinDesc>Des hommes sauvages de la tribu voisine ont trouvé le chemin de {0}. Après avoir constaté votre nombre, ils ont demandé à vous rejoindre. Ils pensent qu'ensemble, vous aurez plus de chances contre les éléments.\n\nVous pouvez refuser, mais ils risquent de se venger.</VFET.WildMenJoinDesc>
+<VFET.WildMenRaid>Raid d'hommes sauvages</VFET.WildMenRaid>
+<VFET.WildMenRaidDesc>Des hommes sauvages de la tribu voisine ont trouvé le chemin de {0}. Après avoir observé votre nombre, ils ont décidé de vous attaquer. Vous pourriez peut-être capturer et recruter les survivants.</VFET.WildMenRaidDesc>
+<VFET.Reject>Refuser</VFET.Reject>
+<VFET.WorkTypeName>Type de travail : {0}</VFET.WorkTypeName>
+<VFET_WildmanLetterLabel>Un homme sauvage vous rejoint</VFET_WildmanLetterLabel>
+<VFET_WildmanLetter>Un homme sauvage errant décide de rejoindre votre colonie.</VFET_WildmanLetter>
+<VFET_AnimalsLetterLabel>Animaux de ferme</VFET_AnimalsLetterLabel>
+<VFET_AnimalsLetter>Un groupe d'animaux de ferme a été apprivoisé et rejoint votre colonie.</VFET_AnimalsLetter>
+<VFET_DiscoveryLabel>Découverte de {0} !</VFET_DiscoveryLabel>
+<VFET_Discovery>Un nouveau projet de recherche a été découvert lors d'un regroupement tribal : {0} !\n\n{1}</VFET_Discovery>
+<VFET.AnimalTrapSprung>Un piège à animaux s'est refermé sur {0}.</VFET.AnimalTrapSprung>
+<VFET.LightLargeFire>Allumer</VFET.LightLargeFire>
+<VFET.ExtinguishLargeFire>Éteindre</VFET.ExtinguishLargeFire>
+<VFET.LightLargeFireDesc>Lorsqu'il brûle, le grand feu émet de la fumée et peut inciter les hommes sauvages des environs à s'approcher. Il est très instable et peut mettre le feu à tout ce qui l'entoure.</VFET.LightLargeFireDesc>
+<VFET.ResearchLeft_Neolithic>Certaines recherches de technologie animale doivent encore être recherchés.</VFET.ResearchLeft_Neolithic>
+
+<!--These are needed for Ideology compat -->
+
+<Optional>requis</Optional>
+<RitualTargetGatherSpotInfo>Tout lieu de rassemblement, comme une table</RitualTargetGatherSpotInfo>
+
+<VFET.MustPlaceOnFloorOrStonyTerrain>Doit être placé sur un sol ou un terrain rocheux.</VFET.MustPlaceOnFloorOrStonyTerrain>
+<VFET.StatsReport_BeautyMultiplier>Multiplicateur de beauté de l'âge {0} de la colonie</VFET.StatsReport_BeautyMultiplier>
+<VFET.NotAllReseachProjectsResearched>Conditions non remplies : Tous les projets de recherche du niveau technologique précédent ne sont pas terminés.</VFET.NotAllReseachProjectsResearched>
+<VFET.ManInBlackLabelReplacement>Homme sauvage en noir</VFET.ManInBlackLabelReplacement>
+<VFET.CustomizeNPCIdeologion>Personnaliser l'idéologie des PNJ</VFET.CustomizeNPCIdeologion>
+<VFET.CustomizeNPCIdeologionDesc>\nVotre idéologie peut être personnalisée grâce à la recherche "La culture".</VFET.CustomizeNPCIdeologionDesc>
+
+
+</LanguageData>

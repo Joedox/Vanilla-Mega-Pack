@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Body clock -->
+<NocturnalAnimals.BodyClock>Horloge biologique</NocturnalAnimals.BodyClock>
+<!-- EN: Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk. -->
+<NocturnalAnimals.BodyClock_Description>Détermine quand l'animal dort et quand il est éveillé.\n\nLes animaux diurnes dorment pendant la nuit et sont éveillés pendant le jour, tandis que les animaux nocturnes dorment pendant le jour et sont éveillés pendant la nuit. Les animaux crépusculaires sont principalement actifs au crépuscule.</NocturnalAnimals.BodyClock_Description>
+
+<!-- EN: Diurnal -->
+<NocturnalAnimals.BodyClock_Diurnal>Diurne</NocturnalAnimals.BodyClock_Diurnal>
+<!-- EN: Nocturnal -->
+<NocturnalAnimals.BodyClock_Nocturnal>Nocturne</NocturnalAnimals.BodyClock_Nocturnal>
+<!-- EN: Crepuscular -->
+<NocturnalAnimals.BodyClock_Crepuscular>Crépusculaire</NocturnalAnimals.BodyClock_Crepuscular>
+
+
+<!-- EN: {0} has reproduced asexually. -->
+<VEF_AsexualHatched>{0} s'est reproduit de manière asexuée.</VEF_AsexualHatched>
+<!-- EN: {0} has cloned itself. -->
+<VEF_AsexualCloning>{0} s'est cloné lui-même.</VEF_AsexualCloning>
+<!-- EN: {0} has sporulated. -->
+<VEF_AsexualHatchedEgg>{0} a sporulé.</VEF_AsexualHatchedEgg>
+<!-- EN: This creature is untameable -->
+<VEF_NotTameable>Cette créature est indomptable</VEF_NotTameable>
+<!-- EN: Time to metamorphosis: {0} -->
+<VEF_TimeToMetamorphosis>Temps de la métamorphose : {0}</VEF_TimeToMetamorphosis>
+
+<!-- EN: Warning, this egg explodes when hatching! -->
+<VEF_WarningEggExplodes>Attention, cet œuf explose à l'éclosion !</VEF_WarningEggExplodes>
+
+<!-- EN: Animal expires in: {0} -->
+<VEF_TimeToDie>Animal expire dans : {0}</VEF_TimeToDie>
+
+<!-- EN: Disable {0} -->
+<VEF_DisableAnimal>Désactiver {0}</VEF_DisableAnimal>
+
+<!-- EN: {0} creatures swallowed whole.  -->
+<VEF_StomachContents>Créature avalée entièrement : {0}</VEF_StomachContents>
+<!-- EN: Will be consumed in {0} -->
+<VEF_DigestionTime>Sera consommé dans {0}</VEF_DigestionTime>
+
+<!-- EN: The terrain needs to be diggable to do this -->
+<VEF_TerrainsNeedsDiggable>Pour ce faire, le terrain doit pouvoir être creusé</VEF_TerrainsNeedsDiggable>
+
+<!-- EN: While caravaning, produces {0} {1} every:  -->
+<VEF_WhileCaravaning>En caravane, produit {0} {1} tous les : </VEF_WhileCaravaning>
+
+<!-- Mod options -->
+
+<!-- EN: These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework -->
+<VCE_AffectsAllAnimalMods>Ces options de comportement animal affecteront tous les mods animaux qui partagent le code de Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+<!-- EN: Allow corpse decaying mechanics (for example, Helixien slug's effect) -->
+<VCE_CorpseDecayingEffectOption>Autoriser la décomposition des cadavres (Exemple : l'effet de la limace hélixien)</VCE_CorpseDecayingEffectOption>
+<!-- EN: Allow digging when hungry mechanics (for example, Frostmites digging corpses) -->
+<VCE_DigWhenHungryOption>Autoriser à creuser lorsque les colons ont faim (Exemple : Mite des neiges déterrant des cadavres)</VCE_DigWhenHungryOption>
+<!-- EN: Allows animals digging for things periodically -->
+<VCE_DigPeriodicallyOption>Autoriser les animaux à creuser pour trouver des choses périodiquement</VCE_DigPeriodicallyOption>
+<!-- EN: Allow animal particles (gas and filth) -->
+<VCE_AnimalParticlesOption>Autoriser les particules d'animaux (gaz et déchets)</VCE_AnimalParticlesOption>
+<!-- EN: Allow asexual reproduction -->
+<VCE_AsexualReproductionOption>Autoriser la reproduction asexuée</VCE_AsexualReproductionOption>
+<!-- EN: Asexual reproduction disabled via mod options -->
+<VFE_AsexualReproductionDisabled>Reproduction asexuée désactivée via les options du mod</VFE_AsexualReproductionDisabled>
+<!-- EN: Allow "blink" mechanics (for example, Skiphounds) -->
+<VCE_BlinkMechanicsOption>Autoriser la mécanique "Transfert" (Exemple : le molosse transfert)</VCE_BlinkMechanicsOption>
+<!-- EN: Allow animals building things (for example, beavers building dams) -->
+<VCE_BuildPeriodicallyOption>Autoriser les animaux à construire des objets (Exemple : les castors avec leurs barrages)</VCE_BuildPeriodicallyOption>	
+<!-- EN: Allow animals recharging nearby batteries or refueling -->
+<VCE_ChargeBatteriesOption>Autoriser les animaux à recharger les batteries à proximité ou à faire le plein de carburant</VCE_ChargeBatteriesOption>
+<!-- EN: Allow animals' eggs that explode (such as dragons') -->
+<VCE_ExplodingEggsOption>Autoriser les œufs d'animaux qui explosent (comme ceux des "varans")</VCE_ExplodingEggsOption>
+<!-- EN: Allow animals "hovering", ignoring terrain movement costs and waterstriding -->
+<VCE_HoveringOption>Autoriser les animaux à "léviter", ignorant la pénalité de déplacement du terrain</VCE_HoveringOption>
+<!-- EN: Allow animals changing graphics (for example, Chameleon Yak) -->
+<VCE_GraphicChangingOption>Autoriser les animaux à changer de texture (Exemple : le Yack caméléon)</VCE_GraphicChangingOption>
+<!-- EN: Allows animals causing hediffs, mental states or thoughts -->
+<VCE_EffecterOption>Autoriser les animaux de provoquer des troubles de la pensée ou des états mentaux</VCE_EffecterOption>
+<!-- EN: Allow health regeneration (active and passive) -->
+<VCE_RegenerationOption>Autoriser la régénération de la santé (active ou passive)</VCE_RegenerationOption>
+<!-- EN: Allow animals to auto-resurrect (for example Phoenix Owlcat) -->
+<VCE_ResurrectionOption>Autoriser les animaux à ressusciter automatiquement (Exemple : Hibou phénix)</VCE_ResurrectionOption>
+<!-- EN: Allow some animals to be untameable -->
+<VCE_UntameableOption>Autoriser certains animaux à être indomptables</VCE_UntameableOption>
+<!-- EN: Search: -->
+<VEF_AnimalsSearch>Rcher. :</VEF_AnimalsSearch>
+
+<!-- Bills -->
+
+<!-- EN: Requires {0} Kg total mass -->
+<VEF_BillRequiresMass>Nécessite une masse totale de {0} Kg</VEF_BillRequiresMass>
+
+
+</LanguageData>

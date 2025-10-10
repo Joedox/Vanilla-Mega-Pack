@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Double-Action Revolver -->
+
+  <VFES_Gun_DoubleActionRevolver.label>revolver à double action</VFES_Gun_DoubleActionRevolver.label>
+  <VFES_Gun_DoubleActionRevolver.description>Un ancien modèle de revolver à double action. Il n'est pas très précis, mais a une vitesse de tir raisonnable pour un pistolet et il est rapide à dégainer.</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.tools.grip.label>poignée</VFES_Gun_DoubleActionRevolver.tools.grip.label>
+  <VFES_Gun_DoubleActionRevolver.tools.barrel.label>canon</VFES_Gun_DoubleActionRevolver.tools.barrel.label>
+  
+  <VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>revolver à double action</VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>
+
+  <!-- Double-Barreled Shotgun -->
+
+  <VFES_Gun_DoubleBarreledShotgun.label>fusil à pompe à double canon</VFES_Gun_DoubleBarreledShotgun.label>
+  <VFES_Gun_DoubleBarreledShotgun.description>Un ancien modèle de fusil à pompe avec deux canons chargés individuellement, qui projette des plombs bien compacts.</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.tools.stock.label>crosse</VFES_Gun_DoubleBarreledShotgun.tools.stock.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>canon</VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>
+  
+  <VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>fusil à pompe à double canon</VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>
+
+  <!-- Hunting Rifle -->
+
+  <VFES_Gun_HuntingRifle.label>fusil de chasse</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.description>Un ancien fusil à verrou avec une lunette de visée. Avec sa portée exceptionnelle et sa faible cadence de tir, il est peu probable que les animaux se vengent, ce qui en fait un excellent choix pour la chasse.</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.tools.stock.label>crosse</VFES_Gun_HuntingRifle.tools.stock.label>
+  <VFES_Gun_HuntingRifle.tools.barrel.label>canon</VFES_Gun_HuntingRifle.tools.barrel.label>
+
+  <VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>fusil de chasse</VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>
+
+</LanguageData>

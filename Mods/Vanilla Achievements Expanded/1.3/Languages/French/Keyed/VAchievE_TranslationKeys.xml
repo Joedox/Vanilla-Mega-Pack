@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<VAE>Vanilla Achievements Expanded </VAE>
+<DebugWriter>Activer DebugWriter</DebugWriter>
+<DebugWriterConfirmation>Êtes-vous sûr de vouloir activer le DebugWriter ? Cela diminuera considérablement les performances en contrepartie des données liées à l'achèvement. Il ne devrait être activé que pour suivre des informations précieuses pour le débogage.</DebugWriterConfirmation>
+
+<GenerateLogInfo>Écrire dans le fichier</GenerateLogInfo>
+<GenerateLogInfoTooltip>Transférer les journaux relatifs aux succès dans un fichier. À des fins de débogage uniquement.</GenerateLogInfoTooltip>
+<SuccessfulWriteToFile>Les journaux des succès ont été envoyés dans le fichier AchievementLog.txt.</SuccessfulWriteToFile>
+
+<SideBarInfo>Les succès vous font gagner des points Narrateur que vous pouvez utiliser dans des événements.</SideBarInfo>
+
+<StorytellerPoints>Points Narrateur :</StorytellerPoints>
+
+<PointsRedeem>Utiliser les points :</PointsRedeem>
+<PointsAvailable>Disponible : {0}</PointsAvailable>
+<PointsEarned>Total gagné : {0}</PointsEarned>
+
+<UnlockedDevMode>Déverrouillé avec le DevMode</UnlockedDevMode>
+<AchievementLocked>Verrouillé</AchievementLocked>
+
+<AchievementsUnlocked>Succès débloqué : {0}</AchievementsUnlocked>
+<AchievementsTotalUnlocked>Total des succès débloqués : {0}</AchievementsTotalUnlocked>
+<AchievementUnlocked>Succès débloqué !</AchievementUnlocked>
+
+<FailedRewardEvent>Échec de l'échange de la récompense {0}</FailedRewardEvent>
+<FailedTargetFinder>La carte doit être chargée ou l'objet IncidentTarget doit être sélectionné sur la carte du monde.</FailedTargetFinder>
+<NoValidMap>Doit être acheté avec la carte PlayerHome en vue.</NoValidMap>
+<IncidentNotAvailable>Incident non disponible pour le moment.</IncidentNotAvailable>
+<NotEnoughPoints>Pas assez de points.</NotEnoughPoints>
+
+<RandomQuestRewardItemLetter>Objet de quête</RandomQuestRewardItemLetter>
+<RandomQuestRewardItem>Un objet de quête aléatoire est tombé !</RandomQuestRewardItem>
+
+</LanguageData>

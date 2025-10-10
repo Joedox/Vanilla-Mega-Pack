@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: cryostasis -->
+<VREStarjack_CryostasisHediff.label>cryostase</VREStarjack_CryostasisHediff.label>
+<!-- EN: This person does not suffer fatal hypothermia. Instead, their bodies gradually slow down and enter a dormant state when exposed to extreme cold, and they can awaken safely once warmed. -->
+<VREStarjack_CryostasisHediff.description>Cette personne ne souffre pas d'hypothermie mortelle. Au contraire, son corps ralentit progressivement et entre dans un état de dormance lorsqu'il est exposé à un froid extrême, et elle peut se réveiller en toute sécurité une fois réchauffée.</VREStarjack_CryostasisHediff.description>
+<!-- EN: shivering -->
+<VREStarjack_CryostasisHediff.stages.shivering.label>insignifiant</VREStarjack_CryostasisHediff.stages.shivering.label>
+<!-- EN: initial -->
+<VREStarjack_CryostasisHediff.stages.initial.label>initial</VREStarjack_CryostasisHediff.stages.initial.label>
+<!-- EN: drowsy -->
+<VREStarjack_CryostasisHediff.stages.drowsy.label>somnolent</VREStarjack_CryostasisHediff.stages.drowsy.label>
+<!-- EN: sleep -->
+<VREStarjack_CryostasisHediff.stages.sleep.label>sommeil</VREStarjack_CryostasisHediff.stages.sleep.label>
+<!-- EN: deep sleep -->
+<VREStarjack_CryostasisHediff.stages.deep_sleep.label>sommeil profond</VREStarjack_CryostasisHediff.stages.deep_sleep.label>
+
+
+<!-- EN: hyperoxia -->
+<VREStarjack_Hyperoxia.label>hyperoxie</VREStarjack_Hyperoxia.label>
+<!-- EN: This creature is suffering from oxygen toxicity caused by exposure to a breathable atmosphere. Their lungs cannot tolerate this much oxygen. They will die soon unless removed to a low-oxygen or vacuum environment. -->
+<VREStarjack_Hyperoxia.description>Cette créature souffre d'une intoxication à l'oxygène causée par son exposition à une atmosphère respirable. Ses poumons ne peuvent tolérer une telle quantité d'oxygène. Elle mourra rapidement si elle n'est pas placée dans un environnement pauvre en oxygène ou dans le vide.</VREStarjack_Hyperoxia.description>
+<!-- EN: initial -->
+<VREStarjack_Hyperoxia.stages.initial-0.label>initiale</VREStarjack_Hyperoxia.stages.initial-0.label>
+<!-- EN: initial -->
+<VREStarjack_Hyperoxia.stages.initial-1.label>initiale</VREStarjack_Hyperoxia.stages.initial-1.label>
+<!-- EN: mild -->
+<VREStarjack_Hyperoxia.stages.mild.label>légère</VREStarjack_Hyperoxia.stages.mild.label>
+<!-- EN: moderate -->
+<VREStarjack_Hyperoxia.stages.moderate.label>modérée</VREStarjack_Hyperoxia.stages.moderate.label>
+<!-- EN: extreme -->
+<VREStarjack_Hyperoxia.stages.extreme.label>extrême</VREStarjack_Hyperoxia.stages.extreme.label>
+
+<!-- EN: extreme oxygen sensitivity -->
+<VREStarjack_OxygenSensitivity_Extreme.label>sensibilité extrême à l'oxygène</VREStarjack_OxygenSensitivity_Extreme.label>
+<!-- EN: This person cannot survive in oxygen-rich environments. Exposure to breathable atmospheres causes rapid lung failure and eventual death. Only the vacuum of space or low-oxygen gravship environments can sustain them. -->
+<VREStarjack_OxygenSensitivity_Extreme.description>Cette personne ne peut pas survivre dans des environnements riches en oxygène. L'exposition à des atmosphères respirables provoque une insuffisance pulmonaire rapide et finalement la mort. Seuls le vide spatial ou les environnements à faible teneur en oxygène des vaisseaux gravitationnels peuvent leur permettre de survivre.</VREStarjack_OxygenSensitivity_Extreme.description>
+
+<!-- EN: intense oxygen sensitivity -->
+<VREStarjack_OxygenSensitivity_Intense.label>sensibilité intense à l'oxygène</VREStarjack_OxygenSensitivity_Intense.label>
+<!-- EN: This person suffers severe discomfort and reduced bodily function in oxygenated environments. Exposure to breathable air causes pain, weakness, and labored breathing, making planetary survival difficult. -->
+<VREStarjack_OxygenSensitivity_Intense.description>Cette personne souffre d'un inconfort sévère et d'une diminution de ses fonctions corporelles dans les environnements oxygénés. L'exposition à l'air respirable provoque des douleurs, une faiblesse et des difficultés respiratoires, rendant la survie sur la planète difficile.</VREStarjack_OxygenSensitivity_Intense.description>
+
+<!-- EN: mild oxygen sensitivity -->
+<VREStarjack_OxygenSensitivity_Mild.label>sensibilité légère à l'oxygène</VREStarjack_OxygenSensitivity_Mild.label>
+<!-- EN: This person is slightly averse to oxygen-rich environments. In breathable atmosphere, they experience minor respiratory and neurological strain, accompanied by a subtle discomfort with each breath. -->
+<VREStarjack_OxygenSensitivity_Mild.description>Cette personne est légèrement réfractaire aux environnements riches en oxygène. Dans une atmosphère respirable, elle ressent une légère tension respiratoire et neurologique, accompagnée d'un léger inconfort à chaque respiration.</VREStarjack_OxygenSensitivity_Mild.description>
+
+
+</LanguageData>

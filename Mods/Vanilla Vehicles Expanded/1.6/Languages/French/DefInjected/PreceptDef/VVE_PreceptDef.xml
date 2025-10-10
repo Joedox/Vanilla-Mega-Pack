@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: high -->
+<VVE_Acceleration_High.label>élevée</VVE_Acceleration_High.label>
+<!-- EN: With swift acceleration, we move forward in leaps, seizing the day with passion.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All vehicles have World Speed Multiplier: x1.25 -->
+<VVE_Acceleration_High.description>Avec une accélération rapide, nous avançons par bonds, en saisissant la journée avec passion.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Tous les véhicules ont un multiplicateur de vitesse sur la carte monde : x1,25.</VVE_Acceleration_High.description>
+
+<!-- EN: standard -->
+<VVE_Acceleration_Standard.label>normale</VVE_Acceleration_Standard.label>
+<!-- EN: Our vehicles move with balance, neither too fast nor too slow. -->
+<VVE_Acceleration_Standard.description>Nos véhicules se déplacent de manière équilibrée, ni trop vite ni trop lent.</VVE_Acceleration_Standard.description>
+
+<!-- EN: sunday driver -->
+<VVE_Acceleration_SundayDriver.label>conducteur du dimanche</VVE_Acceleration_SundayDriver.label>
+<!-- EN: A measured pace keeps the world in balance and grants us time to savor the journey.\n\n<color=#E5E54C>Gameplay effect:</color>\n - All vehicles have World Speed Multiplier: x0.8 -->
+<VVE_Acceleration_SundayDriver.description>Un rythme mesuré maintient le monde en équilibre et nous donne le temps de savourer le voyage.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Tous les véhicules ont un multiplicateur de vitesse sur la carte monde : x0,8.</VVE_Acceleration_SundayDriver.description>
+
+
+<!-- EN: allowed -->
+<VVE_Driving_Allowed.label>autorisée</VVE_Driving_Allowed.label>
+<!-- EN: Navigating the world in vehicles is an accepted practice in our community. -->
+<VVE_Driving_Allowed.description>Parcourir le monde à bord d'un véhicule est une pratique acceptée dans notre communauté.</VVE_Driving_Allowed.description>
+
+<!-- EN: approved -->
+<VVE_Driving_Approved.label>approuvée</VVE_Driving_Approved.label>
+<!-- EN: Every drive on land affirms our shared spirit and joy. -->
+<VVE_Driving_Approved.description>Chaque conduite sur la terre ferme affirme notre joie et notre esprit communs.</VVE_Driving_Approved.description>
+<!-- EN: Driven a land vehicle -->
+<VVE_Driving_Approved.comps.0.description>Conduire un véhicule terrestre</VVE_Driving_Approved.comps.0.description>
+
+<!-- EN: forbidden -->
+<VVE_Driving_Forbidden.label>interdite</VVE_Driving_Forbidden.label>
+<!-- EN: To traverse the land in vehicles is a violation of our core beliefs. -->
+<VVE_Driving_Forbidden.description>Parcourir le territoire en véhicule est une violation de nos convictions fondamentales.</VVE_Driving_Forbidden.description>
+
+<!-- EN: horrible -->
+<VVE_Driving_Horrible.label>horrible</VVE_Driving_Horrible.label>
+<!-- EN: We see setting foot in a land vehicle as a profound offense to our values. -->
+<VVE_Driving_Horrible.description>Nous considérons que mettre le pied dans un véhicule terrestre est une profonde offense à nos valeurs.</VVE_Driving_Horrible.description>
+<!-- EN: Driven a land vehicle -->
+<VVE_Driving_Horrible.comps.0.description>Conduire un véhicule terrestre</VVE_Driving_Horrible.comps.0.description>
+
+<!-- EN: required -->
+<VVE_Driving_Required.label>requise</VVE_Driving_Required.label>
+<!-- EN: Our people believe in the necessity of movement, to not drive is to neglect one's duty to oneself. -->
+<VVE_Driving_Required.description>Notre peuple croit en la nécessité de se déplacer, ne pas conduire c'est négliger son devoir envers soi-même.</VVE_Driving_Required.description>
+<!-- EN: Roadrage (1 days without driving) -->
+<VVE_Driving_Required.comps.1.thoughtStageDescriptions.0>Rage au volant (1 jour sans conduire)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.0>
+<!-- EN: Roadrage (5 days without driving) -->
+<VVE_Driving_Required.comps.1.thoughtStageDescriptions.1>Rage au volant (5 jours sans conduire)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.1>
+<!-- EN: Roadrage (10 days without driving) -->
+<VVE_Driving_Required.comps.1.thoughtStageDescriptions.2>Rage au volant (10 jours sans conduire)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.2>
+<!-- EN: Roadrage (20 days without driving) -->
+<VVE_Driving_Required.comps.1.thoughtStageDescriptions.3>Rage au volant (20 jours sans conduire)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.3>
+
+
+<!-- EN: allowed -->
+<VVE_Flying_Allowed.label>autorisée</VVE_Flying_Allowed.label>
+<!-- EN: The skies are open to us, as they should be for all who wish to traverse them. -->
+<VVE_Flying_Allowed.description>Le ciel nous est ouvert, comme il devrait l'être pour tous ceux qui souhaitent le parcourir.</VVE_Flying_Allowed.description>
+
+<!-- EN: approved -->
+<VVE_Flying_Approved.label>approuvée</VVE_Flying_Approved.label>
+<!-- EN: We hold that flying brings us collectively closer to the divine. -->
+<VVE_Flying_Approved.description>Nous pensons que voler nous rapproche collectivement du divin.</VVE_Flying_Approved.description>
+<!-- EN: Travelled in an air vehicle -->
+<VVE_Flying_Approved.comps.0.description>Voyager à bord d'un véhicule aérien</VVE_Flying_Approved.comps.0.description>
+
+<!-- EN: forbidden -->
+<VVE_Flying_Forbidden.label>interdite</VVE_Flying_Forbidden.label>
+<!-- EN: To soar through the skies is an affront to our traditions and beliefs. -->
+<VVE_Flying_Forbidden.description>S'envoler dans le ciel est un affront à nos traditions et à nos croyances.</VVE_Flying_Forbidden.description>
+
+<!-- EN: horrible -->
+<VVE_Flying_Horrible.label>horrible</VVE_Flying_Horrible.label>
+<!-- EN: We believe taking to the skies disrupts the natural balance. -->
+<VVE_Flying_Horrible.description>Nous pensons que s'envoler dans les airs perturbe l'équilibre naturel.</VVE_Flying_Horrible.description>
+<!-- EN: Travelled in an air vehicle -->
+<VVE_Flying_Horrible.comps.0.description>Voyager à bord d'un véhicule aérien</VVE_Flying_Horrible.comps.0.description>
+
+<!-- EN: required -->
+<VVE_Flying_Required.label>requise</VVE_Flying_Required.label>
+<!-- EN: The purity of spirit is found amongst the clouds; one must experience the freedom of flight regularly. -->
+<VVE_Flying_Required.description>La pureté de l'esprit se trouve dans les nuages ; il faut régulièrement faire l'expérience de la liberté de voler.</VVE_Flying_Required.description>
+<!-- EN: Aerophilia (1 days without flying) -->
+<VVE_Flying_Required.comps.1.thoughtStageDescriptions.0>Aérophilie (1 jour sans voler)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.0>
+<!-- EN: Aerophilia (5 days without flying) -->
+<VVE_Flying_Required.comps.1.thoughtStageDescriptions.1>Aérophilie (5 jours sans voler)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.1>
+<!-- EN: Aerophilia (10 days without flying) -->
+<VVE_Flying_Required.comps.1.thoughtStageDescriptions.2>Aérophilie (10 jours sans voler)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.2>
+<!-- EN: Aerophilia (20 days without flying) -->
+<VVE_Flying_Required.comps.1.thoughtStageDescriptions.3>Aérophilie (20 jours sans voler)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.3>
+
+
+<!-- EN: efficient -->
+<VVE_FuelEfficiency_Efficient.label>efficace</VVE_FuelEfficiency_Efficient.label>
+<!-- EN: Our vehicles are optimized for minimal fuel usage.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This precept decreases FuelConsumptionRate (if present) on the vehicle by 50%. -->
+<VVE_FuelEfficiency_Efficient.description>Nos véhicules sont optimisés pour une consommation minimum de carburant.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Ce précepte diminue de 50 % le taux de consommation de carburant (si présent) du véhicule.</VVE_FuelEfficiency_Efficient.description>
+
+<!-- EN: inefficient -->
+<VVE_FuelEfficiency_Inefficient.label>inefficace</VVE_FuelEfficiency_Inefficient.label>
+<!-- EN: Our vehicles have a higher fuel appetite.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This precept increases FuelConsumptionRate (if present) on the vehicle by 50%. -->
+<VVE_FuelEfficiency_Inefficient.description>Nos véhicules sont plus gourmands en carburant.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Ce précepte augmente de 50 % le taux de consommation de carburant (si présent) du véhicule.</VVE_FuelEfficiency_Inefficient.description>
+
+<!-- EN: standard -->
+<VVE_FuelEfficiency_Standard.label>normale</VVE_FuelEfficiency_Standard.label>
+<!-- EN: Our fuel consumption remains traditional. -->
+<VVE_FuelEfficiency_Standard.description>Notre consommation de carburant reste traditionnelle.</VVE_FuelEfficiency_Standard.description>
+
+
+<!-- EN: high -->
+<VVE_ImpactDamage_High.label>élevé</VVE_ImpactDamage_High.label>
+<!-- EN: In our belief, a vehicle's power is truly felt in its formidable impact.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Damage done via driving people over is further multiplied by x1.25 -->
+<VVE_ImpactDamage_High.description>Selon nous, la puissance d'un véhicule se traduit par un écrasement formidable.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Les dégâts causés par écraser sont multipliés par x1,25.</VVE_ImpactDamage_High.description>
+
+
+<!-- EN: increased -->
+<VVE_MaxSpeed_Increased.label>augmentée</VVE_MaxSpeed_Increased.label>
+<!-- EN: We cherish vehicles that transcend traditional limits.\n\n<color=#E5E54C>Gameplay effect:</color>\n -  Maximum speed of vehicles is increased by a multiplier of x1.2. -->
+<VVE_MaxSpeed_Increased.description>Nous chérissons les véhicules qui transcendent les limites traditionnelles.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n -  La vitesse maximum des véhicules est augmentée par un multiplicateur de x1,2.</VVE_MaxSpeed_Increased.description>
+
+
+<!-- EN: allowed -->
+<VVE_Sailing_Allowed.label>autorisée</VVE_Sailing_Allowed.label>
+<!-- EN: The oceans and rivers are pathways we are permitted to tread, so long as we respect their depths. -->
+<VVE_Sailing_Allowed.description>Les océans et les rivières sont des voies que nous pouvons emprunter, à condition de respecter leurs profondeurs.</VVE_Sailing_Allowed.description>
+
+<!-- EN: approved -->
+<VVE_Sailing_Approved.label>approuvée</VVE_Sailing_Approved.label>
+<!-- EN: We hold that Sailing brings us collectively closer to the divine. -->
+<VVE_Sailing_Approved.description>Nous pensons que la navigation nous rapproche collectivement du divin.</VVE_Sailing_Approved.description>
+<!-- EN: Sailed in a sea vehicle -->
+<VVE_Sailing_Approved.comps.0.description>Naviguer dans un véhicule maritime</VVE_Sailing_Approved.comps.0.description>
+
+<!-- EN: forbidden -->
+<VVE_Sailing_Forbidden.label>interdite</VVE_Sailing_Forbidden.label>
+<!-- EN: The sacred waters must not be disrupted with our vessels. -->
+<VVE_Sailing_Forbidden.description>Les eaux sacrées ne doivent pas être perturbées par nos bateaux.</VVE_Sailing_Forbidden.description>
+
+<!-- EN: horrible -->
+<VVE_Sailing_Horrible.label>horrible</VVE_Sailing_Horrible.label>
+<!-- EN: We hold the waters sacred; to sail them feels deeply wrong to us. -->
+<VVE_Sailing_Horrible.description>Nous considérons les eaux comme sacrées ; naviguer sur ces eaux nous semble profondément répréhensible.</VVE_Sailing_Horrible.description>
+<!-- EN: Sailed in a sea vehicle -->
+<VVE_Sailing_Horrible.comps.0.description>Naviguer dans un véhicule maritime</VVE_Sailing_Horrible.comps.0.description>
+
+<!-- EN: required -->
+<VVE_Sailing_Required.label>requise</VVE_Sailing_Required.label>
+<!-- EN: Our souls are intertwined with the rhythms of the waters; we must sail to truly be alive. -->
+<VVE_Sailing_Required.description>Nos âmes sont entrelacées avec les rythmes de l'eau ; nous devons naviguer pour être vraiment vivants.</VVE_Sailing_Required.description>
+<!-- EN: Sirens' call (1 days without Sailing) -->
+<VVE_Sailing_Required.comps.1.thoughtStageDescriptions.0>Appel des sirènes (1 jour sans naviguer)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.0>
+<!-- EN: Sirens' call (5 days without Sailing) -->
+<VVE_Sailing_Required.comps.1.thoughtStageDescriptions.1>Appel des sirènes (5 jours sans naviguer)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.1>
+<!-- EN: Sirens' call (10 days without Sailing) -->
+<VVE_Sailing_Required.comps.1.thoughtStageDescriptions.2>Appel des sirènes (10 jours sans naviguer)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.2>
+<!-- EN: Sirens' call (20 days without Sailing) -->
+<VVE_Sailing_Required.comps.1.thoughtStageDescriptions.3>Appel des sirènes (20 jours sans naviguer)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.3>
+
+
+<!-- EN: horrible -->
+<VVE_SmallSpaces_Horrible.label>horrible</VVE_SmallSpaces_Horrible.label>
+<!-- EN: Being in tight quarters is an affront to our freedoms.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Doubles negative thoughts about small spaces. Positive thoughts about spacious areas are unaffected. -->
+<VVE_SmallSpaces_Horrible.description>Être confiné dans des espaces restreints est un affront à nos libertés.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Double les pensées négatives concernant les petits espaces. Les pensées positives concernant les espaces spacieux ne sont pas affectées.</VVE_SmallSpaces_Horrible.description>
+
+
+<!-- EN: fast -->
+<VVE_VehicleRepairs_Fast.label>rapide</VVE_VehicleRepairs_Fast.label>
+<!-- EN: We mend with urgency, understanding the vital role our vehicles play in our lives.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Adds +1 to Repair Job Limitations on a vehicle (as long as "Multiple pawns per job" is active in Mod settings). -->
+<VVE_VehicleRepairs_Fast.description>Nous réparons de toute urgence, conscients du rôle vital que jouent nos véhicules dans nos vies.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Ajoute +1 aux limitations de travail de réparation sur un véhicule (tant que l'option "Plusieurs colons par travail" est activée dans les paramètres du mod).</VVE_VehicleRepairs_Fast.description>
+
+<!-- EN: slow -->
+<VVE_VehicleRepairs_Slow.label>lente</VVE_VehicleRepairs_Slow.label>
+<!-- EN: Repairs are a careful ritual, not to be rushed, but to be performed with reverence. -->
+<VVE_VehicleRepairs_Slow.description>Les réparations sont un rituel minutieux, qu'il ne faut pas précipiter, mais qu'il faut accomplir avec respect.</VVE_VehicleRepairs_Slow.description>
+
+<!-- EN: standard -->
+<VVE_VehicleRepairs_Standard.label>normale</VVE_VehicleRepairs_Standard.label>
+<!-- EN: Our approach to repairs is balanced, ensuring vehicles are restored to their rightful state. -->
+<VVE_VehicleRepairs_Standard.description>Notre approche des réparations est équilibrée, garantissant que les véhicules sont restaurés dans leur état légitime.</VVE_VehicleRepairs_Standard.description>
+
+
+</LanguageData>

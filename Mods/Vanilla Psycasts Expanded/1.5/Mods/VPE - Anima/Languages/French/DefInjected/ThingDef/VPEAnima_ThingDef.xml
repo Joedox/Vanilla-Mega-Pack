@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Anima Mote -->
+<AnimaMoteSTNL.label>particule anima</AnimaMoteSTNL.label>
+<!-- EN: The product of a psycaster manifesting their psychic energy into a mote, can be used to restore psyfocus. -->
+<AnimaMoteSTNL.description>Le produit d'un psylanceur manifestant son énergie psychique dans une particule, peut être utilisé pour restaurer la concentration psychique.</AnimaMoteSTNL.description>
+<!-- EN: Consume {0} -->
+<AnimaMoteSTNL.ingestible.ingestCommandString>Consommer une {0}</AnimaMoteSTNL.ingestible.ingestCommandString>
+<!-- EN: Consuming {0}. -->
+<AnimaMoteSTNL.ingestible.ingestReportString>Consomme la {0}.</AnimaMoteSTNL.ingestible.ingestReportString>
+
+<!-- EN: Anima Wisp -->
+<AnimaWispSTNL.label>fragment anima</AnimaWispSTNL.label>
+<!-- EN: The product of a psycaster manifesting their psychic energy into a wisp, can be used to restore psyfocus. -->
+<AnimaWispSTNL.description>Le produit d'un psylanceur manifestant son énergie psychique sous la forme d'un brin, peut être utilisé pour restaurer la concentration psychique.</AnimaWispSTNL.description>
+<!-- EN: Consume {0} -->
+<AnimaWispSTNL.ingestible.ingestCommandString>Consommer un {0}</AnimaWispSTNL.ingestible.ingestCommandString>
+<!-- EN: Consuming {0}. -->
+<AnimaWispSTNL.ingestible.ingestReportString>Consomme le {0}.</AnimaWispSTNL.ingestible.ingestReportString>
+
+<!-- EN: Anima-Link Neuroformer -->
+<PsychicAmplifierAnimaSTNL.label>neuro-formateur de lien anima</PsychicAmplifierAnimaSTNL.label>
+<!-- EN: A consumable archotech-created device that forms or upgrades a psylink in the user's mind.\n\nThe user presses the device over the eyes, where it links to the brain directly and restructures part of it. Afterwards, the device disintegrates into worthless ash. -->
+<PsychicAmplifierAnimaSTNL.description>Un dispositif consommable créé par un animacier qui forme ou améliore un lien psychique dans l'esprit de l'utilisateur.\n\nL'utilisateur pose le dispositif sur les yeux, où il se connecte directement au cerveau et restructure une partie de celui-ci. Après quoi, l'appareil se désintègre en un tas de poussière sans intérêt.</PsychicAmplifierAnimaSTNL.description>
+<!-- EN: Use neuroformer to form psylink -->
+<PsychicAmplifierAnimaSTNL.comps.CompUsableImplant.useLabel>Utiliser le neuro-formateur pour créer un lien psychique</PsychicAmplifierAnimaSTNL.comps.CompUsableImplant.useLabel>
+
+
+</LanguageData>

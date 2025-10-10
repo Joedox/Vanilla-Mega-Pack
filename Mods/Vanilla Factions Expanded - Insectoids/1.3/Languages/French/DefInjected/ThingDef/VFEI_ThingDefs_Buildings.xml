@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Buildings_Exotic +++++ -->
+<VFEI_InfestedCrashedShipModule.label>module de vaisseau infesté</VFEI_InfestedCrashedShipModule.label>
+<VFEI_InfestedCrashedShipModule.description>Un tronçon mystérieux de vaisseau spatial détruit depuis longtemps. Il peut contenir des matériaux exotiques, des ordinateurs, et même un noyau IA de personnalité. Il semble être entièrement recouvert de biomasse et de morceaux de gelée insectoïde. Il est presque certain que cette vieille épave contient un grand danger.</VFEI_InfestedCrashedShipModule.description>
+
+<VFEI_InfestedCrashedShipPart.label>partie de vaisseau infesté</VFEI_InfestedCrashedShipPart.label>
+<VFEI_InfestedCrashedShipPart.description>Une mystérieuse pièce de vaisseau spatial qui s'est écrasé. Il peut contenir des matériaux exotiques, des ordinateurs, et même un noyau IA de personnalité. Celui-ci semble être couvert de biomasse et de gelée d'insectes. On peut entendre un étrange bourdonnement d'insectes à l'intérieur de la coque.</VFEI_InfestedCrashedShipPart.description>
+
+<VFEI_InfestedShipChunk.label>débris de vaisseau infesté</VFEI_InfestedShipChunk.label>
+<VFEI_InfestedShipChunk.description>Un morceau de vaisseau spatial couvert de biomasse et de gelée d'insectes. On peut entendre un étrange bourdonnement d'insectes à l'intérieur. Peut-être déconstruit pour obtenir de l'acier et des composants.</VFEI_InfestedShipChunk.description>
+
+<VFEI_InsectMeteoriteIncoming.label>météorite (en approche)</VFEI_InsectMeteoriteIncoming.label>
+
+		<!-- +++++ Buildings_Genetics +++++ -->
+<VFEI_BioengineeringIncubator.label>incubateur bio-ingénierie</VFEI_BioengineeringIncubator.label>
+<VFEI_BioengineeringIncubator.description>Un réservoir de culture ultra-technologique connecté à des systèmes de survie avancés. Souvent utilisé sur les urbworlds et les rimworlds pour des expériences illégales, l'incubateur est capable de mélanger des génomes et de créer des mutations génétiques sous la forme de sujets vivants.</VFEI_BioengineeringIncubator.description>
+
+		<!-- +++++ Buildings_Natural +++++ -->
+<VFEI_Mote.label>tunnel</VFEI_Mote.label>
+<VFEI_Mote.description>Un tunnel.</VFEI_Mote.description>
+
+<VFEI_TunnelHiveSpawner.label>tunnel</VFEI_TunnelHiveSpawner.label>
+
+<VFEI_LargeHive.label>grande ruche</VFEI_LargeHive.label>
+<VFEI_LargeHive.description>Une énorme ruche de créatures insectoïdes. Si elle est activée, elle donnera naissance à d'autres types d'insectoïdes et de ruches au fil du temps, ainsi qu'à une délicieuse et précieuse gelée d'insectes.</VFEI_LargeHive.description>
+
+<VFEI_InsectoidLarvaeCocoon.label>cocon</VFEI_InsectoidLarvaeCocoon.label>
+<VFEI_InsectoidLarvaeCocoon.description>Un cocon de larve d'insecte géant.</VFEI_InsectoidLarvaeCocoon.description>
+
+<VFEI_BurrowSmall.label>terrier petit</VFEI_BurrowSmall.label>
+<VFEI_BurrowSmall.description>Un terrier menant à un réseau de tunnels insectoïdes. Il produira périodiquement des vagues d'insectoïdes de classes inférieures jusqu'à ce qu'il soit détruit.</VFEI_BurrowSmall.description>
+<VFEI_BurrowMedium.label>terrier moyen</VFEI_BurrowMedium.label>
+<VFEI_BurrowMedium.description>Un terrier menant à un réseau de tunnels insectoïdes. Il produira périodiquement des vagues d'insectoïdes de classes supérieures jusqu'à ce qu'il soit détruit.</VFEI_BurrowMedium.description>
+<VFEI_BurrowRoyal.label>terrier royal</VFEI_BurrowRoyal.label>
+<VFEI_BurrowRoyal.description>Un terrier menant à un réseau de tunnels insectoïdes. Il produira périodiquement la plus haute classe d'insectoïdes ; la progéniture royale de la reine, jusqu'à ce qu'il soit détruit.</VFEI_BurrowRoyal.description>
+
+		<!-- +++++ Buildings_Repeller +++++ -->
+<VFEI_SonicInfestationRepeller.label>répulsif sonique d'infestation</VFEI_SonicInfestationRepeller.label>
+<VFEI_SonicInfestationRepeller.description>Un grand dispositif Ultratech capable d'émettre une impulsion sonique toutes les heures, repoussant tout mouvement insectoïde en profondeur. Bien qu'il élimine considérablement le risque d'infestation, il met en colère la reine insectoïde et peut entraîner l'arrivée de hordes insectoïdes plus puissantes dans la colonie.</VFEI_SonicInfestationRepeller.description>
+
+
+</LanguageData>

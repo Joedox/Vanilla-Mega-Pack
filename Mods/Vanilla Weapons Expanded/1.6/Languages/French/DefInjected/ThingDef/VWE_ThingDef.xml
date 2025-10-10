@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: smoke cloud -->
+<VWE_SmokeCloud.label>nuage de fumée</VWE_SmokeCloud.label>
+
+
+<!-- EN: flash grenades -->
+<VWE_FlashGrenade.label>grenade assourdissante</VWE_FlashGrenade.label>
+<!-- EN: A flash grenade. Temporarily stuns organic enemies allowing users to close the distance. -->
+<VWE_FlashGrenade.description>Grenade assourdissante. Etourdi temporairement les ennemis et permet à l'utilisateur de s'approcher. Fonctionne uniquement sur des personnes ou des animaux.</VWE_FlashGrenade.description>
+<!-- EN: throw flash grenade -->
+<VWE_FlashGrenade.verbs.throw_flash_grenade.label>Lancer une grenade assourdissante</VWE_FlashGrenade.verbs.throw_flash_grenade.label>
+
+<!-- EN: flash grenade -->
+<VWE_Projectile_FlashGrenade.label>grenade assourdissante</VWE_Projectile_FlashGrenade.label>
+
+<!-- EN: smoke grenade -->
+<VWE_Projectile_SmokeGrenade.label>grenade fumigène</VWE_Projectile_SmokeGrenade.label>
+
+<!-- EN: smoke grenades -->
+<VWE_SmokeGrenade.label>grenade fumigène</VWE_SmokeGrenade.label>
+<!-- EN: Old school condensed smoke canister that explodes into a smoke wall on impact. -->
+<VWE_SmokeGrenade.description>Il s'agit d'une grenade fumigène qui explose à l’impact pour créer un écran de fumée.</VWE_SmokeGrenade.description>
+<!-- EN: throw smoke grenade -->
+<VWE_SmokeGrenade.verbs.throw_smoke_grenade.label>Lancer une grenade fumigène</VWE_SmokeGrenade.verbs.throw_smoke_grenade.label>
+
+
+<!-- EN: baton -->
+<VWE_MeleeWeapon_Baton.label>matraque</VWE_MeleeWeapon_Baton.label>
+<!-- EN: A short peacekeeping baton commonly used by prison guards and urbworld militia. -->
+<VWE_MeleeWeapon_Baton.description>Un bâton court de maintien de la paix couramment utilisé par les gardiens de prison et la milice d'urbworld.</VWE_MeleeWeapon_Baton.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Baton.tools.handle.label>poignée</VWE_MeleeWeapon_Baton.tools.handle.label>
+<!-- EN: head -->
+<VWE_MeleeWeapon_Baton.tools.head.label>bâton</VWE_MeleeWeapon_Baton.tools.head.label>
+
+<!-- EN: combat knife -->
+<VWE_MeleeWeapon_CombatKnife.label>couteau de combat</VWE_MeleeWeapon_CombatKnife.label>
+<!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nCombat knife is a standard issue melee weapon for most of the military forces. -->
+<VWE_MeleeWeapon_CombatKnife.description>L'un des plus anciens objets fabriqués par l'humanité. Le couteau a pris de nombreuses formes, mais le concept est toujours resté le même : un manche pour le tenir et un tranchant pour couper.\n\nLe couteau de combat est une arme de mêlée standard pour la plupart des forces militaires.</VWE_MeleeWeapon_CombatKnife.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_CombatKnife.tools.handle.label>poignée</VWE_MeleeWeapon_CombatKnife.tools.handle.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_CombatKnife.tools.blade.label>lame</VWE_MeleeWeapon_CombatKnife.tools.blade.label>
+<!-- EN: point -->
+<VWE_MeleeWeapon_CombatKnife.tools.point.label>pointe</VWE_MeleeWeapon_CombatKnife.tools.point.label>
+
+<!-- EN: shovel -->
+<VWE_MeleeWeapon_Shovel.label>pelle</VWE_MeleeWeapon_Shovel.label>
+<!-- EN: Commonly used across the battlefield to dig trenches, this small portable shovel is an excellent close range weapon. -->
+<VWE_MeleeWeapon_Shovel.description>Couramment utilisée sur le champ de bataille pour creuser des tranchées, cette petite pelle portable est également une excellente arme de mêlée.</VWE_MeleeWeapon_Shovel.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Shovel.tools.handle.label>poignée</VWE_MeleeWeapon_Shovel.tools.handle.label>
+<!-- EN: head -->
+<VWE_MeleeWeapon_Shovel.tools.head.label>tête</VWE_MeleeWeapon_Shovel.tools.head.label>
+
+
+<!-- EN: battle axe -->
+<VWE_MeleeWeapon_BattleAxe.label>hache de guerre</VWE_MeleeWeapon_BattleAxe.label>
+<!-- EN: A mighty weapon on the battlefield in the right kind of hands. Made to cut through flesh and bones alike.\n\nFavored by the Berserker clans, the battle axe is a weapon usually used by medieval knights. With a powerful swing it is capable of eliminating most enemies in close quarters. -->
+<VWE_MeleeWeapon_BattleAxe.description>Une arme puissante sur le champ de bataille dans les bonnes mains. Elle est faite pour couper la chair et les os.\n\nFavorisée par les clans Berserker, la hache de guerre est une arme généralement utilisée par les chevaliers médiévaux. Avec un coup puissant, elle est capable d'éliminer la plupart des ennemis au corps à corps.</VWE_MeleeWeapon_BattleAxe.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_BattleAxe.tools.handle.label>poignée</VWE_MeleeWeapon_BattleAxe.tools.handle.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_BattleAxe.tools.blade.label>lame</VWE_MeleeWeapon_BattleAxe.tools.blade.label>
+
+<!-- EN: halberd -->
+<VWE_MeleeWeapon_Halberd.label>hallebarde</VWE_MeleeWeapon_Halberd.label>
+<!-- EN: Halberd is a pike fitted with a light axe head. Due to the spear-like sharp tip, it's a great tool against armored enemies.\n\nUsed to fight down horse-mounted warriors in medieval times thanks to its its extraordinary length. -->
+<VWE_MeleeWeapon_Halberd.description>La hallebarde est une pique munie d'une tête de hache légère. Grâce à sa pointe acérée comme une lance, c'est un excellent outil contre les ennemis en armure.\n\nUtilisée pour abattre les guerriers à cheval à l'époque médiévale grâce à sa longueur extraordinaire.</VWE_MeleeWeapon_Halberd.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Halberd.tools.handle.label>poignée</VWE_MeleeWeapon_Halberd.tools.handle.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_Halberd.tools.blade.label>lame</VWE_MeleeWeapon_Halberd.tools.blade.label>
+<!-- EN: point -->
+<VWE_MeleeWeapon_Halberd.tools.point.label>pointe</VWE_MeleeWeapon_Halberd.tools.point.label>
+
+<!-- EN: hammer -->
+<VWE_MeleeWeapon_Hammer.label>marteau</VWE_MeleeWeapon_Hammer.label>
+<!-- EN: A hammer is a tool that consists of a heavy piece of metal or stone at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall.\n\nThis basic invention is effective as a weapon, while being a tool at the same time. Needs some muscles to work with, but lets you construct with more ease. -->
+<VWE_MeleeWeapon_Hammer.description>Un marteau est un outil constitué d'une lourde pièce de métal ou de pierre à l'extrémité d'un manche. Il est utilisé, par exemple, pour enfoncer des clous dans un morceau de bois ou un mur.\n\nCette invention de base est efficace comme arme, tout en étant un outil en même temps. Elle nécessite un peu de muscles pour être utilisée, mais permet de construire plus facilement.</VWE_MeleeWeapon_Hammer.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Hammer.tools.handle.label>poignée</VWE_MeleeWeapon_Hammer.tools.handle.label>
+<!-- EN: head -->
+<VWE_MeleeWeapon_Hammer.tools.head.label>tête</VWE_MeleeWeapon_Hammer.tools.head.label>
+
+
+<!-- EN: hatchet -->
+<VWE_MeleeWeapon_Axe.label>hachette</VWE_MeleeWeapon_Axe.label>
+<!-- EN: An axe head fastened to a handle. Suitable for one hand, due to the shape of a wedge it doesn't require significant force to cut armor and flesh. -->
+<VWE_MeleeWeapon_Axe.description>Une tête de hache fixée à un manche. Utilisable à une main, sa forme en coin ne nécessite pas une force importante pour entailler les armures et la chair.</VWE_MeleeWeapon_Axe.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Axe.tools.handle.label>poignée</VWE_MeleeWeapon_Axe.tools.handle.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_Axe.tools.blade.label>lame</VWE_MeleeWeapon_Axe.tools.blade.label>
+
+
+<!-- EN: doomsday rocket launcher -->
+<Gun_DoomsdayRocket.label>lance-roquettes apocalyptique</Gun_DoomsdayRocket.label>
+<!-- EN: A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+<Gun_DoomsdayRocket.description>Un lance-roquettes à usage unique qui tire un énorme projectile explosif. Efficace contre de grands groupes de cibles faciles. Démarre des incendies.\n\nÀ cause de sa lourdeur, de son usage unique, et de la destruction massive qu'il provoque, on dit qu'il faut être un peu fou pour utiliser cette arme.</Gun_DoomsdayRocket.description>
+<!-- EN: barrel -->
+<Gun_DoomsdayRocket.tools.barrel.label>canon</Gun_DoomsdayRocket.tools.barrel.label>
+<!-- EN: doomsday rocket launcher -->
+<Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>lance-roquettes apocalyptique</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+
+<!-- EN: triple rocket launcher -->
+<Gun_TripleRocket.label>lance-roquettes triple</Gun_TripleRocket.label>
+<!-- EN: A single-use rocket launcher that fires a cluster of three large-bore explosive rockets. Good against smalll groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+<Gun_TripleRocket.description>Un lance-roquettes à usage unique qui tire un groupe de trois roquettes explosives de gros calibre. Efficace contre de petits groupes de cibles difficiles.\n\nÀ cause de sa lourdeur, de son usage unique, et de la destruction massive qu'il provoque, on dit qu'il faut être un peu fou pour utiliser cette arme.</Gun_TripleRocket.description>
+<!-- EN: barrel -->
+<Gun_TripleRocket.tools.barrel.label>canon</Gun_TripleRocket.tools.barrel.label>
+<!-- EN: triple rocket launcher -->
+<Gun_TripleRocket.verbs.Verb_ShootOneUse.label>lance-roquettes triple</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+
+<!-- EN: rocket launcher -->
+<VWE_Gun_RocketLauncher.label>lance-roquettes</VWE_Gun_RocketLauncher.label>
+<!-- EN: Fires a single mortar shell at high accuracy. -->
+<VWE_Gun_RocketLauncher.description>Tire une seule roquette avec une grande précision.</VWE_Gun_RocketLauncher.description>
+<!-- EN: barrel -->
+<VWE_Gun_RocketLauncher.tools.barrel.label>canon</VWE_Gun_RocketLauncher.tools.barrel.label>
+<!-- EN: rocket launcher -->
+<VWE_Gun_RocketLauncher.verbs.Verb_ShootOneUse.label>lance-roquettes</VWE_Gun_RocketLauncher.verbs.Verb_ShootOneUse.label>
+
+
+<!-- EN: anti-material impact shell -->
+<Bullet_AntiMaterialRifle.label>balle fusil anti-matériel</Bullet_AntiMaterialRifle.label>
+
+<!-- EN: marksman rifle bullet -->
+<Bullet_MarksmanRifle.label>balle fusil de tireur d'élite</Bullet_MarksmanRifle.label>
+
+<!-- EN: compound bow arrow -->
+<VWE_Arrow_Compound.label>flèche d'arc à poulies</VWE_Arrow_Compound.label>
+
+<!-- EN: compound bow -->
+<VWE_Bow_Compound.label>arc à poulies</VWE_Bow_Compound.label>
+<!-- EN: A modern day bow using levers system to fire an arrow over long distances.\n\nDue to the silencing mechanism, this bow doesn't emit any considerable sound upon firing, which makes it useful in hunting. -->
+<VWE_Bow_Compound.description>Un arc moderne utilisant un système de leviers pour tirer une flèche sur de longues distances.\n\nGrâce à son mécanisme silencieux, cet arc n'émet pas de son considérable lors du tir, ce qui le rend utile pour la chasse.</VWE_Bow_Compound.description>
+<!-- EN: limb -->
+<VWE_Bow_Compound.tools.limb.label>branche</VWE_Bow_Compound.tools.limb.label>
+<!-- EN: compound bow -->
+<VWE_Bow_Compound.verbs.Verb_Shoot.label>arc à poulies</VWE_Bow_Compound.verbs.Verb_Shoot.label>
+
+<!-- EN: assault rifle bullet -->
+<VWE_Bullet_BattleRifle.label>balle fusil de combat</VWE_Bullet_BattleRifle.label>
+
+<!-- EN: carbine bullet -->
+<VWE_Bullet_Carbine.label>balle fusil bullpup</VWE_Bullet_Carbine.label>
+
+<!-- EN: combat handgun bullet -->
+<VWE_Bullet_CombatHandgun.label>balle arme de poing de combat</VWE_Bullet_CombatHandgun.label>
+
+<!-- EN: flame suppresant -->
+<VWE_Bullet_FireExtinguisher.label>mousse d'extincteur</VWE_Bullet_FireExtinguisher.label>
+
+<!-- EN: flamethrower fuel -->
+<VWE_Bullet_Flamethrower.label>flamme</VWE_Bullet_Flamethrower.label>
+
+<!-- EN: frag grenade -->
+<VWE_Bullet_GrenadeLauncher.label>grenade</VWE_Bullet_GrenadeLauncher.label>
+
+<!-- EN: hand cannon bullet -->
+<VWE_Bullet_HandCannon.label>balle canon à main</VWE_Bullet_HandCannon.label>
+
+<!-- EN: HMG bullet -->
+<VWE_Bullet_HMG.label>balle HMG</VWE_Bullet_HMG.label>
+
+<!-- EN: lever-action rifle bullet -->
+<VWE_Bullet_LeverActionRifle.label>balle fusil à verrou</VWE_Bullet_LeverActionRifle.label>
+
+<!-- EN: light SMG pistol bullet -->
+<VWE_Bullet_LightSMG.label>balle SMG légère</VWE_Bullet_LightSMG.label>
+
+<!-- EN: shotgun blast -->
+<VWE_Bullet_SawedOffShotgun.label>balle fusil à canon scié</VWE_Bullet_SawedOffShotgun.label>
+
+<!-- EN: semi-automatic rifle bullet -->
+<VWE_Bullet_SemiAutomaticRifle.label>balle fusil semi-automatique</VWE_Bullet_SemiAutomaticRifle.label>
+
+<!-- EN: assault rifle bullet -->
+<VWE_Bullet_ServiceRifle.label>balle fusil de service</VWE_Bullet_ServiceRifle.label>
+
+<!-- EN: smg bullet -->
+<VWE_Bullet_SMG.label>balle SMG</VWE_Bullet_SMG.label>
+
+<!-- EN: combat handgun -->
+<VWE_CombatHandgun.label>arme de poing de combat</VWE_CombatHandgun.label>
+<!-- EN: Semi-automatic pistol designed for personal defense. The advanced counter-recoil system allows this weapon to be fired significantly faster than a standard autopistol. -->
+<VWE_CombatHandgun.description>Pistolet semi-automatique pour l'autodéfense. Le système avancé de contre-recul permet à cette arme de tirer beaucoup plus rapidement qu'un pistolet automatique standard.</VWE_CombatHandgun.description>
+<!-- EN: grip -->
+<VWE_CombatHandgun.tools.grip.label>poignée</VWE_CombatHandgun.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_CombatHandgun.tools.barrel.label>canon</VWE_CombatHandgun.tools.barrel.label>
+<!-- EN: combat handgun -->
+<VWE_CombatHandgun.verbs.Verb_Shoot.label>arme de poing de combat</VWE_CombatHandgun.verbs.Verb_Shoot.label>
+
+<!-- EN: anti-material rifle -->
+<VWE_Gun_AntiMaterialRifle.label>fusil anti-matériel</VWE_Gun_AntiMaterialRifle.label>
+<!-- EN: Being a .50 caliber rifle, this weapon was designed to fight enemy armored equipment.\n\nUsed widely around the rim in mechanoid warzones, this weapon is also useful against infantry, allowing for a 1-hit kill. -->
+<VWE_Gun_AntiMaterialRifle.description>Étant un fusil de calibre .50, cette arme a été conçue pour combattre les équipements blindés ennemis.\n\nLargement utilisée dans les zones de guerre mécanoïdes, cette arme est également utile contre l'infanterie, permettant de tuer en un coup.</VWE_Gun_AntiMaterialRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_AntiMaterialRifle.tools.stock.label>crosse</VWE_Gun_AntiMaterialRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_AntiMaterialRifle.tools.barrel.label>canon</VWE_Gun_AntiMaterialRifle.tools.barrel.label>
+<!-- EN: anti-material rifle -->
+<VWE_Gun_AntiMaterialRifle.verbs.Verb_Shoot.label>fusil anti-matériel</VWE_Gun_AntiMaterialRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: battle rifle -->
+<VWE_Gun_BattleRifle.label>fusil de combat</VWE_Gun_BattleRifle.label>
+<!-- EN: A semi-automatic rifle commonly used by special forces due to it's range and accuracy.\n\nSlightly longer range and higher damage than an Assault Rifle, but only fires two round bursts. -->
+<VWE_Gun_BattleRifle.description>Un fusil semi-automatique couramment utilisé par les forces spéciales en raison de sa portée et de sa précision.\n\nSa portée et ses dégâts sont légèrement supérieurs à ceux d'un fusil d'assaut, mais il ne tire que des rafales de 2 balles.</VWE_Gun_BattleRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_BattleRifle.tools.stock.label>crosse</VWE_Gun_BattleRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_BattleRifle.tools.barrel.label>canon</VWE_Gun_BattleRifle.tools.barrel.label>
+<!-- EN: battle rifle -->
+<VWE_Gun_BattleRifle.verbs.Verb_Shoot.label>fusil de combat</VWE_Gun_BattleRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: carbine -->
+<VWE_Gun_Carbine.label>fusil bullpup</VWE_Gun_Carbine.label>
+<!-- EN: Short bullpup carbine, used often in close quarters urban combat.\n\nWhilst it's accurate at close range, due to the short stock it is incapable of firing accurately at rifle range. -->
+<VWE_Gun_Carbine.description>Fusil bullpup, utilisé souvent en combat urbain rapproché.\n\nBien que sa précision soit bonne à courte distance, il est incapable de tirer avec précision à longue portée en raison de sa crosse courte.</VWE_Gun_Carbine.description>
+<!-- EN: stock -->
+<VWE_Gun_Carbine.tools.stock.label>crosse</VWE_Gun_Carbine.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_Carbine.tools.barrel.label>canon</VWE_Gun_Carbine.tools.barrel.label>
+<!-- EN: carbine -->
+<VWE_Gun_Carbine.verbs.Verb_Shoot.label>fusil bullpup</VWE_Gun_Carbine.verbs.Verb_Shoot.label>
+
+<!-- EN: fire extinguisher -->
+<VWE_Gun_FireExtinguisher.label>extincteur</VWE_Gun_FireExtinguisher.label>
+<!-- EN: Filled with a multi-purpose flame supressant, this item can be used to extinguish any kind of fire encountered in the field. -->
+<VWE_Gun_FireExtinguisher.description>Rempli de mousse et additif qui peut être utilisée pour éteindre tout type d'incendie sur le terrain.</VWE_Gun_FireExtinguisher.description>
+<!-- EN: canister -->
+<VWE_Gun_FireExtinguisher.tools.canister.label>cuve</VWE_Gun_FireExtinguisher.tools.canister.label>
+<!-- EN: fire extinguisher -->
+<VWE_Gun_FireExtinguisher.verbs.Verb_Shoot.label>extincteur</VWE_Gun_FireExtinguisher.verbs.Verb_Shoot.label>
+
+<!-- EN: flamethrower -->
+<VWE_Gun_Flamethrower.label>lance-flammes</VWE_Gun_Flamethrower.label>
+<!-- EN: Mechanical incendiary device designed to release a controllable stream of burning chemfuel. -->
+<VWE_Gun_Flamethrower.description>Arme incendiaire mécanique pour libérer des jaillissements de feu sur les ennemis.</VWE_Gun_Flamethrower.description>
+<!-- EN: stock -->
+<VWE_Gun_Flamethrower.tools.stock.label>crosse</VWE_Gun_Flamethrower.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_Flamethrower.tools.barrel.label>canon</VWE_Gun_Flamethrower.tools.barrel.label>
+<!-- EN: flamethrower -->
+<VWE_Gun_Flamethrower.verbs.Verb_Shoot.label>lance-flammes</VWE_Gun_Flamethrower.verbs.Verb_Shoot.label>
+
+<!-- EN: grenade launcher -->
+<VWE_Gun_GrenadeLauncher.label>lance-grenades</VWE_Gun_GrenadeLauncher.label>
+<!-- EN: A military issue grenade launcher intended for anti-infantry use. -->
+<VWE_Gun_GrenadeLauncher.description>Un lance-grenades de type militaire pour l’usage anti-infanterie.</VWE_Gun_GrenadeLauncher.description>
+<!-- EN: stock -->
+<VWE_Gun_GrenadeLauncher.tools.stock.label>crosse</VWE_Gun_GrenadeLauncher.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_GrenadeLauncher.tools.barrel.label>canon</VWE_Gun_GrenadeLauncher.tools.barrel.label>
+<!-- EN: grenade launcher -->
+<VWE_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>lance-grenades</VWE_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>
+
+<!-- EN: Hand Cannon -->
+<VWE_Gun_HandCannon.label>canon à main</VWE_Gun_HandCannon.label>
+<!-- EN: Slow firing revolver firing large caliber projectiles over long distances. -->
+<VWE_Gun_HandCannon.description>Revolver avec un tir lent mais de gros calibre afin de tirer sur de longues distances.</VWE_Gun_HandCannon.description>
+<!-- EN: grip -->
+<VWE_Gun_HandCannon.tools.grip.label>poignée</VWE_Gun_HandCannon.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_Gun_HandCannon.tools.barrel.label>canon</VWE_Gun_HandCannon.tools.barrel.label>
+<!-- EN: Hand Cannon -->
+<VWE_Gun_HandCannon.verbs.Verb_Shoot.label>canon à main</VWE_Gun_HandCannon.verbs.Verb_Shoot.label>
+
+<!-- EN: HMG -->
+<VWE_Gun_HMG.label>HMG</VWE_Gun_HMG.label>
+<!-- EN: A water-cooled type of machine gun. It's heavy and unwieldy, but delivers tremendous amount of damage thanks to armor piercing ammunition. Belt-fed ammunition ensures continuous volley of bullets as long as the person firing them is strong enough to hold the gun. -->
+<VWE_Gun_HMG.description>Un fusil d'assaut polyvalent et robuste largement utilisé dans la galaxie par les milices et les mercenaires.\n\nIl n'est pas aussi puissant qu'un fusil d'assaut, mais permet de tirer des rafales de 4 coups.</VWE_Gun_HMG.description>
+<!-- EN: stock -->
+<VWE_Gun_HMG.tools.stock.label>crosse</VWE_Gun_HMG.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_HMG.tools.barrel.label>canon</VWE_Gun_HMG.tools.barrel.label>
+<!-- EN: HMG -->
+<VWE_Gun_HMG.verbs.Verb_Shoot.label>HMG</VWE_Gun_HMG.verbs.Verb_Shoot.label>
+
+<!-- EN: lever-action rifle -->
+<VWE_Gun_LeverActionRifle.label>fusil à levier</VWE_Gun_LeverActionRifle.label>
+<!-- EN: A rifle that uses a lever located around the trigger guard area to load fresh cartridges. Whilst not as powerful as other rifles, this gun allows for rapid reload.\n\nUsed widely around the western worlds for the ability to be shot single-handedly on the horseback. -->
+<VWE_Gun_LeverActionRifle.description>Un fusil qui utilise un levier situé autour de la zone du pontet pour charger de nouvelles cartouches. Bien qu'elle ne soit pas aussi puissante que d'autres fusils, cette arme permet un rechargement rapide.\n\nLargement utilisé dans les pays occidentaux pour sa capacité à être utilisé à dos de cheval.</VWE_Gun_LeverActionRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_LeverActionRifle.tools.stock.label>crosse</VWE_Gun_LeverActionRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_LeverActionRifle.tools.barrel.label>canon</VWE_Gun_LeverActionRifle.tools.barrel.label>
+<!-- EN: lever-action rifle -->
+<VWE_Gun_LeverActionRifle.verbs.Verb_Shoot.label>Fusil à levier</VWE_Gun_LeverActionRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: light SMG -->
+<VWE_Gun_LightSMG.label>SMG légère</VWE_Gun_LightSMG.label>
+<!-- EN: Open bolt lightweight submachine gun with improved cooling, allowing for longer bursts before weapon needs to be cooled. -->
+<VWE_Gun_LightSMG.description>Mitraillette légère à culasse ouverte avec refroidissement amélioré, permettant des rafales plus longues avant que l'arme ne surchauffe.</VWE_Gun_LightSMG.description>
+<!-- EN: grip -->
+<VWE_Gun_LightSMG.tools.grip.label>poignée</VWE_Gun_LightSMG.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_Gun_LightSMG.tools.barrel.label>canon</VWE_Gun_LightSMG.tools.barrel.label>
+<!-- EN: light SMG -->
+<VWE_Gun_LightSMG.verbs.Verb_Shoot.label>SMG légère</VWE_Gun_LightSMG.verbs.Verb_Shoot.label>
+
+<!-- EN: marksman rifle -->
+<VWE_Gun_MarksmanRifle.label>fusil de tireur d'élite</VWE_Gun_MarksmanRifle.label>
+<!-- EN: A designated marksman rifle.\n\nWhilst it shares similarities with a standard bolt-action rifle, it trades off it's damage for firing two shots in quick succession. -->
+<VWE_Gun_MarksmanRifle.description>Un fusil de tireur d'élite désigné.\n\nBien qu'il présente des similitudes avec un fusil à verrou standard, il sacrifie ses dégâts pour tirer deux coups successifs.</VWE_Gun_MarksmanRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_MarksmanRifle.tools.stock.label>crosse</VWE_Gun_MarksmanRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_MarksmanRifle.tools.barrel.label>canon</VWE_Gun_MarksmanRifle.tools.barrel.label>
+<!-- EN: marksman rifle -->
+<VWE_Gun_MarksmanRifle.verbs.Verb_Shoot.label>fusil de tireur d'élite</VWE_Gun_MarksmanRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: semi-automatic rifle -->
+<VWE_Gun_SemiAutomaticRifle.label>fusil semi-automatique</VWE_Gun_SemiAutomaticRifle.label>
+<!-- EN: Semi-automatic model of a standard bolt action rifle. Whilst not as accurate and powerful as the predecessor, it makes up with fast firing speed. -->
+<VWE_Gun_SemiAutomaticRifle.description>Modèle semi-automatique d'un fusil à verrou standard. Bien qu'il ne soit pas aussi précis et puissant que son prédécesseur, il compense par sa vitesse de tir.</VWE_Gun_SemiAutomaticRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_SemiAutomaticRifle.tools.stock.label>crosse</VWE_Gun_SemiAutomaticRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_SemiAutomaticRifle.tools.barrel.label>canon</VWE_Gun_SemiAutomaticRifle.tools.barrel.label>
+<!-- EN: semi-automatic rifle -->
+<VWE_Gun_SemiAutomaticRifle.verbs.Verb_Shoot.label>fusil semi-automatique</VWE_Gun_SemiAutomaticRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: service rifle -->
+<VWE_Gun_ServiceRifle.label>fusil de service</VWE_Gun_ServiceRifle.label>
+<!-- EN: A versatile and rugged assault rifle widely used around the galaxy by militia forces and mercenaries.\n\nNot as powerful as an assault rifle, but deliver 4 shot bursts. -->
+<VWE_Gun_ServiceRifle.description>Un fusil d'assaut polyvalent et robuste largement utilisé dans la galaxie par les milices et les mercenaires.\n\nIl n'est pas aussi puissant qu'un fusil d'assaut, mais permet de tirer des rafales de 4 coups.</VWE_Gun_ServiceRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_ServiceRifle.tools.stock.label>crosse</VWE_Gun_ServiceRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_ServiceRifle.tools.barrel.label>canon</VWE_Gun_ServiceRifle.tools.barrel.label>
+<!-- EN: service rifle -->
+<VWE_Gun_ServiceRifle.verbs.Verb_Shoot.label>fusil de service</VWE_Gun_ServiceRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: SMG -->
+<VWE_Gun_SMG.label>SMG</VWE_Gun_SMG.label>
+<!-- EN: A compact submachine gun. Whilst it doesn't have long range of fire, it deals significant damage in close range. -->
+<VWE_Gun_SMG.description>Une mitraillette compacte. Bien qu'elle n'ait pas une longue portée de tir, elle inflige des dégâts importants à courte distance.</VWE_Gun_SMG.description>
+<!-- EN: grip -->
+<VWE_Gun_SMG.tools.grip.label>poignée</VWE_Gun_SMG.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_Gun_SMG.tools.barrel.label>canon</VWE_Gun_SMG.tools.barrel.label>
+<!-- EN: SMG -->
+<VWE_Gun_SMG.verbs.Verb_Shoot.label>SMG</VWE_Gun_SMG.verbs.Verb_Shoot.label>
+
+<!-- EN: sawed-off Shotgun -->
+<VWE_SawedOffShotgun.label>fusil à canon scié</VWE_SawedOffShotgun.label>
+<!-- EN: Short double-barreled shotgun. Whilst not having the same range as a standard shotgun, this weapon fires two barrels in quick successions. -->
+<VWE_SawedOffShotgun.description>Fusil de chasse court à double canon. Bien que sa portée ne soit pas la même que celle d'un fusil à pompe standard, cette arme tire deux cartouches successivement et rapidement.</VWE_SawedOffShotgun.description>
+<!-- EN: grip -->
+<VWE_SawedOffShotgun.tools.grip.label>poignée</VWE_SawedOffShotgun.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_SawedOffShotgun.tools.barrel.label>canon</VWE_SawedOffShotgun.tools.barrel.label>
+<!-- EN: sawed-off Shotgun -->
+<VWE_SawedOffShotgun.verbs.Verb_Shoot.label>fusil à canon scié</VWE_SawedOffShotgun.verbs.Verb_Shoot.label>
+
+
+<!-- EN: lead ball -->
+<Bullet_Leadball.label>balle de plomb</Bullet_Leadball.label>
+
+<!-- EN: crossbow bolt -->
+<VWE_Arrow_Bolt.label>carreau d'arbalète</VWE_Arrow_Bolt.label>
+
+<!-- EN: crossbow -->
+<VWE_Bow_Crossbow.label>arbalète</VWE_Bow_Crossbow.label>
+<!-- EN: A crossbow is a type of ranged weapon in similar principle to a bow, consisting of a bow-like assembly mounted horizontally on a main frame, which is handheld in a similar fashion to the stock of a long gun.\n\nThis weapon attempt of early mankind can send a bolt even through strongest metal. -->
+<VWE_Bow_Crossbow.description>Une arbalète est un type d'arme à distance dont le principe est similaire à celui d'un arc. Elle se compose d'un ensemble ressemblant à un arc monté horizontalement sur un cadre principal, qui est tenu à la main de manière similaire à la crosse d'un fusil long.\n\nCette arme utilisée par les premiers hommes peut envoyer un carreau même à travers le métal le plus résistant.</VWE_Bow_Crossbow.description>
+<!-- EN: limb -->
+<VWE_Bow_Crossbow.tools.limb.label>branche</VWE_Bow_Crossbow.tools.limb.label>
+<!-- EN: crossbow -->
+<VWE_Bow_Crossbow.verbs.Verb_Shoot.label>arbalète</VWE_Bow_Crossbow.verbs.Verb_Shoot.label>
+
+<!-- EN: small knife -->
+<VWE_FlyingBlade.label>couteau</VWE_FlyingBlade.label>
+
+<!-- EN: flintlock -->
+<VWE_Gun_Flintlock.label>pistolet à silex</VWE_Gun_Flintlock.label>
+<!-- EN: This pistol features a smoothbore barrel and a long, wooden grip ending in a knob. As its name implies, the flintlock pistol is operated by a flintlock mechanism. -->
+<VWE_Gun_Flintlock.description>Ce pistolet est doté d'un canon à tube lisse et d'une longue poignée en bois se terminant par un pommeau. Comme son nom l'indique, le pistolet à silex est actionné par un mécanisme à silex.</VWE_Gun_Flintlock.description>
+<!-- EN: stock -->
+<VWE_Gun_Flintlock.tools.stock.label>crosse</VWE_Gun_Flintlock.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_Flintlock.tools.barrel.label>canon</VWE_Gun_Flintlock.tools.barrel.label>
+<!-- EN: flintlock -->
+<VWE_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>pistolet à silex</VWE_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>
+
+<!-- EN: musket -->
+<VWE_Gun_Musket.label>mousquet</VWE_Gun_Musket.label>
+<!-- EN: An ancient pattern musket. As one of the first of its kind, it only has short range and low fire rate. -->
+<VWE_Gun_Musket.description>Un ancien modèle de mousquet. Étant l'un des premiers de son genre, il n'a qu'une faible portée et une faible cadence de tir.</VWE_Gun_Musket.description>
+<!-- EN: stock -->
+<VWE_Gun_Musket.tools.stock.label>crosse</VWE_Gun_Musket.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_Musket.tools.barrel.label>canon</VWE_Gun_Musket.tools.barrel.label>
+<!-- EN: musket -->
+<VWE_Gun_Musket.verbs.Verb_ShootWithSmoke.label>mousquet</VWE_Gun_Musket.verbs.Verb_ShootWithSmoke.label>
+
+<!-- EN: throwing knives -->
+<VWE_Throwing_Knives.label>couteaux de lancer</VWE_Throwing_Knives.label>
+<!-- EN: A set of well balanced knives, perfect for throwing. -->
+<VWE_Throwing_Knives.description>Un ensemble de couteaux équilibrés, parfait pour les lancer.</VWE_Throwing_Knives.description>
+<!-- EN: handle -->
+<VWE_Throwing_Knives.tools.handle.label>poignée</VWE_Throwing_Knives.tools.handle.label>
+<!-- EN: blade -->
+<VWE_Throwing_Knives.tools.blade.label>lame</VWE_Throwing_Knives.tools.blade.label>
+<!-- EN: point -->
+<VWE_Throwing_Knives.tools.point.label>pointe</VWE_Throwing_Knives.tools.point.label>
+<!-- EN: throwing knives -->
+<VWE_Throwing_Knives.verbs.Verb_Shoot.label>couteaux de lancer</VWE_Throwing_Knives.verbs.Verb_Shoot.label>
+
+<!-- EN: Whip -->
+<VWE_Tool_Whip.label>fouet</VWE_Tool_Whip.label>
+<!-- EN: A traditional tool used for striking animals to aid guidance and earn obedience.\n\nCan be used on people. -->
+<VWE_Tool_Whip.description>Un outil traditionnel utilisé pour frapper les animaux afin de les guider et de les faire obéir.\n\nPeut être utilisé sur des personnes.</VWE_Tool_Whip.description>
+<!-- EN: edge -->
+<VWE_Tool_Whip.tools.edge.label>fouet</VWE_Tool_Whip.tools.edge.label>
+<!-- EN: Whip -->
+<VWE_Tool_Whip.verbs.Verb_Shoot.label>fouet</VWE_Tool_Whip.verbs.Verb_Shoot.label>
+
+<!-- EN: whip slash -->
+<VWE_WhipSlash.label>coup de fouet</VWE_WhipSlash.label>
+
+
+<!-- EN: longbow arrow -->
+<VWE_Arrow_Long.label>flèche arc long</VWE_Arrow_Long.label>
+
+<!-- EN: long bow -->
+<VWE_Bow_Long.label>arc long</VWE_Bow_Long.label>
+<!-- EN: Longbow is a massive long range neolithic weapon, capable of firing a powerful arrow over extremely long distances.\n\nArrows fired from this bow fly overhead, avoiding getting stopped by obstacles. -->
+<VWE_Bow_Long.description>Les arcs longs sont des armes néolithiques qui peuvent tirer des flèches puissantes sur de longues distances.\n\nLes flèches tirées volent en arc de cercle afin de passer aux dessus des obstacles.</VWE_Bow_Long.description>
+<!-- EN: limb -->
+<VWE_Bow_Long.tools.limb.label>branche</VWE_Bow_Long.tools.limb.label>
+<!-- EN: long bow -->
+<VWE_Bow_Long.verbs.Verb_Shoot.label>arc long</VWE_Bow_Long.verbs.Verb_Shoot.label>
+
+<!-- EN: small rock -->
+<VWE_Rock.label>pierre</VWE_Rock.label>
+
+<!-- EN: throwing rocks -->
+<VWE_Throwing_Rocks.label>pierres de lancer</VWE_Throwing_Rocks.label>
+<!-- EN: A handful of rocks. Can inflict minor injuries in close range. Doesn't drop on death. Simple but effective. -->
+<VWE_Throwing_Rocks.description>Une poignée de pierres. Peut infliger des blessures mineures à courte distance. Ne tombe pas en cas de mort. Simple mais efficace.</VWE_Throwing_Rocks.description>
+<!-- EN: edge -->
+<VWE_Throwing_Rocks.tools.edge.label>pierre</VWE_Throwing_Rocks.tools.edge.label>
+<!-- EN: throwing rocks -->
+<VWE_Throwing_Rocks.verbs.Verb_Shoot.label>pierres de lancer</VWE_Throwing_Rocks.verbs.Verb_Shoot.label>
+
+
+<!-- EN: charge LMG shot -->
+<VWE_Bullet_ChargeLMG.label>énergie mitrailleuse à impulsion</VWE_Bullet_ChargeLMG.label>
+
+<!-- EN: charge minigun shot -->
+<VWE_Bullet_ChargeMinigun.label>énergie minigun à impulsion</VWE_Bullet_ChargeMinigun.label>
+
+<!-- EN: charge pistol shot -->
+<VWE_Bullet_ChargePistol.label>énergie pistolet à impulsion</VWE_Bullet_ChargePistol.label>
+
+<!-- EN: charge shotgun blast -->
+<VWE_Bullet_ChargeShotgun.label>énergie fusil à pompe à impulsion</VWE_Bullet_ChargeShotgun.label>
+
+<!-- EN: rapid charge shot -->
+<VWE_Bullet_ChargeSMG.label>énergie pistolet-mitrailleur à impulsion</VWE_Bullet_ChargeSMG.label>
+
+<!-- EN: charge sniper shot -->
+<VWE_Bullet_ChargeSniperRifle.label>énergie fusil de précision à impulsion</VWE_Bullet_ChargeSniperRifle.label>
+
+<!-- EN: charge LMG -->
+<VWE_Gun_ChargeLMG.label>mitrailleuse à impulsion</VWE_Gun_ChargeLMG.label>
+<!-- EN: A charged-shot light machine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCharge light machine gun fires a volley of projectiles at extreme speed which makes it ideal for area denial. -->
+<VWE_Gun_ChargeLMG.description>Une mitrailleuse à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nLa mitrailleuse à impulsion tire une volée de projectiles à une vitesse élevée, ce qui la rend idéale pour le tir de suppression.</VWE_Gun_ChargeLMG.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeLMG.tools.barrel.label>canon</VWE_Gun_ChargeLMG.tools.barrel.label>
+<!-- EN: charge LMG -->
+<VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>mitrailleuse à impulsion</VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>
+
+<!-- EN: charge minigun -->
+<VWE_Gun_ChargeMinigun.label>minigun à impulsion</VWE_Gun_ChargeMinigun.label>
+<!-- EN: A charged-shot minigun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCapable of covering the entire area in volley of anti-armor rounds, this minigun is often used by glitterworld mercenaries during their infamous raids. -->
+<VWE_Gun_ChargeMinigun.description>Un minigun à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nCapable de couvrir toute la zone en une volée de tirs anti-blindage, ce minigun est souvent utilisé par les mercenaires du Glitterworld lors de leurs infâmes raids.</VWE_Gun_ChargeMinigun.description>
+<!-- EN: stock -->
+<VWE_Gun_ChargeMinigun.tools.stock.label>crosse</VWE_Gun_ChargeMinigun.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeMinigun.tools.barrel.label>canon</VWE_Gun_ChargeMinigun.tools.barrel.label>
+<!-- EN: charge minigun -->
+<VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>minigun à impulsion</VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>
+
+<!-- EN: charge pistol -->
+<VWE_Gun_ChargePistol.label>pistolet à impulsion</VWE_Gun_ChargePistol.label>
+<!-- EN: A charged-shot pistol. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nThis three round burst pistol is a very effective sidearm deployed across all regiments of imperial commandos. -->
+<VWE_Gun_ChargePistol.description>Un pistolet à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nCe pistolet à trois coups est une arme de poing très efficace déployée dans tous les régiments de commandos impériaux.</VWE_Gun_ChargePistol.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargePistol.tools.barrel.label>canon</VWE_Gun_ChargePistol.tools.barrel.label>
+<!-- EN: charge pistol -->
+<VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>pistolet à impulsion</VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>
+
+<!-- EN: charge shotgun -->
+<VWE_Gun_ChargeShotgun.label>fusil à pompe à impulsion</VWE_Gun_ChargeShotgun.label>
+<!-- EN: A charged-shot slug thrower. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDeadly in close range, this shotgun has been banned by the imperial military for inflicting unmeasurable pain. -->
+<VWE_Gun_ChargeShotgun.description>Un fusil à pompe à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nMortel à courte distance, ce fusil a été interdit par l'armée impériale pour avoir infligé une souffrance incommensurable.</VWE_Gun_ChargeShotgun.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeShotgun.tools.barrel.label>canon</VWE_Gun_ChargeShotgun.tools.barrel.label>
+<!-- EN: charge shotgun -->
+<VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>fusil à pompe à impulsion</VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>
+
+<!-- EN: charge SMG -->
+<VWE_Gun_ChargeSMG.label>pistolet-mitrailleur à impulsion</VWE_Gun_ChargeSMG.label>
+<!-- EN: A charged-shot submachine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nFires rapidly but requires to close the distance between the target. -->
+<VWE_Gun_ChargeSMG.description>Un pistolet-mitrailleur à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nTire rapidement mais nécessite de se rapprocher de la cible.</VWE_Gun_ChargeSMG.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeSMG.tools.barrel.label>canon</VWE_Gun_ChargeSMG.tools.barrel.label>
+<!-- EN: charge SMG -->
+<VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>pistolet-mitrailleur à impulsion</VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>
+
+<!-- EN: charge sniper rifle -->
+<VWE_Gun_ChargeSniperRifle.label>fusil de précision à impulsion</VWE_Gun_ChargeSniperRifle.label>
+<!-- EN: A charged-shot triple barreled sniper rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDue to three separate barrels firing simultaneously, weapon power is reduced and rate of fire is decreased. -->
+<VWE_Gun_ChargeSniperRifle.description>Un fusil de précision à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nLa puissance de l'arme et la cadence de tir sont réduites du fait que les trois canons tirent simultanément.</VWE_Gun_ChargeSniperRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_ChargeSniperRifle.tools.stock.label>crosse</VWE_Gun_ChargeSniperRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeSniperRifle.tools.barrel.label>canon</VWE_Gun_ChargeSniperRifle.tools.barrel.label>
+<!-- EN: charge sniper rifle -->
+<VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>fusil de précision à impulsion</VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>
+
+
+<!-- EN: charge rocket launcher -->
+<VWE_Gun_ChargeRocketLauncher.label>lance-roquettes à impulsion</VWE_Gun_ChargeRocketLauncher.label>
+<!-- EN: Fires a single anti grain shell at precise accuracy due to laser targeting. The warhead explodes in the air, releasing a wave of deadly electroshock. -->
+<VWE_Gun_ChargeRocketLauncher.description>Tire un seul obus anti-grain avec une précision extrême grâce au ciblage laser. L'ogive explose en l'air, libérant une vague d'électrochocs mortels.</VWE_Gun_ChargeRocketLauncher.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeRocketLauncher.tools.barrel.label>canon</VWE_Gun_ChargeRocketLauncher.tools.barrel.label>
+<!-- EN: charge rocket launcher -->
+<VWE_Gun_ChargeRocketLauncher.verbs.Verb_ShootOneUse.label>lance-roquettes à impulsion</VWE_Gun_ChargeRocketLauncher.verbs.Verb_ShootOneUse.label>
+
+<!-- EN: antigrain rocket -->
+<VWE_Rocket_AntiGrain.label>roquette anti-grains</VWE_Rocket_AntiGrain.label>
+
+
+</LanguageData>

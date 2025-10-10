@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: {0} is on cooldown for {1} -->
+<VFEA.AbilityDisableReasonCooldown>{0} en rechargement.\nDisponible dans {1}.</VFEA.AbilityDisableReasonCooldown>
+<!-- EN: {0} doesn't meet the requirements -->
+<VFEA.AbilityDisableReasonGeneral>{0} ne remplit pas les conditions</VFEA.AbilityDisableReasonGeneral>
+
+<!-- EN: Power -->
+<VFEA.AbilityStatsPower>Énergie</VFEA.AbilityStatsPower>
+<!-- EN: Duration -->
+<VFEA.AbilityStatsDuration>Durée</VFEA.AbilityStatsDuration>
+
+<!-- EN: Target must be hostile -->
+<VFEA.TargetMustBeHostile>La cible doit être hostile</VFEA.TargetMustBeHostile>
+
+<!-- EN: Minimum radius -->
+<VFEA.MinRadius>Rayon minimum</VFEA.MinRadius>
+
+<!-- EN: Right-click to enable autocasting. -->
+<VFEA.RClickToAuto>Clic droit pour activer le lancement automatique.</VFEA.RClickToAuto>
+<!-- EN: Right-click to disable autocasting. -->
+<VFEA.RClickToNoAuto>Clic droit pour désactiver le lancement automatique.</VFEA.RClickToNoAuto>
+
+
+<!-- EN: Disable corpse decaying -->
+<VEF_DisableCorpseDecaying>Désactiver la décomposition des cadavres</VEF_DisableCorpseDecaying>
+<!-- EN: Disable the constant corpse decaying ability of this animal. -->
+<VEF_DisableCorpseDecayingDesc>Désactive la capacité de décomposition constante des cadavres de cet animal.</VEF_DisableCorpseDecayingDesc>
+<!-- EN: Enable corpse decaying -->
+<VEF_EnableCorpseDecaying>Activer la décomposition des cadavres</VEF_EnableCorpseDecaying>
+<!-- EN: Enable the constant corpse decaying ability of this animal. -->
+<VEF_EnableCorpseDecayingDesc>Active la capacité de décomposition constante des cadavres de cet animal.</VEF_EnableCorpseDecayingDesc>
+
+<!-- EN: Disable digging for food -->
+<VEF_DisableDigging>Désactiver la fouille de nourriture</VEF_DisableDigging>
+<!-- EN: Disable the ability to dig the terrain for food of this animal. -->
+<VEF_DisableDiggingDesc>Désactive la capacité de cet animal à creuser le terrain pour se nourrir.</VEF_DisableDiggingDesc>
+<!-- EN: Enable digging for food -->
+<VEF_EnableDigging>Activer la fouille de nourriture</VEF_EnableDigging>
+<!-- EN: Enable the ability to dig the terrain for food of this animal. -->
+<VEF_EnableDiggingDesc>Active la capacité de cet animal à creuser le terrain pour se nourrir.</VEF_EnableDiggingDesc>
+
+<!-- EN: Disable gas production -->
+<VEF_DisableGas>Désactiver la production de gaz</VEF_DisableGas>
+<!-- EN: Disable the ability to produce gas of this animal. -->
+<VEF_DisableGasDesc>Désactive la capacité de production de gaz de cet animal.</VEF_DisableGasDesc>
+<!-- EN: Enable gas production -->
+<VEF_EnableGas>Activer la production de gaz</VEF_EnableGas>
+<!-- EN: Enable the ability to produce gas of this animal. -->
+<VEF_EnableGasDesc>Active la capacité de production de gaz de cet animal.</VEF_EnableGasDesc>
+
+
+</LanguageData>

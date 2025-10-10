@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: questName->Techfriar -->
+<VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.0>questName->Techfriar</VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.0>
+<!-- EN: questDescription-> -->
+<VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.1>questDescription-></VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.1>
+<!-- EN: Techfriar arrived -->
+<VFEE_Permit_CallTechfriar.root.nodes.Letter.label.slateRef>Le Techfriar est arrivé</VFEE_Permit_CallTechfriar.root.nodes.Letter.label.slateRef>
+<!-- EN: The techfriar from [permitFaction_name] have arrived. A shuttle will come to collect them in [techfriarDurationDays] days. -->
+<VFEE_Permit_CallTechfriar.root.nodes.Letter.text.slateRef>Le techfriar de [permitFaction_name] est arrivé. Une navette viendra le chercher dans [techfriarDurationDays] jours.</VFEE_Permit_CallTechfriar.root.nodes.Letter.text.slateRef>
+<!-- EN: Should depart on shuttle -->
+<VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Devrait partir en navette</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+<!-- EN: Shuttle arrived -->
+<VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Navette arrivée</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+<!-- EN: A shuttle has arrived to collect the techfriar from [permitFaction_name]. -->
+<VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>La navette est arrivée pour récupérer le techfriar de [permitFaction_name].</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+<!-- EN: Laborer died: {SUBJECT_definite} -->
+<VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label.slateRef>Ouvrier décédé : {SUBJECT_definite}</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label.slateRef>
+<!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
+<VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text.slateRef>Un ouvrier qui vous a été envoyé par [permitFaction_name] est décédé. Votre niveau de relation avec [permitFaction_name] a chuté de [goodwillPenaltyPawn].</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text.slateRef>
+
+
+<!-- EN: questName->Absolver -->
+<VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.0>questName->Absolutions</VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.0>
+<!-- EN: questDescription-> -->
+<VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.1>questDescription-></VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.1>
+<!-- EN: Absolver arrived -->
+<VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>Les absolutions sont arrivés</VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>
+<!-- EN: The absolver from [permitFaction_name] have arrived. A shuttle will come to collect them in [absolverDurationDays] days. -->
+<VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>Les absolutions de [permitFaction_name] sont arrivés. Une navette viendra les chercher dans [absolverDurationDays] jours.</VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>
+<!-- EN: Should depart on shuttle -->
+<VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Doit partir dans une navette</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+<!-- EN: Shuttle arrived -->
+<VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>La navette est arrivée</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+<!-- EN: A shuttle has arrived to collect the absolver from [permitFaction_name]. -->
+<VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Une navette est arrivée pour récupérer les absolutions de [permitFaction_name]</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+<!-- EN: Absolver died: {SUBJECT_definite} -->
+<VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>Absolution décédé : {SUBJECT_definite}</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>
+<!-- EN: An absolver sent to you by [permitFaction_name] has died. A replacement has been issued -->
+<VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>Un absolution qui vous a été envoyé par [permitFaction_name] est mort. Un remplaçant a été nommé</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>
+
+
+<!-- EN:
+    <li>decidedToLeave->Are leaving immediately, and will not remember this event fondly!</li>
+    <li>oneOfThe->one of the nobles you invited to the art exhibit</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>CeremonyFailedLetterLabel->Art Exhibit failed</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable exhibit. [asker_pronoun] is leaving with [asker_possessive] guests</li>
+    <li>CeremonyTimeoutLetterLabel->Art Exhibit failed</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the exhibit. [asker_pronoun] is leaving with [asker_possessive] guests.</li>
+    <li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget->{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.</li>
+    <li>lodgerPsychicRitualTargetLabel->[lodgersLabel] Psychic Ritual: Departure</li>
+    <li>lodgerPsychicRitualTargetText->[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed</li>
+    <li>ShuttleDestroyedLabel->Shuttle destroyed: Art Exhibt Cancelled</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>raidArrivedLetterLabel->Deserter assasination attempt</li>
+    <li>raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the art exhibit and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the exhibit continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".</li>
+    <li>ArtExhibitSuccessLetterLabel->Exhibit Success</li>
+    <li>ArtExhibitSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.</li>
+-->
+<VFEE_ArtExhibit.questContentRules.rulesStrings>
+    <li>decidedToLeave->Ils partent immédiatement, et ne garderont pas un bon souvenir de cet événement !</li>
+    <li>oneOfThe->un des nobles que vous avez invité à l'exposition d'art</li>
+    <li>questOver->La quête "[resolvedQuestName]" est terminée.</li>
+    <!--Ceremony failed-->
+    <li>CeremonyFailedLetterLabel->L'exposition d'art a échoué</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] est déçu{ASKER_gender ? : e } par votre incapacité à rendre l'exposition agréable. [asker_pronoun] part avec ses invités</li>
+    <li>CeremonyTimeoutLetterLabel->L'exposition d'art a échoué</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] en a assez de vous attendre pour commencer l'exposition. [asker_pronoun] part avec ses invités.</li>
+    <!-- Interaction response-->
+    <li>letterIntroArrested->Vous avez arrêté {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrêté</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] est décédé.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] mort : Départ</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], a été charcuté lors d'une opération médicale.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] chirurgie : Départ</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], a été enlevé.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] kidnappé : Départ</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], a été banni.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] banni : Départ</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, a été détruit.</li>
+    <li>ShuttleDestroyedLabel->Navette détruite : Exposition d'art annulée</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <!--raid-->
+    <li>raidArrivedLetterLabel->Tentative d'assassinat par des déserteurs</li>
+    <li>raidArrivedLetterText->Un groupe de déserteurs est arrivé pour tenter de perturber l'exposition d'art et d'assassiner les nobles.\n\n[asker_nameFull] ne se soucie pas de cette menace et exige que l'exposition se poursuive ! [asker_pronoun] veut que vous les protégiez et que vous vous occupiez de ces "paysans".</li>
+    <!-- Quest completed -->
+    <li>ArtExhibitSuccessLetterLabel->Succès de l'exposition</li>
+    <li>ArtExhibitSuccessLetterText->La navette est repartie avec [asker_nameFull] et ses invités. Dans l'ensemble, l'événement a été un succès et tout le monde est rentré sain et sauf.</li>
+</VFEE_ArtExhibit.questContentRules.rulesStrings>
+<!-- EN:
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]</li>
+    <li>joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]</li>
+    <li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount>=2)->their</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->they</li>
+    <li>lodgersWasWere(nobleCount==1)->was</li>
+    <li>lodgersWasWere(nobleCount>=2)->were</li>
+    <li>appreciateAppreciates(nobleCount==1)->appreciates</li>
+    <li>appreciateAppreciates(nobleCount>=2)->appreciate</li>
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to come over with a few other noble people and gaze upon the works of art in your gallery. [asker_pronoun] requests [colonyHost_nameFull] hosts the occasion. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a gallery present in your colony. If at any point the gallery is destroyed, the art exhibition will be called off.\n[asker_nameFull] has forwarded you a list of nobility that was invited to the exhibit and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the exhibition. If anything happens to any of the guests, the art exhibition will be cancelled.\nDeserters might use this opportunity to launch an assassination attempt.\n\n\n			</li>
+-->
+<VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->les [lodgersLabelPlural]</li>
+    <li>joinerEnding->Vous pourrez contrôler [lodgersDef] de la même façon que vos propres colons.[specialNeedsExplanation]</li>
+    <li>theirHisHer(nobleCount==1)->son</li>
+    <!--[lodgers0_possessive]-->
+    <li>theirHisHer(nobleCount>=2)->leur</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->ils</li>
+    <li>lodgersWasWere(nobleCount==1)->était</li>
+    <li>lodgersWasWere(nobleCount>=2)->étaient</li>
+    <li>appreciateAppreciates(nobleCount==1)->apprécie</li>
+    <li>appreciateAppreciates(nobleCount>=2)->apprécient</li>
+    <li>questDescription->[asker_nameFull], [asker_royalTitleInCurrentFaction] de [asker_faction_name] aimerait venir avec quelques autres personnes nobles pour contempler les œuvres d'art de votre galerie. [asker_pronoun] demande à [colonyHost_nameFull] d'accueillir cet événement. C'est une excellente occasion de faire des commérages nobles et de nouer des relations avec d'autres membres de la noblesse impériale.\n\nVous êtes tenu d'avoir une galerie d'art disponible dans votre colonie. Si à un moment donné la galerie d'art est détruite, l'exposition d'art sera annulée.\n\n[asker_nameFull] vous a fait parvenir la liste de la noblesse qui a été invitée à l'exposition et qui arrivera par navette :\n[noblesDetailList]\n\nVous devrez vous assurer que les invités sont en sécurité et à l'aise pendant l'exposition. Si quelque chose arrive à l'un des invités, l'exposition d'art sera annulée.\n\nLes déserteurs pourraient profiter de cette occasion pour lancer une tentative d'assassinat.</li>
+</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings>
+<!-- EN: questName->[lodgerIndef] desires an Art Exhibit -->
+<VFEE_ArtExhibit.questNameRules.rulesStrings.0>questName->[lodgerIndef] désire une exposition d'art</VFEE_ArtExhibit.questNameRules.rulesStrings.0>
+<!-- EN: lodgerIndef->a royal -->
+<VFEE_ArtExhibit.questNameRules.rulesStrings.1>lodgerIndef->un membre de la famille royale</VFEE_ArtExhibit.questNameRules.rulesStrings.1>
+<!-- EN: lodgerIndef->a noble -->
+<VFEE_ArtExhibit.questNameRules.rulesStrings.2>lodgerIndef->un noble</VFEE_ArtExhibit.questNameRules.rulesStrings.2>
+
+
+<!-- EN: rewardLetterLabel->Noble's Gift -->
+<VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.0>rewardLetterLabel->Cadeau de Noble</VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.0>
+<!-- EN: rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] art exhibit for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards] -->
+<VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.1>rewardLetterText->[rewardGiver_nameDef] vous a contacté. Il y a [rewardDelayTicks_duration], vous avez organisé une exposition d'art [outcome] pour [rewardGiver_objective] \n\nDepuis, [rewardGiver_pronoun] est rentré{rewardGiver_gender ? : e } chez [rewardGiver_objective] en toute sécurité, et [rewardGiver_pronoun] a tellement apprécié qu'[rewardGiver_pronoun] veut vous offrir un cadeau personnel. [rewardGiver_pronoun] vous envoie ce qui suit par capsule :\n\n[listOfRewards]</VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.1>
+<!-- EN: questDescription->a delayed reward for art exhibit quest -->
+<VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings.0>questDescription->une récompense supplémentaire pour la quête de l'exposition d'art</VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings.0>
+<!-- EN: questName->Art Exhibit delayed reward -->
+<VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings.0>questName->Récompense supplémentaire de l'exposition d'art</VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings.0>
+
+<!-- EN: rewardLetterLabel->Noble's Gift -->
+<VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.0>rewardLetterLabel->Cadeau de Noble</VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.0>
+<!-- EN: rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] grand ball for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards] -->
+<VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.1>rewardLetterText->[rewardGiver_nameDef] vous a contacté. Il y a [rewardDelayTicks_duration], vous avez organisé un grand bal [outcome] pour [rewardGiver_objective] \n\nDepuis, [rewardGiver_pronoun] est rentré{rewardGiver_gender ? : e } chez [rewardGiver_objective] en toute sécurité, et [rewardGiver_pronoun] a tellement apprécié qu'[rewardGiver_pronoun] veut vous offrir un cadeau personnel. [rewardGiver_pronoun] vous envoie ce qui suit par capsule :\n\n[listOfRewards]</VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.1>
+<!-- EN: questDescription->a delayed reward for grand ball quest -->
+<VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings.0>questDescription->une récompense supplémentaire pour la quête du grand bal</VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings.0>
+<!-- EN: questName->Grandball delayed reward -->
+<VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings.0>questName->Récompense supplémentaire du grand bal</VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings.0>
+
+
+<!-- EN: questDescription-> [asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] has informed us about a deserter hideout near [colonyName].\nDeserters are a group of ex-imperial soldiers and nobility who have decided to split away from the Great Hierarchy and adapt to the new, post-shattering life. They are considered public enemy number one.\nApparently, [siteFaction_pawnsPlural] have been raiding imperial convoys.\n[asker_nameDef] is planning an aerial assault on the hideout, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [requiredPawnCount] soldiers to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed and medically tended en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTime_duration].\n\n[asker_nameDef] will send [alliesCount] of their personal guards and place them under your command. [asker_pronoun] will not be unhappy if they are killed.\n		 -->
+<VFEE_DeserterHideout.questDescriptionRules.rulesStrings.0>questDescription-> [asker_nameFull], [asker_royalTitleInCurrentFaction] de [asker_faction_name] nous a parlé d'une cachette de déserteurs près de [colonyName].\n\nLes déserteurs sont un groupe d'anciens soldats impériaux et de nobles qui ont décidé de se séparer de la Grande Hiérarchie et de s'adapter à la nouvelle vie post-brisée. Ils sont considérés comme l'ennemi public numéro un.\n\nApparemment, les [siteFaction_pawnsPlural] ont attaqué les convois impériaux./n[asker_nameDef] prépare un assaut aérien sur leur cachette, qui est gardée par [enemiesCount] [enemiesLabel]. [asker_pronoun] veut que vous lui fournissiez [requiredPawnCount] soldats pour mener à bien l'attaque.\n\n[asker_pronoun] enverra une navette pour récupérer vos combattants, les amener sur le site de l'attaque et les ramener chez vous par la suite. Ils seront nourris et soigné en route.\n\nUne fois l'attaque commencée, vous devrez vaincre tous les ennemis et tourelles dans un délai de [timeoutTime_duration].\n\n[asker_nameDef] enverra [alliesCount] de leurs gardes personnels et les placera sous votre commandement. [asker_pronoun] ne sera pas mécontent s'ils sont tués.\n		</VFEE_DeserterHideout.questDescriptionRules.rulesStrings.0>
+<!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+-->
+<VFEE_DeserterHideout.questNameRules.rulesStrings>
+    <li>questName->Le [camp] des [bandit]</li>
+    <li>questName->L'[campL] des [bandit]</li>
+    <li>questName->[campCap] de [bandit]</li>
+    <li>questName->[asker_nameDef] et le [camp]</li>
+    <li>questName->[asker_nameDef] et l'[campL]</li>
+    <li>camp->camp</li>
+    <li>camp->repaire</li>
+    <li>camp->campement</li>
+    <li>campL->avant-poste</li>
+    <li>campCap->Camp</li>
+    <li>campCap->Avant-poste</li>
+    <li>campCap->Repaire</li>
+    <li>campCap->Campement</li>
+    <li>bandit->bandits</li>
+    <li>bandit->pillards</li>
+    <li>bandit->hors-la-loi</li>
+    <li>bandit->desperados</li>
+    <li>bandit->fugitifs</li>
+    <li>bandit->maraudeurs</li>
+    <li>bandit->voleurs</li>
+    <li>bandit->brigands</li>
+</VFEE_DeserterHideout.questNameRules.rulesStrings>
+
+
+<!-- EN:
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->last</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->Are leaving immediately, and will not remember this event fondly!</li>
+    <li>oneOfThe->one of the nobles you invited to the grand ball</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>CeremonyFailedLetterLabel->GrandBall failed</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Ball. [asker_pronoun] is leaving with [asker_possessive] guests</li>
+    <li>CeremonyTimeoutLetterLabel->GrandBall failed</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the ball. [asker_pronoun] is leaving with [asker_possessive] guests.</li>
+    <li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget->{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.</li>
+    <li>lodgerPsychicRitualTargetLabel->[lodgersLabel] Psychic Ritual: Departure</li>
+    <li>lodgerPsychicRitualTargetText->[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed</li>
+    <li>ShuttleDestroyedLabel->Shuttle destroyed: Ball Cancelled</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>raidArrivedLetterLabel->Deserter assasination attempt</li>
+    <li>raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the grand ball and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the ball continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".</li>
+    <li>BallSuccessLetterLetterLabel->GrandBall Success</li>
+    <li>BallSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.</li>
+-->
+<VFEE_GrandBall.questContentRules.rulesStrings>
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->derniers</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->Ils partent immédiatement, et ne garderont pas un bon souvenir de cet événement !</li>
+    <li>oneOfThe->un des nobles que vous avez invité au grand bal</li>
+    <li>questOver->La quête "[resolvedQuestName]" est terminée.</li>
+    <!--Ceremony failed-->
+    <li>CeremonyFailedLetterLabel->Le Grand Bal a échoué</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] est déçu{asker_gender ? : e } par votre incapacité à rendre le bal agréable. [asker_pronoun] part avec ses invités</li>
+    <li>CeremonyTimeoutLetterLabel->Le Grand Bal a échoué</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] en a eu assez de vous attendre pour commencer le bal. [asker_pronoun] part avec ses invités.</li>
+    <!-- Interaction response-->
+    <li>letterIntroArrested->Vous avez arrêté {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrêté</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] est décédé.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] mort : Départ</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], a été charcuté lors d'une opération médicale.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] chirurgie : Départ</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], a été enlevé.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] kidnappé : Départ</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], a été banni.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] banni : Départ</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, a été détruit.</li>
+    <li>ShuttleDestroyedLabel->Navette détruite : Bal annulée</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <!--raid-->
+    <li>raidArrivedLetterLabel->Tentative d'assassinat par des déserteurs</li>
+    <li>raidArrivedLetterText->Un groupe de déserteurs est arrivé pour tenter de perturber le grand bal et d'assassiner les membres de la famille royale.\n\n[asker_nameFull] ne se soucie pas de la menace et exige que le bal continue ! [asker_pronoun] veut que vous les protégiez et que vous vous occupiez de ces "paysans".</li>
+    <!-- Quest completed -->
+    <li>BallSuccessLetterLetterLabel->Succès du grand bal</li>
+    <li>BallSuccessLetterText->La navette est partie avec [asker_nameFull] et ses invités. Dans l'ensemble, l'événement a été un succès et tout le monde est rentré sain et sauf.</li>
+</VFEE_GrandBall.questContentRules.rulesStrings>
+<!-- EN:
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]</li>
+    <li>joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]</li>
+    <li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount>=2)->their</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->they</li>
+    <li>lodgersWasWere(nobleCount==1)->was</li>
+    <li>lodgersWasWere(nobleCount>=2)->were</li>
+    <li>appreciateAppreciates(nobleCount==1)->appreciates</li>
+    <li>appreciateAppreciates(nobleCount>=2)->appreciate</li>
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like you to organise a grand ball. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a ballroom present in your colony. If at any point the ballroom is destroyed or the instruments in it become unusable, the grand ball will be called off\n[asker_nameFull] has forwarded you a list of nobility that was invited to the ball and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the ball. If anything happens to any of the guests, the grand ball will be cancelled. \nDeserters might use this opportunity to launch an assassination attempt.\n\n\n			</li>
+-->
+<VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->les [lodgersLabelPlural]</li>
+    <li>joinerEnding->Vous pourrez contrôler [lodgersDef] de la même façon que vos propres colons.[specialNeedsExplanation]</li>
+    <li>theirHisHer(nobleCount==1)->son</li>
+    <li>theirHisHer(nobleCount>=2)->leur</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->ils</li>
+    <li>lodgersWasWere(nobleCount==1)->était</li>
+    <li>lodgersWasWere(nobleCount>=2)->étaient</li>
+    <li>appreciateAppreciates(nobleCount==1)->apprécie</li>
+    <li>appreciateAppreciates(nobleCount>=2)->apprécient</li>
+    <li>questDescription->[asker_nameFull], [asker_royalTitleInCurrentFaction] de [asker_faction_name] aimerait que vous organisiez un grand bal. C'est une excellente occasion de faire des commérages nobles et de nouer des relations avec d'autres membres de la noblesse impériale.\n\nVous êtes tenu de disposer d'une salle de bal dans votre colonie. Si, à un moment donné, la salle de bal est détruite ou si les instruments qu'elle comporte deviennent inutilisables, le grand bal sera annulé.\n\n[asker_nameFull] vous a fait parvenir la liste de la noblesse qui a été invitée au bal et qui arrivera par navette :\n[noblesDetailList]\n\nVous devrez vous assurer que les invités sont en sécurité et à l'aise pendant le bal. Si quelque chose arrive à l'un des invités, le grand bal sera annulé.\n\nLes déserteurs pourraient profiter de cette occasion pour lancer une tentative d'assassinat.</li>
+</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
+<!-- EN: questName->[lodgerIndef] desires a grand ball -->
+<VFEE_GrandBall.questNameRules.rulesStrings.0>questName->[lodgerIndef] désire un grand bal</VFEE_GrandBall.questNameRules.rulesStrings.0>
+<!-- EN: lodgerIndef->a royal -->
+<VFEE_GrandBall.questNameRules.rulesStrings.1>lodgerIndef->un membre de la famille royale</VFEE_GrandBall.questNameRules.rulesStrings.1>
+<!-- EN: lodgerIndef->a noble -->
+<VFEE_GrandBall.questNameRules.rulesStrings.2>lodgerIndef->un noble</VFEE_GrandBall.questNameRules.rulesStrings.2>
+
+
+<!-- EN:
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->last</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.</li>
+    <li>othersWillNotAccept->The {PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is} not willing to accept this</li>
+    <li>oneOfThe->one of the nobles you invited to stay with you</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested: Departure</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget->{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.</li>
+    <li>lodgerPsychicRitualTargetLabel->[lodgersLabel] Psychic Ritual: Departure</li>
+    <li>lodgerPsychicRitualTargetText->[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed</li>
+    <li>ShuttleDestroyedLabel->[lodgersLabel] Shuttle destroyed: Departure</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>letterIntroBadMood->{SUBJECT_definite}, [oneOfThe], who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long.</li>
+    <li>nobleUnhappyLetterLabel->[lodgersLabel] unhappy</li>
+    <li>nobleUnhappyLetterText->[letterIntroBadMood]\n\n[decidedToLeave]</li>
+    <li>lodgerLeftNotAllHealthyLetterLabel->[lodgersLabel] : untreated</li>
+    <li>lodgerLeftNotAllHealthyLetterText->[lodgersLabel] left the map with injuries and wll not have fond memories of their visit</li>
+    <li>LetterLabelShuttleArrived->Shuttle arrived</li>
+    <li>LetterTextShuttleArrived->The shuttle has arrived to collect [asker_nameFull] and their court</li>
+    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] left healthy</li>
+    <li>lodgersLeavingLetterText->[asker_nameFull] thanks you for inviting them to stay at [map_definite] for these [questDurationTicks_duration].</li>
+-->
+<VFEE_NobleVisit.questContentRules.rulesStrings>
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->derniers</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->[othersWillNotAccept], et ont décidé de partir.</li>
+    <li>othersWillNotAccept->Les autres ne sont pas prêts à l'accepter</li>
+    <li>oneOfThe->un des nobles que vous avez convié chez-vous</li>
+    <li>questOver->La quête "[resolvedQuestName]" est terminée.</li>
+    <!-- Interaction response-->
+    <li>letterIntroArrested->Vous avez arrêté {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrêté : Départ</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] est décédé.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] mort : Départ</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], a été charcuté lors d'une opération médicale.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] chirurgie : Départ</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], a été enlevé.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] kidnappé : Départ</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], a été banni.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] banni : Départ</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, a été détruit.</li>
+    <li>ShuttleDestroyedLabel->[lodgersLabel] navette détruite : Départ</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <!--Bad Mood-->
+    <li>letterIntroBadMood->{SUBJECT_definite}, [oneOfThe], que vous avez été chargé de protéger et de garder heureu{SUBJECT_gender ? x : se }, est resté{SUBJECT_gender ? : e } trop longtemps sous le seuil d'humeur minimum de [lodgersMoodThreshold].</li>
+    <li>nobleUnhappyLetterLabel->[lodgersLabel] malheureux</li>
+    <li>nobleUnhappyLetterText->[letterIntroBadMood]\n\n[decidedToLeave]</li>
+    <!--Left Injured-->
+    <li>lodgerLeftNotAllHealthyLetterLabel->[lodgersLabel] : non soigné</li>
+    <li>lodgerLeftNotAllHealthyLetterText->[lodgersLabel] ont quitté la carte avec des blessures et ne garderont pas un bon souvenir de leur visite</li>
+    <!-- Quest completed -->
+    <li>LetterLabelShuttleArrived->La navette est arrivée</li>
+    <li>LetterTextShuttleArrived->La navette est arrivée pour récupérer [asker_nameFull] et sa cour</li>
+    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] repart en bonne santé</li>
+    <li>lodgersLeavingLetterText->[asker_nameFull] vous remercie de l'avoir invité à séjourner à [map_definite] pendant ces [questDurationTicks_duration].</li>
+</VFEE_NobleVisit.questContentRules.rulesStrings>
+<!-- EN:
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]</li>
+    <li>joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]</li>
+    <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> You'll need to satisfy any special royal needs the [lodgersLabelPlural] may have.</li>
+    <li>specialNeedsExplanation-></li>
+    <li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount>=2)->their</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->they</li>
+    <li>lodgersWasWere(nobleCount==1)->was</li>
+    <li>lodgersWasWere(nobleCount>=2)->were</li>
+    <li>appreciateAppreciates(nobleCount==1)->appreciates</li>
+    <li>appreciateAppreciates(nobleCount>=2)->appreciate</li>
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], satisfy [asker_possessive] royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_royalTitleInCurrentFaction] will bring two of [asker_possessive] personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.</li>
+    <li>questDescription(nobleCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], and [asker_possessive] royal court of [nobleCountLessOne] nobles and satisfy their royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_nameFull] will bring two of his personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.</li>
+    <li>allyAllies(lodgersCountMinusOne==1)->ally</li>
+    <li>allyAllies(lodgersCountMinusOne>=2)->allies</li>
+-->
+<VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->les [lodgersLabelPlural]</li>
+    <li>joinerEnding->Vous pourrez contrôler [lodgersDef] de la même façon que vos propres colons.[specialNeedsExplanation]</li>
+    <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)->Vous devrez satisfaire tous les besoins particuliers de la royauté que les [lodgersLabelPlural] pourraient avoir.</li>
+    <li>specialNeedsExplanation-></li>
+    <li>theirHisHer(nobleCount==1)->son</li>
+    <li>theirHisHer(nobleCount>=2)->leur</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->ils</li>
+    <li>lodgersWasWere(nobleCount==1)->était</li>
+    <li>lodgersWasWere(nobleCount>=2)->étaient</li>
+    <li>appreciateAppreciates(nobleCount==1)->apprécie</li>
+    <li>appreciateAppreciates(nobleCount>=2)->apprécient</li>
+    <li>questDescription->[asker_nameFull], [asker_royalTitleInCurrentFaction] de [asker_faction_name] souhaite effectuer une visite coutumière. Invitez-{asker_gender ? le : la }, répondez à ses besoins royaux pendant [shuttleDelayTicks_duration], et vous gagnerez une grande quantité d'honneur. Pendant sa visite, vous devez maintenir son humeur au-dessus de [lodgersMoodThreshold_percent]. Cela signifie que vous devez lui fournir des avantages royaux, comme une chambre somptueuse.\n\n{asker_gender ? Le : La } [asker_royalTitleInCurrentFaction] fera venir deux de ses gardes personnels et les placera sous votre commandement. Vous devrez héberger ces gardes, mais {asker_gender ? le : la } [asker_royalTitleInCurrentFaction] ne se plaindra pas s'ils sont mécontents ou tués.\n\nVous devez garder les invités à [map_definite] et ne pas les envoyer ailleurs. Si vous échouez cette quête ou si vous migrez, les relations avec la faction de [asker_nameFull] se dégraderont et vous perdrez de l’honneur.</li>
+    <li>questDescription(nobleCount>=2)->[asker_nameFull], [asker_royalTitleInCurrentFaction] de [asker_faction_name] souhaite effectuer une visite coutumière. Invitez sa cour royale composée de [nobleCountLessOne] nobles et répondez à leurs besoins royaux pendant [shuttleDelayTicks_duration], et vous gagnerez beaucoup d'honneur. Pendant leurs visites, vous devez maintenir leurs humeurs au-dessus de [lodgersMoodThreshold_percent]. Cela signifie que vous devez leurs fournir des avantages royaux, comme une chambre somptueuse.\n\n[asker_nameFull] amènera deux de ses gardes personnels et les placera sous votre commandement. Vous devez les héberger, mais {asker_gender ? le : la } [asker_royalTitleInCurrentFaction] ne se plaindra pas s'ils sont mécontents ou tués.\n\nVous devez garder les invités à [map_definite] et ne pas les envoyer ailleurs. Si vous échouez cette quête ou si vous migrez, les relations avec la faction de [asker_nameFull] se dégraderont et vous perdrez de l’honneur.</li>
+    <li>allyAllies(lodgersCountMinusOne==1)->allié</li>
+    <li>allyAllies(lodgersCountMinusOne>=2)->alliés</li>
+</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+<!-- EN:
+    <li>questName(sameQuestsCount==0)->[asker_nameDef]’s visit</li>
+    <li>questName->hosting [lodgerIndef]</li>
+    <li>questName->[lodgerIndef] visit</li>
+    <li>lodgerIndef(nobleCount==1)->a royal</li>
+    <li>lodgerIndef(nobleCount==1)->a noble</li>
+    <li>lodgerIndef(nobleCount>=2)->royals</li>
+    <li>lodgerIndef(nobleCount>=2)->nobles</li>
+-->
+<VFEE_NobleVisit.questNameRules.rulesStrings>
+    <li>questName(sameQuestsCount==0)->Visite de [asker_nameDef]</li>
+    <li>questName->accueillir [lodgerIndef]</li>
+    <li>questName->[lodgerIndef] en visite</li>
+    <li>lodgerIndef(nobleCount==1)->un membre de la famille royale</li>
+    <li>lodgerIndef(nobleCount==1)->un noble</li>
+    <li>lodgerIndef(nobleCount>=2)->des membres de la famille royale</li>
+    <li>lodgerIndef(nobleCount>=2)->des nobles</li>
+</VFEE_NobleVisit.questNameRules.rulesStrings>
+
+
+<!-- EN:
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->last</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->Are leaving immediately, and will not remember this event fondly!</li>
+    <li>oneOfThe->one of the nobles visting for the parade</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>CeremonyFailedLetterLabel->Parade failed</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Parade. [asker_pronoun] is leaving with [asker_possessive] guests</li>
+    <li>CeremonyTimeoutLetterLabel->Parade failed</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the Parade. [asker_pronoun] is leaving with [asker_possessive] guests.</li>
+    <li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget->{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.</li>
+    <li>lodgerPsychicRitualTargetLabel->[lodgersLabel] Psychic Ritual: Departure</li>
+    <li>lodgerPsychicRitualTargetText->[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed</li>
+    <li>ShuttleDestroyedLabel->Shuttle destroyed: Parade Failed</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>raidArrivedLetterLabel->Deserter assasination attempt</li>
+    <li>raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the parade and assasinate the [stellarch_nameFull]\n\nThe parade must not be interrupted for any reason!</li>
+    <li>ParadeSuccessLetterLetterLabel->Parade Success</li>
+    <li>ParadeSuccessLetterText->The shuttle is ready to depart with all those ascending with [stellarch_nameFull]. It will depart upon your command!</li>
+-->
+<VFEE_Parade.questContentRules.rulesStrings>
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->derniers</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->Ils partent immédiatement, et ne garderont pas un bon souvenir de cet événement !</li>
+    <li>oneOfThe->un des nobles en visite pour le défilé</li>
+    <li>questOver->La quête "[resolvedQuestName]" est terminée.</li>
+    <!--Ceremony failed-->
+    <li>CeremonyFailedLetterLabel->Le défilé a échoué</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] est déçu par votre incapacité à rendre le défilé agréable. [asker_pronoun] vous quitte avec ses invités</li>
+    <li>CeremonyTimeoutLetterLabel->Le défilé a échoué</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] en a eu assez de vous attendre pour commencer le défilé. [asker_pronoun] vous quitte avec ses invités.</li>
+    <!-- Interaction response-->
+    <li>letterIntroArrested->Vous avez arrêté {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrêté</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] est décédé.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] mort : Départ</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], a été charcuté lors d'une opération médicale.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] chirurgie : Départ</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], a été enlevé.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] kidnappé : Départ</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], a été banni.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] banni : Départ</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, a été détruit.</li>
+    <li>ShuttleDestroyedLabel->Navette détruite : Défilé annulé</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <!--raid-->
+    <li>raidArrivedLetterLabel->Tentative d'assassinat par des déserteurs</li>
+    <li>raidArrivedLetterText->Un groupe de déserteurs est arrivé pour tenter de perturber le défilé et d'assassiner {asker_gender ? le : la } [stellarch_nameFull].\n\nLe défilé ne doit pas être interrompu, quelque soit la raison !</li>
+    <!-- Quest completed -->
+    <li>ParadeSuccessLetterLetterLabel->Succès du défilé</li>
+    <li>ParadeSuccessLetterText->La navette est prête à partir avec tous ceux qui suivent [stellarch_nameFull]. Elle partira à votre signal !</li>
+</VFEE_Parade.questContentRules.rulesStrings>
+<!-- EN:
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]</li>
+    <li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount>=2)->their</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->they</li>
+    <li>lodgersWasWere(nobleCount==1)->was</li>
+    <li>lodgersWasWere(nobleCount>=2)->were</li>
+    <li>appreciateAppreciates(nobleCount==1)->appreciates</li>
+    <li>appreciateAppreciates(nobleCount>=2)->appreciate</li>
+    <li>questDescription->[stellarch_nameFull] has reached the peak of what they can achieve from a surface of the rim world. In order to progress further in the grand hierarchy and become the right hand of Emperor [emperor_nameFull], [stellarch_nameFull] needs to partake in a traditional ascension parade, after which they will depart on a shuttle and join the Emperor.\nParade of this magnitude is bound to draw the attention of deserters.\nOnce you accept this quest, you will have 5 days to prepare for the parade. Consider improving your defenses and working out contingency plans, as it is difficult to say which way the parade will move. At all times you will have to keep the parade safe from harm.\nKeep an eye on any rivals or enemies of [stellarch_nameFull], as they might decide it’s a good time to make a move and claim the power for themselves.\nThe shuttle will arrive bringing the highest ranking nobility to the parade. You will be responsible for providing the security for the event. After the parade starts, it will slowly move through the map for 12 hours, after which everyone, including [stellarch_nameFull], will board the shuttle and depart.\n\n\n\n			</li>
+-->
+<VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->les [lodgersLabelPlural]</li>
+    <li>theirHisHer(nobleCount==1)->son</li>
+    <li>theirHisHer(nobleCount>=2)->leur</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->ils</li>
+    <li>lodgersWasWere(nobleCount==1)->était</li>
+    <li>lodgersWasWere(nobleCount>=2)->étaient</li>
+    <li>appreciateAppreciates(nobleCount==1)->apprécie</li>
+    <li>appreciateAppreciates(nobleCount>=2)->apprécient</li>
+    <li>questDescription->[stellarch_nameFull] a atteint le sommet de ce qu'il peut réaliser à partir de la surface du monde de la Bordure. Pour progresser dans la grande hiérarchie et devenir le bras droit de l'empereur [emperor_nameFull], [stellarch_nameFull] doit participer à un défilé traditionnel d'ascension, après quoi [stellarch_pronoun] embarquera dans une navette pour rejoindre l'empereur.\n\nUn défilé de cette ampleur ne peut qu'attirer l'attention des déserteurs.\n\nUne fois que vous aurez accepté cette quête, vous aurez 5 jours pour vous préparer au défilé. Pensez à améliorer vos défenses et à élaborer des plans d'urgence, car il est difficile de prévoir la direction que le défilé prendra. À tout moment, vous devrez veiller à ce que le défilé soit à l'abri du danger.\n\nGardez un œil sur les rivaux ou les ennemis de [stellarch_nameFull], car ils pourraient considérer que c'est le bon moment pour agir et s'approprier le pouvoir.\n\nLa navette arrivera, amenant la plus haute noblesse au défilé. Vous serez chargé d'assurer la sécurité de l'événement. Une fois le défilé commencé, il se déplacera lentement sur la carte pendant 12 heures, après quoi tout le monde, y compris [stellarch_nameFull], embarquera dans la navette et partira.</li>
+</VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+<!-- EN: questName->High Stellarch Ascension -->
+<VFEE_Parade.questNameRules.rulesStrings.0>questName->Ascension du Haut Stellaire</VFEE_Parade.questNameRules.rulesStrings.0>
+
+
+</LanguageData>

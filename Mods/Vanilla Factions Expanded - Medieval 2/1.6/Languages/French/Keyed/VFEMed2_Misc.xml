@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!-- Apiary -->
+<!-- EN: The apiary needs to be tended to -->
+<VFEM2_NeedTend>La ruche doit être entretenue.</VFEM2_NeedTend>
+<!-- EN: The apiary is resting because the ambient temperature is below 10°C -->
+<VFEM2_Resting>La ruche est au repos car la température ambiante est inférieure à 10°C.</VFEM2_Resting>
+<!-- EN: Honey ready -->
+<VFEM2_Ready>Miel prêt</VFEM2_Ready>
+<!-- EN: The apiary needs {0} more flowers around it for bees to forage around. -->
+<VFEM2_NeedFlower>La ruche a besoin de {0} fleurs supplémentaire{0_multiple ? s : } autour d'elle pour que les abeilles puissent butiner.</VFEM2_NeedFlower>
+<!-- EN: The apiary needs tending in {0} -->
+<VFEM2_NeedTIn>La ruche a besoin d'être entretenue dans {0}.</VFEM2_NeedTIn>
+<!-- EN: The apiary needs to be three cells away from any other apiaries -->
+<VFEM2_PlaceWorker>La ruche doit être éloignée de trois cases des autres ruches.</VFEM2_PlaceWorker>
+<!-- EN: The apiary can't be built under a roof -->
+<VFEM2_PlaceWorkerNoRoof>La ruche ne peut pas être construite sous un toit.</VFEM2_PlaceWorkerNoRoof>
+<!-- EN: Animal skill too low, needs 5 -->
+<VFEM2_BelowAnimalSkill>La compétence animaux est trop faible, nécessite 5 au minimum.</VFEM2_BelowAnimalSkill>
+<!-- EN: Tending failed -->
+<VFEM2_TendingFailed>Échec de l'entretien</VFEM2_TendingFailed>
+
+<!-- Mead barrel -->
+<!-- EN: This mead fermenting barrel is not working at the moment -->
+<VFEM2_MeadFermentingBarrelNotWorking>Ce tonneau de fermentation d'hydromel ne fonctionne pas pour le moment.</VFEM2_MeadFermentingBarrelNotWorking>
+
+<!-- Wine barrel -->
+<!-- EN: This wine fermenting barrel is not working at the moment -->
+<VFEM2_WineBarrelNotWorking>Ce tonneau de fermentation du vin ne fonctionne pas pour le moment.</VFEM2_WineBarrelNotWorking>
+
+<!-- Leather boil pot -->
+<!-- EN: This boil pot is not working at the moment -->
+<VFEM2_BoilPotNotWorking>Cette marmite ne fonctionne pas pour le moment.</VFEM2_BoilPotNotWorking>
+
+<!-- Heraldic -->
+<!-- EN: Edit Heraldry -->
+<VFEM2_StyleHeraldics>Modifier l'héraldique</VFEM2_StyleHeraldics>
+<!-- EN: Pattern -->
+<VFEM2_SetPattern>Modèle</VFEM2_SetPattern>
+<!-- EN: Symbol -->
+<VFEM2_SetSymbol>Symbole</VFEM2_SetSymbol>
+<!-- EN: Edit Faction -->
+<VFEM2_EditFactionHeraldry>Modifier la faction</VFEM2_EditFactionHeraldry>
+<!-- EN: Edit Target -->
+<VFEM2_EditThingHeraldry>Modifier la sélection</VFEM2_EditThingHeraldry>
+<!-- EN: Reset -->
+<VFEM2_ResetToFaction>Réinitialiser</VFEM2_ResetToFaction>
+
+<!-- Misc -->
+<!-- EN: Timbered wall: +50% -->
+<VFEM2_StatsReport_Flammability>Mur en bois: +50%</VFEM2_StatsReport_Flammability>
+<!-- EN: {0} has been improved to {1} quality level due to the smithing anvil. -->
+<VFEM2_ItemImproved_Anvil>Le niveau de qualité de {0} a été amélioré à {1} grâce à l'enclume de forge.</VFEM2_ItemImproved_Anvil>
+<!-- EN: {0} has been improved to {1} quality level due to the stone polisher. -->
+<VFEM2_ItemImproved_Polisher>Le niveau de qualité de {0} a été amélioré à {1} grâce à la pierre à polir.</VFEM2_ItemImproved_Polisher>
+<!-- EN: Merchant caravan spawn count (scalable with world polulation size) -->
+<VFEM2_MerchantCaravanSpawnCount>Nombre d'apparitions de caravanes de marchands (modulable en fonction de la taille de la population mondiale)</VFEM2_MerchantCaravanSpawnCount>
+<!-- EN: Merchant's Guild will pack and move in: {0} -->
+<VFEM2_MerchantCaravanStayPeriod>La guilde des marchands pliera bagage dans {0}.</VFEM2_MerchantCaravanStayPeriod>
+<!-- EN: Barter with {0} -->
+<VFEM2_BarterWith>Troquer avec la {0}</VFEM2_BarterWith>
+<!-- EN: Barter fairness -->
+<VFEM2_BarterFairness>Équité du troc</VFEM2_BarterFairness>
+<!-- EN: In order to strike a deal with the Merchant's Guild, you need to provide them with enough goods for the deal to become fair. Value of every item is skewed in random direction slightly. Higher negotiation ability will increase the value of your items. -->
+<VFEM2_BarterExplanation>Pour conclure un marché avec la guilde des marchands, vous devez leur fournir suffisamment de marchandises pour que le troc soit équitable. La valeur de chaque objet est légèrement modifiée de façon aléatoire. Une meilleure capacité de négociation augmentera la valeur de vos objets.</VFEM2_BarterExplanation>
+<!-- EN: Barter -->
+<VFEM2_CommandBarter>Troquer</VFEM2_CommandBarter>
+<!-- EN: Barter with this merchant guild. -->
+<VFEM2_CommandBarterDesc>Troque avec cette guilde des marchands.</VFEM2_CommandBarterDesc>
+
+<!-- EN: Merchant's guild camp destroyed -->
+<VFEM2_LetterLabelFactionBaseDefeated>camp de la guilde des marchands détruit</VFEM2_LetterLabelFactionBaseDefeated>
+<!-- EN: The merchant's guild camp has been destroyed. -->
+<VFEM2_LetterFactionBaseDefeated>Le camp de la guilde des marchands a été détruit.</VFEM2_LetterFactionBaseDefeated>
+<!-- EN: Since this was their last camp, {0} has been defeated. -->
+<VFEM2_LetterFactionBaseDefeated_FactionDestroyed>Comme il s'agissait de leur dernier camp, la {0} a été vaincu.</VFEM2_LetterFactionBaseDefeated_FactionDestroyed>
+<!-- EN: Due to the amount of completed research projects, the research  cost is increased to: {0} -->
+<VFEM_MaynardMedievalResearchModifier>En raison du nombre de projets de recherche achevés, le coût de la recherche est augmenté à : {0}</VFEM_MaynardMedievalResearchModifier>
+<!-- EN: A group of vikings from {0} have arrived nearby.\nThey will attempt to burn your colony down, stealing whatever they can before they leave.\nPrepare a defense or attack them preemptively. -->
+<VFEM_PillageRaidDesc>Un groupe de vikings de {0} est arrivé dans les environs.\nIls vont tenter de brûler votre colonie et de voler tout ce qu'ils peuvent avant de partir.\nPréparez votre défense ou attaquez-les de manière préventive.</VFEM_PillageRaidDesc>
+
+
+</LanguageData>

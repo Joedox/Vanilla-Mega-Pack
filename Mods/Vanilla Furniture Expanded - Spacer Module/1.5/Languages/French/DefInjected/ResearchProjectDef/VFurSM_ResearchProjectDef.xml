@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: spacer electronics -->
+<SpacerElectronics.label>électronique spatial</SpacerElectronics.label>
+<!-- EN: Build advanced electronics usually only seen in advanced colonies and glitterworld buildings. -->
+<SpacerElectronics.description>Vous permet de construire des équipements avancés, aperçus habituellement, dans les colonies ou les bâtiments d'un monde avancé.</SpacerElectronics.description>
+<!-- EN:
+  <li>subject->circuitry of the cosmos</li>
+  <li>subject_story->engineered electronics that push the boundaries of what's possible, powering devices that were once the realm of science fiction</li>
+  <li>subject_story->brought glitterworld technologies to the hands of the colonists, elevating everyday experiences with unparalleled efficiency and ease</li>
+  <li>subject_gerund->unlocking the ultimate potential of electronic innovation</li>
+-->
+<SpacerElectronics.generalRules.rulesStrings>
+  <li>subject->les circuits du cosmos</li>
+  <li>subject_story->a conçu des appareils électroniques qui repoussent les limites du possible, alimentant des dispositifs qui relevaient autrefois du domaine de la science-fiction</li>
+  <li>subject_story->a mis les technologies du monde avancé entre les mains des colons, améliorant les expériences quotidiennes avec une efficacité et une facilité inégalées</li>
+  <li>subject_gerund->la libération du potentiel ultime de l'innovation électronique</li>
+</SpacerElectronics.generalRules.rulesStrings>
+
+<!-- EN: spacer furniture -->
+<SpacerFurniture.label>meubles spatial</SpacerFurniture.label>
+<!-- EN: Build advanced furniture usually only seen in advanced colonies and glitterworld buildings. -->
+<SpacerFurniture.description>Vous permet de construire des meubles avancés, aperçus habituellement, dans les colonies ou les bâtiments d'un monde avancé.</SpacerFurniture.description>
+<!-- EN:
+  <li>subject->furnishing the future</li>
+  <li>subject_story->unveiled furniture designs that blend elegance with advanced functionality, suitable for the most sophisticated of colonies</li>
+  <li>subject_story->introduced living solutions that adapt to their users, combining comfort with cutting-edge technology</li>
+  <li>subject_gerund->redefining space with furniture that's as smart as it is stylish</li>
+-->
+<SpacerFurniture.generalRules.rulesStrings>
+  <li>subject->l'ameublement de l'avenir</li>
+  <li>subject_story->a dévoilé des meubles qui allient élégance et fonctionnalité avancée, adaptés aux colonies les plus sophistiquées</li>
+  <li>subject_story->a présenté des solutions d'habitat qui s'adaptent à leurs utilisateurs, alliant confort et technologie de pointe</li>
+  <li>subject_gerund->la redéfinition de l'espace avec des meubles aussi intelligents qu'élégants</li>
+</SpacerFurniture.generalRules.rulesStrings>
+
+
+</LanguageData>

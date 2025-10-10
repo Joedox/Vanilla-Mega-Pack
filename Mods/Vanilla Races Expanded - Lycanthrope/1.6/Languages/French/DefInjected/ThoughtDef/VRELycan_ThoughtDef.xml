@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: light sensitivity -->
+<VRE_IntenseLightSensitivity.stages.light_sensitivity.label>sensibilité à la lumière</VRE_IntenseLightSensitivity.stages.light_sensitivity.label>
+<!-- EN: There is too much light here, it hurts! -->
+<VRE_IntenseLightSensitivity.stages.light_sensitivity.description>Il y a trop de lumière ici, j'ai mal !</VRE_IntenseLightSensitivity.stages.light_sensitivity.description>
+
+<!-- EN: light sensitivity -->
+<VRE_LightSensitivity.stages.light_sensitivity.label>sensibilité à la lumière</VRE_LightSensitivity.stages.light_sensitivity.label>
+<!-- EN: Light is unpleasant and hurts my eyes. -->
+<VRE_LightSensitivity.stages.light_sensitivity.description>La lumière est désagréable et me fait mal aux yeux.</VRE_LightSensitivity.stages.light_sensitivity.description>
+
+<!-- EN: afraid of light -->
+<VRE_Photophobia.stages.afraid_of_light.label>peur de la lumière</VRE_Photophobia.stages.afraid_of_light.label>
+<!-- EN: The light makes me so nervous. It's like it burns me with its intensity! -->
+<VRE_Photophobia.stages.afraid_of_light.description>La lumière me rend si nerveu{PAWN_gender ? x : se}. C'est comme si elle me brûlait par son intensité !</VRE_Photophobia.stages.afraid_of_light.description>
+
+
+<!-- EN: killed pack member -->
+<KilledPackMember.stages.killed_pack_member.label>a tué un membre de la meute</KilledPackMember.stages.killed_pack_member.label>
+
+<!-- EN: pack member {0} lost -->
+<LostPackMember.stages.pack_member_lost.label>membre de la meute {0}, perdu{0_gender ? : e}</LostPackMember.stages.pack_member_lost.label>
+<!-- EN: We lost a valuable pack member. Can they survive without their pack? -->
+<LostPackMember.stages.pack_member_lost.description>Nous avons perdu un membre précieux de notre meute. Peuvent-ils survivre sans la meute ?</LostPackMember.stages.pack_member_lost.description>
+
+<!-- EN: pack member {0} died -->
+<PackMemberDied.stages.pack_member_died.label>membre de la meute {0}, mort{0_gender ? : e}</PackMemberDied.stages.pack_member_died.label>
+<!-- EN: My pack member died. The pack is weaker. -->
+<PackMemberDied.stages.pack_member_died.description>Un membre de ma meute est mort. La meute est plus faible.</PackMemberDied.stages.pack_member_died.description>
+
+<!-- EN: pack member {0} sold -->
+<SoldPackMember.stages.pack_member_sold.label>membre de la meute {0}, vendu{0_gender ? : e}</SoldPackMember.stages.pack_member_sold.label>
+<!-- EN: We have just sold off a pack member. Can we really call ourselves a pack? -->
+<SoldPackMember.stages.pack_member_sold.description>Nous venons de vendre un membre de notre meute. Pouvons-nous vraiment nous appeler une meute ?</SoldPackMember.stages.pack_member_sold.description>
+<!-- EN: sold pack member -->
+<SoldPackMember.stages.pack_member_sold.labelSocial>membre de la meute vendu</SoldPackMember.stages.pack_member_sold.labelSocial>
+
+<!-- EN: pack mentality -->
+<VRE_PackMentality.stages.pack_mentality.label>esprit de meute</VRE_PackMentality.stages.pack_mentality.label>
+<!-- EN: Our pack grows stronger. The bigger the pack, the more comfortable we will feel. -->
+<VRE_PackMentality.stages.pack_mentality.description>Notre meute se renforce. Plus la meute est importante, plus nous nous sentons à l'aise.</VRE_PackMentality.stages.pack_mentality.description>
+
+
+</LanguageData>

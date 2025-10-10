@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: ancient autopistol -->
+<VQED_Gun_Autopistol_Ancient.label>ancien pistolet automatique</VQED_Gun_Autopistol_Ancient.label>
+<!-- EN: A battered, iron-framed sidearm from a long-forgotten army. Though its slide rattles and the finish is gone, it still fires reliably. Low stopping power and short range, but quick on the draw. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair. -->
+<VQED_Gun_Autopistol_Ancient.description>Une arme de poing abîmée, au cadre en fer, provenant d'une armée depuis longtemps oubliée. Bien que sa glissière cliquette et que sa finition soit abîmée, elle fonctionne encore de manière fiable. Faible pouvoir d'arrêt et courte portée, mais rapide à dégainer. En raison d'une grave détérioration, cette arme ne peut tirer qu'un nombre limité de coups avant de se briser irrémédiablement.</VQED_Gun_Autopistol_Ancient.description>
+<!-- EN: grip -->
+<VQED_Gun_Autopistol_Ancient.tools.grip.label>poignée</VQED_Gun_Autopistol_Ancient.tools.grip.label>
+<!-- EN: barrel -->
+<VQED_Gun_Autopistol_Ancient.tools.barrel.label>canon</VQED_Gun_Autopistol_Ancient.tools.barrel.label>
+<!-- EN: ancient autopistol -->
+<VQED_Gun_Autopistol_Ancient.verbs.Verb_Shoot.label>ancien pistolet automatique</VQED_Gun_Autopistol_Ancient.verbs.Verb_Shoot.label>
+
+<!-- EN: ancient LMG -->
+<VQED_Gun_LMG_Ancient.label>ancienne mitrailleuse</VQED_Gun_LMG_Ancient.label>
+<!-- EN: An aging belt-fed light machine gun, covered in grime and stamped with the markings of a bygone military. Its recoil is harsh, and its accuracy poor, but the sheer volume of fire can pin down or shred groups of enemies when it holds together long enough to do so. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair. -->
+<VQED_Gun_LMG_Ancient.description>Une vieille mitrailleuse légère à alimentation par courroie, couverte de crasse et portant les marques d'une armée révolue. Son recul est important et sa précision médiocre, mais sa cadence de tir permet d'immobiliser ou de déchiqueter des groupes d'ennemis lorsqu'elle tient assez longtemps pour le faire. En raison d'une grave détérioration, cette arme ne peut tirer qu'un nombre limité de coups avant de se briser irrémédiablement.</VQED_Gun_LMG_Ancient.description>
+<!-- EN: stock -->
+<VQED_Gun_LMG_Ancient.tools.stock.label>crosse</VQED_Gun_LMG_Ancient.tools.stock.label>
+<!-- EN: barrel -->
+<VQED_Gun_LMG_Ancient.tools.barrel.label>canon</VQED_Gun_LMG_Ancient.tools.barrel.label>
+<!-- EN: ancient LMG -->
+<VQED_Gun_LMG_Ancient.verbs.Verb_Shoot.label>ancienne mitrailleuse</VQED_Gun_LMG_Ancient.verbs.Verb_Shoot.label>
+
+<!-- EN: ancient machine pistol -->
+<VQED_Gun_MachinePistol_Ancient.label>ancien pistolet-mitrailleur</VQED_Gun_MachinePistol_Ancient.label>
+<!-- EN: A relic of early automatic handgun design, once issued to infantry officers. Its crude construction and worn parts limit accuracy, but its compact size and high fire rate give it surprising lethality in close quarters. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair. -->
+<VQED_Gun_MachinePistol_Ancient.description>Un vestige des premiers modèles d'armes de poing automatiques, autrefois remis aux officiers d'infanterie. Sa fabrication rudimentaire et ses pièces usées limitent sa précision, mais sa taille compacte et sa cadence de tir élevée lui confèrent une létalité surprenante dans les espaces restreints. En raison d'une grave détérioration, cette arme ne peut tirer qu'un nombre limité de coups avant de se briser irrémédiablement.</VQED_Gun_MachinePistol_Ancient.description>
+<!-- EN: grip -->
+<VQED_Gun_MachinePistol_Ancient.tools.grip.label>poignée</VQED_Gun_MachinePistol_Ancient.tools.grip.label>
+<!-- EN: barrel -->
+<VQED_Gun_MachinePistol_Ancient.tools.barrel.label>canon</VQED_Gun_MachinePistol_Ancient.tools.barrel.label>
+<!-- EN: ancient machine pistol -->
+<VQED_Gun_MachinePistol_Ancient.verbs.Verb_Shoot.label>ancien pistolet-mitrailleur</VQED_Gun_MachinePistol_Ancient.verbs.Verb_Shoot.label>
+
+<!-- EN: ancient shotgun -->
+<VQED_Gun_PumpShotgun_Ancient.label>ancien fusil à pompe</VQED_Gun_PumpShotgun_Ancient.label>
+<!-- EN: A heavy, rust-pitted combat shotgun built for trench warfare. Fires a brutal spread of pellets at short range. Though cumbersome and slow to cycle, it remains deadly in confined spaces. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair. -->
+<VQED_Gun_PumpShotgun_Ancient.description>Un fusil à pompe de combat lourd et rongé par la rouille, conçu pour la guerre des tranchées. Il tire un nombre impressionnant de plombs à courte distance. Bien qu'encombrant et lent à actionner, il reste mortel dans les espaces confinés. En raison d'une grave détérioration, cette arme ne peut tirer qu'un nombre limité de coups avant de se briser irrémédiablement.</VQED_Gun_PumpShotgun_Ancient.description>
+<!-- EN: stock -->
+<VQED_Gun_PumpShotgun_Ancient.tools.stock.label>crosse</VQED_Gun_PumpShotgun_Ancient.tools.stock.label>
+<!-- EN: barrel -->
+<VQED_Gun_PumpShotgun_Ancient.tools.barrel.label>canon</VQED_Gun_PumpShotgun_Ancient.tools.barrel.label>
+<!-- EN: ancient shotgun -->
+<VQED_Gun_PumpShotgun_Ancient.verbs.Verb_Shoot.label>ancien fusil à pompe</VQED_Gun_PumpShotgun_Ancient.verbs.Verb_Shoot.label>
+
+
+<!-- EN: general’s cap -->
+<VQED_Apparel_GeneralsCap.label>casquette de général</VQED_Apparel_GeneralsCap.label>
+<!-- EN: A distinguished peaked cap with a stiff brim, adorned with embroidered insignia and a gilded band. While it offers little physical protection, its commanding design enhances the wearer's presence, greatly improving negotiation ability. -->
+<VQED_Apparel_GeneralsCap.description>Cette casquette distinguée à bords rigides est ornée d'insignes brodés et d'une bande dorée. Bien qu'elle n'offre qu'une faible protection physique, sa conception imposante renforce la présence de celui qui la porte, ce qui améliore grandement sa capacité de négociation.</VQED_Apparel_GeneralsCap.description>
+
+<!-- EN: general's insignia -->
+<VQED_Apparel_GeneralsInsignia.label>insigne de général</VQED_Apparel_GeneralsInsignia.label>
+<!-- EN: Decorative golden epaulettes adorned with braided aiguillette cord and a polished ceremonial clasp. Once worn by high-ranking officers, these insignia instill a sense of duty and composure, making the wearer less prone to mental breaks. -->
+<VQED_Apparel_GeneralsInsignia.description>Épaulettes décoratives dorées, ornées d'un cordon d'aiguillette tressé et d'un fermoir d'apparat poli. Autrefois portés par les officiers de haut rang, ces insignes confèrent un sens du devoir et du sang-froid, rendant leur porteur moins enclin aux crises de nerfs.</VQED_Apparel_GeneralsInsignia.description>
+
+<!-- EN: military coat -->
+<VQED_Apparel_MilitaryCoat.label>vareuse militaire</VQED_Apparel_MilitaryCoat.label>
+<!-- EN: A heavy military coat designed for harsh conditions, offering protection from cold, wind, and debris on the battlefield. Makes the wearer more confident. Since the coat has been mass-produced, individual items do not vary in quality at all. -->
+<VQED_Apparel_MilitaryCoat.description>Manteau militaire lourd conçu pour les conditions difficiles, offrant une protection contre le froid, le vent et les débris sur le champ de bataille. Il donne au porteur une plus grande confiance en lui. Le manteau ayant été produit en série, la qualité des pièces individuelles ne varie pas.</VQED_Apparel_MilitaryCoat.description>
+
+
+<!-- EN: ancient silo door -->
+<VQED_AncientSiloDoor.label>ancienne porte du silo</VQED_AncientSiloDoor.label>
+<!-- EN: A heavily reinforced door. It is slow to open but very strong. The door requires walls on either side to function. -->
+<VQED_AncientSiloDoor.description>Une porte lourdement renforcée. Elle est lente à ouvrir mais très solide. La porte nécessite des murs de chaque côté pour fonctionner.</VQED_AncientSiloDoor.description>
+
+<!-- EN: locked silo hatch -->
+<VQED_LockedSiloHatch.label>écoutille du silo verrouillée</VQED_LockedSiloHatch.label>
+<!-- EN: A sealed entrance to the deeper facility. Still structurally sound, but heavily pressurized. Can be forced open to allow access. -->
+<VQED_LockedSiloHatch.description>Une entrée scellée dans l'installation la plus profonde. Structurellement saine, mais fortement pressurisée. Elle peut être ouverte de force pour permettre l'accès.</VQED_LockedSiloHatch.description>
+<!-- EN: Choose someone to force the door open, allowing access to the underground silo. -->
+<VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>Choisissez quelqu'un pour forcer l'ouverture, ce qui vous permettra d'accéder au silo souterrain.</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>
+<!-- EN: Force open silo door -->
+<VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>Forcer l'ouverture...</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>
+<!-- EN: forcing door open: {1}s -->
+<VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>force l'ouverture de l'écoutille : {1}s</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>
+<!-- EN: forcing door open -->
+<VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>force l'ouverture de l'écoutille</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>
+<!-- EN: Choose who should do this -->
+<VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>Choisissez qui doit s'en charger...</VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>
+<!-- EN: Force this door open -->
+<VQED_LockedSiloHatch.comps.CompJammedAirlock.jobString>forcer l'ouverture de l'écoutille</VQED_LockedSiloHatch.comps.CompJammedAirlock.jobString>
+<!-- EN: {PAWN_nameDef} has successfully forced the door open. -->
+<VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} a réussi à forcer l'ouverture de l'écoutille.</VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>
+
+<!-- EN: silo exit staircase -->
+<VQED_SiloExitStaircase.label>escalier de sortie du silo</VQED_SiloExitStaircase.label>
+<!-- EN: A vertical return route to the surface. Rarely used, but still passable. -->
+<VQED_SiloExitStaircase.description>Une voie de retour verticale vers la surface. Rarement utilisé, mais toujours praticable.</VQED_SiloExitStaircase.description>
+
+<!-- EN: silo staircase -->
+<VQED_SiloStaircase.label>escalier du silo</VQED_SiloStaircase.label>
+<!-- EN: A reinforced accessway to the lower levels. Coated in dust and stale air. -->
+<VQED_SiloStaircase.description>Un accès renforcé aux niveaux inférieurs. Recouvert de poussière et d'air vicié.</VQED_SiloStaircase.description>
+
+<!-- EN: stuck ancient silo door -->
+<VQED_StuckAncientSiloDoor.label>ancienne porte du silo bloquée</VQED_StuckAncientSiloDoor.label>
+<!-- EN: A heavily reinforced door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function. -->
+<VQED_StuckAncientSiloDoor.description>Une porte fortement renforcée. En raison d'un dysfonctionnement ou d'un dommage, il faut la forcer pour l'ouvrir. Elle est lente à ouvrir mais très solide. La porte nécessite des murs de chaque côté pour fonctionner.</VQED_StuckAncientSiloDoor.description>
+<!-- EN: Choose someone to force this ancient silo door open. -->
+<VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>Choisissez quelqu'un pour forcer l'ouverture de cette ancienne porte du silo.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>
+<!-- EN: Force open... -->
+<VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>Forcer l'ouverture...</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>
+<!-- EN: forcing ancient silo door open: {1}s -->
+<VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>force l'ouverture de l'ancienne porte du silo : {1}s</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>
+<!-- EN: forcing ancient silo door open -->
+<VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>force l'ouverture de l'ancienne porte du silo</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>
+<!-- EN: Choose who should do this -->
+<VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>Choisissez qui doit s'en charger...</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>
+<!-- EN: Force this ancient silo door open -->
+<VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.jobString>forcer l'ouverture de l'ancienne porte du silo</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.jobString>
+<!-- EN: {PAWN_nameDef} has successfully forced the ancient silo door open. -->
+<VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} a réussi à forcer l'ouverture de l'ancienne porte du silo.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>
+
+
+<!-- EN: ancient passive lamp -->
+<VQED_AncientPassiveLamp.label>ancienne lampe passive</VQED_AncientPassiveLamp.label>
+<!-- EN: A passive illumination device. Emits a faint glow thanks to decaying long-life cells. -->
+<VQED_AncientPassiveLamp.description>Dispositif d'éclairage passif. Il émet une faible lueur grâce à des cellules longue durée en déclin.</VQED_AncientPassiveLamp.description>
+
+<!-- EN: ancient silo floodlight -->
+<VQED_AncientSiloFloodlight.label>ancien projecteur du silo</VQED_AncientSiloFloodlight.label>
+<!-- EN: A high-output floodlight installed for emergency lighting. Dims rapidly without reliable power. -->
+<VQED_AncientSiloFloodlight.description>Projecteur à haut rendement installé pour l'éclairage d'urgence. Il s'éteint rapidement en l'absence d'une alimentation fiable.</VQED_AncientSiloFloodlight.description>
+
+<!-- EN: ancient silo lamp -->
+<VQED_AncientSiloLamp.label>ancienne lampe du silo</VQED_AncientSiloLamp.label>
+<!-- EN: A hard-wired light source installed in the facility. Still capable of emitting weak light. -->
+<VQED_AncientSiloLamp.description>Source lumineuse câblée installée dans l'installation. Toujours capable d'émettre une faible lumière.</VQED_AncientSiloLamp.description>
+
+
+<!-- EN: opened weapon box -->
+<VQED_EmptyAncientWeaponBox.label>boîte d'arme ouverte</VQED_EmptyAncientWeaponBox.label>
+<!-- EN: A long, rotting wooden box that usually stores weapons. This one is empty. -->
+<VQED_EmptyAncientWeaponBox.description>Une longue boîte en bois pourrie qui sert habituellement à ranger les armes. Celle-ci est vide.</VQED_EmptyAncientWeaponBox.description>
+
+<!-- EN: empty military crate -->
+<VQED_EmptyMilitaryCrate.label>caisse militaire vide</VQED_EmptyMilitaryCrate.label>
+<!-- EN: An empty, rusted military crate. Its contents are long gone. -->
+<VQED_EmptyMilitaryCrate.description>Une caisse militaire vide et rouillée. Son contenu a disparu depuis longtemps.</VQED_EmptyMilitaryCrate.description>
+
+<!-- EN: empty military pallet -->
+<VQED_EmptyMilitaryPallet.label>palette militaire vide</VQED_EmptyMilitaryPallet.label>
+<!-- EN: An empty military pallet. If it held anything of value, it’s gone now. -->
+<VQED_EmptyMilitaryPallet.description>Une palette militaire vide. Si elle contenait des objets de valeur, ils ont disparu.</VQED_EmptyMilitaryPallet.description>
+
+<!-- EN: empty military box -->
+<VQED_EmptySmallMilitaryCrate.label>boîte militaire vide</VQED_EmptySmallMilitaryCrate.label>
+<!-- EN: A small, rusted and empty military box. Anything of value is gone. -->
+<VQED_EmptySmallMilitaryCrate.description>Une petite boîte militaire rouillée et vide. Tout ce qui avait de la valeur a disparu.</VQED_EmptySmallMilitaryCrate.description>
+
+<!-- EN: military crate of bioferrite -->
+<VQED_MilitaryCrateOfBioferrite.label>caisse militaire de bioferrite</VQED_MilitaryCrateOfBioferrite.label>
+<!-- EN: A rusted military crate, packed to the brim with bioferrite, extracted from some mysterious source by the ancient military. -->
+<VQED_MilitaryCrateOfBioferrite.description>Une caisse militaire rouillée, remplie à ras bord de bioferrite, extraite d'une source mystérieuse par des anciens militaires.</VQED_MilitaryCrateOfBioferrite.description>
+
+<!-- EN: military crate of deadlife shells -->
+<VQED_MilitaryCrateOfDeadlifeShells.label>caisse militaire d'obus de résurrection</VQED_MilitaryCrateOfDeadlifeShells.label>
+<!-- EN: A rusted military crate with deadlife shells. These artillery shells are packed with a dust-like substance that, after exploding into a cloud, will settle on nearby human and animal corpses and raise them as shamblers. Many of those shells have lost their potency, but some may still work. -->
+<VQED_MilitaryCrateOfDeadlifeShells.description>Une caisse militaire rouillée contenant des obus de résurrection. Ces obus d'artillerie sont remplis d'une substance semblable à de la poussière qui, après avoir explosé en un nuage, se dépose sur les cadavres humains et animaux à proximité et les transforme en zombies. Beaucoup de ces obus ont perdu leur efficacité, mais certains peuvent encore fonctionner.</VQED_MilitaryCrateOfDeadlifeShells.description>
+
+<!-- EN: military crate of gold -->
+<VQED_MilitaryCrateOfGold.label>caisse militaire d'or</VQED_MilitaryCrateOfGold.label>
+<!-- EN: A rusted, military crate containing gold. The fact that the silo has been sealed for generations prevented it from being stolen. -->
+<VQED_MilitaryCrateOfGold.description>Une caisse militaire rouillée contenant de l'or. Le fait que le silo ait été scellé depuis des générations l'a empêché d'être volé.</VQED_MilitaryCrateOfGold.description>
+
+<!-- EN: military crate of hemogen -->
+<VQED_MilitaryCrateOfHemogen.label>caisse militaire d'hémogène</VQED_MilitaryCrateOfHemogen.label>
+<!-- EN: A rusted military crate containing some old hemogen packs, mostly expired. With the right mindset, it’s possible to extract some hemogen packs from it. -->
+<VQED_MilitaryCrateOfHemogen.description>Une caisse militaire rouillée contenant de vieux packs d'hémogène, pour la plupart périmés. Avec un bon état d'esprit, il est possible d'extraire quelques packs d'hémogène.</VQED_MilitaryCrateOfHemogen.description>
+
+<!-- EN: military crate of medicine -->
+<VQED_MilitaryCrateOfMedicine.label>caisse militaire de médicaments</VQED_MilitaryCrateOfMedicine.label>
+<!-- EN: A rusted military crate containing advanced glitterworld medicine. While some of it may no longer be usable, it’s possible to recover a few intact boxes from the crate. -->
+<VQED_MilitaryCrateOfMedicine.description>Une caisse militaire rouillée contenant des médicaments avancés d'un monde avancé. Bien qu'une partie ne soit plus utilisable, il est possible de récupérer quelques boîtes intactes dans la caisse.</VQED_MilitaryCrateOfMedicine.description>
+
+<!-- EN: military crate of silver -->
+<VQED_MilitaryCrateOfSilver.label>caisse militaire d'argent</VQED_MilitaryCrateOfSilver.label>
+<!-- EN: A rusted, military crate containing silver. The fact that the silo has been sealed for generations prevented it from being stolen. -->
+<VQED_MilitaryCrateOfSilver.description>Une caisse militaire rouillée contenant de l'argent. Le fait que le silo ait été scellé depuis des générations l'a empêché d'être volé.</VQED_MilitaryCrateOfSilver.description>
+
+<!-- EN: military pallet of advanced car parts -->
+<VQED_MilitaryPalletOfAdvancedCarParts.label>palette militaire de pièces automobiles avancées</VQED_MilitaryPalletOfAdvancedCarParts.label>
+<!-- EN: Precision vehicle parts, packed with extreme care. These components were never meant to be used lightly. -->
+<VQED_MilitaryPalletOfAdvancedCarParts.description>Des pièces de véhicules de précision, emballées avec un soin extrême. Ces composants n'ont jamais été conçus pour être utilisés à la légère.</VQED_MilitaryPalletOfAdvancedCarParts.description>
+
+<!-- EN: military pallet of advanced components -->
+<VQED_MilitaryPalletOfAdvancedComponents.label>palette militaire de composants avancés</VQED_MilitaryPalletOfAdvancedComponents.label>
+<!-- EN: A rare cache of precision-engineered components, carefully preserved for use in high-tech systems. Remarkably intact. -->
+<VQED_MilitaryPalletOfAdvancedComponents.description>Une rare cache de composants de précision, soigneusement conservés pour être utilisés dans des systèmes high-tech. Remarquablement intacte.</VQED_MilitaryPalletOfAdvancedComponents.description>
+
+<!-- EN: military pallet of apparel -->
+<VQED_MilitaryPalletOfApparel.label>palette militaire de vêtements</VQED_MilitaryPalletOfApparel.label>
+<!-- EN: A crate of old military coats. Despite torn fabric and weird smell, they seem usable. -->
+<VQED_MilitaryPalletOfApparel.description>Une caisse de vieux manteaux militaires. Malgré le tissu déchiré et l'odeur bizarre, ils semblent utilisables.</VQED_MilitaryPalletOfApparel.description>
+
+<!-- EN: military pallet of basic car parts -->
+<VQED_MilitaryPalletOfBasicCarParts.label>palette militaire de pièces automobiles basiques</VQED_MilitaryPalletOfBasicCarParts.label>
+<!-- EN: A stack of labeled vehicle components, built for standard-issue transport units. Light corrosion on outer frames. -->
+<VQED_MilitaryPalletOfBasicCarParts.description>Une pile de composants de véhicules étiquetés, fabriqués pour des unités de transport standard. Légère corrosion sur les cadres extérieurs.</VQED_MilitaryPalletOfBasicCarParts.description>
+
+<!-- EN: military pallet of books -->
+<VQED_MilitaryPalletOfBooks.label>palette militaire de livres</VQED_MilitaryPalletOfBooks.label>
+<!-- EN: A crate of old books, many military-issue. Pages are slightly warped but readable, filled with technical and tactical data. -->
+<VQED_MilitaryPalletOfBooks.description>Une caisse de vieux livres, dont beaucoup sont d'origine militaire. Les pages sont légèrement déformées mais lisibles. Ils contiennent des données techniques et tactiques.</VQED_MilitaryPalletOfBooks.description>
+
+<!-- EN: military pallet of chemfuel -->
+<VQED_MilitaryPalletOfChemfuel.label>palette militaire de chemfuel</VQED_MilitaryPalletOfChemfuel.label>
+<!-- EN: A heavily marked pallet of sealed chemfuel containers. The liquid inside sloshes with worrying consistency. -->
+<VQED_MilitaryPalletOfChemfuel.description>Une palette lourdement marquée de conteneurs scellés de chemfuel. Le liquide qu'ils contiennent s'écoule avec une consistance inquiétante.</VQED_MilitaryPalletOfChemfuel.description>
+
+<!-- EN: military pallet of industrial components -->
+<VQED_MilitaryPalletOfComponents.label>palette militaire de composants</VQED_MilitaryPalletOfComponents.label>
+<!-- EN: A reinforced pallet of industrial-grade components. Each part seems to be untouched since storage. -->
+<VQED_MilitaryPalletOfComponents.description>Une palette renforcée de composants de qualité industrielle. Chaque pièce semble ne pas avoir été touchée depuis son stockage.</VQED_MilitaryPalletOfComponents.description>
+
+<!-- EN: military pallet of high-explosive shells -->
+<VQED_MilitaryPalletOfHEShells.label>palette militaire d'obus hautements explosifs</VQED_MilitaryPalletOfHEShells.label>
+<!-- EN: An ammunition pallet loaded with high-explosive artillery shells. Armed and dangerous. -->
+<VQED_MilitaryPalletOfHEShells.description>Une palette de munitions chargée d'obus d'artillerie hautements explosifs. Armé et dangereux.</VQED_MilitaryPalletOfHEShells.description>
+
+<!-- EN: military pallet of hyperweave -->
+<VQED_MilitaryPalletOfHyperweave.label>palette militaire d'hyperfibre</VQED_MilitaryPalletOfHyperweave.label>
+<!-- EN: A high-security fabric pallet containing rolls of hyperweave. The dense weave still resists tearing or decay. -->
+<VQED_MilitaryPalletOfHyperweave.description>Une palette de tissu de haute sécurité contenant des rouleaux d'hyperfibre. Le tissage dense résiste aux déchirures et à la décomposition.</VQED_MilitaryPalletOfHyperweave.description>
+
+<!-- EN: military pallet of incendiary shells -->
+<VQED_MilitaryPalletOfIncendiaryShells.label>palette militaire d'obus incendiaires</VQED_MilitaryPalletOfIncendiaryShells.label>
+<!-- EN: A cache of incendiary shells packed in insulated cases. Volatile, even after years of storage. -->
+<VQED_MilitaryPalletOfIncendiaryShells.description>Une cache d'obus incendiaires emballés dans des caisses hermétiques. Volatiles, même après des années de stockage.</VQED_MilitaryPalletOfIncendiaryShells.description>
+
+<!-- EN: military pallet of medicine -->
+<VQED_MilitaryPalletOfMedicine.label>palette militaire de médicaments</VQED_MilitaryPalletOfMedicine.label>
+<!-- EN: Boxes of standard-issue medical supplies, sealed against decay. Some packaging shows wear, but the contents remain viable. -->
+<VQED_MilitaryPalletOfMedicine.description>Des boîtes de fournitures médicales standard, scellées contre la décomposition. Certains emballages sont usés, mais le contenu reste viable.</VQED_MilitaryPalletOfMedicine.description>
+
+<!-- EN: military pallet of plasteel -->
+<VQED_MilitaryPalletOfPlasteel.label>palette militaire de plastacier</VQED_MilitaryPalletOfPlasteel.label>
+<!-- EN: A tightly packed pallet of dense, lightweight plasteel. Still in usable condition. -->
+<VQED_MilitaryPalletOfPlasteel.description>Une palette bien conditionnée de plastacier dense et léger. Encore utilisable.</VQED_MilitaryPalletOfPlasteel.description>
+
+<!-- EN: military pallet of rations -->
+<VQED_MilitaryPalletOfRations.label>palette militaire de rations</VQED_MilitaryPalletOfRations.label>
+<!-- EN: Stacks of packaged survival meals, labeled for long-term emergency use. Still sealed, still edible. Probably. -->
+<VQED_MilitaryPalletOfRations.description>Des piles de rations de survie emballées, étiquetées pour une utilisation à long terme en cas d'urgence. Toujours scellés, toujours comestibles. Probablement.</VQED_MilitaryPalletOfRations.description>
+
+<!-- EN: military pallet of steel -->
+<VQED_MilitaryPalletOfSteel.label>palette militaire d'acier</VQED_MilitaryPalletOfSteel.label>
+<!-- EN: A storage pallet stacked with steel beams. The metal shows signs of surface oxidation but remains structurally sound. -->
+<VQED_MilitaryPalletOfSteel.description>Une palette de stockage empilée avec des poutres en acier. Le métal présente des signes d'oxydation en surface mais reste structurellement sain.</VQED_MilitaryPalletOfSteel.description>
+
+<!-- EN: military pallet of synthread -->
+<VQED_MilitaryPalletOfSynthread.label>palette militaire de synthé</VQED_MilitaryPalletOfSynthread.label>
+<!-- EN: Rolls of synthetic fiber cloth wrapped and labeled for logistics. Faint chemical odor suggests it’s been stored for decades. -->
+<VQED_MilitaryPalletOfSynthread.description>Des rouleaux de tissu en fibres synthétiques emballés et étiquetés pour la logistique. Une légère odeur chimique suggère qu'ils ont été stockés pendant des décennies.</VQED_MilitaryPalletOfSynthread.description>
+
+<!-- EN: mysterious weapon crate -->
+<VQED_MysteriousAncientWeaponBox.label>caisse d'arme mystérieuse</VQED_MysteriousAncientWeaponBox.label>
+<!-- EN: A long, rotting wooden box that usually stores weapons. Can be opened, but there’s no way to tell what weapon is inside. -->
+<VQED_MysteriousAncientWeaponBox.description>Une longue boîte en bois pourrie qui contient généralement des armes. On peut l'ouvrir, mais il n'y a aucun moyen de savoir quelle arme se trouve à l'intérieur.</VQED_MysteriousAncientWeaponBox.description>
+
+<!-- EN: military box of flares -->
+<VQED_SmallMilitaryCrateOfFlares.label>boîte militaire de fusées</VQED_SmallMilitaryCrateOfFlares.label>
+<!-- EN: A small, rusted military box. It seems to contain some valuable disruptor flares. -->
+<VQED_SmallMilitaryCrateOfFlares.description>Une petite boîte militaire rouillée. Elle semble contenir de précieuses fusées disruptives.</VQED_SmallMilitaryCrateOfFlares.description>
+
+<!-- EN: military box with an ancient tome -->
+<VQED_SmallMilitaryCrateWithATome.label>boîte militaire avec un ancien tome</VQED_SmallMilitaryCrateWithATome.label>
+<!-- EN: A small, rusted military box. It seems to hold some creepy, ancient knowledge in the form of a tome. -->
+<VQED_SmallMilitaryCrateWithATome.description>Une petite boîte militaire rouillée. Elle semble contenir un ancien savoir effrayant sous la forme d'un tome.</VQED_SmallMilitaryCrateWithATome.description>
+
+
+<!-- EN: ancient burnout generator -->
+<VQED_AncientBurnoutGenerator.label>ancien générateur à compression</VQED_AncientBurnoutGenerator.label>
+<!-- EN: A compact generator built for short-term use. Needs to be kickstarted to work, and will only operate for a limited amount of time before it shuts down. It can then be kickstarted again. -->
+<VQED_AncientBurnoutGenerator.description>Un générateur compact conçu pour une utilisation à courte durée. Il doit être démarré avec la corde de démarrage pour fonctionner, et ne fonctionnera que pendant une durée limitée avant de s'éteindre. Peut être redémarré avec la corde de démarrage.</VQED_AncientBurnoutGenerator.description>
+<!-- EN: Choose someone to kickstart the burnout generator, creating a temporary power source. -->
+<VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>Choisissez quelqu'un pour démarrer le générateur à compression, créant ainsi une source d'énergie temporaire.</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>
+<!-- EN: Kickstart burnout generator -->
+<VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>Tirer la corde</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>
+<!-- EN: Kickstarting burnout generator: {1}s -->
+<VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>démarre le générateur à compression : {1}s</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>
+<!-- EN: Kickstarting burnout generator -->
+<VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>démarre le générateur à compression</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>
+<!-- EN: Choose who should do this -->
+<VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>Choisissez qui doit s'en charger...</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>
+<!-- EN: Kickstarting burnout generator -->
+<VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>Démarrer le générateur à compression</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>
+
+<!-- EN: industrial burnout generator -->
+<VQED_IndustrialBurnoutGenerator.label>générateur à compression industriel</VQED_IndustrialBurnoutGenerator.label>
+<!-- EN: A large emergency generator stored deep underground. Needs to be kickstarted to work, and will only operate for a limited amount of time before it shuts down. It can then be kickstarted again. -->
+<VQED_IndustrialBurnoutGenerator.description>Un grand générateur d'urgence entreposé dans les profondeurs de la terre. Il doit être démarré pour fonctionner, et ne fonctionnera que pendant une durée limitée avant de s'éteindre. Peut être redémarré avec la corde de démarrage.</VQED_IndustrialBurnoutGenerator.description>
+<!-- EN: Choose someone to kickstart the burnout generator, creating a temporary power source. -->
+<VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>Choisissez quelqu'un pour démarrer le générateur à compression, créant ainsi une source d'énergie temporaire.</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>
+<!-- EN: Kickstart burnout generator -->
+<VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>Tirer la corde</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>
+<!-- EN: Kickstarting burnout generator: {1}s -->
+<VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>démarre le générateur à compression : {1}s</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>
+<!-- EN: Kickstarting burnout generator -->
+<VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>démarre le générateur à compression</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>
+<!-- EN: Choose who should do this -->
+<VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>Choisissez qui doit s'en charger...</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>
+<!-- EN: Kickstarting burnout generator -->
+<VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>Démarrer le générateur à compression</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>
+
+
+<!-- EN: ancient fuel pipeline -->
+<VQED_AncientFuelPipeline.label>ancienne canalisation de carburant</VQED_AncientFuelPipeline.label>
+<!-- EN: A large fuel pipeline for transporting chemfuel. Now rusted and badly damaged. -->
+<VQED_AncientFuelPipeline.description>Un grand oléoduc pour le transport de chemfuel. Aujourd'hui, il est rouillé et gravement endommagé.</VQED_AncientFuelPipeline.description>
+
+<!-- EN: ancient hawk -->
+<VQED_AncientHawk.label>ancien faucon</VQED_AncientHawk.label>
+<!-- EN: An old fighter jet stored for future conflict. Time and corrosion have rendered it inoperative. -->
+<VQED_AncientHawk.description>Un ancien avion de chasse entreposé en vue d'un futur conflit. Le temps et la corrosion l'ont rendu inopérant.</VQED_AncientHawk.description>
+
+<!-- EN: ancient holding platform -->
+<VQED_AncientHoldingPlatform.label>ancienne plateforme de détention</VQED_AncientHoldingPlatform.label>
+<!-- EN: A reinforced platform meant to secure entities. The restraints are now inoperable. -->
+<VQED_AncientHoldingPlatform.description>Une plateforme renforcée destinée à sécuriser les entités. Les entraves sont désormais inopérantes.</VQED_AncientHoldingPlatform.description>
+
+<!-- EN: ancient landship -->
+<VQED_AncientLandship.label>ancien vaisseau terrestre</VQED_AncientLandship.label>
+<!-- EN: A massive land vehicle stored for a peculiar purpose, perhaps for war. Its systems are dead and decayed. -->
+<VQED_AncientLandship.description>Un véhicule terrestre massif entreposé dans un but particulier, peut-être pour la guerre. Ses systèmes sont morts et délabrés.</VQED_AncientLandship.description>
+
+<!-- EN: ancient military box -->
+<VQED_AncientMilitaryBox.label>ancienne boîte militaire</VQED_AncientMilitaryBox.label>
+<!-- EN: A compact supply box once ready for emergency use. Now warped from decades of exposure. -->
+<VQED_AncientMilitaryBox.description>Une boîte à provisions compacte, autrefois prête à être utilisée en cas d'urgence. Elle est aujourd'hui déformée par des décennies d'exposition.</VQED_AncientMilitaryBox.description>
+
+<!-- EN: ancient military crate -->
+<VQED_AncientMilitaryCrate.label>ancienne caisse militaire</VQED_AncientMilitaryCrate.label>
+<!-- EN: A sealed storage crate from a military cache. The contents have degraded or fused shut. -->
+<VQED_AncientMilitaryCrate.description>Une caisse de stockage scellée provenant d'une cache militaire. Le contenu s'est dégradé ou a fusionné.</VQED_AncientMilitaryCrate.description>
+
+<!-- EN: ancient ominous machinery -->
+<VQED_AncientOminousMachinery.label>ancienne machine sinistre</VQED_AncientOminousMachinery.label>
+<!-- EN: Complex equipment stored without documentation. Dust-clogged and inert after years of dormancy. -->
+<VQED_AncientOminousMachinery.description>Des équipements complexes stockés sans documentation. Obstrués par la poussière et inertes après des années d'inactivité.</VQED_AncientOminousMachinery.description>
+
+<!-- EN: ancient spool -->
+<VQED_AncientSpool.label>ancienne bobine</VQED_AncientSpool.label>
+<!-- EN: A large industrial spool for cabling or hose. Corrosion has rendered it brittle and unusable. -->
+<VQED_AncientSpool.description>Une grande bobine industrielle pour le câblage ou le tuyau. La corrosion l'a rendue cassante et inutilisable.</VQED_AncientSpool.description>
+
+<!-- EN: ancient tank -->
+<VQED_AncientTank.label>ancien char d'assaut</VQED_AncientTank.label>
+<!-- EN: A preserved armored vehicle. Its electronics and hydraulics have deteriorated with age. -->
+<VQED_AncientTank.description>Un véhicule blindé préservé. Son électronique et son hydraulique se sont détériorés avec l'âge.</VQED_AncientTank.description>
+
+<!-- EN: buried death pit -->
+<VQED_BuriedDeathPit.label>fosse de la mort ensevelie</VQED_BuriedDeathPit.label>
+<!-- EN: An old containment pit now completely covered in twisted metal and scrap, preventing anything that lied dormant inside from crawling out. -->
+<VQED_BuriedDeathPit.description>Une ancienne fosse de confinement maintenant entièrement recouverte de métal déformé et de ferraille, empêchant tout ce qui dormait à l'intérieur de ramper vers l'extérieur.</VQED_BuriedDeathPit.description>
+
+<!-- EN: busted minigun turret -->
+<VQED_BustedMinigunTurret.label>tourelle minigun cassée</VQED_BustedMinigunTurret.label>
+<!-- EN: An old turret housing torn open by heavy impacts. The weapon system inside is shattered and inert. -->
+<VQED_BustedMinigunTurret.description>Un ancien châssis de tourelle éventré par de violents impacts. Le système d'armement à l'intérieur est brisé et inerte.</VQED_BustedMinigunTurret.description>
+
+<!-- EN: busted vehicle elevator -->
+<VQED_BustedVehicleElevator.label>élévateur de véhicules cassé</VQED_BustedVehicleElevator.label>
+<!-- EN: An old elevator platform designed to move heavy vehicles. Non-functional due to mechanical failure. -->
+<VQED_BustedVehicleElevator.description>Une ancienne plateforme élévatrice conçue pour déplacer des véhicules lourds. Non fonctionnelle en raison d'une défaillance mécanique.</VQED_BustedVehicleElevator.description>
+
+<!-- EN: damaged tire -->
+<VQED_DamagedTire.label>pneu endommagé</VQED_DamagedTire.label>
+<!-- EN: A spare tire stored too long in dry conditions. Its rubber has cracked and failed. -->
+<VQED_DamagedTire.description>Une roue de secours entreposée trop longtemps dans des conditions sèches. Son caoutchouc s'est craquelé et s'est rompu.</VQED_DamagedTire.description>
+
+<!-- EN: defunct terminal -->
+<VQED_DefunctTerminal.label>terminal défectueux</VQED_DefunctTerminal.label>
+<!-- EN: An ancient computer terminal. It’s disconnected from power, or simply not working. -->
+<VQED_DefunctTerminal.description>Un ancien terminal d'ordinateur. Il est déconnecté de l'alimentation électrique ou ne fonctionne tout simplement pas.</VQED_DefunctTerminal.description>
+
+<!-- EN: defunct terminal bank -->
+<VQED_DefunctTerminalBank.label>banque de terminal défectueuse</VQED_DefunctTerminalBank.label>
+<!-- EN: An ancient set of computer terminals. It’s disconnected from power, or simply not working. -->
+<VQED_DefunctTerminalBank.description>Un ancien ensemble de terminaux informatiques. Il est déconnecté de l'alimentation électrique ou ne fonctionne tout simplement pas.</VQED_DefunctTerminalBank.description>
+
+<!-- EN: empty ancient kennel -->
+<VQED_EmptyAncientKennel.label>ancien chenil vide</VQED_EmptyAncientKennel.label>
+<!-- EN: A large kennel that could hold several animals suspended in a deadlife dust-induced coma. It’s completely empty. -->
+<VQED_EmptyAncientKennel.description>Un grand chenil qui pourrait contenir plusieurs animaux suspendus dans un coma induit par la poussière de résurrection. Il est complètement vide.</VQED_EmptyAncientKennel.description>
+
+<!-- EN: large rotten crate -->
+<VQED_LargeRottenCrate.label>grande caisse pourrie</VQED_LargeRottenCrate.label>
+<!-- EN: A heavy-duty storage crate that has warped and splintered with time. -->
+<VQED_LargeRottenCrate.description>Une caisse de stockage résistante qui s'est déformée et s'est fendue avec le temps.</VQED_LargeRottenCrate.description>
+
+<!-- EN: mountain of casings -->
+<VQED_MountainOfCasings.label>montagne de douilles</VQED_MountainOfCasings.label>
+<!-- EN: A mass of rusted ammunition debris. Abandoned after an unknown training or malfunction event. -->
+<VQED_MountainOfCasings.description>Un amas de débris de munitions rouillées. Abandonné après un entraînement inconnu ou un dysfonctionnement.</VQED_MountainOfCasings.description>
+
+<!-- EN: old shipping container -->
+<VQED_OldShippingContainer.label>ancien conteneur d'expédition</VQED_OldShippingContainer.label>
+<!-- EN: A heavy shipping container once locked down for safety. Hinges are fused shut from rust. -->
+<VQED_OldShippingContainer.description>Un lourd conteneur d'expédition autrefois verrouillé pour des raisons de sécurité. Les charnières sont soudées pour éviter la rouille.</VQED_OldShippingContainer.description>
+
+<!-- EN: empty deadlife casket -->
+<VQED_OpenDeadlifeCasket.label>cercueil de résurrection vide</VQED_OpenDeadlifeCasket.label>
+<!-- EN: An ancient military casket that suspends a high ranking soldier using the deadlife particles. Whatever has lied inside is no longer there. -->
+<VQED_OpenDeadlifeCasket.description>Un ancien cercueil militaire qui suspend un soldat de haut rang à l'aide de particules de résurrection. Ce qui se trouvait à l'intérieur a disparu.</VQED_OpenDeadlifeCasket.description>
+
+<!-- EN: pile of casings -->
+<VQED_PileOfCasings.label>pile de douilles</VQED_PileOfCasings.label>
+<!-- EN: Old artillery casings swept into a pile. Likely remnants from storage-level live-fire testing. -->
+<VQED_PileOfCasings.description>Vieilles douilles d'artillerie empilées. Il s'agit probablement de restes d'essais de tir réel au niveau du stockage.</VQED_PileOfCasings.description>
+
+<!-- EN: rotten crate -->
+<VQED_RottenCrate.label>caisse pourrie</VQED_RottenCrate.label>
+<!-- EN: A wooden crate stored too close to moisture. It collapsed under its own weight. -->
+<VQED_RottenCrate.description>Une caisse en bois stockée trop près de l'humidité. Elle s'est effondrée sous son propre poids.</VQED_RottenCrate.description>
+
+<!-- EN: ruined large inhibitor (left) -->
+<VQED_RuinedInhibitorLeft.label>grand inhibiteur en ruine (gauche)</VQED_RuinedInhibitorLeft.label>
+<!-- EN: A containment structure of unknown function. Critical systems have failed from prolonged inactivity. -->
+<VQED_RuinedInhibitorLeft.description>Une structure de confinement dont la fonction est inconnue. Des systèmes critiques sont tombés en panne à cause d'une inactivité prolongée.</VQED_RuinedInhibitorLeft.description>
+
+<!-- EN: ruined large inhibitor (right) -->
+<VQED_RuinedInhibitorRight.label>grand inhibiteur en ruine (droit)</VQED_RuinedInhibitorRight.label>
+<!-- EN: A containment structure of unknown function. Critical systems have failed from prolonged inactivity. -->
+<VQED_RuinedInhibitorRight.description>Une structure de confinement dont la fonction est inconnue. Des systèmes critiques sont tombés en panne à cause d'une inactivité prolongée.</VQED_RuinedInhibitorRight.description>
+
+<!-- EN: rusted ancient cot -->
+<VQED_RustedAncientCot.label>ancien lit de camp rouillé</VQED_RustedAncientCot.label>
+<!-- EN: A rusted-out military cot. It offers little comfort. -->
+<VQED_RustedAncientCot.description>Un lit de camp militaire rouillé. Il offre peu de confort.</VQED_RustedAncientCot.description>
+
+<!-- EN: rusted barrel -->
+<VQED_RustedBarrel.label>tonneau rouillé</VQED_RustedBarrel.label>
+<!-- EN: A sealed industrial barrel. Its contents long dried or evaporated. -->
+<VQED_RustedBarrel.description>Un tonneau industriel scellé. Son contenu a séché ou s'est évaporé depuis longtemps.</VQED_RustedBarrel.description>
+
+<!-- EN: rusted immobilizer -->
+<VQED_RustedImmobilizer.label>immobilisateur rouillé</VQED_RustedImmobilizer.label>
+<!-- EN: A vertical restraint frame with metal straps and dark stains. Whatever was held here didn’t leave willingly. -->
+<VQED_RustedImmobilizer.description>Un cadre de contention vertical avec des sangles métalliques et des taches sombres. Ce qui était retenu ici ne partait pas de son plein gré.</VQED_RustedImmobilizer.description>
+
+<!-- EN: rusted stepladder -->
+<VQED_RustedStepladder.label>escabeau rouillé</VQED_RustedStepladder.label>
+<!-- EN: A maintenance ladder placed here long ago. Metal fatigue has made it unsafe to use. -->
+<VQED_RustedStepladder.description>Une échelle de maintenance a été placée ici il y a longtemps. La fatigue du métal a rendu son utilisation dangereuse.</VQED_RustedStepladder.description>
+
+<!-- EN: rusted toolbox -->
+<VQED_RustedToolbox.label>boîte à outils rouillée</VQED_RustedToolbox.label>
+<!-- EN: A heavy toolbox kept in reserve. The tools inside have fused with rust and dust. -->
+<VQED_RustedToolbox.description>Une lourde boîte à outils gardée en réserve. Les outils qui s'y trouvent ont fusionné avec la rouille et la poussière.</VQED_RustedToolbox.description>
+
+<!-- EN: tire pallet -->
+<VQED_TirePallet.label>palette de pneus</VQED_TirePallet.label>
+<!-- EN: An organized set of spare tires. Time has made them brittle and unsafe. -->
+<VQED_TirePallet.description>Un jeu organisé de pneus de rechange. Le temps les a détériorés et les a rendus dangereux.</VQED_TirePallet.description>
+
+<!-- EN: ancient tank -->
+<VQED_UnwrappedAncientTank.label>ancien char d'assaut</VQED_UnwrappedAncientTank.label>
+<!-- EN: A preserved armored vehicle. Its electronics and hydraulics have deteriorated with age. -->
+<VQED_UnwrappedAncientTank.description>Un véhicule blindé préservé. Son électronique et son hydraulique se sont détériorés avec l'âge.</VQED_UnwrappedAncientTank.description>
+
+<!-- EN: useless scrip pallet -->
+<VQED_UselessScripPallet.label>palette de billets inutiles</VQED_UselessScripPallet.label>
+<!-- EN: A rotting pallet stacked with damp paper slips. Possibly currency, though their purpose is lost to time. -->
+<VQED_UselessScripPallet.description>Une palette pourrie remplie de papiers humides. Peut-être de la monnaie, mais leur utilité s'est perdue avec le temps.</VQED_UselessScripPallet.description>
+
+
+<!-- EN: active terminal -->
+<VQED_ActiveTerminal.label>terminal actif</VQED_ActiveTerminal.label>
+<!-- EN: An ancient computer terminal. It seems to still be connected to power, with some cryptic defensive protocols ready to be activated by a person in charge. -->
+<VQED_ActiveTerminal.description>Un ancien terminal informatique. Il semble encore branché sur le courant, avec quelques protocoles de défense cryptés prêts à être activés par un responsable.</VQED_ActiveTerminal.description>
+
+<!-- EN: ancient desk -->
+<VQED_AncientDesk.label>ancien bureau</VQED_AncientDesk.label>
+<!-- EN: An old military desk. Nothing useful remains on it. -->
+<VQED_AncientDesk.description>Un vieux bureau militaire. Il n'y a plus rien d'utile dessus.</VQED_AncientDesk.description>
+
+<!-- EN: ancient kennel -->
+<VQED_AncientKennel.label>ancien chenil</VQED_AncientKennel.label>
+<!-- EN: A large kennel that could hold several animals suspended in a deadlife dust-induced coma. Seems secure enough, for now.\n\nThe General can activate this trap from one of the terminals in the command room. -->
+<VQED_AncientKennel.description>Un grand chenil qui pourrait contenir plusieurs animaux suspendus dans un coma induit par la poussière de résurrection. Cela semble assez sûr, pour le moment.\n\nLe général peut activer ce piège depuis l'un des terminaux de la salle de commandement.</VQED_AncientKennel.description>
+
+<!-- EN: ancient planning desk -->
+<VQED_AncientPlanningDesk.label>ancien bureau de planification</VQED_AncientPlanningDesk.label>
+<!-- EN: An old military desk containing battle maps and plans. Studying it may reveal the location of another ancient silo. -->
+<VQED_AncientPlanningDesk.description>Un vieux bureau militaire contenant des cartes et des plans de bataille. Son étude pourrait révéler l'emplacement d'un autre ancien silo.</VQED_AncientPlanningDesk.description>
+
+<!-- EN: closed chute -->
+<VQED_ClosedChute.label>bouche fermée</VQED_ClosedChute.label>
+<!-- EN: A closed chute with an unknown purpose.\n\nThe General can activate this trap from one of the terminals in the command room. -->
+<VQED_ClosedChute.description>Une bouche fermée avec une fonction inconnue.\n\nLe général peut activer ce piège depuis l'un des terminaux de la salle de commandement.</VQED_ClosedChute.description>
+
+<!-- EN: closed deadlife casket -->
+<VQED_ClosedDeadlifeCasket.label>cercueil de résurrection fermé</VQED_ClosedDeadlifeCasket.label>
+<!-- EN: An ancient military casket that suspends a high ranking soldier using the deadlife particles.\n\nThe General can activate this trap from one of the terminals in the command room. -->
+<VQED_ClosedDeadlifeCasket.description>Un ancien cercueil militaire qui suspend un soldat de haut rang à l'aide de particules de résurrection.\n\nLe général peut activer ce piège depuis l'un des terminaux de la salle de commandement.</VQED_ClosedDeadlifeCasket.description>
+
+<!-- EN: closed rotstink vent -->
+<VQED_ClosedRotstinkVent.label>évent pestilentiel fermé</VQED_ClosedRotstinkVent.label>
+<!-- EN: A large vent connected to some revolting storage of biomass. It seems to be shut off for now.\n\nThe General can activate this trap from one of the terminals in the command room. -->
+<VQED_ClosedRotstinkVent.description>Une grande bouche d'aération reliée à une réserve de biomasse révoltante. Il semble être fermé pour le moment.\n\nLe général peut activer ce piège depuis l'un des terminaux de la salle de commandement.</VQED_ClosedRotstinkVent.description>
+
+<!-- EN: dormant military turret -->
+<VQED_DormantMilitaryTurret.label>tourelle militaire dormante</VQED_DormantMilitaryTurret.label>
+<!-- EN: A dormant automatic turret. Belt-fed ammunition ensures it can fire continuously for long periods of time, but its dumb AI brain can't be directly controlled, which makes friendly fire likely. It seems to be inactive, for now.\n\nThe General can activate this trap from one of the terminals in the command room. -->
+<VQED_DormantMilitaryTurret.description>Une tourelle automatique dormante. Ses munitions alimentées par courroie lui permettent de tirer en continu pendant de longues périodes. Son cerveau IA limité ne peut pas être directement contrôlé, alors méfiez-vous des tirs fratricides. Elle semble être inactive, pour le moment.\n\nLe général peut activer ce piège depuis l'un des terminaux de la salle de commandement.</VQED_DormantMilitaryTurret.description>
+
+<!-- EN: eerie sarcophagus -->
+<VQED_EerieSarcophagus.label>sarcophage étrange</VQED_EerieSarcophagus.label>
+<!-- EN: A sealed black casket. It shows signs of internal pressure, but no visible access points. -->
+<VQED_EerieSarcophagus.description>Un cercueil noir scellé. Il présente des signes de pression interne, mais aucun point d'accès visible.</VQED_EerieSarcophagus.description>
+
+<!-- EN: empty eerie sarcophagus -->
+<VQED_EmptyEerieSarcophagus.label>sarcophage étrange vide</VQED_EmptyEerieSarcophagus.label>
+<!-- EN: An empty black casket. -->
+<VQED_EmptyEerieSarcophagus.description>Un cercueil noir vide.</VQED_EmptyEerieSarcophagus.description>
+
+<!-- EN: empty ICBM silo -->
+<VQED_EmptyICBMSilo.label>silo ICBM vide</VQED_EmptyICBMSilo.label>
+<!-- EN: A missile cradle with no payload. Maintenance ports are sealed and fused. -->
+<VQED_EmptyICBMSilo.description>Un silo à missile balistique intercontinental (ICBM) sans charge utile. Les ports de maintenance sont scellés et fondus.</VQED_EmptyICBMSilo.description>
+
+<!-- EN: ICBM launch terminal -->
+<VQED_ICBMLaunchTerminal.label>terminal de lancement ICBM</VQED_ICBMLaunchTerminal.label>
+<!-- EN: An ancient set of computer terminals. The displays contain information about the preparation to launch a series of ICBMs containing deadlife payloads. Once the launch sequence is initiated, it cannot be stopped. It seems only the person in charge of the complex can initiate the launch. -->
+<VQED_ICBMLaunchTerminal.description>Un ancien ensemble de terminaux informatiques. Les écrans contiennent des informations sur la préparation du lancement d'une série de missiles balistiques intercontinentaux (ICBM) contenant des charges mortelles. Une fois la séquence de lancement lancée, il est impossible de l'arrêter. Il semble que seule la personne en charge du complexe puisse initier le lancement.</VQED_ICBMLaunchTerminal.description>
+
+<!-- EN: ICBM silo lid -->
+<VQED_ICBMSiloLid.label>silo ICBM à couvercle</VQED_ICBMSiloLid.label>
+<!-- EN: A solid lid designed to protect an armed warhead. The release system has seized. -->
+<VQED_ICBMSiloLid.description>Un couvercle solide conçu pour protéger une ogive armée. Le système de déverrouillage est grippé.</VQED_ICBMSiloLid.description>
+
+<!-- EN: inactive deadlife vent -->
+<VQED_InactiveDeadlifeVent.label>évent de résurrection inactif</VQED_InactiveDeadlifeVent.label>
+<!-- EN: A free standing vent connected to an underground deadlife particle distribution system. If it reactivates, it will quickly flood the area with deadlife dust.\n\nThe General can activate this trap from one of the terminals in the command room. -->
+<VQED_InactiveDeadlifeVent.description>Un évent autonome relié à un système souterrain de distribution de particules de résurrection. S'il se réactive, il inondera rapidement la zone de poussière de résurrection.\n\nLe général peut activer ce piège depuis l'un des terminaux de la salle de commandement.</VQED_InactiveDeadlifeVent.description>
+
+<!-- EN: inert dark obelisk -->
+<VQED_InertDarkObelisk.label>obélisque sombre inerte</VQED_InertDarkObelisk.label>
+<!-- EN: A massive, jagged obelisk with no markings or visible seams. Its surface absorbs light unnaturally, and proximity induces headaches and unease. Though inert for now, occasional vibrations suggest it may not remain dormant forever. -->
+<VQED_InertDarkObelisk.description>Un obélisque massif et ébréché, sans marques ni jointures visibles. Sa surface absorbe la lumière de façon anormale, et sa proximité provoque des maux de tête et des malaises. Bien qu'inerte pour le moment, des vibrations occasionnelles suggèrent qu'il ne restera pas éternellement en sommeil.</VQED_InertDarkObelisk.description>
+
+<!-- EN: inert dark pillar -->
+<VQED_InertDarkPillar.label>pilier sombre inerte</VQED_InertDarkPillar.label>
+<!-- EN: A towering black pillar of unknown alloy. Though it appears inactive, it hums faintly with a deep, almost imperceptible resonance. The surrounding air feels heavier near it, and equipment readings often fail without reason. No obvious function can be determined, but its presence is deeply unsettling. -->
+<VQED_InertDarkPillar.description>Un imposant pilier noir d'un alliage inconnu. Bien qu'il semble inactif, il bourdonne faiblement d'une résonance profonde, presque imperceptible. L'air ambiant semble plus lourd à proximité, et les relevés d'équipement échouent souvent sans raison. Aucune fonction évidente ne peut être déterminée, mais sa présence est profondément troublante.</VQED_InertDarkPillar.description>
+
+<!-- EN: inert death doorway -->
+<VQED_InertDeathDoorway.label>porte de la mort inerte</VQED_InertDeathDoorway.label>
+<!-- EN: A shadowed, monolithic doorway sealed into the structure itself. From within, thin streams of deadlife dust drift outward, defying airflow. No hinges, no mechanisms, only the sensation that something waits on the other side. -->
+<VQED_InertDeathDoorway.description>Une porte monolithique sombre est scellée dans la structure elle-même. De l'intérieur, de fins jets de poussière de résurrection dérivent vers l'extérieur, défiant la circulation de l'air. Pas de charnières, pas de mécanismes, seulement la sensation que quelque chose attend de l'autre côté.</VQED_InertDeathDoorway.description>
+
+<!-- EN: loaded ICBM silo -->
+<VQED_LoadedICBMSilo.label>silo ICBM chargé</VQED_LoadedICBMSilo.label>
+<!-- EN: A still-intact missile lies inside this silo. No signs of activation or maintenance in decades. -->
+<VQED_LoadedICBMSilo.description>Un missile balistique intercontinental (ICBM) encore intact repose à l'intérieur de ce silo. Aucun signe d'activation ou de maintenance depuis des décennies.</VQED_LoadedICBMSilo.description>
+
+<!-- EN: locked ICBM silo -->
+<VQED_LockedICBMSilo.label>silo ICBM verrouillé</VQED_LockedICBMSilo.label>
+<!-- EN: A silo hatch that never received a launch signal. The mechanism has since locked tight. -->
+<VQED_LockedICBMSilo.description>Un silo à missile balistique intercontinental (ICBM) qui n'a jamais reçu de signal de lancement. Le mécanisme s'est depuis verrouillé.</VQED_LockedICBMSilo.description>
+
+<!-- EN: sealed death pit -->
+<VQED_SealedDeathPit.label>fosse de la mort scellée</VQED_SealedDeathPit.label>
+<!-- EN: A sealed containment pit lined with ancient restraints. Faint trails of deadlife dust seep from the cracks, and something inside constantly shifts, pushing, scraping, trying to crawl free. Heavy blast doors prevent the darkness from reaching out, but the mechanism seems well maintained.\n\nThe General can activate this trap from one of the terminals in the command room. -->
+<VQED_SealedDeathPit.description>Une fosse de confinement scellée, tapissée d'anciennes entraves. De légères traînées de poussière de résurrection s'échappent des fissures, et quelque chose à l'intérieur se déplace constamment, poussant, grattant, essayant de se libérer. De lourdes portes anti-explosion empêchent les ténèbres d'atteindre l'extérieur, mais le mécanisme semble bien entretenu.\n\nLe général peut activer ce piège depuis l'un des terminaux de la salle de commandement.</VQED_SealedDeathPit.description>
+
+
+<!-- EN: ancient kino projector -->
+<VQED_AncientKinoProjector.label>ancien rétroprojecteur kino</VQED_AncientKinoProjector.label>
+<!-- EN: An old projector unit positioned for use with a matching screen. Works when powered, but only if pointed at the kino screen. -->
+<VQED_AncientKinoProjector.description>Un vieux projecteur positionné pour être utilisé avec un écran de projection assorti. Fonctionne lorsqu'il est alimenté, mais seulement s'il est dirigé vers l'écran de projection kino.</VQED_AncientKinoProjector.description>
+
+<!-- EN: ancient kino screen -->
+<VQED_AncientKinoScreen.label>ancien écran de projection kino</VQED_AncientKinoScreen.label>
+<!-- EN: A massive, old-world display once used for communal viewing. Grainy visuals flicker to life only when paired with a functioning kino projector. Still strangely captivating despite the static and distortion. -->
+<VQED_AncientKinoScreen.description>Un écran massif et ancien, autrefois utilisé pour des projections en commun. Les images granuleuses ne prennent vie que lorsqu'elles sont associées à un projecteur kino en état de fonctionnement. Malgré les parasites et les distorsions, l'image reste étrangement captivante.</VQED_AncientKinoScreen.description>
+
+
+<!-- EN: deadlife vent -->
+<VQED_ActiveDeadlifeVent.label>évent de résurrection</VQED_ActiveDeadlifeVent.label>
+<!-- EN: A free standing vent connected to an underground deadlife particle distribution system. An endless supply of deadlife dust pours from the outflow. -->
+<VQED_ActiveDeadlifeVent.description>Un évent autonome relié à un système souterrain de distribution de particules de résurrection. Une quantité infinie de poussière de résurrection s'écoule de l'orifice d'évacuation.</VQED_ActiveDeadlifeVent.description>
+
+<!-- EN: ancient military turret -->
+<VQED_AncientMilitaryTurret.label>ancienne tourelle militaire</VQED_AncientMilitaryTurret.label>
+<!-- EN: An automatic turret. Belt-fed ammunition ensures it can fire continuously for long periods of time, but its dumb AI brain can't be directly controlled, which makes friendly fire likely. -->
+<VQED_AncientMilitaryTurret.description>Une tourelle automatique. Ses munitions alimentées par courroie lui permettent de tirer en continu pendant de longues périodes. Son cerveau IA limité ne peut pas être directement contrôlé, alors méfiez-vous des tirs fratricides.</VQED_AncientMilitaryTurret.description>
+
+<!-- EN: mini-turret bullet -->
+<VQED_AncientMilitaryTurret_Bullet.label>balle mini-tourelle</VQED_AncientMilitaryTurret_Bullet.label>
+
+<!-- EN: ancient military turret -->
+<VQED_AncientMilitaryTurret_Gun.label>ancienne tourelle militaire</VQED_AncientMilitaryTurret_Gun.label>
+<!-- EN: A simple automatic gun made to be mounted on a turret. -->
+<VQED_AncientMilitaryTurret_Gun.description>Un simple canon automatique conçu pour être monté sur une tourelle.</VQED_AncientMilitaryTurret_Gun.description>
+<!-- EN: ancient military turret -->
+<VQED_AncientMilitaryTurret_Gun.verbs.Verb_Shoot.label>ancienne tourelle militaire</VQED_AncientMilitaryTurret_Gun.verbs.Verb_Shoot.label>
+
+<!-- EN: deadlife node -->
+<VQED_DeadlifeNode.label>nodule de résurrection</VQED_DeadlifeNode.label>
+<!-- EN: A volatile node buried in the facility. Proximity or movement causes instability and discharge of deadlife particles. -->
+<VQED_DeadlifeNode.description>Un nodule volatile enfoui dans l'installation. Sa proximité ou son déplacement provoque une instabilité et la décharge de particules de résurrection.</VQED_DeadlifeNode.description>
+
+<!-- EN: death hole -->
+<VQED_DeathHole.label>trou de la mort</VQED_DeathHole.label>
+<!-- EN: A small containment hole where failed experiments were thrown, with the intention to later on be buried in concrete. Faint trails of deadlife dust seep out, and something inside constantly shifts, pushing, scraping, trying to crawl free. -->
+<VQED_DeathHole.description>Un petit trou de confinement où des expériences ratées ont été jetées, dans l'intention d'être plus tard ensevelies dans le béton. De faibles traces de poussière de résurrection s'en échappent, et quelque chose à l'intérieur se déplace constamment, poussant, grattant, essayant de se libérer.</VQED_DeathHole.description>
+
+<!-- EN: death pit -->
+<VQED_DeathPit.label>fosse de la mort</VQED_DeathPit.label>
+<!-- EN: A sealed containment pit lined with ancient restraints. Faint trails of deadlife dust seep from the cracks, and something inside constantly shifts, pushing, scraping, trying to crawl free. -->
+<VQED_DeathPit.description>Une fosse de confinement scellée, tapissée d'anciennes entraves. De légères traînées de poussière de résurrection s'infiltrent dans les fissures, et quelque chose à l'intérieur se déplace constamment, poussant, grattant, essayant de se libérer.</VQED_DeathPit.description>
+
+<!-- EN: chute -->
+<VQED_OpenChute.label>bouche</VQED_OpenChute.label>
+<!-- EN: An open chute with an unknown purpose. Some eerie sounds can be heard down below, but nobody knows how deep it goes. -->
+<VQED_OpenChute.description>Une bouche ouverte avec une fonction inconnue. Des bruits inquiétants se font entendre au fond, mais personne ne sait à quelle profondeur il se trouve.</VQED_OpenChute.description>
+
+<!-- EN: rotstink vent -->
+<VQED_OpenRotstinkVent.label>évent pestilentiel</VQED_OpenRotstinkVent.label>
+<!-- EN: A large vent connected to some revolting storage of biomass. Ejects huge amounts of rotstink gas. -->
+<VQED_OpenRotstinkVent.description>Une grande bouche d'aération reliée à une réserve de biomasse révoltante. Éjecte d'énormes quantités de gaz pestilentiels.</VQED_OpenRotstinkVent.description>
+
+
+<!-- EN: disruptor flare -->
+<VQE_DisruptorFlare.label>fusée disruptive</VQE_DisruptorFlare.label>
+<!-- EN: Plastic tubes filled with bioferrite. On impact, the flare burns, creating a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
+<VQE_DisruptorFlare.description>Tubes en plastique remplis de bioferrite. À l'impact, la fusée fait exploser une capsule de bioferrite générant un éclair lumineux aveuglant et une onde de choc psychique qui étourdit les créatures à sensibilité psychique, dévoile celles qui étaient invisibles, et réduit temporairement leur conscience et leur vitesse de déplacement. La fusée continue ensuite d'illuminer une vaste zone pendant un certain temps.</VQE_DisruptorFlare.description>
+<!-- EN: throw disruptor flare -->
+<VQE_DisruptorFlare.verbs.throw_disruptor_flare.label>lancer une fusée disruptive</VQE_DisruptorFlare.verbs.throw_disruptor_flare.label>
+
+
+<!-- EN: Distant ICBM Explosion -->
+<VQED_DistantICBMExplosion.label>explosion lointaine d'un ICBM</VQED_DistantICBMExplosion.label>
+
+<!-- EN: flying -->
+<VQED_PawnFlyer_Stun.label>vol</VQED_PawnFlyer_Stun.label>
+
+
+<!-- EN: Deadlife ICBM -->
+<VQED_ICBMSkyfaller.label>ICBM de résurrection</VQED_ICBMSkyfaller.label>
+
+
+</LanguageData>

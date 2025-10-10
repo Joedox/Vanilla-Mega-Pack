@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEA_LargeSupplyCrate.label>grande caisse hermétique</VFEA_LargeSupplyCrate.label>
+<VFEA_LargeSupplyCrate.description>Une grande caisse contenant des ressources et des composants de construction. Son piratage prend peu de temps et ne présente aucun danger.</VFEA_LargeSupplyCrate.description>
+
+<VFEA_AncientBroadcastStation.label>ancienne station de diffusion</VFEA_AncientBroadcastStation.label>
+<VFEA_AncientBroadcastStation.description>Une ancienne station de communication longue portée souvent trouvée dans les anciens abris. Elle peut être piratée afin de trouver l'emplacement du prochain abri.</VFEA_AncientBroadcastStation.description>
+
+<VFEA_PipelineJunction.label>jonction de canalisation</VFEA_PipelineJunction.label>
+<VFEA_PipelineJunction.description>Une grande canalisation souterraine de carburant chimique est reliée à un port extérieur à cet endroit. Lorsqu'elle est piratée, elle produit de grandes quantités de chemfuel, mais le piratage lui-même peut prendre un certain temps et même provoquer des infestations.</VFEA_PipelineJunction.description>
+
+<VFEA_LargeLockedDoor.label>grande porte verrouillée</VFEA_LargeLockedDoor.label>
+<VFEA_LargeLockedDoor.description>Une grande porte d'abri, que l'on trouve souvent dans la salle d'entrée. En raison d'un mécanisme d'auto-préservation, la porte est verrouillée en permanence et nécessite un certain degré de piratage pour être ouverte.</VFEA_LargeLockedDoor.description>
+
+<VFEA_AncientSupplyCrate.label>ancienne caisse de fournitures</VFEA_AncientSupplyCrate.label>
+<VFEA_AncientSupplyCrate.description>Une ancienne caisse contenant des ressources de construction et des composants qui se déploient à l'aide d'un parachute. La pirater prend un peu de temps et peut provoquer un raid, mais elle contient sans aucun doute une technologie ancienne.</VFEA_AncientSupplyCrate.description>
+
+<VFEA_AncientBed.label>ancien lit</VFEA_AncientBed.label>
+<VFEA_AncientBed.description>Un cadre de lit métallique démodé avec un matelas dur et une couette inconfortable.</VFEA_AncientBed.description>
+
+<VFEA_WallLamp.label>lampe murale</VFEA_WallLamp.label>
+<VFEA_WallLamp.description>Une applique électrique, idéale pour éclairer les couloirs d'un abri.</VFEA_WallLamp.description>
+
+<VFEA_WallLamp_Red.label>lampe murale (rouge)</VFEA_WallLamp_Red.label>
+<VFEA_WallLamp_Red.description>Une applique électrique rouge, idéale pour éclairer les couloirs d'un abri.</VFEA_WallLamp_Red.description>
+
+<VFEA_WallLamp_Green.label>lampe murale (vert)</VFEA_WallLamp_Green.label>
+<VFEA_WallLamp_Green.description>Une applique électrique vert, idéale pour éclairer les couloirs d'un abri.</VFEA_WallLamp_Green.description>
+
+<VFEA_WallLamp_Blue.label>lampe murale (bleu)</VFEA_WallLamp_Blue.label>
+<VFEA_WallLamp_Blue.description>Une applique électrique bleu, idéale pour éclairer les couloirs d'un abri.</VFEA_WallLamp_Blue.description>
+
+<VFEA_AncientCryptosleepSuspender.label>ancien cryptosommeil suspendu</VFEA_AncientCryptosleepSuspender.label>
+<VFEA_AncientCryptosleepSuspender.description>Une ancienne capsule médicale qui utilise le cryptosommeil partiel pour ralentir la dégradation des blessures et aider le corps à guérir, avec les mêmes effets secondaires que le cryptosommeil, mais à un degré moindre.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne tombera jamais en panne et fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientCryptosleepSuspender.description>
+
+<VFEA_GeneTailoringPod.label>capsule d'adaptation génétique</VFEA_GeneTailoringPod.label>
+<VFEA_GeneTailoringPod.description>Élément principal du projet des Anciens visant à développer des super-soldats, la capsule d'adaptation génétique est le résultat d'un grand nombre d'expériences douteuses menées dans le but d'affronter les Mécanoïdes. Les soldats doivent s'allonger dans la capsule, puis on leur injecte des nanomachines à usage unique conçues pour améliorer leur physiologie.\n\nIl s'agit du principal module responsable de la création de super-soldats, mais pour améliorer la qualité, l'efficacité et la sécurité du projet, d'autres équipements doivent être placés à proximité de la capsule d'adaptation génétique.</VFEA_GeneTailoringPod.description>
+
+<VFEA_SuperNaniteInjectorPump.label>pompe d'injection super-nanite</VFEA_SuperNaniteInjectorPump.label>
+<VFEA_SuperNaniteInjectorPump.description>Un petit élément lié à la capsule d'adaptation génétique qui lui permet de stocker et d'extraire une dose de super-nanites, ce qui permet de gagner un jour sur le processus. On ne peut pas en relier plus de 10, car il faut au moins 5 jours au patient pour assimiler et accepter la transition.\n\nCe dispositif, qui vient s'ajouter à la capsule d'adaptation génétique, doit être placé à proximité de celle-ci et permet de réduire d'un jour la durée de l'injection.</VFEA_SuperNaniteInjectorPump.description>
+
+<VFEA_SuperNaniteDialyzer.label>dialyseur super-nanite</VFEA_SuperNaniteDialyzer.label>
+<VFEA_SuperNaniteDialyzer.description>Un élément conçu pour comparer les super-nanites entre elles et empêcher les souches concurrentes plus faibles de compromettre le processus de transition. Il fonctionne idéalement par paires, chacun compare deux souches entre elles, réduisant ainsi les risques d'effets secondaires de 10 % au total.\n\nAjouté à la capsule d'adaptation génétique, ce dispositif doit être placé à proximité de celle-ci et réduira les risques d'échec de l'expérience de 5 %.</VFEA_SuperNaniteDialyzer.description>
+
+<VFEA_SuperNaniteCentrifuge.label>centrifugeuse super-nanite</VFEA_SuperNaniteCentrifuge.label>
+<VFEA_SuperNaniteCentrifuge.description>Une structure conçue pour éliminer les super-nanites compromis ou redondants. Elle fonctionne idéalement par paires, ce qui leur permet de vérifier deux fois la viabilité et de réduire les risques d'effets secondaires de 10 % au total.\n\nAjouté à la capsule d'adaptation génétique, ce dispositif doit être placé à proximité de celle-ci et réduira les risques d'échec de l'expérience de 5 %.</VFEA_SuperNaniteCentrifuge.description>
+
+<VFEA_SimulationDrive.label>lecteur de simulation</VFEA_SimulationDrive.label>
+<VFEA_SimulationDrive.description>Un superordinateur compact qui effectue des simulations de la réaction de l'ADN de l'hôte aux super-nanites, les reprogrammant au fur et à mesure que des processus de transition plus optimaux sont calculés, réduisant les complications d'environ 1 %. Au-delà de 10 ordinateurs, il y aura des duplications inutiles.\n\nAjouté à la capsule d'adaptation génétique, ce dispositif doit être placé à proximité de celle-ci et réduira les risques d'échec de l'expérience de 1 %.</VFEA_SimulationDrive.description>
+
+<VFEA_GenomeStabilizer.label>stabilisateur du génome</VFEA_GenomeStabilizer.label>
+<VFEA_GenomeStabilizer.description>Un grand élément qui exécute des mesures réactionnelles aux effets indésirables pendant la transition, en essayant de stabiliser le génome et de réduire les effets négatifs. Il fonctionne idéalement par paires, chacune vérifiant l'autre pour garantir le succès et réduire les risques d'effets secondaires de 20 % au total.\n\nComplémentaire à la capsule d'adaptation génétique, ce dispositif doit être placé à proximité de celle-ci et réduira les risques d'échec de l'expérience de 10 %.</VFEA_GenomeStabilizer.description>
+
+<VFEA_SuperNaniteContainment.label>confinement super-nanite</VFEA_SuperNaniteContainment.label>
+<VFEA_SuperNaniteContainment.description>Une étagère capable de stabiliser des doses de super-nanites pour une utilisation ultérieure, car elles sont incroyablement énergétiques et volatiles. Empêche la détérioration des super-nanites.</VFEA_SuperNaniteContainment.description>
+
+<VFEA_GenomeMacrothermometer.label>macrothermomètre du génome</VFEA_GenomeMacrothermometer.label>
+<VFEA_GenomeMacrothermometer.description>Le macrothermomètre du génome est une extension qui a été développée après plusieurs cas réussis avec la capsule d'adaptation génétique. Il a été conçu pour améliorer davantage les super-soldats. Sa fonction première est d'empêcher l'emballement thermique ou l'explosion de viande brûlante en faisant en sorte que les super-nanites n'interagissent qu'avec les parties du génome qui n'ont pas été modifiées lors des premières phases de transition.\n\nCe dispositif, qui s'ajoute à la capsule d'adaptation génétique, doit être placé à proximité de celle-ci et permet de débloquer une capacité supplémentaire au-delà de la limite de 3.</VFEA_GenomeMacrothermometer.description>
+
+<VFEA_StabilisedMucusInducer.label>inducteur de mucus stabilisé</VFEA_StabilisedMucusInducer.label>
+<VFEA_StabilisedMucusInducer.description>Alors que l'adaptation génétique habituelle fonctionne en modifiant les gènes dans leur ensemble, certains scientifiques ont réussi à créer une solution de rechange en créant de petits environnements isolés dans lesquels les modifications peuvent se produire indépendamment. Ainsi, cette machine est conçue pour insérer des séparations sous forme de mucus stabilisé, totalement non réactif et ne provoquant pas de rejet dans le corps du patient, devenant ainsi une partie permanente de son génome.\n\nComplémentaire à la capsule d'adaptation génétique, cet appareil doit être placé à proximité de celle-ci et permettra de débloquer une capacité supplémentaire au-delà de la limite de 3.</VFEA_StabilisedMucusInducer.description>
+
+<VFEA_NanotechRetractor.label>rétracteur nanotech</VFEA_NanotechRetractor.label>
+<VFEA_NanotechRetractor.description>Un dispositif spécialisé qui permet de remodeler le patrimoine génétique d'un patient pour tenter de supprimer un effet négatif généré par la thérapie génique. Le processus est similaire et nécessite une autre dose de super-nanites, mais dans ce cas, elles sont utilisées pour tenter d'annuler des effets très spécifiques tout en laissant les avantages intacts. En cas de multiples effets négatifs, les résultats du processus de transition sont purement dus au hasard.\n\nComplément de la capsule d'adaptation génétique, ce dispositif doit être placé à proximité de celle-ci et permet d'effectuer une nouvelle opération "Retirer une faiblesse".</VFEA_NanotechRetractor.description>
+
+<VFEA_NaniteSampler.label>échantillonneur de nanite</VFEA_NaniteSampler.label>
+<VFEA_NaniteSampler.description>Une curieuse machine qui ne nuit ni ne facilite le processus de transformation. Au lieu de cela, elle exécute des simulations d'échantillons parallèlement à l'opération, en utilisant des données en temps réel pour fournir des données réelles. Lorsque le processus de transformation est sur le point d'aboutir, elle crée un choix binaire que l'utilisateur peut sélectionner. Une fois ce choix effectué, la machine procède à quelques modifications mineures et crée un gène dominant et récessif. En termes simples, cela permet à une opération réussie de choisir entre deux ensembles de capacités.\n\nEn complément de la capsule d'adaptation génétique, ce dispositif doit être placé à proximité de celle-ci et permet de choisir entre deux ensembles de capacités en cas d'opération réussie.</VFEA_NaniteSampler.description>
+
+<VFEA_AncientEducator.label>ancien éducateur</VFEA_AncientEducator.label>
+<VFEA_AncientEducator.description>Une très vieille machine interactive qui est couramment utilisée dans les coffres pour passer le temps. Les participants intéressés s'assoient devant elle et reçoivent des connaissances sur des sujets aléatoires, puis doivent passer un test. En réussissant un test, ils obtiennent un jeton leur permettant de réclamer une portion supplémentaire de gelée nutritive.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne subit jamais de pannes et fonctionne plus efficacement en cas d'éruption solaire.</VFEA_AncientEducator.description>
+
+<VFEA_AncientFoosballTable.label>ancien baby-foot</VFEA_AncientFoosballTable.label>
+<VFEA_AncientFoosballTable.description>Relique de l'époque, le baby-foot permet aux joueurs de s'adonner à un jeu oublié depuis longtemps, sans quitter la sécurité de l'abri.</VFEA_AncientFoosballTable.description>
+
+<VFEA_AncientMonitorBank.label>ancien banc de moniteurs</VFEA_AncientMonitorBank.label>
+<VFEA_AncientMonitorBank.description>Un petit ensemble de vieux écrans d'ordinateur.</VFEA_AncientMonitorBank.description>
+
+<VFEA_AncientBrokenDefensiveTurret.label>ancienne tourelle défensive cassée</VFEA_AncientBrokenDefensiveTurret.label>
+<VFEA_AncientBrokenDefensiveTurret.description>Un sommet de tourelle défensive détruit.</VFEA_AncientBrokenDefensiveTurret.description>
+
+<VFEA_AncientBustedTurretPlatform.label>ancienne plate-forme de tourelle cassée</VFEA_AncientBustedTurretPlatform.label>
+<VFEA_AncientBustedTurretPlatform.description>Une plateforme pour une tourelle détruite.</VFEA_AncientBustedTurretPlatform.description>
+
+<VFEA_AncientFuelTank.label>ancien réservoir de carburant</VFEA_AncientFuelTank.label>
+<VFEA_AncientFuelTank.description>Un grand réservoir de carburant qui peut être désassemblé pour obtenir du chemfuel.</VFEA_AncientFuelTank.description>
+
+<VFEA_AncientInputTerminal.label>ancien terminal d'entrée</VFEA_AncientInputTerminal.label>
+<VFEA_AncientInputTerminal.description>Une station avec des boutons et des leviers.</VFEA_AncientInputTerminal.description>
+
+<VFEA_AncientTransmitter.label>ancien transmetteur</VFEA_AncientTransmitter.label>
+<VFEA_AncientTransmitter.description>Un émetteur utilisé pour envoyer des signaux sur une longue distance.</VFEA_AncientTransmitter.description>
+
+<VFEA_AncientMachinery.label>ancienne machinerie</VFEA_AncientMachinery.label>
+<VFEA_AncientMachinery.description>Un ensemble de vieux blocs de machines. Leur utilité, si tant est qu'ils en aient jamais eu une, a été oubliée depuis longtemps.</VFEA_AncientMachinery.description>
+
+<VFEA_AncientWaterFilter.label>ancien filtre à eau</VFEA_AncientWaterFilter.label>
+<VFEA_AncientWaterFilter.description>Un grand système de filtration d'eau.</VFEA_AncientWaterFilter.description>
+
+<VFEA_AncientComputerDesk.label>ancien bureau d'ordinateur</VFEA_AncientComputerDesk.label>
+<VFEA_AncientComputerDesk.description>Un vieux bureau d'ordinateur qui ne fonctionne plus.</VFEA_AncientComputerDesk.description>
+
+<VFEA_AncientShuttle.label>ancienne navette</VFEA_AncientShuttle.label>
+<VFEA_AncientShuttle.description>Une ancienne navette qui n'est plus opérationnelle et qui peut être démontée pour la ferraille.</VFEA_AncientShuttle.description>
+
+<VFEA_AncientVitalsMonitor.label>ancien moniteur de signes vitaux</VFEA_AncientVitalsMonitor.label>
+<VFEA_AncientVitalsMonitor.description>Un vieil ensemble de moniteurs pour vérifier les progrès de la guérison des soldats blessés.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes et fonctionnera plus efficacement lors des éruptions solaires.</VFEA_AncientVitalsMonitor.description>
+
+<VFEA_AncientCryptosleepSarcophagus.label>ancien sarcophage de cryptosommeil</VFEA_AncientCryptosleepSarcophagus.label>
+<VFEA_AncientCryptosleepSarcophagus.description>Les anciens super-soldats dorment dans des anciens sarcophages de cryptosommeil jusqu'à ce qu'ils soient réveillés lorsque leur tour de garde commence. Ces dispositifs sont une variante différente des capsules hypersommeils - le processus d'hibernation est instantané, mais le réveil du sommeil prend beaucoup de temps. Ils ne peuvent pas être réutilisés une fois ouverts.</VFEA_AncientCryptosleepSarcophagus.description>
+
+<VFEA_AncientSupplySlingshot.label>ancienne fronde d'approvisionnement</VFEA_AncientSupplySlingshot.label>
+<VFEA_AncientSupplySlingshot.description>Souvent trouvée dans les anciens abris, la fronde d'approvisionnement est un mécanisme complexe qui catapulte une caisse d'approvisionnement sur d'énormes distances. Il est programmé pour envoyer les caisses vers les abris occupés voisins. Ces frondes sont souvent utilisées par les anciens soldats pour partager les ressources dont ils n'ont pas besoin avec d'autres complexes.</VFEA_AncientSupplySlingshot.description>
+
+<VFEA_AncientSolarGenerator.label>ancien panneau solaire</VFEA_AncientSolarGenerator.label>
+<VFEA_AncientSolarGenerator.description>Ce générateur récupère l'énergie des éruptions solaires. Ils sont souvent utilisés dans les abris pour soutenir les générateurs internes lors des rares tempêtes solaires.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes et fonctionnera plus efficacement lors des éruptions solaires.</VFEA_AncientSolarGenerator.description>
+
+<VFEA_AncientChemfuelPoweredGenerator.label>ancien groupe électrogène</VFEA_AncientChemfuelPoweredGenerator.label>
+<VFEA_AncientChemfuelPoweredGenerator.description>Produit un flux d'énergie fiable en consommant du chemfuel. Doit être périodiquement ravitaillé à la main.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes, et elle fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientChemfuelPoweredGenerator.description>
+
+<VFEA_AncientGeothermalPlant.label>ancien générateur géothermique</VFEA_AncientGeothermalPlant.label>
+<VFEA_AncientGeothermalPlant.description>Produit de l'électricité à partir de geysers de vapeur géothermique. Souvent utilisé dans les abris souterrains des montagnes pour alimenter toute la structure en électricité. Il est également capable de réguler la température à l'intérieur de la pièce, et peut faire office de chauffage ou de congélateur. Doit être placé sur un geyser à vapeur.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes, et elle fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientGeothermalPlant.description>
+
+<VFEA_AncientBattery.label>ancienne batterie</VFEA_AncientBattery.label>
+<VFEA_AncientBattery.description>Une vieille et grande batterie que l'on trouve généralement dans les abris, capable d'alimenter l'ensemble du complexe pendant une durée presque infinie.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes et fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientBattery.description>
+
+<VFEA_AncientBioBatteryTank.label>ancien réservoir à bio-batterie</VFEA_AncientBioBatteryTank.label>
+<VFEA_AncientBioBatteryTank.description>Produit un flux d'énergie fiable en consommant des matières biologiques telles que des cadavres humains ou animaux. Doit être périodiquement ravitaillé en cadavres.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne subira jamais de pannes, et fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientBioBatteryTank.description>
+
+<VFEA_ElectricMendingStation.label>établi de réparation électrique</VFEA_ElectricMendingStation.label>
+<VFEA_ElectricMendingStation.description>Un établi électrique avec divers appareils utilisés pour réparer les armes, les armures et les vêtements. C'est un long processus. Ces établis sont indispensables dans les abris pour éviter que les équipements, tels que les armes et les outils, ne soient remplacés.</VFEA_ElectricMendingStation.description>
+
+<VFEA_FueledMendingStation.label>établi de réparation à combustible</VFEA_FueledMendingStation.label>
+<VFEA_FueledMendingStation.description>Un établi alimenté en bois avec divers appareils utilisés pour réparer les armes, les armures et les vêtements. C'est un long processus. Ces stations sont indispensables dans les abris pour éviter que les équipements, tels que les armes et les outils, ne soient remplacés.</VFEA_FueledMendingStation.description>
+
+<VFEA_AncientHydroponicFarm.label>ancienne ferme hydroponique</VFEA_AncientHydroponicFarm.label>
+<VFEA_AncientHydroponicFarm.description>Un bain artificiel de nutriments pour la culture des plantes. Les pompes à nutriments doivent fonctionner en permanence ; les plantes mourront si l'alimentation est coupée. Contient un ensemble de lampes solaires intégrées.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes et fonctionnera plus efficacement lors des éruptions solaires.</VFEA_AncientHydroponicFarm.description>
+<!--VFEA_AncientHydroponicFarm.comps.CompSchedule.offMessage>Éteint pendant la période de repos des plantes</VFEA_AncientHydroponicFarm.comps.CompSchedule.offMessage-->
+
+<VFEA_AncientCookingStation.label>ancienne cuisinière</VFEA_AncientCookingStation.label>
+<VFEA_AncientCookingStation.description>Un grand fourneau et un poste de boucherie reliés ensemble pour rationaliser le processus de cuisson.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne subira jamais de pannes et fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientCookingStation.description>
+
+<VFEA_AncientWorkshop.label>ancien atelier</VFEA_AncientWorkshop.label>
+<VFEA_AncientWorkshop.description>Un grand atelier contenant des systèmes d'usinage avec un simple fourneau et une station de forge.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne subira jamais de pannes et fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientWorkshop.description>
+
+<VFEA_Turret_AncientSecurityTurret.label>ancienne tourelle de sécurité</VFEA_Turret_AncientSecurityTurret.label>
+<VFEA_Turret_AncientSecurityTurret.description>Une tourelle automatique portable. De forme basique, mais incroyablement fiable.</VFEA_Turret_AncientSecurityTurret.description>
+<VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelGizmoLabel>
+<VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>Nombre de tirs avant le changement du canon</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>
+<VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>Ne peut pas tirer : nécessite un nouveau canon</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>
+<VFEA_Bullet_AncientSecurityTurret.label>tir ancienne tourelle de sécurité</VFEA_Bullet_AncientSecurityTurret.label>
+<VFEA_Gun_AncientSecurityTurret.label>ancienne tourelle de sécurité</VFEA_Gun_AncientSecurityTurret.label>
+<VFEA_Gun_AncientSecurityTurret.description>Un canon automatique très fiable conçu pour être monté sur une tourelle.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes, et elle fonctionne plus efficacement lors des éruptions solaires.</VFEA_Gun_AncientSecurityTurret.description>
+<VFEA_Gun_AncientSecurityTurret.verbs.Verb_Shoot.label>ancienne tourelle de sécurité</VFEA_Gun_AncientSecurityTurret.verbs.Verb_Shoot.label>
+
+<VFEA_Turret_AncientPointDefense.label>ancienne tourelle de défense</VFEA_Turret_AncientPointDefense.label>
+<VFEA_Turret_AncientPointDefense.description>Une grande tourelle souvent utilisée pour défendre les complexes anciens. Utilise deux miniguns pour éliminer rapidement les ennemis et les projectiles explosifs.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne subit jamais de pannes et fonctionne plus efficacement lors des éruptions solaires.</VFEA_Turret_AncientPointDefense.description>
+<VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>
+<VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>Nombre de tirs avant le changement du canon</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>
+<VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>Ne peut pas tirer : nécessite un nouveau canon</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>
+<VFEA_Bullet_AncientPointDefenseTurret.label>tir ancienne tourelle de défense</VFEA_Bullet_AncientPointDefenseTurret.label>
+<VFEA_Gun_AncientPointDefenseTurret.label>ancienne tourelle de défense</VFEA_Gun_AncientPointDefenseTurret.label>
+<VFEA_Gun_AncientPointDefenseTurret.description>Un ensemble de miniguns qui peuvent être attachés à une tourelle.</VFEA_Gun_AncientPointDefenseTurret.description>
+<VFEA_Gun_AncientPointDefenseTurret.verbs.pointdefense.label>point-défense</VFEA_Gun_AncientPointDefenseTurret.verbs.pointdefense.label>
+
+<VFEA_VaultWall.label>mur d'abri</VFEA_VaultWall.label>
+<VFEA_VaultWall.description>Un épais mur d'acier triplement renforcé. Presque indestructible.</VFEA_VaultWall.description>
+
+<VFEA_VaultDoor.label>porte d'abri</VFEA_VaultDoor.label>
+<VFEA_VaultDoor.description>Une épaisse porte automatique d'abri, qui prend beaucoup de temps à s'ouvrir et à se fermer, mais qui est presque indestructible. Si le courant est coupé, elle restera verrouillée.</VFEA_VaultDoor.description>
+
+<VFEA_AncientHeater.label>ancien chauffage</VFEA_AncientHeater.label>
+<VFEA_AncientHeater.description>Un chauffage très ancien mais efficace.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Il ne souffrira jamais de pannes, et il fonctionne plus efficacement lors des éruptions solaires.</VFEA_AncientHeater.description>
+
+<VFEA_AncientCooler.label>ancien refroidisseur</VFEA_AncientCooler.label>
+<VFEA_AncientCooler.description>Une ancienne machine à refroidir l'air. L'air frais sort d'un côté, tandis que l'air chaud est acheminé par une série de tuyaux enfouis dans le sol. Elle peut être utilisée pour rafraîchir des pièces en été ou pour créer une chambre froide.\n\nCette structure a été construite par une civilisation oubliée depuis longtemps et la technologie ne peut plus être reproduite. Elle ne souffrira jamais de pannes et fonctionnera plus efficacement en cas d'éruption solaire.</VFEA_AncientCooler.description>
+
+<VFEA_SuperNanites.label>super-nanites</VFEA_SuperNanites.label>
+<VFEA_SuperNanites.description>Un récipient contenant des super-nanites anciennes extrêmement volatiles. Alors qu'un grand pourcentage de ces nano-robots sont défectueux, morts ou corrompus, une petite quantité est connue pour être pleinement opérationnelle, améliorant la personne à qui elle est injectée avec des pouvoirs uniques. Les super-nanites ont été utilisées par des gouvernements oubliés pour créer des supersoldats, désormais proscrits par la loi galactique.</VFEA_SuperNanites.description>
+
+<VFEA_LightningSpot.label>impact d'éclair</VFEA_LightningSpot.label>
+
+<VFEA_LaserEyeBeamDraw.label>faisceau laser</VFEA_LaserEyeBeamDraw.label>
+
+<VFEA_ElectricBlast.label>explosion électrique</VFEA_ElectricBlast.label>
+
+<VFEA_SuperJumpingPawn.label>vol</VFEA_SuperJumpingPawn.label>
+
+<VFEA_SupplyCrateIncoming.label>ravitaillement (en approche)</VFEA_SupplyCrateIncoming.label>
+
+<VFEA_SupplyCrateLeaving.label>ravitaillement (en partance)</VFEA_SupplyCrateLeaving.label>
+
+<VFEA_FireBreath.label>souffle de feu</VFEA_FireBreath.label>
+
+<VFEA_IceBreath.label>souffle de glace</VFEA_IceBreath.label>
+
+<VFEA_LaserEyeBeam.label>faisceau yeux laser</VFEA_LaserEyeBeam.label>
+
+<VFEA_AcidSpit.label>crachat d'acide</VFEA_AcidSpit.label>
+
+<VFEA_Fireball.label>boule de feu</VFEA_Fireball.label>
+
+<VFEA_SlingshotDropOffSpot.label>lieu de largage de la fronde</VFEA_SlingshotDropOffSpot.label>
+<VFEA_SlingshotDropOffSpot.description>Désigne le lieu où les articles de l'abri seront livrés par une fronde d'approvisionnement.</VFEA_SlingshotDropOffSpot.description>
+
+
+</LanguageData>

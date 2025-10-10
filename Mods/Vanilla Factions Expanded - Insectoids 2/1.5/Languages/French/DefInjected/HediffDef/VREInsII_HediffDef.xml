@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: defender type -->
+<VFEI_DefenderInsectType.label>type : défenseur</VFEI_DefenderInsectType.label>
+<!-- EN: An insectoid type. -->
+<VFEI_DefenderInsectType.description>Un type d'insectoïde.</VFEI_DefenderInsectType.description>
+
+<!-- EN: hunter type -->
+<VFEI_HunterInsectType.label>type : chasseur</VFEI_HunterInsectType.label>
+<!-- EN: An insectoid type. -->
+<VFEI_HunterInsectType.description>Un type d'insectoïde.</VFEI_HunterInsectType.description>
+
+<!-- EN: to be cocooned -->
+<VFEI_ToBeCocooned.label>dans un cocon</VFEI_ToBeCocooned.label>
+<!-- EN: To be cocooned. -->
+<VFEI_ToBeCocooned.description>Est dans un cocon.</VFEI_ToBeCocooned.description>
+
+<!-- EN: worker type -->
+<VFEI_WorkerInsectType.label>type : ouvrier</VFEI_WorkerInsectType.label>
+<!-- EN: An insectoid type. -->
+<VFEI_WorkerInsectType.description>Un type d'insectoïde.</VFEI_WorkerInsectType.description>
+
+<!-- EN: acid immunity -->
+<VFEI2_AcidImmunity.label>immunité à l'acide</VFEI2_AcidImmunity.label>
+<!-- EN: Insectoids from the Kemia geneline are immune to acid. -->
+<VFEI2_AcidImmunity.description>Les insectoïdes de la lignée Kemia sont immunisés contre l'acide.</VFEI2_AcidImmunity.description>
+
+<!-- EN: armor degradation -->
+<VFEI2_ArmorDegradation.label>dégradation de l'armure</VFEI2_ArmorDegradation.label>
+<!-- EN: The armor of this insectoid has been cracked and lost part of its efficiency. -->
+<VFEI2_ArmorDegradation.description>L'armure de cet insectoïde a été fissurée et a perdu une partie de son efficacité.</VFEI2_ArmorDegradation.description>
+
+<!-- EN: recently stunned -->
+<VFEI2_TeramantisStun.label>récemment étourdi</VFEI2_TeramantisStun.label>
+<!-- EN: This creature has recently been stunned from a surprise attack. -->
+<VFEI2_TeramantisStun.description>Cette créature a récemment été étourdie par une attaque surprise.</VFEI2_TeramantisStun.description>
+
+<!-- EN: toxic buildup -->
+<VFEI2_ToxicBuildup.label>accumulation toxique</VFEI2_ToxicBuildup.label>
+<!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+<VFEI2_ToxicBuildup.description>Toxines dans le sang. Elles peuvent provenir de diverses sources, notamment de toxines environnementales, de morsures de venin ou d'armes empoisonnées.\n\nÀ haute dose, l'accumulation toxique est mortelle. Même à faible dose, elle peut générer des cancers.\n\nContrairement à l'accumulation toxique du jeu de base, les créatures qui meurent avec ces dégâts toxiques peuvent être mangées.</VFEI2_ToxicBuildup.description>
+<!-- EN: initial -->
+<VFEI2_ToxicBuildup.stages.initial-0.label>insignifiant</VFEI2_ToxicBuildup.stages.initial-0.label>
+<!-- EN: initial -->
+<VFEI2_ToxicBuildup.stages.initial-1.label>début</VFEI2_ToxicBuildup.stages.initial-1.label>
+<!-- EN: minor -->
+<VFEI2_ToxicBuildup.stages.minor.label>mineur</VFEI2_ToxicBuildup.stages.minor.label>
+<!-- EN: moderate -->
+<VFEI2_ToxicBuildup.stages.moderate.label>moyen</VFEI2_ToxicBuildup.stages.moderate.label>
+<!-- EN: serious -->
+<VFEI2_ToxicBuildup.stages.serious.label>sévère</VFEI2_ToxicBuildup.stages.serious.label>
+<!-- EN: extreme -->
+<VFEI2_ToxicBuildup.stages.extreme.label>extrême</VFEI2_ToxicBuildup.stages.extreme.label>
+
+
+<!-- EN: empress spawn -->
+<VFEI2_EmpressSpawn.label>progéniture impératrice</VFEI2_EmpressSpawn.label>
+<!-- EN: A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony. -->
+<VFEI2_EmpressSpawn.description>Une progéniture insectoïde en gestation. À partir d'un petit œuf, il absorbe rapidement les nutriments et grandit, causant lentement de plus en plus de douleur à son hôte. Elle prend rapidement le contrôle du système nerveux, grandit et s'étend dans tout le corps de l'hôte jusqu'à ce qu'elle soit prête à sortir par la cage thoracique, tuant finalement son hôte. Au cours de sa croissance, la progéniture absorbe les souvenirs de son hôte, ce qui rendra l'insectoïde amical envers votre colonie.</VFEI2_EmpressSpawn.description>
+<!-- EN: egg -->
+<VFEI2_EmpressSpawn.stages.egg.label>œuf</VFEI2_EmpressSpawn.stages.egg.label>
+<!-- EN: larva -->
+<VFEI2_EmpressSpawn.stages.larva.label>larve</VFEI2_EmpressSpawn.stages.larva.label>
+<!-- EN: pupa -->
+<VFEI2_EmpressSpawn.stages.pupa.label>nymphe</VFEI2_EmpressSpawn.stages.pupa.label>
+<!-- EN: juvenile -->
+<VFEI2_EmpressSpawn.stages.juvenile.label>imago</VFEI2_EmpressSpawn.stages.juvenile.label>
+
+<!-- EN: gigamite spawn -->
+<VFEI2_GigamiteSpawn.label>progéniture gigamite</VFEI2_GigamiteSpawn.label>
+<!-- EN: A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony. -->
+<VFEI2_GigamiteSpawn.description>Une progéniture insectoïde en gestation. À partir d'un petit œuf, il absorbe rapidement les nutriments et grandit, causant lentement de plus en plus de douleur à son hôte. Elle prend rapidement le contrôle du système nerveux, grandit et s'étend dans tout le corps de l'hôte jusqu'à ce qu'elle soit prête à sortir par la cage thoracique, tuant finalement son hôte. Au cours de sa croissance, la progéniture absorbe les souvenirs de son hôte, ce qui rendra l'insectoïde amical envers votre colonie.</VFEI2_GigamiteSpawn.description>
+<!-- EN: egg -->
+<VFEI2_GigamiteSpawn.stages.egg.label>œuf</VFEI2_GigamiteSpawn.stages.egg.label>
+<!-- EN: larva -->
+<VFEI2_GigamiteSpawn.stages.larva.label>larve</VFEI2_GigamiteSpawn.stages.larva.label>
+<!-- EN: pupa -->
+<VFEI2_GigamiteSpawn.stages.pupa.label>nymphe</VFEI2_GigamiteSpawn.stages.pupa.label>
+<!-- EN: juvenile -->
+<VFEI2_GigamiteSpawn.stages.juvenile.label>imago</VFEI2_GigamiteSpawn.stages.juvenile.label>
+
+<!-- EN: silverfish spawn -->
+<VFEI2_SilverfishSpawn.label>progéniture lépisme</VFEI2_SilverfishSpawn.label>
+<!-- EN: A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony. -->
+<VFEI2_SilverfishSpawn.description>Une progéniture insectoïde en gestation. À partir d'un petit œuf, il absorbe rapidement les nutriments et grandit, causant lentement de plus en plus de douleur à son hôte. Elle prend rapidement le contrôle du système nerveux, grandit et s'étend dans tout le corps de l'hôte jusqu'à ce qu'elle soit prête à sortir par la cage thoracique, tuant finalement son hôte. Au cours de sa croissance, la progéniture absorbe les souvenirs de son hôte, ce qui rendra l'insectoïde amical envers votre colonie.</VFEI2_SilverfishSpawn.description>
+<!-- EN: egg -->
+<VFEI2_SilverfishSpawn.stages.egg.label>œuf</VFEI2_SilverfishSpawn.stages.egg.label>
+<!-- EN: larva -->
+<VFEI2_SilverfishSpawn.stages.larva.label>larve</VFEI2_SilverfishSpawn.stages.larva.label>
+<!-- EN: pupa -->
+<VFEI2_SilverfishSpawn.stages.pupa.label>nymphe</VFEI2_SilverfishSpawn.stages.pupa.label>
+<!-- EN: juvenile -->
+<VFEI2_SilverfishSpawn.stages.juvenile.label>imago</VFEI2_SilverfishSpawn.stages.juvenile.label>
+
+<!-- EN: teramantis spawn -->
+<VFEI2_TeramantisSpawn.label>progéniture téramante</VFEI2_TeramantisSpawn.label>
+<!-- EN: A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony. -->
+<VFEI2_TeramantisSpawn.description>Une progéniture insectoïde en gestation. À partir d'un petit œuf, il absorbe rapidement les nutriments et grandit, causant lentement de plus en plus de douleur à son hôte. Elle prend rapidement le contrôle du système nerveux, grandit et s'étend dans tout le corps de l'hôte jusqu'à ce qu'elle soit prête à sortir par la cage thoracique, tuant finalement son hôte. Au cours de sa croissance, la progéniture absorbe les souvenirs de son hôte, ce qui rendra l'insectoïde amical envers votre colonie.</VFEI2_TeramantisSpawn.description>
+<!-- EN: egg -->
+<VFEI2_TeramantisSpawn.stages.egg.label>œuf</VFEI2_TeramantisSpawn.stages.egg.label>
+<!-- EN: larva -->
+<VFEI2_TeramantisSpawn.stages.larva.label>larve</VFEI2_TeramantisSpawn.stages.larva.label>
+<!-- EN: pupa -->
+<VFEI2_TeramantisSpawn.stages.pupa.label>nymphe</VFEI2_TeramantisSpawn.stages.pupa.label>
+<!-- EN: juvenile -->
+<VFEI2_TeramantisSpawn.stages.juvenile.label>imago</VFEI2_TeramantisSpawn.stages.juvenile.label>
+
+<!-- EN: titantick spawn -->
+<VFEI2_TitantickSpawn.label>progéniture titantique</VFEI2_TitantickSpawn.label>
+<!-- EN: A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony. -->
+<VFEI2_TitantickSpawn.description>Une progéniture insectoïde en gestation. À partir d'un petit œuf, il absorbe rapidement les nutriments et grandit, causant lentement de plus en plus de douleur à son hôte. Elle prend rapidement le contrôle du système nerveux, grandit et s'étend dans tout le corps de l'hôte jusqu'à ce qu'elle soit prête à sortir par la cage thoracique, tuant finalement son hôte. Au cours de sa croissance, la progéniture absorbe les souvenirs de son hôte, ce qui rendra l'insectoïde amical envers votre colonie.</VFEI2_TitantickSpawn.description>
+<!-- EN: egg -->
+<VFEI2_TitantickSpawn.stages.egg.label>œuf</VFEI2_TitantickSpawn.stages.egg.label>
+<!-- EN: larva -->
+<VFEI2_TitantickSpawn.stages.larva.label>larve</VFEI2_TitantickSpawn.stages.larva.label>
+<!-- EN: pupa -->
+<VFEI2_TitantickSpawn.stages.pupa.label>nymphe</VFEI2_TitantickSpawn.stages.pupa.label>
+<!-- EN: juvenile -->
+<VFEI2_TitantickSpawn.stages.juvenile.label>imago</VFEI2_TitantickSpawn.stages.juvenile.label>
+
+
+<!-- EN: royal jelly addiction -->
+<VFEI2_RoyalJellyAddiction.label>addiction à la gelée royale</VFEI2_RoyalJellyAddiction.label>
+<!-- EN: A chemical addiction to royal jelly. Regular consumption of royal jelly has caused immunological adaptations at the genetic level, so the immune system can no longer function properly without the drug. Whenever an infection happen, the addicted person will not be able to overcome it without royal jelly. However, extended abstinence will force the immune system to adapt back to its normal state, resolving the addiction. -->
+<VFEI2_RoyalJellyAddiction.description>Une dépendance chimique à la gelée royale. La consommation régulière de gelée royale a provoqué des adaptations immunologiques au niveau génétique, de sorte que le système immunitaire ne peut plus fonctionner correctement sans cette substance. En cas d'infection, la personne dépendante ne pourra pas la surmonter sans gelée royale. Cependant, une abstinence prolongée forcera le système immunitaire à revenir à son état normal, faisant disparaître la dépendance.</VFEI2_RoyalJellyAddiction.description>
+<!-- EN: addicted -->
+<VFEI2_RoyalJellyAddiction.stages.addicted.label>dépendante</VFEI2_RoyalJellyAddiction.stages.addicted.label>
+<!-- EN: withdrawal -->
+<VFEI2_RoyalJellyAddiction.stages.withdrawal.label>sevrage</VFEI2_RoyalJellyAddiction.stages.withdrawal.label>
+
+<!-- EN: high on royal jelly -->
+<VFEI2_RoyalJellyHigh.label>sous l'effet de gelée royale</VFEI2_RoyalJellyHigh.label>
+<!-- EN: High on royal jelly -->
+<VFEI2_RoyalJellyHigh.description>Sous l'effet de la gelée royale.</VFEI2_RoyalJellyHigh.description>
+
+<!-- EN: royal jelly tolerance -->
+<VFEI2_RoyalJellyTolerance.label>accoutumance à la gelée royale</VFEI2_RoyalJellyTolerance.label>
+<!-- EN: Royal jelly tolerance -->
+<VFEI2_RoyalJellyTolerance.description>Une accoutumance à la gelée royale.</VFEI2_RoyalJellyTolerance.description>
+<!-- EN: small -->
+<VFEI2_RoyalJellyTolerance.stages.small.label>insignifiante</VFEI2_RoyalJellyTolerance.stages.small.label>
+<!-- EN: large -->
+<VFEI2_RoyalJellyTolerance.stages.large.label>forte</VFEI2_RoyalJellyTolerance.stages.large.label>
+<!-- EN: massive -->
+<VFEI2_RoyalJellyTolerance.stages.massive.label>très forte</VFEI2_RoyalJellyTolerance.stages.massive.label>
+
+
+</LanguageData>

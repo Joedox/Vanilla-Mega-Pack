@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Force Recharge -->
+<VFEMechForceRecharge>Forcer la recharge</VFEMechForceRecharge>
+<!-- EN: Order the associated machine to return to this platform for charging, regardless of its current battery level. -->
+<VFEMechForceRechargeDesc>Ordonner à la machine associée de revenir sur cette plate-forme pour être rechargée, quel que soit le niveau actuel de sa batterie.</VFEMechForceRechargeDesc>
+<!-- EN: Attach Turret -->
+<VFEMechAttachTurret>Fixer la tourelle</VFEMechAttachTurret>
+<!-- EN: Construct a turret atop this mobile platform. This will require a colonist to deliver resources equal to that turret's normal construction cost. -->
+<VFEMechAttachTurretDesc>Construire une tourelle au sommet de cette plate-forme mobile. Pour ce faire, un colon devra fournir des ressources égales au coût de construction normal de cette tourelle.</VFEMechAttachTurretDesc>
+<!-- EN: Machine destroyed -->
+<VFEMechMachineDied>Machine détruite</VFEMechMachineDied>
+<!-- EN: One of your machines has been destroyed! You can dismantle its remains at a machining table. In order to construct a replacement, one of your colonists will need to deliver the following parts to its platform:\n\n{0} -->
+<VFEMechMachineDiedDesc>Une de vos machines a été détruite ! Vous pouvez démonter ses restes sur une table d'usinage. Afin de construire une machine de remplacement, un de vos colons devra livrer les pièces suivantes sur sa plate-forme:\n\n{0}</VFEMechMachineDiedDesc>
+<!-- EN: Not enough resources -->
+<VFEMechNoResources>Pas assez de ressources</VFEMechNoResources>
+<!-- EN: No active mobile turret -->
+<VFEMechNoTurret>Pas de tourelle mobile active</VFEMechNoTurret>
+<!-- EN: Needed to rebuild machine: -->
+<VFEMechReconstruct>Requis pour reconstruire la machine:</VFEMechReconstruct>
+<!-- EN: Needed to construct turret: -->
+<VFEMechTurretResources>Requis pour construire la tourelle:</VFEMechTurretResources>
+<!-- EN: Reduce range -->
+<VFEMechLowerRange>Réduire la portée</VFEMechLowerRange>
+<!-- EN: Reduce the number of tiles this machine will travel. -->
+<VFEMechLowerRangeDesc>Réduire le nombre de tuiles que cette machine peut parcourir.</VFEMechLowerRangeDesc>
+<!-- EN: Increase range -->
+<VFEMechRaiseRange>Augmenter la portée</VFEMechRaiseRange>
+<!-- EN: Increase the number of tiles this machine will travel. -->
+<VFEMechRaiseRangeDesc>Augmente le nombre de tuiles que cette machine peut parcourir.</VFEMechRaiseRangeDesc>
+<!-- EN: Stop machine -->
+<VFEMechStopMachine>Arrêter la machine</VFEMechStopMachine>
+<!-- EN: Stop this machine's progress and force it to return to base. -->
+<VFEMechStopMachineDesc>Arrêter la progression de cette machine et la forcer à revenir à la base.</VFEMechStopMachineDesc>
+<!-- EN: Start machine -->
+<VFEMechStartMachine>Démarrer la machine</VFEMechStartMachine>
+<!-- EN: Start this machine. -->
+<VFEMechStartMachineDesc>Démarrer la machine.</VFEMechStartMachineDesc>
+<!-- EN: Machine has run into an obstacle! -->
+<VFEMechMachineHitObstacle>La machine a rencontré un obstacle !</VFEMechMachineHitObstacle>
+<!-- EN: Set area -->
+<VFEMechSetArea>Définir la zone</VFEMechSetArea>
+<!-- EN: Set the allowed area for all of this platform's associated machines. -->
+<VFEMechSetAreaDesc>Définir la zone autorisée pour toutes les machines associées à cette plate-forme.</VFEMechSetAreaDesc>
+<!-- EN: This droid is rideable. People in a caravan will ride the fastest available animals/droids, improving the speed of the caravan as a whole. -->
+<VFEMRideableMachineTip>Ce droïde est montable. Les membres d'une caravane chevaucheront les animaux/droïdes les plus rapides disponibles, améliorant ainsi la vitesse de la caravane dans son ensemble.</VFEMRideableMachineTip>
+<!-- EN: {MACHINE_nameDef} ran out of power, and was left behind. -->
+<VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} a manqué d'énergie, et a été laissé derrière.</VFEM.CaravanMachineRanOutPower>
+<!-- EN: The drone's name is now {0}. -->
+<VFEM.DroneGainsName>Le drone s'appelle maintenant {0}.</VFEM.DroneGainsName>
+
+
+</LanguageData>

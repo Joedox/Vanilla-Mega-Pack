@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- SMOKE GRENADE -->
+<VWE_SmokeGrenade.label>grenade fumigène</VWE_SmokeGrenade.label>
+<VWE_SmokeGrenade.description>Il s'agit d'une grenade fumigène qui explose à l’impact pour créer un écran de fumée.</VWE_SmokeGrenade.description>
+<VWE_SmokeGrenade.verbs.throw_smoke_grenade.label>Lancer une Grenade fumigène</VWE_SmokeGrenade.verbs.throw_smoke_grenade.label>
+
+<VWE_Projectile_SmokeGrenade.label>grenade fumigène</VWE_Projectile_SmokeGrenade.label>
+
+
+<!-- Flash grenade -->
+<VWE_FlashGrenade.label>grenade assourdissante</VWE_FlashGrenade.label>
+<VWE_FlashGrenade.description>Grenade assourdissante. Etourdi temporairement les ennemis et permet à l'utilisateur de s'approcher. Fonctionne uniquement sur des personnes ou des animaux.</VWE_FlashGrenade.description>
+<VWE_FlashGrenade.verbs.throw_flash_grenade.label>Lancer une grenade assourdissante</VWE_FlashGrenade.verbs.throw_flash_grenade.label>
+
+<VWE_Projectile_FlashGrenade.label>grenade assourdissante</VWE_Projectile_FlashGrenade.label>
+
+
+</LanguageData>

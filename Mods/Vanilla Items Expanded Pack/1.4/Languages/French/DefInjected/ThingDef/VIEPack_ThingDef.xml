@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<FWE_SmallBackpack.label>petit sac à dos</FWE_SmallBackpack.label>
+<FWE_SmallBackpack.description>Un petit sac à dos pour faciliter le transport des affaires.</FWE_SmallBackpack.description>
+
+<FWE_LargeBackpack.label>grand sac à dos</FWE_LargeBackpack.label>
+<FWE_LargeBackpack.description>Un grand sac à dos pour faciliter le transport d'encore plus de choses.</FWE_LargeBackpack.description>
+
+<FWE_NanoSuit.label>nano-combinaison</FWE_NanoSuit.label>
+<FWE_NanoSuit.description>Développée à titre expérimental par les scientifiques impériaux, elle a été créée pour servir de substrat idéal à l'armure de puissance lors des longues expéditions vers les mondes extérieurs. Cette combinaison en nanofibres est imprégnée de microbots qui interagissent activement avec le corps humain, améliorant les capacités physiques à tous les niveaux.</FWE_NanoSuit.description>
+
+<FWE_ChainSaw.label>tronçonneuse</FWE_ChainSaw.label>
+<FWE_ChainSaw.description>Un outil pratique de Rim Motors conçu pour aider les colons à effectuer divers types de travaux.\n\nUne scie équipée d'une série de dents attachées à une chaîne rotative. Conçue à l'origine pour couper les arbres, mais comme de nombreux outils, elle peut être une arme dévastatrice lorsqu'elle est utilisée au combat.\n\nRalentit légèrement la vitesse de déplacement en raison de son poids.</FWE_ChainSaw.description>
+<FWE_ChainSaw.tools.blade.label>chaîne</FWE_ChainSaw.tools.blade.label>
+
+<FWE_CircularSaw.label>disqueuse</FWE_CircularSaw.label>
+<FWE_CircularSaw.description>Un outil pratique de Rim Motors conçu pour aider les colons à effectuer divers types de travaux.\n\nLa scie circulaire vous permet d'accélérer considérablement le travail avec le métal, et se montre également efficace lors du démantèlement des mécanoïdes, vivants ou morts.\n\nRalentit légèrement la vitesse de déplacement en raison de son poids.</FWE_CircularSaw.description>
+<FWE_CircularSaw.tools.blade.label>disque</FWE_CircularSaw.tools.blade.label>
+
+<FWE_StoneBoer.label>foreuse</FWE_StoneBoer.label>
+<FWE_StoneBoer.description>Un outil pratique de Rim Motors conçu pour aider les colons à effectuer divers types de travaux.\n\nLa foreuse a été créée pour briser la roche dure et était très populaire parmi les maçons de l'Empire. Cependant, son mécanisme de rotation peut également pénétrer les armures lourdes et les épaisses carapaces chitineuses.\n\nRalentit légèrement la vitesse de déplacement en raison de son poids.</FWE_StoneBoer.description>
+<FWE_StoneBoer.tools.auger.label>foreuse</FWE_StoneBoer.tools.auger.label>
+
+<FWE_Screwdriver.label>visseuse</FWE_Screwdriver.label>
+<FWE_Screwdriver.description>Un outil pratique de Rim Motors conçu pour aider les colons à effectuer divers types de travaux.\n\nUne visseuse est utile pour presque tous les types de travaux. Un outil indispensable pour tout atelier.</FWE_Screwdriver.description>
+<FWE_Screwdriver.tools.point.label>pointe</FWE_Screwdriver.tools.point.label>
+<FWE_Screwdriver.tools.base.label>base</FWE_Screwdriver.tools.base.label>
+
+<Bullet_FiftyCal.label>.50 BMG</Bullet_FiftyCal.label>
+<FWE_AntiMaterialRifle.label>fusil anti-matériel</FWE_AntiMaterialRifle.label>
+<FWE_AntiMaterialRifle.description>Le fusil anti-matériel est apparu pour la première fois dans l'un des mondes lointains. Le fusil utilise des balles de calibre 50 et nécessite une visée précise, ce qui le rend légèrement moins efficace contre les adversaires agiles et les petites cibles.\n\nAu départ, ce modèle d'arme a été développé pour la défense contre les forces lourdement armées des mécanoïdes, puisqu'un coup de ce fusil peut désactiver le châssis du centipède. Cependant, dès les premières batailles, il s'est avéré que cette arme se débrouille plutôt bien contre les  humanoïdes.</FWE_AntiMaterialRifle.description>
+<FWE_AntiMaterialRifle.tools.stock.label>crosse</FWE_AntiMaterialRifle.tools.stock.label>
+<FWE_AntiMaterialRifle.tools.barrel.label>canon</FWE_AntiMaterialRifle.tools.barrel.label>
+<FWE_AntiMaterialRifle.verbs.Verb_Shoot.label>fusil anti-matériel</FWE_AntiMaterialRifle.verbs.Verb_Shoot.label>
+
+<Bullet_MechRifleCharge.label>tir lance-charges</Bullet_MechRifleCharge.label>
+<FWE_MechRifle.label>fusil de charge méca</FWE_MechRifle.label>
+<FWE_MechRifle.description>Un fusil développé à partir du lance-charges par les meilleurs esprits de l'Empire. En conservant le principe de base de l'armement des mécas, les ingénieurs ont pu habiller le lanceur de railgun dans un boîtier équipé d'optiques, augmenter la puissance de sortie de la charge, et le système de refroidissement à l'azote permet d'augmenter la vitesse et l'intensité des tirs sur le déflecteur.</FWE_MechRifle.description>
+<FWE_MechRifle.tools.stock.label>crosse</FWE_MechRifle.tools.stock.label>
+<FWE_MechRifle.verbs.Verb_Shoot.label>fusil de charge méca</FWE_MechRifle.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

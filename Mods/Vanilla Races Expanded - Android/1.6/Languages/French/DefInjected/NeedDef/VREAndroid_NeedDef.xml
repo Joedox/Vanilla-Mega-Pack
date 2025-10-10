@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: It's a stub. You shouldn't see it, report if otherwise. -->
+<VREA_FoodSuppressed.label>Il s'agit d'une version abrégée. Vous ne devriez pas le voir, signalez-le si c'est le cas.</VREA_FoodSuppressed.label>
+<!-- EN: Ignore it. -->
+<VREA_FoodSuppressed.description>Ignorez-le.</VREA_FoodSuppressed.description>
+
+<!-- EN: memory space -->
+<VREA_MemorySpace.label>espace mémoire</VREA_MemorySpace.label>
+<!-- EN: Memory space is how much hard drive space is left in an Android. Over the course of the day, memory space will deplete. If it is at zero, android will enter a reformatting state until enough memory space clears up to continue. -->
+<VREA_MemorySpace.description>L'espace mémoire correspond à l'espace restant sur le disque dur d'un androïde. Au cours de la journée, l'espace mémoire se réduit. S'il est à zéro, l'androïde entrera dans un état de reformatage jusqu'à ce qu'il y ait suffisamment d'espace mémoire pour continuer.</VREA_MemorySpace.description>
+
+<!-- EN: Power -->
+<VREA_ReactorPower.label>énergie</VREA_ReactorPower.label>
+<!-- EN: Power is how much lifespan is left in the built-in reactor of an Android. If reactor is at an end of its lifespan, it might need to be replaced. An Android without a working power source is not operational. -->
+<VREA_ReactorPower.description>L'énergie correspond à la durée de vie restante du réacteur intégré d'un androïde. Si le réacteur est en fin de vie, il peut être nécessaire de le remplacer. Un androïde sans source d'énergie fonctionnelle n'est pas opérationnel.</VREA_ReactorPower.description>
+
+
+</LanguageData>

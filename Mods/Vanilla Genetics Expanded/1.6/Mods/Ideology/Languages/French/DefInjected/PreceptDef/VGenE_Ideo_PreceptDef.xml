@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: scorned -->
+<GR_AutonomousWeapons_Scorned.label>méprisé</GR_AutonomousWeapons_Scorned.label>
+<!-- EN: To create automated defences is a waste of time and good material, which could be better spent raising far deadlier animals. -->
+<GR_AutonomousWeapons_Scorned.description>Créer des défenses automatisées est une perte de temps et de matériel, qui pourrait être mieux utilisé pour élever des animaux bien plus mortels.</GR_AutonomousWeapons_Scorned.description>
+<!-- EN: Automated turret in colony -->
+<GR_AutonomousWeapons_Scorned.comps.0.description>Tourelle automatisée dans la colonie</GR_AutonomousWeapons_Scorned.comps.0.description>
+<!-- EN: Build automated turret -->
+<GR_AutonomousWeapons_Scorned.comps.1.description>Construire une tourelle automatisée</GR_AutonomousWeapons_Scorned.comps.1.description>
+
+
+<!-- EN: accepted -->
+<GR_Failures_Accepted.label>accepté</GR_Failures_Accepted.label>
+<!-- EN: Genetic experimentation is risky, and we must accept that failures are an unavoidable part of the process. -->
+<GR_Failures_Accepted.description>L'expérimentation génétique est risquée et nous devons accepter que les échecs fassent inévitablement partie du processus.</GR_Failures_Accepted.description>
+
+<!-- EN: disliked -->
+<GR_Failures_Disliked.label>détester</GR_Failures_Disliked.label>
+<!-- EN: If a genetic experiment fails catastrophically, it is our duty to get rid of the unwanted results as soon as possible. -->
+<GR_Failures_Disliked.description>Si une expérience génétique échoue de manière catastrophique, il est de notre devoir de nous débarrasser des résultats indésirables le plus rapidement possible.</GR_Failures_Disliked.description>
+
+<!-- EN: shameful -->
+<GR_Failures_Shameful.label>honteux</GR_Failures_Shameful.label>
+<!-- EN: We are destined to greatness. Failure is not an option, and any unwanted results of our experimentations should be gotten rid of as soon as possible. -->
+<GR_Failures_Shameful.description>Nous sommes destinés à la grandeur. L'échec n'est pas une option, et tout résultat indésirable de nos expérimentations doit être éliminé dès que possible.</GR_Failures_Shameful.description>
+
+
+<!-- EN: accepted -->
+<GR_HumanoidHybrids_Accepted.label>accepté</GR_HumanoidHybrids_Accepted.label>
+<!-- EN: Humanoid experimentation is just another tool at our disposal. -->
+<GR_HumanoidHybrids_Accepted.description>L'expérimentation d'humanoïdes n'est qu'un outil de plus à notre disposition.</GR_HumanoidHybrids_Accepted.description>
+
+<!-- EN: disliked -->
+<GR_HumanoidHybrids_Disliked.label>détester</GR_HumanoidHybrids_Disliked.label>
+<!-- EN: Humanoid experimentation is ethically troubling. -->
+<GR_HumanoidHybrids_Disliked.description>L'expérimentation d'humanoïdes est éthiquement troublante.</GR_HumanoidHybrids_Disliked.description>
+
+<!-- EN: forbidden -->
+<GR_HumanoidHybrids_Forbidden.label>interdit</GR_HumanoidHybrids_Forbidden.label>
+<!-- EN: Humanoid experimentation is despicable, an absolutely unforgivable sin. We will not tolerate having such monstrosities running around the colony. -->
+<GR_HumanoidHybrids_Forbidden.description>L'expérimentation d'humanoïdes est méprisable, un péché absolument impardonnable. Nous ne tolérerons pas que de telles monstruosités se promènent dans la colonie.</GR_HumanoidHybrids_Forbidden.description>
+
+
+<!-- EN: genomorpher -->
+<GR_WorktableSpeeds_Genomorpher.label>synthétiseur de génome</GR_WorktableSpeeds_Genomorpher.label>
+<!-- EN: Measure twice, cut once. A carefully designed experiment has much greater odds of success.\n\n<color=#E5E54C>Stats:</color>\n - Genomorpher speed: +25%. -->
+<GR_WorktableSpeeds_Genomorpher.description>Mesurez deux fois, coupez une fois. Une expérience soigneusement conçue a beaucoup plus de chances de réussir.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse du synthétiseur de génome : +25%.</GR_WorktableSpeeds_Genomorpher.description>
+
+<!-- EN: implants -->
+<GR_WorktableSpeeds_Implants.label>implants</GR_WorktableSpeeds_Implants.label>
+<!-- EN: The key to experimentation is not being afraid of the results. We will labour incessantly to achieve new breakthroughs.\n\n<color=#E5E54C>Stats:</color>\n - Implant augmentator work table speed: +25%. -->
+<GR_WorktableSpeeds_Implants.description>La clé de l'expérimentation est de ne pas avoir peur des résultats. Nous travaillerons sans relâche pour réaliser de nouvelles percées.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse de l'amplificateur d'implant : +25%.</GR_WorktableSpeeds_Implants.description>
+
+
+</LanguageData>

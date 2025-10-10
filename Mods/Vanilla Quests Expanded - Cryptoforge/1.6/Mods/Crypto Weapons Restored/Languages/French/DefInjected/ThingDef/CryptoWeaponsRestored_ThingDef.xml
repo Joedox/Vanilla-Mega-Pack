@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: cryptopistol -->
+<VFEV_CryptoPistol.label>crypto-pistolet</VFEV_CryptoPistol.label>
+<!-- EN: An experimental micro pistol with metal-cored projectiles wrapped in unstable crypto technology, held in place by an energy field. Targets are both pierced by the metal core, as well as frozen by crypto coating. Extremely rare and powerful. -->
+<VFEV_CryptoPistol.description>Un micro-pistolet expérimental avec des projectiles à noyau métallique sont enveloppés d'une crypto-technologie instable, maintenue en place par un champ d'énergie. Les cibles sont à la fois transpercées et gelées par le crypto-revêtement. Extrêmement rare et puissant.</VFEV_CryptoPistol.description>
+<!-- EN: grip -->
+<VFEV_CryptoPistol.tools.grip.label>poignée</VFEV_CryptoPistol.tools.grip.label>
+<!-- EN: cryptopistol -->
+<VFEV_CryptoPistol.verbs.Verb_Shoot.label>crypto-pistolet</VFEV_CryptoPistol.verbs.Verb_Shoot.label>
+
+<!-- EN: crypto bullet -->
+<VFEV_CryptoPistolBullet.label>crypto-balle</VFEV_CryptoPistolBullet.label>
+
+
+<!-- EN: cryptorifle -->
+<VFEV_CryptoRifle.label>crypto-fusil</VFEV_CryptoRifle.label>
+<!-- EN: An experimental rifle with metal-cored projectiles wrapped in unstable crypto technology, held in place by an energy field. Targets are both pierced by the metal core, as well as frozen by crypto coating. Extremely rare and powerful. -->
+<VFEV_CryptoRifle.description>Un fusil expérimental avec des projectiles à noyau métallique sont enveloppés d'une crypto-technologie instable, maintenue en place par un champ d'énergie. Les cibles sont à la fois transpercées et gelées par le crypto-revêtement. Extrêmement rare et puissant.</VFEV_CryptoRifle.description>
+<!-- EN: stock -->
+<VFEV_CryptoRifle.tools.stock.label>crosse</VFEV_CryptoRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VFEV_CryptoRifle.tools.barrel.label>canon</VFEV_CryptoRifle.tools.barrel.label>
+<!-- EN: cryptorifle -->
+<VFEV_CryptoRifle.verbs.Verb_Shoot.label>crypto-fusil</VFEV_CryptoRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: crypto bullet -->
+<VFEV_CryptoRifleBullet.label>crypto-balle</VFEV_CryptoRifleBullet.label>
+
+
+<!-- EN: crypto shield -->
+<VFEV_Shield_Crypto.label>crypto-bouclier</VFEV_Shield_Crypto.label>
+<!-- EN: A stabilized crypto-tech field wrapped around an advanced frame, capable of slowing the speed of the atoms of incoming projectiles to a halt. Does nothing to protect against heat and blunt trauma. -->
+<VFEV_Shield_Crypto.description>Un champ crypto-technologie stabilisé enveloppant une armature avancée, capable de ralentir la vitesse des atomes des projectiles entrants jusqu'à ce qu'ils s'arrêtent. Il ne protège en rien contre la chaleur et les traumatismes contondants.</VFEV_Shield_Crypto.description>
+<!-- EN: base -->
+<VFEV_Shield_Crypto.tools.base-0.label>base</VFEV_Shield_Crypto.tools.base-0.label>
+<!-- EN: centre -->
+<VFEV_Shield_Crypto.tools.centre-0.label>centre</VFEV_Shield_Crypto.tools.centre-0.label>
+<!-- EN: base -->
+<VFEV_Shield_Crypto.tools.base-1.label>base</VFEV_Shield_Crypto.tools.base-1.label>
+<!-- EN: centre -->
+<VFEV_Shield_Crypto.tools.centre-1.label>centre</VFEV_Shield_Crypto.tools.centre-1.label>
+
+
+<!-- EN: cryptoshotgun -->
+<VFEV_CryptoShotGun.label>crypto-fusil à pompe</VFEV_CryptoShotGun.label>
+<!-- EN: An experimental micro pistol with metal-cored projectiles wrapped in unstable crypto technology, held in place by an energy field. Targets are both pierced by the metal core, as well as frozen by crypto coating. Extremely rare and powerful. -->
+<VFEV_CryptoShotGun.description>Un fusil à pompe expérimental avec des projectiles à noyau métallique sont enveloppés d'une crypto-technologie instable, maintenue en place par un champ d'énergie. Les cibles sont à la fois transpercées et gelées par le crypto-revêtement. Extrêmement rare et puissant.</VFEV_CryptoShotGun.description>
+<!-- EN: grip -->
+<VFEV_CryptoShotGun.tools.grip.label>crosse</VFEV_CryptoShotGun.tools.grip.label>
+<!-- EN: cryptoshotgun -->
+<VFEV_CryptoShotGun.verbs.Verb_Shoot.label>crypto-fusil à pompe</VFEV_CryptoShotGun.verbs.Verb_Shoot.label>
+
+<!-- EN: crypto bullet -->
+<VFEV_CryptoShotgunBullet.label>crypto-balle</VFEV_CryptoShotgunBullet.label>
+
+
+<!-- EN: lightning strike -->
+<VFEV_LightningStrike.label>éclair</VFEV_LightningStrike.label>
+
+<!-- EN: mjollnir strike targeter -->
+<VFEV_OrbitalTargeterMjollnir.label>viseur orbital Mjölnir</VFEV_OrbitalTargeterMjollnir.label>
+<!-- EN: An ancient targeting apparatus for long forgotten Mjollnir sattelite. This unit designates a target and transmits the coordinates to a targeting relay, which then generates localised electricity discharge around the target. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
+<VFEV_OrbitalTargeterMjollnir.description>Un ancien appareil de ciblage pour une sattelite de Mjollnir oubliée depuis longtemps. Ce dispositif désigne une cible et transmet les coordonnées à un relais de ciblage, qui génère alors une décharge électrique localisée autour de la cible. Cet appareil a été reprogrammé pour accepter des utilisateurs non autorisés, mais une fois qu'il est utilisé, le réseau détecte l'incursion et coupe la liaison de façon permanente.</VFEV_OrbitalTargeterMjollnir.description>
+<!-- EN: charge -->
+<VFEV_OrbitalTargeterMjollnir.comps.CompApparelReloadable.chargeNoun>charge</VFEV_OrbitalTargeterMjollnir.comps.CompApparelReloadable.chargeNoun>
+<!-- EN: on cooldown -->
+<VFEV_OrbitalTargeterMjollnir.comps.CompApparelReloadable.cooldownGerund>en recharge</VFEV_OrbitalTargeterMjollnir.comps.CompApparelReloadable.cooldownGerund>
+<!-- EN: mjollnir strike targeter -->
+<VFEV_OrbitalTargeterMjollnir.verbs.Verb_LightningStrike.label>viseur orbital Mjölnir</VFEV_OrbitalTargeterMjollnir.verbs.Verb_LightningStrike.label>
+
+
+</LanguageData>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEA_InterrogatePrisoner.label>tentative d'interrogation</VFEA_InterrogatePrisoner.label>
+<VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] a demandé des [information] à [RECIPIENT_nameDef].</li>
+
+    <li>information->informations</li>
+    <li>information->connaissances</li>
+    <li>information->renseignements</li>
+</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+
+
+
+<VFEA_Intimidate.label>essayer d'intimider</VFEA_Intimidate.label>
+<VFEA_Intimidate.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] a dit à [RECIPIENT_nameDef] qu'[RECIPIENT_pronoun] [negative].</li>
+            <li>r_logentry->[INITIATOR_nameDef] a expliqué à [RECIPIENT_nameDef] qu'[RECIPIENT_pronoun] [negative].</li>
+            <li>r_logentry->[INITIATOR_nameDef] a menacé [RECIPIENT_nameDef] de [threat] si [RECIPIENT_pronoun] [refused].</li>
+            <li>r_logentry->[INITIATOR_nameDef] a informé [RECIPIENT_nameDef] qu'[RECIPIENT_pronoun] [disillusionment].</li>
+            <li>r_logentry->[INITIATOR_nameDef] a demandé à [RECIPIENT_nameDef] [givein] à la colonie.</li>
+    
+            <li>negative->n'avait pas d'avenir</li>
+            <li>negative->n'avait aucun moyen de s'échapper</li>
+            <li>negative->devait se soumettre immédiatement</li>
+            <li>negative->devait oublier ses ambitions</li>
+            <li>negative->devait se soumettre à la colonie</li>
+            <li>negative->devait donner des informations</li>
+
+            <li>threat->torturer</li>
+            <li>threat->punir</li>
+            <li>threat->mutiler</li>
+            <li>threat->l'affamer</li>
+            <li>threat->l'incarcérer à vie</li>
+            <li>threat->tuer</li>
+            <li>threat->l'isoler</li>
+            <li>threat->démembrer</li>
+            <li>threat->traumatiser</li>
+            <li>threat->lacérer</li>
+            <li>threat->cannibaliser</li>
+            <li>threat->prélever ses organes</li>
+            <li>threat->l'enfermer longtemps</li>
+
+            <li>refused->tentait de s'échapper</li>
+            <li>refused->insultait la colonie</li>
+            <li>refused->résistait à la soumission</li>
+            <li>refused->se comportait de manière insolente</li>
+    
+            <li>disillusionment->devait accepter sa situation</li>
+            <li>disillusionment->n'avait aucun espoir pour un autre avenir</li>
+            <li>disillusionment->serait mieux de se soumettre</li>
+            <li>disillusionment->ne survivrait pas par ses propres moyens</li>
+            <li>disillusionment->n'avait pas d'autre choix que de se soumettre</li>
+    
+            <li>givein->de céder</li>
+            <li>givein->de se soumettre</li>
+            <li>givein->de se rendre</li>
+            <li>givein->de se livrer</li>
+</VFEA_Intimidate.logRulesInitiator.rulesStrings>
+
+
+
+<VFEA_RomanceAttempt_Lustful.label>tentative de romance</VFEA_RomanceAttempt_Lustful.label>
+<VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings>
+                <li>r_logentry->[INITIATOR_nameDef] a [wooed] [RECIPIENT_nameDef] en [wootactic].</li>
+
+                <li>wooed->essayé de flirter avec</li>
+                <li>wooed->flirté avec</li>
+                <li>wooed->essayé d'attirer</li>
+                <li>wooed->essayé de séduire</li>
+                <li>wooed->essayé de courtiser</li>
+                <li>wooed->courtisé</li>
+                <li>wooed->dragué</li>
+                <li>wooed->charmé</li>
+                <li>wooed->séduit</li>
+
+                <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+                <li>wootactic->lui racontant une histoire [TalkTopicAny]</li>
+                <li>wootactic->lui racontant une histoire sur [TalkTopicAny]</li>
+                <li>wootactic->plaisantant sur [TalkTopicAny]</li>
+                <li>wootactic->faisant une observation sur [TalkTopicAny]</li>
+                <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] propre [PersonalCharacteristic]</li>
+                <li>wootactic->[RECIPIENT_objective] comparant à [romantic_noun] [romantic_adj]</li>
+                <li>wootactic->[RECIPIENT_objective] décrivant comme [romantic_noun] [romantic_adj]</li>
+
+                <li>boasting->se vanter de</li>
+                <li>boasting->en mentionnant</li>
+                <li>boasting->en laissant entendre de bonnes choses sur</li>
+                <li>boasting->en exagérant</li>
+                <li>boasting->parler de</li>
+                <li>boasting->en attirant l'attention sur</li>
+
+                <li>complimenting(p=3)->complimentant</li>
+                <li>complimenting->complimentant subtilement</li>
+                <li>complimenting->faisant l'éloge de</li>
+                <li>complimenting->félicitant</li>
+                <li>complimenting->disant de bonnes choses sur</li>
+                <li>complimenting(p=2)->en se moquant de</li>
+                <li>complimenting->en faisant des blagues sur</li>
+                <li>complimenting->en plaisantant et en complimentant à moitié</li>
+                <li>complimenting->interrogeant malicieusement</li>
+                <li>complimenting->se moquant allègrement de</li>
+
+                <li>romantic_adj->magnifique</li>
+                <li>romantic_adj->resplendissant</li>
+                <li>romantic_adj->scintillant</li>
+                <li>romantic_adj->céleste</li>
+                <li>romantic_adj->doré</li>
+                <li>romantic_adj->brillant</li>
+                <li>romantic_adj->époustouflant</li>
+                <li>romantic_adj->charmant</li>
+                <li>romantic_adj->éblouissant</li>
+                <li>romantic_adj->délicat</li>
+                <li>romantic_adj->beau</li>
+                <li>romantic_adj->formidable</li>
+                <li>romantic_adj->joli</li>
+                <li>romantic_adj->merveilleux</li>
+                <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+
+                <li>romantic_noun->une fleur</li>
+                <li>romantic_noun->un printemps</li>
+                <li>romantic_noun->une rivière</li>
+                <li>romantic_noun->une étoile</li>
+                <li>romantic_noun->une lune</li>
+                <li>romantic_noun->un soleil</li>
+                <li>romantic_noun->une maison</li>
+                <li>romantic_noun->une aurore</li>
+                <li>romantic_noun->arbre [TreeType]</li>
+                <li>romantic_noun(p=2)->[TerrainFeature]</li>
+                <li>romantic_noun(p=2)->[NaturalObject]</li>
+</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>

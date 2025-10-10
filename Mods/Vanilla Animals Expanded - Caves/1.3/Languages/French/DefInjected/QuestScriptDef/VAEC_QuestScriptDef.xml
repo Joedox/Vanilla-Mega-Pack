@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], a signalé que leur bétail semble disparaître à une vitesse alarmante. Il ne reste souvent qu'un amas de fils de soie, ce qui laisse penser qu'un nid vorace d'araignées géantes est à l'origine de ces disparitions.\n\nSi nous réussissons à enquêter sur ce mystère, [allRewardsDescriptions]</VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings.0>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.0>questName->[contract] [monster] de [asker_nameDef]</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.0>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.1>monster->d'araignée</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.1>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.2>monster->de l'ancienne araignée géante</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.2>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.3>monster->arachnide</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.3>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.4>monster->de l'araignée gargantuesque</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.4>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.5>contract->Le contrat</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.5>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.6>contract->La mission</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.6>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.7>contract->L'arrangement</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.7>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.8>contract->Le projet</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.8>
+<VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.9>contract->La noble tâche</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.9>
+<VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Les araignées ont quitté cette zone et vous n'entendrez plus parler d'elles jusqu'à ce qu'elles aient fait leurs prochaines victimes. La quête [resolvedQuestName] a expiré.</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Paiement arrivé</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+<VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Vous avez vaincu les araignées !\n\nLe paiement de [asker_faction_name] est arrivé.</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+<VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+<VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Ces colons ont participé à la chasse épique de la quête [resolvedQuestName]. L'auteur de la demande [asker_definite] veut savoir qui doit recevoir les [royalFavorReward_amount] points de [asker_faction_royalFavorLabel] pour ce service.</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+
+</LanguageData>

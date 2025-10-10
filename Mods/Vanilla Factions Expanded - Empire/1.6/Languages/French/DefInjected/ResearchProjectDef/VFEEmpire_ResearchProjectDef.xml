@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: janissary gear -->
+<VFEE_JanissaryGear.label>équipement de janissaire</VFEE_JanissaryGear.label>
+<!-- EN: Craft janissary armor, light powered armor that’s commonly used by imperial recon troops. Note that these also require advanced components. -->
+<VFEE_JanissaryGear.description>Vous permet de fabriquer une armure de janissaire, une armure légère motorisée couramment utilisée par les troupes de reconnaissance impériales. Notez qu'elles nécessitent également des composants avancés.</VFEE_JanissaryGear.description>
+<!-- EN:
+  <li>subject->elite warfare engineering</li>
+  <li>subject_story->designed armor that blended ancient warrior traditions with the pinnacle of modern defense technology</li>
+  <li>subject_story->equipped scouts with gear that turned the tide of covert operations</li>
+  <li>subject_story->created a legacy of warriors feared for both their prowess and their unparalleled equipment</li>
+  <li>subject_gerund->forging the future of military attire</li>
+-->
+<VFEE_JanissaryGear.generalRules.rulesStrings>
+  <li>subject->l'ingénierie de guerre d'élite</li>
+  <li>subject_story->a conçu des armures qui allient les anciennes traditions guerrières au summum de la technologie de défense moderne</li>
+  <li>subject_story->a équipé les éclaireurs de matériel qui a permis d'inverser le cours des opérations secrètes</li>
+  <li>subject_story->a créé un héritage de guerriers redoutés à la fois pour leurs prouesses et leur équipement inégalé</li>
+  <li>subject_gerund->l'avenir de l'habillement militaire</li>
+</VFEE_JanissaryGear.generalRules.rulesStrings>
+
+<!-- EN: noble decorations -->
+<VFEE_NobleDecorations.label>décorations de nobles</VFEE_NobleDecorations.label>
+<!-- EN: Build noble decorations like royal rugs, mirrors, grand chairs, imperial slabs, candelabras, and more. -->
+<VFEE_NobleDecorations.description>Vous permet de construire des décorations nobles comme des tapis royaux, des miroirs, des chaises grandioses, des dalles impériales, des chandeliers, et plus encore.</VFEE_NobleDecorations.description>
+<!-- EN:
+  <li>subject->aristocratic elegance</li>
+  <li>subject_story->designed living spaces fit for kings and queens</li>
+  <li>subject_story->brought beauty and luxury to the stark lives of the nobility</li>
+  <li>subject_story->set the standards for opulence in decor that lasted centuries</li>
+  <li>subject_gerund->elevating interiors to royal standards</li>
+-->
+<VFEE_NobleDecorations.generalRules.rulesStrings>
+  <li>subject->l'élégance aristocratique</li>
+  <li>subject_story->a conçu des espaces de vie dignes des rois et des reines</li>
+  <li>subject_story->a apporté beauté et luxe à la vie austère de la noblesse</li>
+  <li>subject_story->a défini les normes de l'opulence dans un décor qui a duré des siècles</li>
+  <li>subject_gerund->l'élévation des intérieurs à des niveaux royaux</li>
+</VFEE_NobleDecorations.generalRules.rulesStrings>
+
+<!-- EN: pipe organs -->
+<VFEE_PipeOrgans.label>orgue à tuyaux</VFEE_PipeOrgans.label>
+<!-- EN: Craft the pipe organs, an incredibly advanced and intricate stationary musical instrument. -->
+<VFEE_PipeOrgans.description>Vous permet de fabriquer des orgues à tuyaux, un instrument de musique fixe incroyablement avancé et complexe.</VFEE_PipeOrgans.description>
+<!-- EN:
+  <li>subject->musical mastery</li>
+  <li>subject_story->crafted instruments that echoed through cathedrals and concert halls alike</li>
+  <li>subject_story->combined ancient lore with modern acoustics to create a symphony of sound</li>
+  <li>subject_story->invented an organ with pipes that mimicked the voice of the divine</li>
+  <li>subject_gerund->harmonizing craftsmanship and artistry</li>
+-->
+<VFEE_PipeOrgans.generalRules.rulesStrings>
+  <li>subject->la maîtrise musicale</li>
+  <li>subject_story->a fabriqué des instruments qui ont résonné dans les cathédrales et les salles de concert</li>
+  <li>subject_story->a combiné les traditions anciennes et l'acoustique moderne pour créer une symphonie de sons</li>
+  <li>subject_story->a inventé un orgue dont les tuyaux imitaient la voix du divin</li>
+  <li>subject_gerund->l'harmonisation de l'artisanat et de l'art</li>
+</VFEE_PipeOrgans.generalRules.rulesStrings>
+
+<!-- EN: stellic throne -->
+<VFEE_StellicThrone.label>trône stellaire</VFEE_StellicThrone.label>
+<!-- EN: Construct the most grand, most beautiful stellic throne for your high ranking nobility. -->
+<VFEE_StellicThrone.description>Vous permet de construire le plus grand et le plus beau trône stellaire pour votre haute noblesse.</VFEE_StellicThrone.description>
+<!-- EN:
+  <li>subject->regal craftsmanship</li>
+  <li>subject_story->forged a throne from the heart of a fallen star, symbolizing eternal rule</li>
+  <li>subject_story->crafted not just a seat, but a legacy, ensuring the ruler's presence is felt even in absence</li>
+  <li>subject_story->merged the art of smithing with celestial materials to create a throne worthy of legends</li>
+  <li>subject_gerund->creating the pinnacle of nobility's power</li>
+-->
+<VFEE_StellicThrone.generalRules.rulesStrings>
+  <li>subject->l'artisanat royal</li>
+  <li>subject_story->a forgé un trône à partir du cœur d'une étoile tombée au champ d'honneur, symbolisant le règne éternel</li>
+  <li>subject_story->a créé non seulement un siège, mais aussi un héritage, en veillant à ce que la présence du dirigeant soit ressentie même en son absence</li>
+  <li>subject_story->a fusionné l'art de la forge et les matériaux célestes pour créer un trône digne des légendes</li>
+  <li>subject_gerund->la création de l'apogée du pouvoir de la noblesse</li>
+</VFEE_StellicThrone.generalRules.rulesStrings>
+
+
+</LanguageData>

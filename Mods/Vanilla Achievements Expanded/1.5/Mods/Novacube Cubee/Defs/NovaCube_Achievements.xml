@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Cubee -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>NC_AchievementCubee</defName>
+		<label>Round with 4 corners</label>
+		<description>Tame 4 Cubee.</description>
+		
+		<tracker Class="AchievementsExpanded.KindDefTracker">
+			<kindDefs>
+				<li>
+					<key>Novacube_Cubee</key>
+					<value>4</value>
+				</li>
+			</kindDefs>
+		</tracker>
+		
+		<texPath>Achievements/NC_AchievementCubee</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Miel de Cubee -->
+	<AchievementsExpanded.AchievementDef>
+		<defName>NC_AchievementCubeeHoney</defName>
+		<label>Bzzzzzz</label>
+		<description>Obtain at least 100 Cubee honey.</description>
+		
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>NovaCube_CubeeHoney</def>
+			<count>100</count>
+		</tracker>
+		
+		<texPath>Achievements/NC_AchievementCubeeHoney</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+</Defs>

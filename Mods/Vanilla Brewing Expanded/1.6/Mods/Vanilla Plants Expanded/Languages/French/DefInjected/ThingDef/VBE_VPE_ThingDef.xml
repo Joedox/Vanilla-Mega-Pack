@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: unfermented cider -->
+<VBE_UnfermentedCider.label>cidre non fermenté</VBE_UnfermentedCider.label>
+<!-- EN: Unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage. -->
+<VBE_UnfermentedCider.description>Cidre non fermenté avec un démarreur dans une bouteille hermétique. En laissant les bactéries appropriées se développer seules, le résultat final sera une boisson alcoolisée légère.</VBE_UnfermentedCider.description>
+
+<!-- EN: cider -->
+<VBE_Cider.label>cidre</VBE_Cider.label>
+<!-- EN: A barely alcoholic beverage meant to be refreshing and fruity. Try as anybody might it is pointless trying to get inebriated by cider alone, thus it is popular among those with prior addiction. Anecdotally, many praise it for supposed antioxidant properties. -->
+<VBE_Cider.description>Une boisson à peine alcoolisée censée être rafraîchissante et fruitée. On peut essayer de s'enivrer avec du cidre, mais cela ne sert à rien, c'est pourquoi il est populaire auprès des personnes ayant déjà eu une dépendance. A titre anecdotique, beaucoup le louent pour ses supposées propriétés antioxydantes.</VBE_Cider.description>
+<!-- EN: Drink {0} -->
+<VBE_Cider.ingestible.ingestCommandString>Boire un {0}</VBE_Cider.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_Cider.ingestible.ingestReportString>Boit le {0}.</VBE_Cider.ingestible.ingestReportString>
+<!-- EN: bottle -->
+<VBE_Cider.tools.bottle.label>bouteille</VBE_Cider.tools.bottle.label>
+<!-- EN: neck -->
+<VBE_Cider.tools.neck.label>goulot</VBE_Cider.tools.neck.label>
+
+
+</LanguageData>

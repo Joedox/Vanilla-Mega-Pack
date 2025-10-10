@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEA_SuperJump.label>super saut</VFEA_SuperJump.label>
+<VFEA_SuperJump.description>Sauter sur une courte distance (10 cases) en ligne de vue pour réduire la distance avec l'ennemi.</VFEA_SuperJump.description>
+<VFEA_SuperJump.jobReportString>Utiliser capacité : {0}</VFEA_SuperJump.jobReportString>
+<VFEA_SuperJump.verbProperties.label>super saut</VFEA_SuperJump.verbProperties.label>
+
+<VFEA_Berserk.label>berserk (télépathie)</VFEA_Berserk.label>
+<VFEA_Berserk.description>Lancer sur un ennemi pour le retourner contre ses alliés.</VFEA_Berserk.description>
+<VFEA_Berserk.jobReportString>Utiliser capacité : {0}</VFEA_Berserk.jobReportString>
+<VFEA_Berserk.verbProperties.label>berserk (télépathie)</VFEA_Berserk.verbProperties.label>
+
+<VFEA_Calm.label>calme (télépathie)</VFEA_Calm.label>
+<VFEA_Calm.description>Lancer le sort sur un ami pour le sortir instantanément de son état mental.</VFEA_Calm.description>
+<VFEA_Calm.jobReportString>Utiliser capacité : {0}</VFEA_Calm.jobReportString>
+<VFEA_Calm.verbProperties.label>calme (télépathie)</VFEA_Calm.verbProperties.label>
+
+<VFEA_PsychicShock.label>choc psychique</VFEA_PsychicShock.label>
+<VFEA_PsychicShock.description>Envoyer un choc psychique sur l'ennemi, le rendant inconscient.</VFEA_PsychicShock.description>
+<VFEA_PsychicShock.jobReportString>Utiliser capacité : {0}</VFEA_PsychicShock.jobReportString>
+<VFEA_PsychicShock.verbProperties.label>choc psychique</VFEA_PsychicShock.verbProperties.label>
+
+<VFEA_Invisibility.label>invisibilité</VFEA_Invisibility.label>
+<VFEA_Invisibility.description>Devener invisible pendant 60 secondes.</VFEA_Invisibility.description>
+<VFEA_Invisibility.jobReportString>Utiliser capacité : {0}</VFEA_Invisibility.jobReportString>
+<VFEA_Invisibility.verbProperties.label>invisibilité</VFEA_Invisibility.verbProperties.label>
+
+<VFEA_SelfControl.label>maîtrise de soi</VFEA_SelfControl.label>
+<VFEA_SelfControl.description>Si activé, stoppe immédiatement toutes les ruptures mentales dont ce colon est sous l'effet.</VFEA_SelfControl.description>
+<VFEA_SelfControl.jobReportString>Utiliser capacité : {0}</VFEA_SelfControl.jobReportString>
+<VFEA_SelfControl.verbProperties.label>maîtrise de soi</VFEA_SelfControl.verbProperties.label>
+
+<VFEA_Overshield.label>bouclier de protection</VFEA_Overshield.label>
+<VFEA_Overshield.description>Générer un bouclier impénétrable autour de vous qui dure 30 secondes.</VFEA_Overshield.description>
+<VFEA_Overshield.jobReportString>Utiliser capacité : {0}</VFEA_Overshield.jobReportString>
+<VFEA_Overshield.verbProperties.label>bouclier de protection</VFEA_Overshield.verbProperties.label>
+
+<VFEA_SummonLightning.label>invoquer la foudre</VFEA_SummonLightning.label>
+<VFEA_SummonLightning.description>Désigner une zone qui sera frappée par la foudre.</VFEA_SummonLightning.description>
+<VFEA_SummonLightning.jobReportString>Utiliser capacité : {0}</VFEA_SummonLightning.jobReportString>
+<VFEA_SummonLightning.verbProperties.label>invoquer la foudre</VFEA_SummonLightning.verbProperties.label>
+
+<VFEA_AnimalSpeech.label>langage animal</VFEA_AnimalSpeech.label>
+<VFEA_AnimalSpeech.description>Lancer le sort sur un animal Chasse à l’homme, le calmera. Lancer le sort sur un animal sauvage, l’apprivoisera.</VFEA_AnimalSpeech.description>
+<VFEA_AnimalSpeech.jobReportString>Utiliser capacité : {0}</VFEA_AnimalSpeech.jobReportString>
+<VFEA_AnimalSpeech.verbProperties.label>langage animal</VFEA_AnimalSpeech.verbProperties.label>
+
+<VFEA_Empathy.label>empathie</VFEA_Empathy.label>
+<VFEA_Empathy.description>Lancer sur un allié pour lui donner une forte amélioration de l'humeur pendant 24 heures.</VFEA_Empathy.description>
+<VFEA_Empathy.jobReportString>Utiliser capacité : {0}</VFEA_Empathy.jobReportString>
+<VFEA_Empathy.verbProperties.label>empathie</VFEA_Empathy.verbProperties.label>
+
+<VFEA_Heal.label>soigner</VFEA_Heal.label>
+<VFEA_Heal.description>Lancer sur un allié pour le guérir de toutes ses blessures.</VFEA_Heal.description>
+<VFEA_Heal.jobReportString>Utiliser capacité : {0}</VFEA_Heal.jobReportString>
+<VFEA_Heal.verbProperties.label>soigner</VFEA_Heal.verbProperties.label>
+
+<VFEA_GloryKill.label>massacre glorieux</VFEA_GloryKill.label>
+<VFEA_GloryKill.description>Tuer un ennemi aléatoire dans un rayon d'une case, en répandant de grande quantité de sang partout et en détruisant un nombre aléatoire de ses membres.</VFEA_GloryKill.description>
+<VFEA_GloryKill.jobReportString>Utiliser capacité : {0}</VFEA_GloryKill.jobReportString>
+<VFEA_GloryKill.verbProperties.label>massacre glorieux</VFEA_GloryKill.verbProperties.label>
+
+<VFEA_ElectromagneticPulse.label>impulsion électromagnétique</VFEA_ElectromagneticPulse.label>
+<VFEA_ElectromagneticPulse.description>Générer une grande explosion IEM autour de vous, désactivant tous les appareils électroniques dans son rayon.</VFEA_ElectromagneticPulse.description>
+<VFEA_ElectromagneticPulse.jobReportString>Utiliser capacité : {0}</VFEA_ElectromagneticPulse.jobReportString>
+<VFEA_ElectromagneticPulse.verbProperties.label>impulsion électromagnétique</VFEA_ElectromagneticPulse.verbProperties.label>
+
+<VFEA_FireBreath.label>souffle de feu</VFEA_FireBreath.label>
+<VFEA_FireBreath.description>Cracher du feu jusqu'à une portée de 12 cases devant vous, brûlant les ennemis et les faisant fuir.</VFEA_FireBreath.description>
+<VFEA_FireBreath.jobReportString>Utiliser capacité : {0}</VFEA_FireBreath.jobReportString>
+<VFEA_FireBreath.verbProperties.label>souffle de feu</VFEA_FireBreath.verbProperties.label>
+
+<VFEA_IceBreath.label>souffle de glace</VFEA_IceBreath.label>
+<VFEA_IceBreath.description>Cracher de la glace jusqu'à une portée de 12 cases devant vous, ralentissant les ennemis et appliquant une forte hypothermie.</VFEA_IceBreath.description>
+<VFEA_IceBreath.jobReportString>Utiliser capacité : {0}</VFEA_IceBreath.jobReportString>
+<VFEA_IceBreath.verbProperties.label>souffle de glace</VFEA_IceBreath.verbProperties.label>
+
+<VFEA_LaserEyes.label>yeux laser</VFEA_LaserEyes.label>
+<VFEA_LaserEyes.description>Tirer un rayon d'énergie incroyablement puissant de vos yeux. Portée maximum : 35.</VFEA_LaserEyes.description>
+<VFEA_LaserEyes.jobReportString>Utiliser capacité : {0}</VFEA_LaserEyes.jobReportString>
+<VFEA_LaserEyes.verbProperties.label>yeux laser</VFEA_LaserEyes.verbProperties.label>
+
+<VFEA_MatterPhasing.label>phasage des matières</VFEA_MatterPhasing.label>
+<VFEA_MatterPhasing.description>Activer le passage à travers les murs pendant 10 secondes.</VFEA_MatterPhasing.description>
+<VFEA_MatterPhasing.jobReportString>Utiliser capacité : {0}</VFEA_MatterPhasing.jobReportString>
+<VFEA_MatterPhasing.verbProperties.label>phasage des matières</VFEA_MatterPhasing.verbProperties.label>
+
+<VFEA_ElectricityBlast.label>explosion électrique</VFEA_ElectricityBlast.label>
+<VFEA_ElectricityBlast.description>Tirer un arc de foudre qui rebondit entre les ennemis, les brûlant et désactive toute électronique.</VFEA_ElectricityBlast.description>
+<VFEA_ElectricityBlast.jobReportString>Utiliser capacité : {0}</VFEA_ElectricityBlast.jobReportString>
+<VFEA_ElectricityBlast.verbProperties.label>explosion électrique</VFEA_ElectricityBlast.verbProperties.label>
+
+<VFEA_SpeedBurst.label>bonus de vitesse</VFEA_SpeedBurst.label>
+<VFEA_SpeedBurst.description>Augmenter votre vitesse de mouvement par 4 et réduit votre temps de recharge en mêlée par 2. Dure 30 secondes.</VFEA_SpeedBurst.description>
+<VFEA_SpeedBurst.jobReportString>Utiliser capacité : {0}</VFEA_SpeedBurst.jobReportString>
+<VFEA_SpeedBurst.verbProperties.label>bonus de vitesse</VFEA_SpeedBurst.verbProperties.label>
+
+<VFEA_AcidBreath.label>crachat d'acide</VFEA_AcidBreath.label>
+<VFEA_AcidBreath.description>Le sujet a développé des sacs de produits chimiques concentrés dans sa poitrine. Les sacs sont reliés par des tubes aux coins de sa bouche et peuvent être expulsés en contractant sa poitrine lorsqu'il crache, réagissant ainsi avec l'oxygène et formant des gouttes de gelée caustique.</VFEA_AcidBreath.description>
+<VFEA_AcidBreath.jobReportString>Utiliser capacité : {0}</VFEA_AcidBreath.jobReportString>
+<VFEA_AcidBreath.verbProperties.label>crachat d'acide</VFEA_AcidBreath.verbProperties.label>
+
+<VFEA_Fireball.label>boule de feu</VFEA_Fireball.label>
+<VFEA_Fireball.description>Le sujet a développé un sac de carburant chimique gélifié dans la paume de sa main ainsi que de nombreuses glandes. Toutes les 30 secondes, ces glandes expulsent une boule de napalm dans un poing fermé qui peut ensuite être lancé pour s'enflammer dans l'air, avant d'atterrir et de mettre le feu à une petite zone.</VFEA_Fireball.description>
+<VFEA_Fireball.jobReportString>Utiliser capacité : {0}</VFEA_Fireball.jobReportString>
+<VFEA_Fireball.verbProperties.label>boule de feu</VFEA_Fireball.verbProperties.label>
+
+<VFEA_MetamorphosisTurtle.label>métamorphose (tortue)</VFEA_MetamorphosisTurtle.label>
+<VFEA_MetamorphosisTurtle.description>Le sujet est capable d'exercer temporairement une force psychique qui oblige son corps à prendre la forme de ce que l'esprit est convaincu qu'il doit être. Dans ce cas, il prend la forme d'une tortue, avec la même santé, la même taille et les mêmes capacités, avant que son corps ne reprenne sa forme réelle après 60 secondes.</VFEA_MetamorphosisTurtle.description>
+<VFEA_MetamorphosisTurtle.jobReportString>Utiliser capacité : {0}</VFEA_MetamorphosisTurtle.jobReportString>
+<VFEA_MetamorphosisTurtle.verbProperties.label>métamorphose (tortue)</VFEA_MetamorphosisTurtle.verbProperties.label>
+
+<VFEA_MetamorphosisWarg.label>métamorphose (warg)</VFEA_MetamorphosisWarg.label>
+<VFEA_MetamorphosisWarg.description>Le sujet est capable d'exercer temporairement une force psychique qui oblige son corps à prendre la forme de ce que l'esprit est convaincu qu'il doit être. Dans ce cas, il prend la forme d'un warg, avec la même santé, la même taille et les mêmes capacités, avant que son corps ne reprenne sa forme réelle après 60 secondes.</VFEA_MetamorphosisWarg.description>
+<VFEA_MetamorphosisWarg.jobReportString>Utiliser capacité : {0}</VFEA_MetamorphosisWarg.jobReportString>
+<VFEA_MetamorphosisWarg.verbProperties.label>métamorphose (warg)</VFEA_MetamorphosisWarg.verbProperties.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEV_OrbitalTargeterMjollnir.label>viseur orbital Mjölnir</VFEV_OrbitalTargeterMjollnir.label>
+<VFEV_OrbitalTargeterMjollnir.description>Un ancien dispositif de visée pour les satellites Mjölnir oubliés depuis longtemps. Ce dispositif détermine une cible et transmet les coordonnées à un relais cible, qui crée alors une décharge électrique localisée autour de la cible. Cet appareil a été reprogrammé pour accepter les utilisateurs non autorisés, mais une fois utilisé, le réseau détectera l'intrusion et coupera définitivement la connexion.</VFEV_OrbitalTargeterMjollnir.description>
+<VFEV_OrbitalTargeterMjollnir.comps.CompReloadable.chargeNoun>charge</VFEV_OrbitalTargeterMjollnir.comps.CompReloadable.chargeNoun>
+<VFEV_OrbitalTargeterMjollnir.verbs.Verb_LightningStrike.label>viseur orbital Mjölnir</VFEV_OrbitalTargeterMjollnir.verbs.Verb_LightningStrike.label>
+<VFEV_LightningStrike.label>tempête de foudre</VFEV_LightningStrike.label>
+<VFEV_OrbitalTargeterMjollnir.comps.CompReloadable.cooldownGerund>en recharge</VFEV_OrbitalTargeterMjollnir.comps.CompReloadable.cooldownGerund>
+
+
+</LanguageData>

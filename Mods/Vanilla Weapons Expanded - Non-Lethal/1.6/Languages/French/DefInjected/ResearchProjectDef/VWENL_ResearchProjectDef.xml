@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: non-lethal weapons -->
+<VWE_NonLethal.label>armes non létales</VWE_NonLethal.label>
+<!-- EN: Craft a selection of non-lethal weapons, including tear gas launchers and tasers. -->
+<VWE_NonLethal.description>Vous permet de fabriquer une sélection d'armes non létales, notamment des lanceurs de gaz lacrymogène et des tasers.</VWE_NonLethal.description>
+<!-- EN:
+  <li>subject->the art of restraint</li>
+  <li>subject_story->pioneered the development of weapons designed to incapacitate rather than kill, emphasizing the value of life and ethical engagement</li>
+  <li>subject_story->crafted tools like tear gas launchers and tasers, providing options for control and defense without fatal outcomes</li>
+  <li>subject_gerund->advancing conflict resolution with humanity and compassion through non-lethal means</li>
+-->
+<VWE_NonLethal.generalRules.rulesStrings>
+  <li>subject->l'art de la retenue</li>
+  <li>subject_story->a été le premier à mettre au point des armes conçues pour neutraliser plutôt que pour tuer, en mettant l'accent sur la valeur de la vie et l'engagement éthique</li>
+  <li>subject_story->a conçu des outils tels que des lanceurs de gaz lacrymogène et des pistolets à impulsion électrique, offrant ainsi des possibilités de contrôle et de défense sans issue fatale</li>
+  <li>subject_gerund->la résolution des conflits avec humanité et compassion par des moyens non létaux</li>
+</VWE_NonLethal.generalRules.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: bonded animal {0} banished -->
+<VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.label>animal lié {0} banni</VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.label>
+<!-- EN: My bonded animal was banished, finally. -->
+<VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.description>Mon animal de compagnie a été banni, enfin.</VTE_BondedAnimalBanishedHater.stages.bonded_animal_banished.description>
+
+<!-- EN: bonded animal {0} died -->
+<VTE_BondedAnimalDiedHater.stages.bonded_animal_died.label>animal lié {0} est mort</VTE_BondedAnimalDiedHater.stages.bonded_animal_died.label>
+<!-- EN: Such a gross, annoying animal. I'm glad it's gone! -->
+<VTE_BondedAnimalDiedHater.stages.bonded_animal_died.description>Un animal si répugnant et ennuyeux. Je suis content qu'il soit mort !</VTE_BondedAnimalDiedHater.stages.bonded_animal_died.description>
+
+<!-- EN: bonded animal {0} lost -->
+<VTE_BondedAnimalLostHater.stages.bonded_animal_lost.label>animal lié {0} perdu</VTE_BondedAnimalLostHater.stages.bonded_animal_lost.label>
+<!-- EN: Such a gross, annoying animal. I'm glad it's gone! -->
+<VTE_BondedAnimalLostHater.stages.bonded_animal_lost.description>Un animal si répugnant et ennuyeux. Je suis content qu'il soit parti !</VTE_BondedAnimalLostHater.stages.bonded_animal_lost.description>
+
+<!-- EN: {0}'s master -->
+<VTE_BondedAnimalMasterHater.stages.s_master.label>maître de {0}</VTE_BondedAnimalMasterHater.stages.s_master.label>
+<!-- EN: Being around that nasty thing makes me hate life itself. -->
+<VTE_BondedAnimalMasterHater.stages.s_master.description>Être à proximité de cette vilaine chose me fait détester la vie elle-même.</VTE_BondedAnimalMasterHater.stages.s_master.description>
+<!-- EN: master of {0} -->
+<VTE_BondedAnimalMasterHater.stages.master_of.label>maître de {0}</VTE_BondedAnimalMasterHater.stages.master_of.label>
+<!-- EN: Being around that nasty thing makes me hate life itself. -->
+<VTE_BondedAnimalMasterHater.stages.master_of.description>Être à proximité de cette vilaine chose me fait détester la vie elle-même.</VTE_BondedAnimalMasterHater.stages.master_of.description>
+
+<!-- EN: killed colony animal -->
+<VTE_KilledColonyAnimalHater.stages.killed_colony_animal.label>animal de la colonie tué</VTE_KilledColonyAnimalHater.stages.killed_colony_animal.label>
+
+<!-- EN: killed my bonded animal -->
+<VTE_KilledMyBondedAnimalHater.stages.killed_my_bonded_animal.label>tué mon animal lié</VTE_KilledMyBondedAnimalHater.stages.killed_my_bonded_animal.label>
+
+<!-- EN: not {0}'s master -->
+<VTE_NotBondedAnimalMasterHater.stages.not_s_master.label>n'est pas le maître de {0}</VTE_NotBondedAnimalMasterHater.stages.not_s_master.label>
+<!-- EN: That thing may like me, but I certainly don't like it back - I'm glad somebody else took it. -->
+<VTE_NotBondedAnimalMasterHater.stages.not_s_master.description>Cette chose m'aime peut-être, mais je ne l'aime pas en retour - je suis content que quelqu'un d'autre l'ait pris.</VTE_NotBondedAnimalMasterHater.stages.not_s_master.description>
+<!-- EN: not master of {0} -->
+<VTE_NotBondedAnimalMasterHater.stages.not_master_of.label>pas le maître de {0}</VTE_NotBondedAnimalMasterHater.stages.not_master_of.label>
+<!-- EN: That thing may like me, but I certainly don't like it back - I'm glad somebody else took it. -->
+<VTE_NotBondedAnimalMasterHater.stages.not_master_of.description>Cette chose m'aime peut-être, mais je ne l'aime pas en retour - je suis content que quelqu'un d'autre l'ait pris.</VTE_NotBondedAnimalMasterHater.stages.not_master_of.description>
+
+<!-- EN: nuzzled -->
+<VTE_NuzzledHater.stages.nuzzled.label>câlin</VTE_NuzzledHater.stages.nuzzled.label>
+<!-- EN: A disgusting animal nuzzled me. -->
+<VTE_NuzzledHater.stages.nuzzled.description>Un animal répugnant m'a fait un câlin.</VTE_NuzzledHater.stages.nuzzled.description>
+
+<!-- EN: bonded animal given away. -->
+<VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.label>animal lié donné</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.label>
+<!-- EN: My nasty bonded animal was given away, about time! -->
+<VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.description>Mon vilain animal lié a été donné, il était temps !</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.description>
+<!-- EN: gave away my bonded animal. -->
+<VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.labelSocial>a donné mon animal lié</VTE_SoldMyBondedAnimalHater.stages.bonded_animal_given_away.labelSocial>
+
+<!-- EN: bonded animal given away -->
+<VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.label>animal lié donné</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.label>
+<!-- EN: My nasty bonded animal was given away, about time! -->
+<VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.description>Mon vilain animal lié a été donné, il était temps !</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.description>
+<!-- EN: gave away my bonded animal -->
+<VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.labelSocial>a donné mon animal lié</VTE_SoldMyBondedAnimalMoodHater.stages.bonded_animal_given_away.labelSocial>
+
+
+<!-- EN: No animals in the colony -->
+<VTE_AnimalsInColony.stages.No_animals_in_the_colony.label>aucun animal dans la colonie</VTE_AnimalsInColony.stages.No_animals_in_the_colony.label>
+<!-- EN: We don't have a single animal. -->
+<VTE_AnimalsInColony.stages.No_animals_in_the_colony.description>Nous n'avons pas un seul animal.</VTE_AnimalsInColony.stages.No_animals_in_the_colony.description>
+<!-- EN: Hardly any animals in the colony -->
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.label>presque aucun animal dans la colonie</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.label>
+<!-- EN: We have hardly any animals in the colony, this sucks. -->
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.description>Nous n'avons presque pas d'animaux dans la colonie, ça craint.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-0.description>
+<!-- EN: Hardly any animals in the colony -->
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.label>presque aucun animal dans la colonie</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.label>
+<!-- EN: We have hardly any animals in the colony, it's something I guess. -->
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.description>Nous n'avons presque pas d'animaux dans la colonie, c'est plutôt bien, je suppose.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-1.description>
+<!-- EN: Hardly any animals in the colony -->
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.label>presque aucun animal dans la colonie</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.label>
+<!-- EN: We have hardly any animals in the colony, it's something I guess. -->
+<VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.description>Nous n'avons presque pas d'animaux dans la colonie, c'est plutôt bien, je suppose.</VTE_AnimalsInColony.stages.Hardly_any_animals_in_the_colony-2.description>
+<!-- EN: A few animals in the colony -->
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.label>quelques animaux dans la colonie</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.label>
+<!-- EN: We have a few animals in the colony, that's nice. -->
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.description>Nous avons quelques animaux dans la colonie, c'est bien.</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-0.description>
+<!-- EN: A few animals in the colony -->
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.label>quelques animaux dans la colonie</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.label>
+<!-- EN: We have a few animals in the colony, that's nice. -->
+<VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.description>Nous avons quelques animaux dans la colonie, c'est bien.</VTE_AnimalsInColony.stages.A_few_animals_in_the_colony-1.description>
+<!-- EN: Some animals in the colony -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.label>plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.label>
+<!-- EN: We've got a decent amount of animals now, we're getting there. -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-0.description>
+<!-- EN: Some animals in the colony -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.label>plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.label>
+<!-- EN: We've got a decent amount of animals now, we're getting there. -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-1.description>
+<!-- EN: Some animals in the colony -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.label>plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.label>
+<!-- EN: We've got a decent amount of animals now, we're getting there. -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-2.description>
+<!-- EN: Some animals in the colony -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.label>plusieurs animaux dans la colonie</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.label>
+<!-- EN: We've got a decent amount of animals now, we're getting there. -->
+<VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.description>Nous avons une quantité décente d'animaux maintenant, nous y arrivons.</VTE_AnimalsInColony.stages.Some_animals_in_the_colony-3.description>
+<!-- EN: Lots of animals in the colony -->
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.label>beaucoup d'animaux dans la colonie</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.label>
+<!-- EN: We've got a lot of animals around the colony now, they're wonderful. -->
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.description>Nous avons beaucoup d'animaux dans la colonie maintenant, ils sont merveilleux.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-0.description>
+<!-- EN: Lots of animals in the colony -->
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.label>beaucoup d'animaux dans la colonie</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.label>
+<!-- EN: We've got a lot of animals around the colony now, they're wonderful. -->
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.description>Nous avons beaucoup d'animaux dans la colonie maintenant, ils sont merveilleux.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-1.description>
+<!-- EN: Lots of animals in the colony -->
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.label>beaucoup d'animaux dans la colonie</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.label>
+<!-- EN: We've got a lot of animals around the colony now, they're wonderful. -->
+<VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.description>Nous avons beaucoup d'animaux dans la colonie maintenant, ils sont merveilleux.</VTE_AnimalsInColony.stages.Lots_of_animals_in_the_colony-2.description>
+<!-- EN: A ton of animals in the colony -->
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.label>une tonne d'animaux dans la colonie</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.label>
+<!-- EN: We've got so many animals now! It makes me so happy to see them all! -->
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.description>Nous avons tellement d'animaux maintenant ! Ça me rend si heureux de tous les voir !</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-0.description>
+<!-- EN: A ton of animals in the colony -->
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.label>une tonne d'animaux dans la colonie</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.label>
+<!-- EN: We've got so many animals now! It makes me so happy to see them all! -->
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.description>Nous avons tellement d'animaux maintenant ! Ça me rend si heureux de tous les voir !</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-1.description>
+<!-- EN: A ton of animals in the colony -->
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.label>une tonne d'animaux dans la colonie</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.label>
+<!-- EN: We've got so many animals now! It makes me so happy to see them all! -->
+<VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.description>Nous avons tellement d'animaux maintenant ! Ça me rend si heureux de tous les voir !</VTE_AnimalsInColony.stages.A_ton_of_animals_in_the_colony-2.description>
+
+<!-- EN: Mountain lover -->
+<VTE_ChildOfMountain.stages.Mountain_lover.label>amoureux de la montagne</VTE_ChildOfMountain.stages.Mountain_lover.label>
+<!-- EN: I just love being around the mountains, they take my breath away. -->
+<VTE_ChildOfMountain.stages.Mountain_lover.description>J'adore être près de la montagne, elle me coupe le souffle.</VTE_ChildOfMountain.stages.Mountain_lover.description>
+
+<!-- EN: Ocean lover -->
+<VTE_ChildOfSea.stages.Ocean_lover.label>amoureux de l'océan</VTE_ChildOfSea.stages.Ocean_lover.label>
+<!-- EN: I just love being around the ocean and rivers, water is beautiful. -->
+<VTE_ChildOfSea.stages.Ocean_lover.description>J'aime être près de l'océan et des rivières, l'eau est magnifique.</VTE_ChildOfSea.stages.Ocean_lover.description>
+
+<!-- EN: Сould not finish item -->
+<VTE_CouldNotFinishItem.stages.ould_not_finish_item.label>objet non fini</VTE_CouldNotFinishItem.stages.ould_not_finish_item.label>
+<!-- EN: I couldn't finish my project, it just wasn't coming along correctly. -->
+<VTE_CouldNotFinishItem.stages.ould_not_finish_item.description>Je ne réussis pas à finir mon travail, les choses n’avancent pas comme je le souhaite.</VTE_CouldNotFinishItem.stages.ould_not_finish_item.description>
+
+<!-- EN: Created low quality item -->
+<VTE_CreatedLowQualityItem.stages.Created_low_quality_item.label>création d'un article de mauvaise qualité</VTE_CreatedLowQualityItem.stages.Created_low_quality_item.label>
+<!-- EN: I crafted junk. I feel like I can't do anything right. -->
+<VTE_CreatedLowQualityItem.stages.Created_low_quality_item.description>J'ai fabriqué de la camelote. J'ai l'impression de ne rien pouvoir faire de bien.</VTE_CreatedLowQualityItem.stages.Created_low_quality_item.description>
+
+<!-- EN: Dunce -->
+<VTE_Dunce.stages.Dunce.label>cancre</VTE_Dunce.stages.Dunce.label>
+<!-- EN: I don't really understand why everybody's so upset all the time. -->
+<VTE_Dunce.stages.Dunce.description>Je ne comprends pas vraiment pourquoi tout le monde est si énervé tout le temps.</VTE_Dunce.stages.Dunce.description>
+
+<!-- EN: darkness -->
+<VTE_EnvironmentDark.stages.darkness.label>obscurité</VTE_EnvironmentDark.stages.darkness.label>
+<!-- EN: I've been in the dark for a while. I like it. -->
+<VTE_EnvironmentDark.stages.darkness.description>Je suis dans le noir depuis un moment. J'aime ça.</VTE_EnvironmentDark.stages.darkness.description>
+
+<!-- EN: Harvested organs -->
+<VTE_HarvestedOrgans.stages.Harvested_organs.label>organes prélevés</VTE_HarvestedOrgans.stages.Harvested_organs.label>
+<!-- EN: The operation went just as expected, my collection has grown. -->
+<VTE_HarvestedOrgans.stages.Harvested_organs.description>L'opération s'est déroulée comme prévu, ma collection s'est agrandie.</VTE_HarvestedOrgans.stages.Harvested_organs.description>
+
+<!-- EN: Has not left colony -->
+<VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.label>n'a pas quitté la colonie</VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.label>
+<!-- EN: I haven't left home in a while, I'd really like to travel for a change. -->
+<VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.description>Je n'ai pas quitté la région depuis longtemps, j'aimerais vraiment voyager pour commercer.</VTE_HaventExitedColonyForLongTime.stages.Has_not_left_colony.description>
+
+<!-- EN: Hasn't harvested organs -->
+<VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.label>pas d’organe prélevé</VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.label>
+<!-- EN: I'm growing impatient and bored, I need more subjects. -->
+<VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.description>Je suis de plus en plus impatient et lassé, j'ai besoin de plus de sujets.</VTE_HaventHarvestedOrgansForLongTime.stages.Hasnt_harvested_organs.description>
+
+<!-- EN: Mechanoid died -->
+<VTE_MechanoidIsKilled.stages.Mechanoid_died.label>mécanoïde mort</VTE_MechanoidIsKilled.stages.Mechanoid_died.label>
+<!-- EN: Those evil machines don't deserve to function. -->
+<VTE_MechanoidIsKilled.stages.Mechanoid_died.description>Ces machines diaboliques ne méritent pas de fonctionner.</VTE_MechanoidIsKilled.stages.Mechanoid_died.description>
+
+<!-- EN: My rivals are alive -->
+<VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.label>mes rivaux sont vivants</VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.label>
+<!-- EN: I hate them. Why should they deserve to live? -->
+<VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.description>Je les déteste. Pourquoi méritent-ils de vivre ?</VTE_MyRivalsAreAlive.stages.My_rivals_are_alive.description>
+
+<!-- EN: No dedicated laboratory -->
+<VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.label>aucun laboratoire dédié</VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.label>
+<!-- EN: I have nowhere to study in peace, how annoying. -->
+<VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.description>Je n'ai aucun endroit où étudier en paix, comme c'est agaçant.</VTE_NoDedicatedLaboratory.stages.No_dedicated_laboratory.description>
+
+<!-- EN: observed much blood -->
+<VTE_ObservedManyBlood.stages.observed_much_blood.label>a vu beaucoup de sang</VTE_ObservedManyBlood.stages.observed_much_blood.label>
+<!-- EN: I saw so much blood and bits. Just remembering it makes me gag. -->
+<VTE_ObservedManyBlood.stages.observed_much_blood.description>J'ai vu tellement de sang et de morceaux. Le simple fait de m'en souvenir me donne la nausée.</VTE_ObservedManyBlood.stages.observed_much_blood.description>
+
+<!-- EN: Passionately cleaning -->
+<VTE_PassionateCleaningWork.stages.Passionately_cleaning.label>passionné de nettoyage</VTE_PassionateCleaningWork.stages.Passionately_cleaning.label>
+<!-- EN: I actually really enjoy organizing and cleaning up the place. -->
+<VTE_PassionateCleaningWork.stages.Passionately_cleaning.description>En réalité, j'aime vraiment bien ranger et nettoyer cet endroit.</VTE_PassionateCleaningWork.stages.Passionately_cleaning.description>
+
+<!-- EN: soaking wet -->
+<VTE_SoakingWetChildOfTheSea.stages.soaking_wet.label>trempé</VTE_SoakingWetChildOfTheSea.stages.soaking_wet.label>
+<!-- EN: I'm soaking wet. Love it. -->
+<VTE_SoakingWetChildOfTheSea.stages.soaking_wet.description>Je suis trempé. J'adore ça.</VTE_SoakingWetChildOfTheSea.stages.soaking_wet.description>
+
+<!-- EN: Watched television recently -->
+<VTE_WatchedTelevisor.stages.Watched_television_recently.label>a regardé la télévision récemment</VTE_WatchedTelevisor.stages.Watched_television_recently.label>
+<!-- EN: I got to laze around and catch up on my shows. -->
+<VTE_WatchedTelevisor.stages.Watched_television_recently.description>J'ai pu me détendre et rattraper mes émissions.</VTE_WatchedTelevisor.stages.Watched_television_recently.description>
+
+
+</LanguageData>

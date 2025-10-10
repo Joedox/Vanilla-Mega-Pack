@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEP.ChooseCurses>Sélectionnez vos malédictions</VFEP.ChooseCurses>
+<VFEP.ChooseCurses.Desc>Plus vous sélectionnez de malédictions, plus votre conteur vous permettra d'avoir des colons, et plus les événements de grande menace se feront rares.</VFEP.ChooseCurses.Desc>
+<VFEP.DesiredPopMax>Population souhaitée max : {0}</VFEP.DesiredPopMax>
+<VFEP.DaysBigThreats>Jours entre les menaces : {0}</VFEP.DaysBigThreats>
+<VFEP.WarcasketCustom>Personnalisation du warcasket</VFEP.WarcasketCustom>
+<VFEP.WarcasketText>Lorsque vous appuyez sur Accepter, un artisan que vous avez choisi apportera les ressources sur le cadre et commencera à assembler un warcasket. La vitesse d'assemblage dépend des compétences de votre artisan.
+Une fois le processus terminé, le warcasket quittera la plate-forme. Faites attention, car le colon sur la plateforme peut toujours mourir de faim lorsqu'il est sur celle-ci - vous devez donner la priorité à l'assemblage du warcasket par rapport aux autres tâches.</VFEP.WarcasketText>
+
+
+
+<VFEP.WorkAmount> Durée :</VFEP.WorkAmount>
+<VFEP.Crafter>Artisanat :</VFEP.Crafter>
+<VFEP.Helmet>Casque :</VFEP.Helmet>
+<VFEP.Shoulderpads>Épaulières :</VFEP.Shoulderpads>
+<VFEP.ArmorFrame>Armure :</VFEP.ArmorFrame>
+<VFEP.TotalCost> Coût total :</VFEP.TotalCost>
+<VFEP.ResourceCost>Coût en ressources :</VFEP.ResourceCost>
+<VFEP.ResearchText>Recherchez plus de technologie warcasket pour débloquer plus de pièces d'armure.</VFEP.ResearchText>
+<VFEP.NoWarcaskets>Recherchez les warcaskets pour apprendre à utiliser la fonderie.</VFEP.NoWarcaskets>
+<VFEP.NotEnoughFuel>Pas assez de chemfuel pour le saut de puissance.</VFEP.NotEnoughFuel>
+<VFEP.SiegeModeOff>Mode siège désactivé</VFEP.SiegeModeOff>
+<VFEP.SiegeModeOn>Mode siège activé</VFEP.SiegeModeOn>
+<VFEPirates.CannotEntomb>Impossible d'entrer dans la fonderie warcasket : {0}</VFEPirates.CannotEntomb>
+<VFEPirates.EntombInWarcasket>Entombé dans un warcasket</VFEPirates.EntombInWarcasket>
+<VFEP.EntombInIncapableOfViolenceWarning> (Attention : {PAWN_nameDef} n'est pas capable de violence, ça le rendrait inutile.)</VFEP.EntombInIncapableOfViolenceWarning>
+<VFEP.ActivateShield>Activer le champ de bouclier</VFEP.ActivateShield>
+<VFEP.ActivateShieldDesc>Cliquez pour activer le champ de bouclier. Il a 10 secondes de mode actif puis 90 secondes de rechargement.</VFEP.ActivateShieldDesc>
+<VFEP.DeployWarDrone>Déployez de petits drones prêts au combat depuis le port d'amarrage à l'arrière. Ces drones peuvent être contrôlés pour fournir un support de tir, mais ils s'autodétruiront après 60 secondes.</VFEP.DeployWarDrone>
+<VFEP.DeploySpidermineDesc>Tirez une mine araignée à longue distance qui se dirige automatiquement vers l'ennemi le plus proche et explose à son contact.</VFEP.DeploySpidermineDesc>
+<VFEP.Cancel>Annuler</VFEP.Cancel>
+<VFEP.ChildrenCannotUseThis>Les enfants ne peuvent pas l'utiliser.</VFEP.ChildrenCannotUseThis>
+
+
+</LanguageData>

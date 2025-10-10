@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Senators of {0} -->
+<VFEC.UI.SenatorsOf>Sénateurs de {0}</VFEC.UI.SenatorsOf>
+<!-- EN: Gaining the favor of this senator will unlock: -->
+<VFEC.UI.GainingFavor>Gagner le soutien de ce sénateur va débloquer :</VFEC.UI.GainingFavor>
+<!-- EN: {0} perk -->
+<VFEC.UI.Perk>Avantage : {0}</VFEC.UI.Perk>
+<!-- EN: {0} research project -->
+<VFEC.UI.Research>Projet de recherche : {0}</VFEC.UI.Research>
+<!-- EN: Request a quest -->
+<VFEC.UI.ReQuest>Demander une quête</VFEC.UI.ReQuest>
+<!-- EN: Bribe ({0} silver) -->
+<VFEC.UI.Bribe>Pot-de-vin ({0} d'argent)</VFEC.UI.Bribe>
+<!-- EN: Gaining the favor of all senators will unlock: -->
+<VFEC.UI.GainingFavorAll>Gagner le soutien de tous les sénateurs permettra de débloquer :</VFEC.UI.GainingFavorAll>
+<!-- EN: Senators in favor: {0}/{1} -->
+<VFEC.UI.SenatorsInFavor>Soutien des Sénateurs : {0}/{1}</VFEC.UI.SenatorsInFavor>
+<!-- EN: Gaining favor of a senator will have that senator join your colony. Losing that senator will force you to impress a new one. As such, you should aim to keep them alive.\n
+Gain support of all the senators to unlock unique perks and eventually unite the Republics under your rule. Once you gain favor of all 5 senators of any Republic, the perks are yours forever, no matter what happens to Senators. -->
+<VFEC.UI.Info>Si vous obtenez le soutien d'un sénateur, il rejoindra votre colonie. Si vous perdez ce sénateur, vous serez obligé d'en impressionner un nouveau. En tant que tel, vous devriez chercher à les garder en vie.\n\nGagnez le soutien de tous les sénateurs pour débloquer des avantages uniques et finalement unir les républiques sous votre règne. Une fois que vous aurez gagné le soutien des 5 sénateurs d'une République, les avantages seront à vous pour toujours, peu importe ce qui arrive aux sénateurs.</VFEC.UI.Info>
+<!-- EN: You do not have enough money with you to do this. -->
+<VFEC.UI.NotEnoughMoney>Vous n'avez pas assez d'argent sur vous pour le faire.</VFEC.UI.NotEnoughMoney>
+<!-- EN: {0} has rejected your bribe and can no longer be bribed. -->
+<VFEC.UI.BribeReject>{0} a rejeté votre pot-de-vin et ne peut plus être corrompu.</VFEC.UI.BribeReject>
+<!-- EN: Already have a quest for that senator. -->
+<VFEC.UI.AlreadyQuest>Nous avons déjà une quête pour ce sénateur.</VFEC.UI.AlreadyQuest>
+<!-- EN: View Perks -->
+<VFEC.UI.ViewPerks>Avantages</VFEC.UI.ViewPerks>
+<!-- EN: View Senators -->
+<VFEC.UI.ViewSenators>Sénateurs</VFEC.UI.ViewSenators>
+
+
+</LanguageData>

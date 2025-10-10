@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: absent-minded -->
+<VTE_AbsentMinded.degreeDatas.absentminded.label>distrait</VTE_AbsentMinded.degreeDatas.absentminded.label>
+<!-- EN: {PAWN_nameDef} tends to occasionally allow their mind to drift, even in the middle of working. -->
+<VTE_AbsentMinded.degreeDatas.absentminded.description>{PAWN_nameDef} a tendance à laisser son esprit dériver de temps en temps, même en plein travail.</VTE_AbsentMinded.degreeDatas.absentminded.description>
+<VTE_AbsentMinded.degreeDatas.absentminded.labelFemale>distraite</VTE_AbsentMinded.degreeDatas.absentminded.labelFemale>
+
+<!-- EN: academian -->
+<VTE_Academian.degreeDatas.academian.label>académicien</VTE_Academian.degreeDatas.academian.label>
+<!-- EN: Whether through studying ancient manuscripts or years of scholastic pursuit {PAWN_nameDef} is surprisingly well read on a variety of topics, particularly science and medical practice. -->
+<VTE_Academian.degreeDatas.academian.description>Que ce soit par l'étude de manuscrits anciens ou par des années d'études, {PAWN_nameDef} est étonnamment bien inform{PAWN_gender ? é : ée } sur une variété de sujets, en particulier la science et la pratique médicale.</VTE_Academian.degreeDatas.academian.description>
+<VTE_Academian.degreeDatas.academian.labelFemale>académicienne</VTE_Academian.degreeDatas.academian.labelFemale>
+
+<!-- EN: animal hater -->
+<VTE_AnimalHater.degreeDatas.animal_hater.label>déteste les animaux</VTE_AnimalHater.degreeDatas.animal_hater.label>
+<!-- EN: {PAWN_nameDef} believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them. -->
+<VTE_AnimalHater.degreeDatas.animal_hater.description>{PAWN_nameDef} croit profondément en la supériorité de l'homme. Tuer des animaux lui fait plaisir et la perte d'un animal dans la colonie est la cerise sur le gâteau selon {PAWN_pronoun}.</VTE_AnimalHater.degreeDatas.animal_hater.description>
+
+<!-- EN: animal lover -->
+<VTE_AnimalLover.degreeDatas.animal_lover.label>passionné d'animaux</VTE_AnimalLover.degreeDatas.animal_lover.label>
+<!-- EN: {PAWN_nameDef} can't stand mistreatment of animals. {PAWN_pronoun} will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher. -->
+<VTE_AnimalLover.degreeDatas.animal_lover.description>{PAWN_nameDef} ne supporte pas le mauvais traitement sur les animaux. {PAWN_pronoun} se sentira plus heureu{PAWN_gender ? x : se } en étant câliné ou en étant le maître d'un animal lié, mais {PAWN_pronoun} sera plus profondément anéant{PAWN_gender ? i : ie } si {PAWN_pronoun} n'est pas le maître d'un animal lié ou si {PAWN_pronoun} en voit un mourir. {PAWN_pronoun} refuse également de faire le travail de boucherie.</VTE_AnimalLover.degreeDatas.animal_lover.description>
+<VTE_AnimalLover.degreeDatas.animal_lover.labelFemale>passionnée d'animaux</VTE_AnimalLover.degreeDatas.animal_lover.labelFemale>
+
+<!-- EN: anxious -->
+<VTE_Anxious.degreeDatas.anxious.label>anxieux</VTE_Anxious.degreeDatas.anxious.label>
+<!-- EN: {PAWN_nameDef} feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe. -->
+<VTE_Anxious.degreeDatas.anxious.description>{PAWN_nameDef} est naturellement anxieu{PAWN_gender ? x : se }, surtout des situations sociales. {PAWN_pronoun} n'assistera à aucun rassemblement et pourra occasionnellement avoir besoin de temps seu{PAWN_gender ? l : le } dans sa chambre pour respirer.</VTE_Anxious.degreeDatas.anxious.description>
+<VTE_Anxious.degreeDatas.anxious.labelFemale>anxieuse</VTE_Anxious.degreeDatas.anxious.labelFemale>
+
+<!-- EN: big-boned -->
+<VTE_BigBoned.degreeDatas.bigboned.label>gros os</VTE_BigBoned.degreeDatas.bigboned.label>
+<!-- EN: Whether because they're a bit chunky or because they shift their weight oddly, {PAWN_nameDef} has broken a few chairs in their time and is likely to break more. -->
+<VTE_BigBoned.degreeDatas.bigboned.description>Que ce soit parce qu'{PAWN_pronoun} est un peu costaud ou parce qu'{PAWN_pronoun} déplace son corps bizarrement, {PAWN_nameDef} a cassé quelques chaises en son temps et {PAWN_pronoun} en cassera probablement d'autres.</VTE_BigBoned.degreeDatas.bigboned.description>
+
+<!-- EN: brave -->
+<VTE_Brave.degreeDatas.brave.label>courageux</VTE_Brave.degreeDatas.brave.label>
+<!-- EN: {PAWN_nameDef} has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds. -->
+<VTE_Brave.degreeDatas.brave.description>{PAWN_nameDef} a une plus grande force mentale et physique que la plupart des gens et {PAWN_pronoun} peut s'adapter plus facilement aux environnements difficiles de rimworld.</VTE_Brave.degreeDatas.brave.description>
+<VTE_Brave.degreeDatas.brave.labelFemale>courageuse</VTE_Brave.degreeDatas.brave.labelFemale>
+
+<!-- EN: cat person -->
+<VTE_CatPerson.degreeDatas.cat_person.label>personne à chat</VTE_CatPerson.degreeDatas.cat_person.label>
+<!-- EN: {PAWN_nameDef} is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs. -->
+<VTE_CatPerson.degreeDatas.cat_person.description>{PAWN_nameDef} est f{PAWN_gender ? ou : olle } de tout ce qui est félin. {PAWN_pronoun} s'attache naturellement aux chats, et {PAWN_pronoun} n'est pas fan des chiens.</VTE_CatPerson.degreeDatas.cat_person.description>
+
+<!-- EN: Mountain lover -->
+<VTE_ChildOfMountain.degreeDatas.Mountain_lover.label>amoureux de la montagne</VTE_ChildOfMountain.degreeDatas.Mountain_lover.label>
+<!-- EN: The mountains call to {PAWN_nameDef}. {PAWN_pronoun} feels happier just being near a large mountain. -->
+<VTE_ChildOfMountain.degreeDatas.Mountain_lover.description>La montagne appelle {PAWN_nameDef}. {PAWN_pronoun} se sent plus heureu{PAWN_gender ? x : se } rien qu'en étant près d'une grande montagne.</VTE_ChildOfMountain.degreeDatas.Mountain_lover.description>
+<VTE_ChildOfMountain.degreeDatas.Mountain_lover.labelFemale>amoureuse de la montagne</VTE_ChildOfMountain.degreeDatas.Mountain_lover.labelFemale>
+
+<!-- EN: Ocean lover -->
+<VTE_ChildOfSea.degreeDatas.Ocean_lover.label>amoureux de l'océan</VTE_ChildOfSea.degreeDatas.Ocean_lover.label>
+<!-- EN: The sea calls to {PAWN_nameDef}. {PAWN_pronoun} feels happier just being near the ocean or a deep river. -->
+<VTE_ChildOfSea.degreeDatas.Ocean_lover.description>La mer appelle {PAWN_nameDef}. {PAWN_pronoun} est plus heureu{PAWN_gender ? x : se } lorsqu'{PAWN_pronoun} est près de l'océan ou d'une rivière profonde.</VTE_ChildOfSea.degreeDatas.Ocean_lover.description>
+<VTE_ChildOfSea.degreeDatas.Ocean_lover.labelFemale>amoureuse de l'océan</VTE_ChildOfSea.degreeDatas.Ocean_lover.labelFemale>
+
+<!-- EN: clumsy -->
+<VTE_Clumsy.degreeDatas.clumsy.label>maladroit</VTE_Clumsy.degreeDatas.clumsy.label>
+<!-- EN: Minor bruises and scrapes plague {PAWN_nameDef} all too often, mostly due to uncoordinated tripping or falling. -->
+<VTE_Clumsy.degreeDatas.clumsy.description>{PAWN_nameDef} est trop souvent victime d'ecchymoses et d'égratignures mineures, principalement dues à des trébuchements ou à des chutes non coordonnés.</VTE_Clumsy.degreeDatas.clumsy.description>
+<VTE_Clumsy.degreeDatas.clumsy.labelFemale>maladroite</VTE_Clumsy.degreeDatas.clumsy.labelFemale>
+
+<!-- EN: cold inclined -->
+<VTE_ColdInclined.degreeDatas.cold_inclined.label>enclin au froid</VTE_ColdInclined.degreeDatas.cold_inclined.label>
+<!-- EN: {PAWN_nameDef} loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either. -->
+<VTE_ColdInclined.degreeDatas.cold_inclined.description>{PAWN_nameDef} aime le ciel couvert et la fraîcheur d'une nuit d'hiver. {PAWN_pronoun} n'a pas non plus peur de se geler ou de dormir dans le froid.</VTE_ColdInclined.degreeDatas.cold_inclined.description>
+<VTE_ColdInclined.degreeDatas.cold_inclined.labelFemale>encline au froid</VTE_ColdInclined.degreeDatas.cold_inclined.labelFemale>
+
+<!-- EN: couch potato -->
+<VTE_CouchPotato.degreeDatas.couch_potato.label>accroc au canapé</VTE_CouchPotato.degreeDatas.couch_potato.label>
+<!-- EN: An armchair and flatscreen is all {PAWN_nameDef} needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so. -->
+<VTE_CouchPotato.degreeDatas.couch_potato.description>Un fauteuil et un écran plat, c'est tout ce dont {PAWN_nameDef} a besoin pour être heureu{PAWN_gender ? x : se }. Même les rediffusions ou les anciennes publicités sont divertissantes pour {PAWN_objective}, {PAWN_pronoun} ne se lassera jamais de la télévision et aura tendance à la regarder davantage, tout en se sentant heureu{PAWN_gender ? x : se } après l'avoir fait.</VTE_CouchPotato.degreeDatas.couch_potato.description>
+
+<!-- EN: coward -->
+<VTE_Coward.degreeDatas.coward.label>lâche</VTE_Coward.degreeDatas.coward.label>
+<!-- EN: While fully capable of warfare in theory, {PAWN_nameDef}'s fight or flight instincts heavily lean towards flight, and {PAWN_pronoun} will try to hide or run as a first priority. -->
+<VTE_Coward.degreeDatas.coward.description>Bien qu'{PAWN_pronoun} soit tout à fait capable de faire la guerre en théorie, l'instinct de combat ou de fuite de {PAWN_nameDef} penche fortement vers la fuite, et {PAWN_pronoun} essaiera de se cacher ou de fuir en priorité.</VTE_Coward.degreeDatas.coward.description>
+
+<!-- EN: desensitized -->
+<VTE_Desensitized.degreeDatas.desensitized.label>insensible</VTE_Desensitized.degreeDatas.desensitized.label>
+<!-- EN: {PAWN_nameDef} is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies. -->
+<VTE_Desensitized.degreeDatas.desensitized.description>{PAWN_nameDef} s'est endurc{PAWN_gender ? i : ie } par un traumatisme émotionnel que nous supposons ancien. {PAWN_pronoun} ne ressent absolument rien suite à la perte d’un animal, d’un colon, d’un membre de sa famille, d’un prisonnier ou à la vue d’un cadavre.</VTE_Desensitized.degreeDatas.desensitized.description>
+
+<!-- EN: dog person -->
+<VTE_DogPerson.degreeDatas.dog_person.label>personne à chien</VTE_DogPerson.degreeDatas.dog_person.label>
+<!-- EN: {PAWN_nameDef} is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats. -->
+<VTE_DogPerson.degreeDatas.dog_person.description>{PAWN_nameDef} est f{PAWN_gender ? ou : olle } de tout ce qui est canin. {PAWN_pronoun} s'attache naturellement aux chiens, et {PAWN_pronoun} n'est pas fan des chats.</VTE_DogPerson.degreeDatas.dog_person.description>
+
+<!-- EN: drunken master -->
+<VTE_DrunkenMaster.degreeDatas.drunken_master.label>maître ivre</VTE_DrunkenMaster.degreeDatas.drunken_master.label>
+<!-- EN: {PAWN_nameDef} is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are. -->
+<VTE_DrunkenMaster.degreeDatas.drunken_master.description>{PAWN_nameDef} est cens{PAWN_gender ? é : ée } être u{PAWN_gender ? n : ne } spécialiste du combat à mains nues, mais seulement lorsqu'{PAWN_pronoun} est ivre. {PAWN_pronoun} prétend devenir plus talentueu{PAWN_gender ? x : qe } à mesure qu'{PAWN_pronoun} s'enivre.</VTE_DrunkenMaster.degreeDatas.drunken_master.description>
+
+<!-- EN: dunce -->
+<VTE_Dunce.degreeDatas.dunce.label>cancre</VTE_Dunce.degreeDatas.dunce.label>
+<!-- EN: {PAWN_nameDef} has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally. -->
+<VTE_Dunce.degreeDatas.dunce.description>{PAWN_nameDef} a des capacités mentales réduites. Bien qu'{PAWN_pronoun} soit len{PAWN_gender ? t : te } à apprendre, il est difficile de parler avec {PAWN_pronoun}, {PAWN_pronoun} a tendance à être beaucoup plus heureu{PAWN_gender ? x : se } naturellement.</VTE_Dunce.degreeDatas.dunce.description>
+
+<!-- EN: eccentric -->
+<VTE_Eccentric.degreeDatas.eccentric.label>excentrique</VTE_Eccentric.degreeDatas.eccentric.label>
+<!-- EN: {PAWN_nameDef} has a loose screw or two, a small trade off for being naturally scientifically inclined. -->
+<VTE_Eccentric.degreeDatas.eccentric.description>{PAWN_nameDef} a une ou deux vis desserrées, un petit compromis pour être naturellement enclin à la science.</VTE_Eccentric.degreeDatas.eccentric.description>
+
+<!-- EN: ecologist -->
+<VTE_Ecologist.degreeDatas.ecologist.label>écologiste</VTE_Ecologist.degreeDatas.ecologist.label>
+<!-- EN: Flora and fauna are both vital to {PAWN_nameDef}. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings. -->
+<VTE_Ecologist.degreeDatas.ecologist.description>La flore et la faune sont toutes deux vitales pour {PAWN_nameDef}. {PAWN_pronoun} utilise toutes les parties des plantes et des animaux et apprécie fortement les bienfaits de mère Gaia.</VTE_Ecologist.degreeDatas.ecologist.description>
+
+<!-- EN: fun-loving -->
+<VTE_FunLoving.degreeDatas.funloving.label>fêtard</VTE_FunLoving.degreeDatas.funloving.label>
+<!-- EN: {PAWN_nameDef} always recalls the good times and lives to party, any party attended will be remembered for many times longer than most. -->
+<VTE_FunLoving.degreeDatas.funloving.description>{PAWN_nameDef} se souvient toujours des bons moments et vit pour faire la fête, toute fête à laquelle {PAWN_pronoun} participe restera dans sa mémoire bien plus longtemps que la plupart des autres.</VTE_FunLoving.degreeDatas.funloving.description>
+
+<!-- EN: gastronomist -->
+<VTE_Gastronomist.degreeDatas.gastronomist.label>gastronome</VTE_Gastronomist.degreeDatas.gastronomist.label>
+<!-- EN: In the eyes of {PAWN_nameDef} food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat. -->
+<VTE_Gastronomist.degreeDatas.gastronomist.description>Aux yeux de {PAWN_nameDef}, la nourriture est un art. Ses créations culinaires sont incroyablement belles, incroyables à déguster et presque toujours saines à manger.</VTE_Gastronomist.degreeDatas.gastronomist.description>
+
+<!-- EN: groundbreaker -->
+<VTE_Groundbreaker.degreeDatas.groundbreaker.label>pionnier</VTE_Groundbreaker.degreeDatas.groundbreaker.label>
+<!-- EN: {PAWN_nameDef} strongly believes infrastucture rules all and is a natural born stoneworker. -->
+<VTE_Groundbreaker.degreeDatas.groundbreaker.description>{PAWN_nameDef} est convainc{PAWN_gender ? u : ue } que l'infrastructure est le maître mot et {PAWN_pronoun} est u{PAWN_gender ? n : ne } tailleu{PAWN_gender ? r : qe } de pierre n{PAWN_gender ? é : ée }.</VTE_Groundbreaker.degreeDatas.groundbreaker.description>
+
+<!-- EN: heat inclined -->
+<VTE_HeatInclined.degreeDatas.heat_inclined.label>enclin à la chaleur</VTE_HeatInclined.degreeDatas.heat_inclined.label>
+<!-- EN: {PAWN_nameDef} loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either. -->
+<VTE_HeatInclined.degreeDatas.heat_inclined.description>{PAWN_nameDef} aime la luminosité et la chaleur d'une journée d'été sèche. {PAWN_pronoun} n'a pas non plus peur de transpirer ou de dormir dans la chaleur.</VTE_HeatInclined.degreeDatas.heat_inclined.description>
+<VTE_HeatInclined.degreeDatas.heat_inclined.labelFemale>encline à la chaleur</VTE_HeatInclined.degreeDatas.heat_inclined.labelFemale>
+
+<!-- EN: heavy sleeper -->
+<VTE_HeavySleeper.degreeDatas.heavy_sleeper.label>sommeil profond</VTE_HeavySleeper.degreeDatas.heavy_sleeper.label>
+<!-- EN: A bomb could go off next to {PAWN_nameDef} while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either. -->
+<VTE_HeavySleeper.degreeDatas.heavy_sleeper.description>Une bombe pourrait exploser à côté de {PAWN_nameDef} pendant son sommeil qu'{PAWN_pronoun} continuerait à dormir. {PAWN_pronoun} ne se soucie pas non plus de défendre la colonie pendant sa sieste.</VTE_HeavySleeper.degreeDatas.heavy_sleeper.description>
+
+<!-- EN: insatiable -->
+<VTE_Insatiable.degreeDatas.insatiable.label>insatiable</VTE_Insatiable.degreeDatas.insatiable.label>
+<!-- EN: No amount of lovin' is enough lovin' for {PAWN_nameDef}. {PAWN_pronoun} will tend to jump from partner to partner and tumble between the sheets with them frequently. -->
+<VTE_Insatiable.degreeDatas.insatiable.description>{PAWN_nameDef} n'a jamais assez d'amour. {PAWN_pronoun} a tendance à passer de partenaire en partenaire et à se jeter dans les draps fréquemment avec ces conquêtes.</VTE_Insatiable.degreeDatas.insatiable.description>
+
+<!-- EN: insomniac -->
+<VTE_Insomniac.degreeDatas.insomniac.label>insomniaque</VTE_Insomniac.degreeDatas.insomniac.label>
+<!-- EN: {PAWN_nameDef} is never really asleep or awake. {PAWN_pronoun} is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so. -->
+<VTE_Insomniac.degreeDatas.insomniac.description>{PAWN_nameDef} n'est jamais vraiment endorm{PAWN_gender ? i : ie } ou éveill{PAWN_gender ? é : ée }. {PAWN_pronoun} est presque comme un zombie, {PAWN_pronoun} avance en titubant et travaille très lentement, {PAWN_pronoun} ne dort qu'une fois tous les trois jours environ.</VTE_Insomniac.degreeDatas.insomniac.description>
+
+<!-- EN: iron stomach -->
+<VTE_IronStomach.degreeDatas.iron_stomach.label>estomac d'acier</VTE_IronStomach.degreeDatas.iron_stomach.label>
+<!-- EN: {PAWN_nameDef} has never felt nausea in {PAWN_possessive} life. Throwing up or food poisoning is foreign to {PAWN_objective}. -->
+<VTE_IronStomach.degreeDatas.iron_stomach.description>{PAWN_nameDef} n'a jamais eu de nausées de sa vie. Les vomissements ou les intoxications alimentaires lui sont étrangers.</VTE_IronStomach.degreeDatas.iron_stomach.description>
+
+<!-- EN: kleptomaniac -->
+<VTE_Kleptomaniac.degreeDatas.kleptomaniac.label>cleptomanie</VTE_Kleptomaniac.degreeDatas.kleptomaniac.label>
+<!-- EN: {PAWN_nameDef} is compulsive to steal and take things that don't belong to them, even if it means angering the other party. -->
+<VTE_Kleptomaniac.degreeDatas.kleptomaniac.description>{PAWN_nameDef} est pouss{PAWN_gender ? é : ée } à voler et à prendre des choses qui ne lui appartiennent pas, même si cela doit mettre en colère l'autre personne.</VTE_Kleptomaniac.degreeDatas.kleptomaniac.description>
+
+<!-- EN: lush -->
+<VTE_Lush.degreeDatas.lush.label>ivrogne</VTE_Lush.degreeDatas.lush.label>
+<!-- EN: Alcohol culture is just part of life for {PAWN_nameDef}. {PAWN_pronoun} absolutely adores booze and would rather die before giving it up. -->
+<VTE_Lush.degreeDatas.lush.description>Pour {PAWN_nameDef}, la culture de l'alcool fait partie de la vie. {PAWN_pronoun} adore l'alcool et préférerait mourir plutôt que de s'en passer.</VTE_Lush.degreeDatas.lush.description>
+<VTE_Lush.degreeDatas.lush.labelFemale>ivrognesse</VTE_Lush.degreeDatas.lush.labelFemale>
+
+<!-- EN: mad surgeon -->
+<VTE_MadSurgeon.degreeDatas.mad_surgeon.label>chirurgien fou</VTE_MadSurgeon.degreeDatas.mad_surgeon.label>
+<!-- EN: {PAWN_nameDef} has a twisted secret. {PAWN_pronoun} treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them. -->
+<VTE_MadSurgeon.degreeDatas.mad_surgeon.description>{PAWN_nameDef} a un secret tordu. {PAWN_pronoun} traite le prélèvement d'organes comme une expérience médicale, et ne cligne même pas des yeux à cette idée. Le prélèvement d'organe l{PAWN_gender ? e : a } rendra heureu{PAWN_gender ? x : se }, mais rester trop longtemps sans céder à sa pulsion l{PAWN_gender ? e : a } bouleversera.</VTE_MadSurgeon.degreeDatas.mad_surgeon.description>
+<VTE_MadSurgeon.degreeDatas.mad_surgeon.labelFemale>chirurgienne folle</VTE_MadSurgeon.degreeDatas.mad_surgeon.labelFemale>
+
+<!-- EN: martial artist -->
+<VTE_MartialArtist.degreeDatas.martial_artist.label>art martial</VTE_MartialArtist.degreeDatas.martial_artist.label>
+<!-- EN: {PAWN_nameDef} learned a specific move in melee combat which allows them to disarm opponents and will use it frequently. -->
+<VTE_MartialArtist.degreeDatas.martial_artist.description>{PAWN_nameDef} a appris un mouvement spécifique en combat de mêlée qui lui permet de désarmer ses adversaires et l'utilisera fréquemment.</VTE_MartialArtist.degreeDatas.martial_artist.description>
+
+<!-- EN: menagerist -->
+<VTE_Menagerist.degreeDatas.menagerist.label>animalier</VTE_Menagerist.degreeDatas.menagerist.label>
+<!-- EN: {PAWN_nameDef} believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them. -->
+<VTE_Menagerist.degreeDatas.menagerist.description>{PAWN_nameDef} pense que les animaux font partie intégrante du fonctionnement de la société et de la vie, qu'il s'agisse d'amis à fourrure ou de sources de nourriture. {PAWN_pronoun} aime en avoir le plus possible et {PAWN_pronoun} est particulièrement dou{PAWN_gender ? é : ée } pour les apprivoiser et les dresser.</VTE_Menagerist.degreeDatas.menagerist.description>
+<VTE_Menagerist.degreeDatas.menagerist.labelFemale>animalière</VTE_Menagerist.degreeDatas.menagerist.labelFemale>
+
+<!-- EN: neat -->
+<VTE_Neat.degreeDatas.neat.label>propre</VTE_Neat.degreeDatas.neat.label>
+<!-- EN: {PAWN_nameDef} is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning. -->
+<VTE_Neat.degreeDatas.neat.description>{PAWN_nameDef} est naturellement hygiénique et organis{PAWN_gender ? é : ée }. {PAWN_pronoun} ne laissera ni traîner de saletés ni jeter de déchets n'importe où, et se sentira heureu{PAWN_gender ? x : se } en faisant le ménage.</VTE_Neat.degreeDatas.neat.description>
+
+<!-- EN: perfectionist -->
+<VTE_Perfectionist.degreeDatas.perfectionist.label>perfectionniste</VTE_Perfectionist.degreeDatas.perfectionist.label>
+<!-- EN: {PAWN_nameDef} strives for perfection in {PAWN_possessive} work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in. -->
+<VTE_Perfectionist.degreeDatas.perfectionist.description>{PAWN_nameDef} recherche la perfection dans son travail. {PAWN_pronoun} produira naturellement des produits de meilleure qualité au détriment du temps. Cependant, la fabrication d'un produit de mauvaise qualité l{PAWN_gender ? e : a } contrarie. De plus, il est très rare qu'{PAWN_pronoun} abandonne un projet en cours de route si {PAWN_pronoun} n'aime pas la direction que cela prend.</VTE_Perfectionist.degreeDatas.perfectionist.description>
+
+<!-- EN: prodigy -->
+<VTE_Prodigy.degreeDatas.prodigy.label>prodige</VTE_Prodigy.degreeDatas.prodigy.label>
+<!-- EN: {PAWN_nameDef} is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently. -->
+<VTE_Prodigy.degreeDatas.prodigy.description>{PAWN_nameDef} est u{PAWN_gender ? n : ne } scientifique né. {PAWN_pronoun} fait les recherches beaucoup plus rapidement et se souvient mieux des choses. Cependant, {PAWN_pronoun} sera contrari{PAWN_gender ? é : ée } sans un laboratoire dédié à son travail et aura tendance à stresser plus fréquemment.</VTE_Prodigy.degreeDatas.prodigy.description>
+
+<!-- EN: prude -->
+<VTE_Prude.degreeDatas.prude.label>prude</VTE_Prude.degreeDatas.prude.label>
+<!-- EN: {PAWN_nameDef} refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns. -->
+<VTE_Prude.degreeDatas.prude.description>{PAWN_nameDef} refuse de donner son corps à qui que ce soit d'autre que son conjoint et ne songerait jamais à entamer un divorce. {PAWN_pronoun} déteste également être nu, bien plus que les autres colons.</VTE_Prude.degreeDatas.prude.description>
+
+<!-- EN: rebel -->
+<VTE_Rebel.degreeDatas.rebel.label>rebelle</VTE_Rebel.degreeDatas.rebel.label>
+<!-- EN: {PAWN_nameDef} only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do. -->
+<VTE_Rebel.degreeDatas.rebel.description>{PAWN_nameDef} n'obéit qu'à ses propres règles, et lève les yeux au ciel et se la coule douce tout en accomplissant les tâches qu'on lui impose.</VTE_Rebel.degreeDatas.rebel.description>
+
+<!-- EN: refined palate -->
+<VTE_RefinedPalate.degreeDatas.refined_palate.label>palais raffiné</VTE_RefinedPalate.degreeDatas.refined_palate.label>
+<!-- EN: Only the finest of culinary creations may grace the lips of {PAWN_nameDef}. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite. -->
+<VTE_RefinedPalate.degreeDatas.refined_palate.description>Seules les créations culinaires les plus raffinées peuvent franchir les lèvres de {PAWN_nameDef}. {PAWN_pronoun} est neutre à l'égard des repas banals, mais loue et savoure les repas gastronomiques jusqu'à la dernière miette.</VTE_RefinedPalate.degreeDatas.refined_palate.description>
+
+<!-- EN: schizoid -->
+<VTE_Schizoid.degreeDatas.schizoid.label>schizoïdie</VTE_Schizoid.degreeDatas.schizoid.label>
+<!-- EN: {PAWN_nameDef} has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown. -->
+<VTE_Schizoid.degreeDatas.schizoid.description>{PAWN_nameDef} a du mal à s'exprimer jusqu'à ce que tout soit trop lourd à porter, après quoi {PAWN_pronoun} s'effondre complètement.</VTE_Schizoid.degreeDatas.schizoid.description>
+
+<!-- EN: slob -->
+<VTE_Slob.degreeDatas.slob.label>négligé</VTE_Slob.degreeDatas.slob.label>
+<!-- EN: {PAWN_nameDef} is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes. -->
+<VTE_Slob.degreeDatas.slob.description>{PAWN_nameDef} est naturellement néglig{PAWN_gender ? é : ée } et laisse traîner ses affaires et ses saletés partout. Au moins, {PAWN_pronoun} n'est pas dérang{PAWN_gender ? é : ée } par le désordre.</VTE_Slob.degreeDatas.slob.description>
+<VTE_Slob.degreeDatas.slob.labelFemale>négligée</VTE_Slob.degreeDatas.slob.labelFemale>
+
+<!-- EN: snob -->
+<VTE_Snob.degreeDatas.snob.label>snob</VTE_Snob.degreeDatas.snob.label>
+<!-- EN: {PAWN_nameDef} believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty. -->
+<VTE_Snob.degreeDatas.snob.description>{PAWN_nameDef} est persuad{PAWN_gender ? é : ée } d'appartenir à la haute société et adore critiquer l'art et côtoyer la royauté.</VTE_Snob.degreeDatas.snob.description>
+
+<!-- EN: squeamish -->
+<VTE_Squeamish.degreeDatas.squeamish.label>sensible</VTE_Squeamish.degreeDatas.squeamish.label>
+<!-- EN: Sour stomach plagues {PAWN_nameDef} any time they're around too much blood or rotting corpses. Vomiting is just part of life for {PAWN_objective}. -->
+<VTE_Squeamish.degreeDatas.squeamish.description>{PAWN_nameDef} a l'estomac fragile dès qu'il y a trop de sang ou de cadavres en décomposition. Vomir fait partie de sa vie.</VTE_Squeamish.degreeDatas.squeamish.description>
+
+<!-- EN: stoner -->
+<VTE_Stoner.degreeDatas.stoner.label>fumeur de joints</VTE_Stoner.degreeDatas.stoner.label>
+<!-- EN: Smokeleaf culture is just part of life for {PAWN_nameDef}. {PAWN_pronoun} absolutely adores smokeleaf and would rather die before giving it up. -->
+<VTE_Stoner.degreeDatas.stoner.description>Pour {PAWN_nameDef}, la culture du smokeleaf fait partie de la vie. {PAWN_pronoun} adore le smokeleaf et préférerait mourir plutôt que de l'abandonner.</VTE_Stoner.degreeDatas.stoner.description>
+<VTE_Stoner.degreeDatas.stoner.labelFemale>fumeuse de joints</VTE_Stoner.degreeDatas.stoner.labelFemale>
+
+<!-- EN: submissive -->
+<VTE_Submissive.degreeDatas.submissive.label>soumis</VTE_Submissive.degreeDatas.submissive.label>
+<!-- EN: {PAWN_nameDef} needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something. -->
+<VTE_Submissive.degreeDatas.submissive.description>{PAWN_nameDef} a besoin d'instructions claires sur comment et quand faire certaines choses et travaillera à une vitesse normale uniquement lorsqu'{PAWN_pronoun} sera forc{PAWN_gender ? é : ée } à le faire.</VTE_Submissive.degreeDatas.submissive.description>
+<VTE_Submissive.degreeDatas.submissive.labelFemale>soumise</VTE_Submissive.degreeDatas.submissive.labelFemale>
+
+<!-- EN: technophobe -->
+<VTE_Technophobe.degreeDatas.technophobe.label>technophobe</VTE_Technophobe.degreeDatas.technophobe.label>
+<!-- EN: Whether by past trauma or fear of change, {PAWN_nameDef} rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids. -->
+<VTE_Technophobe.degreeDatas.technophobe.description>Que ce soit par un traumatisme passé ou par peur du changement, {PAWN_nameDef} rejette la modernité. {PAWN_pronoun} peut frapper ou attaquer des appareils mécaniques au hasard et refuse d'apprendre ou de faire des recherches à leur sujet. {PAWN_pronoun} adore également tuer des mécanoïdes.</VTE_Technophobe.degreeDatas.technophobe.description>
+
+<!-- EN: thick skinned -->
+<VTE_ThickSkinned.degreeDatas.thick_skinned.label>peau dure</VTE_ThickSkinned.degreeDatas.thick_skinned.label>
+<!-- EN: {PAWN_nameDef} is strangely hypercoagulating and will bleed much more slowly than most. -->
+<VTE_ThickSkinned.degreeDatas.thick_skinned.description>{PAWN_nameDef} est étrangement hypercoagulant et saigne beaucoup moins que la plupart des gens.</VTE_ThickSkinned.degreeDatas.thick_skinned.description>
+
+<!-- EN: thin skinned -->
+<VTE_ThinSkinned.degreeDatas.thin_skinned.label>peau fine</VTE_ThinSkinned.degreeDatas.thin_skinned.label>
+<!-- EN: {PAWN_nameDef} is strangely hemophilic and tends to bleed much more profusely than others. -->
+<VTE_ThinSkinned.degreeDatas.thin_skinned.description>{PAWN_nameDef} est étrangement hémophile et a tendance à saigner plus abondamment que les autres.</VTE_ThinSkinned.degreeDatas.thin_skinned.description>
+
+<!-- EN: tycoon -->
+<VTE_Tycoon.degreeDatas.tycoon.label>magnat</VTE_Tycoon.degreeDatas.tycoon.label>
+<!-- EN: {PAWN_nameDef} has an eye for silver and a tongue made from it. They believe their products are the best products and {PAWN_pronoun} will likely convince you if given the chance. -->
+<VTE_Tycoon.degreeDatas.tycoon.description>{PAWN_nameDef} a un œil pour l'argent et une langue qui en découle. {PAWN_pronoun} est convainc{PAWN_gender ? u : ue } que ses produits sont les meilleurs et {PAWN_pronoun} saura probablement vous convaincre si vous lui en donnez l'occasion.</VTE_Tycoon.degreeDatas.tycoon.description>
+
+<!-- EN: vengeful -->
+<VTE_Vengeful.degreeDatas.vengeful.label>rancunier</VTE_Vengeful.degreeDatas.vengeful.label>
+<!-- EN: {PAWN_nameDef} is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending. -->
+<VTE_Vengeful.degreeDatas.vengeful.description>{PAWN_nameDef} est aliment{PAWN_gender ? é : ée } par la rancune. {PAWN_pronoun} ne supporte pas de fouler le même sol que ses rivaux et se réjouira en apprenant leur mort.</VTE_Vengeful.degreeDatas.vengeful.description>
+<VTE_Vengeful.degreeDatas.vengeful.labelFemale>rancunière</VTE_Vengeful.degreeDatas.vengeful.labelFemale>
+
+<!-- EN: wanderlust -->
+<VTE_Wanderlust.degreeDatas.wanderlust.label>nomade</VTE_Wanderlust.degreeDatas.wanderlust.label>
+<!-- EN: {PAWN_nameDef} loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling. -->
+<VTE_Wanderlust.degreeDatas.wanderlust.description>{PAWN_nameDef} adore voyager et le fait rapidement, mais {PAWN_pronoun} peut être contrarié si {PAWN_pronoun} n'a pas voyagé depuis un certain temps. {PAWN_pronoun} est également très dou{PAWN_gender ? é : ée } pour la recherche de nourriture lors de ses déplacements.</VTE_Wanderlust.degreeDatas.wanderlust.description>
+
+<!-- EN: workaholic -->
+<VTE_Workaholic.degreeDatas.workaholic.label>bourreau de travail</VTE_Workaholic.degreeDatas.workaholic.label>
+<!-- EN: {PAWN_nameDef} has problems taking breaks or resting mid job. {PAWN_pronoun} will continue to work even sacrificing their health or sleep. -->
+<VTE_Workaholic.degreeDatas.workaholic.description>{PAWN_nameDef} a du mal à faire des pauses ou à se reposer pendant son travail. {PAWN_pronoun} continuera à travailler même en sacrifiant sa santé ou son sommeil.</VTE_Workaholic.degreeDatas.workaholic.description>
+
+<!-- EN: world weary -->
+<VTE_WorldWeary.degreeDatas.world_weary.label>insatisfait</VTE_WorldWeary.degreeDatas.world_weary.label>
+<!-- EN: {PAWN_nameDef} has grown tired of the world and needs to be constantly distracted to stop dark thoughts. {PAWN_possessive} bleak personality is a big downer and therefore it is very hard to become friends with them. -->
+<VTE_WorldWeary.degreeDatas.world_weary.description>{PAWN_nameDef} s'est lass{PAWN_gender ? é : ée } du monde et a besoin d'être constamment distrai{PAWN_gender ? t : te } pour arrêter ses pensées sombres. Sa personnalité morose est très déprimante et il est donc très difficile de devenir am{PAWN_gender ? i : ie } avec {PAWN_pronoun}.</VTE_WorldWeary.degreeDatas.world_weary.description>
+<VTE_WorldWeary.degreeDatas.world_weary.labelFemale>insatisfaite</VTE_WorldWeary.degreeDatas.world_weary.labelFemale>
+
+
+</LanguageData>

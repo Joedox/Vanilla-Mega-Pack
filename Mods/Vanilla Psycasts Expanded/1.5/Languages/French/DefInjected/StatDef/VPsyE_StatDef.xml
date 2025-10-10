@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: minimum neural heat -->
+<VPE_PsychicEntropyMinimum.label>échauffement neuronal minimum</VPE_PsychicEntropyMinimum.label>
+<!-- EN: The minimum amount of neural heat. This is increased by maintaining certain psycasts, which give heat that never fades. -->
+<VPE_PsychicEntropyMinimum.description>La quantité minimum d'échauffement neuronal. Cet effet est accru par le maintien de certains sorts psychique, qui verrouille une quantité d'échauffement neuronal.</VPE_PsychicEntropyMinimum.description>
+
+<!-- EN: psyfocus cost factor -->
+<VPE_PsyfocusCostFactor.label>facteur du coût de concentration psychique</VPE_PsyfocusCostFactor.label>
+<!-- EN: A multiplier on psyfocus cost of psycasts. -->
+<VPE_PsyfocusCostFactor.description>Un multiplicateur sur le coût de la concentration psychique des psylanceurs.</VPE_PsyfocusCostFactor.description>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Deposits -->
+<VOEAdditionalOutposts.DepositTab>Dépôts</VOEAdditionalOutposts.DepositTab>
+<!-- EN: {0} bank {1} deposit produced {2} -->
+<VOEAdditionalOutposts.BankInterestMsg>La banque {0} a généré {2} d'{1} d’intérêt pour le dépôt.</VOEAdditionalOutposts.BankInterestMsg>
+<!-- EN: Deposit +{0} in {1} Seasons -->
+<VOEAdditionalOutposts.DepositCurrent>Dépôt +{0} pour {1} saison{1_multiple ? s : } </VOEAdditionalOutposts.DepositCurrent>
+<!-- EN: Seasons left: {0} -->
+<VOEAdditionalOutposts.DepositSeasonsLeft>Saison restante : {0}</VOEAdditionalOutposts.DepositSeasonsLeft>
+<!-- EN: Deposit time left: {0} -->
+<VOEAdditionalOutposts.DepositTimeLeft>Temps restant du dépôt : {0}</VOEAdditionalOutposts.DepositTimeLeft>
+<!-- EN: Current season interest: {0} -->
+<VOEAdditionalOutposts.DepositIncome>Intérêt de la saison en cours : {0}</VOEAdditionalOutposts.DepositIncome>
+<!-- EN: Interest delivered to {0} -->
+<VOEAdditionalOutposts.DepositDeliver>Intérêts livrés à {0}</VOEAdditionalOutposts.DepositDeliver>
+<!-- EN: Interest added to deposit -->
+<VOEAdditionalOutposts.DepositKeep>Intérêts réinvestis dans le dépôt</VOEAdditionalOutposts.DepositKeep>
+<!-- EN: Added to deposit next season: -->
+<VOEAdditionalOutposts.DepositAddedNextSeason>Nouveau dépôt pour la prochaine saison :</VOEAdditionalOutposts.DepositAddedNextSeason>
+<!-- EN: Select next deposit: -->
+<VOEAdditionalOutposts.DepositSelectDeposit>Sélectionner le prochain dépôt :</VOEAdditionalOutposts.DepositSelectDeposit>
+<!-- EN: Auto repeat deopsit -->
+<VOEAdditionalOutposts.DepositAutoRepeat>Répéter automatiquement le dépôt</VOEAdditionalOutposts.DepositAutoRepeat>
+<!-- EN: Open new deposit -->
+<VOEAdditionalOutposts.DepositStart>Créer le nouveau dépôt</VOEAdditionalOutposts.DepositStart>
+<!-- EN: Premature deposit withdrawal -->
+<VOEAdditionalOutposts.DepositStop>Retrait prématuré du dépôt</VOEAdditionalOutposts.DepositStop>
+<!-- EN: Deposit max wealth: {0} -->
+<VOEAdditionalOutposts.DepositMaxWealth>Dépôt de richesse max : {0}</VOEAdditionalOutposts.DepositMaxWealth>
+<!-- EN: Max Deposit Wealth per Social Skill -->
+<VOEAdditionalOutposts.Settings.DepositWealthPerSocial>Richesse max par point dans la compétence Sociabilité </VOEAdditionalOutposts.Settings.DepositWealthPerSocial>
+<!-- EN: Silver Interest Multiplier -->
+<VOEAdditionalOutposts.Settings.SilverInterestMultiplier>Multiplicateur d'intérêts pour l'argent </VOEAdditionalOutposts.Settings.SilverInterestMultiplier>
+<!-- EN: Gold Interest Multiplier -->
+<VOEAdditionalOutposts.Settings.GoldInterestMultiplier>Multiplicateur d'intérêts pour l'or </VOEAdditionalOutposts.Settings.GoldInterestMultiplier>
+<!-- EN: Early Withdrawal Available -->
+<VOEAdditionalOutposts.Settings.EarlyDepositStop>Possibilité de retrait anticipé</VOEAdditionalOutposts.Settings.EarlyDepositStop>
+
+
+</LanguageData>

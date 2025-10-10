@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEE_ArtExhibit_Outcome.description>En fonction de la qualité du rituel, les participants obtiendront une humeur comprise entre {MINMOOD} et {MAXMOOD} pendant {MOODDAYS} jours.</VFEE_ArtExhibit_Outcome.description>
+<VFEE_ArtExhibit_Outcome.comps.0.label>Nombre de participants</VFEE_ArtExhibit_Outcome.comps.0.label>
+<VFEE_ArtExhibit_Outcome.comps.1.label>Prestige de la pièce</VFEE_ArtExhibit_Outcome.comps.1.label>
+<VFEE_ArtExhibit_Outcome.outcomeChances.0.label>Épouvantable</VFEE_ArtExhibit_Outcome.outcomeChances.0.label>
+<VFEE_ArtExhibit_Outcome.outcomeChances.1.label>Ennuyant</VFEE_ArtExhibit_Outcome.outcomeChances.1.label>
+<VFEE_ArtExhibit_Outcome.outcomeChances.2.label>Agréable</VFEE_ArtExhibit_Outcome.outcomeChances.2.label>
+<VFEE_ArtExhibit_Outcome.outcomeChances.3.label>Incroyable</VFEE_ArtExhibit_Outcome.outcomeChances.3.label>
+
+<VFEE_BestowHonor_Outcome.description>Le bénéficiaire gagnera de l'honneur.</VFEE_BestowHonor_Outcome.description>
+<VFEE_BestowHonor_Outcome.comps.0.label>test</VFEE_BestowHonor_Outcome.comps.0.label>
+
+<VFEE_BestowTitle_Outcome.description>En fonction de la qualité du rituel, les participants obtiendront une humeur comprise entre {MINMOOD} et {MAXMOOD} pendant {MOODDAYS} jours.</VFEE_BestowTitle_Outcome.description>
+<VFEE_BestowTitle_Outcome.comps.0.label>Impact social de {PAWN_labelShort}</VFEE_BestowTitle_Outcome.comps.0.label>
+<VFEE_BestowTitle_Outcome.comps.0.labelAbstract>Impact social du bénéficiaire</VFEE_BestowTitle_Outcome.comps.0.labelAbstract>
+<VFEE_BestowTitle_Outcome.comps.1.label>Nombre de participants</VFEE_BestowTitle_Outcome.comps.1.label>
+<VFEE_BestowTitle_Outcome.comps.2.label>Disponible à un trône</VFEE_BestowTitle_Outcome.comps.2.label>
+<VFEE_BestowTitle_Outcome.outcomeChances.0.label>Gênant</VFEE_BestowTitle_Outcome.outcomeChances.0.label>
+<VFEE_BestowTitle_Outcome.outcomeChances.1.label>Bon</VFEE_BestowTitle_Outcome.outcomeChances.1.label>
+<VFEE_BestowTitle_Outcome.outcomeChances.2.label>Incroyable</VFEE_BestowTitle_Outcome.outcomeChances.2.label>
+
+<VFEE_Parade_Outcome.description>À l'issue du défilé, le Stellaire et ses compagnons choisis s'élèveront pour servir l'empire !</VFEE_Parade_Outcome.description>
+<VFEE_Parade_Outcome.outcomeChances.0.label>Incroyable</VFEE_Parade_Outcome.outcomeChances.0.label>
+
+<VFEE_RoyalAddres_Outcome.description>En fonction de la qualité du rituel, les participants obtiendront une humeur comprise entre {MINMOOD} et {MAXMOOD} pendant {MOODDAYS} jours.</VFEE_RoyalAddres_Outcome.description>
+<VFEE_RoyalAddres_Outcome.comps.0.label>Impact social de {PAWN_labelShort}</VFEE_RoyalAddres_Outcome.comps.0.label>
+<VFEE_RoyalAddres_Outcome.comps.0.labelAbstract>Impact social de l'orateur</VFEE_RoyalAddres_Outcome.comps.0.labelAbstract>
+<VFEE_RoyalAddres_Outcome.comps.1.label>Nombre de participants</VFEE_RoyalAddres_Outcome.comps.1.label>
+<VFEE_RoyalAddres_Outcome.comps.2.label>Prestige de la pièce</VFEE_RoyalAddres_Outcome.comps.2.label>
+<VFEE_RoyalAddres_Outcome.outcomeChances.0.label>Épouvantable</VFEE_RoyalAddres_Outcome.outcomeChances.0.label>
+<VFEE_RoyalAddres_Outcome.outcomeChances.1.label>Sans intérêt</VFEE_RoyalAddres_Outcome.outcomeChances.1.label>
+<VFEE_RoyalAddres_Outcome.outcomeChances.2.label>Encourageant</VFEE_RoyalAddres_Outcome.outcomeChances.2.label>
+<VFEE_RoyalAddres_Outcome.outcomeChances.3.label>Inspirant</VFEE_RoyalAddres_Outcome.outcomeChances.3.label>
+
+<VFEE_GrandBall_Outcome.description>En fonction de la qualité du rituel, les participants obtiendront une humeur comprise entre {MINMOOD} et {MAXMOOD} pendant {MOODDAYS} jours.</VFEE_GrandBall_Outcome.description>
+<VFEE_GrandBall_Outcome.comps.0.label>Nombre de participants</VFEE_GrandBall_Outcome.comps.0.label>
+<VFEE_GrandBall_Outcome.comps.1.label>Prestige de la pièce</VFEE_GrandBall_Outcome.comps.1.label>
+<VFEE_GrandBall_Outcome.outcomeChances.0.label>Épouvantable</VFEE_GrandBall_Outcome.outcomeChances.0.label>
+<VFEE_GrandBall_Outcome.outcomeChances.1.label>Ennuyant</VFEE_GrandBall_Outcome.outcomeChances.1.label>
+<VFEE_GrandBall_Outcome.outcomeChances.2.label>Agréable</VFEE_GrandBall_Outcome.outcomeChances.2.label>
+<VFEE_GrandBall_Outcome.outcomeChances.3.label>Incroyable</VFEE_GrandBall_Outcome.outcomeChances.3.label>
+
+
+</LanguageData>

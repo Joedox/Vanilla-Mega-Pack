@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VVE_ClassicCars.label>voitures de collection</VVE_ClassicCars.label>
+<VVE_ClassicCars.description>Vous permet d'apprendre à construire des voitures de de collection et fantaisistes telles que le springbok. Pour réaliser ce projet, il vous faudra trouver une épave de springbok et la restaurer.</VVE_ClassicCars.description>
+<VVE_ClassicCars.generalRules.rulesStrings>
+    <li>subject->la restauration de voitures de collection</li>
+    <li>subject_story->a commencé à ramener l'élégance sur les routes en restaurant une épave de springbok</li>
+    <li>subject_story->a fusionné des designs intemporels avec une ingénierie moderne pour recréer le charme des voitures de collection</li>
+    <li>subject_gerund->l'élégance automobile retrouvée</li>
+</VVE_ClassicCars.generalRules.rulesStrings>
+
+<VVE_SuperCars.label>supercars</VVE_SuperCars.label>
+<VVE_SuperCars.description>Vous permet d'apprendre à construire des supercars rapides et luxueuses telles que la foudre. Pour mener à bien ce projet, il vous faudra trouver une épave de foudre et la restaurer.</VVE_SuperCars.description>
+<VVE_SuperCars.generalRules.rulesStrings>
+    <li>subject->l'ingénierie des supercars</li>
+    <li>subject_story->a évolué vers la fabrication de véhicules qui incarnent la vitesse et le luxe, en commençant par la restauration d'une épave de foudre.</li>
+    <li>subject_story->a repoussé les limites de la performance et de l'esthétique pour créer les machines de conduite les plus performantes</li>
+    <li>subject_gerund->la conception de la vitesse et du luxe</li>
+</VVE_SuperCars.generalRules.rulesStrings>
+
+<VVE_BattleTanks.label>chars de combat</VVE_BattleTanks.label>
+<VVE_BattleTanks.description>Vous permet d'apprendre à construire des chars de combat lourdement blindés tels que le marshal, équipés d'une variété d'armes. Pour mener à bien ce projet, il vous faudra trouver une épave du marshal et la restaurer.</VVE_BattleTanks.description>
+<VVE_BattleTanks.generalRules.rulesStrings>
+    <li>subject->la production de chars de combat</li>
+    <li>subject_story->a initié l'ère de la guerre des blindés en restaurant les prouesses d'une épave de marshal</li>
+    <li>subject_story->a combiné une puissance de feu dévastatrice à un blindage impénétrable pour dominer le champ de bataille</li>
+    <li>subject_gerund->la domination de la puissance des blindés</li>
+</VVE_BattleTanks.generalRules.rulesStrings>
+
+<VVE_LightArmoredVehicles.label>véhicules blindés légers</VVE_LightArmoredVehicles.label>
+<VVE_LightArmoredVehicles.description>Vous permet d'apprendre à construire des véhicules blindés légers tels que le paladin ou le harceleur, qui peuvent transporter des soldats de manière efficace et efficiente tout en leur fournissant un appui-feu. Pour réaliser ce projet, il vous faudra trouver une épave du paladin ou du harceleur et la restaurer.</VVE_LightArmoredVehicles.description>
+<VVE_LightArmoredVehicles.generalRules.rulesStrings>
+    <li>subject->la mobilité des blindés légers</li>
+    <li>subject_story->est entré dans le domaine de la polyvalence tactique en restaurant des épaves comme le paladin ou le harceleur</li>
+    <li>subject_story->a conçu des véhicules qui concilient vitesse, protection et puissance de feu pour soutenir les troupes en mouvement</li>
+    <li>subject_gerund->l'amélioration de la mobilité sur le champ de bataille</li>
+</VVE_LightArmoredVehicles.generalRules.rulesStrings>
+
+<VVE_OffroadJeeps.label>jeeps tout-terrain</VVE_OffroadJeeps.label>
+<VVE_OffroadJeeps.description>Vous permet d'apprendre à construire des jeeps tout-terrain telles que le nomade, qui peuvent traverser n'importe quel terrain avec facilité. Pour réaliser ce projet, il vous faudra trouver une épave de nomade et la restaurer.</VVE_OffroadJeeps.description>
+<VVE_OffroadJeeps.generalRules.rulesStrings>
+    <li>subject->la construction de jeep tout-terrain</li>
+    <li>subject_story->a commencé à maîtriser l'art de construire des jeeps tout-terrain polyvalentes comme le nomad, ce qui a nécessité la restauration d'une épave</li>
+    <li>subject_story->a libéré le potentiel d'exploration et d'exploitation de terrains jusqu'alors inaccessibles</li>
+    <li>subject_gerund->la navigation dans des paysages accidentés</li>
+</VVE_OffroadJeeps.generalRules.rulesStrings>
+
+<VVE_Louie.label>louie</VVE_Louie.label>
+<VVE_Louie.description>Vous permet d'apprendre à construire un grand hélicoptère de transport appelé Louie, capable de transporter facilement des marchandises et des troupes sur de longues distances. Pour mener à bien ce projet, il vous faudra trouver une épave de louie et la restaurer.</VVE_Louie.description>
+<VVE_Louie.generalRules.rulesStrings>
+    <li>subject->le développement de l'hélicoptère louie</li>
+    <li>subject_story->s'est lancé dans la logistique aérienne en apprenant à construire le louie, un gros hélicoptère de transport, à partir d'une épave</li>
+    <li>subject_story->a permis le transport rapide et flexible de marchandises et de troupes sur de vastes distances</li>
+    <li>subject_gerund->la maîtrise du transport aérien</li>
+</VVE_Louie.generalRules.rulesStrings>
+
+<VVE_BigRigs.label>gros camions</VVE_BigRigs.label>
+<VVE_BigRigs.description>Vous permet d'apprendre à construire de gros camions tels que le gros engin ou l'hermano, capables de transporter de grandes quantités de marchandises sur de très longues distances. Pour réaliser ce projet, il vous faudra trouver une épave de gros engin ou d'hermano et la restaurer.</VVE_BigRigs.description>
+<VVE_BigRigs.generalRules.rulesStrings>
+    <li>subject->les camions de gros tonnage</li>
+    <li>subject_story->a évolué vers la construction de camions long-courriers monumentaux comme le gros engin ou l'hermano, suite à la découverte et à l'étude d'une épave</li>
+    <li>subject_story->a considérablement augmenté la capacité de chargement et le rayon d'action des transports terrestres</li>
+    <li>subject_gerund->la révolution de la livraison de fret par voie terrestre</li>
+</VVE_BigRigs.generalRules.rulesStrings>
+
+<VVE_Cherokee.label>cherokee</VVE_Cherokee.label>
+<VVE_Cherokee.description>Vous permet d'apprendre à construire un hélicoptère cargo à deux rotors appelé cherokee, capable de livrer des milliers de kilogrammes de ressources par voie aérienne. Pour mener à bien ce projet, il vous faudra trouver une épave de cherokee et la restaurer.</VVE_Cherokee.description>
+<VVE_Cherokee.generalRules.rulesStrings>
+    <li>subject->la création d'un hélicoptère cherokee</li>
+    <li>subject_story->a élargi les capacités logistiques aériennes en concevant le cherokee, un hélicoptère cargo à deux rotors, qui a nécessité la restauration d'une épave</li>
+    <li>subject_story->a facilité le déplacement de charges massives par voie aérienne, en contournant les obstacles terrestres</li>
+    <li>subject_gerund->la logistique vers de nouveaux sommets</li>
+</VVE_Cherokee.generalRules.rulesStrings>
+
+<VVE_SelfpropelledArtillery.label>artillerie automotrice</VVE_SelfpropelledArtillery.label>
+<VVE_SelfpropelledArtillery.description>Vous permet d'apprendre à construire une puissante artillerie automotrice telle que le célèbre udar, capable de faire pleuvoir des tirs d'artillerie sur les ennemis de la carte locale. Pour mener à bien ce projet, il vous faudra trouver une épave d'udar et la restaurer.</VVE_SelfpropelledArtillery.description>
+<VVE_SelfpropelledArtillery.generalRules.rulesStrings>
+    <li>subject->la construction d'artillerie automotrice</li>
+    <li>subject_story->s'est lancé dans la création de l'udar, une formidable pièce d'artillerie automotrice, après avoir restauré une épave</li>
+    <li>subject_story->a amélioré le soutien du champ de bataille grâce à une artillerie mobile capable d'effectuer des bombardements précis et à longue portée sur des zones locales</li>
+    <li>subject_gerund->le déploiement de la puissance de feu stratégique</li>
+</VVE_SelfpropelledArtillery.generalRules.rulesStrings>
+
+<VVE_RocketArtillery.label>artillerie à roquettes</VVE_RocketArtillery.label>
+<VVE_RocketArtillery.description>Vous permet d'apprendre à construire des systèmes de roquettes à lancement multiple permettant de couvrir une zone entière de missiles. Pour mener à bien ce projet, il vous faudra trouver une épave de burya et la restaurer.</VVE_RocketArtillery.description>
+<VVE_RocketArtillery.generalRules.rulesStrings>
+    <li>subject->le développement de l'artillerie à roquettes</li>
+    <li>subject_story->a progressé vers l'assemblage de systèmes de roquettes à lancement multiple comme le burya, ce qui a nécessité la restauration d'une épave</li>
+    <li>subject_story->a introduit des capacités de neutralisation de zone avec des volées de missiles, transformant ainsi les tactiques de défense de zone et de suppression</li>
+    <li>subject_gerund->l'assaut aérien en masse</li>
+</VVE_RocketArtillery.generalRules.rulesStrings>
+
+<VVE_SiegePods.label>capsules de siège</VVE_SiegePods.label>
+<VVE_SiegePods.description>Vous permet d'apprendre à construire de puissantes capsules de siège qui servent de bases temporaires et mobiles lors d'assauts en territoire ennemi. Pour mener à bien ce projet, il vous faudra trouver une épave de goliath et la restaurer.</VVE_SiegePods.description>
+<VVE_SiegePods.generalRules.rulesStrings>
+    <li>subject->l'ingénierie des capsules de siège</li>
+    <li>subject_story->a avancé dans la fabrication de capsules de siège pour les bases d'assaut dynamiques, suite à la restauration d'une épave goliath</li>
+    <li>subject_story->a créé des bases mobiles pouvant être déployées lors d'assauts, fournissant un soutien logistique et de combat en territoire ennemi</li>
+    <li>subject_gerund->la mise en place de forteresses mobiles</li>
+</VVE_SiegePods.generalRules.rulesStrings>
+
+
+</LanguageData>

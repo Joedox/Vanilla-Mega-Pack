@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge Pistol -->
+
+  <VWE_Bullet_ChargePistol.label>énergie pistolet à impulsion</VWE_Bullet_ChargePistol.label>
+
+  <VWE_Gun_ChargePistol.label>pistolet à impulsion</VWE_Gun_ChargePistol.label>
+  <VWE_Gun_ChargePistol.description>Un pistolet à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nCe pistolet à trois coups est une arme de poing très efficace déployée dans tous les régiments de commandos impériaux.</VWE_Gun_ChargePistol.description>
+  <VWE_Gun_ChargePistol.tools.barrel.label>canon</VWE_Gun_ChargePistol.tools.barrel.label>
+  <VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>pistolet à impulsion</VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>
+
+
+  <!-- Charge Shotgun -->
+
+  <VWE_Bullet_ChargeShotgun.label>énergie fusil à pompe à impulsion</VWE_Bullet_ChargeShotgun.label>
+
+  <VWE_Gun_ChargeShotgun.label>fusil à pompe à impulsion</VWE_Gun_ChargeShotgun.label>
+  <VWE_Gun_ChargeShotgun.description>Un fusil à pompe à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nMortel à courte distance, ce fusil a été interdit par l'armée impériale pour avoir infligé une souffrance incommensurable.</VWE_Gun_ChargeShotgun.description>
+  <VWE_Gun_ChargeShotgun.tools.barrel.label>canon</VWE_Gun_ChargeShotgun.tools.barrel.label>
+  <VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>fusil à pompe à impulsion</VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>
+
+
+  <!-- Charge SMG -->
+
+  <VWE_Bullet_ChargeSMG.label>énergie pistolet-mitrailleur à impulsion</VWE_Bullet_ChargeSMG.label>
+
+  <VWE_Gun_ChargeSMG.label>pistolet-mitrailleur à impulsion</VWE_Gun_ChargeSMG.label>
+  <VWE_Gun_ChargeSMG.description>Un pistolet-mitrailleur à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nTire rapidement mais nécessite de se rapprocher de la cible.</VWE_Gun_ChargeSMG.description>
+  <VWE_Gun_ChargeSMG.tools.barrel.label>canon</VWE_Gun_ChargeSMG.tools.barrel.label>
+  <VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>pistolet-mitrailleur à impulsion</VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>
+
+
+  <!-- Charge LMG -->
+
+  <VWE_Bullet_ChargeLMG.label>énergie mitrailleuse à impulsion</VWE_Bullet_ChargeLMG.label>
+
+  <VWE_Gun_ChargeLMG.label>mitrailleuse à impulsion</VWE_Gun_ChargeLMG.label>
+  <VWE_Gun_ChargeLMG.description>Une mitrailleuse à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nLa mitrailleuse à impulsion tire une volée de projectiles à une vitesse élevée, ce qui la rend idéale pour le tir de suppression.</VWE_Gun_ChargeLMG.description>
+  <VWE_Gun_ChargeLMG.tools.barrel.label>canon</VWE_Gun_ChargeLMG.tools.barrel.label>
+  <VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>mitrailleuse à impulsion</VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>
+
+
+  <!-- Charge Sniper Rifle -->
+
+  <VWE_Bullet_ChargeSniperRifle.label>énergie fusil de précision à impulsion</VWE_Bullet_ChargeSniperRifle.label>
+
+  <VWE_Gun_ChargeSniperRifle.label>fusil de précision à impulsion</VWE_Gun_ChargeSniperRifle.label>
+  <VWE_Gun_ChargeSniperRifle.description>Un fusil de précision à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nLa puissance de l'arme et la cadence de tir sont réduites du fait que les trois canons tirent simultanément.</VWE_Gun_ChargeSniperRifle.description>
+  <VWE_Gun_ChargeSniperRifle.tools.stock.label>chargeur</VWE_Gun_ChargeSniperRifle.tools.stock.label>
+  <VWE_Gun_ChargeSniperRifle.tools.barrel.label>canon</VWE_Gun_ChargeSniperRifle.tools.barrel.label>
+  <VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>fusil de précision à impulsion</VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>
+
+
+  <!-- Charge Minigun -->
+
+  <VWE_Bullet_ChargeMinigun.label>énergie minigun à impulsion</VWE_Bullet_ChargeMinigun.label>
+
+  <VWE_Gun_ChargeMinigun.label>minigun à impulsion</VWE_Gun_ChargeMinigun.label>
+  <VWE_Gun_ChargeMinigun.description>Un minigun à impulsion d’énergie. La technologie à impulsion tir une énergie instable lorsqu'il quitte le canon. Libérée à l’impact, l’énergie instable chargée dans le projectile augmente considérablement les dégâts.\n\nCapable de couvrir toute la zone en une volée de tirs anti-blindage, ce minigun est souvent utilisé par les mercenaires du Glitterworld lors de leurs infâmes raids.</VWE_Gun_ChargeMinigun.description>
+  <VWE_Gun_ChargeMinigun.tools.stock.label>chargeur</VWE_Gun_ChargeMinigun.tools.stock.label>
+  <VWE_Gun_ChargeMinigun.tools.barrel.label>canon</VWE_Gun_ChargeMinigun.tools.barrel.label>
+  <VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>minigun à impulsion</VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>
+  
+
+</LanguageData>

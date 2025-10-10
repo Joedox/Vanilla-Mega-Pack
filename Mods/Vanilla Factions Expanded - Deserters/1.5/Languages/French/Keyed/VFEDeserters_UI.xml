@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFED.ContactDeserters>Appeler les Déserteurs</VFED.ContactDeserters>
+<VFED.Visibility>{0}</VFED.Visibility>
+<VFED.CurrentVisibility>Visibilité actuelle : </VFED.CurrentVisibility>
+<VFED.Effects>Effets :</VFED.Effects>
+<VFED.IntelCostModifier>Coût en renseignement : </VFED.IntelCostModifier>
+<VFED.ContrabandRecieveTimeModifier>Délai de réception contrebande : </VFED.ContrabandRecieveTimeModifier>
+<VFED.ContrabandSiteTimeModifier>Disponibilité des boîtes mortes : </VFED.ContrabandSiteTimeModifier>
+<VFED.ImperialResponseTime>Temps de réponse impériale : </VFED.ImperialResponseTime>
+<VFED.ImperialResponseType>Type de réponse impériale : </VFED.ImperialResponseType>
+<VFED.SpecialEffects>Effets spéciaux : </VFED.SpecialEffects>
+<VFED.NoResponse>Aucune</VFED.NoResponse>
+<VFED.None>Aucun</VFED.None>
+<VFED.ItemName>Nom de l'objet</VFED.ItemName>
+<VFED.Cost>Coût </VFED.Cost>
+<VFED.Basket>Panier :</VFED.Basket>
+<VFED.ContrabandRecieveDesc>Les objets achetés via le système de contrebande n'arrivent pas dans votre colonie par capsule. À la place, une quête de récupération de boîte morte sera disponible après un certain temps, la quête sera disponible que pendant un certain temps. C'est là que vous récupérez les objets de contrebande achetés.</VFED.ContrabandRecieveDesc>
+<VFED.Purchase>Acheter</VFED.Purchase>
+<VFED.RushDelivery>Livraison rapide</VFED.RushDelivery>
+<VFED.TotalCost>Coût total du panier :</VFED.TotalCost>
+<VFED.RushDeliveryDesc>Vous pouvez effectuer une livraison rapide pour recevoir les articles instantanément par capsules, mais cela double le coût de votre commande.</VFED.RushDeliveryDesc>
+<VFED.TimeToReceive>Délai de réception estimé : (*DateTime){0}-{1} jours(/DateTime)</VFED.TimeToReceive>
+<VFED.TimeToPickup>Temps de ramassage : (*DateTime){0} jours(/DateTime)</VFED.TimeToPickup>
+<VFED.TimeLimitDesc>Le délai de réception et le temps de ramassage dépendent de la quantité d'objets que vous achetez, ainsi que de votre niveau de visibilité actuel. Une fois le délai de réception écoulé, une quête de boîte morte sera disponible. Elle ne sera active que pendant la durée indiquée dans "Temps de ramassage". Si vous ne la récupérez pas à temps, les objets disparaîtront.</VFED.TimeLimitDesc>
+<VFED.NotEnough>Pas assez de {0}. Besoin {1}, Possédé {2}</VFED.NotEnough>
+<VFED.DeserterQuestDesc>C'est une quête de déserteur. Elle peut fournir des renseignements sur l'Empire, mais aussi accroître votre visibilité en tant que faction.</VFED.DeserterQuestDesc>
+<VFED.AvailableQuests>Quêtes disponibles</VFED.AvailableQuests>
+<VFED.CriticalQuests>Quêtes critiques</VFED.CriticalQuests>
+<VFED.QuestDescription>Description de la quête :</VFED.QuestDescription>
+<VFED.QuestPurchaseDesc>Vous pouvez payer des renseignements pour obtenir des quêtes du réseau des déserteurs, mais vous ne connaîtrez pas les récompenses de la quête tant que vous ne l'aurez pas achetée.</VFED.QuestPurchaseDesc>
+<VFED.TotalQuestCost>Coût total des quêtes :</VFED.TotalQuestCost>
+<VFED.Activate>Accepter</VFED.Activate><!-- Activer -->
+<VFED.OtherServices>Autres services :</VFED.OtherServices>
+<VFED.Rewards>Récompenses :</VFED.Rewards>
+<VFED.PlotDesc>Description du complot :</VFED.PlotDesc>
+<VFED.PlotTarget>Cible : {0}</VFED.PlotTarget>
+<VFED.CompletedOn>Achevée le {0}</VFED.CompletedOn>
+<VFED.CombatHigh>Combat : Élevé</VFED.CombatHigh>
+<VFED.CombatMedium>Combat : Moyen</VFED.CombatMedium>
+<VFED.CombatLow>Combat : Faible</VFED.CombatLow>
+<VFED.CombatHighDesc>Attendez-vous à des combats intenses.</VFED.CombatHighDesc>
+<VFED.CombatMediumDesc>Attendez-vous à des combats.</VFED.CombatMediumDesc>
+<VFED.CombatLowDesc>Attendez-vous à des combats minimes.</VFED.CombatLowDesc>
+<VFED.ShowActiveQuest>Afficher la quête active</VFED.ShowActiveQuest>
+<VFED.Select>Choisir</VFED.Select>
+<VFED.HullIntegrity>Intégrité de la coque</VFED.HullIntegrity>
+<VFED.Flagship>Vaisseau amiral</VFED.Flagship>
+<VFED.StartMission>Démarrer la mission</VFED.StartMission>
+<VFED.IntelAmount>Le nombre de {0} à proximité d’une balise orbitale.</VFED.IntelAmount>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Extract 150 chemfuel -->
+<VCHE_ExtractChemfuel>Extraire 150 chemfuel</VCHE_ExtractChemfuel>
+<!-- EN: Extract 150 chemfuel from the tank. A pawn will come to extract it. -->
+<VCHE_ExtractChemfuelDesc>Extrait 150 chemfuel du réservoir. Un colon viendra l'extraire.</VCHE_ExtractChemfuelDesc>
+
+<!-- EN: Extract 150 deepchem -->
+<VCHE_ExtractDeepchem>Extraire 150 deepchem</VCHE_ExtractDeepchem>
+<!-- EN: Extract 150 deepchem from the tank. A pawn will come to extract it. -->
+<VCHE_ExtractDeepchemDesc>Extrait 150 deepchem du réservoir. Un colon viendra l'extraire.</VCHE_ExtractDeepchemDesc>
+
+<!-- EN: Can’t refine: Tanks are full -->
+<VCHE_CantRefine>Impossible de raffiner : Réservoir plein</VCHE_CantRefine>
+<!-- EN: Can’t pump: Tanks are full -->
+<VCHE_CantPump>Impossible de pomper : Réservoir plein</VCHE_CantPump>
+
+<!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
+<VCHE_CantPlaceHere>La station de pompage deepchem doit être placée sur un gisement deepchem. Utilisez un scanner géologique pour trouver des gisements.</VCHE_CantPlaceHere>
+
+<!-- EN: Switches chemfuel flow on/off. -->
+<VCHE_ChemValve>Ouvrir / Fermer</VCHE_ChemValve>
+<!-- EN: Switches chemfuel flow on/off. A pawn will come open/close the valve. -->
+<VCHE_ChemValveDesc>Ouvre / Ferme le flux de chemfuel. Un colon viendra bientôt pour actionner la vanne.</VCHE_ChemValveDesc>
+
+<!-- EN: Switches deepchem flow on/off. -->
+<VCHE_DeepChemValve>Ouvrir / Fermer</VCHE_DeepChemValve>
+<!-- EN: Switches deepchem flow on/off. A pawn will come open/close the valve. -->
+<VCHE_DeepChemValveDesc>Ouvre / Ferme le flux de deepchem. Un colon viendra bientôt pour actionner la vanne.</VCHE_DeepChemValveDesc>
+
+
+</LanguageData>

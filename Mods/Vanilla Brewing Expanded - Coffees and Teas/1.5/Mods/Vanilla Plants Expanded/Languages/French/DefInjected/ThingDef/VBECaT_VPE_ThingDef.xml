@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VBE_EarlGreyTea.label>thé earl grey</VBE_EarlGreyTea.label>
+<VBE_EarlGreyTea.description>Un thé fruité très fort et semi-sucré. Des notes florales dansent autour du palais, même au parfum le plus terne. Les personnes qui finissent la boisson se sentent étrangement poussées à vouloir coloniser.</VBE_EarlGreyTea.description>
+<VBE_EarlGreyTea.ingestible.ingestCommandString>Boire du {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+<VBE_EarlGreyTea.ingestible.ingestReportString>Boit le {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+
+<VBE_LemonCoffee.label>expresso romano</VBE_LemonCoffee.label>
+<VBE_LemonCoffee.description>Une combinaison particulièrement étrange. Un café déjà acide garni d'un quartier de citron encore plus acide, destiné à être incorporé dans le café avant d'être rapidement consommé chaud. Un goût certes particulier, mais apprécié par ceux qui le préfèrent. Spécialement indiqué pour combattre les parasites intestinaux.</VBE_LemonCoffee.description>
+<VBE_LemonCoffee.ingestible.ingestCommandString>Boire l'{0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+<VBE_LemonCoffee.ingestible.ingestReportString>Boit l'{0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+
+<VBE_LemonTea.label>thé au citron</VBE_LemonTea.label>
+<VBE_LemonTea.description>Un thé noir coupé avec de l'eau, refroidi et garni d'un quartier de citron frais.</VBE_LemonTea.description>
+<VBE_LemonTea.ingestible.ingestCommandString>Boire du {0}</VBE_LemonTea.ingestible.ingestCommandString>
+<VBE_LemonTea.ingestible.ingestReportString>Boit le {0}.</VBE_LemonTea.ingestible.ingestReportString>
+
+<VCE_RawLemon.label>citron</VCE_RawLemon.label>
+<VCE_RawLemon.description>Un fruit au goût acide et aigre. Le jus, le zeste et la pulpe sont souvent utilisés en cuisine, notamment sur le poisson et d'autres viandes pour en améliorer le goût. Le citron est également utilisé pour aromatiser des boissons, comme la limonade, ou mélangé au thé et au café.</VCE_RawLemon.description>
+
+<VBE_LemonTree.label>citronnier</VBE_LemonTree.label>
+<VBE_LemonTree.description>Un grand arbre originaire à la fois des déserts et des tropiques. Des citrons acides et vifs poussent en abondance sur cet arbre. Certains citrons peuvent même arriver à maturité plus tôt et tomber au sol avant que la première récolte ne soit prête.</VBE_LemonTree.description>
+
+<VBE_Lemonade.label>limonade</VBE_Lemonade.label>
+<VBE_Lemonade.description>Une boisson sucrée mélangée avec du jus de citron, du sucre et de l'eau.</VBE_Lemonade.description>
+<VBE_Lemonade.ingestible.ingestCommandString>Boire la {0}</VBE_Lemonade.ingestible.ingestCommandString>
+<VBE_Lemonade.ingestible.ingestReportString>Boit la {0}.</VBE_Lemonade.ingestible.ingestReportString>
+<VBE_Lemonade.tools.bottle.label>bouteille</VBE_Lemonade.tools.bottle.label>
+<VBE_Lemonade.tools.neck.label>goulot</VBE_Lemonade.tools.neck.label>
+
+
+</LanguageData>

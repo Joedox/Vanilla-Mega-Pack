@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Dash -->
+<LongjumpSTNL.label>dash</LongjumpSTNL.label>
+<!-- EN: Jump to a distant location. -->
+<LongjumpSTNL.description>Saute vers un endroit éloigné.</LongjumpSTNL.description>
+<!-- EN: jump -->
+<LongjumpSTNL.verbProperties.label>saut</LongjumpSTNL.verbProperties.label>
+
+<!-- EN: Cure Oripathy -->
+<OripathyCureSTNL.label>guérison oripathy</OripathyCureSTNL.label>
+<!-- EN: Inject the target with the same oripathy strain that is empowering you, the strain will target infected cells in the host's body and effectively neutralize the infection. -->
+<OripathyCureSTNL.description>Injecte à la cible la même souche d'oripathy que celle qui vous donne le pouvoir, la souche ciblera les cellules infectées dans le corps de l'hôte et neutralisera efficacement l'infection.</OripathyCureSTNL.description>
+
+<!-- EN: Grant Regenerative Oripathy -->
+<RapidHealingSTNL.label>oripathy régénérative</RapidHealingSTNL.label>
+<!-- EN: Grant near-instant healing capabilities to the target. -->
+<RapidHealingSTNL.description>Accorde des capacités de guérison quasi-instantanées à la cible.</RapidHealingSTNL.description>
+
+<!-- EN: Oripathy-Induced Resurrection -->
+<ResurrectSTNL.label>résurrection induite par l'oripathy</ResurrectSTNL.label>
+<!-- EN: Infect a non-dessicated corpse with the oripathy strain currently developping inside you, causing them to resurrect. There may be side effects. -->
+<ResurrectSTNL.description>Infecte un cadavre non desséché avec la souche d'oripathy qui se développe actuellement à l'intérieur de vous, provoquant ainsi sa résurrection. Des effets secondaires sont possibles.</ResurrectSTNL.description>
+
+<!-- EN: Reverse Blade-form -->
+<ToggleArmbladeoffSTNL.label>annuler forme de lame</ToggleArmbladeoffSTNL.label>
+<!-- EN: Morph the Blade-form back into your arm. -->
+<ToggleArmbladeoffSTNL.description>Annule la transformation de votre bras en lame tranchante.</ToggleArmbladeoffSTNL.description>
+
+<!-- EN: Blade-form -->
+<ToggleArmbladeSTNL.label>forme de lame</ToggleArmbladeSTNL.label>
+<!-- EN: Morph your arm into a sharp blade. -->
+<ToggleArmbladeSTNL.description>Transforme votre bras en une lame tranchante.</ToggleArmbladeSTNL.description>
+
+<!-- EN: Toggle armor -->
+<ToggleArmorSTNL.label>annuler juggernaut</ToggleArmorSTNL.label>
+<!-- EN: Cancel the armor form. -->
+<ToggleArmorSTNL.description>Annule la forme d'armure juggernaut.</ToggleArmorSTNL.description>
+
+<!-- EN: Toggle Psy-form -->
+<TogglePsychicEnhanceSTNL.label>annuler psy-forme</TogglePsychicEnhanceSTNL.label>
+<!-- EN: Dispel the catalysts. -->
+<TogglePsychicEnhanceSTNL.description>Dissipe les catalyseurs.</TogglePsychicEnhanceSTNL.description>
+
+
+<!-- EN: Regress Infection -->
+<RegressOripathySTNL.label>régression de l'infection</RegressOripathySTNL.label>
+<!-- EN: Wield the Arts from your infection along the help of the inhibitor to regress your condition back to its starting point. -->
+<RegressOripathySTNL.description>Manipule les arts de votre infection avec l'aide de l'inhibiteur pour faire régresser votre état à son point de départ.</RegressOripathySTNL.description>
+
+
+</LanguageData>

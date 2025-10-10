@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRecyclingE_LargePollutionPump.label>grande pompe à pollution</VRecyclingE_LargePollutionPump.label>
+<VRecyclingE_LargePollutionPump.description>Une grande pompe de filtration des eaux souterraines qui nettoie lentement de vastes étendues de terrain pollué. La pollution extraite est transformée en déchets toxiques qui doivent être évacués.</VRecyclingE_LargePollutionPump.description>
+
+<VRecyclingE_PollutionFastPump.label>pompe rapide à pollution</VRecyclingE_PollutionFastPump.label>
+<VRecyclingE_PollutionFastPump.description>Une pompe à filtration d'eau souterraine à fonctionnement rapide qui nettoie les terrains pollués. La pollution extraite est transformée en déchets toxiques qui doivent être évacués. Elle nécessite une grande quantité d'électricité pour fonctionner, mais fonctionne très rapidement.</VRecyclingE_PollutionFastPump.description>
+
+<VRecyclingE_WasteCrate.label>caisse à déchets</VRecyclingE_WasteCrate.label>
+<VRecyclingE_WasteCrate.description>Un conteneur hermétiquement fermé qui empêche les déchets toxiques stockés à l'intérieur de se dissoudre et de se répandre dans l'environnement. Ne peut contenir qu'une quantité limitée de déchets. N'empêche pas les déchets de brûler.</VRecyclingE_WasteCrate.description>
+
+<VRecyclingE_RecyclingWorkbench.label>établi de recyclage</VRecyclingE_RecyclingWorkbench.label>
+<VRecyclingE_RecyclingWorkbench.description>Un établi pour recycler les déchets toxiques en d'autres ressources. Fonctionne à 50% de la vitesse d'un établi de recyclage électrique.</VRecyclingE_RecyclingWorkbench.description>
+
+<VRecyclingE_ElectricRecyclingWorkbench.label>établi de recyclage électrique</VRecyclingE_ElectricRecyclingWorkbench.label>
+<VRecyclingE_ElectricRecyclingWorkbench.description>Un établi avec des trieurs automatisés et des outils électriques, utilisé pour recycler les déchets toxiques en d'autres ressources. Peut fonctionner sans électricité à 50% de la vitesse normale.</VRecyclingE_ElectricRecyclingWorkbench.description>
+
+<VRecyclingE_GarbageCompactor.label>compacteur de déchets</VRecyclingE_GarbageCompactor.label>
+<VRecyclingE_GarbageCompactor.description>Un appareil de technologie industrielle qui condense les déchets à l'aide d'une presse hydraulique pour fabriquer des briques de déchets. Bien qu'il ne neutralise pas complètement les déchets, il permet de créer une ressource de construction à partir de ceux-ci. Le processus nécessite des quantités considérables d'énergie et émet du gaz toxique pendant son fonctionnement.</VRecyclingE_GarbageCompactor.description>
+
+<VRecyclingE_AlloypackSplitter.label>séparateur de déchet d'alliage</VRecyclingE_AlloypackSplitter.label>
+<VRecyclingE_AlloypackSplitter.description>Un dispositif de technologie spatiale qui sépare les déchets d'alliages stabilisés en composés d'acier, de plastacier et d'or. Ce processus prend beaucoup de temps et nécessite beaucoup d'énergie.</VRecyclingE_AlloypackSplitter.description>
+
+<VRecyclingE_ReclaimedBiopack.label>biodéchet recyclé</VRecyclingE_ReclaimedBiopack.label>
+<VRecyclingE_ReclaimedBiopack.description>Un emballage recyclé de biomatériaux riches en nutriments, récupérés à partir de déchets toxiques grâce à des processus de recyclage avancés. Son ouverture est thermosoudée pour un transport en toute sécurité.\n\nLes biodéchets recyclés améliorent la fertilité du sol s'ils se détériorent sur un sol standard. S'ils sont endommagés ou brûlés, ils libèrent un léger gaz pestilentiel.</VRecyclingE_ReclaimedBiopack.description>
+
+<VRecyclingE_ReactiveChempack.label>déchet chimique réactif</VRecyclingE_ReactiveChempack.label>
+<VRecyclingE_ReactiveChempack.description>Un emballage volatil de produits chimiques hautement réactifs, généré comme sous-produit du recyclage des déchets toxiques. Son ouverture est thermosoudée pour un transport en toute sécurité.\n\nLes déchets chimiques réactifs sont extrêmement dangereux et peuvent provoquer des explosions dévastatrices s'ils ne sont pas manipulés avec précaution. S'ils sont endommagés ou brûlés, ils peuvent exploser dans une grande boule de feu.</VRecyclingE_ReactiveChempack.description>
+
+<VRecyclingE_StabilizedAlloypack.label>déchet d'alliage stabilisé</VRecyclingE_StabilizedAlloypack.label>
+<VRecyclingE_StabilizedAlloypack.description>Un amalgame d'alliages solides et légers, synthétisés à partir de déchets toxiques par le biais de réactions chimiques complexes. Son ouverture est thermosoudée pour un transport en toute sécurité.\n\nLes déchets d'alliages stabilisés contiennent des matériaux de haute qualité pour la fabrication d'armes, d'armures et de composants avancés. S'ils sont endommagés ou brûlés, ils libèrent une petite quantité de fumée non toxique.</VRecyclingE_StabilizedAlloypack.description>
+
+<VRecyclingE_VolatileToxpack.label>déchet tox volatile</VRecyclingE_VolatileToxpack.label>
+<VRecyclingE_VolatileToxpack.description>Un emballage instable de déchets toxiques hautement concentrés, créé comme sous-produit dans des projets de recyclage plus complexes. Son ouverture est thermosoudée pour un transport en toute sécurité.\n\nLes déchets tox volatils sont extrêmement dangereux en raison de leur instabilité et de leur propension à émettre de grandes quantités de gaz toxiques et de pollution. S'ils sont brûlés ou endommagés, ils libèrent un nuage massif et mortel de gaz toxique.</VRecyclingE_VolatileToxpack.description>
+
+<VRecyclingE_RadioactiveIsotopack.label>déchet isotope radioactif</VRecyclingE_RadioactiveIsotopack.label>
+<VRecyclingE_RadioactiveIsotopack.description>Un emballage dangereux d'isotopes radioactifs, résultant du recyclage de déchets toxiques. Son ouverture est thermosoudée pour un transport en toute sécurité.\n\nLes déchets isotopes radioactifs émettent des niveaux élevés de radiations, ce qui constitue une menace sérieuse pour la santé des colons et des animaux. S'ils sont endommagés ou brûlés, ils libèrent de dangereuses radiations.</VRecyclingE_RadioactiveIsotopack.description>
+
+<VRecyclingE_Trash.label>déchet</VRecyclingE_Trash.label>
+<VRecyclingE_Trash.description>Un emballage de déchets non toxiques, soigneusement triés et compactés pour un stockage efficace. Son ouverture est thermosoudée pour un transport en toute sécurité.\n\nLes déchets ne présentent aucun risque de pollution ou de détérioration, ce qui les rend sûrs pour un stockage à long terme. Toutefois, s'ils sont brûlés, les déchets libèrent une quantité modérée de gaz toxique en tant que sous-produit de la combustion.</VRecyclingE_Trash.description>
+
+<VRecyclingE_TrashBrick.label>brique recyclée</VRecyclingE_TrashBrick.label>
+<VRecyclingE_TrashBrick.description>Une pile de briques solides, créées en comprimant des déchets non toxiques sous forme de briques. Les briques sont un matériau de construction durable pour les murs et les sols. Si elles sont endommagées ou brûlées, elles dégagent une quantité modérée de fumées toxiques et polluent la zone. Les briques recyclées ne se détériorent pas.</VRecyclingE_TrashBrick.description>
+<VRecyclingE_TrashBrick.stuffProps.stuffAdjective>brique recyclée</VRecyclingE_TrashBrick.stuffProps.stuffAdjective>
+
+
+</LanguageData>

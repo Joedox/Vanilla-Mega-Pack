@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VBE_UnfermentedCider.label>cidre non fermenté</VBE_UnfermentedCider.label>
+<VBE_UnfermentedCider.description>Cidre non fermenté avec un démarreur dans une bouteille hermétique. En laissant les bactéries appropriées se développer seules, le résultat final sera une boisson alcoolisée légère.</VBE_UnfermentedCider.description>
+
+<VBE_Cider.label>cidre</VBE_Cider.label>
+<VBE_Cider.description>Une boisson à peine alcoolisée censée être rafraîchissante et fruitée. On peut essayer de s'enivrer avec du cidre, mais cela ne sert à rien, c'est pourquoi il est populaire auprès des personnes ayant déjà eu une dépendance. A titre anecdotique, beaucoup le louent pour ses supposées propriétés antioxydantes.</VBE_Cider.description>
+<VBE_Cider.ingestible.ingestCommandString>Boire du {0}</VBE_Cider.ingestible.ingestCommandString>
+<VBE_Cider.ingestible.ingestReportString>Boit le {0}.</VBE_Cider.ingestible.ingestReportString>
+<VBE_Cider.tools.bottle.label>bouteille</VBE_Cider.tools.bottle.label>
+<VBE_Cider.tools.neck.label>goulot</VBE_Cider.tools.neck.label>
+
+
+</LanguageData>

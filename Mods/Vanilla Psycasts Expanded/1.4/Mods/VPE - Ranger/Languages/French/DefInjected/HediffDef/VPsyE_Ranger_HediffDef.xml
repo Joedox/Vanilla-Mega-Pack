@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<MakaiRanger_BuffOne.label>double tir</MakaiRanger_BuffOne.label>
+<MakaiRanger_BuffOne.description>Tire un projectile supplémentaire et augmente la portée de l'arme.</MakaiRanger_BuffOne.description>
+
+<MakaiRanger_DebuffOne.label>filet</MakaiRanger_DebuffOne.label>
+<MakaiRanger_DebuffOne.description>Cette créature est complètement entravée dans un filet et ne peut plus se déplacer avant de rompre le filet.</MakaiRanger_DebuffOne.description>
+
+<MakaiRanger_BuffTwo.label>tir ricochet</MakaiRanger_BuffTwo.label>
+<MakaiRanger_BuffTwo.description>Les tirs ricochent entre les ennemis, ne fonctionne pas avec un seul ennemi.</MakaiRanger_BuffTwo.description>
+
+<MakaiRanger_BuffThree.label>tir arqué</MakaiRanger_BuffThree.label>
+<MakaiRanger_BuffThree.description>Un tir arqué vers le ciel avant de se diviser en plusieurs tirs plus petits.</MakaiRanger_BuffThree.description>
+
+<MakaiRanger_BuffFour.label>double vent</MakaiRanger_BuffFour.label>
+<MakaiRanger_BuffFour.description>La nature offre une faveur de rapidité à ce psylanceur.</MakaiRanger_BuffFour.description>
+
+<MakaiRanger_BuffFour_Speed.label>frénésie du vent</MakaiRanger_BuffFour_Speed.label>
+<MakaiRanger_BuffFour_Speed.description>Attaquer continuellement la même cible permet à ce psylanceur de viser plus rapidement et de diminuer sa cadence de tir.</MakaiRanger_BuffFour_Speed.description>
+<MakaiRanger_BuffFour_Speed.stages._1.label>1</MakaiRanger_BuffFour_Speed.stages._1.label>
+<MakaiRanger_BuffFour_Speed.stages._2.label>2</MakaiRanger_BuffFour_Speed.stages._2.label>
+<MakaiRanger_BuffFour_Speed.stages._3.label>3</MakaiRanger_BuffFour_Speed.stages._3.label>
+<MakaiRanger_BuffFour_Speed.stages._4.label>4</MakaiRanger_BuffFour_Speed.stages._4.label>
+<MakaiRanger_BuffFour_Speed.stages._5.label>5</MakaiRanger_BuffFour_Speed.stages._5.label>
+<MakaiRanger_BuffFour_Speed.stages._6.label>6</MakaiRanger_BuffFour_Speed.stages._6.label>
+<MakaiRanger_BuffFour_Speed.stages._7.label>7</MakaiRanger_BuffFour_Speed.stages._7.label>
+<MakaiRanger_BuffFour_Speed.stages._8.label>8</MakaiRanger_BuffFour_Speed.stages._8.label>
+<MakaiRanger_BuffFour_Speed.stages._9.label>9</MakaiRanger_BuffFour_Speed.stages._9.label>
+
+<MakaiRanger_BuffFour_Mark.label>marque du forestier</MakaiRanger_BuffFour_Mark.label>
+<MakaiRanger_BuffFour_Mark.description>La marque d'un forestier.</MakaiRanger_BuffFour_Mark.description>
+<MakaiRanger_BuffFour_Mark.stages.Marked.label>marqué</MakaiRanger_BuffFour_Mark.stages.Marked.label>
+
+
+</LanguageData>

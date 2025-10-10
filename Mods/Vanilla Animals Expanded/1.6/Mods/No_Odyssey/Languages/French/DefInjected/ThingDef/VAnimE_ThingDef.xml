@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: walrus tusk -->
+<AEXP_WalrusTusk.label>défense de morse</AEXP_WalrusTusk.label>
+<!-- EN: A walrus's tusk. It is quite valuable, but somewhat unwieldy as a melee weapon. -->
+<AEXP_WalrusTusk.description>Une défense de morse. Elle a une grande valeur, mais elle est peu maniable comme arme de mêlée.</AEXP_WalrusTusk.description>
+<!-- EN: point -->
+<AEXP_WalrusTusk.tools.point.label>pointe</AEXP_WalrusTusk.tools.point.label>
+<!-- EN: base -->
+<AEXP_WalrusTusk.tools.base.label>base</AEXP_WalrusTusk.tools.base.label>
+
+<!-- EN: alligator egg (fert.) -->
+<AEXP_EggAlligatorFertilized.label>œuf d'alligator (fécondé)</AEXP_EggAlligatorFertilized.label>
+<!-- EN: A fertilized alligator egg. If all goes well, it should hatch into an alligator. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggAlligatorFertilized.description>Un œuf d'alligator fécondé. Si tout se passe bien, il devrait éclore en bébé alligator. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggAlligatorFertilized.description>
+
+<!-- EN: alligator egg (unfert.) -->
+<AEXP_EggAlligatorUnfertilized.label>œuf d'alligator (non fécondé)</AEXP_EggAlligatorUnfertilized.label>
+<!-- EN: An unfertilized alligator egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggAlligatorUnfertilized.description>Un œuf d'alligator non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggAlligatorUnfertilized.description>
+
+<!-- EN: penguin egg (fert.) -->
+<AEXP_EggPenguinFertilized.label>œuf de manchot (fécondé)</AEXP_EggPenguinFertilized.label>
+<!-- EN: A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked. -->
+<AEXP_EggPenguinFertilized.description>Un œuf de manchot fécondé. Si tout se passe bien, il devrait éclore en un bébé manchot. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggPenguinFertilized.description>
+
+<!-- EN: penguin egg (unfert.) -->
+<AEXP_EggPenguinUnfertilized.label>œuf de manchot (non fécondé)</AEXP_EggPenguinUnfertilized.label>
+<!-- EN: An unfertilized penguin egg. It can be eaten raw, but it's much, much better cooked. -->
+<AEXP_EggPenguinUnfertilized.description>Un œuf de manchot non fécondé. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggPenguinUnfertilized.description>
+
+<!-- EN: raw fish -->
+<AEXP_RawFish.label>poisson cru</AEXP_RawFish.label>
+<!-- EN: Raw fish. A resourceful penguin has fished this. -->
+<AEXP_RawFish.description>Du poisson cru. Un manchot débrouillard a pêché ça.</AEXP_RawFish.description>
+<!-- EN: raw fish -->
+<AEXP_RawFish.tools.raw_fish.label>poisson cru</AEXP_RawFish.tools.raw_fish.label>
+
+<!-- EN: hippopotamus leather -->
+<AEXP_Leather_Hippopotamus.label>cuir d'hippopotame</AEXP_Leather_Hippopotamus.label>
+<!-- EN: A thick leather of a hippopotamus. Not only it's extremely durable, but it also provides considerable heat insulation. -->
+<AEXP_Leather_Hippopotamus.description>Un cuir épais d'hippopotame. Non seulement il est extrêmement résistant, mais il offre également une isolation thermique considérable.</AEXP_Leather_Hippopotamus.description>
+
+<!-- EN: pinniped leather -->
+<AEXP_Leather_Pinniped.label>cuir de pinnipède</AEXP_Leather_Pinniped.label>
+<!-- EN: Tanned and dried leather from a Pinniped. It is of average strength but insulates well against heat. -->
+<AEXP_Leather_Pinniped.description>Cuir tanné et séché provenant d'un pinnipède. Il est d'une résistance moyenne mais isole bien de la chaleur.</AEXP_Leather_Pinniped.description>
+
+<!-- EN: tiger leather -->
+<AEXP_Leather_Tiger.label>cuir de tigre</AEXP_Leather_Tiger.label>
+<!-- EN: Tigers were often the target of poachers in old Earth due to their luxurious pelts, a fact that almost drove them to extinction. With the near lawlessness of the Rim, tiger leather is seen as another exotic commodity to trade between settlements. -->
+<AEXP_Leather_Tiger.description>Sur notre ancienne Terre, les tigres étaient souvent la cible des braconniers en raison de leur peau luxueuse, ce qui les a presque conduits à l'extinction. Avec l'anarchie qui règne dans la Bordure, le cuir de tigre est considéré comme une autre marchandise exotique à échanger entre les colonies.</AEXP_Leather_Tiger.description>
+
+<!-- EN: musk ox wool -->
+<AEXP_MuskOxWool.label>laine de bœuf musqué</AEXP_MuskOxWool.label>
+<!-- EN: The inner wool of the muskox, originally known in Inuktitut as Qiviuq. Stronger and warmer than sheep's wool, and softer than cashmere wool. -->
+<AEXP_MuskOxWool.description>La laine intérieure du bœuf musqué, connue à l'origine en inuktitut sous le nom de Qiviuq. Plus résistante et plus chaude que la laine de mouton, et plus douce que la laine de cachemire.</AEXP_MuskOxWool.description>
+
+<!-- EN: hippopotamus -->
+<AEXP_Hippopotamus.label>hippopotame</AEXP_Hippopotamus.label>
+<!-- EN: A massive semi-aquatic hoofed mammal with thick skin and a very powerful jaw.\n\nExtremely difficult to tame, these monstrous beings often attack on a failed attempt. -->
+<AEXP_Hippopotamus.description>Mammifère semi-aquatique massif à sabots, doté d'une peau épaisse et d'une mâchoire très puissante.\n\nExtrêmement difficiles à apprivoiser, ces êtres monstrueux attaquent souvent lors d'une tentative ratée.</AEXP_Hippopotamus.description>
+<!-- EN: left foot -->
+<AEXP_Hippopotamus.tools.left_foot.label>sabot gauche</AEXP_Hippopotamus.tools.left_foot.label>
+<!-- EN: right foot -->
+<AEXP_Hippopotamus.tools.right_foot.label>sabot droit</AEXP_Hippopotamus.tools.right_foot.label>
+<!-- EN: head -->
+<AEXP_Hippopotamus.tools.head.label>tête</AEXP_Hippopotamus.tools.head.label>
+
+<!-- EN: otter -->
+<AEXP_Otter.label>loutre</AEXP_Otter.label>
+<!-- EN: Long, slim, semi-aquatic mammal dieting mostly on fish and small plants. They are extremaly good swimmers and can hold breath under water for a prolonged amount of time. -->
+<AEXP_Otter.description>Mammifère semi-aquatique, long et mince, se nourrissant principalement de poissons et de petites plantes. Ils sont d'excellents nageurs et peuvent retenir leur respiration sous l'eau pendant une période prolongée.</AEXP_Otter.description>
+<!-- EN: left claw -->
+<AEXP_Otter.tools.left_claw.label>griffe gauche</AEXP_Otter.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Otter.tools.right_claw.label>griffe droite</AEXP_Otter.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Otter.tools.head.label>tête</AEXP_Otter.tools.head.label>
+
+<!-- EN: penguin -->
+<AEXP_Penguin.label>manchot</AEXP_Penguin.label>
+<!-- EN: An aquatic, flightless bird, only found in arctic regions. Often seen in massive flocks, penguins are fierce when cornered, and can quickly overrun any hunter incompetent enough to get close to them. -->
+<AEXP_Penguin.description>Un oiseau aquatique, incapable de voler, que l'on ne trouve que dans les régions Antarctiques. Souvent observés en bandes massives, les manchots sont féroces lorsqu'ils sont acculés, et peuvent rapidement écraser tout chasseur assez imprudent s'approchant d'eux.</AEXP_Penguin.description>
+<!-- EN: claws -->
+<AEXP_Penguin.tools.claws.label>griffes</AEXP_Penguin.tools.claws.label>
+<!-- EN: beak -->
+<AEXP_Penguin.tools.beak.label>bec</AEXP_Penguin.tools.beak.label>
+<!-- EN: head -->
+<AEXP_Penguin.tools.head.label>tête</AEXP_Penguin.tools.head.label>
+
+<!-- EN: seal -->
+<AEXP_Seal.label>phoque</AEXP_Seal.label>
+<!-- EN: A medium sized semi-aquatic mammal, which only comes ashore to eat, mate and escape from predators. Being an aggresive hunter, seals are capable of tackling much bigger prey and are known for cannibalism if the food is scarce. -->
+<AEXP_Seal.description>Mammifère semi-aquatique de taille moyenne, qui ne vient sur le rivage que pour se nourrir, s'accoupler et échapper aux prédateurs. Chasseurs agressifs, les phoques sont capables de s'attaquer à des proies beaucoup plus grosses et sont connus pour pratiquer le cannibalisme si la nourriture est rare.</AEXP_Seal.description>
+<!-- EN: pinniped meat -->
+<AEXP_Seal.race.meatLabel>viande de pinnipède</AEXP_Seal.race.meatLabel>
+<!-- EN: left fore-flipper -->
+<AEXP_Seal.tools.left_foreflipper.label>nageoire avant gauche</AEXP_Seal.tools.left_foreflipper.label>
+<!-- EN: right fore-flipper -->
+<AEXP_Seal.tools.right_foreflipper.label>nageoire avant droite</AEXP_Seal.tools.right_foreflipper.label>
+<!-- EN: head -->
+<AEXP_Seal.tools.head.label>tête</AEXP_Seal.tools.head.label>
+
+<!-- EN: walrus -->
+<AEXP_Walrus.label>morse</AEXP_Walrus.label>
+<!-- EN: A large marine animal only found in the arctic regions of the planet, a walrus has prominent tusks which are a valuable luxury good across the planet. -->
+<AEXP_Walrus.description>Grand animal marin que l'on ne trouve que dans les régions arctiques de la planète, le morse possède des défenses proéminentes qui sont un bien de luxe précieux sur toute la planète.</AEXP_Walrus.description>
+<!-- EN: head -->
+<AEXP_Walrus.tools.head.label>tête</AEXP_Walrus.tools.head.label>
+
+<!-- EN: badger -->
+<AEXP_Badger.label>blaireau</AEXP_Badger.label>
+<!-- EN: Badgers are small nocturnal mammals with flat, wedge-shaped bodies, broad feet with long claws and coarse hair. Badgers have strong limbs and sharp claws that help them dig burrows and find food underground. They are omnivorous, with a diet consisting largely of earthworms, insects, grubs and small animals such as hedgehogs and rabbits. -->
+<AEXP_Badger.description>Les blaireaux sont de petits mammifères nocturnes au corps plat et cunéiforme, aux pieds larges munis de longues griffes et aux poils grossiers. Les blaireaux ont des membres solides et des griffes acérées qui les aident à creuser des terriers et à trouver de la nourriture sous terre. Il est omnivore et son régime alimentaire se compose principalement de vers de terre, d'insectes, de larves et de petits animaux tels que les hérissons et les lapins.</AEXP_Badger.description>
+<!-- EN: left paw -->
+<AEXP_Badger.tools.left_paw.label>patte gauche</AEXP_Badger.tools.left_paw.label>
+<!-- EN: right paw -->
+<AEXP_Badger.tools.right_paw.label>patte droite</AEXP_Badger.tools.right_paw.label>
+<!-- EN: head -->
+<AEXP_Badger.tools.head.label>tête</AEXP_Badger.tools.head.label>
+
+<!-- EN: gorilla -->
+<AEXP_Gorilla.label>gorille</AEXP_Gorilla.label>
+<!-- EN: These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos. Like all the great apes, the arms of the gorilla are longer than its legs. Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened. -->
+<AEXP_Gorilla.description>Ces singes herbivores vivant au sol sont les plus grands primates vivants et sont les plus proches parents de l'homme après les chimpanzés et les bonobos. Comme tous les grands singes, les bras du gorille sont plus longs que ses jambes. Les gorilles sont généralement étonnamment timides, bien qu'ils puissent se montrer agressifs en se frappant la poitrine et en chargeant si leur groupe social est menacé.</AEXP_Gorilla.description>
+<AEXP_Gorilla.race.meatLabel>viande de primate</AEXP_Gorilla.race.meatLabel>
+<!-- EN: left fist -->
+<AEXP_Gorilla.tools.left_fist.label>poing gauche</AEXP_Gorilla.tools.left_fist.label>
+<!-- EN: right fist -->
+<AEXP_Gorilla.tools.right_fist.label>poing droit</AEXP_Gorilla.tools.right_fist.label>
+<!-- EN: head -->
+<AEXP_Gorilla.tools.head.label>tête</AEXP_Gorilla.tools.head.label>
+
+<!-- EN: tiger -->
+<AEXP_Tiger.label>tigre</AEXP_Tiger.label>
+<!-- EN: The tiger is the largest species among the big cats. It is most recognisable for its dark vertical stripes on reddish-orange fur with a lighter underside. It is an apex predator, territorial and generally solitary. In the wild, tigers mostly feed on large and medium-sized mammals. -->
+<AEXP_Tiger.description>Le tigre est la plus grande espèce parmi les félins. Il est surtout reconnaissable à ses rayures verticales sombres sur une fourrure rouge-orange avec un dessous plus clair. C'est un prédateur ultime, territorial et généralement solitaire. À l'état sauvage, les tigres se nourrissent principalement de mammifères de taille moyenne et grande.</AEXP_Tiger.description>
+<!-- EN: left claw -->
+<AEXP_Tiger.tools.left_claw.label>griffe gauche</AEXP_Tiger.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Tiger.tools.right_claw.label>griffe droite</AEXP_Tiger.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Tiger.tools.head.label>tête</AEXP_Tiger.tools.head.label>
+
+<!-- EN: alligator -->
+<AEXP_Alligator.label>alligator</AEXP_Alligator.label>
+<!-- EN: The alligator is a large reptile that inhabits freshwater wetlands. They are apex predators and consume fish, amphibians, reptiles, birds, and mammals.  Like other crocodilians, healthy alligators may continue to grow throughout their lives. -->
+<AEXP_Alligator.description>L'alligator est un grand reptile qui habite les zones humides d'eau douce. Il est un prédateur ultime et consomme des poissons, des amphibiens, des reptiles, des oiseaux et des mammifères.  Comme les autres crocodiliens, les alligators en bonne santé peuvent continuer à grandir tout au long de leur vie.</AEXP_Alligator.description>
+
+<!-- EN: moose -->
+<AEXP_Moose.label>élan</AEXP_Moose.label>
+<!-- EN: The largest and heaviest member of the deer family, well-adapted to life in cold climates. Can easily be identified due to the size of the antlers and long, thin legs. Cannot carry packs, but domesticated moose can be milked. Unlike most other deer species, moose do not form herds and are solitary animals. Although generally slow-moving and sedentary, moose can become aggressive and move quickly if angered or startled. -->
+<AEXP_Moose.description>Le membre le plus grand et le plus lourd de la famille des cervidés, bien adapté à la vie dans les climats froids. Il est facilement identifiable grâce à la taille de ses bois et à ses pattes longues et fines. Il ne peut pas porter de sacs, mais les élans domestiqués peuvent être traits. Contrairement à la plupart des autres espèces de cervidés, les élans ne forment pas de troupeaux et sont des animaux solitaires. Bien qu'ils soient généralement lents et sédentaires, les élans peuvent devenir agressifs et se déplacer rapidement s'ils sont irrités ou surpris.</AEXP_Moose.description>
+<!-- EN: left hoof -->
+<AEXP_Moose.tools.left_hoof.label>sabot gauche</AEXP_Moose.tools.left_hoof.label>
+<!-- EN: right hoof -->
+<AEXP_Moose.tools.right_hoof.label>sabot droit</AEXP_Moose.tools.right_hoof.label>
+<!-- EN: head -->
+<AEXP_Moose.tools.head.label>tête</AEXP_Moose.tools.head.label>
+
+<!-- EN: musk ox -->
+<AEXP_Muskox.label>bœuf musqué</AEXP_Muskox.label>
+<!-- EN: Musk oxen are massive buffalo-like mammals that roam the tundra areas in search for roots, mosses and lichens to sustain them. Being related to muffalos, musk oxen can be used as pack animals. They are noted for their thick coat and for the strong odor emitted during the seasonal rut by males, from which their name derives. -->
+<AEXP_Muskox.description>Les bœufs musqués sont des mammifères massifs ressemblant à des buffles qui parcourent les zones de toundra à la recherche de racines, de mousses et de lichens pour assurer leur survie. Apparentés aux muffalos, les bœufs musqués peuvent être utilisés comme bêtes de somme. Ils sont connus pour leur pelage épais et pour la forte odeur émise par les mâles pendant le rut saisonnier, d'où leur nom.</AEXP_Muskox.description>
+<!-- EN: head -->
+<AEXP_Muskox.tools.head.label>tête</AEXP_Muskox.tools.head.label>
+<!-- EN: left hoof -->
+<AEXP_Muskox.tools.left_hoof.label>sabot gauche</AEXP_Muskox.tools.left_hoof.label>
+<!-- EN: right hoof -->
+<AEXP_Muskox.tools.right_hoof.label>sabot droit</AEXP_Muskox.tools.right_hoof.label>
+
+<!-- EN: porcupine -->
+<AEXP_Porcupine.label>porc-épic</AEXP_Porcupine.label>
+<!-- EN: A large rodent with a coat of sharp quills that protect it against predators. -->
+<AEXP_Porcupine.description>Un grand rongeur doté d'un manteau de piquants acérés qui le protège contre les prédateurs.</AEXP_Porcupine.description>
+<!-- EN: left claw -->
+<AEXP_Porcupine.tools.left_claw.label>griffe gauche</AEXP_Porcupine.tools.left_claw.label>
+<!-- EN: right claw -->
+<AEXP_Porcupine.tools.right_claw.label>griffe droite</AEXP_Porcupine.tools.right_claw.label>
+<!-- EN: head -->
+<AEXP_Porcupine.tools.head.label>tête</AEXP_Porcupine.tools.head.label>
+
+
+</LanguageData>

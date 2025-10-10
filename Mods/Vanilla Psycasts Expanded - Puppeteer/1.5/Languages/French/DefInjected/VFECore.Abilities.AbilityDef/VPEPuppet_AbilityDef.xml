@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: ascension -->
+<VPEP_Ascension.label>ascension</VPEP_Ascension.label>
+<!-- EN: Targets a controlled puppet and causes them to commit suicide through psychic overload, annihilating itself and the surrounding 5 tiles. The sum of the puppet’s learned skills is converted into psychic energy for the detonation, with a fraction absorbed by the caster as psycasting XP. -->
+<VPEP_Ascension.description>Cible une marionnette contrôlée et la pousse à se suicider par surcharge psychique, en s'anéantissant dans un rayon de 5 cases autour d'elle. La somme des compétences acquises par la marionnette est convertie en énergie psychique pour la détonation, une fraction étant absorbée par le psylanceur sous forme d'XP de psylanceur.</VPEP_Ascension.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_Ascension.jobReportString>Utilise la capacité : {0}</VPEP_Ascension.jobReportString>
+<!-- EN: ascension -->
+<VPEP_Ascension.verbProperties.label>ascension</VPEP_Ascension.verbProperties.label>
+
+<!-- EN: brain cut -->
+<VPEP_BrainCut.label>coupure cérébrale</VPEP_BrainCut.label>
+<!-- EN: An intentional misuse of the reprogramming psycast which creates a permanent rift in the target’s brain. The damage scales with the target’s psychic sensitivity and always disorients for 2 seconds. -->
+<VPEP_BrainCut.description>Une mauvaise utilisation intentionnelle du psysort de reprogrammation qui crée une faille permanente dans le cerveau de la cible. Les dégâts sont proportionnels à la sensibilité psychique de la cible et la désorientent pendant 2 secondes.</VPEP_BrainCut.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_BrainCut.jobReportString>Utilise la capacité : {0}</VPEP_BrainCut.jobReportString>
+<!-- EN: coupure cérébrale -->
+<VPEP_BrainCut.verbProperties.label>coupure cérébrale</VPEP_BrainCut.verbProperties.label>
+
+<!-- EN: brain leech -->
+<VPEP_BrainLeech.label>sangsue cérébrale</VPEP_BrainLeech.label>
+<!-- EN: Creates a psionic link on a colleague or prisoner that redirects brain processing power to the leacher. The effect is inefficient and reaches its maximum after 2 days before fading into obscurity. Only a single leech can be maintained. -->
+<VPEP_BrainLeech.description>Crée un lien psionique sur un prisonnier ou un esclave qui redirige la puissance de traitement du cerveau vers le psylanceur. L'effet est inefficace et atteint son maximum au bout de 2 jours avant de disparaître dans l'obscurité. Une seule sangsue peut être maintenue.</VPEP_BrainLeech.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_BrainLeech.jobReportString>Utilise la capacité : {0}</VPEP_BrainLeech.jobReportString>
+<!-- EN: sangsue cérébrale -->
+<VPEP_BrainLeech.verbProperties.label>sangsue cérébrale</VPEP_BrainLeech.verbProperties.label>
+
+<!-- EN: degrade -->
+<VPEP_Degrade.label>dégrader</VPEP_Degrade.label>
+<!-- EN: Reverts the humanoid target’s behavioral instincts to a considerably more primitive state, forcibly triggering the mental break “run wild”. -->
+<VPEP_Degrade.description>Ramène les instincts comportementaux de la cible humanoïde à un état beaucoup plus primitif, en déclenchant de force la rupture mentale "retourne à l'état sauvage".</VPEP_Degrade.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_Degrade.jobReportString>Utilise la capacité : {0}</VPEP_Degrade.jobReportString>
+<!-- EN: dégrader -->
+<VPEP_Degrade.verbProperties.label>dégrader</VPEP_Degrade.verbProperties.label>
+
+<!-- EN: mind jump -->
+<VPEP_MindJump.label>saut d'esprit</VPEP_MindJump.label>
+<!-- EN: Permanently swaps the caster and the targeted puppet’s bodies, with the puppet becoming the master with all of their psycasting capabilities. The sudden change in consciousness and adaptation to a new vessel locks the new master into a scaled 48-hour psychic coma. -->
+<VPEP_MindJump.description>Échange définitivement les corps du psylanceur et de la marionnette ciblée, la marionnette devenant le maître avec toutes ses capacités de psylanceur. Le changement soudain de conscience et l'adaptation à un nouveau corps plongent le nouveau maître dans un coma psychique de 48 heures.</VPEP_MindJump.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_MindJump.jobReportString>Utilise la capacité : {0}</VPEP_MindJump.jobReportString>
+<!-- EN: saut d'esprit -->
+<VPEP_MindJump.verbProperties.label>saut d'esprit</VPEP_MindJump.verbProperties.label>
+
+<!-- EN: mind split -->
+<VPEP_MindSplit.label>diviser l'esprit</VPEP_MindSplit.label>
+<!-- EN: By taking the psionic equivalent of a hammer and chisel to their own consciousness, the caster can permanently increase their limit of controllable puppets by one. Effectively painless as they knock themselves unconscious for a short duration from shattering their sense of self. -->
+<VPEP_MindSplit.description>En appliquant l'équivalent psionique d'un marteau et d'un burin à sa propre conscience, le psylanceur peut augmenter de façon permanente sa limite de marionnettes contrôlables de un. Cette technique est en fait indolore, car le psylanceur se rend inconscient pendant une courte durée en brisant son sens de l'identité.</VPEP_MindSplit.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_MindSplit.jobReportString>Utilise la capacité : {0}</VPEP_MindSplit.jobReportString>
+<!-- EN: diviser l'esprit -->
+<VPEP_MindSplit.verbProperties.label>diviser l'esprit</VPEP_MindSplit.verbProperties.label>
+
+<!-- EN: puppet -->
+<VPEP_Puppet.label>marionnette</VPEP_Puppet.label>
+<!-- EN: Targeting a pawn affected by Brain Leech, this psycast permanently overwrites their personality with the caster’s own. Locks the short-term memory portion of the brain to synchronize with the caster, in turn putting them into a short coma. Number of puppets is initially limited to one. -->
+<VPEP_Puppet.description>Ce psysort écrase de façon permanente la personnalité de la cible affectée par sangsue cérébrale avec celle du psylanceur. Il bloque la mémoire à court terme du cerveau pour qu'elle se synchronise avec le psylanceur, ce qui plonge la cible dans un coma de courte durée. Le nombre de marionnettes est initialement limité à une.</VPEP_Puppet.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_Puppet.jobReportString>Utilise la capacité : {0}</VPEP_Puppet.jobReportString>
+<!-- EN: marionnette -->
+<VPEP_Puppet.verbProperties.label>marionnette</VPEP_Puppet.verbProperties.label>
+
+<!-- EN: puppet swarm -->
+<VPEP_PuppetSwarm.label>essaim de marionnettes</VPEP_PuppetSwarm.label>
+<!-- EN: By causing an effect similar to an extreme case of “homesickness”, the caster can force all linked puppets to skip themselves to them almost instantaneously and regardless of distance. -->
+<VPEP_PuppetSwarm.description>En provoquant un effet similaire à un cas extrême du "mal du pays", le psylanceur peut forcer toutes les marionnettes qui lui sont liées à se rapprocher de lui presque instantanément, quelle que soit la distance.</VPEP_PuppetSwarm.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_PuppetSwarm.jobReportString>Utilise la capacité : {0}</VPEP_PuppetSwarm.jobReportString>
+<!-- EN: essaim de marionnettes -->
+<VPEP_PuppetSwarm.verbProperties.label>essaim de marionnettes</VPEP_PuppetSwarm.verbProperties.label>
+
+<!-- EN: subjugation -->
+<VPEP_Subjugation.label>asservir</VPEP_Subjugation.label>
+<!-- EN: Induces a form of indoctrination on a prisoner by altering neuron pathways so that thoughts of the target’s faction triggers negative reactions. The effects are quite nauseating and “convinces” them to switch sides after 7 days. -->
+<VPEP_Subjugation.description>Induit une forme d'endoctrinement sur un prisonnier en modifiant les voies neuronales de sorte que les pensées de la faction de la cible déclenchent des réactions négatives. Les effets sont désagréables et "convainquent" le prisonnier de changer de camp au bout de 7 jours.</VPEP_Subjugation.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_Subjugation.jobReportString>Utilise la capacité : {0}</VPEP_Subjugation.jobReportString>
+<!-- EN: asservir -->
+<VPEP_Subjugation.verbProperties.label>asservir</VPEP_Subjugation.verbProperties.label>
+
+<!-- EN: summon puppet -->
+<VPEP_SummonPuppet.label>invoquer une marionnette</VPEP_SummonPuppet.label>
+<!-- EN: By causing an effect similar to an extreme case of “homesickness”, the caster can force the puppet to skip itself to them almost instantaneously and regardless of distance. -->
+<VPEP_SummonPuppet.description>En provoquant un effet similaire à un cas extrême du "mal du pays", le psylanceur peut forcer la marionnette ciblée à se rapprocher de lui presque instantanément, quelle que soit la distance.</VPEP_SummonPuppet.description>
+<!-- EN: Using ability: {0} -->
+<VPEP_SummonPuppet.jobReportString>Utilise la capacité : {0}</VPEP_SummonPuppet.jobReportString>
+<!-- EN: invoquer une marionnette -->
+<VPEP_SummonPuppet.verbProperties.label>invoquer une marionnette</VPEP_SummonPuppet.verbProperties.label>
+
+
+</LanguageData>

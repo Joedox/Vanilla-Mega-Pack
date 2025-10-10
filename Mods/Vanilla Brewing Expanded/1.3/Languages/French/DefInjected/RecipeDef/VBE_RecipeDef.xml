@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VBE_MakeCocktailSimple.label>préparer un cocktail simple</VBE_MakeCocktailSimple.label>
+<VBE_MakeCocktailSimple.description>Préparer un cocktail simple et rapide à partir d'un duo d'ingrédients.</VBE_MakeCocktailSimple.description>
+<VBE_MakeCocktailSimple.jobString>prépare le cocktail simple.</VBE_MakeCocktailSimple.jobString>
+
+<VBE_MakeCocktailFine.label>préparer un cocktail raffiné</VBE_MakeCocktailFine.label>
+<VBE_MakeCocktailFine.description>Préparer un cocktail raffiné, mélangé avec précision à partir de multiples ingrédients.</VBE_MakeCocktailFine.description>
+<VBE_MakeCocktailFine.jobString>prépare le cocktail raffiné.</VBE_MakeCocktailFine.jobString>
+
+<VBE_MakeCocktailLavish.label>préparer un cocktail somptueux</VBE_MakeCocktailLavish.label>
+<VBE_MakeCocktailLavish.description>Préparer un cocktail somptueux, mélangé à partir d'une grande variété d'ingrédients et refroidi à la perfection avant d'être méticuleusement secoué et servi.</VBE_MakeCocktailLavish.description>
+<VBE_MakeCocktailLavish.jobString>prépare le cocktail somptueux.</VBE_MakeCocktailLavish.jobString>
+
+<VBE_MakeCoffee.label>préparer un café</VBE_MakeCoffee.label>
+<VBE_MakeCoffee.description>Préparer une boisson chaude et amère généralement agrémentée de lait et de sucre. Un favori parmi les étudiants et les employés de bureau à travers la galaxie en raison de sa forte teneur en caféine et de son arôme agréable.</VBE_MakeCoffee.description>
+<VBE_MakeCoffee.jobString>prépare le café.</VBE_MakeCoffee.jobString>
+
+<VBE_MakeEnergyDrink.label>préparer une boisson énergisante</VBE_MakeEnergyDrink.label>
+<VBE_MakeEnergyDrink.description>Préparer une boisson acidulée et pétillante terminée par une pointe d'amertume. La combinaison du sucre et de la caféine donne un regain d'énergie au départ, mais un coup de barre plus tard. Arrière-goût notable de radiation.</VBE_MakeEnergyDrink.description>
+<VBE_MakeEnergyDrink.jobString>prépare la boisson énergisante.</VBE_MakeEnergyDrink.jobString>
+
+<VBE_MixJuice.label>mixer des fruits (Jus de fruits)</VBE_MixJuice.label>
+<VBE_MixJuice.description>Mixer de simples fruits pour obtenir leurs jus.</VBE_MixJuice.description>
+<VBE_MixJuice.jobString>mixe les fruits.</VBE_MixJuice.jobString>
+
+<VBE_MakeSodaSyrup.label>faire du sirop de soda</VBE_MakeSodaSyrup.label>
+<VBE_MakeSodaSyrup.description>Fabriquer du sirop de soda en mélangeant du jus de fruit naturel avec du sirop de maïs à haute teneur en fructose.</VBE_MakeSodaSyrup.description>
+<VBE_MakeSodaSyrup.jobString>fait du sirop de soda.</VBE_MakeSodaSyrup.jobString>
+
+<VBE_AmbrosiaMush.label>faire de la bouillie d'ambroisie</VBE_AmbrosiaMush.label>
+<VBE_AmbrosiaMush.description>L'ambroisie ainsi obtenue, coupée en tranches et pressée, peut être laissée seule pour mûrir en moût et être ensuite distillée en une liqueur extrêmement raffinée.</VBE_AmbrosiaMush.description>
+<VBE_AmbrosiaMush.jobString>Fait de la bouillie d'ambroisie.</VBE_AmbrosiaMush.jobString>
+
+<VBE_MakeTequilaMust.label>extraire du moût d'agave (Tequila)</VBE_MakeTequilaMust.label>
+<VBE_MakeTequilaMust.description>Préparer un mélange fin de jus d'agave et d'amorce de viande d'insecte, prêt à être coupé et fermenté dans un tonneau.</VBE_MakeTequilaMust.description>
+<VBE_MakeTequilaMust.jobString>Extrait le moût d'agave.</VBE_MakeTequilaMust.jobString>
+
+<VBE_MakeWhiskeyMash.label>extraire du moût de maîs (Whisky)</VBE_MakeWhiskeyMash.label>
+<VBE_MakeWhiskeyMash.description>Préparer un mélange amidonné et essentiellement liquide, parsemé de morceaux pulpeux. Prêt à être vieilli.</VBE_MakeWhiskeyMash.description>
+<VBE_MakeWhiskeyMash.jobString>Extrait le moût de maîs.</VBE_MakeWhiskeyMash.jobString>
+
+<VBE_MakeVodkaMash.label>extraire du moût de pomme de terre (Vodka)</VBE_MakeVodkaMash.label>
+<VBE_MakeVodkaMash.description>Préparer une purée épaisse et féculente à partir de pommes de terre crues et une amorce, prête à être fermentée.</VBE_MakeVodkaMash.description>
+<VBE_MakeVodkaMash.jobString>Extrait le moût de pomme de terre.</VBE_MakeVodkaMash.jobString>
+
+<VBE_MakeGinMush.label>extraire du moût de baie (Gin)</VBE_MakeGinMush.label>
+<VBE_MakeGinMush.description>Préparer un mélange clair mais trouble de baies pressées et de céréales diverses, prêt à être fermenté.</VBE_MakeGinMush.description>
+<VBE_MakeGinMush.jobString>Extrait le moût de baie.</VBE_MakeGinMush.jobString>
+
+<VBE_MakeCigarettes.label>fabriquer des cigarettes</VBE_MakeCigarettes.label>
+<VBE_MakeCigarettes.description>Fabriquer un petit tube de papier roulé bourré de feuilles de tabac.</VBE_MakeCigarettes.description>
+<VBE_MakeCigarettes.jobString>Fabrique les cigarettes.</VBE_MakeCigarettes.jobString>
+
+<VBE_MakeCigars.label>fabriquer des cigares</VBE_MakeCigars.label>
+<VBE_MakeCigars.description>Fabriquer avec une grosse feuille de tabac séché, remplie à ras bord d'autres feuilles de tabac et entourée d'une feuille d'or.</VBE_MakeCigars.description>
+<VBE_MakeCigars.jobString>Fabrique les cigares.</VBE_MakeCigars.jobString>
+
+<VBE_MakeTea.label>préparer du thé</VBE_MakeTea.label>
+<VBE_MakeTea.description>Préparer une boisson agréable et aromatique en faisant infuser un sachet de feuilles de thé dans de l'eau bouillante.</VBE_MakeTea.description>
+<VBE_MakeTea.jobString>prépare le thé.</VBE_MakeTea.jobString>
+
+
+</LanguageData>

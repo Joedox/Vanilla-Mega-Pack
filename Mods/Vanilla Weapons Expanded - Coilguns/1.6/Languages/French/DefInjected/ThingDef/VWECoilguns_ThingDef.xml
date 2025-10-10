@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: gauss lance sabot -->
+<VWE_Bullet_GaussLance.label>balle de lanceur gauss</VWE_Bullet_GaussLance.label>
+
+<!-- EN: gauss magnum sabot -->
+<VWE_Bullet_GaussMagnum.label>balle de magnum gauss</VWE_Bullet_GaussMagnum.label>
+
+<!-- EN: gauss rifle sabot -->
+<VWE_Bullet_GaussRifle.label>balle fusil d'assaut gauss</VWE_Bullet_GaussRifle.label>
+
+<!-- EN: gauss lance -->
+<VWE_Gun_GaussLance.label>lanceur gauss</VWE_Gun_GaussLance.label>
+<!-- EN: A spacer-tech gauss lance. A series of electromagnetic coils catapult a single shot at hypervelocity, shredding armor and punching through any targets in its path. It is fired from the hip, utilizing an onboard computer to track and adjust to distant targets. -->
+<VWE_Gun_GaussLance.description>Un lanceur gauss de technologie spatiale. Une série de bobines électromagnétiques catapulte un seul tir à une vitesse fulgurante, déchirant les armures et transperçant toutes les cibles sur son passage. Cette arme est portée à la hanche et utilise un ordinateur embarqué pour suivre et ajuster les cibles éloignées.</VWE_Gun_GaussLance.description>
+<!-- EN: barrel -->
+<VWE_Gun_GaussLance.tools.barrel.label>canon</VWE_Gun_GaussLance.tools.barrel.label>
+<!-- EN: gauss lance -->
+<VWE_Gun_GaussLance.verbs.Verb_Shoot.label>lanceur gauss</VWE_Gun_GaussLance.verbs.Verb_Shoot.label>
+
+<!-- EN: gauss magnum -->
+<VWE_Gun_GaussMagnum.label>magnum gauss</VWE_Gun_GaussMagnum.label>
+<!-- EN: A spacer-tech gauss pistol. An array of coils accelerate sabot projectiles from a revolving drum, penetrating armor and piercing through targets in its path. It charges quicker than most coilguns at the cost of decreased damage. -->
+<VWE_Gun_GaussMagnum.description>Un pistolet gauss de technologie spatiale. Un réseau de bobines accélère les projectiles depuis un barillet rotatif, pénétrant les armures et transperçant les cibles sur son passage. Il se charge plus rapidement que la plupart des pistolets magnétiques, au prix d'une diminution des dégâts.</VWE_Gun_GaussMagnum.description>
+<!-- EN: grip -->
+<VWE_Gun_GaussMagnum.tools.grip.label>poignée</VWE_Gun_GaussMagnum.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_Gun_GaussMagnum.tools.barrel.label>canon</VWE_Gun_GaussMagnum.tools.barrel.label>
+<!-- EN: gauss magnum -->
+<VWE_Gun_GaussMagnum.verbs.Verb_Shoot.label>magnum gauss</VWE_Gun_GaussMagnum.verbs.Verb_Shoot.label>
+
+<!-- EN: gauss rifle -->
+<VWE_Gun_GaussRifle.label>fusil d'assaut gauss</VWE_Gun_GaussRifle.label>
+<!-- EN: A spacer-tech gauss rifle. A set of coils accelerate ferromagnetic sabots up to breakneck speeds, penetrating armor and piercing through multiple targets alike. These weapons are popular among frontline infantry fighting in mechanoid wars. -->
+<VWE_Gun_GaussRifle.description>Un fusil gauss de technologie spatiale. Un ensemble de bobines accélère les billes ferromagnétiques à des vitesses vertigineuses, pénétrant les armures et transperçant de multiples cibles. Ces armes sont populaires parmi l'infanterie de première ligne luttant dans les guerres mécanoïdes.</VWE_Gun_GaussRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_GaussRifle.tools.stock.label>crosse</VWE_Gun_GaussRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_GaussRifle.tools.barrel.label>canon</VWE_Gun_GaussRifle.tools.barrel.label>
+<!-- EN: gauss rifle -->
+<VWE_Gun_GaussRifle.verbs.Verb_Shoot.label>fusil d'assaut gauss</VWE_Gun_GaussRifle.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

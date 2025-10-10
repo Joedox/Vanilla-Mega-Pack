@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Stone_DarklightCampfire.label>feu de camp tamisé</Stone_DarklightCampfire.label>
+<Stone_DarklightCampfire.description>Une source de chaleur temporaire utilisable pour la cuisine, qui brûle pendant quelques jours et plus longtemps qu’un feu de camp standard. Les personnes qui préfèrent travailler dans la pénombre sont satisfaites de cette source lumineuse. Comme toutes les sources de chaleur, il doit être placé en intérieur pour réchauffer un lieu clos. Peut-être réalimenté en bois.</Stone_DarklightCampfire.description>
+
+<Table_DarkLightEndTable.label>table de nuit avec lampe tamisée</Table_DarkLightEndTable.label>
+<Table_DarkLightEndTable.description>Une petite table de nuit qui est équipée d'une lumière tamisée, rendant les lits voisins plus confortables. Elle doit être placée directement à côté de la tête du lit. Les personnes qui préfèrent travailler dans la pénombre sont satisfaites de cette source lumineuse. Placer plus d'une table de nuit près du même lit n'a aucun effet.</Table_DarkLightEndTable.description>
+
+<Light_OutdoorDarkLamp.label>lampe d'extérieur tamisée</Light_OutdoorDarkLamp.label>
+<Light_OutdoorDarkLamp.description>Une grande lampe tamisée électrique qui éclaire une zone, pouvant être placée à l'extérieur sans prendre feu, ce qui la rend idéale pour l'éclairage des routes et elle ne s'allume que la nuit.</Light_OutdoorDarkLamp.description>
+<Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>Éteint pendant la journée</Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>
+
+
+</LanguageData>

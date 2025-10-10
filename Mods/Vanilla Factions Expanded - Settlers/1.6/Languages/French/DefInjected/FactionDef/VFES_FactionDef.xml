@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: New Hideout -->
+<VFES_PlayerSettlement.label>nouvelle planque</VFES_PlayerSettlement.label>
+<!-- EN: A small hideout of gang members and criminals. -->
+<VFES_PlayerSettlement.description>Une petite planque de membres de gangs et de criminels.</VFES_PlayerSettlement.description>
+<!-- EN: leader -->
+<VFES_PlayerSettlement.leaderTitle>chef</VFES_PlayerSettlement.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFES_PlayerSettlement.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFES_PlayerSettlement.messageDefendersAttacking>
+<!-- EN: bandit -->
+<VFES_PlayerSettlement.pawnSingular>bandit</VFES_PlayerSettlement.pawnSingular>
+<!-- EN: bandits -->
+<VFES_PlayerSettlement.pawnsPlural>bandits</VFES_PlayerSettlement.pawnsPlural>
+
+
+<!-- EN: civil settlers -->
+<SettlerCivil.label>colons pacifiques</SettlerCivil.label>
+<!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are more than capable of defending themselves with basic gunpowder weaponry whilst they go about their every day routine of herding cattle, drinking chemshine and hunting down bounties.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+<SettlerCivil.description>Ces gens vivent ici depuis des décennies, voire des siècles, et ont perdu la plupart des technologies qui les ont amenés sur ce monde. Ils sont parfaitement capables de se défendre avec des armes à poudre à canon de base, tout en vaquant à leurs occupations quotidiennes : garder le bétail, boire du chemshine et traquer des primes.\n\nIls sont préoccupés par les questions pratiques de commerce, de confiance et de survie.\n\nCe groupe particulier tient en haute estime le comportement civilisé.</SettlerCivil.description>
+<!-- EN: mayor -->
+<SettlerCivil.leaderTitle>maire</SettlerCivil.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<SettlerCivil.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</SettlerCivil.messageDefendersAttacking>
+<!-- EN: settler -->
+<SettlerCivil.pawnSingular>colon</SettlerCivil.pawnSingular>
+<!-- EN: settlers -->
+<SettlerCivil.pawnsPlural>colons</SettlerCivil.pawnsPlural>
+
+<!-- EN: rough settlers -->
+<SettlerRough.label>colons féroces</SettlerRough.label>
+<!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are more than capable of defending themselves with basic gunpowder weaponry whilst they go about their every day routine of herding cattle, drinking chemshine and hunting down bounties.\n\nThey are not concerned with the practical matters of trade and trust.\n\nThis particular group believes that noone is created equal, and only strength allows one to survive on the frontier. -->
+<SettlerRough.description>Ces gens vivent ici depuis des décennies, voire des siècles, et ont perdu la plupart des technologies qui les ont amenés sur ce monde. Ils sont parfaitement capables de se défendre avec des armes à poudre à canon de base, tout en vaquant à leurs occupations quotidiennes : garder le bétail, boire du chemshine et traquer des primes.\n\nIls ne sont pas concernés par les questions pratiques de commerce et de confiance.\n\nCe groupe particulier croit que personne ne peut les égaler et que seule la force permet de survivre sur la frontière.</SettlerRough.description>
+<!-- EN: mayor -->
+<SettlerRough.leaderTitle>maire</SettlerRough.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<SettlerRough.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</SettlerRough.messageDefendersAttacking>
+<!-- EN: settler -->
+<SettlerRough.pawnSingular>colon</SettlerRough.pawnSingular>
+<!-- EN: settlers -->
+<SettlerRough.pawnsPlural>colons</SettlerRough.pawnsPlural>
+
+<!-- EN: bandits -->
+<SettlerSavage.label>bandits</SettlerSavage.label>
+<!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are a loose confederation of bandit gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nBandits don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors. -->
+<SettlerSavage.description>Ces gens vivent ici depuis des décennies, voire des siècles, et ont perdu la plupart des technologies qui les ont amenés sur ce monde. Ils forment une confédération de gangs de bandits qui se sont mis d'accord pour combattre les étrangers plutôt que de se battre entre eux.\n\nLes bandits ne sèment pas, ne construisent pas, et font rarement du commerce. Animés par une culture du sang et d'honneur pour valoriser la force personnelle et l'impitoyabilité, ils s'enrichissent en pillant et en dévalisant leurs voisins plus productifs.</SettlerSavage.description>
+<!-- EN: mayor -->
+<SettlerSavage.leaderTitle>maire</SettlerSavage.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<SettlerSavage.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</SettlerSavage.messageDefendersAttacking>
+<!-- EN: settler -->
+<SettlerSavage.pawnSingular>bandit</SettlerSavage.pawnSingular>
+<!-- EN: settlers -->
+<SettlerSavage.pawnsPlural>bandits</SettlerSavage.pawnsPlural>
+
+
+</LanguageData>

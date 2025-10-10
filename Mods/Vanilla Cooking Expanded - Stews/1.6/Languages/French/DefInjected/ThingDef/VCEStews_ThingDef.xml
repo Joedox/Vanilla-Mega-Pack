@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: stew pot -->
+<VCE_StewPot.label>marmite à bois</VCE_StewPot.label>
+<!-- EN: A wood-fired stove with a top side perfectly indented for a large pot. The lack of need for electricity means this cooking apparatus is perfect for the rugged outdoorsman or medieval peasant alike. Stews are heartier and easier to cook than proper soups. Stews often meld into a singular flavor over long periods of time, perfect for gamey or “less enticing” meat products.\n\nThis building gives off a significant amount of heat.\n\nStew is slightly less nutrition-efficient than Soup, but requires only 2 days of cook time as opposed to Soup's 3.\n\n\As with most fueled buildings, this building consumes extra fuel when rained on. Keep it underneath a roof; remember that you can extend roofs past a wall without forming an enclosed room. -->
+<VCE_StewPot.description>Une poêle à bois dont la face supérieure est parfaitement échancrée pour accueillir une grande marmite. Comme il n'y a pas besoin d'électricité, cet appareil de cuisson est parfait pour l'homme de plein air ou le paysan médiéval. Les ragoûts sont plus consistants et plus faciles à cuisiner que les soupes. Les ragoûts se mélangent souvent en une saveur singulière pendant de longues périodes, ce qui est parfait pour le gibier ou les produits carnés "moins alléchants".\n\nElles dégagent une quantité importante de chaleur.\n\nLe ragoût est légèrement moins nutritif que la soupe, mais ne nécessite que deux jours de cuisson, contre trois pour la soupe.\n\nComme la plupart des bâtiments alimentés en combustible, ce bâtiment consomme du combustible supplémentaire lorsqu'il pleut. Gardez-le sous un toit ; n'oubliez pas que vous pouvez prolonger les toits au-delà d'un mur sans former une pièce fermée.</VCE_StewPot.description>
+
+
+<!-- EN: fine stew -->
+<VCE_CookedStewFine.label>ragoût raffiné</VCE_CookedStewFine.label>
+<!-- EN: A complex stew assembled with care from a wide selection of ingredients. -->
+<VCE_CookedStewFine.description>Un ragoût complexe assemblé avec soin à partir d'une large sélection d'ingrédients.</VCE_CookedStewFine.description>
+
+<!-- EN: lavish stew -->
+<VCE_CookedStewLavish.label>ragoût gastronomique</VCE_CookedStewLavish.label>
+<!-- EN: A masterpiece of the culinary arts, this stew nourishes the body, mind, and soul. -->
+<VCE_CookedStewLavish.description>Chef-d'œuvre de l'art culinaire, ce ragoût nourrit le corps, l'esprit et l'âme.</VCE_CookedStewLavish.description>
+
+<!-- EN: simple stew -->
+<VCE_CookedStewSimple.label>ragoût simple</VCE_CookedStewSimple.label>
+<!-- EN: A simple stew slow cooked from a few ingredients. -->
+<VCE_CookedStewSimple.description>Un ragoût simple, cuit lentement à partir de quelques ingrédients.</VCE_CookedStewSimple.description>
+
+<!-- EN: uncooked fine stew -->
+<VCE_UncookedStewFine.label>ragoût raffiné (non mijoté)</VCE_UncookedStewFine.label>
+<!-- EN: An uncooked fine stew. This needs to be cooked in a stew pot to be edible. -->
+<VCE_UncookedStewFine.description>Un ragoût raffiné non mijoté. Il faut le faire cuire dans une marmite à bois pour qu'il soit comestible.</VCE_UncookedStewFine.description>
+
+<!-- EN: uncooked lavish stew -->
+<VCE_UncookedStewLavish.label>ragoût gastronomique (non mijoté)</VCE_UncookedStewLavish.label>
+<!-- EN: An uncooked lavish stew. This needs to be cooked in a stew pot to be edible. -->
+<VCE_UncookedStewLavish.description>Un ragoût gastronomique non mijoté. Il faut le faire cuire dans une marmite à bois pour qu'il soit comestible.</VCE_UncookedStewLavish.description>
+
+<!-- EN: uncooked simple stew -->
+<VCE_UncookedStewSimple.label>ragoût simple (non mijoté)</VCE_UncookedStewSimple.label>
+<!-- EN: An uncooked simple stew. This needs to be cooked in a stew pot to be edible. -->
+<VCE_UncookedStewSimple.description>Un ragoût simple non mijoté. Il faut le faire cuire dans une marmite à bois pour qu'il soit comestible.</VCE_UncookedStewSimple.description>
+
+
+</LanguageData>

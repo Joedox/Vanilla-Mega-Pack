@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEC_Togas.label>toge</VFEC_Togas.label>
+<VFEC_Togas.description>Vous permet de fabriquer des toges, vêtements quotidiens des citoyens de la république.</VFEC_Togas.description>
+<VFEC_Togas.generalRules.rulesStrings>
+    <li>subject->le tissu de la société</li>
+    <li>subject_story->a retrouvé l'élégance et la simplicité de la toge, symbole de citoyenneté et de goût raffiné</li>
+    <li>subject_gerund->la dignité et la grâce des ancêtres de la république</li>
+</VFEC_Togas.generalRules.rulesStrings>
+
+<VFEC_TemperatureControl.label>contrôle de température</VFEC_TemperatureControl.label>
+<VFEC_TemperatureControl.description>Vous permet de fabriquer de grandes glacières passives, un moyen de refroidir les espaces intérieurs en dessous du point de congélation sans avoir besoin d'électricité, ou des pierres chaudes, un chauffage primitif.</VFEC_TemperatureControl.description>
+<VFEC_TemperatureControl.generalRules.rulesStrings>
+    <li>subject->les maîtres des éléments</li>
+    <li>subject_story->a exploité des méthodes naturelles pour défier les caprices du temps, créant des espaces de confort grâce à des refroidisseurs passifs et des pierres chaudes</li>
+    <li>subject_gerund->la culture de havres de chaleur et de fraîcheur, au mépris du monde extérieur</li>
+</VFEC_TemperatureControl.generalRules.rulesStrings>
+
+<VFEC_MeatDrying.label>séchage de viande</VFEC_MeatDrying.label>
+<VFEC_MeatDrying.description>Vous permet de fabriquer des séchoirs à viande, vous permettant de conserver la viande et de créer une spécialité romaine.</VFEC_MeatDrying.description>
+<VFEC_MeatDrying.generalRules.rulesStrings>
+    <li>subject->l'héritage de la préservation</li>
+    <li>subject_story->a redonné vie à l'art ancestral du séchage de la viande, assurant la subsistance et régalant les palais avec des saveurs affinées par le temps</li>
+    <li>subject_gerund->l'extension de la prime de chasse grâce à la sagesse des anciens</li>
+</VFEC_MeatDrying.generalRules.rulesStrings>
+
+<VFEC_Mosaics.label>mosaïque</VFEC_Mosaics.label>
+<VFEC_Mosaics.description>Vous permet de construire d'excellentes mosaïques de pierre, en utilisant différentes couleurs et formes pour exprimer la beauté. Lent à construire.</VFEC_Mosaics.description>
+<VFEC_Mosaics.generalRules.rulesStrings>
+    <li>subject->la mosaïque des civilisations</li>
+    <li>subject_story->a créé des mosaïques de pierre qui capturent l'essence de la beauté et de la narration à travers la couleur et la forme</li>
+    <li>subject_gerund->l'intégration de l'histoire d'un peuple dans les pierres mêmes qui pavent son chemin</li>
+</VFEC_Mosaics.generalRules.rulesStrings>
+
+<VFEC_Thermaebath.label>bain thermal</VFEC_Thermaebath.label>
+<VFEC_Thermaebath.description>Vous permet de construire de grand bain thermal qui utilise les geysers de vapeur pour réchauffer l'eau, permettant à 8 personnes de se baigner ensemble avec la possibilité d'amour en groupe.</VFEC_Thermaebath.description>
+<VFEC_Thermaebath.generalRules.rulesStrings>
+    <li>subject->les sanctuaires de vapeur</li>
+    <li>subject_story->a construit des bains thermaux, havres communautaires de détente et de chaleur alimentés par le souffle de la terre</li>
+    <li>subject_gerund->l'encouragement au bien-être collectif et à l'intimité dans l'étreinte de la chaleur de la nature</li>
+</VFEC_Thermaebath.generalRules.rulesStrings>
+
+<VFEC_DramaAndComedy.label>drame et Comédie</VFEC_DramaAndComedy.label>
+<VFEC_DramaAndComedy.description>Vous permet de jouer diverses pièces sur la scène de théâtre en tant qu'activité récréative.</VFEC_DramaAndComedy.description>
+<VFEC_DramaAndComedy.generalRules.rulesStrings>
+    <li>subject->l'étape de la vie</li>
+    <li>subject_story->a fait revivre les arts intemporels du théâtre et de la comédie, enrichissant l'âme de la république par le biais de la représentation et du jeu</li>
+    <li>subject_gerund->le miroir de la condition humaine, de la tragédie à la farce, sur la scène communale</li>
+</VFEC_DramaAndComedy.generalRules.rulesStrings>
+
+<VFEC_BronzeWorking.label>travail du bronze</VFEC_BronzeWorking.label>
+<VFEC_BronzeWorking.description>Vous permet de combiner l'acier avec des morceaux de pierre pour créer un métal légèrement plus fragile, mais en grande quantité.</VFEC_BronzeWorking.description>
+<VFEC_BronzeWorking.generalRules.rulesStrings>
+    <li>subject->l'alliage de l'antiquité</li>
+    <li>subject_story->a découvert l'alchimie de la combinaison du cuivre (acier) et de l'étain (pierre) pour produire du bronze, marquant l'aube d'une nouvelle ère dans la métallurgie</li>
+    <li>subject_gerund->l'avènement d'une ère où le métal devient l'épine dorsale du progrès et de la puissance</li>
+</VFEC_BronzeWorking.generalRules.rulesStrings>
+
+<VFEC_CraftingBench.label>établi d'artisanat</VFEC_CraftingBench.label>
+<VFEC_CraftingBench.description>Vous permet de construire un établi pour fabriquer des objets simples comme des clubs ou des arcs.</VFEC_CraftingBench.description>
+<VFEC_CraftingBench.generalRules.rulesStrings>
+    <li>subject->la fondation artisanale</li>
+    <li>subject_story->a fait des établis d'artisans le cœur de la production, où les matières premières sont transformées en outils et en trésors</li>
+    <li>subject_gerund->la sculpture de l'avenir avec chaque objet fabriqué, de la massue la plus simple à l'arc le plus précis</li>
+</VFEC_CraftingBench.generalRules.rulesStrings>
+
+<VFEC_CementMaking.label>fabrication du ciment</VFEC_CementMaking.label>
+<VFEC_CementMaking.description>Vous permet de construire une presse à ciment, permettant de créer un matériau en pierre extrêmement solide à partir de morceaux de pierre.</VFEC_CementMaking.description>
+<VFEC_CementMaking.generalRules.rulesStrings>
+    <li>subject->le socle de la civilisation</li>
+    <li>subject_story->a innové dans la création du ciment, transformant la pierre en une fondation durable sur laquelle les empires sont construits</li>
+    <li>subject_gerund->l'établissement de structures et de monuments durables grâce à la solidité du ciment</li>
+</VFEC_CementMaking.generalRules.rulesStrings>
+
+<VFEC_WoodfiredCrematorium.label>crématorium à bois</VFEC_WoodfiredCrematorium.label>
+<VFEC_WoodfiredCrematorium.description>Vous permet de construire un énorme crématorium en pierre, alimenté au bois, qui vaporise les cadavres à haute température.</VFEC_WoodfiredCrematorium.description>
+<VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+    <li>subject->la purification par la flamme</li>
+    <li>subject_story->a conçu le crématorium à bois, qui témoigne de la volonté de traiter les défunts dans le respect des coutumes culturelles et des impératifs sanitaires</li>
+    <li>subject_gerund->l'acceptation du cycle de la vie et de la mort grâce à la pureté élémentaire du feu</li>
+</VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+
+<VFEC_TyrianProduction.label>production tyrienne</VFEC_TyrianProduction.label>
+<VFEC_TyrianProduction.description>Vous permet de créer une ferme tyrienne - une structure sur les berges d'une rivière qui teint du tissu, pouvant ensuite être extrait sous forme de tissu royal extrêmement précieux.</VFEC_TyrianProduction.description>
+<VFEC_TyrianProduction.generalRules.rulesStrings>
+    <li>subject->la nuance de la royauté</li>
+    <li>subject_story->a cultivé des fermes tyriennes le long des rives du fleuve, maîtrisant l'art de la teinture des tissus pour en faire des étoffes royales, symbole de richesse et de statut</li>
+    <li>subject_gerund->le tissage du tissu social avec des couleurs qui suscitent le respect et l'admiration</li>
+</VFEC_TyrianProduction.generalRules.rulesStrings>
+
+<VFEC_RoadBuilding.label>construction de routes</VFEC_RoadBuilding.label>
+<VFEC_RoadBuilding.description>Vous permet de construire des chemins, des routes de terre et des routes de pierre directement sur la carte monde, ce qui permet aux caravanes de voyager plus rapidement.</VFEC_RoadBuilding.description>
+<VFEC_RoadBuilding.generalRules.rulesStrings>
+    <li>subject->les voies du progrès</li>
+    <li>subject_story->a ouvert la voie à l'expansion de la civilisation en construisant des routes, en reliant les communautés et en favorisant le commerce</li>
+    <li>subject_gerund->le tracé des artères de commerce et de communication avec chaque route construite, propulsant la civilisation vers l'avant</li>
+</VFEC_RoadBuilding.generalRules.rulesStrings>
+
+<VFEC_HeavyShieldMaking.label>bouclier lourd</VFEC_HeavyShieldMaking.label>
+<VFEC_HeavyShieldMaking.description>Vous permet de créer des boucliers lourds de type Scutum typiquement associés aux légionnaires.</VFEC_HeavyShieldMaking.description>
+<VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+    <li>subject->les remparts de la légion</li>
+    <li>subject_story->a revigoré la tradition de la fabrication de boucliers lourds, offrant une protection inégalée à ceux qui tiennent la ligne</li>
+    <li>subject_gerund->la forge des boucliers scutum, gardiens inébranlables des légionnaires</li>
+</VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+
+<VFEC_LegionaryArmaments.label>armement légionnaire</VFEC_LegionaryArmaments.label>
+<VFEC_LegionaryArmaments.description>Vous permet de fabriquer des tentes, javelots, spathas et dagues, constituant l'armurerie légionnaire.</VFEC_LegionaryArmaments.description>
+<VFEC_LegionaryArmaments.generalRules.rulesStrings>
+    <li>subject->l'arsenal des anciens</li>
+    <li>subject_story->a maîtrisé la fabrication de javelots, de spathas et de poignards, ce qui a permis à la légion d'être polyvalente et prête au combat</li>
+    <li>subject_gerund->l'équipement des légions avec un arsenal diversifié pour la conquête et la défense</li>
+</VFEC_LegionaryArmaments.generalRules.rulesStrings>
+
+<VFEC_LegionnaireArmor.label>armure légionnaire</VFEC_LegionnaireArmor.label>
+<VFEC_LegionnaireArmor.description>Vous permet de fabriquer des armures lourdes de légionnaires, capables de résister à un haut degré de dégâts tranchants.</VFEC_LegionnaireArmor.description>
+<VFEC_LegionnaireArmor.generalRules.rulesStrings>
+    <li>subject->la peau de fer</li>
+    <li>subject_story->a fabriqué des armures lourdes qui transforment les guerriers en forces indomptables sur le champ de bataille, capables de résister aux coups les plus violents</li>
+    <li>subject_gerund->l'équipement des légionnaires en armures qui tissent l'invincibilité avec les fils de la guerre</li>
+</VFEC_LegionnaireArmor.generalRules.rulesStrings>
+
+<VFEC_CenturionArmor.label>armure de centurion</VFEC_CenturionArmor.label>
+<VFEC_CenturionArmor.description>Vous permet de forger des armures de centurion, excellentes pour mener les hommes dans des batailles héroïques.</VFEC_CenturionArmor.description>
+<VFEC_CenturionArmor.generalRules.rulesStrings>
+    <li>subject->le manteau du commandement</li>
+    <li>subject_story->a forgé des armures de centurion, conférant aux dirigeants une protection et une présence distinguée</li>
+    <li>subject_gerund->l'habillement des rangs des dirigeants avec une armure digne de leur valeur et de leur vertu</li>
+</VFEC_CenturionArmor.generalRules.rulesStrings>
+
+<VFEC_Scorpion.label>scorpion</VFEC_Scorpion.label>
+<VFEC_Scorpion.description>Vous permet de construire des scorpions, une arme de guerre transportable qui sert également d'arbalète lourde semi-automatique.</VFEC_Scorpion.description>
+<VFEC_Scorpion.generalRules.rulesStrings>
+    <li>subject->le dard de la légion</li>
+    <li>subject_story->a conçu des scorpions, alliant la précision d'une arbalète à la force destructrice de l'artillerie de campagne</li>
+    <li>subject_gerund->la précision meurtrière des anciennes machines de guerre sur le champ de bataille moderne</li>
+</VFEC_Scorpion.generalRules.rulesStrings>
+
+<VFEC_Beacons.label>balises</VFEC_Beacons.label>
+<VFEC_Beacons.description>Vous permet de construire de grands bûchers en bois qui, lorsqu'ils sont allumés, garantissent l'arrivée de renforts amis.</VFEC_Beacons.description>
+<VFEC_Beacons.generalRules.rulesStrings>
+    <li>subject->les bûchers d'invocation</li>
+    <li>subject_story->a construit de grands bûchers en bois, un signal vers le ciel qui appelle les alliés sur le champ de bataille</li>
+    <li>subject_gerund->le lien du destin des alliés avec des flammes qui les guident dans la mêlée</li>
+</VFEC_Beacons.generalRules.rulesStrings>
+
+
+</LanguageData>

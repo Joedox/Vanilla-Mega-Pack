@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: arrow -->
+<OverloadDamage.label>flèche</OverloadDamage.label>
+<!-- EN: {0}死于超载带来的持续损伤。 -->
+<OverloadDamage.deathMessage>{0} a été tu{PAWN_gender ? é : ée : é(e)} par une flèche.</OverloadDamage.deathMessage>
+
+<!-- EN: 灵能闪电 -->
+<PTA_Lightning.label>foudre psionique</PTA_Lightning.label>
+<!-- EN: {0} 被烧焦了。 -->
+<PTA_Lightning.deathMessage>{0} a été brûlé par la foudre psionique.</PTA_Lightning.deathMessage>
+
+<!-- EN: 灵能冲击波 -->
+<PTA_PsionicShockwave.label>onde de choc psionique</PTA_PsionicShockwave.label>
+<!-- EN: {0} 被烧焦了。 -->
+<PTA_PsionicShockwave.deathMessage>{0} a été brûlé par l'onde de choc psionique.</PTA_PsionicShockwave.deathMessage>
+
+<!-- EN: bomb -->
+<PTA_PurificationNova.label>bombe</PTA_PurificationNova.label>
+<!-- EN: {0} has died in an explosion. -->
+<PTA_PurificationNova.deathMessage>{0} est mort dans une explosion.</PTA_PurificationNova.deathMessage>
+
+<!-- EN: 动能过载 -->
+<ResonanceCoil.label>sphère de particules</ResonanceCoil.label>
+<!-- EN: {0} 死于动能过载。 -->
+<ResonanceCoil.deathMessage>{0} a été brûlé par la sphère de particules.</ResonanceCoil.deathMessage>
+
+
+</LanguageData>

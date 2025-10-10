@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: deserters -->
+<VFEE_Deserters.label>déserteurs</VFEE_Deserters.label>
+<!-- EN: An organised group of imperial deserters who decided to actively disrupt the organisation of the Empire. -->
+<VFEE_Deserters.description>Un groupe organisé de déserteurs impériaux qui ont décidé de perturber activement l'organisation de l'Empire.</VFEE_Deserters.description>
+<!-- EN: Deserters -->
+<VFEE_Deserters.fixedName>Déserteurs</VFEE_Deserters.fixedName>
+<!-- EN: leader -->
+<VFEE_Deserters.leaderTitle>chef</VFEE_Deserters.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEE_Deserters.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEE_Deserters.messageDefendersAttacking>
+<!-- EN: deserter -->
+<VFEE_Deserters.pawnSingular>déserteur</VFEE_Deserters.pawnSingular>
+<!-- EN: deserters -->
+<VFEE_Deserters.pawnsPlural>déserteurs</VFEE_Deserters.pawnsPlural>
+
+
+<!-- EN: New Family -->
+<VFEE_NewFamily.label>Nouvelle famille</VFEE_NewFamily.label>
+<!-- EN: A colony of a royal family. -->
+<VFEE_NewFamily.description>Une colonie d'une famille royale.</VFEE_NewFamily.description>
+<!-- EN: leader -->
+<VFEE_NewFamily.leaderTitle>chef</VFEE_NewFamily.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFEE_NewFamily.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFEE_NewFamily.messageDefendersAttacking>
+<!-- EN: imperial -->
+<VFEE_NewFamily.pawnSingular>impérial</VFEE_NewFamily.pawnSingular>
+<!-- EN: imperials -->
+<VFEE_NewFamily.pawnsPlural>impériaux</VFEE_NewFamily.pawnsPlural>
+
+
+</LanguageData>

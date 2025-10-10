@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRESaurids_HypothermicReveal.label>fléchissement hypothermique</VRESaurids_HypothermicReveal.label>
+<VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] mourant de froid</li>
+    <li>image->[PAWN_nameFull] se frayant un chemin dans la neige [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] s'est blotti à côté d'un [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] s'est blotti à côté d'une [TerrainFeatures_Feminine] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] cherche la chaleur d'un [Apparel] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] cherche la chaleur d'une [Apparel_Feminine] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] accroupi près d'un feu [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] essaie d'allumer un feu [circumstance_group]</li>
+    <li>circumstance_phrase->tandis que son visage devient lentement bleu</li>
+    <li>circumstance_phrase->et frissonnant de manière incontrôlable</li>
+    <li>circumstance_phrase->tout en étant couvert de givre</li>
+    <li>circumstance_phrase->en expirant des nuages de vapeur</li>
+    <li>desc_sentence->[Quantity_adjphrase] cadavres de [Animals] gelés entourent la zone.</li>
+    <li>desc_sentence->Les vêtements de [PAWN_nameDef] sont en lambeaux et usés.</li>
+    <li>desc_sentence->Une froide lune bleue se profile à l'arrière-plan.</li>
+    <li>desc_sentence->La scène se déroule dans une forêt de [TreeType] couverte de neige.</li>
+    <li>desc_sentence->La scène semble se dérouler à l'intérieur d'un congélateur.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animals] frissonnants entourent la scène.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animals] mourants gisent sur le sol.</li>
+</VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+
+
+<VRESaurids_HyperthermicReveal.label>fléchissement hyperthermique</VRESaurids_HyperthermicReveal.label>
+<VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] a trop chaud</li>
+    <li>image->[PAWN_nameFull] se frayant un chemin dans le sable [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] s'est blotti dans l'ombre d'un [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] s'est blotti dans l'ombre d'une [TerrainFeatures_Feminine] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] cherche de l'eau [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] cherche de l'ombre [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rampe sur la terre cuite par le soleil [circumstance_group]</li>
+    <li>circumstance_phrase->et couvert de sueur</li>
+    <li>circumstance_phrase->avec les lèvres sèches et craquelées</li>
+    <li>circumstance_phrase->en vomissant</li>
+    <li>desc_sentence->[Quantity_adjphrase] cadavres de [Animals] desséchés entourent la zone.</li>
+    <li>desc_sentence->Les vêtements de [PAWN_nameDef] sont en lambeaux et déchirés.</li>
+    <li>desc_sentence->Un soleil ardent se profile à l'arrière-plan.</li>
+    <li>desc_sentence->La scène se déroule dans un désert brûlant.</li>
+    <li>desc_sentence->La scène semble se dérouler à l'intérieur, près d'un radiateur.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animals] immobiles entourent la scène.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animals] mourants gisent sur le sol.</li>
+</VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+
+
+<VRESaurids_KilledEggChild.label>œuf humain mangé</VRESaurids_KilledEggChild.label>
+
+
+</LanguageData>

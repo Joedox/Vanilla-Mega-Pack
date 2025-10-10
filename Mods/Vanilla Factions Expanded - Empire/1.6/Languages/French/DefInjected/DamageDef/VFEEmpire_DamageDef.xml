@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: cut -->
+<VFEE_CutToxblade.label>couper</VFEE_CutToxblade.label>
+<!-- EN: {0} has been cut to death. -->
+<VFEE_CutToxblade.deathMessage>{0} a été coupé à mort.</VFEE_CutToxblade.deathMessage>
+
+<!-- EN: stab -->
+<VFEE_StabToxblade.label>poignarder</VFEE_StabToxblade.label>
+<!-- EN: {0} has been stabbed to death. -->
+<VFEE_StabToxblade.deathMessage>{0} a été poignardé à mort.</VFEE_StabToxblade.deathMessage>
+
+
+<!-- EN: fletcher dart -->
+<VFEE_Fletcher.label>fléchette de fléchier</VFEE_Fletcher.label>
+<!-- EN: {0} has been shot to death. -->
+<VFEE_Fletcher.deathMessage>{0} a été tué par fléchette.</VFEE_Fletcher.deathMessage>
+
+
+</LanguageData>

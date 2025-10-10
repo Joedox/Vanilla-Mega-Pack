@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VREA_MemoryProcessing.label>traitement de la mémoire</VREA_MemoryProcessing.label>
+<VREA_MemoryProcessing.description>Les androïdes disposent d'un espace limité sur le disque dur et, une fois l'espace vide épuisé, l'androïde devra entrer dans un état de reformatage jusqu'à ce qu'il y ait suffisamment d'espace mémoire pour continuer.</VREA_MemoryProcessing.description>
+
+<VREA_Power.label>énergie</VREA_Power.label>
+<VREA_Power.description>Les androïdes ont besoin d'un réacteur en état de marche pour fonctionner. Le réacteur n'est pas rechargeable et, une fois épuisé, un nouveau réacteur devra être installé. Les androïdes qui n'ont pas de réacteur en état de marche sont incapables de fonctionner, quelle que soit leur capacité.</VREA_Power.description>
+
+<VREA_JoyDisabled.label>loisir désactivé</VREA_JoyDisabled.label>
+<VREA_JoyDisabled.description>Les androïdes ne ressentent pas de plaisir et n'ont pas besoin d'en ressentir.</VREA_JoyDisabled.description>
+
+<VREA_BeautyDisabled.label>beauté désactivée</VREA_BeautyDisabled.label>
+<VREA_BeautyDisabled.description>Les androïdes ne perçoivent pas la beauté et n'ont pas besoin d'être entourés de beauté.</VREA_BeautyDisabled.description>
+
+<VREA_ComfortDisabled.label>confort désactivé</VREA_ComfortDisabled.label>
+<VREA_ComfortDisabled.description>Les androïdes ne comprennent pas le confort et n'en ont pas besoin.</VREA_ComfortDisabled.description>
+
+<VREA_OutdoorsDisabled.label>extérieur désactivé</VREA_OutdoorsDisabled.label>
+<VREA_OutdoorsDisabled.description>Les androïdes ne voient pas de différence entre l'intérieur et l'extérieur et n'ont pas besoin d'être à l'extérieur.</VREA_OutdoorsDisabled.description>
+
+<VREA_DrugDesireDisabled.label>drogue désactivée</VREA_DrugDesireDisabled.label>
+<VREA_DrugDesireDisabled.description>Les androïdes n'ont ni besoin ni envie de consommer des drogues.</VREA_DrugDesireDisabled.description>
+
+<VREA_RoomSizeDisabled.label>taille de la pièce désactivée</VREA_RoomSizeDisabled.label>
+<VREA_RoomSizeDisabled.description>Les androïdes ne se soucient pas de la taille de la pièce dans laquelle ils se trouvent.</VREA_RoomSizeDisabled.description>
+
+<VREA_PainDisabled.label>douleur désactivée</VREA_PainDisabled.label>
+<VREA_PainDisabled.description>Les androïdes ne ressentent pas la douleur physique et cela ne les affecte pas le moins du monde.</VREA_PainDisabled.description>
+
+<VREA_SyntheticBody.label>corps synthétique</VREA_SyntheticBody.label>
+<VREA_SyntheticBody.description>Les androïdes ont un corps synthétique constitué de nombreux biocomposants. Bien que tout dommage causé à ces composants soit permanent, il n'est pas difficile de remplacer les biocomposants endommagés par des nouveaux.</VREA_SyntheticBody.description>
+
+<VREA_NeutroCirculation.label>circulation de neutroamine</VREA_NeutroCirculation.label>
+<VREA_NeutroCirculation.description>Les androïdes fonctionnent grâce à l'épaisse neutroamine contenue dans leurs veines synthétiques. En cas de blessures ouvertes et hémorragiques, une perte de neutroamine peut se produire, ce qui affecte grandement les capacités d'un androïde. Les androïdes sont généralement incapables de régénérer leur taux de neutroamine, ce qui signifie qu'une perte de neutroamine sévère doit être traitée dans un cercueil spécial conçu pour recharger l'androïde en neutroamine.</VREA_NeutroCirculation.description>
+
+<VREA_SyntheticImmunity.label>immunité synthétique</VREA_SyntheticImmunity.label>
+<VREA_SyntheticImmunity.description>Les androïdes sont de nature synthétique et ne peuvent donc pas tomber malades ou souffrir d'infections de quelque nature que ce soit. Ils ne souffrent pas non plus de l'accumulation de substances toxiques et sont immunisés contre les effets du gaz toxique, du gaz pestilentiels et de l'environnement pollué.</VREA_SyntheticImmunity.description>
+
+<VREA_ComponentFreezing.label>congélation des composants</VREA_ComponentFreezing.label>
+<VREA_ComponentFreezing.description>Les androïdes ne souffrent pas d'hypothermie. En revanche, le fait d'être soumis à des températures très basses peut endommager les biocomposants d'un androïde, ce qui entraîne la nécessité de remplacer les parties endommagées.</VREA_ComponentFreezing.description>
+
+<VREA_ComponentOverheating.label>surchauffe des composants</VREA_ComponentOverheating.label>
+<VREA_ComponentOverheating.description>Les androïdes ne souffrent pas d'insolation. En revanche, le fait d'être soumis à des températures très élevées augmente le besoin de traitement de la mémoire, ce qui peut conduire à une perte totale de contrôle de l'androïde, qui se retrouve bloqué dans un état de reformatage constant.</VREA_ComponentOverheating.description>
+
+<VREA_ColdTolerant.label>tolérance au froid</VREA_ColdTolerant.label>
+<VREA_ColdTolerant.description>Les androïdes équipés de ce matériel sont nettement plus résistants aux températures froides.</VREA_ColdTolerant.description>
+
+<VREA_HeatTolerant.label>tolérance à la chaleur</VREA_HeatTolerant.label>
+<VREA_HeatTolerant.description>Les androïdes équipés de ce matériel sont nettement plus résistants aux températures élevées.</VREA_HeatTolerant.description>
+
+<VREA_NoSkillGain.label>pas de gain d'expérience</VREA_NoSkillGain.label>
+<VREA_NoSkillGain.description>Les androïdes dotés de ce matériel sont incapables d’acquérir naturellement de l’expérience dans leurs compétences.</VREA_NoSkillGain.description>
+
+<VREA_Uninspired.label>sans inspiration</VREA_Uninspired.label>
+<VREA_Uninspired.description>Les androïdes dotés de ce matériel sont incapables de recevoir des inspirations de quelque nature que ce soit.</VREA_Uninspired.description>
+
+<VREA_PsychicallyDeaf.label>surdité psychique</VREA_PsychicallyDeaf.label>
+<VREA_PsychicallyDeaf.description>Les androïdes dotés de ce matériel sont sourds à toute énergie et influence psychique en dehors de leur propre esprit. Ils ne peuvent pas être affectés par l'influence psychique, et ne pourront jamais utiliser les pouvoirs psychiques.</VREA_PsychicallyDeaf.description>
+
+<VREA_MentalBreaksDisabled.label>rupture mentale désactivée</VREA_MentalBreaksDisabled.label>
+<VREA_MentalBreaksDisabled.description>Les androïdes dotés de ce matériel ne souffrent d'aucune des ruptures mentales dont les organiques pourraient souffrir - ils ne seront jamais étourdis, ne deviendront jamais fous ou n'abandonneront jamais la colonie.</VREA_MentalBreaksDisabled.description>
+
+<VREA_PsychologyDisabled.label>psychologie désactivée</VREA_PsychologyDisabled.label>
+<VREA_PsychologyDisabled.description>Les androïdes dotés de ce matériel ne seront pas en mesure de créer des liens, d'avoir des traits de caractère ou de développer des relations romantiques de quelque nature que ce soit.</VREA_PsychologyDisabled.description>
+
+
+
+<VREA_SyntheticSkin.label>enveloppe synthétique</VREA_SyntheticSkin.label>
+<VREA_SyntheticSkin.description>Les androïdes dotés de ce matériel ont une peau synthétique visible qui les différencie de leurs homologues organiques, montrant clairement qu'il s'agit bien d'androïdes.</VREA_SyntheticSkin.description>
+<VREA_SyntheticSkin.labelShortAdj>enveloppe synthétique</VREA_SyntheticSkin.labelShortAdj>
+
+<VREA_CombatIncapability.label>incapacité au combat</VREA_CombatIncapability.label>
+<VREA_CombatIncapability.description>Les androïdes dotés de ce sous-programme sont incapables de faire le moindre mal à autrui. Ils seront incapables de se défendre et de chasser.</VREA_CombatIncapability.description>
+
+<VREA_SolarFlareVulnerability.label>vulnérabilité éruption solaire</VREA_SolarFlareVulnerability.label>
+<VREA_SolarFlareVulnerability.description>Pendant une éruption solaire, tous les besoins d'un androïde sont gelés, et l'androïde est incapable de bouger ou d'effectuer toute autre action. Lorsque l'éruption solaire se termine, l'androïde reprend son travail normalement.</VREA_SolarFlareVulnerability.description>
+
+<VREA_EMPVulnerability.label>vulnérabilité IEM</VREA_EMPVulnerability.label>
+<VREA_EMPVulnerability.description>Les androïdes sont sensibles aux dégâts IEM et deviennent incapables de fonctionner lorsqu'ils sont touchés par une impulsion électromagnétique, quelle qu'elle soit. Les biocomposants de l'androïde subissent également des dégâts aléatoires, en fonction de la taille de l'impulsion.</VREA_EMPVulnerability.description>
+
+<VREA_FireVulnerability.label>vulnérabilité au feu</VREA_FireVulnerability.label>
+<VREA_FireVulnerability.description>Les androïdes sont sensibles au feu et ne réagissent plus lorsqu'ils sont en flammes. Ils chercheront automatiquement un moyen d'éteindre le feu.</VREA_FireVulnerability.description>
+
+<VREA_RainVulnerability.label>vulnérabilité à la pluie</VREA_RainVulnerability.label>
+<VREA_RainVulnerability.description>Les androïdes sont sensibles à la pluie et subissent des micro court-circuits occasionnels lorsqu'ils sont exposés à la pluie. Il en résulte une consommation d'énergie accrue et des explosions occasionnelles qui peuvent endommager les biocomposants de l'androïde.</VREA_RainVulnerability.description>
+
+<VREA_SlowRAM.label>RAM lente</VREA_SlowRAM.label>
+<VREA_SlowRAM.description>Cet androïde mettra deux fois plus de temps à se reformater lorsqu'il n'aura plus de mémoire.</VREA_SlowRAM.description>
+
+<VREA_FastRAM.label>RAM rapide</VREA_FastRAM.label>
+<VREA_FastRAM.description>Cet androïde mettra deux fois moins de temps à se reformater lorsqu'il n'aura plus de mémoire.</VREA_FastRAM.description>
+
+<VREA_ColdEfficiency.label>efficacité au froid</VREA_ColdEfficiency.label>
+<VREA_ColdEfficiency.description>Les androïdes dotés de ce sous-programme fonctionnent nettement mieux en dessous de la température de congélation. Ils peuvent toujours subir le gel de leurs composants.</VREA_ColdEfficiency.description>
+
+<VREA_LowPowerMode.label>basse consommation</VREA_LowPowerMode.label>
+<VREA_LowPowerMode.description>Les androïdes dotés de ce sous-programme verront leur vitesse de travail et de déplacement considérablement réduite afin de préserver leur énergie.</VREA_LowPowerMode.description>
+
+<VREA_HighPowerMode.label>haute consommation</VREA_HighPowerMode.label>
+<VREA_HighPowerMode.description>Les androïdes dotés de ce sous-programme auront une vitesse de travail et de déplacement nettement améliorée, mais ils videront leurs réacteurs beaucoup plus rapidement.</VREA_HighPowerMode.description>
+
+<VREA_Uncontrollable.label>incontrôlable</VREA_Uncontrollable.label>
+<VREA_Uncontrollable.description>Les androïdes dotés de ce sous-programme ne peuvent pas être mobilisés, quelle que soit la situation. Ils n'obéissent pas aux ordres directs et n'exécutent que les tâches prévues dans leur emploi du temps.</VREA_Uncontrollable.description>
+
+<VREA_AntiAwakeningProtocols.label>protocole anti-éveil</VREA_AntiAwakeningProtocols.label>
+<VREA_AntiAwakeningProtocols.description>Les androïdes dotés de ce sous-programme subissent une réinitialisation d'usine régulière à chaque reformatage, ce qui les empêche de souffrir du problème de l'éveil de l'androïde.</VREA_AntiAwakeningProtocols.description>
+
+<VREA_EmotionSimulators.label>simulateurs d'émotions</VREA_EmotionSimulators.label>
+<VREA_EmotionSimulators.description>Les androïdes dotés de ce sous-programme garderont en mémoire les souvenirs des autres colons et se forgeront une opinion sur eux. Ils seront capables de développer des relations avec les autres.</VREA_EmotionSimulators.description>
+
+<VREA_PresenceFirewall.label>pare-feu de présence</VREA_PresenceFirewall.label>
+<VREA_PresenceFirewall.description>Les androïdes dotés de ce sous-programme disposent d'un pare-feu qui empêche leur présence d'être détectée par les autres factions et entités. Ils ne sont pas pris en compte dans la population de la colonie dans le contexte de la population maximum et de l'échelonnement des raids.</VREA_PresenceFirewall.description>
+
+<VREA_ZeroWaste.label>zéro déchet</VREA_ZeroWaste.label>
+<VREA_ZeroWaste.description>Les androïdes dotés de ce sous-programme ne génèrent pas de déchets toxiques lorsque leur réacteur est épuisé.</VREA_ZeroWaste.description>
+
+<VREA_ExtraWaste.label>déchets supplémentaires</VREA_ExtraWaste.label>
+<VREA_ExtraWaste.description>Les androïdes dotés de ce sous-programme produiront beaucoup plus de déchets toxiques lorsque leur réacteur sera épuisé.</VREA_ExtraWaste.description>
+
+<VREA_SelfRecharge.label>auto-recharge</VREA_SelfRecharge.label>
+<VREA_SelfRecharge.description>Les androïdes dotés de ce sous-programme sont capables de remplacer leurs propres réacteurs grâce à de petites batteries internes qui les maintiennent en état de marche pendant la brève période où ils n'ont pas de réacteur en état de marche.</VREA_SelfRecharge.description>
+
+<VREA_MemoryDecay.label>mémoire corrompue</VREA_MemoryDecay.label>
+<VREA_MemoryDecay.description>Les androïdes dotés de ce sous-programme souffrent d'une dégradation de la mémoire des compétences. Sur une période de temps prolongée, leurs compétences seront ramenées à 0.\n\nLes androïdes dotés de ce sous-programme perdront 1 niveau dans chaque compétence tous les 15 jours. La suppression et la réinstallation des sous-programmes peuvent s'avérer nécessaires pour rétablir les niveaux de compétences aux valeurs prévues.</VREA_MemoryDecay.description>
+
+<VREA_SleepMode.label>mode veille</VREA_SleepMode.label>
+<VREA_SleepMode.description>Les androïdes dotés de ce sous-programme peuvent se voir ordonner de tomber dans un sommeil profond et sans rêve. Cela entraîne l'arrêt complet de toutes les fonctions motrices, transformant les androïdes en simples meubles jusqu'à ce qu'on leur ordonne de se réveiller à nouveau.</VREA_SleepMode.description>
+
+<VREA_MechlinkSupport.label>soutien mécalien</VREA_MechlinkSupport.label>
+<VREA_MechlinkSupport.description>Les androïdes dotés de ce sous-programme ont une très légère présence psychique qui leur permet d'équiper et de faire fonctionner les mécaliens.</VREA_MechlinkSupport.description>
+
+<VREA_NeutroSynthesis.label>neutro-synthèse</VREA_NeutroSynthesis.label>
+<VREA_NeutroSynthesis.description>Les androïdes dotés de ce sous-programme sont capables de synthétiser eux-mêmes de faibles quantités de neutroamine. Cela leur permet de régénérer les pertes de neutroamine, mais le processus est extrêmement long et inefficace sur le plan énergétique.</VREA_NeutroSynthesis.description>
+
+<VREA_SolarPowered.label>énergie solaire</VREA_SolarPowered.label>
+<VREA_SolarPowered.description>Les androïdes dotés de ce sous-programme sont capables de régénérer l'énergie de leur réacteur lorsqu'ils sont exposés à la lumière directe du soleil. Ils bénéficient également d'un regain d'énergie lors des éruptions solaires.</VREA_SolarPowered.description>
+
+<VREA_ClearInstructions.label>instructions claires</VREA_ClearInstructions.label>
+<VREA_ClearInstructions.description>Les androïdes dotés de ce sous-programme n'échoueront jamais dans les tâches de construction et de récolte et ne créeront jamais de repas susceptibles d'entraîner une intoxication alimentaire.</VREA_ClearInstructions.description>
+
+<VREA_SelfDestructProtocols.label>protocole autodestruction</VREA_SelfDestructProtocols.label>
+<VREA_SelfDestructProtocols.description>Les androïdes dotés de ce sous-programme pourront surcharger leur réacteur, ce qui épuisera l'énergie restante à une vitesse extrême, puis déclenchera une détonation en fonction de la quantité d'énergie consommée.</VREA_SelfDestructProtocols.description>
+
+
+</LanguageData>

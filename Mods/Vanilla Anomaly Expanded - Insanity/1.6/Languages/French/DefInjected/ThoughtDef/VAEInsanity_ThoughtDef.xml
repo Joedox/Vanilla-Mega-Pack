@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: deep talk? -->
+<VAEI_DeepTalkQuestion.stages.deep_talk.label>une discussion approfondie ?</VAEI_DeepTalkQuestion.stages.deep_talk.label>
+
+<!-- EN: slightly dirty surroundings -->
+<VAEI_DirtyRoom.stages.slightly_dirty_surroundings.label>environnement légèrement sale</VAEI_DirtyRoom.stages.slightly_dirty_surroundings.label>
+<!-- EN: The room I’m in is slightly dirty. It scares me. -->
+<VAEI_DirtyRoom.stages.slightly_dirty_surroundings.description>La pièce dans laquelle je me trouve est légèrement sale. Elle me fait peur.</VAEI_DirtyRoom.stages.slightly_dirty_surroundings.description>
+<!-- EN: dirty surroundings -->
+<VAEI_DirtyRoom.stages.dirty_surroundings.label>environnement sale</VAEI_DirtyRoom.stages.dirty_surroundings.label>
+<!-- EN: The room I’m in is dirty. It repulses me. -->
+<VAEI_DirtyRoom.stages.dirty_surroundings.description>La pièce dans laquelle je me trouve est sale. Elle me répugne.</VAEI_DirtyRoom.stages.dirty_surroundings.description>
+<!-- EN: very dirty surroundings -->
+<VAEI_DirtyRoom.stages.very_dirty_surroundings.label>environnement très sale</VAEI_DirtyRoom.stages.very_dirty_surroundings.label>
+<!-- EN: The room I’m in is incredibly dirty. I need to leave it as soon as possible. -->
+<VAEI_DirtyRoom.stages.very_dirty_surroundings.description>La pièce dans laquelle je me trouve est incroyablement sale. Je dois la quitter au plus vite.</VAEI_DirtyRoom.stages.very_dirty_surroundings.description>
+
+<!-- EN: gagged -->
+<VAEI_Gagged.stages.gagged.label>bâillonné</VAEI_Gagged.stages.gagged.label>
+<!-- EN: Hmpff, huff hmphhhh -->
+<VAEI_Gagged.stages.gagged.description>Hmpff, huff hmphhhh..</VAEI_Gagged.stages.gagged.description>
+
+<!-- EN: kind words? -->
+<VAEI_KindWordsQuestion.stages.kind_words.label>des mots gentils ?</VAEI_KindWordsQuestion.stages.kind_words.label>
+<!-- EN: I think I’ve been bestowed with kind words. I think. -->
+<VAEI_KindWordsQuestion.stages.kind_words.description>Je pense que j'ai été gratifié de mots gentils. Je pense.</VAEI_KindWordsQuestion.stages.kind_words.description>
+
+<!-- EN: kind words? -->
+<VAEI_KindWordsQuestionMemory.stages.kind_words.label>des mots gentils ?</VAEI_KindWordsQuestionMemory.stages.kind_words.label>
+
+<!-- EN: mocked -->
+<VAEI_MockedMemory.stages.mocked.label>moqué</VAEI_MockedMemory.stages.mocked.label>
+
+<!-- EN: mocked -->
+<VAEI_MockedMood.stages.mocked.label>moqué</VAEI_MockedMood.stages.mocked.label>
+<!-- EN: My insecurities were mocked! What an evil person! -->
+<VAEI_MockedMood.stages.mocked.description>On s'est moqué de mes inquiétudes ! Quelle personne diabolique !</VAEI_MockedMood.stages.mocked.description>
+
+<!-- EN: happy thoughts -->
+<VAEI_MoodSwing.stages.happy_thoughts.label>pensées positives</VAEI_MoodSwing.stages.happy_thoughts.label>
+<!-- EN: I'm feeling a gentle happiness, like a quiet smile spreading through my day. -->
+<VAEI_MoodSwing.stages.happy_thoughts.description>Je ressens un doux bonheur, comme un sourire tranquille qui se répand dans ma journée.</VAEI_MoodSwing.stages.happy_thoughts.description>
+<!-- EN: very happy thoughts -->
+<VAEI_MoodSwing.stages.very_happy_thoughts.label>pensées très positives</VAEI_MoodSwing.stages.very_happy_thoughts.label>
+<!-- EN: I'm riding a wave of joy and positivity, feeling truly happy and content. -->
+<VAEI_MoodSwing.stages.very_happy_thoughts.description>Je surfe sur une vague de joie et de positivité, je me sens vraiment heureu{PAWN_gender ? x : se } et satisfait{PAWN_gender ? : e }.</VAEI_MoodSwing.stages.very_happy_thoughts.description>
+<!-- EN: sad thoughts -->
+<VAEI_MoodSwing.stages.sad_thoughts.label>pensées négatives</VAEI_MoodSwing.stages.sad_thoughts.label>
+<!-- EN: I'm feeling weighed down by a sadness that's hard to shake off. -->
+<VAEI_MoodSwing.stages.sad_thoughts.description>Je me sens accablé par une tristesse dont j'ai du mal à me défaire.</VAEI_MoodSwing.stages.sad_thoughts.description>
+<!-- EN: very sad thoughts -->
+<VAEI_MoodSwing.stages.very_sad_thoughts.label>pensées très négatives</VAEI_MoodSwing.stages.very_sad_thoughts.label>
+<!-- EN: My heart feels crushed by an intense and deep sadness, almost too much to bear. -->
+<VAEI_MoodSwing.stages.very_sad_thoughts.description>Mon cœur est écrasé par une tristesse intense et profonde, presque insupportable.</VAEI_MoodSwing.stages.very_sad_thoughts.description>
+
+<!-- EN: rehumanized -->
+<VAEI_Rehumanized.stages.rehumanized.label>réhumanisé</VAEI_Rehumanized.stages.rehumanized.label>
+<!-- EN: It’s so good to finally feel normal again. Well, mostly normal. -->
+<VAEI_Rehumanized.stages.rehumanized.description>C'est si bon de se sentir enfin de nouveau normal. Enfin, surtout normal.</VAEI_Rehumanized.stages.rehumanized.description>
+
+<!-- EN: restrained -->
+<VAEI_Restrained.stages.restrained.label>contraint</VAEI_Restrained.stages.restrained.label>
+<!-- EN: I want to take off this straitjacket! I can’t do anything! -->
+<VAEI_Restrained.stages.restrained.description>Je veux qu'on m'enlève cette camisole de force ! Je ne peux rien faire !</VAEI_Restrained.stages.restrained.description>
+
+<!-- EN: sane thoughts -->
+<VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.label>pensées saines</VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.label>
+<!-- EN: Clarity pierces like a knife. The mundane truth is painfully dull. -->
+<VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.description>La clarté perce comme un couteau. La vérité ordinaire est douloureusement terne.</VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.description>
+<!-- EN: sane doubts -->
+<VAEI_SanityEffectWithInhumanized.stages.sane_doubts.label>doutes sains</VAEI_SanityEffectWithInhumanized.stages.sane_doubts.label>
+<!-- EN: Doubt creeps in, questioning the chaos. Why does this clarity feel like chains? -->
+<VAEI_SanityEffectWithInhumanized.stages.sane_doubts.description>Le doute s'insinue, remettant en question le chaos. Pourquoi cette clarté ressemble-t-elle à des chaînes ?</VAEI_SanityEffectWithInhumanized.stages.sane_doubts.description>
+<!-- EN: sane feelings -->
+<VAEI_SanityEffectWithInhumanized.stages.sane_feelings.label>sentiments sains</VAEI_SanityEffectWithInhumanized.stages.sane_feelings.label>
+<!-- EN: Feelings of normalcy gnaw at my mind, erasing the beautiful madness. -->
+<VAEI_SanityEffectWithInhumanized.stages.sane_feelings.description>Des sentiments de normalité me rongent l'esprit, effaçant la belle folie.</VAEI_SanityEffectWithInhumanized.stages.sane_feelings.description>
+
+<!-- EN: sanity affected -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.label>santé mentale affectée</VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.label>
+<!-- EN: The world begins to bend at the edges; reality feels less certain. -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.description>Le monde commence à se déformer ; la réalité semble moins sûre.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.description>
+<!-- EN: sanity degraded -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.label>santé mentale dégradée</VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.label>
+<!-- EN: Things are slipping away, and whispers echo in the corners of my mind. -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.description>Les choses se dérobent et des murmures résonnent dans les recoins de mon esprit.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.description>
+<!-- EN: sanity crumbling -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.label>santé mentale effondrée</VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.label>
+<!-- EN: My grip loosens; shadows dance and the world spins uncontrollably. -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.description>Mon emprise se relâche, les ombres dansent et le monde tourne de manière incontrôlée.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.description>
+<!-- EN: sanity lost -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.label>santé mentale perdue</VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.label>
+<!-- EN: I am adrift in the void, untethered from the anchors of reality and reason. -->
+<VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.description>Je suis à la dérive dans le néant, détaché des ancrages de la réalité et de la raison.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.description>
+
+<!-- EN: suspicious -->
+<VAEI_Suspicious.stages.suspicious.label>suspect</VAEI_Suspicious.stages.suspicious.label>
+
+<!-- EN: vile slander -->
+<VAEI_VileSlanderMemory.stages.vile_slander.label>calomnie infâme</VAEI_VileSlanderMemory.stages.vile_slander.label>
+
+<!-- EN: vile slander -->
+<VAEI_VileSlanderMood.stages.vile_slander.label>calomnie infâme</VAEI_VileSlanderMood.stages.vile_slander.label>
+<!-- EN: I was accused of something absolutely vile! How could they say that? -->
+<VAEI_VileSlanderMood.stages.vile_slander.description>On m'a accusé de quelque chose d'absolument ignoble ! Comment ont-ils pu dire cela ?</VAEI_VileSlanderMood.stages.vile_slander.description>
+
+<!-- EN: observed void drawings -->
+<VAEI_VoidDrawings.stages.observed_void_drawings.label>dessins du néant observé</VAEI_VoidDrawings.stages.observed_void_drawings.label>
+<!-- EN: I witnessed a very eerie drawing. It feels like it speaks to me. -->
+<VAEI_VoidDrawings.stages.observed_void_drawings.description>J'ai été témoin d'un dessin très étrange. J'ai l'impression qu'il me parle.</VAEI_VoidDrawings.stages.observed_void_drawings.description>
+
+<!-- EN: void harmed -->
+<VAEI_VoidHarmed.stages.void_harmed.label>néant lésé</VAEI_VoidHarmed.stages.void_harmed.label>
+<!-- EN: I have harmed myself for the void. I can feel the sweet embrace of darkness. -->
+<VAEI_VoidHarmed.stages.void_harmed.description>Je me suis fait du mal pour le néant. Je peux sentir la douce étreinte des ténèbres.</VAEI_VoidHarmed.stages.void_harmed.description>
+
+
+</LanguageData>

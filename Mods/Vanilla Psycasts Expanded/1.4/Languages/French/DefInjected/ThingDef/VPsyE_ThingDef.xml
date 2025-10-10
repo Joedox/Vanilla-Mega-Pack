@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VPE_Mote_FireBeam.label>Mote</VPE_Mote_FireBeam.label>
+<VPE_Mote_CastPsycast.label>Mote</VPE_Mote_CastPsycast.label>
+<VPE_Mote_CastPsycast_Red.label>Mote</VPE_Mote_CastPsycast_Red.label>
+<VPE_Mote_CastPsycast_Yellow.label>Mote</VPE_Mote_CastPsycast_Yellow.label>
+<VPE_Mote_Butterfly.label>Mote</VPE_Mote_Butterfly.label>
+<VPE_Mote_GreenMist.label>Mote</VPE_Mote_GreenMist.label>
+<VPE_Mote_GhostA.label>Mote</VPE_Mote_GhostA.label>
+<VPE_Mote_GhostB.label>Mote</VPE_Mote_GhostB.label>
+<VPE_Mote_GhostC.label>Mote</VPE_Mote_GhostC.label>
+<VPE_Mote_GhostD.label>Mote</VPE_Mote_GhostD.label>
+<VPE_Mote_GhostE.label>Mote</VPE_Mote_GhostE.label>
+<VPE_Mote_GhostF.label>Mote</VPE_Mote_GhostF.label>
+<VPE_Mote_GhostG.label>Mote</VPE_Mote_GhostG.label>
+<VPE_YellowSparkFlash.label>Mote</VPE_YellowSparkFlash.label>
+<VPE_RedSparkFlash.label>Mote</VPE_RedSparkFlash.label>
+<VPE_WhiteSparkFlash.label>Mote</VPE_WhiteSparkFlash.label>
+<VPE_WarlordTargettingReticle.label>Mote</VPE_WarlordTargettingReticle.label>
+<VPE_PsycastAreaEffectMaintained.label>Mote</VPE_PsycastAreaEffectMaintained.label>
+<VPE_PsycastPsychicEffectTransfer.label>Mote</VPE_PsycastPsychicEffectTransfer.label>
+<VPE_Mote_Cast.label>Mote</VPE_Mote_Cast.label>
+<VPE_Hallucination.label>Mote</VPE_Hallucination.label>
+<VPE_Liferot.label>Mote</VPE_Liferot.label>
+<VPE_Mote_ParalysisPulse.label>Mote</VPE_Mote_ParalysisPulse.label>
+<VPE_SoulOrb.label>Mote</VPE_SoulOrb.label>
+<VPE_SoulOrbTransfer.label>Mote</VPE_SoulOrbTransfer.label>
+<VPE_MatterPhasing.label>Mote</VPE_MatterPhasing.label>
+
+<VPE_Skipdoor.label>porte de saut</VPE_Skipdoor.label>
+<VPE_Skipdoor.description>Un point d'entrée psychique dans un réseau de portails.</VPE_Skipdoor.description>
+
+<VPE_IceCrystal.label>cristal de glace</VPE_IceCrystal.label>
+<VPE_IceCrystal.description>Un petit cristal de glace qui refroidit la température de la pièce. Peut aider à congeler les denrées périssables.</VPE_IceCrystal.description>
+
+<VPE_IceWall.label>mur de glace</VPE_IceWall.label>
+<VPE_IceWall.description>Un mur fragile fait de glace. Il fondra sous l'effet de la chaleur.</VPE_IceWall.description>
+
+<VPE_FireBeam.label>faisceau de feu</VPE_FireBeam.label>
+
+<VPE_FireTornado.label>tornade de feu</VPE_FireTornado.label>
+
+<VPE_Vortex.label>vortex</VPE_Vortex.label>
+
+<VPE_HurricaneMaker.label>créateur d'ouragans</VPE_HurricaneMaker.label>
+
+<VPE_TimeSphere.label>sphère temporelle</VPE_TimeSphere.label>
+
+<VPE_SkyChanger.label>changeur de ciel</VPE_SkyChanger.label>
+
+<VPE_BrambleSpawner.label>émergeant</VPE_BrambleSpawner.label>
+
+<VPE_WildPlantSpawner.label>émergeant</VPE_WildPlantSpawner.label>
+
+<VPE_TreeSpawner.label>émergeant</VPE_TreeSpawner.label>
+
+<VPE_Shrineshield_Small.label>bouclier du sanctuaire (petit)</VPE_Shrineshield_Small.label>
+
+<VPE_Shrineshield_Large.label>bouclier du sanctuaire (grand)</VPE_Shrineshield_Large.label>
+
+<VPE_JumpingPawn.label>saut</VPE_JumpingPawn.label>
+
+<VPE_Darkness.label>ténèbres</VPE_Darkness.label>
+
+<VPE_Decoy.label>leurre</VPE_Decoy.label>
+
+<VPE_Flameball.label>boule de feu</VPE_Flameball.label>
+<VPE_Flameball.description>Une boule de flamme lancée par un conflagrateur.</VPE_Flameball.description>
+
+<VPE_FireBreath.label>souffle de feu</VPE_FireBreath.label>
+
+<VPE_EyeBlast.label>explosion optique</VPE_EyeBlast.label>
+
+<VPE_Bolt.label>trait de foudre</VPE_Bolt.label>
+<VPE_Bolt.description>Un trait de foudre lancé par un seigneur statique.</VPE_Bolt.description>
+
+<VPE_ChainBolt.label>chaîne d'éclairs</VPE_ChainBolt.label>
+
+<VPE_BallLightning.label>orbe de foudre</VPE_BallLightning.label>
+
+<VPE_IceBreathe.label>souffle de glace</VPE_IceBreathe.label>
+
+<VPE_IceSpike.label>pic de glace</VPE_IceSpike.label>
+<VPE_IceSpike.description>Un pic de glace lancé par un façonneur de givre.</VPE_IceSpike.description>
+
+<VPE_FrostRay.label>rayon de givre</VPE_FrostRay.label>
+
+<VPE_SmallMeteorite_Incoming.label>petite météorite</VPE_SmallMeteorite_Incoming.label>
+
+<VPE_SoulFromSky.label>âme</VPE_SoulFromSky.label>
+
+<VPE_EltexOre.label>minerai d'Eltex</VPE_EltexOre.label>
+<VPE_EltexOre.description>Roche contenant des morceaux d'eltex.</VPE_EltexOre.description>
+
+<VPE_Eltex.label>eltex</VPE_Eltex.label>
+<VPE_Eltex.description>Un minéral extrêmement mystérieux qui est à la fois malléable et sert de conduit physique pour les lanceurs psychiques. Comme la diffusion psychique provient des moteurs archotech, certains spéculent que ces minéraux ont été fabriqués par les archotechs ou qu'ils ont développé leurs moteurs en utilisant cet étrange minéral.</VPE_Eltex.description>
+
+<VPE_Apparel_EltexMask.label>masque en eltex</VPE_Apparel_EltexMask.label>
+<VPE_Apparel_EltexMask.description>Un masque artistiquement impressionnant qui émet de l'énergie psychique. Il cache le visage de celui qui le porte mais offre peu de protection physique. Ses matériaux spéciaux renforcent la sensibilité psychique du porteur et dissipent l'échauffement neuronal.</VPE_Apparel_EltexMask.description>
+
+<VPE_Apparel_EltexCape.label>cape en eltex</VPE_Apparel_EltexCape.label>
+<VPE_Apparel_EltexCape.description>Une longue cape de conception mystique. Elle pend sur un côté du torse. Ses matériaux spéciaux améliorent la sensibilité psychique du porteur et dissipent l'échauffement neuronal.</VPE_Apparel_EltexCape.description>
+
+<VPE_Apparel_PlateArmorPrestige.label>prestigieuse armure de plates</VPE_Apparel_PlateArmorPrestige.label>
+<VPE_Apparel_PlateArmorPrestige.description>De solides plaques d'armure qui se chevauchent en couvrant tout le corps du cou aux pieds.\n\nCoûteuse et magnifique, une pièce d'armure de prestige comme celle-ci est généralement conçue pour les personnes de haut rang. Les fils en eltex intégrés améliorent également la sensibilité psychique du porteur.</VPE_Apparel_PlateArmorPrestige.description>
+
+<VPE_Psyring.label>anneau psychique</VPE_Psyring.label>
+<VPE_Psyring.description>Un anneau psychique créé par un technomancien compétent. Il contient la connaissance d'un sort en particulier et peut être utilisé par d'autres psylanceurs pour le lancer.</VPE_Psyring.description>
+
+<VPE_Filth_Metal.label>scorie de métal</VPE_Filth_Metal.label>
+
+<VPE_Filth_Rock.label>débris de roche</VPE_Filth_Rock.label>
+
+<VPE_MeleeWeapon_EltexDagger.label>couteau en eltex</VPE_MeleeWeapon_EltexDagger.label>
+<VPE_MeleeWeapon_EltexDagger.description>Un couteau médiévale tissé avec des matériaux de concentration psychique. Tout en améliorant la sensibilité psychique du porteur et la dissipation de l'échauffement neuronal, il sert également d'excellente arme de mêlée, car il suit le même principe que tout autre couteau : Une poignée pour tenir et un bord tranchant pour couper.</VPE_MeleeWeapon_EltexDagger.description>
+<VPE_MeleeWeapon_EltexDagger.tools.handle.label>poignée</VPE_MeleeWeapon_EltexDagger.tools.handle.label>
+<VPE_MeleeWeapon_EltexDagger.tools.blade.label>lame</VPE_MeleeWeapon_EltexDagger.tools.blade.label>
+<VPE_MeleeWeapon_EltexDagger.tools.point.label>pointe</VPE_MeleeWeapon_EltexDagger.tools.point.label>
+
+<VPE_MeleeWeapon_EltexMace.label>masse en eltex</VPE_MeleeWeapon_EltexMace.label>
+<VPE_MeleeWeapon_EltexMace.description>Une masse médiévale tissée avec des matériaux de concentration psychique. Tout en améliorant la sensibilité psychique du porteur et la dissipation de l'échauffement neuronal, elle sert également d'excellente arme de mêlée, conçue pour des coups efficaces et des impacts mortels.</VPE_MeleeWeapon_EltexMace.description>
+<VPE_MeleeWeapon_EltexMace.tools.handle.label>poignée</VPE_MeleeWeapon_EltexMace.tools.handle.label>
+<VPE_MeleeWeapon_EltexMace.tools.head.label>tête</VPE_MeleeWeapon_EltexMace.tools.head.label>
+
+<VPE_MeleeWeapon_EltexSword.label>épée en eltex</VPE_MeleeWeapon_EltexSword.label>
+<VPE_MeleeWeapon_EltexSword.description>Une épée médiévale tissée avec des matériaux de concentration psychique. Tout en améliorant la sensibilité psychique de son porteur et la dissipation de l'échauffement neuronal, elle sert également d'excellente arme de mêlée. Elle est idéale pour poignarder ou trancher. Elle est légère et agile, ce qui lui permet parfois de battre des armes plus grandes et plus lourdes.</VPE_MeleeWeapon_EltexSword.description>
+<VPE_MeleeWeapon_EltexSword.tools.handle.label>poignée</VPE_MeleeWeapon_EltexSword.tools.handle.label>
+<VPE_MeleeWeapon_EltexSword.tools.point.label>pointe</VPE_MeleeWeapon_EltexSword.tools.point.label>
+<VPE_MeleeWeapon_EltexSword.tools.edge.label>tranchant</VPE_MeleeWeapon_EltexSword.tools.edge.label>
+
+<VPE_HeatPearls.label>perles d'échauffement</VPE_HeatPearls.label>
+<VPE_HeatPearls.description>Perles d'échauffement mystique créées par un technomancien lors d'un processus de condensation de l'échauffement neuronal sous une forme physique. Elles peuvent être lancées sur les autres psylanceurs pour libérer une quantité démente d'échauffement neuronal, désactivant leur capacité de lancer des sorts psychiques pour une courte durée.</VPE_HeatPearls.description>
+<VPE_HeatPearls.comps.CompReloadable.chargeNoun>utilise</VPE_HeatPearls.comps.CompReloadable.chargeNoun>
+<VPE_HeatPearls.verbs.throw_heat_pearl.label>perles d'échauffement</VPE_HeatPearls.verbs.throw_heat_pearl.label>
+<VPE_HeatPearls_Proj.label>projectile</VPE_HeatPearls_Proj.label>
+<VPE_HeatPearls.comps.CompReloadable.cooldownGerund>en recharge</VPE_HeatPearls.comps.CompReloadable.cooldownGerund>
+
+<VPE_SteelConstruct.label>constructeur métallique</VPE_SteelConstruct.label>
+<VPE_SteelConstruct.description>Un morceau de débris d'acier, animé par une puissante énergie psychique. Il engagera le combat contre les menaces proches et défendra son maître de tout mal qui pourrait lui arriver.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;Les constructeurs génèrent un verrouillage minimum d'échauffement neuronal pour le psylanceur qui les a invoquées. Garder trop de constructeurs en vie peut empêcher le psylanceur d'utiliser d'autres capacités.</VPE_SteelConstruct.description>
+<VPE_SteelConstruct.tools.head.label>tête</VPE_SteelConstruct.tools.head.label>
+
+<VPE_RockConstruct.label>constructeur rocheux</VPE_RockConstruct.label>
+<VPE_RockConstruct.description>Un morceau de roche, animé par une puissante énergie psychique. Il effectuera des travaux simples autour de la colonie sans relâche et avec un maximum de dévouement.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt;Les constructeurs génèrent un verrouillage minimum d'échauffement neuronal pour le psylanceur qui les a invoquées. Garder trop de constructeurs en vie peut empêcher le psylanceur d'utiliser d'autres capacités.</VPE_RockConstruct.description>
+<VPE_RockConstruct.tools.head.label>tête</VPE_RockConstruct.tools.head.label>
+
+<VPE_SummonedSkeleton.label>squelette</VPE_SummonedSkeleton.label>
+<VPE_SummonedSkeleton.description>Une enveloppe psychiquement réanimée d'un individu décédé. Extrêmement agressif, mais il dépérira bientôt dans le néant.</VPE_SummonedSkeleton.description>
+<VPE_SummonedSkeleton.tools.left_fist.label>poing gauche</VPE_SummonedSkeleton.tools.left_fist.label>
+<VPE_SummonedSkeleton.tools.right_fist.label>poing droit</VPE_SummonedSkeleton.tools.right_fist.label>
+
+
+</LanguageData>

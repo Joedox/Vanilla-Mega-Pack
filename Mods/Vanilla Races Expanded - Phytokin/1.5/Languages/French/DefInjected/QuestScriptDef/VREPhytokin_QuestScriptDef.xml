@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_Intro_Phytokin.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], un puissant phytokin, appelle depuis les environs. Elle a été chassée par [enemyFaction_name] pour leur avoir donné de mauvais conseils, et elle est maintenant poursuivie par un groupe de recherche. L'équipe de recherche des [enemyFaction_pawnsPlural] est composée de : \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] veut que vous la gardiez en sécurité à [map_definite]. Si vous acceptez, elle arrivera immédiatement, mais elle sera suivie par le groupe de recherche que vous devrez vaincre.\n\nLes Phytokins sont des humanoïdes à base de plantes qui privilégient la synergie et la symbiose. Leur capacité à ne subsister que grâce à la lumière du soleil et leur affinité avec toute forme de vie végétale les rendent particulièrement aptes à aider les colonies nouvellement établies ou les fermes industrielles peu performantes.</VRE_Intro_Phytokin.questDescriptionRules.rulesStrings.0>
+<VRE_Intro_Phytokin.questNameRules.rulesStrings>
+    <li>questName->le Phytokin [adjAny]</li>
+
+    <!-- Pieces -->
+    <li>adjAny->chassé</li>
+    <li>adjAny->en fuite</li>
+    <li>adjAny->solitaire</li>
+    <li>adjAny->en embuscade</li>
+    <li>adjAny->traqué</li>
+</VRE_Intro_Phytokin.questNameRules.rulesStrings>
+<VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nPuisque vous avez accepté [asker_nameDef], la bande de pirates qui la poursuit va bientôt arriver.</VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>
+<VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>{BASELABEL} : Poursuite des pirates</VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>
+<VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nCe sont les pirates qui chassaient [../asker_nameFull].\n             </VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>
+
+
+</LanguageData>

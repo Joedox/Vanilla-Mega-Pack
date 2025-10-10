@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!-- Item Production -->
+<IncubatorProgress>Progression de l'incubateur </IncubatorProgress>
+<ResourceGrowth>Croissance des ressources </ResourceGrowth>
+<FeatherGrowth>Croissance des plumes </FeatherGrowth>
+<JellyGrowth>Montée de gelée royale </JellyGrowth>
+<VanillaJellyGrowth>Montée de gelée d'insecte </VanillaJellyGrowth>
+<SilkGrowth>Croissance de la soie </SilkGrowth>
+<PoisonGrowth>Montée de poison </PoisonGrowth>
+<GR_Neutroamine>Temps de production de neutroamine </GR_Neutroamine>
+<GR_GoJuice>Production de Go-Juice </GR_GoJuice>
+<TentacleGrowth>Croissance de tentacules ajustables </TentacleGrowth>
+<JellyGrowthEldritch>Montée de gelée Eldritch </JellyGrowthEldritch>
+<ChocolateEgg>Ponte des œufs en chocolat </ChocolateEgg>
+<Cryofuel>Production de deepchem </Cryofuel>
+<ChemfuelProd>Production de chemfuel </ChemfuelProd>
+<NeutroglycerinProd>Production de neutroglycérine </NeutroglycerinProd>
+<ComponentIndustrialDesc>Production de composant avancé </ComponentIndustrialDesc>
+<CastoreumProd>Production de castoréum </CastoreumProd>
+<!-- Age related diseases -->
+<GR_AgeDiseaseLabel>Maladie génétique</GR_AgeDiseaseLabel>
+<GR_AgeDiseaseText>{0} a atteint la limite de sa durée de vie stable, et a acquis la maladie génétique : {1}\n\nLes maladies génétiques sont incurables. Elles peuvent être traitées pour retarder l'inévitable, mais l'animal finira par mourir.</GR_AgeDiseaseText>
+<GR_LackOfLove>Meurs faute d'amour dans : {0}</GR_LackOfLove>
+<GR_CellularDegeneration>Dégénérescence cellulaire dans : {0}</GR_CellularDegeneration>
+<GR_CantResurrect>Les animaux qui ont été prélevés ne peuvent pas être ressuscités.</GR_CantResurrect>
+<GR_GeneticDiseasesIn>Maladie génétique dans : {0}</GR_GeneticDiseasesIn>
+<GR_FleshGrowth>Se propage dans l'obscurité et produit périodiquement des mouches à viande. Détruisez-la aussi vite que possible !</GR_FleshGrowth>
+<!-- Growth Cell -->
+<GR_GrowthCell_InspectDominant>Gène dominant : {0}</GR_GrowthCell_InspectDominant>
+<GR_GrowthCell_InspectSecondary>Gène secondaire : {0}</GR_GrowthCell_InspectSecondary>
+<GR_GrowthCell_InspectGenoframe>Génocadre : {0}</GR_GrowthCell_InspectGenoframe>
+<GR_GrowthCell_InspectBooster>Amplificateur : {0}</GR_GrowthCell_InspectBooster>
+<GR_GrowthCell_InsertInElectroWomb>Insérer la cellule {1} (taille {2}) dans {0}</GR_GrowthCell_InsertInElectroWomb>
+<GR_ArchoGrowthCell_InsertInElectroWomb>Insérer la cellule de croissance archotech dans {0}</GR_ArchoGrowthCell_InsertInElectroWomb>
+<GR_DestroyedByTemp>{0} a été détruit à cause de la température (doit être compris entre 0 et 50 ºC)</GR_DestroyedByTemp>
+<!-- Excavators -->
+<GR_NoValidExtraction>Aucun gène valide ne peut être prélevé sur cet animal avec cet extracteur.</GR_NoValidExtraction>
+<GR_AlreadyExtracted>Le matériel génétique de cet animal a déjà été prélevé.</GR_AlreadyExtracted>
+<GR_ExcavatorUsesLeft>Reste {0} utilisation{0_multiple ? s : }.</GR_ExcavatorUsesLeft>
+<GR_ExtractionFailed>L'animal ne peut être atteint par le colon, ou il est en train d'interagir avec un autre colon.</GR_ExtractionFailed>
+<!-- Genomorpher -->
+<GR_Genomorpher_Progress>Progression : {0}</GR_Genomorpher_Progress>
+<GR_DesignateGrowthCell>Cellule de croissance</GR_DesignateGrowthCell>
+<GR_DesignateGrowthCellDesc>Sélectionner les génomes, le génocadre et éventuellement un amplificateur pour créer une cellule de croissance d'un hybride.</GR_DesignateGrowthCellDesc>
+<GR_GenomorpherExplanation>Sélectionner les génomes, le génocadre et en option l'amplificateur pour créer une cellule de croissance.</GR_GenomorpherExplanation>
+<GR_GenomorpherExplanationPartTwo>Utilisez des immunostimulants ou utilisez des combinaisons de génomes plus sûres pour réduire le risque d'échec.</GR_GenomorpherExplanationPartTwo>
+<GR_PredictedOutcomes>Résultat attendu</GR_PredictedOutcomes>
+<GR_FailureOutcome>Résultat d'échec</GR_FailureOutcome>
+<GR_SelectDominantGenome>Choisir le génome dominant</GR_SelectDominantGenome>
+<GR_SelectDominantGenomeExplanation>Le génome dominant affecte les caractéristiques primaires de l'hybride.</GR_SelectDominantGenomeExplanation>
+<GR_SelectSecondaryGenome>Choisir le génome secondaire</GR_SelectSecondaryGenome>
+<GR_SelectSecondaryGenomeExplanation>Affecte moins l'hybride que le dominant.</GR_SelectSecondaryGenomeExplanation>
+<GR_SelectGenoframe>Choisir le génocadre</GR_SelectGenoframe>
+<GR_SelectGenoframeExplanation>Le génocadre affecte le niveau de qualité de l'hybride.</GR_SelectGenoframeExplanation>
+<GR_SelectBooster>Choisir l'amplificateur</GR_SelectBooster>
+<GR_SelectBoosterExplanation>Les amplificateurs affectent la vitesse du processus ainsi que les chances d'échec.</GR_SelectBoosterExplanation>
+<GR_InitiateSynthesisExplanation>Pour lancer la synthèse, vos colons devront livrer tous les ingrédients dans le Synthétiseur de génome. Une fois la synthèse terminée, une cellule de croissance d'un hybride devra être extraite et insérée dans une électrocouveuse jusqu'à sa maturité. Les animaux plus grands nécessiteront de grandes électrocouveuses.</GR_InitiateSynthesisExplanation>
+<GR_RandomizeAll>Aléatoire</GR_RandomizeAll>
+<GR_InitiateSynthesis>Lancer la synthèse</GR_InitiateSynthesis>
+<GR_Quality>Qualité : {0}</GR_Quality>
+<GR_QualityExplanation>Utilisez des génocadres de qualité supérieure pour augmenter la qualité de l'hybride.</GR_QualityExplanation>
+<GR_ProcessWillTake>Durée du processus : {0}</GR_ProcessWillTake>
+<GR_ProcessDurationExplanation>Utilisez des accélérostimulant ou des cuves de nutriments pour accélérer le processus.</GR_ProcessDurationExplanation>
+<GR_NoIngredientFound>Aucun ingrédient trouvé pour lancer le processus du Synthétiseur de génome.</GR_NoIngredientFound>
+<GR_NoGenomesInMap>Aucun génome valide sur la carte.</GR_NoGenomesInMap>
+<GR_NoGenoframesInMap>Aucun génocadre valide sur la carte.</GR_NoGenoframesInMap>
+<GR_NoBoostersInMap>Aucun amplificateur valide sur la carte.</GR_NoBoostersInMap>
+<GR_ChooseDominantGenomeFirst>Choisissez d'abord le génome dominant.</GR_ChooseDominantGenomeFirst>
+<GR_ChooseNoBooster>- Aucun -</GR_ChooseNoBooster>
+<GR_Genomorpher_Ingredients>Ingrédients : {0}, {1}, {2}, {3}</GR_Genomorpher_Ingredients>
+<GR_Genomorpher_Ingredients_NoFrame>Ingrédients : {0}, {1}, {2}</GR_Genomorpher_Ingredients_NoFrame>
+<GR_Genomorpher_Finished>La cellule de croissance a été produite.</GR_Genomorpher_Finished>
+<!-- ElectroWomb -->
+<GR_ElectroWomb_Progress>Progression : {0}</GR_ElectroWomb_Progress>
+<GR_ElectroWomb_Finished>La créature est sortie de électrocouveuse.</GR_ElectroWomb_Finished>
+<GR_ElectroWomb_Finished_Failure>La créature est sortie de électrocouveuse... mais quelque chose a terriblement mal tourné !</GR_ElectroWomb_Finished_Failure>
+<GR_ElectroWomb_Finished_Failure_TooSmall>L'électrocouveuse était trop petite pour cette créature... quelque chose a terriblement mal tourné !</GR_ElectroWomb_Finished_Failure_TooSmall>
+<GR_MustPlaceRoofed>Ce bâtiment doit être placé à l'intérieur, dans une zone couverte.</GR_MustPlaceRoofed>
+<!-- DNA Storage -->
+<GR_SelectGenomeToHarvest>Choisir un génome</GR_SelectGenomeToHarvest>
+<GR_SelectGenomeToHarvestDesc>Sélectionnez un génome à extraire.</GR_SelectGenomeToHarvestDesc>
+<GR_NoEndgameGenomes>Aucun génome de fin de partie ! (erreur)</GR_NoEndgameGenomes>
+<GR_SelectedGenome>\nGénome actuellement extrait : {0}</GR_SelectedGenome>
+<GR_SelectAnimalToHarvest>Choisir un animal</GR_SelectAnimalToHarvest>
+<GR_SelectAnimalToHarvestDesc>Sélectionnez un animal à récolter. Cet animal sera amené à la banque d'ADN pour récolter son ADN. L'animal sera tué et son corps sera détruit.</GR_SelectAnimalToHarvestDesc>
+<GR_NoValidAnimalsToExtract>Aucun animal dans votre colonie avec ce génome.</GR_NoValidAnimalsToExtract>
+<GR_DNABankProgress>Progression du niveau d'ADN : {0}</GR_DNABankProgress>
+<GR_AreYouSureDNA>Êtes-vous sûr de vouloir changer de génome ? Tous les progrès actuels seront perdus.</GR_AreYouSureDNA>
+<GR_DuplicatedGenomeSelection>Une banque d'ADN à proximité a déjà ce génome sélectionné.</GR_DuplicatedGenomeSelection>
+<!-- Archocentipede former -->
+<GR_ArchoFormerGenomeProgress>Progression du {0} : {1}</GR_ArchoFormerGenomeProgress>
+<GR_ArchoFormerDisabledReason>Progression manquante de la banque d'ADN</GR_ArchoFormerDisabledReason>
+<GR_BeginArchotechGrowthCell>Créer la cellule de croissance</GR_BeginArchotechGrowthCell>
+<GR_BeginArchotechGrowthCellDesc>Débuter la création d'une cellule de croissance Archotech. Cela nécessitera que toutes les banques d'ADN nécessaires soient à 100% de progression.</GR_BeginArchotechGrowthCellDesc>
+<GR_ArchoFormerCellProgress>Progression de la cellule de croissance Archotech : {0}</GR_ArchoFormerCellProgress>
+<!-- Archowomb -->
+<GR_ArchotechGrowthCellNotInserted>Une cellule de croissance archotech doit être insérée dans l'archocouveuse avant que le processus puisse commencer.</GR_ArchotechGrowthCellNotInserted>
+<GR_BeginArchotechCentipede>L'éveil de l'Archotech</GR_BeginArchotechCentipede>
+<GR_BeginArchotechCentipedeDesc>Créer un archocentipède. Le processus prendra environ 15 jours, et la signature énergétique sera détectable sur une grande distance.</GR_BeginArchotechCentipedeDesc>
+<GR_BeginArchotechCentipedeText>Vous êtes prêt à lancer le projet archocentipède.\n\nLe processus prendra environ 15 jours, et la signature énergétique sera détectable sur une grande distance. Ce genre de signature énergétique indique que quelqu'un se mêle d'une technologie qui dépasse de loin l'entendement humain, et attirera des bandes de pillards désespérés et des essaims de mécanoïdes mortels.\n\nVous serez assaillis avec une intensité que vous n'avez jamais vue. Assurez-vous d'abord que vos défenses sont parfaitement préparées.</GR_BeginArchotechCentipedeText>
+<GR_ArchoWombProgress>Progression de l'archocouveuse : {0}</GR_ArchoWombProgress>
+<GR_GameOverArchotech>Vous avez activé le projet Archotech ! Ces colons étaient présents lors de l'éveil de l'Archotech :\n\n{0}\n\nL'archocentipède est maintenant sous votre contrôle, et vous êtes libre de décimer vos ennemis et de contrôler la planète sans opposition.\n\nFélicitations, vous avez gagné la partie avec le mod Vanilla Genetics Expanded !</GR_GameOverArchotech>	
+<!-- Biomechanical lab beacon -->
+<GR_DecodingRadioSignals>Décodage de signaux radio étranges dans {0}</GR_DecodingRadioSignals>
+<!-- Mechahybridizer -->
+<GR_SelectParagonToConvert>Choisir un parangon</GR_SelectParagonToConvert>
+<GR_SelectParagonToConvertDesc>Sélectionnez un parangon pour lancer le processus de mécahybridation. Cet animal sera amené au mécahybrificateur et converti en un hybride mécanoïde sous votre contrôle. Ce processus prendra 12 heures et fera exploser l'un des mécafusibles à proximité.</GR_SelectParagonToConvertDesc>
+<GR_NoValidParagonsToConvert>Aucun hybride parangon de votre colonie présent.</GR_NoValidParagonsToConvert>
+<GR_WarningNoFusesLeft>Attention : Le mécahybrificateur n'étant pas protégé par un mécafusible, un raid d'anciens mécanoïdes sera largué depuis l'orbite.</GR_WarningNoFusesLeft>
+<GR_MechahybridizerProgress>Progression du mécahybridation : {0}</GR_MechahybridizerProgress>
+<!-- Mecha antenna -->
+<GR_IFFCoherence>Cohérence IFF : {0}</GR_IFFCoherence>
+<GR_MechsInThisAntenna>Les hybrides méca affectés à cette antenne :</GR_MechsInThisAntenna>
+<!-- Hybrid role descriptions-->
+<GR_HybridRole>Rôle de l'hybride</GR_HybridRole>
+<GR_HybridRoleCombat>Combat </GR_HybridRoleCombat>
+<GR_HybridRoleFarm>Ferme</GR_HybridRoleFarm>
+<GR_HybridRoleUtility>Utilitaire</GR_HybridRoleUtility>
+<GR_HybridRoleCombatDesc>Les hybrides de combat sont d'excellents combattants de mêlée ou à distance. Ces hybrides profiteront le plus des implants et des amplificateurs de contrôle.</GR_HybridRoleCombatDesc>
+<GR_HybridRoleFarmDesc>Les hybrides de ferme produisent une sorte de ressource au fil du temps, mais doivent généralement être gardés dans un enclos. Ces hybrides ne profiteront pas autant des implants et des amplificateurs de contrôle.</GR_HybridRoleFarmDesc>
+<GR_HybridRoleUtilityDesc>Les hybrides utilitaires apportent à la colonie une sorte de mécanisme qui n'est pas strictement utilisé pour le combat ou la génération de ressources.</GR_HybridRoleUtilityDesc>
+<!-- Creature Control Commands -->
+<GR_CreatureMindControl>Créature sous contrôle mental</GR_CreatureMindControl>
+<GR_CreatureMindControlDesc>Utilisez le contrôle mental pour ordonner à cette créature de se déplacer sur la carte.</GR_CreatureMindControlDesc>
+<GR_CreatureRageAttack>Attaque enragée</GR_CreatureRageAttack>
+<GR_CreatureRageAttackDesc>Envoyez la créature dans une rage sanguinaire contre sa cible.</GR_CreatureRageAttackDesc>
+<GR_DetonateChemfuel>Détonation du Chemfuel</GR_DetonateChemfuel>
+<GR_DetonateChemfuelDesc>Faites exploser à distance les réservoirs de chemfuel de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateChemfuelDesc>
+<GR_InflictChickenRimPox>Infliger la RimVariole aviaire</GR_InflictChickenRimPox>
+<GR_InflictChickenRimPoxDesc>Attaque une cible et lui inflige la RimVariole aviaire, une maladie incapacitante.</GR_InflictChickenRimPoxDesc>
+<GR_CarryMore>Transporter plus de poids</GR_CarryMore>
+<GR_CarryMoreDesc>Cet hybride peut porter plus de poids que d'habitude en raison de l'influence du centre de contrôle des animaux.</GR_CarryMoreDesc>
+<GR_StartAdrenalineBurst>Montée d'adrénaline</GR_StartAdrenalineBurst>
+<GR_StartAdrenalineBurstDesc>Permet à la créature de se déplacer beaucoup plus rapidement pendant un certain temps, au prix d'être fatiguée ensuite pendant près d'une demi-journée.</GR_StartAdrenalineBurstDesc>
+<GR_ReleaseInsectClouds>Nuée d'insectes</GR_ReleaseInsectClouds>
+<GR_ReleaseInsectCloudsDesc>La créature libère une nuée d'insectes autour d'elle, endommageant tous les colons qui ne sont pas des insectes hybrides.</GR_ReleaseInsectCloudsDesc>
+<GR_StartStampede>Ruée</GR_StartStampede>
+<GR_StartStampedeDesc>La créature piétine, se déplace plus rapidement et crée des nuages de poussière qui bloquent la ligne de visée des armes à projectiles. La créature se fatigue au bout d'un moment.</GR_StartStampedeDesc>
+<GR_CreatePoisonousCloud>Nuage venimeux</GR_CreatePoisonousCloud>
+<GR_CreatePoisonousCloudDesc>Crée un nuage de poison à l'emplacement de la cible.</GR_CreatePoisonousCloudDesc>
+<GR_StartBurrowing>Enterrer</GR_StartBurrowing>
+<GR_StartBurrowingDesc>Fait passer la créature sous terre en mode terrier, ce qui la rend très résistante aux dégâts pendant un certain temps.</GR_StartBurrowingDesc>
+<GR_StartStamina>endurance accrue</GR_StartStamina>
+<GR_StartStaminaDesc>Rend la créature plus résistante aux dégâts pendant un certain temps.</GR_StartStaminaDesc>
+<GR_StartInvokingInsanity>Invoquer la folie</GR_StartInvokingInsanity>
+<GR_StartInvokingInsanityDesc>Invoque la folie de "Ce que l'homme n'est pas censé savoir"</GR_StartInvokingInsanityDesc>
+<GR_StartMechaBlast>Explosion méca</GR_StartMechaBlast>
+<GR_StartMechaBlastDesc>L'air s'échappe autour de l'hybride mécanoïde, brûlant tout ce qui s'en approche.</GR_StartMechaBlastDesc>
+<GR_StartKeenSenses>Sens aiguisés</GR_StartKeenSenses>
+<GR_StartKeenSensesDesc>Rend la créature plus consciente de son environnement, augmentant ses capacités de mêlée (affecte la vue et la conscience).</GR_StartKeenSensesDesc>
+<GR_StartCatReflexes>Réflexes de chat</GR_StartCatReflexes>
+<GR_StartCatReflexesDesc>Rend la créature beaucoup plus agile, améliorant encore ses chances d'esquiver les attaques de mêlée.</GR_StartCatReflexesDesc>
+<GR_Orbital>Faisceau de puissance orbitale</GR_Orbital>
+<GR_OrbitalDesc>C'est une belle... vie que vous avez là. Ce serait une honte si quelqu'un devait y mettre fin.</GR_OrbitalDesc>
+<GR_AbilityRecharging>La capacité est en train de changer. Vérifiez l'onglet santé de l'animal.</GR_AbilityRecharging>
+<GR_PoisonCloudRange>Le nuage de poison a une portée maximum de 10. Rapprochez-vous de la cible !</GR_PoisonCloudRange>
+<GR_InvokingInsanityRange>Invoquer la folie a une portée maximum de 10. Rapprochez-vous de la cible !</GR_InvokingInsanityRange>
+<!-- Ideology -->
+<GR_GeneticTableImplantsSpeed>Vitesse tables génétiques : précepte des implants</GR_GeneticTableImplantsSpeed>
+<!-- Boosters -->
+<GR_Safety>Sécurité</GR_Safety>
+<GR_Stability>Stabilité</GR_Stability>
+<GR_TimeMultiplier>Multiplicateur de temps</GR_TimeMultiplier>
+<GR_SafetyDesc>La sécurité est un nombre qui est déduit de la probabilité du Résultat d'échec.\n\nPar exemple, une sécurité de 5 réduit le risque d'échec de 5% (de 10% à 5%). Cette valeur peut également être négative, ce qui augmente le risque d'échec de l'expérience.</GR_SafetyDesc>
+<GR_StabilityDesc>La stabilité est un nombre qui est déduit de la probabilité de permutation.\n\nPar exemple, une stabilité de 5 signifie que le risque de base de permutation des gènes passe de 10% à 5% (devenant plus stable). Cette valeur peut également être négative, ce qui signifie que la probabilité que les génomes échangent leurs positions et donnent lieu à un hybride non désiré est plus grande.</GR_StabilityDesc>
+<GR_TimeMultiplierDesc>Le multiplicateur de temps accélère ou augmente le temps nécessaire au Synthétiseur de génome pour accomplir sa tâche.\n\nUn modificateur fractionnaire accélère le processus (par exemple 0,5 signifie qu'il prendra la moitié du temps habituel), tandis qu'un modificateur supérieur à 1 le ralentit (2 signifie qu'il prendra le double du temps).</GR_TimeMultiplierDesc>
+<!-- Incidents -->
+<GR_LetterLabelMonstrositiesArrived>Monstruosités errantes</GR_LetterLabelMonstrositiesArrived>
+<GR_LetterMonstrositiesArrived>Des monstruosités génétiquement modifiées se sont échappées et errent sans but dans la nature, elles ont été attirées par votre colonie ! Elles attaquent immédiatement !\n\nElles semblent être atteintes de la maladie Grande Scaria, elles ne pourront pas être apprivoisées, et mourront en quelques jours, même si elles sont traitées.</GR_LetterMonstrositiesArrived>
+<!-- Mod options -->
+<GR_GenomorpherSpeedMultiplier>Multiplicateur de vitesse du Synthétiseur de génome </GR_GenomorpherSpeedMultiplier>
+<GR_GenomorpherSpeedMultiplierTooltip>La vitesse du processus du Synthétiseur de génome est multipliée par ce nombre. Les nombres inférieurs à 1 diminuent le temps, tandis que les nombres supérieurs à 1 l'augmentent.</GR_GenomorpherSpeedMultiplierTooltip>
+<GR_WombSpeedMultiplier>Multiplicateur de vitesse de Électrocouveuse </GR_WombSpeedMultiplier>
+<GR_WombMultiplierTooltip>La vitesse du processus de l'Électrocouveuse est multipliée par ce nombre. Les nombres inférieurs à 1 diminuent le temps, tandis que les nombres supérieurs à 1 l'augmentent.</GR_WombMultiplierTooltip>
+<GR_FailureRate>Taux d'échec de la base </GR_FailureRate>
+<GR_FailureRateTooltip>Par défaut, un processus du Synthétiseur de génome échoue dans 10% des cas. Ce taux peut être affecté par les amplificateurs et d'autres facteurs. Ce paramètre modifie ce taux d'échec de base de 10%.</GR_FailureRateTooltip>
+<GR_QuestRate>Multiplicateur de taux pour les quêtes des laboratoires abandonnés </GR_QuestRate>
+<GR_QuestRateTooltip>La fréquence à laquelle la quête du laboratoire abandonné est proposée est multipliée par ce nombre (avec un multiplicateur de 1, elle est proposée tous les 10 à 30 jours au hasard). Les nombres inférieurs à 1 diminuent la durée, tandis que les nombres supérieurs à 1 l'augmentent.\n\nA noter que cet événement ne "remplace" pas les quêtes normales, il fonctionne indépendamment.</GR_QuestRateTooltip>
+<GR_RaidsRate>Multiplicateur du taux de raids des "monstruosités errantes" </GR_RaidsRate>
+<GR_RaidsRateTooltip>La fréquence de l'événement des hybrides errants et chasseurs d'hommes qui attaquent votre colonie est multipliée par ce nombre (avec un multiplicateur de 1, il est proposé tous les 10 à 30 jours au hasard). Les nombres inférieurs à 1 diminuent la durée, tandis que les nombres supérieurs à 1 l'augmentent.\n\nA noter que cet événement ne "remplace" pas les raids normaux, il fonctionne indépendamment.</GR_RaidsRateTooltip>
+<GR_DisableOldAgeDiseases>Désactiver toutes les maladies génétiques</GR_DisableOldAgeDiseases>
+<GR_DisableOldAgeDiseasesTooltip>Désactive toutes les maladies génétiques qui touchent les hybrides après un temps donné, en fonction de leur qualité. Gardez à l'esprit que cela signifie effectivement que les hybrides ne mourront jamais de vieillesse, car ils ne reçoivent pas de maladies de "vieillesse" telles que la démence.</GR_DisableOldAgeDiseasesTooltip>
+<GR_DisableHybridRaids>Désactiver les raids de "monstruosités errantes"</GR_DisableHybridRaids>
+<GR_DisableHybridRaidsTooltip>Désactive les hybrides errants et chasseurs d'hommes qui attaquent périodiquement votre colonie.</GR_DisableHybridRaidsTooltip>
+<GR_MakeAllHybridsControllable>Rendre tous les hybrides contrôlables</GR_MakeAllHybridsControllable>
+<GR_MakeAllHybridsControllableTooltip>Rend tous les hybrides mobilisables, pouvant être commandés par le joueur, sans avoir besoin d'utiliser un amplificateur de contrôle.</GR_MakeAllHybridsControllableTooltip>
+<GR_MakeAllHybridsFertile>Rendre tous les hybrides féconds</GR_MakeAllHybridsFertile>
+<GR_MakeAllHybridsFertileTooltip>Rend tous les hybrides qui sortent d'une électrocouveuse féconds, et donc capables de se reproduire, sans avoir besoin d'un amplificateur de fécondité. Gardez à l'esprit que cela ne fonctionnera toujours pas sur les hybrides insectoïdes, car les insectes eusociaux ne seront jamais féconds.</GR_MakeAllHybridsFertileTooltip>
+<GR_Reset>Réinitialiser</GR_Reset>
+<GR_DisableGrowthCellAlerts>Désactiver les alertes de cellules de croissance</GR_DisableGrowthCellAlerts>
+<GR_DisableGrowthCellAlertsTooltip>Désactive le message contextuel qui apparaît lorsqu'une cellule de croissance est terminée par un Synthétiseur de génome.</GR_DisableGrowthCellAlertsTooltip>
+<GR_DisableWombAlerts>Désactiver les alertes électrocouveuse</GR_DisableWombAlerts>
+<GR_DisableWombAlertsTooltip>Désactive le message contextuel qui apparaît lorsqu'une créature a terminé sa croissance dans une électrocouveuse.</GR_DisableWombAlertsTooltip>
+<GR_DisableMechanoidIFF>Désactiver les capteurs IFF des mécas hybrides</GR_DisableMechanoidIFF>
+<GR_DisableMechanoidIFFTooltip>Désactive les hybrides mécanoïdes ayant besoin d'une antenne mécahybride. Si ce paramètre est activé, les hybrides mécanoïdes resteront toujours apprivoisés (les mécanismes de dressage des animaux du jeu de base étant toujours présents) et vous n'aurez pas besoin de construire d'antennes mécanoïdes, jamais.</GR_DisableMechanoidIFFTooltip>
+<GR_HybridsPerAntenna>Hybrides mécanoïdes supportés par antenne </GR_HybridsPerAntenna>
+<GR_HybridsPerAntennaTooltip>Choisissez le nombre d'hybrides qui seront pris en charge pour chaque antenne mécahybride. Valeur par défaut : 5.</GR_HybridsPerAntennaTooltip>
+<GR_DisableGreaterScariaRotting>Désactiver le pourrissement à 100% du Grand Scaria</GR_DisableGreaterScariaRotting>
+<GR_DisableGreaterScariaRottingTooltip>Par défaut, la grande scaria pourrit les cadavres 100% du temps. Avec ce paramètre activé, le pourrissement des cadavres sera le même que celui de la scaria normale, qui est un paramètre du conteur. Gardez à l'esprit que cela signifie que le joueur n'obtiendra que de la viande et du cuir lors des raids supplémentaires.</GR_DisableGreaterScariaRottingTooltip>
+<GR_HybridSpawnerRadius>Rayon aléatoire des apparitions des hybrides</GR_HybridSpawnerRadius>
+<GR_HybridSpawnerRadiusTooltip>Définit le rayon que les hybrides aléatoires des quêtes " Laboratoire abandonné " utilisent pour détecter les joueurs autour d'eux et faire apparaître un hybride hostile aléatoire. La valeur par défaut est de 12 cases. AVERTISSEMENT : Augmenter cette valeur à 40 entraînera un ralentissement, car le nombre de cases dans le cercle augmente de façon exponentielle, et non de façon linéaire.</GR_HybridSpawnerRadiusTooltip>
+<!-- Misc -->
+<RB_BeeHoneyCombProduction>Production de nids d'abeilles</RB_BeeHoneyCombProduction>
+<!-- Bee Tags -->
+<RB_Organic_Drone_Tag>Drone biologique</RB_Organic_Drone_Tag>
+<RB_Hybernating_Drone_Tag>Drone hibernant</RB_Hybernating_Drone_Tag>
+<RB_Cattle_Drone_Tag>Drone à bétail</RB_Cattle_Drone_Tag>
+<RB_Clucking_Drone_Tag>Drone gloussant</RB_Clucking_Drone_Tag>
+<RB_Exploding_Drone_Tag>Drone explosif</RB_Exploding_Drone_Tag>
+<RB_Horned_Drone_Tag>Drone à cornes</RB_Horned_Drone_Tag>
+<RB_Hound_Drone_Tag>Drone de chasse</RB_Hound_Drone_Tag>
+<RB_Mecha_Drone_Tag>Drone méca</RB_Mecha_Drone_Tag>
+<RB_Megaspidery_Drone_Tag>Drone mécaraignée</RB_Megaspidery_Drone_Tag>
+<RB_Mousy_Drone_Tag>Drone souris</RB_Mousy_Drone_Tag>
+<RB_Purring_Drone_Tag>Drone ronronnant</RB_Purring_Drone_Tag>
+<RB_Scaly_Drone_Tag>Drone écailleux</RB_Scaly_Drone_Tag>
+<RB_Organic_Queen_Tag>Reine biologique</RB_Organic_Queen_Tag>
+<RB_Hybernating_Queen_Tag>Reine hibernante</RB_Hybernating_Queen_Tag>
+<RB_Cattle_Queen_Tag>Reine du bétail</RB_Cattle_Queen_Tag>
+<RB_Clucking_Queen_Tag>Reine du gloussement</RB_Clucking_Queen_Tag>
+<RB_Exploding_Queen_Tag>Reine explosive</RB_Exploding_Queen_Tag>
+<RB_Horned_Queen_Tag>Reine à cornes</RB_Horned_Queen_Tag>
+<RB_Hound_Queen_Tag>Reine de chasse</RB_Hound_Queen_Tag>
+<RB_Mecha_Queen_Tag>Reine méca</RB_Mecha_Queen_Tag>
+<RB_Megaspidery_Queen_Tag>Reine mécaraignée</RB_Megaspidery_Queen_Tag>
+<RB_Mousy_Queen_Tag>Reine souris</RB_Mousy_Queen_Tag>
+<RB_Purring_Queen_Tag>Reine des ronronnements</RB_Purring_Queen_Tag>
+<RB_Scaly_Queen_Tag>Reine écailleuse</RB_Scaly_Queen_Tag>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VCHE_ExtractChemfuel>Extraire 150 chemfuel</VCHE_ExtractChemfuel>
+<VCHE_ExtractChemfuelDesc>Extraire 150 chemfuel du réservoir. Un colon viendra l'extraire.</VCHE_ExtractChemfuelDesc>
+
+<VCHE_ExtractDeepchem>Extraire 150 deepchem</VCHE_ExtractDeepchem>
+<VCHE_ExtractDeepchemDesc>Extraire 150 deepchem du réservoir. Un colon viendra l'extraire.</VCHE_ExtractDeepchemDesc>
+
+<VCHE_CantRefine>Impossible de raffiner : Réservoir plein</VCHE_CantRefine>
+<VCHE_CantPump>Impossible de pomper : Réservoir plein</VCHE_CantPump>
+
+<VCHE_CantPlaceHere>La station de pompage deepchem doit être placée sur un gisement deepchem. Utilisez un scanner géologique pour trouver des gisements.</VCHE_CantPlaceHere>
+
+<VCHE_ChemValve>Ouvrir / Fermer</VCHE_ChemValve>
+<VCHE_ChemValveDesc>Ouvre / Ferme le flux de chemfuel. Un colon viendra bientôt pour actionner la vanne.</VCHE_ChemValveDesc>
+
+<VCHE_DeepChemValve>Ouvrir / Fermer</VCHE_DeepChemValve>
+<VCHE_DeepChemValveDesc>Ouvre / Ferme le flux de deepchem. Un colon viendra bientôt pour actionner la vanne.</VCHE_DeepChemValveDesc>
+
+
+</LanguageData>

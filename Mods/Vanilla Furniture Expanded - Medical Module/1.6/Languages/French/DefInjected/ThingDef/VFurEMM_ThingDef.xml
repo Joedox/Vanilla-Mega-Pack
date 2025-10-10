@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: cryptosleep suspender -->
+<Bed_CryptoBed.label>caisson cryo-sommeil</Bed_CryptoBed.label>
+<!-- EN: A medical that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity. -->
+<Bed_CryptoBed.description>Une médecine qui utilise le cryo-sommeil partiel pour ralentir la dégradation des blessures et aider le corps à guérir, avec les mêmes effets secondaires que l'hypersommeil, mais à un niveau de gravité moindre.</Bed_CryptoBed.description>
+
+<!-- EN: operating table -->
+<Bed_OperatingTable.label>table d'opération</Bed_OperatingTable.label>
+<!-- EN: A crude table cluttered with instruments that supposedly make surgery easier, the cleanliness of the table is questionable though. Slightly improves medical outcomes over normal beds. -->
+<Bed_OperatingTable.description>Une table rudimentaire encombrée d'instruments censés faciliter les opérations chirurgicales. La propreté de la table est toutefois discutable. Améliore légèrement les résultats médicaux par rapport aux lits normaux.</Bed_OperatingTable.description>
+
+
+<!-- EN: intravenous drip stand -->
+<Facility_IVDrip.label>égouttement intraveineux</Facility_IVDrip.label>
+<!-- EN: An intravenous drip stand for quickly delivering lost fluids to a patient, helping the immune system and blood loss recovery when placed directly adjacent to a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. Attaching more than one stand to the same bed will have no effect. -->
+<Facility_IVDrip.description>Un support pour perfusion intraveineuse permettant d'administrer rapidement les liquides perdus à un patient, aidant ainsi le système immunitaire et la récupération des pertes de sang lorsqu'il est placé directement à côté d'un lit médicalisé ou d'une table d'opération. Ne fonctionne que pour les lits médicalisés ou les tables d'opérations - les lits normaux n'en bénéficieront pas. Attacher plus d'un support au même lit n'aura aucun effet.</Facility_IVDrip.description>
+
+<!-- EN: research counter -->
+<Facility_ResearchCounter.label>comptoir de recherche</Facility_ResearchCounter.label>
+<!-- EN: A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean. Stacks up to 20 times. -->
+<Facility_ResearchCounter.description>Une surface stérilisée étroite pour effectuer de longues recherches. Donne un petit coup de pouce aux postes de recherche à proximité et aide à garder le bureau propre. Peut être empilé jusqu'à 20 fois.</Facility_ResearchCounter.description>
+
+<!-- EN: vitals centre -->
+<Facility_VitalsCentre.label>centre vital</Facility_VitalsCentre.label>
+<!-- EN: A large centre for monitoring the vitals of several patients at once, increasing medical tend quality, surgery success chance and immunity gain speed when placed in the vicinity of a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. -->
+<Facility_VitalsCentre.description>Un grand centre pour surveiller les signes vitaux de plusieurs patients à la fois, augmentant la qualité du traitement médical, les chances de réussite de la chirurgie et la vitesse de gain d'immunité lorsqu'ils sont placés à proximité d'un lit médicalisé ou d'une table d'opération. Ne fonctionne que pour les lits médicalisés ou les tables d'opérations - les lits normaux n'en bénéficieront pas.</Facility_VitalsCentre.description>
+
+
+<!-- EN: sterile wall -->
+<VFEM_Wall_Sterile.label>mur stérile</VFEM_Wall_Sterile.label>
+<!-- EN: An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+<VFEM_Wall_Sterile.description>Un mur infranchissable. Capable de soutenir un toit. Doté de propriétés spéciales pour améliorer la propreté et créer un environnement stérile.</VFEM_Wall_Sterile.description>
+
+
+</LanguageData>

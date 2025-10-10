@@ -1,0 +1,1411 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: [PAWN_nameDef] was trained to fight in the lord’s army as an archer, spending countless hours practicing [PAWN_possessive] aim. [PAWN_pronoun] became an expert at firing arrows accurately and quickly, even under pressure. However, [PAWN_pronoun] lacked experience with close combat, often relying on others to protect [PAWN_objective]. -->
+<VFEM_Archer22.description>{PAWN_nameDef} a été formé{PAWN_gender ? : e } pour combattre dans l'armée du seigneur en tant qu'arch{PAWN_gender ? er : ère }, passant d'innombrables heures à s'entraîner à viser. {PAWN_pronoun} est devenu{PAWN_gender ? : e } un{PAWN_gender ? : e } expert{PAWN_gender ? : e } dans l'art de tirer des flèches avec précision et rapidité, même sous la pression. Cependant, {PAWN_pronoun} manquait d'expérience en matière de combat rapproché et comptait souvent sur les autres pour le protéger.</VFEM_Archer22.description>
+<!-- EN: archer -->
+<VFEM_Archer22.title>archer</VFEM_Archer22.title>
+<VFEM_Archer22.titleFemale>archère</VFEM_Archer22.titleFemale>
+<!-- EN: archer -->
+<VFEM_Archer22.titleShort>archer</VFEM_Archer22.titleShort>
+<VFEM_Archer22.titleShortFemale>archère</VFEM_Archer22.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] rose early each morning to knead dough and bake bread for the village. Over the years, [PAWN_pronoun] developed a knack for crafting perfect loaves and managing a hot oven. However, the repetitive nature of the work left [PAWN_pronoun] uninterested in other trades or studies. -->
+<VFEM_Baker14.description>{PAWN_nameDef} se levait tôt chaque matin pour pétrir la pâte et cuire le pain pour le village. Au fil des ans, {PAWN_pronoun} a développé un talent pour fabriquer des pains parfaits et gérer un four chaud. Cependant, la nature répétitive du travail ne l'a pas intéressé à d'autres métiers ou études.</VFEM_Baker14.description>
+<!-- EN: baker -->
+<VFEM_Baker14.title>boulanger</VFEM_Baker14.title>
+<VFEM_Baker14.titleFemale>boulangère</VFEM_Baker14.titleFemale>
+<!-- EN: baker -->
+<VFEM_Baker14.titleShort>boulanger</VFEM_Baker14.titleShort>
+<VFEM_Baker14.titleShortFemale>boulangère</VFEM_Baker14.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] roamed the countryside with a band of outlaws, ambushing travelers and raiding villages. [PAWN_pronoun] became skilled in both melee combat and intimidation but earned a reputation as a dangerous outlaw. Life on the run hardened [PAWN_pronoun] and left [PAWN_pronoun] distrusting of others. -->
+<VFEM_Bandit48.description>{PAWN_nameDef} parcourait la campagne avec une bande de hors-la-loi, tendant des embuscades aux voyageurs et attaquant les villages. {PAWN_pronoun} devint habile au combat au corps à corps et à l'intimidation, mais gagna la réputation d'un{PAWN_gender ? : e } dangereu{PAWN_gender ? x: se } hors-la-loi. La vie en cavale l'a endurci et l'a rendu méfiant{PAWN_gender ? : e } à l'égard des autres.</VFEM_Bandit48.description>
+<!-- EN: bandit -->
+<VFEM_Bandit48.title>bandit</VFEM_Bandit48.title>
+<!-- EN: bandit -->
+<VFEM_Bandit48.titleShort>bandit</VFEM_Bandit48.titleShort>
+
+<!-- EN: [PAWN_nameDef] survived by begging on the streets, relying on the charity of others for food and shelter. [PAWN_pronoun] became skilled at reading people’s moods and persuading them to give, but the harsh life left [PAWN_pronoun] weak and unskilled in manual labor. -->
+<VFEM_Beggar31.description>{PAWN_nameDef} a survécu en mendiant dans les rues, comptant sur la charité des autres pour se nourrir et s'abriter. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à lire l'humeur des gens et à les persuader de donner, mais la dureté de la vie l'a affaibli et l'a rendu inapte au travail manuel.</VFEM_Beggar31.description>
+<!-- EN: beggar -->
+<VFEM_Beggar31.title>mendiant</VFEM_Beggar31.title>
+<VFEM_Beggar31.titleFemale>mendiante</VFEM_Beggar31.titleFemale>
+<!-- EN: beggar -->
+<VFEM_Beggar31.titleShort>mendiant</VFEM_Beggar31.titleShort>
+<VFEM_Beggar31.titleShortFemale>mendiante</VFEM_Beggar31.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] worked in the forge, shaping metal into tools, weapons, and armor. [PAWN_pronoun] earned the admiration of the village for [PAWN_possessive] skill and reliability. The constant heat and heavy labor left [PAWN_pronoun] strong and focused, though not particularly well-read. -->
+<VFEM_Blacksmith37.description>{PAWN_nameDef} travaillait dans la forge, façonnant le métal pour en faire des outils, des armes et des armures. Ses compétences et sa fiabilité lui valent l'admiration du village. La chaleur constante et le dur labeur l'ont rendu fort et concentré, bien qu'{PAWN_pronoun} ne soit pas particulièrement cultivé{PAWN_gender ? : e }.</VFEM_Blacksmith37.description>
+<!-- EN: blacksmith -->
+<VFEM_Blacksmith37.title>forgeron</VFEM_Blacksmith37.title>
+<VFEM_Blacksmith37.titleFemale>forgeronne</VFEM_Blacksmith37.titleFemale>
+<!-- EN: blacksmith -->
+<VFEM_Blacksmith37.titleShort>forgeron</VFEM_Blacksmith37.titleShort>
+<VFEM_Blacksmith37.titleShortFemale>forgeronne</VFEM_Blacksmith37.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] shaped and fired clay bricks for construction projects in [PAWN_possessive] village. The intense labor strengthened [PAWN_possessive] body and gave [PAWN_pronoun] a keen understanding of construction techniques. Years of working near hot kilns left [PAWN_pronoun] with little stamina for long days of physical labor. -->
+<VFEM_Brickmaker10.description>{PAWN_nameDef} façonnait et cuisait des briques d'argile pour les projets de construction de son village. Ce travail intense a renforcé son corps et lui a permis d'acquérir une connaissance approfondie des techniques de construction. Des années de travail à proximité de fours chauds l'ont rendu peu endurant pour de longues journées de travail physique.</VFEM_Brickmaker10.description>
+<!-- EN: brickmaker -->
+<VFEM_Brickmaker10.title>briquetier</VFEM_Brickmaker10.title>
+<VFEM_Brickmaker10.titleFemale>briquetière</VFEM_Brickmaker10.titleFemale>
+<!-- EN: brickmaker -->
+<VFEM_Brickmaker10.titleShort>briquetier</VFEM_Brickmaker10.titleShort>
+<VFEM_Brickmaker10.titleShortFemale>briquetière</VFEM_Brickmaker10.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] served the lord and [PAWN_possessive] family directly, ensuring their needs were met with promptness and discretion. [PAWN_pronoun] became skilled in etiquette and managing a household staff. The role gave [PAWN_pronoun] a sharp eye for detail but little patience for physical labor. -->
+<VFEM_Butler45.description>{PAWN_nameDef} servait directement le seigneur et sa famille, veillant à ce que leurs besoins soient satisfaits avec promptitude et discrétion. {PAWN_pronoun} a acquis des compétences en matière de protocole et de gestion du personnel de maison. Ce rôle lui a donné un sens aigu du détail, mais peu de patience pour le travail physique.</VFEM_Butler45.description>
+<!-- EN: butler -->
+<VFEM_Butler45.title>majordome</VFEM_Butler45.title>
+<!-- EN: butler -->
+<VFEM_Butler45.titleShort>majordome</VFEM_Butler45.titleShort>
+
+<!-- EN: [PAWN_nameDef] traveled with armies, maintaining the camp and preparing supplies. [PAWN_pronoun] became skilled in basic survival and cooking, ensuring the soldiers were fed and ready for battle. Despite living near combat, [PAWN_pronoun] rarely saw direct action and focused on support roles. -->
+<VFEM_CampFollower28.description>{PAWN_nameDef} a voyagé avec les armées, entretenant le camp et préparant le ravitaillement. {PAWN_pronoun} est devenu{PAWN_gender ? : e } compétent{PAWN_gender ? : e } en matière de survie et de cuisine, veillant à ce que les soldats soient nourris et prêts à se battre. Bien qu'{PAWN_pronoun} ait vécu à proximité des combats, {PAWN_pronoun} a rarement participé à des actions directes et s'est concentré{PAWN_gender ? : e } sur des rôles de soutien.</VFEM_CampFollower28.description>
+<!-- EN: camp follower -->
+<VFEM_CampFollower28.title>adepte du camp</VFEM_CampFollower28.title>
+<!-- EN: camp follower -->
+<VFEM_CampFollower28.titleShort>adepte du camp</VFEM_CampFollower28.titleShort>
+
+<!-- EN: [PAWN_nameDef] spent years crafting candles from tallow and wax, supplying light to the nearby village. The work required patience and precision, which [PAWN_pronoun] excelled at. However, the repetitive nature of the trade left [PAWN_pronoun] uninterested in more creative pursuits. -->
+<VFEM_CandleMaker08.description>{PAWN_nameDef} a passé des années à fabriquer des bougies à partir de suif et de cire, pour éclairer le village voisin. Ce travail exigeait de la patience et de la précision, ce en quoi {PAWN_pronoun} excellait. Cependant, la nature répétitive de ce métier l'a empêché de s'intéresser à des activités plus créatives.</VFEM_CandleMaker08.description>
+<!-- EN: candle maker -->
+<VFEM_CandleMaker08.title>cirier</VFEM_CandleMaker08.title>
+<VFEM_CandleMaker08.titleFemale>cirière</VFEM_CandleMaker08.titleFemale>
+<!-- EN: candler -->
+<VFEM_CandleMaker08.titleShort>cirier</VFEM_CandleMaker08.titleShort>
+<VFEM_CandleMaker08.titleShortFemale>cirière</VFEM_CandleMaker08.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] crafted furniture, tools, and wooden structures for the village. [PAWN_pronoun] earned [PAWN_possessive] living through precision and skill, shaping timber into practical and beautiful creations. Though [PAWN_pronoun] excelled at [PAWN_possessive] trade, [PAWN_pronoun] had little time for intellectual pursuits. -->
+<VFEM_Carpenter40.description>{PAWN_nameDef} fabriquait des meubles, des outils et des structures en bois pour le village. {PAWN_pronoun} gagnait sa vie grâce à sa précision et à son habileté, façonnant le bois pour en faire des créations pratiques et magnifiques. Bien qu'{PAWN_pronoun} excellait dans son métier, {PAWN_pronoun} n'avait guère le temps de s'adonner à des activités intellectuelles.</VFEM_Carpenter40.description>
+<!-- EN: carpenter -->
+<VFEM_Carpenter40.title>charpentier</VFEM_Carpenter40.title>
+<VFEM_Carpenter40.titleFemale>charpentière</VFEM_Carpenter40.titleFemale>
+<!-- EN: carpenter -->
+<VFEM_Carpenter40.titleShort>charpentier</VFEM_Carpenter40.titleShort>
+<VFEM_Carpenter40.titleShortFemale>charpentière</VFEM_Carpenter40.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] managed the keep’s living quarters, overseeing servants and ensuring the lord’s chambers were well-kept. [PAWN_pronoun] became adept at organizing and managing resources but often found [PAWN_possessive]self caught in the politics of the household. The role demanded both precision and tact. -->
+<VFEM_Chamberlain42.description>{PAWN_nameDef} gérait les quartiers d'habitation du donjon, supervisait les serviteurs et veillait à ce que les chambres du seigneur soient bien entretenues. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à organiser et à gérer les ressources, mais {PAWN_pronoun} s'est souvent retrouvé{PAWN_gender ? : e } pris{PAWN_gender ? : e } dans la politique de la maison. Son rôle exigeait à la fois précision et tact.</VFEM_Chamberlain42.description>
+<!-- EN: chamberlain -->
+<VFEM_Chamberlain42.title>chambellan</VFEM_Chamberlain42.title>
+<!-- EN: chamberlain -->
+<VFEM_Chamberlain42.titleShort>chambellan</VFEM_Chamberlain42.titleShort>
+
+<!-- EN: [PAWN_nameDef] crafted barrels and casks for the village, using simple tools to shape and assemble wooden staves. The work required precision and patience, skills that [PAWN_pronoun] mastered over years. Despite [PAWN_possessive] expertise, [PAWN_pronoun] rarely ventured beyond the workshop to socialize or pursue other interests. -->
+<VFEM_Cooper15.description>{PAWN_nameDef} fabriquait des tonneaux et des fûts pour le village, utilisant des outils simples pour façonner et assembler des douelles en bois. Le travail exigeait de la précision et de la patience, des compétences qu'{PAWN_pronoun} a maîtrisées au fil des ans. Malgré son expertise, {PAWN_pronoun} s'aventurait rarement au-delà de l'atelier pour socialiser ou s'adonner à d'autres activités.</VFEM_Cooper15.description>
+<!-- EN: cooper -->
+<VFEM_Cooper15.title>tonnelier</VFEM_Cooper15.title>
+<VFEM_Cooper15.titleFemale>tonnelière</VFEM_Cooper15.titleFemale>
+<!-- EN: cooper -->
+<VFEM_Cooper15.titleShort>tonnelier</VFEM_Cooper15.titleShort>
+<VFEM_Cooper15.titleShortFemale>tonnelière</VFEM_Cooper15.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] forged coins and documents, deceiving merchants and nobles alike. [PAWN_pronoun] became skilled at crafting convincing replicas, though [PAWN_pronoun] avoided physical labor whenever possible. The constant risk of exposure forced [PAWN_pronoun] to move frequently, never staying in one place for long. -->
+<VFEM_Counterfeiter50.description>{PAWN_nameDef} falsifiait des pièces de monnaie et des documents, trompant les marchands et les nobles. {PAWN_pronoun} est devenu{PAWN_gender ? : e } doué{PAWN_gender ? : e } pour fabriquer des répliques convaincantes, bien qu'{PAWN_pronoun} évite le travail physique autant que possible. Le risque constant d'exposition l'obligeait à se déplacer fréquemment, sans jamais rester longtemps au même endroit.</VFEM_Counterfeiter50.description>
+<!-- EN: counterfeiter -->
+<VFEM_Counterfeiter50.title>faussaire</VFEM_Counterfeiter50.title>
+<!-- EN: counterfeiter -->
+<VFEM_Counterfeiter50.titleShort>faussaire</VFEM_Counterfeiter50.titleShort>
+
+<!-- EN: [PAWN_nameDef] traded in stolen goods, turning ill-gotten items into coin while avoiding the attention of the authorities. [PAWN_pronoun] became skilled at bargaining and gauging the value of items but avoided direct involvement in theft. The constant deception made [PAWN_pronoun] adept at reading people’s motives. -->
+<VFEM_Fence47.description>{PAWN_nameDef} faisait le commerce de biens volés, transformant des objets mal acquis en pièces de monnaie tout en évitant d'attirer l'attention des autorités. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à négocier et à évaluer la valeur des objets, mais {PAWN_pronoun} évitait de s'impliquer directement dans le vol. La tromperie constante l'a rendu apte à lire les motivations des gens.</VFEM_Fence47.description>
+<!-- EN: fence -->
+<VFEM_Fence47.title>receleur</VFEM_Fence47.title>
+<VFEM_Fence47.titleFemale>receleuse</VFEM_Fence47.titleFemale>
+<!-- EN: fence -->
+<VFEM_Fence47.titleShort>receleur</VFEM_Fence47.titleShort>
+<VFEM_Fence47.titleShortFemale>receleuse</VFEM_Fence47.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] worked as a laborer in the fields from a young age, planting crops and harvesting under the watchful eye of overseers. [PAWN_pronoun] grew strong from hauling sacks of grain and learned the basics of caring for plants. However, the grueling work left little time for other pursuits, and [PAWN_pronoun] never learned to read or write. -->
+<VFEM_FieldHand02.description>{PAWN_nameDef} a travaillé comme ouvri{PAWN_gender ? er : ère } dans les champs dès son plus jeune âge, plantant des cultures et récoltant sous l'œil attentif des surveillants. {PAWN_pronoun} s'est fortifié{PAWN_gender ? : e } en transportant des sacs de céréales et a appris les rudiments de l'entretien des plantes. Cependant, le travail éreintant lui laissait peu de temps pour d'autres activités, et {PAWN_pronoun} n'a jamais appris à lire ou à écrire.</VFEM_FieldHand02.description>
+<!-- EN: field hand -->
+<VFEM_FieldHand02.title>ouvrier agricole</VFEM_FieldHand02.title>
+<VFEM_FieldHand02.titleFemale>ouvrière agricole</VFEM_FieldHand02.titleFemale>
+<!-- EN: field hand -->
+<VFEM_FieldHand02.titleShort>ouvrier agricole</VFEM_FieldHand02.titleShort>
+<VFEM_FieldHand02.titleShortFemale>ouvrière agricole</VFEM_FieldHand02.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] made a living catching fish from the rivers and lakes near [PAWN_possessive] village. [PAWN_pronoun] learned to craft simple nets and traps but spent most of [PAWN_possessive] time alone on the water. The repetitive work left [PAWN_pronoun] skilled but uninterested in other tasks. -->
+<VFEM_Fisher04.description>{PAWN_nameDef} gagnait sa vie en pêchant des poissons dans les rivières et les lacs près de son village. {PAWN_pronoun} a appris à fabriquer des filets et des pièges simples, mais {PAWN_pronoun} passait la plupart de son temps seul{PAWN_gender ? : e } sur l'eau. Le travail répétitif l'a rendu habile mais peu intéressé par d'autres tâches.</VFEM_Fisher04.description>
+<!-- EN: fisher -->
+<VFEM_Fisher04.title>pêcheur</VFEM_Fisher04.title>
+<VFEM_Fisher04.titleFemale>pêcheuse</VFEM_Fisher04.titleFemale>
+<!-- EN: fisher -->
+<VFEM_Fisher04.titleShort>pêcheur</VFEM_Fisher04.titleShort>
+<VFEM_Fisher04.titleShortFemale>pêcheuse</VFEM_Fisher04.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] served as a foot soldier in the local lord's army, marching into battle with sword and shield. The brutal skirmishes taught [PAWN_pronoun] the value of endurance and discipline. Years of combat left [PAWN_pronoun] skilled with melee weapons but untrained in ranged combat. -->
+<VFEM_Footman21.description>{PAWN_nameDef} a servi comme fantassin dans l'armée du seigneur local, marchant au combat avec épée et bouclier. Les escarmouches brutales lui ont appris la valeur de l'endurance et de la discipline. Des années de combat l'ont rendu habile avec les armes de mêlée, mais inexpérimenté{PAWN_gender ? : e } dans le combat à distance.</VFEM_Footman21.description>
+<!-- EN: footman -->
+<VFEM_Footman21.title>fantassin</VFEM_Footman21.title>
+<!-- EN: footman -->
+<VFEM_Footman21.titleShort>fantassin</VFEM_Footman21.titleShort>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] nights digging graves for the dead and maintaining the village cemetery. The work was somber and lonely, but it made [PAWN_pronoun] strong and capable of handling heavy tools. Constant exposure to death left [PAWN_pronoun] emotionally detached from others. -->
+<VFEM_Gravedigger13.description>{PAWN_nameDef} passait ses nuits à creuser des tombes pour les morts et à entretenir le cimetière du village. Ce travail était sombre et solitaire, mais il l'a rendu fort et capable de manipuler des outils lourds. L'exposition constante à la mort l'a rendu émotionnellement détaché des autres.</VFEM_Gravedigger13.description>
+<!-- EN: gravedigger -->
+<VFEM_Gravedigger13.title>fossoyeur</VFEM_Gravedigger13.title>
+<VFEM_Gravedigger13.titleFemale>fossoyeuse</VFEM_Gravedigger13.titleFemale>
+<!-- EN: gravedigger -->
+<VFEM_Gravedigger13.titleShort>fossoyeur</VFEM_Gravedigger13.titleShort>
+<VFEM_Gravedigger13.titleShortFemale>fossoyeuse</VFEM_Gravedigger13.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] tended to the sick and wounded, applying [PAWN_possessive] knowledge of medicine and herbal remedies. [PAWN_pronoun] gained respect for [PAWN_possessive] ability to save lives, though [PAWN_pronoun] often had to face the harsh reality of those [PAWN_pronoun] couldn’t save. The villagers relied on [PAWN_objective] as their primary source of care. -->
+<VFEM_Healer39.description>{PAWN_nameDef} soignait les malades et les blessés, mettant à profit ses connaissances en médecine et en phytothérapie. Sa capacité à sauver des vies lui a valu le respect, même {PAWN_gender ? s'il : si elle } a souvent dû faire face à la dure réalité de ceux qu'{PAWN_pronoun} ne pouvait pas sauver. Les villageois comptent sur {PAWN_objective} comme principale source de soins.</VFEM_Healer39.description>
+<!-- EN: healer -->
+<VFEM_Healer39.title>guérisseur</VFEM_Healer39.title>
+<VFEM_Healer39.titleFemale>guérisseuse</VFEM_Healer39.titleFemale>
+<!-- EN: healer -->
+<VFEM_Healer39.titleShort>guérisseur</VFEM_Healer39.titleShort>
+<VFEM_Healer39.titleShortFemale>guérisseuse</VFEM_Healer39.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] lived near the edge of the forest, gathering plants to craft medicines and salves for the village. [PAWN_pronoun] developed a keen understanding of nature and its uses but often kept to [PAWN_possessive]self to focus on [PAWN_possessive] craft. Villagers respected [PAWN_possessive] knowledge, seeking [PAWN_possessive] help in times of need. -->
+<VFEM_Herbalist36.description>{PAWN_nameDef} vivait à la lisière de la forêt, cueillant des plantes pour fabriquer des remèdes et des pommades pour le village. {PAWN_pronoun} a développé une compréhension aiguë de la nature et de ses usages, mais {PAWN_pronoun} restait souvent seul{PAWN_gender ? : e } pour se concentrer sur son travail. Les villageois respectaient ses connaissances et lui demandaient son aide en cas de besoin.</VFEM_Herbalist36.description>
+<!-- EN: herbalist -->
+<VFEM_Herbalist36.title>herboriste</VFEM_Herbalist36.title>
+<!-- EN: herbalist -->
+<VFEM_Herbalist36.titleShort>herboriste</VFEM_Herbalist36.titleShort>
+
+<!-- EN: [PAWN_nameDef] worked long hours in the keep's kitchens, preparing food for the nobles and their guests. [PAWN_pronoun] learned to cook large meals with limited resources, honing [PAWN_possessive] culinary skills. Though the work was exhausting, [PAWN_pronoun] found pride in [PAWN_possessive] ability to feed others. -->
+<VFEM_KitchenServant41.description>{PAWN_nameDef} travaillait de longues heures dans les cuisines du donjon, préparant les repas des nobles et de leurs invités. {PAWN_pronoun} a appris à cuisiner des repas copieux avec des ressources limitées, ce qui lui a permis d'affiner ses compétences culinaires. Bien que le travail soit épuisant, {PAWN_pronoun} est fier{PAWN_gender ? : e } de pouvoir nourrir les autres.</VFEM_KitchenServant41.description>
+<!-- EN: kitchen servant -->
+<VFEM_KitchenServant41.title>commis de cuisine</VFEM_KitchenServant41.title>
+<!-- EN: kitchen hand -->
+<VFEM_KitchenServant41.titleShort>commis</VFEM_KitchenServant41.titleShort>
+
+<!-- EN: [PAWN_nameDef] was a skilled mason, shaping stone into sturdy walls and magnificent buildings. [PAWN_pronoun] earned a good reputation for [PAWN_possessive] precision and creativity in construction. [PAWN_pronoun] rarely participated in farming or hunting, focusing solely on [PAWN_possessive] craft. -->
+<VFEM_Mason38.description>{PAWN_nameDef} était un maçon expérimenté{PAWN_gender ? : e } qui façonnait la pierre pour en faire des murs solides et des bâtiments magnifiques. {PAWN_pronoun} a acquis une bonne réputation pour sa précision et sa créativité dans la construction. {PAWN_pronoun} s'adonnait rarement à l'agriculture ou à la chasse, se concentrant uniquement sur son métier.</VFEM_Mason38.description>
+<!-- EN: mason -->
+<VFEM_Mason38.title>maçon</VFEM_Mason38.title>
+<VFEM_Mason38.titleFemale>maçonne</VFEM_Mason38.titleFemale>
+<!-- EN: mason -->
+<VFEM_Mason38.titleShort>maçon</VFEM_Mason38.titleShort>
+<VFEM_Mason38.titleShortFemale>maçonne</VFEM_Mason38.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] sold [PAWN_possessive] sword to the highest bidder, fighting in skirmishes across the land. Years of battle left [PAWN_pronoun] hardened and skilled in melee combat, but [PAWN_pronoun] never trusted anyone enough to form lasting bonds. [PAWN_pronoun] carried scars from both physical and emotional wounds. -->
+<VFEM_Mercenary29.description>{PAWN_nameDef} vendait son épée au plus offrant et participait à des escarmouches dans tout le pays. Des années de combat l'ont endurci et rendu habile au combat de mêlée, mais {PAWN_pronoun} n'a jamais fait suffisamment confiance à qui que ce soit pour nouer des liens durables. {PAWN_pronoun} porte les cicatrices de blessures physiques et émotionnelles.</VFEM_Mercenary29.description>
+<!-- EN: mercenary -->
+<VFEM_Mercenary29.title>mercenaire</VFEM_Mercenary29.title>
+<!-- EN: mercenary -->
+<VFEM_Mercenary29.titleShort>mercenaire</VFEM_Mercenary29.titleShort>
+
+<!-- EN: [PAWN_nameDef] operated a village mill, grinding grain into flour for the community. The job required an understanding of machinery and a steady hand to keep the mill running smoothly. Years of dusty work left [PAWN_pronoun] prone to coughing fits and other ailments. -->
+<VFEM_Miller12.description>{PAWN_nameDef} s'occupait du moulin du village, où {PAWN_pronoun} moulait le grain pour en faire de la farine pour la communauté. Ce travail exigeait une bonne connaissance des machines et une main ferme pour assurer le bon fonctionnement du moulin. Des années de travail dans la poussière l'ont rendu sujet à des quintes de toux et à d'autres maladies.</VFEM_Miller12.description>
+<!-- EN: miller -->
+<VFEM_Miller12.title>meunier</VFEM_Miller12.title>
+<VFEM_Miller12.titleFemale>meunière</VFEM_Miller12.titleFemale>
+<!-- EN: miller -->
+<VFEM_Miller12.titleShort>meunier</VFEM_Miller12.titleShort>
+<VFEM_Miller12.titleShortFemale>meunière</VFEM_Miller12.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] dug clay from riverbanks for pottery and construction projects in the village. The exhausting labor left [PAWN_pronoun] with a strong back and thick arms but little interest in intellectual endeavors. [PAWN_pronoun] rarely interacted with others, spending most days knee-deep in mud. -->
+<VFEM_MudDigger20.description>{PAWN_nameDef} creusait l'argile sur les berges des rivières pour la poterie et les projets de construction du village. Ce travail épuisant lui a laissé un dos fort et des bras épais, mais peu d'intérêt pour les activités intellectuelles. {PAWN_pronoun} interagissait rarement avec les autres, passant la plupart de ses journées dans la boue jusqu'aux genoux.</VFEM_MudDigger20.description>
+<!-- EN: mud digger -->
+<VFEM_MudDigger20.title>creuseur de boue</VFEM_MudDigger20.title>
+<VFEM_MudDigger20.titleFemale>creuseuse de boue</VFEM_MudDigger20.titleFemale>
+<!-- EN: mud digger -->
+<VFEM_MudDigger20.titleShort>creuseur de boue</VFEM_MudDigger20.titleShort>
+<VFEM_MudDigger20.titleShortFemale>creuseuse de boue</VFEM_MudDigger20.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] lived outside the law, surviving through theft and violence. [PAWN_pronoun] became skilled at fighting and evading capture, but [PAWN_pronoun] was shunned by society and relied on [PAWN_possessive] wits to stay alive. The life of an outlaw left [PAWN_pronoun] hardened and distrusting of others. -->
+<VFEM_Outlaw33.description>{PAWN_nameDef} a vécu en marge de la loi, survivant grâce au vol et à la violence. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à se battre et à échapper à la capture, mais {PAWN_pronoun} a été mis{PAWN_gender ? : e } au ban de la société et ne comptait que sur son intelligence pour rester en vie. La vie de hors-la-loi l'a endurci et l'a rendu méfiant{PAWN_gender ? : e } à l'égard des autres.</VFEM_Outlaw33.description>
+<!-- EN: outlaw -->
+<VFEM_Outlaw33.title>hors-la-loi</VFEM_Outlaw33.title>
+<!-- EN: outlaw -->
+<VFEM_Outlaw33.titleShort>hors-la-loi</VFEM_Outlaw33.titleShort>
+
+<!-- EN: [PAWN_nameDef] survived by slipping through crowded markets, deftly lifting coins and trinkets from unsuspecting villagers. [PAWN_pronoun] developed nimble fingers and a keen sense for spotting opportunities, but [PAWN_pronoun] always lived in fear of being caught. Years of petty theft left [PAWN_pronoun] mistrustful and secretive. -->
+<VFEM_Pickpocket46.description>{PAWN_nameDef} a survécu en se faufilant dans les marchés bondés, en soutirant habilement des pièces de monnaie et des babioles à des villageois sans méfiance. {PAWN_pronoun} a développé des doigts agiles et un sens aigu pour repérer les opportunités, mais {PAWN_pronoun} a toujours vécu dans la crainte d'être pris{PAWN_gender ? : e }. Des années de larcins l'ont rendu méfiant{PAWN_gender ? : e } et secr{PAWN_gender ? et : ète }.</VFEM_Pickpocket46.description>
+<!-- EN: pickpocket -->
+<VFEM_Pickpocket46.title>voleur à la tire</VFEM_Pickpocket46.title>
+<VFEM_Pickpocket46.titleFemale>voleuse à la tire</VFEM_Pickpocket46.titleFemale>
+<!-- EN: pickpocket -->
+<VFEM_Pickpocket46.titleShort>voleur</VFEM_Pickpocket46.titleShort>
+<VFEM_Pickpocket46.titleShortFemale>voleuse</VFEM_Pickpocket46.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] stood in tightly packed lines, wielding a long pike to defend against charging cavalry. The work was grueling and required coordination with [PAWN_possessive] comrades to form an impenetrable wall of steel. While [PAWN_pronoun] excelled in formation combat, [PAWN_pronoun] struggled with tasks requiring individual creativity. -->
+<VFEM_Pikeman26.description>{PAWN_nameDef} se tenait en rangs serrés, maniant une longue pique pour se défendre contre la cavalerie qui chargeait. Le travail était éreintant et nécessitait une coordination avec ses camarades pour former un mur d'acier impénétrable. {PAWN_gender ? S'il : Si elle } excellait dans le combat en formation, {PAWN_pronoun} avait du mal à accomplir les tâches qui nécessitaient une créativité individuelle.</VFEM_Pikeman26.description>
+<!-- EN: pikeman -->
+<VFEM_Pikeman26.title>piquier</VFEM_Pikeman26.title>
+<!-- EN: pikeman -->
+<VFEM_Pikeman26.titleShort>piquier</VFEM_Pikeman26.titleShort>
+
+<!-- EN: [PAWN_nameDef] hunted illegally in the lord’s forests, risking [PAWN_possessive] life to feed [PAWN_possessive] family. [PAWN_pronoun] became skilled with a bow and learned to move silently through the woods, but [PAWN_pronoun] always lived in fear of being caught by the lord’s men. -->
+<VFEM_Poacher32.description>{PAWN_nameDef} chassait illégalement dans les forêts du seigneur, risquant sa vie pour nourrir sa famille. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à l'arc et a appris à se déplacer silencieusement dans les bois, mais {PAWN_pronoun} a toujours vécu dans la crainte d'être attrapé par les hommes du seigneur.</VFEM_Poacher32.description>
+<!-- EN: poacher -->
+<VFEM_Poacher32.title>braconnier</VFEM_Poacher32.title>
+<VFEM_Poacher32.titleFemale>braconnière</VFEM_Poacher32.titleFemale>
+<!-- EN: poacher -->
+<VFEM_Poacher32.titleShort>braconnier</VFEM_Poacher32.titleShort>
+<VFEM_Poacher32.titleShortFemale>braconnière</VFEM_Poacher32.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] made a living ridding the village of vermin, setting traps and chasing down rats with [PAWN_possessive] bare hands. The work was dangerous and filthy, but it honed [PAWN_possessive] reflexes and taught [PAWN_pronoun] the ways of small creatures. Years in dark cellars left [PAWN_pronoun] socially awkward. -->
+<VFEM_RatCatcher19.description>{PAWN_nameDef} gagnait sa vie en débarrassant le village de la vermine, en posant des pièges et en chassant les rats à mains nues. Le travail était dangereux et sale, mais il lui a permis d'aiguiser ses réflexes et de se familiariser avec les petites créatures. Les années passées dans les caves obscures l'ont rendu socialement maladroit.</VFEM_RatCatcher19.description>
+<!-- EN: rat catcher -->
+<VFEM_RatCatcher19.title>dératiseur</VFEM_RatCatcher19.title>
+<VFEM_RatCatcher19.titleFemale>dératiseuse</VFEM_RatCatcher19.titleFemale>
+<!-- EN: rat catcher -->
+<VFEM_RatCatcher19.titleShort>dératiseur</VFEM_RatCatcher19.titleShort>
+<VFEM_RatCatcher19.titleShortFemale>dératiseuse</VFEM_RatCatcher19.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] survived by scavenging abandoned battlefields and ruined villages, gathering anything of value. [PAWN_pronoun] became adept at spotting useful items and avoiding danger, but the life left [PAWN_pronoun] with little sense of cleanliness or order. -->
+<VFEM_Scavenger34.description>{PAWN_nameDef} a survécu en fouillant les champs de bataille abandonnés et les villages en ruine, ramassant tout ce qui avait de la valeur. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à repérer les objets utiles et à éviter les dangers, mais cette vie lui a laissé peu de sens de la propreté et de l'ordre.</VFEM_Scavenger34.description>
+<!-- EN: scavenger -->
+<VFEM_Scavenger34.title>charognard</VFEM_Scavenger34.title>
+<VFEM_Scavenger34.titleFemale>charognarde</VFEM_Scavenger34.titleFemale>
+<!-- EN: scavenger -->
+<VFEM_Scavenger34.titleShort>charognard</VFEM_Scavenger34.titleShort>
+<VFEM_Scavenger34.titleShortFemale>charognarde</VFEM_Scavenger34.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days washing dishes and scrubbing pots in the keep’s kitchens. The work was dirty and thankless, but it gave [PAWN_pronoun] a strong work ethic and the ability to endure long hours of labor. [PAWN_pronoun] rarely interacted with anyone outside the kitchen staff. -->
+<VFEM_Scullion43.description>{PAWN_nameDef} passait ses journées à laver la vaisselle et à récurer les casseroles dans les cuisines du donjon. Le travail était sale et ingrat, mais il lui a donné une solide éthique de travail et la capacité d'endurer de longues heures de labeur. {PAWN_pronoun} interagissait rarement avec d'autres personnes que le personnel des cuisines.</VFEM_Scullion43.description>
+<!-- EN: scullion -->
+<VFEM_Scullion43.title>plongeur</VFEM_Scullion43.title>
+<VFEM_Scullion43.titleFemale>plongeuse</VFEM_Scullion43.titleFemale>
+<!-- EN: scullion -->
+<VFEM_Scullion43.titleShort>plongeur</VFEM_Scullion43.titleShort>
+<VFEM_Scullion43.titleShortFemale>plongeuse</VFEM_Scullion43.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days tending sheep in the hills surrounding [PAWN_possessive] village. [PAWN_pronoun] became skilled at managing livestock and defending the flock from predators. The quiet life made [PAWN_pronoun] thoughtful but left [PAWN_pronoun] unprepared for more physically demanding work. -->
+<VFEM_Shepherd06.description>{PAWN_nameDef} passait ses journées à garder les moutons dans les collines entourant son village. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à gérer le bétail et à défendre le troupeau contre les prédateurs. Cette vie tranquille l'a rendu réfléchi, mais ne l'a pas préparé à un travail plus exigeant sur le plan physique.</VFEM_Shepherd06.description>
+<!-- EN: shepherd -->
+<VFEM_Shepherd06.title>berger</VFEM_Shepherd06.title>
+<VFEM_Shepherd06.titleFemale>bergère</VFEM_Shepherd06.titleFemale>
+<!-- EN: shepherd -->
+<VFEM_Shepherd06.titleShort>berger</VFEM_Shepherd06.titleShort>
+<VFEM_Shepherd06.titleShortFemale>bergère</VFEM_Shepherd06.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was tasked with carrying a large shield into battle, protecting [PAWN_possessive] comrades from incoming projectiles. The position required endurance and discipline, as [PAWN_pronoun] stood firm even under heavy fire. The role left [PAWN_pronoun] with little opportunity to practice ranged combat. -->
+<VFEM_Shieldbearer27.description>{PAWN_nameDef} était chargé{PAWN_gender ? : e } de porter un grand bouclier au combat, protégeant ses camarades des projectiles qui arrivaient. Ce poste exigeait de l'endurance et de la discipline, car {PAWN_pronoun} restait debout même sous un feu nourri. Ce rôle ne lui laisse que peu d'occasions de s'entraîner au combat à distance.</VFEM_Shieldbearer27.description>
+<!-- EN: shieldbearer -->
+<VFEM_Shieldbearer27.title>porte-bouclier</VFEM_Shieldbearer27.title>
+<!-- EN: shieldbearer -->
+<VFEM_Shieldbearer27.titleShort>porte-bouclier</VFEM_Shieldbearer27.titleShort>
+
+<!-- EN: [PAWN_nameDef] worked with a team to build and operate siege engines during castle assaults. The role demanded ingenuity and strength, as [PAWN_pronoun] helped design, construct, and fire massive weapons. While skilled in engineering, [PAWN_pronoun] struggled with close-quarters combat. -->
+<VFEM_SiegeEngineer30.description>{PAWN_nameDef} a travaillé avec une équipe pour construire et faire fonctionner des engins de siège lors des assauts de châteaux. Ce rôle exigeait de l'ingéniosité et de la force, car {PAWN_pronoun} contribuait à la conception, à la construction et au tir d'armes massives. Bien qu'{PAWN_pronoun} soit doué{PAWN_gender ? : e } pour l'ingénierie, {PAWN_pronoun} a du mal avec les combats rapprochés.</VFEM_SiegeEngineer30.description>
+<!-- EN: siege engineer -->
+<VFEM_SiegeEngineer30.title>ingénieur de siège</VFEM_SiegeEngineer30.title>
+<!-- EN: siege engineer -->
+<VFEM_SiegeEngineer30.titleShort>ingénieur de siège</VFEM_SiegeEngineer30.titleShort>
+
+<!-- EN: [PAWN_nameDef] transported contraband across borders, using [PAWN_possessive] knowledge of hidden paths and bribes to avoid detection. [PAWN_pronoun] became adept at navigating and negotiating under pressure, though the constant risk of capture took a toll on [PAWN_possessive] nerves. The life of secrecy made [PAWN_pronoun] wary of strangers. -->
+<VFEM_Smuggler49.description>{PAWN_nameDef} transportait des marchandises de contrebande à travers les frontières, utilisant sa connaissance des chemins cachés et des pots-de-vin pour éviter d'être repéré. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à naviguer et à négocier sous pression, bien que le risque constant d'être capturé ait mis ses nerfs à rude épreuve. La vie secrète l'a rendu méfiant{PAWN_gender ? : e } à l'égard des étrangers.</VFEM_Smuggler49.description>
+<!-- EN: smuggler -->
+<VFEM_Smuggler49.title>contrebandier</VFEM_Smuggler49.title>
+<VFEM_Smuggler49.titleFemale>contrebandière</VFEM_Smuggler49.titleFemale>
+<!-- EN: smuggler -->
+<VFEM_Smuggler49.titleShort>contrebandier</VFEM_Smuggler49.titleShort>
+<VFEM_Smuggler49.titleShortFemale>contrebandière</VFEM_Smuggler49.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was trained to hold the front line with a spear, using reach to keep enemies at bay. [PAWN_pronoun] learned to work in formation with others, relying on coordination and timing to fend off cavalry charges. Years of combat hardened [PAWN_pronoun], though [PAWN_pronoun] lacked skill in crafting or more delicate tasks. -->
+<VFEM_Spearman25.description>{PAWN_nameDef} a été formé{PAWN_gender ? : e } à tenir la ligne de front avec une lance, utilisant la portée pour tenir les ennemis à distance. {PAWN_pronoun} a appris à travailler en formation avec d'autres, en s'appuyant sur la coordination et la synchronisation pour repousser les charges de cavalerie. Les années de combat l'ont endurci, même {PAWN_gender ? s'il : si elle } n'est pas doué{PAWN_gender ? : e } pour l'artisanat ou les tâches plus délicates.</VFEM_Spearman25.description>
+<!-- EN: spearman -->
+<VFEM_Spearman25.title>lancier</VFEM_Spearman25.title>
+<VFEM_Spearman25.titleFemale>lancière</VFEM_Spearman25.titleFemale>
+<!-- EN: spearman -->
+<VFEM_Spearman25.titleShort>lancier</VFEM_Spearman25.titleShort>
+<VFEM_Spearman25.titleShortFemale>lancière</VFEM_Spearman25.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] served as a squire to a local knight, learning the ways of battle and assisting [PAWN_objective] master. [PAWN_pronoun] gained skill with weapons and armor, though most of [PAWN_possessive] duties involved maintenance and carrying supplies. The experience made [PAWN_pronoun] strong and disciplined but left little time for independent thought. -->
+<VFEM_Squire23.description>{PAWN_nameDef} a servi d'écuyer à un chevalier local, apprenant les techniques de combat et assistant son maître. {PAWN_pronoun} a acquis des compétences en matière d'armes et d'armures, bien que la plupart de ses tâches consistaient à assurer l'entretien et à transporter des fournitures. Cette expérience l'a rendu fort et discipliné, mais lui a laissé peu de temps pour une réflexion indépendante.</VFEM_Squire23.description>
+<!-- EN: squire -->
+<VFEM_Squire23.title>écuyer</VFEM_Squire23.title>
+<VFEM_Squire23.titleFemale>écuyère</VFEM_Squire23.titleFemale>
+<!-- EN: squire -->
+<VFEM_Squire23.titleShort>écuyer</VFEM_Squire23.titleShort>
+<VFEM_Squire23.titleShortFemale>écuyère</VFEM_Squire23.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days mucking stalls and tending to horses in the village stables. Over time, [PAWN_pronoun] developed a deep understanding of animal care and a steady hand for calming even the most skittish creatures. The hard labor left [PAWN_pronoun] with little time for intellectual pursuits. -->
+<VFEM_Stablehand16.description>{PAWN_nameDef} passait ses journées à nettoyer les box et à s'occuper des chevaux dans les écuries du village. Au fil du temps, {PAWN_pronoun} a acquis une connaissance approfondie des soins à apporter aux animaux et une main sûre pour calmer les créatures les plus craintives. Le dur labeur lui laissait peu de temps pour les activités intellectuelles.</VFEM_Stablehand16.description>
+<!-- EN: stablehand -->
+<VFEM_Stablehand16.title>palefrenier</VFEM_Stablehand16.title>
+<VFEM_Stablehand16.titleFemale>palefrenière</VFEM_Stablehand16.titleFemale>
+<!-- EN: stablehand -->
+<VFEM_Stablehand16.titleShort>palefrenier</VFEM_Stablehand16.titleShort>
+<VFEM_Stablehand16.titleShortFemale>palefrenière</VFEM_Stablehand16.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] tended to the lord’s horses, feeding and grooming them and cleaning their stalls. [PAWN_pronoun] gained a deep understanding of animal care and built strong muscles from the physical labor. The isolation of the stables left [PAWN_pronoun] with limited social skills. -->
+<VFEM_StableServant44.description>{PAWN_nameDef} s'occupait des chevaux du seigneur, les nourrissait, les soignait et nettoyait leurs box. {PAWN_pronoun} a acquis une connaissance approfondie des soins à apporter aux animaux et s'est forgé{PAWN_gender ? : e } une musculature solide grâce à ce travail physique. L'isolement des écuries lui a laissé des compétences sociales limitées.</VFEM_StableServant44.description>
+<!-- EN: stable servant -->
+<VFEM_StableServant44.title>domestique d'écurie</VFEM_StableServant44.title>
+<!-- EN: stable hand -->
+<VFEM_StableServant44.titleShort>domestique</VFEM_StableServant44.titleShort>
+
+<!-- EN: [PAWN_nameDef] worked in a stone quarry, hauling heavy blocks to construction sites. The endless labor left [PAWN_pronoun] with great strength but little patience for intellectual pursuits. The hard life in the quarry also sharpened [PAWN_possessive] instincts for survival. -->
+<VFEM_StoneHauler05.description>{PAWN_nameDef} travaillait dans une carrière de pierres, transportant de lourds blocs sur les chantiers de construction. Ce travail sans fin l'a doté d'une grande force mais n'avait peu de patience pour les activités intellectuelles. La dure vie dans la carrière a également aiguisé son instinct de survie.</VFEM_StoneHauler05.description>
+<!-- EN: stone hauler -->
+<VFEM_StoneHauler05.title>transporteur de pierres</VFEM_StoneHauler05.title>
+<VFEM_StoneHauler05.titleFemale>transporteuse de pierres</VFEM_StoneHauler05.titleFemale>
+<!-- EN: hauler -->
+<VFEM_StoneHauler05.titleShort>transporteur</VFEM_StoneHauler05.titleShort>
+<VFEM_StoneHauler05.titleShortFemale>transporteuse</VFEM_StoneHauler05.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] worked in a tannery, turning raw hides into leather for clothing and armor. The job was messy and unpleasant, but it gave [PAWN_pronoun] an eye for detail and strong hands. Years of exposure to harsh chemicals left [PAWN_pronoun] with poor health. -->
+<VFEM_Tanner07.description>{PAWN_nameDef} travaillait dans une tannerie, transformant des peaux brutes en cuir pour les vêtements et les armures. Le travail était salissant et désagréable, mais il lui a donné le sens du détail et des mains fortes. Des années d'exposition à des produits chimiques agressifs l'ont rendu malade.</VFEM_Tanner07.description>
+<!-- EN: tanner -->
+<VFEM_Tanner07.title>tanneur</VFEM_Tanner07.title>
+<VFEM_Tanner07.titleFemale>tanneuse</VFEM_Tanner07.titleFemale>
+<!-- EN: tanner -->
+<VFEM_Tanner07.titleShort>tanneur</VFEM_Tanner07.titleShort>
+<VFEM_Tanner07.titleShortFemale>tanneuse</VFEM_Tanner07.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] repaired and constructed thatched roofs for the village. The work demanded both skill and endurance, as [PAWN_pronoun] balanced on rooftops for hours. Years of labor made [PAWN_pronoun] strong and precise, but [PAWN_pronoun] rarely pursued creative endeavors. -->
+<VFEM_Thatcher17.description>{PAWN_nameDef} réparait et construisait des toits de chaume pour le village. Ce travail exigeait à la fois de l'habileté et de l'endurance, car {PAWN_pronoun} restait en équilibre sur les toits pendant des heures. Des années de travail l'ont rendu fort et précis, mais {PAWN_pronoun} s'adonnait rarement à des activités créatives.</VFEM_Thatcher17.description>
+<!-- EN: thatcher -->
+<VFEM_Thatcher17.title>couvreur</VFEM_Thatcher17.title>
+<VFEM_Thatcher17.titleFemale>couvreuse</VFEM_Thatcher17.titleFemale>
+<!-- EN: thatcher -->
+<VFEM_Thatcher17.titleShort>couvreur</VFEM_Thatcher17.titleShort>
+<VFEM_Thatcher17.titleShortFemale>couvreuse</VFEM_Thatcher17.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] wandered from village to village, taking odd jobs and sleeping wherever [PAWN_pronoun] could find shelter. [PAWN_pronoun] learned to survive on little and became skilled at adapting to new situations, but [PAWN_pronoun] never stayed in one place long enough to form meaningful relationships. -->
+<VFEM_Vagabond35.description>{PAWN_nameDef} a erré de village en village, prenant des petits boulots et dormant là où {PAWN_pronoun} pouvait trouver un abri. {PAWN_pronoun} a appris à survivre avec peu de moyens et à s'adapter à de nouvelles situations, mais {PAWN_pronoun} n'est jamais resté{PAWN_gender ? : e } assez longtemps au même endroit pour nouer des relations sérieuses.</VFEM_Vagabond35.description>
+<!-- EN: vagabond -->
+<VFEM_Vagabond35.title>vagabond</VFEM_Vagabond35.title>
+<VFEM_Vagabond35.titleFemale>vagabonde</VFEM_Vagabond35.titleFemale>
+<!-- EN: vagabond -->
+<VFEM_Vagabond35.titleShort>vagabond</VFEM_Vagabond35.titleShort>
+<VFEM_Vagabond35.titleShortFemale>vagabonde</VFEM_Vagabond35.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] brewed ale for the village, perfecting recipes passed down through generations. The brewing process taught [PAWN_pronoun] patience and attention to detail, as each batch required careful timing and temperature control. [PAWN_pronoun] spent so much time brewing that [PAWN_pronoun] neglected physical training. -->
+<VFEM_VillageBrewer18.description>{PAWN_nameDef} brassait de la bière pour le village, perfectionnant des recettes transmises de génération en génération. Le processus de brassage lui a appris la patience et le souci du détail, car chaque lot nécessite un contrôle minutieux du temps et de la température. {PAWN_pronoun} passait tellement de temps à brasser qu'{PAWN_pronoun} en négligeait l'entraînement physique.</VFEM_VillageBrewer18.description>
+<!-- EN: village brewer -->
+<VFEM_VillageBrewer18.title>brasseur du village</VFEM_VillageBrewer18.title>
+<VFEM_VillageBrewer18.titleFemale>brasseuse du village</VFEM_VillageBrewer18.titleFemale>
+<!-- EN: brewer -->
+<VFEM_VillageBrewer18.titleShort>brasseur</VFEM_VillageBrewer18.titleShort>
+<VFEM_VillageBrewer18.titleShortFemale>brasseuse</VFEM_VillageBrewer18.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] prepared meals for the local villagers, using simple ingredients to make hearty stews and breads. [PAWN_pronoun] honed [PAWN_possessive] skills over countless fires and learned to stretch resources in times of scarcity. The kitchen, however, left no time for intellectual or artistic pursuits. -->
+<VFEM_VillageCook09.description>{PAWN_nameDef} préparait des repas pour les villageois locaux, utilisant des ingrédients simples pour préparer des ragoûts et des pains consistants. {PAWN_pronoun} a perfectionné ses compétences sur d'innombrables feux et a appris à tirer parti des ressources en période de pénurie. La cuisine ne lui laissait cependant pas le temps de s'adonner à des activités intellectuelles ou artistiques.</VFEM_VillageCook09.description>
+<!-- EN: village cook -->
+<VFEM_VillageCook09.title>cuisinier du village</VFEM_VillageCook09.title>
+<VFEM_VillageCook09.titleFemale>cuisinière du village</VFEM_VillageCook09.titleFemale>
+<!-- EN: cook -->
+<VFEM_VillageCook09.titleShort>cuisiner</VFEM_VillageCook09.titleShort>
+<VFEM_VillageCook09.titleShortFemale>cuisinière</VFEM_VillageCook09.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up in a small village and spent [PAWN_possessive] days hunting game to provide food for the community. [PAWN_pronoun] became skilled at tracking and setting traps but rarely interacted with others, preferring the solitude of the forest. Over time, [PAWN_pronoun] gained a reputation as a reliable provider, though [PAWN_possessive] social skills remained underdeveloped. -->
+<VFEM_VillageHunter01.description>{PAWN_nameDef} a grandi dans un petit village et passait ses journées à chasser le gibier pour nourrir la communauté. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à pister et à poser des pièges, mais {PAWN_pronoun} interagissait rarement avec les autres, préférant la solitude de la forêt. Au fil du temps, {PAWN_pronoun} a acquis la réputation d'être un pourvoyeur fiable, bien que ses compétences sociales soient restées sous-développées.</VFEM_VillageHunter01.description>
+<!-- EN: village hunter -->
+<VFEM_VillageHunter01.title>chasseur du village</VFEM_VillageHunter01.title>
+<VFEM_VillageHunter01.titleFemale>chasseuse du village</VFEM_VillageHunter01.titleFemale>
+<!-- EN: hunter -->
+<VFEM_VillageHunter01.titleShort>chasseur</VFEM_VillageHunter01.titleShort>
+<VFEM_VillageHunter01.titleShortFemale>chasseuse</VFEM_VillageHunter01.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] guarded the village walls and gates, keeping an eye out for bandits and other threats. The job demanded vigilance and a steady hand, which [PAWN_pronoun] developed over long hours of patrol. Though experienced with ranged weapons, [PAWN_pronoun] rarely saw true battle. -->
+<VFEM_Watchman24.description>{PAWN_nameDef} gardait les murs et les portes du village, à l'affût des bandits et autres menaces. Ce travail exigeait de la vigilance et une main sûre, qu'{PAWN_pronoun} a développées au cours de longues heures de patrouille. Bien qu'{PAWN_pronoun} ait l'habitude des armes à distance, {PAWN_pronoun} a rarement participé à de véritables batailles.</VFEM_Watchman24.description>
+<!-- EN: watchman -->
+<VFEM_Watchman24.title>veilleur</VFEM_Watchman24.title>
+<VFEM_Watchman24.titleFemale>veilleuse</VFEM_Watchman24.titleFemale>
+<!-- EN: watchman -->
+<VFEM_Watchman24.titleShort>veilleur</VFEM_Watchman24.titleShort>
+<VFEM_Watchman24.titleShortFemale>veilleuse</VFEM_Watchman24.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] worked at a loom, spinning thread into fabric for the village. The delicate work required focus and dexterity, which [PAWN_pronoun] developed over years of practice. However, the sedentary nature of weaving left [PAWN_pronoun] with little physical strength. -->
+<VFEM_Weaver11.description>{PAWN_nameDef} travaillait sur un métier à tisser, filant du coton pour fabriquer du tissu pour le village. Ce travail délicat exigeait de la concentration et de la dextérité, qu'{PAWN_pronoun} a développées au fil des années. Cependant, la nature sédentaire du tissage lui laissait peu de force physique.</VFEM_Weaver11.description>
+<!-- EN: weaver -->
+<VFEM_Weaver11.title>tisserand</VFEM_Weaver11.title>
+<VFEM_Weaver11.titleFemale>tisserande</VFEM_Weaver11.titleFemale>
+<!-- EN: weaver -->
+<VFEM_Weaver11.titleShort>tisserand</VFEM_Weaver11.titleShort>
+<VFEM_Weaver11.titleShortFemale>tisserande</VFEM_Weaver11.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] life in the forests, cutting down trees to supply timber for the local village. The work was grueling, but it made [PAWN_pronoun] strong and skilled with tools. Though the solitude of the woods suited [PAWN_objective], [PAWN_pronoun] never learned much about socializing or the finer arts of crafting. -->
+<VFEM_Woodcutter03.description>{PAWN_nameDef} a passé sa vie dans les forêts, à couper des arbres pour fournir du bois au village local. Le travail était éreintant, mais il l'a rendu fort et habile à manier les outils. Bien que la solitude des bois lui convienne, {PAWN_pronoun} n'a jamais beaucoup appris sur les relations sociales ou les arts les plus raffinés de l'artisanat.</VFEM_Woodcutter03.description>
+<!-- EN: woodcutter -->
+<VFEM_Woodcutter03.title>bûcheron</VFEM_Woodcutter03.title>
+<VFEM_Woodcutter03.titleFemale>bûcheronne</VFEM_Woodcutter03.titleFemale>
+<!-- EN: woodcutter -->
+<VFEM_Woodcutter03.titleShort>bûcheron</VFEM_Woodcutter03.titleShort>
+<VFEM_Woodcutter03.titleShortFemale>bûcheronne</VFEM_Woodcutter03.titleShortFemale>
+
+
+<!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood slipping through alleys and shadows, avoiding the attention of adults and bullies. The streets taught [PAWN_pronoun] how to move silently and blend into crowds. While stealthy and clever, [PAWN_pronoun] lacked trust in others and avoided forming connections. -->
+<VFEM_AlleySneak128.description>{PAWN_nameDef} a passé la plus grande partie de son enfance à se faufiler dans les ruelles et les ombres, évitant l'attention des adultes et des brutes. La rue lui a appris à se déplacer silencieusement et à se fondre dans la foule. Bien que furtif et intelligent, {PAWN_pronoun} ne faisait pas confiance aux autres et évitait de nouer des liens.</VFEM_AlleySneak128.description>
+<!-- EN: alley sneak -->
+<VFEM_AlleySneak128.title>ruelle furtive</VFEM_AlleySneak128.title>
+<!-- EN: sneak -->
+<VFEM_AlleySneak128.titleShort>furtif</VFEM_AlleySneak128.titleShort>
+<VFEM_AlleySneak128.titleShortFemale>furtive</VFEM_AlleySneak128.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood kneading dough and tending ovens in the family bakery. [PAWN_pronoun] developed a keen sense of timing and a knack for crafting simple but satisfying meals. The early mornings and long hours left [PAWN_pronoun] with a strong work ethic but little free time. -->
+<VFEM_BakersChild109.description>{PAWN_nameDef} a passé son enfance à pétrir la pâte et à s'occuper des fours dans la boulangerie familiale. {PAWN_pronoun} a développé un sens aigu de la synchronisation et un don pour préparer des repas simples mais satisfaisants. Les matins très tôt et les longues heures de travail lui ont laissé une solide éthique de travail mais peu de temps libre.</VFEM_BakersChild109.description>
+<!-- EN: baker's child -->
+<VFEM_BakersChild109.title>enfant de boulanger</VFEM_BakersChild109.title>
+<!-- EN: baker -->
+<VFEM_BakersChild109.titleShort>boulanger</VFEM_BakersChild109.titleShort>
+<VFEM_BakersChild109.titleShortFemale>boulangère</VFEM_BakersChild109.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years sitting in muddy streets, pleading for coins or scraps of food. The life taught [PAWN_pronoun] how to read people’s emotions and appeal to their sympathies, but it also made [PAWN_pronoun] deeply wary of rejection. Begging for survival left [PAWN_pronoun] resourceful but mistrusted. -->
+<VFEM_BeggarChild126.description>{PAWN_nameDef} a passé ses premières années assis dans des rues boueuses, implorant des pièces de monnaie ou des restes de nourriture. Cette vie lui a appris à lire les émotions des gens et à faire appel à leur sympathie, mais elle l'a aussi rendu profondément méfiant{PAWN_gender ? : e } à l'égard du rejet. Mendier pour survivre l'a rendu débrouillard{PAWN_gender ? : e } mais méfiant{PAWN_gender ? : e }.</VFEM_BeggarChild126.description>
+<!-- EN: beggar child -->
+<VFEM_BeggarChild126.title>enfant mendiant</VFEM_BeggarChild126.title>
+<!-- EN: beggar -->
+<VFEM_BeggarChild126.titleShort>mendiant</VFEM_BeggarChild126.titleShort>
+<VFEM_BeggarChild126.titleShortFemale>mendiante</VFEM_BeggarChild126.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years in a smoky forge, assisting [PAWN_possessive] family with small tasks like pumping bellows and carrying coal. The heat and noise became a constant part of [PAWN_possessive] life, and [PAWN_pronoun] began to understand the basics of crafting and hard work. Though the work was tiring, it sparked an appreciation for precision and skill. -->
+<VFEM_BlacksmithsApprentice103.description>{PAWN_nameDef} a passé ses premières années dans une forge enfumée, aidant sa famille à effectuer de petites tâches telles que pomper des soufflets et transporter du charbon. La chaleur et le bruit font partie intégrante de sa vie et {PAWN_pronoun} a commencé à comprendre les principes de base de l'artisanat et du travail acharné. Bien que le travail était fatigant, il lui a permis d'apprécier la précision et l'habileté.</VFEM_BlacksmithsApprentice103.description>
+<!-- EN: blacksmith's apprentice -->
+<VFEM_BlacksmithsApprentice103.title>apprenti forgeron</VFEM_BlacksmithsApprentice103.title>
+<VFEM_BlacksmithsApprentice103.titleFemale>apprentie forgeronne</VFEM_BlacksmithsApprentice103.titleFemale>
+<!-- EN: apprentice -->
+<VFEM_BlacksmithsApprentice103.titleShort>apprenti</VFEM_BlacksmithsApprentice103.titleShort>
+<VFEM_BlacksmithsApprentice103.titleShortFemale>apprentie</VFEM_BlacksmithsApprentice103.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up learning the sagas and legends of [PAWN_possessive] ancestors, memorizing the stories that bound the clan together. [PAWN_pronoun] developed a gift for storytelling and inspiring others with words. Though not a warrior, [PAWN_pronoun] played an important role in preserving [PAWN_possessive] people’s history and culture. -->
+<VFEM_ClanStoryteller140.description>{PAWN_nameDef} a grandi en apprenant les sagas et les légendes de ses ancêtres, mémorisant les histoires qui liaient le clan. {PAWN_pronoun} a développé un don pour raconter des histoires et inspirer les autres avec des mots. Bien qu'{PAWN_pronoun} ne soit pas un{PAWN_gender ? : e } guerri{PAWN_gender ? er : ère }, {PAWN_pronoun} a joué un rôle important dans la préservation de l'histoire et de la culture de son peuple.</VFEM_ClanStoryteller140.description>
+<!-- EN: clan storyteller -->
+<VFEM_ClanStoryteller140.title>conteur de clan</VFEM_ClanStoryteller140.title>
+<VFEM_ClanStoryteller140.titleFemale>conteuse de clan</VFEM_ClanStoryteller140.titleFemale>
+<!-- EN: storyteller -->
+<VFEM_ClanStoryteller140.titleShort>conteur</VFEM_ClanStoryteller140.titleShort>
+<VFEM_ClanStoryteller140.titleShortFemale>conteuse</VFEM_ClanStoryteller140.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] started working in the fields as soon as [PAWN_pronoun] could carry a tool, spending long days planting and harvesting. The grueling work made [PAWN_pronoun] strong and resilient but left little time for play or education. Despite the hardships, [PAWN_pronoun] grew to appreciate the rewards of hard work. -->
+<VFEM_EarlyLaborer115.description>{PAWN_nameDef} a commencé à travailler dans les champs dès qu'{PAWN_pronoun} a pu porter un outil, passant de longues journées à planter et à récolter. Ce travail éreintant l'a rendu fort et résistant, mais lui a laissé peu de temps pour jouer ou s'instruire. Malgré les difficultés, {PAWN_pronoun} a appris à apprécier les récompenses du dur labeur.</VFEM_EarlyLaborer115.description>
+<!-- EN: early laborer -->
+<VFEM_EarlyLaborer115.title>jeune ouvrier</VFEM_EarlyLaborer115.title>
+<VFEM_EarlyLaborer115.titleFemale>jeune ouvrière</VFEM_EarlyLaborer115.titleFemale>
+<!-- EN: laborer -->
+<VFEM_EarlyLaborer115.titleShort>ouvrier</VFEM_EarlyLaborer115.titleShort>
+<VFEM_EarlyLaborer115.titleShortFemale>ouvrière</VFEM_EarlyLaborer115.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up working the fields with [PAWN_possessive] family, planting crops and tending to livestock. [PAWN_pronoun] became skilled at using simple tools and understanding the rhythms of the seasons. The hard labor instilled a strong work ethic but left little time for formal learning. -->
+<VFEM_FarmersChild104.description>{PAWN_nameDef} a grandi en travaillant dans les champs avec sa famille, en plantant des cultures et en s'occupant du bétail. {PAWN_pronoun} a appris à utiliser des outils simples et à comprendre le rythme des saisons. Le dur labeur lui a inculqué une solide éthique du travail, mais lui a laissé peu de temps pour l'apprentissage formel.</VFEM_FarmersChild104.description>
+<!-- EN: farmer's child -->
+<VFEM_FarmersChild104.title>enfant de fermier</VFEM_FarmersChild104.title>
+<!-- EN: farmhand -->
+<VFEM_FarmersChild104.titleShort>ouvrier agricole</VFEM_FarmersChild104.titleShort>
+<VFEM_FarmersChild104.titleShortFemale>ouvrière agricole</VFEM_FarmersChild104.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up on a Viking farmstead, helping tend to livestock and till the soil during the short growing seasons. [PAWN_pronoun] learned the cycles of planting and harvest while preparing for the colder months. Life on the farm taught [PAWN_pronoun] hard work and how to endure nature’s challenges. -->
+<VFEM_FarmsteadHand138.description>{PAWN_nameDef} a grandi dans une ferme viking, aidant à s'occuper du bétail et à labourer le sol pendant les courtes saisons de croissance. {PAWN_pronoun} a appris les cycles de plantation et de récolte tout en se préparant aux mois les plus froids. La vie à la ferme lui a appris à travailler dur et à relever les défis de la nature.</VFEM_FarmsteadHand138.description>
+<!-- EN: farmstead hand -->
+<VFEM_FarmsteadHand138.title>ouvrier agricole</VFEM_FarmsteadHand138.title>
+<VFEM_FarmsteadHand138.titleFemale>ouvrière agricole</VFEM_FarmsteadHand138.titleFemale>
+<!-- EN: farmhand -->
+<VFEM_FarmsteadHand138.titleShort>ouvrier agricole</VFEM_FarmsteadHand138.titleShort>
+<VFEM_FarmsteadHand138.titleShortFemale>ouvrière agricole</VFEM_FarmsteadHand138.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent hours sitting by the fields, keeping an eye out for crows, rabbits, or anything else that might harm the crops. [PAWN_pronoun] learned patience and vigilance, but the solitary work left [PAWN_pronoun] starved for human interaction. [PAWN_pronoun] grew resourceful, using simple tools to ward off pests and predators. -->
+<VFEM_FieldWatcher117.description>{PAWN_nameDef} passait des heures assis près des champs, à guetter les corbeaux, les lapins et tout ce qui pouvait nuire aux récoltes. {PAWN_pronoun} a appris la patience et la vigilance, mais ce travail solitaire l'a laissé affamé d'interactions humaines. {PAWN_pronoun} est devenu{PAWN_gender ? : e } débrouillard{PAWN_gender ? : e }, utilisant des outils simples pour repousser les parasites et les prédateurs.</VFEM_FieldWatcher117.description>
+<!-- EN: field watcher -->
+<VFEM_FieldWatcher117.title>observateur de champ</VFEM_FieldWatcher117.title>
+<VFEM_FieldWatcher117.titleFemale>observatrice de champ</VFEM_FieldWatcher117.titleFemale>
+<!-- EN: watcher -->
+<VFEM_FieldWatcher117.titleShort>observateur</VFEM_FieldWatcher117.titleShort>
+<VFEM_FieldWatcher117.titleShortFemale>observatrice</VFEM_FieldWatcher117.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] early years helping in the fields, learning to plant and harvest crops. The work was repetitive but rewarding, teaching [PAWN_pronoun] the value of patience and effort. [PAWN_pronoun] grew up strong and practical, with a deep appreciation for the land. -->
+<VFEM_FieldWorker131.description>{PAWN_nameDef} a passé ses premières années à aider dans les champs, apprenant à planter et à récolter les cultures. Ce travail répétitif mais gratifiant lui a appris la valeur de la patience et de l'effort. {PAWN_pronoun} a grandi fort et pratique, avec une profonde appréciation de la terre.</VFEM_FieldWorker131.description>
+<!-- EN: field worker -->
+<VFEM_FieldWorker131.title>travailleur de champ</VFEM_FieldWorker131.title>
+<VFEM_FieldWorker131.titleFemale>travailleuse de champ</VFEM_FieldWorker131.titleFemale>
+<!-- EN: worker -->
+<VFEM_FieldWorker131.titleShort>travailleur</VFEM_FieldWorker131.titleShort>
+<VFEM_FieldWorker131.titleShortFemale>travailleuse</VFEM_FieldWorker131.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth casting nets and hauling in fish alongside [PAWN_possessive] family. The smell of salt and the sound of water became second nature to [PAWN_objective], as did a knack for patience and a steady hand. Life on the water left [PAWN_pronoun] with a practical mindset and the ability to adapt to challenges. -->
+<VFEM_FishermansChild105.description>{PAWN_nameDef} a passé sa jeunesse à lancer des filets et à ramener du poisson avec sa famille. L'odeur du sel et le bruit de l'eau sont devenus pour {PAWN_objective} une seconde nature, de même qu'un don pour la patience et une main ferme. La vie sur l'eau l'a doté d'un esprit pratique et d'une capacité à s'adapter aux défis.</VFEM_FishermansChild105.description>
+<!-- EN: fisherman’s child -->
+<VFEM_FishermansChild105.title>enfant de pêcheur</VFEM_FishermansChild105.title>
+<!-- EN: fisher -->
+<VFEM_FishermansChild105.titleShort>pêcheur</VFEM_FishermansChild105.titleShort>
+<VFEM_FishermansChild105.titleShortFemale>pêcheuse</VFEM_FishermansChild105.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood fishing along the rocky fjords, learning to handle nets and row longboats in icy waters. The life taught [PAWN_pronoun] resilience and respect for the sea’s power. Though the work was cold and grueling, [PAWN_pronoun] grew up strong and capable in harsh conditions. -->
+<VFEM_FjordFisher136.description>{PAWN_nameDef} a passé son enfance à pêcher le long des fjords rocheux, apprenant à manier les filets et à ramer dans les eaux glacées. Cette vie lui a appris la résilience et le respect de la puissance de la mer. Bien que le travail soit froid et éreintant, {PAWN_pronoun} a grandi en étant fort et capable de travailler dans des conditions difficiles.</VFEM_FjordFisher136.description>
+<!-- EN: fjord fisher -->
+<VFEM_FjordFisher136.title>pêcheur du fjord</VFEM_FjordFisher136.title>
+<VFEM_FjordFisher136.titleFemale>pêcheuse du fjord</VFEM_FjordFisher136.titleFemale>
+<!-- EN: fisher -->
+<VFEM_FjordFisher136.titleShort>pêcheur</VFEM_FjordFisher136.titleShort>
+<VFEM_FjordFisher136.titleShortFemale>pêcheuse</VFEM_FjordFisher136.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood scouring the woods for berries, herbs, and mushrooms to help feed the village. [PAWN_pronoun] learned to identify edible plants and navigate dense forests with ease. Though [PAWN_pronoun] rarely interacted with others, [PAWN_pronoun] became deeply attuned to nature. -->
+<VFEM_ForestForager111.description>{PAWN_nameDef} a passé son enfance à parcourir les bois à la recherche de baies, d'herbes et de champignons pour nourrir le village. {PAWN_pronoun} a appris à identifier les plantes comestibles et à s'orienter facilement dans les forêts denses. Bien qu'{PAWN_pronoun} soit rarement en contact avec les autres, {PAWN_pronoun} s'est profondément rapproché{PAWN_gender ? : e } de la nature.</VFEM_ForestForager111.description>
+<!-- EN: forest forager -->
+<VFEM_ForestForager111.title>cueilleur forestier</VFEM_ForestForager111.title>
+<VFEM_ForestForager111.titleFemale>cueilleuse forestier</VFEM_ForestForager111.titleFemale>
+<!-- EN: forager -->
+<VFEM_ForestForager111.titleShort>cueilleur</VFEM_ForestForager111.titleShort>
+<VFEM_ForestForager111.titleShortFemale>cueilleuse</VFEM_ForestForager111.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up tending the hearth and helping prepare meals for the family. [PAWN_pronoun] learned the basics of cooking and the importance of keeping the fire burning through the night. Though the work was simple, it taught [PAWN_pronoun] the value of care and consistency. -->
+<VFEM_HearthKeeper134.description>{PAWN_nameDef} a grandi en s'occupant du foyer et en aidant à préparer les repas pour la famille. {PAWN_pronoun} a appris les rudiments de la cuisine et l'importance de maintenir le feu allumé toute la nuit. Même si le travail était simple, il lui a appris la valeur du soin et de la constance.</VFEM_HearthKeeper134.description>
+<!-- EN: hearth keeper -->
+<VFEM_HearthKeeper134.title>gardien du foyer</VFEM_HearthKeeper134.title>
+<VFEM_HearthKeeper134.titleFemale>gardienne du foyer</VFEM_HearthKeeper134.titleFemale>
+<!-- EN: keeper -->
+<VFEM_HearthKeeper134.titleShort>gardien</VFEM_HearthKeeper134.titleShort>
+<VFEM_HearthKeeper134.titleShortFemale>gardienne</VFEM_HearthKeeper134.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] followed [PAWN_possessive] family through the forests, learning to track animals and use a bow. [PAWN_pronoun] grew up attuned to the wilderness, with sharp instincts and steady hands. While skilled at survival, [PAWN_pronoun] spent little time with other children and was often solitary. -->
+<VFEM_HuntersChild108.description>{PAWN_nameDef} a suivi sa famille dans les forêts, apprenant à traquer les animaux et à manier l'arc. {PAWN_pronoun} grandit en harmonie avec la nature sauvage, avec des instincts aiguisés et des mains sûres. Bien que doué pour la survie, {PAWN_pronoun} passait peu de temps avec les autres enfants et était souvent solitaire.</VFEM_HuntersChild108.description>
+<!-- EN: hunter's child -->
+<VFEM_HuntersChild108.title>enfant de chasseur</VFEM_HuntersChild108.title>
+<!-- EN: hunter -->
+<VFEM_HuntersChild108.titleShort>chasseur</VFEM_HuntersChild108.titleShort>
+<VFEM_HuntersChild108.titleShortFemale>chasseuse</VFEM_HuntersChild108.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was raised on tales of far-off lands and spent [PAWN_possessive] youth rowing Viking longboats. [PAWN_pronoun] gained strength and endurance from the endless paddling while learning the rhythms of the sea. Though not yet a raider, [PAWN_pronoun] was well-prepared for a life of exploration and adventure. -->
+<VFEM_LongboatPaddler139.description>{PAWN_nameDef} a été élevé{PAWN_gender ? : e } dans les récits de pays lointains et a passé sa jeunesse à ramer sur des chaloupes vikings. {PAWN_pronoun} a acquis force et endurance en pagayant sans cesse, tout en apprenant les rythmes de la mer. Bien qu'{PAWN_pronoun} ne soit pas encore un pillard, {PAWN_pronoun} s'est bien préparé{PAWN_gender ? : e } à une vie d'exploration et d'aventure.</VFEM_LongboatPaddler139.description>
+<!-- EN: longboat paddler -->
+<VFEM_LongboatPaddler139.title>pagayeur de chaloupe</VFEM_LongboatPaddler139.title>
+<VFEM_LongboatPaddler139.titleFemale>pagayeuse de chaloupe</VFEM_LongboatPaddler139.titleFemale>
+<!-- EN: paddler -->
+<VFEM_LongboatPaddler139.titleShort>pagayeur</VFEM_LongboatPaddler139.titleShort>
+<VFEM_LongboatPaddler139.titleShortFemale>pagayeuse</VFEM_LongboatPaddler139.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood helping traders set up their stalls, haul goods, and haggle with customers. The bustling marketplace taught [PAWN_pronoun] how to read people and bargain effectively. Though quick-witted, [PAWN_pronoun] had little time for physical labor outside the market. -->
+<VFEM_MarketHelper118.description>{PAWN_nameDef} a passé son enfance à aider les commerçants à installer leurs étals, à transporter les marchandises et à marchander avec les clients. L'animation du marché lui a appris à lire les gens et à négocier efficacement. Bien que vif d'esprit, {PAWN_pronoun} n'avait guère le temps de travailler physiquement en dehors du marché.</VFEM_MarketHelper118.description>
+<!-- EN: market helper -->
+<VFEM_MarketHelper118.title>assistant de marché</VFEM_MarketHelper118.title>
+<VFEM_MarketHelper118.titleFemale>assistante de marché</VFEM_MarketHelper118.titleFemale>
+<!-- EN: helper -->
+<VFEM_MarketHelper118.titleShort>assistant</VFEM_MarketHelper118.titleShort>
+<VFEM_MarketHelper118.titleShortFemale>assistante</VFEM_MarketHelper118.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up around the constant hum of the mill, helping [PAWN_possessive] family grind grain into flour. [PAWN_pronoun] learned the importance of precision and efficiency, keeping the machinery running smoothly. [PAWN_pronoun] also gained a knack for basic problem-solving when repairs were needed. -->
+<VFEM_MillersChild107.description>{PAWN_nameDef} a grandi dans le bourdonnement constant du moulin, aidant sa famille à moudre le grain pour en faire de la farine. {PAWN_pronoun} a appris l'importance de la précision et de l'efficacité, en veillant au bon fonctionnement des machines. {PAWN_pronoun} a également appris à résoudre les problèmes de base lorsque des réparations s'avéraient nécessaires.</VFEM_MillersChild107.description>
+<!-- EN: miller's child -->
+<VFEM_MillersChild107.title>enfant de meunier</VFEM_MillersChild107.title>
+<!-- EN: miller -->
+<VFEM_MillersChild107.titleShort>meunier</VFEM_MillersChild107.titleShort>
+<VFEM_MillersChild107.titleShortFemale>meunière</VFEM_MillersChild107.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was shunned by the other children in [PAWN_possessive] village for reasons [PAWN_pronoun] never fully understood. Forced to fend for [PAWN_objective], [PAWN_pronoun] spent [PAWN_possessive] days alone in the wilderness or on the village outskirts. [PAWN_pronoun] developed a deep sense of independence and distrust of others. -->
+<VFEM_Outcast122.description>{PAWN_nameDef} a été rejeté{PAWN_gender ? : e } par les autres enfants de son village pour des raisons qu'{PAWN_pronoun} n'a jamais vraiment comprises. Obligé{PAWN_gender ? : e } de se débrouiller seul{PAWN_gender ? : e }, {PAWN_pronoun} passait ses journées dans la nature ou à la périphérie du village. {PAWN_pronoun} a développé un profond sentiment d'indépendance et de méfiance à l'égard des autres.</VFEM_Outcast122.description>
+<!-- EN: outcast -->
+<VFEM_Outcast122.title>exclu</VFEM_Outcast122.title>
+<VFEM_Outcast122.titleFemale>exclue</VFEM_Outcast122.titleFemale>
+<!-- EN: outcast -->
+<VFEM_Outcast122.titleShort>exclu</VFEM_Outcast122.titleShort>
+<VFEM_Outcast122.titleShortFemale>exclue</VFEM_Outcast122.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] turned to petty theft as a way to survive in a world that had little use for [PAWN_objective]. [PAWN_pronoun] quickly learned to move unseen and snatch valuables without getting caught. While skilled at stealing, [PAWN_pronoun] earned a reputation for dishonesty and was never trusted by others. -->
+<VFEM_Pickpocket123.description>{PAWN_nameDef} s'est tourné{PAWN_gender ? : e } vers le petit vol pour survivre dans un monde qui n'avait que faire de {PAWN_objective}. {PAWN_pronoun} a appris rapidement à se déplacer sans être vu et à dérober des objets de valeur sans se faire prendre. Bien que doué pour le vol, {PAWN_pronoun} a acquis une réputation de malhonnêteté et n'a jamais eu la confiance des autres.</VFEM_Pickpocket123.description>
+<!-- EN: pickpocket -->
+<VFEM_Pickpocket123.title>voleur à la tire</VFEM_Pickpocket123.title>
+<VFEM_Pickpocket123.titleFemale>voleuse à la tire</VFEM_Pickpocket123.titleFemale>
+<!-- EN: thief -->
+<VFEM_Pickpocket123.titleShort>voleur</VFEM_Pickpocket123.titleShort>
+<VFEM_Pickpocket123.titleShortFemale>voleuse</VFEM_Pickpocket123.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] loved wandering the woods and hills near the village, discovering hidden streams and climbing trees. [PAWN_pronoun] often returned with scratched knees and pockets full of interesting stones or berries. Though more playful than productive, [PAWN_pronoun] grew up with a keen sense of adventure and a connection to nature. -->
+<VFEM_PlayfulExplorer133.description>{PAWN_nameDef} aimait se promener dans les bois et les collines près du village, découvrir des ruisseaux cachés et grimper aux arbres. {PAWN_pronoun} revenait souvent les genoux égratignés et les poches pleines de cailloux ou de baies intéressantes. Bien que plus ludique que productif, {PAWN_pronoun} a grandi avec un sens aigu de l'aventure et un lien avec la nature.</VFEM_PlayfulExplorer133.description>
+<!-- EN: playful explorer -->
+<VFEM_PlayfulExplorer133.title>explorateur ludique</VFEM_PlayfulExplorer133.title>
+<VFEM_PlayfulExplorer133.titleFemale>exploratrice ludique</VFEM_PlayfulExplorer133.titleFemale>
+<!-- EN: explorer -->
+<VFEM_PlayfulExplorer133.titleShort>explorateur</VFEM_PlayfulExplorer133.titleShort>
+<VFEM_PlayfulExplorer133.titleShortFemale>exploratrice</VFEM_PlayfulExplorer133.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood watching the world from the edges, unnoticed but always attentive. [PAWN_pronoun] learned to listen, read emotions, and predict behavior, skills that [PAWN_pronoun] used to avoid trouble and gain favor. While [PAWN_pronoun] excelled at understanding others, [PAWN_pronoun] avoided physical labor whenever possible. -->
+<VFEM_QuietObserver114.description>{PAWN_nameDef} a passé son enfance à observer le monde depuis la périphérie, discret mais toujours attentif. {PAWN_pronoun} a appris à écouter, à lire les émotions et à prédire les comportements, des compétences qu'{PAWN_pronoun} a utilisées pour éviter les ennuis et s'attirer les faveurs. {PAWN_gender ? S'il : Si elle } excellait à comprendre les autres, {PAWN_pronoun} évitait autant que possible le travail physique.</VFEM_QuietObserver114.description>
+<!-- EN: quiet observer -->
+<VFEM_QuietObserver114.title>observateur silencieux</VFEM_QuietObserver114.title>
+<VFEM_QuietObserver114.titleFemale>observatrice silencieuse</VFEM_QuietObserver114.titleFemale>
+<!-- EN: observer -->
+<VFEM_QuietObserver114.titleShort>observateur</VFEM_QuietObserver114.titleShort>
+<VFEM_QuietObserver114.titleShortFemale>observatrice</VFEM_QuietObserver114.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was tasked with clearing vermin from food stores and homes, often wading into the dirtiest corners of the village. [PAWN_pronoun] developed quick reflexes and an uncanny knack for traps, but the work left [PAWN_pronoun] isolated and avoided by others. The smell of [PAWN_possessive] trade lingered wherever [PAWN_pronoun] went. -->
+<VFEM_RatCatcher124.description>{PAWN_nameDef} était chargé{PAWN_gender ? : e } d'éliminer la vermine des magasins de nourriture et des maisons, en s'aventurant souvent dans les coins les plus sales du village. {PAWN_pronoun} a développé des réflexes rapides et un talent particulier pour les pièges, mais ce travail l'a isolé et évité des autres. L'odeur de son métier persistait partout où {PAWN_pronoun} allait.</VFEM_RatCatcher124.description>
+<!-- EN: rat catcher -->
+<VFEM_RatCatcher124.title>dératiseur</VFEM_RatCatcher124.title>
+<VFEM_RatCatcher124.titleFemale>dératiseuse</VFEM_RatCatcher124.titleFemale>
+<!-- EN: rat catcher -->
+<VFEM_RatCatcher124.titleShort>dératiseur</VFEM_RatCatcher124.titleShort>
+<VFEM_RatCatcher124.titleShortFemale>dératiseuse</VFEM_RatCatcher124.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent endless hours by the river, catching fish with traps and nets. [PAWN_pronoun] became skilled at spotting fish and understanding the flow of water, skills that kept [PAWN_objective] well-fed even in lean times. Life by the river gave [PAWN_pronoun] a practical outlook but limited [PAWN_possessive] social skills. -->
+<VFEM_RiverWader112.description>{PAWN_nameDef} passait d'interminables heures au bord de la rivière à attraper des poissons à l'aide de pièges et de filets. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à repérer les poissons et à comprendre le débit de l'eau, ce qui lui a permis de rester bien nourri même en période de vaches maigres. La vie au bord de la rivière lui a donné une vision pratique, mais a limité ses compétences sociales.</VFEM_RiverWader112.description>
+<!-- EN: river wader -->
+<VFEM_RiverWader112.title>échassier de rivière</VFEM_RiverWader112.title>
+<!-- EN: river wader -->
+<VFEM_RiverWader112.titleShort>échassier de rivière</VFEM_RiverWader112.titleShort>
+
+<!-- EN: [PAWN_nameDef] was the smallest and weakest of [PAWN_possessive] peers, often picked on by others. To survive, [PAWN_pronoun] learned to think fast and avoid direct conflicts, relying on cunning to outsmart [PAWN_possessive] tormentors. Though quick and clever, [PAWN_pronoun] grew up mistrustful and fiercely independent. -->
+<VFEM_RuntOfThePack130.description>{PAWN_nameDef} était l{PAWN_gender ? e : a } plus petit{PAWN_gender ? : e } et l{PAWN_gender ? e : a } plus faible de ses camarades, et les autres s'en prenaient souvent à {PAWN_objective}. Pour survivre, {PAWN_pronoun} a appris à réfléchir rapidement et à éviter les conflits directs, s'appuyant sur la ruse pour déjouer ses bourreaux. Bien que rapide et intelligent{PAWN_gender ? : te }, {PAWN_pronoun} grandit dans la méfiance et l'indépendance.</VFEM_RuntOfThePack130.description>
+<!-- EN: runt of the pack -->
+<VFEM_RuntOfThePack130.title>avorton du groupe</VFEM_RuntOfThePack130.title>
+<!-- EN: runt -->
+<VFEM_RuntOfThePack130.titleShort>avorton</VFEM_RuntOfThePack130.titleShort>
+
+<!-- EN: [PAWN_nameDef] collected broken tools, discarded wood, and other castoffs, turning them into makeshift toys or tools. Though often teased for [PAWN_possessive] peculiar habits, [PAWN_pronoun] became adept at finding value in things others overlooked. [PAWN_pronoun] gained practical skills but struggled to connect with others. -->
+<VFEM_ScrapHoarder127.description>{PAWN_nameDef} collectionnait les outils cassés, le bois jeté et d'autres objets de rebut, qu'{PAWN_pronoun} transformait en jouets ou en outils de fortune. Bien qu'{PAWN_pronoun} soit souvent moqué pour ses habitudes particulières, {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à trouver de la valeur dans les choses que les autres négligeaient. {PAWN_pronoun} a acquis des compétences pratiques, mais a eu du mal à établir des liens avec les autres.</VFEM_ScrapHoarder127.description>
+<!-- EN: scrap hoarder -->
+<VFEM_ScrapHoarder127.title>accumulateur de déchets</VFEM_ScrapHoarder127.title>
+<VFEM_ScrapHoarder127.titleFemale>accumulatrice de déchets</VFEM_ScrapHoarder127.titleFemale>
+<!-- EN: hoarder -->
+<VFEM_ScrapHoarder127.titleShort>accumulateur</VFEM_ScrapHoarder127.titleShort>
+<VFEM_ScrapHoarder127.titleShortFemale>accumulatrice</VFEM_ScrapHoarder127.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood helping [PAWN_possessive] family tend sheep on the hillsides near the village. [PAWN_pronoun] learned patience, vigilance, and a deep understanding of animal behavior. The quiet life also gave [PAWN_pronoun] plenty of time to dream and observe the world around [PAWN_objective]. -->
+<VFEM_ShepherdsChild102.description>{PAWN_nameDef} a passé son enfance à aider sa famille à garder les moutons sur les collines près du village. {PAWN_pronoun} a appris la patience, la vigilance et une profonde compréhension du comportement des animaux. Cette vie tranquille lui a également donné le temps de rêver et d'observer le monde qui l'entoure.</VFEM_ShepherdsChild102.description>
+<!-- EN: shepherd's child -->
+<VFEM_ShepherdsChild102.title>enfant de berger</VFEM_ShepherdsChild102.title>
+<!-- EN: shepherd -->
+<VFEM_ShepherdsChild102.titleShort>berger</VFEM_ShepherdsChild102.titleShort>
+<VFEM_ShepherdsChild102.titleShortFemale>bergère</VFEM_ShepherdsChild102.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was trained from a young age to carry shields and assist warriors during raids and battles. [PAWN_pronoun] learned to endure heavy loads and follow commands, watching closely as the older fighters honed their skills. The experience prepared [PAWN_pronoun] for a life of conflict and loyalty to [PAWN_possessive] clan. -->
+<VFEM_ShieldBearer137.description>{PAWN_nameDef} a été formé{PAWN_gender ? : e } dès son plus jeune âge à porter des boucliers et à assister les guerriers lors des raids et des batailles. {PAWN_pronoun} a appris à supporter de lourdes charges et à suivre les ordres, observant attentivement les combattants plus âgés qui perfectionnaient leurs compétences. Cette expérience l'a préparé à une vie de conflit et de loyauté envers son clan.</VFEM_ShieldBearer137.description>
+<!-- EN: shield bearer -->
+<VFEM_ShieldBearer137.title>porte-bouclier</VFEM_ShieldBearer137.title>
+<!-- EN: shield bearer -->
+<VFEM_ShieldBearer137.titleShort>porte-bouclier</VFEM_ShieldBearer137.titleShort>
+
+<!-- EN: [PAWN_nameDef] grew up in the stables, helping care for horses and keeping the stalls clean. [PAWN_pronoun] learned the basics of animal care and the value of steady, dependable work. While comfortable around animals, [PAWN_pronoun] often struggled to relate to [PAWN_possessive] peers. -->
+<VFEM_StablehandsChild110.description>{PAWN_nameDef} a grandi dans les écuries, où {PAWN_pronoun} aidait à soigner les chevaux et à nettoyer les box. {PAWN_pronoun} a appris les bases du soin des animaux et la valeur d'un travail régulier et fiable. Bien qu'{PAWN_pronoun} soit à l'aise avec les animaux, {PAWN_pronoun} a souvent eu du mal à établir des relations avec ses pairs.</VFEM_StablehandsChild110.description>
+<!-- EN: stablehand's child -->
+<VFEM_StablehandsChild110.title>enfant de palefrenier</VFEM_StablehandsChild110.title>
+<!-- EN: stablehand -->
+<VFEM_StablehandsChild110.titleShort>palefrenier</VFEM_StablehandsChild110.titleShort>
+<VFEM_StablehandsChild110.titleShortFemale>palefrenière</VFEM_StablehandsChild110.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] performed in the village square as a juggler, singer, or storyteller, hoping to earn coins or scraps of food. [PAWN_pronoun] learned how to capture an audience’s attention and bring joy to others, even when times were tough. While talented in performance, [PAWN_pronoun] struggled with practical skills outside the arts. -->
+<VFEM_StreetEntertainer120.description>{PAWN_nameDef} se produisait sur la place du village en tant que jongleu{PAWN_gender ? r : se }, chanteu{PAWN_gender ? r : se } ou conteu{PAWN_gender ? r : se }, dans l'espoir de gagner des pièces ou des restes de nourriture. {PAWN_pronoun} a appris à capter l'attention du public et à apporter de la joie aux autres, même lorsque les temps étaient durs. Bien qu'{PAWN_pronoun} soit doué{PAWN_gender ? : e } pour le spectacle, {PAWN_pronoun} a du mal à acquérir des compétences pratiques en dehors de l'art.</VFEM_StreetEntertainer120.description>
+<!-- EN: street entertainer -->
+<VFEM_StreetEntertainer120.title>artiste de rue</VFEM_StreetEntertainer120.title>
+<!-- EN: entertainer -->
+<VFEM_StreetEntertainer120.titleShort>artiste</VFEM_StreetEntertainer120.titleShort>
+
+<!-- EN: [PAWN_nameDef] grew up scavenging through garbage and refuse, searching for anything [PAWN_pronoun] could eat or sell. The harsh life taught [PAWN_pronoun] how to survive with very little but left [PAWN_pronoun] mistrusting of others. [PAWN_pronoun] became quick on [PAWN_possessive] feet to avoid confrontations over scraps. -->
+<VFEM_StreetScavenger121.description>{PAWN_nameDef} a grandi en fouillant les ordures et les déchets, à la recherche de tout ce qu'{PAWN_pronoun} pouvait manger ou vendre. Cette vie difficile lui a appris à survivre avec très peu, mais l'a rendu méfiant{PAWN_gender ? : e } à l'égard des autres. {PAWN_pronoun} est devenu{PAWN_gender ? : e } rapide afin d'éviter les confrontations pour des miettes.</VFEM_StreetScavenger121.description>
+<!-- EN: street scavenger -->
+<VFEM_StreetScavenger121.title>charognard de rue</VFEM_StreetScavenger121.title>
+<VFEM_StreetScavenger121.titleFemale>charognarde de rue</VFEM_StreetScavenger121.titleFemale>
+<!-- EN: scavenger -->
+<VFEM_StreetScavenger121.titleShort>charognard</VFEM_StreetScavenger121.titleShort>
+<VFEM_StreetScavenger121.titleShortFemale>charognarde</VFEM_StreetScavenger121.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was known for causing mischief and stirring up chaos, often at the expense of others. [PAWN_pronoun] enjoyed playing pranks, picking fights, and pushing boundaries wherever possible. Though disliked by adults and peers alike, [PAWN_pronoun] developed sharp wits and quick reflexes to avoid punishment. -->
+<VFEM_Troublemaker125.description>{PAWN_nameDef} était connu{PAWN_gender ? : e } pour faire des bêtises et semer le chaos, souvent aux dépens des autres. {PAWN_pronoun} aimait faire des farces, provoquer des bagarres et repousser les limites dans la mesure du possible. Bien qu'{PAWN_pronoun} soit détesté{PAWN_gender ? : e } des adultes et de ses pairs, {PAWN_pronoun} a développé une grande vivacité d'esprit et des réflexes rapides pour éviter les punitions.</VFEM_Troublemaker125.description>
+<!-- EN: troublemaker -->
+<VFEM_Troublemaker125.title>fauteur de troubles</VFEM_Troublemaker125.title>
+<!-- EN: troublemaker -->
+<VFEM_Troublemaker125.titleShort>fauteur de troubles</VFEM_Troublemaker125.titleShort>
+
+<!-- EN: [PAWN_nameDef] spent much of [PAWN_possessive] childhood collecting firewood, herbs, and other necessities for the village. The long days outdoors gave [PAWN_pronoun] an eye for useful plants and a steady hand for simple tools. [PAWN_pronoun] grew up practical and capable, well-suited to life in the countryside. -->
+<VFEM_VillageGatherer135.description>{PAWN_nameDef} a passé une grande partie de son enfance à ramasser du bois de chauffage, des herbes et d'autres produits de première nécessité pour le village. Les longues journées passées à l'extérieur lui ont donné l'œil pour repérer les plantes utiles et une main sûre pour manier des outils simples. {PAWN_pronoun} a grandi dans un esprit pratique et compétent, bien adapté à la vie à la campagne.</VFEM_VillageGatherer135.description>
+<!-- EN: village gatherer -->
+<VFEM_VillageGatherer135.title>cueilleur du village</VFEM_VillageGatherer135.title>
+<!-- EN: gatherer -->
+<VFEM_VillageGatherer135.titleShort>cueilleur</VFEM_VillageGatherer135.titleShort>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood running errands and helping with small tasks around the village. Whether delivering goods, fetching water, or mending fences, [PAWN_pronoun] was always willing to lend a hand. These simple chores instilled [PAWN_pronoun] with a strong work ethic and practical skills. -->
+<VFEM_VillageHelper132.description>{PAWN_nameDef} a passé son enfance à faire des courses et à aider aux petites tâches du village. Qu'il s'agisse de livrer des marchandises, d'aller chercher de l'eau ou de réparer des clôtures, {PAWN_pronoun} était toujours prêt{PAWN_gender ? : e } à donner un coup de main. Ces tâches simples lui ont inculqué une solide éthique du travail et des compétences pratiques.</VFEM_VillageHelper132.description>
+<!-- EN: village helper -->
+<VFEM_VillageHelper132.title>assistant du village</VFEM_VillageHelper132.title>
+<VFEM_VillageHelper132.titleFemale>assistante du village</VFEM_VillageHelper132.titleFemale>
+<!-- EN: helper -->
+<VFEM_VillageHelper132.titleShort>assistant</VFEM_VillageHelper132.titleShort>
+<VFEM_VillageHelper132.titleShortFemale>assistante</VFEM_VillageHelper132.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was often tasked with delivering messages and small packages between villagers. [PAWN_pronoun] spent countless hours running along dirt paths, learning the fastest routes and how to avoid danger. The constant movement made [PAWN_pronoun] quick and agile but left little time for rest or study. -->
+<VFEM_VillageRunner116.description>{PAWN_nameDef} était souvent chargé{PAWN_gender ? : e } de livrer des messages et des petits paquets entre les villageois. {PAWN_pronoun} passait d'innombrables heures à courir sur des chemins de terre, apprenant les itinéraires les plus rapides et comment éviter les dangers. Ce mouvement constant l{PAWN_gender ? e : a } rendait rapide et agile, mais lui laissait peu de temps pour se reposer ou étudier.</VFEM_VillageRunner116.description>
+<!-- EN: village runner -->
+<VFEM_VillageRunner116.title>coureur du village</VFEM_VillageRunner116.title>
+<VFEM_VillageRunner116.titleFemale>coureuse du village</VFEM_VillageRunner116.titleFemale>
+<!-- EN: runner -->
+<VFEM_VillageRunner116.titleShort>coureur</VFEM_VillageRunner116.titleShort>
+<VFEM_VillageRunner116.titleShortFemale>coureuse</VFEM_VillageRunner116.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was blamed for every broken tool, missing coin, or spoiled crop in the village, often regardless of [PAWN_possessive] involvement. The constant accusations taught [PAWN_pronoun] how to endure hardship and avoid confrontations. [PAWN_pronoun] grew to be resourceful but deeply mistrustful of authority. -->
+<VFEM_VillageScapegoat129.description>{PAWN_nameDef} était accusé{PAWN_gender ? : e } de tous les outils cassés, de toutes les pièces manquantes et de toutes les récoltes gâchées dans le village, souvent sans qu'{PAWN_pronoun} y soit pour quelque chose. Les accusations constantes lui ont appris à supporter les difficultés et à éviter les confrontations. {PAWN_pronoun} est devenu{PAWN_gender ? : e } débrouillard{PAWN_gender ? : e } mais profondément méfiant{PAWN_gender ? : e } à l'égard de l'autorité.</VFEM_VillageScapegoat129.description>
+<!-- EN: village scapegoat -->
+<VFEM_VillageScapegoat129.title>bouc émissaire du village</VFEM_VillageScapegoat129.title>
+<!-- EN: scapegoat -->
+<VFEM_VillageScapegoat129.titleShort>bouc émissaire</VFEM_VillageScapegoat129.titleShort>
+
+<!-- EN: [PAWN_nameDef] grew up as a street child in a small village, surviving by stealing scraps and begging from passersby. [PAWN_pronoun] quickly learned to navigate crowded markets and avoid the watchful eyes of the guards. Though [PAWN_pronoun] lacked formal education, [PAWN_pronoun] became clever and resourceful. -->
+<VFEM_VillageUrchin101.description>{PAWN_nameDef} a grandi comme un enfant des rues dans un petit village, survivant en volant des miettes et en mendiant auprès des passants. {PAWN_pronoun} a rapidement appris à se frayer un chemin dans les marchés bondés et à éviter les regards des gardes. Bien qu'{PAWN_pronoun} n'ait pas reçu d'éducation formelle, {PAWN_pronoun} est devenu{PAWN_gender ? : e } intelligent{PAWN_gender ? : te } et débrouillard{PAWN_gender ? : e }.</VFEM_VillageUrchin101.description>
+<!-- EN: village urchin -->
+<VFEM_VillageUrchin101.title>gamin du village</VFEM_VillageUrchin101.title>
+<VFEM_VillageUrchin101.titleFemale>gamine du village</VFEM_VillageUrchin101.titleFemale>
+<!-- EN: urchin -->
+<VFEM_VillageUrchin101.titleShort>gamin</VFEM_VillageUrchin101.titleShort>
+<VFEM_VillageUrchin101.titleShortFemale>gamine</VFEM_VillageUrchin101.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up lending a hand wherever [PAWN_pronoun] could, moving from farm to farm doing odd jobs. From tending crops to mending fences, [PAWN_pronoun] learned a little bit of everything but mastered none. Constantly on the move, [PAWN_pronoun] never formed close friendships but gained practical skills. -->
+<VFEM_WanderingHelper113.description>{PAWN_nameDef} a grandi en donnant un coup de main partout où {PAWN_pronoun} le pouvait, se déplaçant d'une ferme à l'autre pour effectuer de petits travaux. De l'entretien des cultures à la réparation des clôtures, {PAWN_pronoun} apprenait un peu de tout, mais ne maîtrisait rien. Constamment en mouvement, {PAWN_pronoun} n'a jamais noué d'amitiés étroites, mais {PAWN_pronoun} a acquis des compétences pratiques.</VFEM_WanderingHelper113.description>
+<!-- EN: wandering helper -->
+<VFEM_WanderingHelper113.title>assistant errant</VFEM_WanderingHelper113.title>
+<VFEM_WanderingHelper113.titleFemale>assistante errante</VFEM_WanderingHelper113.titleFemale>
+<!-- EN: helper -->
+<VFEM_WanderingHelper113.titleShort>assistant errant</VFEM_WanderingHelper113.titleShort>
+<VFEM_WanderingHelper113.titleShortFemale>assistante errante</VFEM_WanderingHelper113.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was responsible for keeping the village well clean and drawing water for the community. [PAWN_pronoun] grew strong from hauling heavy buckets and learned to maintain the mechanisms that made the work easier. The repetitive work left [PAWN_pronoun] with little variety but a dependable skill set. -->
+<VFEM_WellTender119.description>{PAWN_nameDef} était chargé{PAWN_gender ? : e } de maintenir le puits du village propre et de puiser l'eau pour la communauté. {PAWN_pronoun} s'est fortifié{PAWN_gender ? : e } en transportant de lourds seaux et a appris à entretenir les mécanismes qui facilitaient le travail. Le travail répétitif lui a laissé peu de variété mais un ensemble de compétences fiables.</VFEM_WellTender119.description>
+<!-- EN: well tender -->
+<VFEM_WellTender119.title>puiseur d'eau</VFEM_WellTender119.title>
+<VFEM_WellTender119.titleFemale>puiseuse d'eau</VFEM_WellTender119.titleFemale>
+<!-- EN: well tender -->
+<VFEM_WellTender119.titleShort>puiseur</VFEM_WellTender119.titleShort>
+<VFEM_WellTender119.titleShortFemale>puiseuse</VFEM_WellTender119.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up helping [PAWN_possessive] family cut trees and haul logs from the nearby forest. [PAWN_pronoun] quickly learned to handle axes and saws, developing both strength and skill. Though accustomed to hard labor, [PAWN_pronoun] rarely had time for anything beyond work and rest. -->
+<VFEM_WoodcuttersChild106.description>{PAWN_nameDef} a grandi en aidant sa famille à couper des arbres et à transporter des troncs d'arbres de la forêt voisine. {PAWN_pronoun} a rapidement appris à manier la hache et la scie, développant ainsi sa force et son habileté. Bien qu'habitué à travailler dur, {PAWN_pronoun} avait rarement le temps de se consacrer à autre chose qu'au travail et au repos.</VFEM_WoodcuttersChild106.description>
+<!-- EN: woodcutter's child -->
+<VFEM_WoodcuttersChild106.title>enfant de bûcheron</VFEM_WoodcuttersChild106.title>
+<!-- EN: woodcutter -->
+<VFEM_WoodcuttersChild106.titleShort>bûcheron</VFEM_WoodcuttersChild106.titleShort>
+<VFEM_WoodcuttersChild106.titleShortFemale>bûcheronne</VFEM_WoodcuttersChild106.titleShortFemale>
+
+
+<!-- EN: [PAWN_nameDef] crafted fine weapons and armor for knights and nobles, perfecting [PAWN_possessive] trade in the forge. [PAWN_pronoun] developed an unmatched skill in shaping steel into works of art and tools of war. Though a master artisan, [PAWN_pronoun] often neglected other aspects of life, focusing solely on [PAWN_possessive] craft. -->
+<VFEM_Armorer57.description>{PAWN_nameDef} a fabriqué des armes et des armures de qualité pour les chevaliers et les nobles, perfectionnant son métier dans la forge. {PAWN_pronoun} a développé une habileté inégalée à façonner l'acier pour en faire des œuvres d'art et des outils de guerre. Bien que maître artisan, {PAWN_pronoun} négligeait souvent les autres aspects de la vie, se concentrant uniquement sur son métier.</VFEM_Armorer57.description>
+<!-- EN: armorer -->
+<VFEM_Armorer57.title>armurier</VFEM_Armorer57.title>
+<!-- EN: armorer -->
+<VFEM_Armorer57.titleShort>armurier</VFEM_Armorer57.titleShort>
+
+<!-- EN: [PAWN_nameDef] was granted the title of baron and ruled over a small region in [PAWN_possessive] lord's service. [PAWN_pronoun] managed taxes, enforced laws, and led the local militia when needed. Though [PAWN_pronoun] excelled in leadership, [PAWN_pronoun] saw manual labor as the work of peasants. -->
+<VFEM_Baron67.description>{PAWN_nameDef} a reçu le titre de baron{PAWN_gender ? : ne } et a gouverné une petite région au service de son seigneur. {PAWN_pronoun} gérait les impôts, faisait respecter les lois et dirigeait la milice locale en cas de besoin. Bien qu'{PAWN_pronoun} excellait dans le commandement, {PAWN_pronoun} considérait le travail manuel comme celui des paysans.</VFEM_Baron67.description>
+<!-- EN: baron -->
+<VFEM_Baron67.title>baron</VFEM_Baron67.title>
+<VFEM_Baron67.titleFemale>baronne</VFEM_Baron67.titleFemale>
+<!-- EN: baron -->
+<VFEM_Baron67.titleShort>baron</VFEM_Baron67.titleShort>
+<VFEM_Baron67.titleShortFemale>baronne</VFEM_Baron67.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] presided over a vast forested estate, managing timber, game, and the people who lived beneath the canopy. [PAWN_pronoun] was skilled at balancing resource exploitation with conservation, ensuring the lordship’s wealth for generations. While [PAWN_pronoun] understood the land and its uses, [PAWN_pronoun] rarely participated in court politics. -->
+<VFEM_BaronOfTheWoodlands91.description>{PAWN_nameDef} présidait un vaste domaine forestier, gérant le bois, le gibier et les personnes qui vivaient sous la canopée. {PAWN_pronoun} savait équilibrer l'exploitation des ressources et la conservation, assurant ainsi la richesse de la seigneurie pour des générations. Bien qu'{PAWN_pronoun} connaissait la terre et ses usages, {PAWN_pronoun} ne participait que rarement à la politique de la cour.</VFEM_BaronOfTheWoodlands91.description>
+<!-- EN: baron of the woodlands -->
+<VFEM_BaronOfTheWoodlands91.title>baron des terres boisées</VFEM_BaronOfTheWoodlands91.title>
+<VFEM_BaronOfTheWoodlands91.titleFemale>baronne des terres boisées</VFEM_BaronOfTheWoodlands91.titleFemale>
+<!-- EN: woodland baron -->
+<VFEM_BaronOfTheWoodlands91.titleShort>baron de la forêt</VFEM_BaronOfTheWoodlands91.titleShort>
+<VFEM_BaronOfTheWoodlands91.titleShortFemale>baronne de la forêt</VFEM_BaronOfTheWoodlands91.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was known for [PAWN_possessive] ability to tame and train even the wildest of animals. [PAWN_pronoun] was often called upon to handle dangerous beasts, a skill that earned both admiration and fear. Years spent with creatures left [PAWN_pronoun] more at ease with animals than people. -->
+<VFEM_BeastTamer78.description>{PAWN_nameDef} était connu{PAWN_gender ? : e } pour sa capacité à apprivoiser et à dresser les animaux les plus sauvages. On lui demandait souvent de s'occuper de bêtes dangereuses, ce qui lui valait à la fois admiration et crainte. Les années passées avec les créatures l'ont rendu plus à l'aise avec les animaux qu'avec les gens.</VFEM_BeastTamer78.description>
+<!-- EN: beast tamer -->
+<VFEM_BeastTamer78.title>dompteur de bêtes</VFEM_BeastTamer78.title>
+<VFEM_BeastTamer78.titleFemale>dompteuse de bêtes</VFEM_BeastTamer78.titleFemale>
+<!-- EN: beast tamer -->
+<VFEM_BeastTamer78.titleShort>dompteur de bêtes</VFEM_BeastTamer78.titleShort>
+<VFEM_BeastTamer78.titleShortFemale>dompteuse de bêtes</VFEM_BeastTamer78.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was entrusted with the management of a noble's castle, ensuring its defenses were maintained and its residents well-cared for. [PAWN_pronoun] became an expert in logistics and leadership, coordinating repairs and overseeing the garrison. While skilled in administration and strategy, [PAWN_pronoun] left manual tasks to the servants. -->
+<VFEM_Castellan56.description>{PAWN_nameDef} s'est vu{PAWN_gender ? : e } confier la gestion du château d'un noble, s'assurant que ses défenses étaient maintenues et que ses résidents étaient bien soignés. {PAWN_pronoun} est devenu{PAWN_gender ? : e } un{PAWN_gender ? : e } expert{PAWN_gender ? : e } en logistique et en commandement, coordonnant les réparations et supervisant la garnison. Bien que doué{PAWN_gender ? : e } pour l'administration et la stratégie, {PAWN_pronoun} laissait les tâches manuelles aux serviteurs.</VFEM_Castellan56.description>
+<!-- EN: castellan -->
+<VFEM_Castellan56.title>châtelain</VFEM_Castellan56.title>
+<VFEM_Castellan56.titleFemale>châtelaine</VFEM_Castellan56.titleFemale>
+<!-- EN: castellan -->
+<VFEM_Castellan56.titleShort>châtelain</VFEM_Castellan56.titleShort>
+<VFEM_Castellan56.titleShortFemale>châtelaine</VFEM_Castellan56.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was entrusted with the armory of a great castle, overseeing the maintenance and distribution of weapons and armor. [PAWN_pronoun] became an expert in the design and upkeep of equipment, ensuring the garrison was always ready for battle. Though skilled in [PAWN_possessive] craft, [PAWN_pronoun] left combat to the knights [PAWN_pronoun] served. -->
+<VFEM_CastellanOfArms62.description>{PAWN_nameDef} s'est vu{PAWN_gender ? : e } confier l'armurerie d'un grand château, supervisant l'entretien et la distribution des armes et des armures. {PAWN_pronoun} devint un{PAWN_gender ? : e } expert{PAWN_gender ? : e } dans la conception et l'entretien de l'équipement, veillant à ce que la garnison soit toujours prête au combat. Bien qu'habile dans son métier, {PAWN_pronoun} laissait le combat aux chevaliers qu'{PAWN_pronoun} servait.</VFEM_CastellanOfArms62.description>
+<!-- EN: castellan of arms -->
+<VFEM_CastellanOfArms62.title>châtelain d'armes</VFEM_CastellanOfArms62.title>
+<VFEM_CastellanOfArms62.titleFemale>châtelaine d'armes</VFEM_CastellanOfArms62.titleFemale>
+<!-- EN: armorer -->
+<VFEM_CastellanOfArms62.titleShort>armurier</VFEM_CastellanOfArms62.titleShort>
+
+<!-- EN: [PAWN_nameDef] led a band of sworn warriors tasked with guarding the borderlands from threats beyond. [PAWN_pronoun] was skilled in tactics, inspiring loyalty in [PAWN_possessive] men while maintaining discipline in harsh conditions. Though [PAWN_pronoun] excelled in combat and leadership, [PAWN_pronoun] remained isolated from the intrigues of court life. -->
+<VFEM_CommanderOfTheWatch73.description>{PAWN_nameDef} était à la tête d'une bande de guerriers assermentés chargés de protéger les terres frontalières contre les menaces extérieures. Habile tacticien{PAWN_gender ? : ne }, {PAWN_pronoun} savait inspirer la loyauté à ses hommes tout en maintenant la discipline dans des conditions difficiles. Bien qu'{PAWN_pronoun} excellait dans le combat et le commandement, {PAWN_pronoun} restait à l'écart des intrigues de la cour.</VFEM_CommanderOfTheWatch73.description>
+<!-- EN: commander of the watch -->
+<VFEM_CommanderOfTheWatch73.title>commandant de la garde</VFEM_CommanderOfTheWatch73.title>
+<VFEM_CommanderOfTheWatch73.titleFemale>commandante de la garde</VFEM_CommanderOfTheWatch73.titleFemale>
+<!-- EN: commander -->
+<VFEM_CommanderOfTheWatch73.titleShort>commandant</VFEM_CommanderOfTheWatch73.titleShort>
+<VFEM_CommanderOfTheWatch73.titleShortFemale>commandante</VFEM_CommanderOfTheWatch73.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] entertained the courts of lords and kings with poetic tales, music, and sharp wit. [PAWN_pronoun] became a master of performance and an expert in reading the social dynamics of the nobility. Though praised for [PAWN_possessive] artistic brilliance, [PAWN_pronoun] avoided manual labor and relied on [PAWN_possessive] charm to navigate life. -->
+<VFEM_CourtBard54.description>{PAWN_nameDef} a diverti les cours des seigneurs et des rois avec des contes poétiques, de la musique et un esprit vif. {PAWN_pronoun} est devenu{PAWN_gender ? : e } un maître du spectacle et un{PAWN_gender ? : e } expert{PAWN_gender ? : e } dans la lecture des dynamiques sociales de la noblesse. Bien que loué{PAWN_gender ? : e } pour sa brillance artistique, {PAWN_pronoun} évitait le travail manuel et comptait sur son charme pour avancer dans la vie.</VFEM_CourtBard54.description>
+<!-- EN: court bard -->
+<VFEM_CourtBard54.title>barde de la cour</VFEM_CourtBard54.title>
+<!-- EN: bard -->
+<VFEM_CourtBard54.titleShort>barde</VFEM_CourtBard54.titleShort>
+
+<!-- EN: [PAWN_nameDef] served in the noble court, tending to the illnesses and injuries of the ruling family. [PAWN_pronoun] gained expertise in medicine and herbal remedies, becoming a trusted advisor in matters of health. Though valued for [PAWN_possessive] skills, [PAWN_pronoun] had little patience for physical labor. -->
+<VFEM_CourtPhysician60.description>{PAWN_nameDef} a servi à la cour des nobles, soignant les maladies et les blessures de la famille régnante. {PAWN_pronoun} acquit une expertise en médecine et en herboristerie, devenant un conseiller de confiance en matière de santé. Bien qu'apprécié{PAWN_gender ? : e } pour ses compétences, {PAWN_pronoun} n'avait guère de patience pour le travail physique.</VFEM_CourtPhysician60.description>
+<!-- EN: court physician -->
+<VFEM_CourtPhysician60.title>médecin de la cour</VFEM_CourtPhysician60.title>
+<!-- EN: physician -->
+<VFEM_CourtPhysician60.titleShort>médecin</VFEM_CourtPhysician60.titleShort>
+
+<!-- EN: [PAWN_nameDef] thrived in the cutthroat world of the royal court, manipulating allies and enemies alike to advance [PAWN_possessive] ambitions. [PAWN_pronoun] became skilled in deception, politics, and reading people’s motives. While [PAWN_pronoun] rarely took to the battlefield, [PAWN_pronoun] wielded words as effectively as others wielded swords. -->
+<VFEM_CourtSchemer74.description>{PAWN_nameDef} s'est épanoui{PAWN_gender ? : e } dans le monde impitoyable de la cour royale, manipulant alliés et ennemis pour faire avancer ses ambitions. {PAWN_pronoun} est devenu{PAWN_gender ? : e } doué{PAWN_gender ? : e } pour la tromperie, la politique et l'interprétation des motivations des gens. Bien qu'{PAWN_pronoun} n'ait que rarement été sur le champ de bataille, {PAWN_pronoun} maniait les mots aussi efficacement que d'autres maniaient l'épée.</VFEM_CourtSchemer74.description>
+<!-- EN: court schemer -->
+<VFEM_CourtSchemer74.title>comploteur de la cour</VFEM_CourtSchemer74.title>
+<VFEM_CourtSchemer74.titleFemale>comploteuse de la cour</VFEM_CourtSchemer74.titleFemale>
+<!-- EN: schemer -->
+<VFEM_CourtSchemer74.titleShort>comploteur</VFEM_CourtSchemer74.titleShort>
+<VFEM_CourtSchemer74.titleShortFemale>comploteuse</VFEM_CourtSchemer74.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] squandered [PAWN_possessive] family’s wealth on lavish parties and indulgent pursuits, earning the ire of [PAWN_possessive] peers. Though well-versed in etiquette and manipulation, [PAWN_pronoun] alienated allies and left [PAWN_possessive] family struggling to maintain their status. [PAWN_pronoun] remains charming but untrustworthy. -->
+<VFEM_DebauchedAristocrat83.description>{PAWN_nameDef} a dilapidé la richesse de sa famille dans des fêtes somptueuses et des activités complaisantes, s'attirant ainsi l'ire de ses pairs. Bien que rompu aux convenances et à la manipulation, {PAWN_pronoun} s'est aliéné{PAWN_gender ? : e } des alliés et a laissé sa famille se débattre pour maintenir son statut. {PAWN_pronoun} est toujours aussi charmant{PAWN_gender ? : e } mais indigne de confiance.</VFEM_DebauchedAristocrat83.description>
+<!-- EN: debauched aristocrat -->
+<VFEM_DebauchedAristocrat83.title>aristocrate dévergondé</VFEM_DebauchedAristocrat83.title>
+<VFEM_DebauchedAristocrat83.titleFemale>aristocrate dévergondée</VFEM_DebauchedAristocrat83.titleFemale>
+<!-- EN: debauched -->
+<VFEM_DebauchedAristocrat83.titleShort>dévergondé</VFEM_DebauchedAristocrat83.titleShort>
+<VFEM_DebauchedAristocrat83.titleShortFemale>dévergondée</VFEM_DebauchedAristocrat83.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] traveled between courts, negotiating treaties and mediating disputes between noble houses. [PAWN_pronoun] excelled in persuasion and understanding the intricacies of politics, earning a reputation for tact and wisdom. [PAWN_pronoun] left physical tasks to others, relying on [PAWN_possessive] intellect and charm to succeed. -->
+<VFEM_Diplomat58.description>{PAWN_nameDef} voyageait d'une cour à l'autre, négociant des traités et arbitrant des conflits entre maisons nobles. {PAWN_pronoun} excellait dans la persuasion et la compréhension des subtilités de la politique, ce qui lui valut une réputation de tact et de sagesse. {PAWN_pronoun} laissait les tâches physiques à d'autres, comptant sur son intelligence et son charme pour réussir.</VFEM_Diplomat58.description>
+<!-- EN: diplomat -->
+<VFEM_Diplomat58.title>diplomate</VFEM_Diplomat58.title>
+<!-- EN: diplomat -->
+<VFEM_Diplomat58.titleShort>diplomate</VFEM_Diplomat58.titleShort>
+
+<!-- EN: [PAWN_nameDef] was once poised to inherit a noble title, but a scandal stripped [PAWN_objective] of [PAWN_possessive] birthright. Cast out from [PAWN_possessive] family, [PAWN_pronoun] became a shadow of [PAWN_possessive] former self, surviving through cunning and scraps of [PAWN_possessive] once-great wealth. Though [PAWN_pronoun] retained the manners of a noble, [PAWN_pronoun] was shunned by high society. -->
+<VFEM_DisgracedHeir81.description>{PAWN_nameDef} était sur le point d'hériter d'un titre de noblesse, mais un scandale l'a privé de son droit d'aînesse. Chassé{PAWN_gender ? : e } de sa famille, {PAWN_pronoun} est devenu{PAWN_gender ? : e } l'ombre de {PAWN_objective}-même, survivant grâce à la ruse et aux miettes de sa richesse passée. Bien qu'{PAWN_pronoun} ait conservé les manières d'un noble, {PAWN_pronoun} a été rejeté{PAWN_gender ? : e } par la haute société.</VFEM_DisgracedHeir81.description>
+<!-- EN: disgraced heir -->
+<VFEM_DisgracedHeir81.title>héritier déchu</VFEM_DisgracedHeir81.title>
+<VFEM_DisgracedHeir81.titleFemale>héritière déchue</VFEM_DisgracedHeir81.titleFemale>
+<!-- EN: disgraced -->
+<VFEM_DisgracedHeir81.titleShort>disgracié</VFEM_DisgracedHeir81.titleShort>
+<VFEM_DisgracedHeir81.titleShortFemale>disgraciée</VFEM_DisgracedHeir81.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was banished from [PAWN_possessive] homeland after losing a power struggle within [PAWN_possessive] family. Forced to flee, [PAWN_pronoun] lived in obscurity, using [PAWN_possessive] charm and wit to survive in foreign lands. While [PAWN_pronoun] retained noble airs, [PAWN_pronoun] struggled to regain the privileges of [PAWN_possessive] birth. -->
+<VFEM_ExiledNoble82.description>{PAWN_nameDef} a été banni{PAWN_gender ? : e } de son pays après avoir perdu une lutte de pouvoir au sein de sa famille. Contraint de fuir, {PAWN_pronoun} a vécu dans l'obscurité, usant de son charme et de son esprit pour survivre en terre étrangère. Bien qu'{PAWN_pronoun} ait conservé des airs nobles, {PAWN_pronoun} s'est battu{PAWN_gender ? : e } pour retrouver les privilèges de sa naissance.</VFEM_ExiledNoble82.description>
+<!-- EN: exiled noble -->
+<VFEM_ExiledNoble82.title>noble exilé</VFEM_ExiledNoble82.title>
+<!-- EN: exiled -->
+<VFEM_ExiledNoble82.titleShort>exilé</VFEM_ExiledNoble82.titleShort>
+<VFEM_ExiledNoble82.titleShortFemale>exilée</VFEM_ExiledNoble82.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] trained and cared for hunting birds, guiding them to track prey for [PAWN_possessive] lord. [PAWN_pronoun] developed a deep understanding of animal behavior and earned respect for [PAWN_possessive] skill in falconry. While skilled with animals, [PAWN_pronoun] had little experience with tasks unrelated to [PAWN_possessive] craft. -->
+<VFEM_Falconer76.description>{PAWN_nameDef} a dressé et soigné des oiseaux de chasse, les guidant pour traquer des proies pour son seigneur. {PAWN_pronoun} a acquis une connaissance approfondie du comportement des animaux et s'est fait{PAWN_gender ? : e } respecter pour ses compétences en fauconnerie. Bien que doué{PAWN_gender ? : e } avec les animaux, {PAWN_pronoun} n'a que peu d'expérience dans les tâches qui ne sont pas liées à son métier.</VFEM_Falconer76.description>
+<!-- EN: falconer -->
+<VFEM_Falconer76.title>fauconnier</VFEM_Falconer76.title>
+<VFEM_Falconer76.titleFemale>fauconnière</VFEM_Falconer76.titleFemale>
+<!-- EN: falconer -->
+<VFEM_Falconer76.titleShort>fauconnier</VFEM_Falconer76.titleShort>
+<VFEM_Falconer76.titleShortFemale>fauconnière</VFEM_Falconer76.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] once swore an oath of loyalty as a knight but broke [PAWN_possessive] vows in pursuit of personal gain. Disgraced and stripped of [PAWN_possessive] title, [PAWN_pronoun] now wanders as a sell-sword, haunted by [PAWN_possessive] dishonor. Though [PAWN_pronoun] retains [PAWN_possessive] combat skills, [PAWN_pronoun] struggles to regain the respect [PAWN_pronoun] once commanded. -->
+<VFEM_FallenKnight85.description>{PAWN_nameDef} a jadis prêté serment de loyauté en tant que chevalier, mais {PAWN_pronoun} a rompu ses vœux à la recherche d'un gain personnel. Déshonoré{PAWN_gender ? : e } et déchu{PAWN_gender ? : e } de son titre, {PAWN_pronoun} erre aujourd'hui en tant qu'épée à vendre, hanté par son déshonneur. Bien qu'{PAWN_pronoun} conserve ses talents de combattant, {PAWN_pronoun} lutte pour regagner le respect qu'{PAWN_pronoun} inspirait autrefois.</VFEM_FallenKnight85.description>
+<!-- EN: fallen knight -->
+<VFEM_FallenKnight85.title>chevalier déchu</VFEM_FallenKnight85.title>
+<!-- EN: fallen knight -->
+<VFEM_FallenKnight85.titleShort>chevalier déchu</VFEM_FallenKnight85.titleShort>
+
+<!-- EN: [PAWN_nameDef] led a prosperous guild, coordinating the efforts of skilled artisans and merchants. [PAWN_pronoun] became a shrewd leader and negotiator, balancing trade and politics to secure the guild's interests. While brilliant in leadership, [PAWN_pronoun] rarely engaged in the craft [PAWN_pronoun] oversaw. -->
+<VFEM_Guildmaster59.description>{PAWN_nameDef} était à la tête d'une guilde prospère, coordonnant les efforts d'artisans et de marchands qualifiés. {PAWN_pronoun} est devenu{PAWN_gender ? : e } un chef et un{PAWN_gender ? : e } négociat{PAWN_gender ? eur: rice } avisé{PAWN_gender ? : e }, équilibrant le commerce et la politique pour garantir les intérêts de la guilde. Bien que brillant dans son rôle de dirigeant, {PAWN_pronoun} s'adonnait rarement à l'artisanat qu'{PAWN_pronoun} supervisait.</VFEM_Guildmaster59.description>
+<!-- EN: guildmaster -->
+<VFEM_Guildmaster59.title>maître de guilde</VFEM_Guildmaster59.title>
+<!-- EN: guildmaster -->
+<VFEM_Guildmaster59.titleShort>maître de guilde</VFEM_Guildmaster59.titleShort>
+
+<!-- EN: [PAWN_nameDef] was born into one of the most powerful noble families in the land, growing up surrounded by luxury and political intrigue. [PAWN_pronoun] mastered the art of diplomacy and the subtleties of court politics, earning a reputation as a skilled negotiator. While proficient in social and intellectual pursuits, [PAWN_pronoun] relied entirely on servants for physical tasks. -->
+<VFEM_HighNoble68.description>{PAWN_nameDef} est né{PAWN_gender ? : e } dans l'une des familles nobles les plus puissantes du pays. {PAWN_pronoun} a grandi au milieu du luxe et des intrigues politiques. {PAWN_pronoun} maîtrise l'art de la diplomatie et les subtilités de la politique de la cour, se forgeant une réputation de négociat{PAWN_gender ? eur : rice } hors pair. Bien que doué{PAWN_gender ? : e } pour les activités sociales et intellectuelles, {PAWN_pronoun} s'en remettait entièrement à ses serviteurs pour les tâches physiques.</VFEM_HighNoble68.description>
+<!-- EN: high noble -->
+<VFEM_HighNoble68.title>haut noble</VFEM_HighNoble68.title>
+<!-- EN: noble -->
+<VFEM_HighNoble68.titleShort>noble</VFEM_HighNoble68.titleShort>
+
+<!-- EN: [PAWN_nameDef] served as the spiritual leader of an influential ideology, presiding over rituals and interpreting sacred texts. [PAWN_pronoun] became a master of oratory and philosophy, guiding [PAWN_possessive] followers through times of prosperity and hardship. Though revered for [PAWN_possessive] wisdom, [PAWN_pronoun] rarely engaged in physical labor. -->
+<VFEM_HighPriest96.description>{PAWN_nameDef} a été le chef spirituel d'une idéologie influente, présidant les rituels et interprétant les textes sacrés. {PAWN_pronoun} est devenu{PAWN_gender ? : e } un maître de l'art oratoire et de la philosophie, guidant ses disciples dans les périodes de prospérité et de difficultés. Bien que vénéré{PAWN_gender ? : e } pour sa sagesse, {PAWN_pronoun} s'adonnait rarement au travail physique.</VFEM_HighPriest96.description>
+<!-- EN: high priest -->
+<VFEM_HighPriest96.title>grand prêtre</VFEM_HighPriest96.title>
+<VFEM_HighPriest96.titleFemale>grande prêtresse</VFEM_HighPriest96.titleFemale>
+<!-- EN: priest -->
+<VFEM_HighPriest96.titleShort>prêtre</VFEM_HighPriest96.titleShort>
+<VFEM_HighPriest96.titleShortFemale>prêtresse</VFEM_HighPriest96.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] fought to spread [PAWN_possessive] ideology by force, leading armies in its name. [PAWN_pronoun] was a fearsome warrior and an inspiring leader, rallying others to [PAWN_possessive] cause with [PAWN_possessive] fervor. While skilled in combat and persuasion, [PAWN_pronoun] lacked the patience for intellectual pursuits. -->
+<VFEM_IdeologicalCrusader99.description>{PAWN_nameDef} s'est battu{PAWN_gender ? : e } pour répandre son idéologie par la force, en menant des armées en son nom. C'était un{PAWN_gender ? : e } guerri{PAWN_gender ? er : ère } redoutable et un chef inspirant, ralliant les autres à sa cause par sa ferveur. Habile au combat et à la persuasion, {PAWN_pronoun} n'avait pas la patience de s'adonner à des activités intellectuelles.</VFEM_IdeologicalCrusader99.description>
+<!-- EN: ideological crusader -->
+<VFEM_IdeologicalCrusader99.title>croisé idéologique</VFEM_IdeologicalCrusader99.title>
+<!-- EN: crusader -->
+<VFEM_IdeologicalCrusader99.titleShort>croisé</VFEM_IdeologicalCrusader99.titleShort>
+
+<!-- EN: [PAWN_nameDef] traveled from village to village, delivering sermons and spreading the tenets of [PAWN_possessive] ideology. [PAWN_pronoun] was a charismatic speaker, capable of inspiring devotion or stirring up rebellion. Though skilled at rallying others, [PAWN_pronoun] had little experience with physical labor or practical skills. -->
+<VFEM_IdeologicalOrator100.description>{PAWN_nameDef} voyagait de village en village, prononçant des sermons et diffusant les principes de son idéologie. C'était un{PAWN_gender ? : e } orat{PAWN_gender ? eur : rice } charismatique, capable d'inspirer la dévotion ou de susciter la rébellion. Bien que doué{PAWN_gender ? : e } pour rallier les autres, {PAWN_pronoun} n'avait que peu d'expérience en matière de travail physique ou de compétences pratiques.</VFEM_IdeologicalOrator100.description>
+<!-- EN: ideological orator -->
+<VFEM_IdeologicalOrator100.title>orateur idéologique</VFEM_IdeologicalOrator100.title>
+<VFEM_IdeologicalOrator100.titleFemale>oratrice idéologique</VFEM_IdeologicalOrator100.titleFemale>
+<!-- EN: orator -->
+<VFEM_IdeologicalOrator100.titleShort>orateur</VFEM_IdeologicalOrator100.titleShort>
+<VFEM_IdeologicalOrator100.titleShortFemale>oratrice</VFEM_IdeologicalOrator100.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] devoted [PAWN_possessive] life to studying the tenets of [PAWN_possessive] ideology, crafting treatises and debating its principles with others. [PAWN_pronoun] became highly respected for [PAWN_possessive] intellect and insight, often advising leaders on spiritual and ethical matters. While brilliant in [PAWN_possessive] field, [PAWN_pronoun] avoided manual or practical work. -->
+<VFEM_IdeologicalScholar97.description>{PAWN_nameDef} a consacré sa vie à étudier les principes de son idéologie, à rédiger des traités et à débattre de ses principes avec d'autres. {PAWN_pronoun} est devenu{PAWN_gender ? : e } très respecté{PAWN_gender ? : e } pour son intelligence et sa perspicacité, conseillant souvent les dirigeants sur des questions spirituelles et éthiques. Bien que brillant dans son domaine, {PAWN_pronoun} évitait tout travail manuel ou pratique.</VFEM_IdeologicalScholar97.description>
+<!-- EN: ideological scholar -->
+<VFEM_IdeologicalScholar97.title>érudit idéologique</VFEM_IdeologicalScholar97.title>
+<!-- EN: scholar -->
+<VFEM_IdeologicalScholar97.titleShort>érudit</VFEM_IdeologicalScholar97.titleShort>
+
+<!-- EN: [PAWN_nameDef] was entrusted with safeguarding the sacred artifacts of [PAWN_possessive] ideology, protecting them from harm and ensuring they were used in rituals. [PAWN_pronoun] developed a meticulous attention to detail and a deep reverence for [PAWN_possessive] duties. However, [PAWN_pronoun] lacked skills outside the preservation of relics and ceremonies. -->
+<VFEM_KeeperOfRelics98.description>{PAWN_nameDef} était chargé{PAWN_gender ? : e } de sauvegarder les objets sacrés de son idéologie, de les protéger et de veiller à ce qu'ils soient utilisés lors des rituels. {PAWN_pronoun} a développé une attention méticuleuse aux détails et un profond respect pour ses devoirs. Cependant, {PAWN_pronoun} manquait de compétences en dehors de la préservation des reliques et des cérémonies.</VFEM_KeeperOfRelics98.description>
+<!-- EN: keeper of relics -->
+<VFEM_KeeperOfRelics98.title>gardien de reliques</VFEM_KeeperOfRelics98.title>
+<VFEM_KeeperOfRelics98.titleFemale>gardienne de reliques</VFEM_KeeperOfRelics98.titleFemale>
+<!-- EN: keeper -->
+<VFEM_KeeperOfRelics98.titleShort>gardien</VFEM_KeeperOfRelics98.titleShort>
+<VFEM_KeeperOfRelics98.titleShortFemale>gardienne</VFEM_KeeperOfRelics98.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] managed vast flocks of sheep and herds of cattle for [PAWN_possessive] noble family, ensuring the animals thrived year-round. [PAWN_pronoun] developed an unmatched understanding of animal care and breeding while overseeing the laborers who worked under [PAWN_objective]. Though well-respected in [PAWN_possessive] rural domain, [PAWN_pronoun] had little experience with urban or military life. -->
+<VFEM_KeeperOfTheHerds93.description>{PAWN_nameDef} s'occupait de vastes troupeaux de moutons et de bovins pour sa noble famille, veillant à ce que les animaux prospèrent tout au long de l'année. {PAWN_pronoun} a développé une compréhension inégalée des soins et de l'élevage des animaux tout en supervisant les ouvriers qui travaillaient sous ses ordres. Bien que très respecté{PAWN_gender ? : e } dans son domaine rural, {PAWN_pronoun} n'avait que peu d'expérience de la vie urbaine ou militaire.</VFEM_KeeperOfTheHerds93.description>
+<!-- EN: keeper of the herds -->
+<VFEM_KeeperOfTheHerds93.title>gardien des troupeaux</VFEM_KeeperOfTheHerds93.title>
+<VFEM_KeeperOfTheHerds93.titleFemale>gardienne des troupeaux</VFEM_KeeperOfTheHerds93.titleFemale>
+<!-- EN: herd keeper -->
+<VFEM_KeeperOfTheHerds93.titleShort>gardien de troupeau</VFEM_KeeperOfTheHerds93.titleShort>
+<VFEM_KeeperOfTheHerds93.titleShortFemale>gardienne de troupeau</VFEM_KeeperOfTheHerds93.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] cared for the lord’s hunting dogs, training them for the chase and keeping them healthy. [PAWN_pronoun] became skilled at managing animals and handling their temperaments, earning trust as an expert handler. [PAWN_pronoun] often spent more time with dogs than people, leaving [PAWN_pronoun] socially awkward. -->
+<VFEM_KennelMaster77.description>{PAWN_nameDef} s'occupait des chiens de chasse du seigneur, les entraînant à la chasse et les gardant en bonne santé. {PAWN_pronoun} est devenu{PAWN_gender ? : e } habile à gérer les animaux et à gérer leur tempérament, gagnant la confiance des gens en tant que maître-chien expert. {PAWN_pronoun} passait souvent plus de temps avec les chiens qu'avec les gens, ce qui l{PAWN_gender ? e : a } rendait socialement maladroit.</VFEM_KennelMaster77.description>
+<!-- EN: kennel master -->
+<VFEM_KennelMaster77.title>maître de chenil</VFEM_KennelMaster77.title>
+<!-- EN: kennel master -->
+<VFEM_KennelMaster77.titleShort>maître de chenil</VFEM_KennelMaster77.titleShort>
+
+<!-- EN: [PAWN_nameDef] rose from the ranks of squires to earn [PAWN_possessive] title as a knight through courage and dedication. [PAWN_pronoun] became a master of swordplay and horseback combat, leading troops and protecting the realm with honor. While skilled in warfare, [PAWN_pronoun] considered manual labor beneath [PAWN_objective] and rarely engaged in menial tasks. -->
+<VFEM_Knight51.description>{PAWN_nameDef} s'est élevé{PAWN_gender ? : e } depuis le rang des écuyers pour mériter son titre de chevalier grâce à son courage et à son dévouement. {PAWN_pronoun} est devenu{PAWN_gender ? : e } un maître du maniement de l'épée et du combat à cheval, menant des troupes et protégeant le royaume avec honneur. Bien que doué{PAWN_gender ? : e } pour la guerre, {PAWN_pronoun} considérait le travail manuel comme indigne de {PAWN_objective} et s'engageait rarement dans des tâches subalternes.</VFEM_Knight51.description>
+<!-- EN: knight -->
+<VFEM_Knight51.title>chevalier</VFEM_Knight51.title>
+<!-- EN: knight -->
+<VFEM_Knight51.titleShort>chevalier</VFEM_Knight51.titleShort>
+
+<!-- EN: [PAWN_nameDef] led a company of knights into battle, earning [PAWN_possessive] title through years of skill and strategy. [PAWN_pronoun] excelled at coordinating troops, inspiring loyalty among [PAWN_possessive] men, and devising battle plans. While unmatched in leadership and combat, [PAWN_pronoun] considered manual labor beneath [PAWN_objective]. -->
+<VFEM_KnightCommander61.description>{PAWN_nameDef} a mené une compagnie de chevaliers au combat, gagnant son titre grâce à des années d'habileté et de stratégie. {PAWN_pronoun} excellait à coordonner les troupes, à inspirer la loyauté à ses hommes et à élaborer des plans de bataille. Bien qu'inégalé{PAWN_gender ? : e } en matière de commandement et de combat, {PAWN_pronoun} considérait que le travail manuel lui était inférieur.</VFEM_KnightCommander61.description>
+<!-- EN: knight commander -->
+<VFEM_KnightCommander61.title>chevalier commandant</VFEM_KnightCommander61.title>
+<!-- EN: commander -->
+<VFEM_KnightCommander61.titleShort>commandant</VFEM_KnightCommander61.titleShort>
+<VFEM_KnightCommander61.titleShortFemale>commandante</VFEM_KnightCommander61.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] wandered the land as a knight errant, seeking to prove [PAWN_possessive] valor through combat and acts of chivalry. [PAWN_pronoun] mastered swordsmanship and gained a reputation for [PAWN_possessive] fearless bravery. While skilled in combat and diplomacy, [PAWN_pronoun] neglected practical skills during [PAWN_possessive] travels. -->
+<VFEM_KnightErrant63.description>{PAWN_nameDef} a erré dans le pays comme un chevalier errant, cherchant à prouver sa valeur par le combat et les actes de chevalerie. {PAWN_pronoun} maîtrise l'art de l'épée et acquiert une réputation de bravoure intrépide. Bien que doué{PAWN_gender ? : e } pour le combat et la diplomatie, {PAWN_pronoun} a négligé les compétences pratiques au cours de ses voyages.</VFEM_KnightErrant63.description>
+<!-- EN: knight errant -->
+<VFEM_KnightErrant63.title>chevalier errant</VFEM_KnightErrant63.title>
+<!-- EN: errant -->
+<VFEM_KnightErrant63.titleShort>errant</VFEM_KnightErrant63.titleShort>
+<VFEM_KnightErrant63.titleShortFemale>errante</VFEM_KnightErrant63.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was granted a small estate in reward for [PAWN_possessive] service in battle. [PAWN_pronoun] balanced managing the land and protecting the local peasants, maintaining [PAWN_possessive] fighting skills while overseeing daily operations. Though a capable warrior and leader, [PAWN_pronoun] lacked the refinement of courtly life. -->
+<VFEM_LandedKnight87.description>{PAWN_nameDef} s'est vu{PAWN_gender ? : e } accorder un petit domaine en récompense de ses services au combat. {PAWN_pronoun} a su concilier la gestion des terres et la protection des paysans locaux, en conservant ses talents de combattant tout en supervisant les opérations quotidiennes. Bien qu'{PAWN_pronoun} soit un{PAWN_gender ? : e } guerri{PAWN_gender ? er : ère } et un chef compétent, {PAWN_pronoun} n'a pas le raffinement de la vie à la cour.</VFEM_LandedKnight87.description>
+<!-- EN: landed knight -->
+<VFEM_LandedKnight87.title>chevalier foncier</VFEM_LandedKnight87.title>
+<!-- EN: knight -->
+<VFEM_LandedKnight87.titleShort>chevalier</VFEM_LandedKnight87.titleShort>
+
+<!-- EN: [PAWN_nameDef] was born as the eldest child of a noble family, destined to inherit the estate and title. [PAWN_pronoun] received the finest education in governance, diplomacy, and warfare. While skilled in leadership and strategy, [PAWN_pronoun] avoided physical labor, seeing it as beneath [PAWN_objective]. -->
+<VFEM_LordsHeir66.description>{PAWN_nameDef} est né{PAWN_gender ? : e } comme l'aîné d'une famille noble, destiné à hériter du domaine et du titre. {PAWN_pronoun} reçut la meilleure éducation possible en matière de gouvernance, de diplomatie et de guerre. Bien que doué{PAWN_gender ? : e } pour le commandement et la stratégie, {PAWN_pronoun} évitait le travail physique, qu'{PAWN_pronoun} considérait comme indigne de {PAWN_objective}.</VFEM_LordsHeir66.description>
+<!-- EN: lord's heir -->
+<VFEM_LordsHeir66.title>héritier du seigneur</VFEM_LordsHeir66.title>
+<VFEM_LordsHeir66.titleFemale>héritière du seigneur</VFEM_LordsHeir66.titleFemale>
+<!-- EN: heir -->
+<VFEM_LordsHeir66.titleShort>héritier</VFEM_LordsHeir66.titleShort>
+<VFEM_LordsHeir66.titleShortFemale>héritière</VFEM_LordsHeir66.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] ruled over a countryside manor, overseeing the labor of serfs and ensuring the productivity of [PAWN_possessive] lands. [PAWN_pronoun] was skilled in managing people and resources, often mediating disputes and collecting taxes. Though respected locally, [PAWN_pronoun] had little exposure to the broader politics of noble society. -->
+<VFEM_ManorLord86.description>{PAWN_nameDef} régnait sur un manoir de campagne, supervisant le travail des serfs et assurant la productivité de ses terres. {PAWN_pronoun} était doué{PAWN_gender ? : e } pour gérer les gens et les ressources, jouant souvent le rôle de médiateur dans les conflits et collectant les impôts. Bien que respecté{PAWN_gender ? : e } localement, {PAWN_pronoun} n'a guère été exposé{PAWN_gender ? : e } à la politique générale de la société noble.</VFEM_ManorLord86.description>
+<!-- EN: manor lord -->
+<VFEM_ManorLord86.title>seigneur du manoir</VFEM_ManorLord86.title>
+<VFEM_ManorLord86.titleFemale>seigneuresse du manoir</VFEM_ManorLord86.titleFemale>
+<!-- EN: lord -->
+<VFEM_ManorLord86.titleShort>seigneur</VFEM_ManorLord86.titleShort>
+<VFEM_ManorLord86.titleShortFemale>seigneuresse</VFEM_ManorLord86.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] served as the spymaster for a great lord, gathering intelligence through a network of informants and spies. [PAWN_pronoun] became an expert in intrigue, manipulation, and uncovering secrets, often wielding information as a weapon. While skilled in subterfuge, [PAWN_pronoun] avoided physical confrontations, preferring to work behind the scenes. -->
+<VFEM_MasterOfWhispers72.description>{PAWN_nameDef} a été le maître espion d'un grand seigneur, recueillant des renseignements grâce à un réseau d'informateurs et d'espions. {PAWN_pronoun} est devenu{PAWN_gender ? : e } un{PAWN_gender ? : e } expert{PAWN_gender ? : e } en intrigues, en manipulations et en découverte de secrets, maniant souvent l'information comme une arme. Bien que doué{PAWN_gender ? : e } pour les subterfuges, {PAWN_pronoun} évite les confrontations physiques, préférant travailler dans l'ombre.</VFEM_MasterOfWhispers72.description>
+<!-- EN: master of whispers -->
+<VFEM_MasterOfWhispers72.title>maître des chuchoteurs</VFEM_MasterOfWhispers72.title>
+<!-- EN: spymaster -->
+<VFEM_MasterOfWhispers72.titleShort>maître-espion</VFEM_MasterOfWhispers72.titleShort>
+
+<!-- EN: [PAWN_nameDef] built [PAWN_possessive] wealth through savvy trade, traveling across regions to barter exotic goods and secure lucrative deals. [PAWN_pronoun] became highly skilled in negotiation and logistics, ensuring the success of [PAWN_possessive] ventures. Though financially successful, [PAWN_pronoun] relied on others for physical labor and practical skills. -->
+<VFEM_Merchant52.description>{PAWN_nameDef} a bâti sa fortune grâce à un commerce avisé, voyageant d'une région à l'autre pour troquer des marchandises exotiques et conclure des accords lucratifs. {PAWN_pronoun} est devenu{PAWN_gender ? : e } très compétent{PAWN_gender ? : e } en matière de négociation et de logistique, assurant ainsi le succès de ses entreprises. Bien qu'{PAWN_pronoun} ait réussi financièrement, {PAWN_pronoun} s'est appuyé{PAWN_gender ? : e } sur d'autres personnes pour le travail physique et les compétences pratiques.</VFEM_Merchant52.description>
+<!-- EN: merchant -->
+<VFEM_Merchant52.title>marchand</VFEM_Merchant52.title>
+<VFEM_Merchant52.titleFemale>marchande</VFEM_Merchant52.titleFemale>
+<!-- EN: merchant -->
+<VFEM_Merchant52.titleShort>marchand</VFEM_Merchant52.titleShort>
+<VFEM_Merchant52.titleShortFemale>marchande</VFEM_Merchant52.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was sent to foreign courts as a representative of [PAWN_possessive] family, brokering alliances and treaties. [PAWN_pronoun] became skilled in diplomacy and negotiation, earning admiration for [PAWN_possessive] eloquence and charm. However, [PAWN_pronoun] relied on servants for physical labor and rarely engaged in manual tasks. -->
+<VFEM_NobleDiplomat69.description>{PAWN_nameDef} était envoyé{PAWN_gender ? : e } dans les cours étrangères en tant que représentant de sa famille, négociant des alliances et des traités. {PAWN_pronoun} devient habile dans la diplomatie et la négociation, gagnant l'admiration pour son éloquence et son charme. Cependant, {PAWN_pronoun} s'en remettait à des serviteurs pour le travail physique et s'adonnait rarement à des tâches manuelles.</VFEM_NobleDiplomat69.description>
+<!-- EN: noble diplomat -->
+<VFEM_NobleDiplomat69.title>diplomate noble</VFEM_NobleDiplomat69.title>
+<!-- EN: diplomat -->
+<VFEM_NobleDiplomat69.titleShort>diplomate</VFEM_NobleDiplomat69.titleShort>
+
+<!-- EN: [PAWN_nameDef] grew up surrounded by wealth and privilege, trained from a young age to govern lands and lead people. [PAWN_pronoun] mastered the art of diplomacy and honed [PAWN_possessive] skills in archery and strategy to prepare for [PAWN_possessive] future responsibilities. However, [PAWN_pronoun] considered manual work beneath [PAWN_objective] and delegated such tasks to servants. -->
+<VFEM_NobleHeir53.description>{PAWN_nameDef} a grandi entouré de richesses et de privilèges et a été formé{PAWN_gender ? : e } dès son plus jeune âge à gouverner des territoires et à diriger des peuples. {PAWN_pronoun} maîtrise l'art de la diplomatie et perfectionne ses compétences en tir à l'arc et en stratégie pour se préparer à ses futures responsabilités. Cependant, {PAWN_pronoun} considérait le travail manuel comme indigne de {PAWN_objective} et déléguait ces tâches à des serviteurs.</VFEM_NobleHeir53.description>
+<!-- EN: noble heir -->
+<VFEM_NobleHeir53.title>héritier noble</VFEM_NobleHeir53.title>
+<VFEM_NobleHeir53.titleFemale>héritière noble</VFEM_NobleHeir53.titleFemale>
+<!-- EN: noble -->
+<VFEM_NobleHeir53.titleShort>noble</VFEM_NobleHeir53.titleShort>
+
+<!-- EN: [PAWN_nameDef] protected the countryside estates and nearby villages from bandits and wild beasts. [PAWN_pronoun] served as a bridge between the nobility and common folk, maintaining order through diplomacy and strength. Though skilled in combat and negotiation, [PAWN_pronoun] remained rooted in the simplicity of rural life. -->
+<VFEM_PastoralGuardian90.description>{PAWN_nameDef} protégeait les domaines ruraux et les villages voisins des bandits et des bêtes sauvages. {PAWN_pronoun} servait de pont entre la noblesse et les gens du peuple, maintenant l'ordre par la diplomatie et la force. Bien qu'{PAWN_pronoun} soit doué{PAWN_gender ? : e } pour le combat et la négociation, {PAWN_pronoun} reste attaché{PAWN_gender ? : e } à la simplicité de la vie rurale.</VFEM_PastoralGuardian90.description>
+<!-- EN: pastoral guardian -->
+<VFEM_PastoralGuardian90.title>gardien pastoral</VFEM_PastoralGuardian90.title>
+<VFEM_PastoralGuardian90.titleFemale>gardienne pastoral</VFEM_PastoralGuardian90.titleFemale>
+<!-- EN: guardian -->
+<VFEM_PastoralGuardian90.titleShort>gardien</VFEM_PastoralGuardian90.titleShort>
+<VFEM_PastoralGuardian90.titleShortFemale>gardienne</VFEM_PastoralGuardian90.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was responsible for patrolling and protecting the rivers flowing through [PAWN_possessive] family’s lands. [PAWN_pronoun] ensured trade and fishing were conducted lawfully, earning respect as a fair and capable overseer. Though [PAWN_pronoun] excelled in maintaining order, [PAWN_pronoun] lacked skills in diplomacy beyond [PAWN_possessive] domain. -->
+<VFEM_RiverWarden94.description>{PAWN_nameDef} était chargé{PAWN_gender ? : e } de patrouiller et de protéger les rivières qui traversaient les terres de sa famille. {PAWN_pronoun} veillait à ce que le commerce et la pêche se déroulent dans le respect de la loi, ce qui lui a valu le respect d'un superviseur juste et compétent. Bien qu'{PAWN_pronoun} excellait dans le maintien de l'ordre, {PAWN_pronoun} manquait de compétences en matière de diplomatie en dehors de son domaine.</VFEM_RiverWarden94.description>
+<!-- EN: river warden -->
+<VFEM_RiverWarden94.title>garde-rivière</VFEM_RiverWarden94.title>
+<!-- EN: warden -->
+<VFEM_RiverWarden94.titleShort>gardien</VFEM_RiverWarden94.titleShort>
+<VFEM_RiverWarden94.titleShortFemale>gardienne</VFEM_RiverWarden94.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] served as one of the elite guards sworn to protect the king and [PAWN_possessive] family. [PAWN_pronoun] was trained in both melee and ranged combat, becoming highly skilled in personal defense and loyalty. The prestigious position left [PAWN_pronoun] unaccustomed to menial tasks, focusing solely on [PAWN_possessive] duty. -->
+<VFEM_RoyalGuard64.description>{PAWN_nameDef} était l'un{PAWN_gender ? : e } des gardes d'élite chargés de protéger le roi et sa famille. {PAWN_pronoun} a été formé{PAWN_gender ? : e } au combat en mêlée et à distance, et est devenu{PAWN_gender ? : e } très compétent{PAWN_gender ? : e } en matière de défense personnelle et de loyauté. Ce poste prestigieux l'a empêché de s'adonner à des tâches subalternes et de se concentrer uniquement sur son devoir.</VFEM_RoyalGuard64.description>
+<!-- EN: royal guard -->
+<VFEM_RoyalGuard64.title>garde royale</VFEM_RoyalGuard64.title>
+<!-- EN: guard -->
+<VFEM_RoyalGuard64.titleShort>garde</VFEM_RoyalGuard64.titleShort>
+
+<!-- EN: [PAWN_nameDef] was trained from a young age to serve the king directly as a member of [PAWN_possessive] personal guard. [PAWN_pronoun] became a master of both mounted and melee combat, earning the respect of peers and commanders alike. While [PAWN_pronoun] excelled on the battlefield, [PAWN_pronoun] avoided menial tasks, considering them unworthy of [PAWN_possessive] status. -->
+<VFEM_RoyalKnight70.description>{PAWN_nameDef} a été formé{PAWN_gender ? : e } dès son plus jeune âge pour servir directement le roi en tant que membre de sa garde personnelle. {PAWN_pronoun} devint un maître du combat à cheval et de la mêlée, gagnant le respect de ses pairs et de ses commandants. {PAWN_gender ? S'il : Si elle } excellait sur le champ de bataille, {PAWN_pronoun} évitait les tâches subalternes, les jugeant indignes de son statut.</VFEM_RoyalKnight70.description>
+<!-- EN: royal knight -->
+<VFEM_RoyalKnight70.title>chevalier royal</VFEM_RoyalKnight70.title>
+<!-- EN: royal knight -->
+<VFEM_RoyalKnight70.titleShort>chevalier royal</VFEM_RoyalKnight70.titleShort>
+
+<!-- EN: [PAWN_nameDef] oversaw a remote fortress, serving as the noble family’s representative in the countryside. [PAWN_pronoun] maintained the keep, organized the defense of local villages, and managed disputes among the serfs. [PAWN_pronoun] was skilled in construction and leadership but lacked the sophistication of high court life. -->
+<VFEM_RuralCastellan92.description>{PAWN_nameDef} supervisait une forteresse isolée, servant de représentant de la famille noble dans la campagne. {PAWN_pronoun} entretenait le donjon, organisait la défense des villages locaux et gérait les conflits entre les serfs. {PAWN_pronoun} était doué{PAWN_gender ? : e } pour la construction et le commandement, mais n'avait pas la sophistication de la vie de la haute cour.</VFEM_RuralCastellan92.description>
+<!-- EN: rural castellan -->
+<VFEM_RuralCastellan92.title>châtelain rural</VFEM_RuralCastellan92.title>
+<VFEM_RuralCastellan92.titleFemale>châtelaine rurale</VFEM_RuralCastellan92.titleFemale>
+<!-- EN: castellan -->
+<VFEM_RuralCastellan92.titleShort>châtelain</VFEM_RuralCastellan92.titleShort>
+<VFEM_RuralCastellan92.titleShortFemale>châtelaine</VFEM_RuralCastellan92.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days guiding flocks of sheep across pastures, protecting them from predators and ensuring their well-being. [PAWN_pronoun] learned to live off the land and gained a natural affinity for animals. Though adept at caring for livestock, [PAWN_pronoun] lacked interest in pursuits beyond [PAWN_possessive] work. -->
+<VFEM_Shepherd79.description>{PAWN_nameDef} a passé ses journées à guider des troupeaux de moutons dans les pâturages, à les protéger des prédateurs et à veiller à leur bien-être. {PAWN_pronoun} a appris à vivre de la terre et a acquis une affinité naturelle pour les animaux. Bien que doué{PAWN_gender ? : e } pour s'occuper du bétail, {PAWN_pronoun} ne s'intéressait pas à d'autres activités que son travail.</VFEM_Shepherd79.description>
+<!-- EN: shepherd of the flock -->
+<VFEM_Shepherd79.title>berger du troupeau</VFEM_Shepherd79.title>
+<VFEM_Shepherd79.titleFemale>bergère du troupeau</VFEM_Shepherd79.titleFemale>
+<!-- EN: shepherd -->
+<VFEM_Shepherd79.titleShort>berger</VFEM_Shepherd79.titleShort>
+<VFEM_Shepherd79.titleShortFemale>bergère</VFEM_Shepherd79.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] ruled over a warm and fertile region, maintaining order and wealth through agriculture and trade. [PAWN_pronoun] developed strong diplomatic skills to navigate the alliances and rivalries of neighboring houses. Though adept at politics, [PAWN_pronoun] relied on others for matters of warfare and manual labor. -->
+<VFEM_SouthernLord75.description>{PAWN_nameDef} a régné sur une région chaude et fertile, maintenant l'ordre et la richesse grâce à l'agriculture et au commerce. {PAWN_pronoun} a développé de solides compétences diplomatiques pour naviguer entre les alliances et les rivalités des maisons voisines. Bien que doué{PAWN_gender ? : e } pour la politique, {PAWN_pronoun} s'en remettait à d'autres pour les questions de guerre et de travail manuel.</VFEM_SouthernLord75.description>
+<!-- EN: southern lord -->
+<VFEM_SouthernLord75.title>seigneur du sud</VFEM_SouthernLord75.title>
+<VFEM_SouthernLord75.titleFemale>seigneuresse du sud</VFEM_SouthernLord75.titleFemale>
+<!-- EN: lord -->
+<VFEM_SouthernLord75.titleShort>seigneur</VFEM_SouthernLord75.titleShort>
+<VFEM_SouthernLord75.titleShortFemale>seigneuresse</VFEM_SouthernLord75.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] managed the estates of a noble, overseeing finances, organizing events, and ensuring the smooth operation of the household. [PAWN_pronoun] excelled in administration and diplomacy, becoming indispensable to the lord [PAWN_pronoun] served. Though proficient in intellectual and social skills, [PAWN_pronoun] saw physical labor as beneath [PAWN_objective]. -->
+<VFEM_Steward55.description>{PAWN_nameDef} a géré les biens d'un noble, supervisant les finances, organisant des événements et veillant au bon fonctionnement de la maison. {PAWN_pronoun} excellait dans l'administration et la diplomatie, devenant indispensable au seigneur qu'{PAWN_pronoun} servait. Bien qu'{PAWN_pronoun} possède des compétences intellectuelles et sociales, {PAWN_pronoun} considère que le travail physique lui est inférieur.</VFEM_Steward55.description>
+<!-- EN: steward -->
+<VFEM_Steward55.title>intendant</VFEM_Steward55.title>
+<!-- EN: steward -->
+<VFEM_Steward55.titleShort>intendant</VFEM_Steward55.titleShort>
+
+<!-- EN: [PAWN_nameDef] was responsible for managing the agricultural production of a large estate, ensuring the fields were worked and the harvests collected. [PAWN_pronoun] developed a deep understanding of farming and organization, balancing the needs of the land with the demands of [PAWN_possessive] lord. Though skilled in rural management, [PAWN_pronoun] lacked military and courtly training. -->
+<VFEM_StewardOfTheFields89.description>{PAWN_nameDef} était chargé{PAWN_gender ? : e } de gérer la production agricole d'un grand domaine, de veiller à ce que les champs soient labourés et les récoltes engrangées. {PAWN_pronoun} a acquis une connaissance approfondie de l'agriculture et de l'organisation, conciliant les besoins de la terre et les exigences de son seigneur. Bien qu'{PAWN_pronoun} soit compétent{PAWN_gender ? : e } en matière de gestion rurale, {PAWN_pronoun} n'a pas reçu d'entraînement militaire ni d'entraînement à la cour.</VFEM_StewardOfTheFields89.description>
+<!-- EN: steward of the fields -->
+<VFEM_StewardOfTheFields89.title>intendant des champs</VFEM_StewardOfTheFields89.title>
+<!-- EN: steward -->
+<VFEM_StewardOfTheFields89.titleShort>intendant</VFEM_StewardOfTheFields89.titleShort>
+
+<!-- EN: [PAWN_nameDef] was a master tactician, advising lords and generals on the best paths to victory. [PAWN_pronoun] excelled at reading the battlefield, coordinating troops, and anticipating enemy moves. Though [PAWN_pronoun] rarely fought directly, [PAWN_pronoun] commanded respect for [PAWN_possessive] brilliant mind and sharp tongue. -->
+<VFEM_Strategist65.description>{PAWN_nameDef} était un maître tacticien qui conseillait les seigneurs et les généraux sur les meilleurs moyens de remporter la victoire. {PAWN_pronoun} excellait à lire le champ de bataille, à coordonner les troupes et à anticiper les mouvements de l'ennemi. Bien qu'{PAWN_pronoun} ait rarement combattu directement, {PAWN_pronoun} inspirait le respect pour son esprit brillant et sa langue acérée.</VFEM_Strategist65.description>
+<!-- EN: strategist -->
+<VFEM_Strategist65.title>stratège</VFEM_Strategist65.title>
+<!-- EN: strategist -->
+<VFEM_Strategist65.titleShort>stratège</VFEM_Strategist65.titleShort>
+
+<!-- EN: [PAWN_nameDef] was born into a family that seized power through treachery, earning the scorn of noble society. [PAWN_pronoun] grew up isolated and mistrusted, forced to rely on guile and intelligence to navigate the court. Though skilled in intrigue, [PAWN_pronoun] lacked the respect and alliances of legitimate noble houses. -->
+<VFEM_UsurpersKin84.description>{PAWN_nameDef} est né{PAWN_gender ? : e } dans une famille qui s'est emparée du pouvoir par traîtrise, s'attirant ainsi le mépris de la société noble. {PAWN_pronoun} grandit dans l'isolement et la méfiance, contraint{PAWN_gender ? : e } de compter sur la ruse et l'intelligence pour évoluer à la cour. Bien que doué{PAWN_gender ? : e } pour l'intrigue, {PAWN_pronoun} ne bénéficiait pas du respect et des alliances des maisons nobles légitimes.</VFEM_UsurpersKin84.description>
+<!-- EN: usurper's kin -->
+<VFEM_UsurpersKin84.title>famille de l'usurpateur</VFEM_UsurpersKin84.title>
+<!-- EN: disgraced kin -->
+<VFEM_UsurpersKin84.titleShort>famille déshonorée</VFEM_UsurpersKin84.titleShort>
+
+<!-- EN: [PAWN_nameDef] was a respected figure in a rural community, resolving disputes and guiding decisions for the benefit of the village. [PAWN_pronoun] developed wisdom through years of leadership and experience, earning the trust of those under [PAWN_possessive] care. While [PAWN_pronoun] excelled in diplomacy, [PAWN_pronoun] left physical tasks to the younger villagers. -->
+<VFEM_VillageElder88.description>{PAWN_nameDef} était une figure respectée dans une communauté rurale, résolvant les conflits et guidant les décisions dans l'intérêt du village. {PAWN_pronoun} a acquis de la sagesse grâce à des années de gestion et d'expérience, gagnant ainsi la confiance de ceux dont {PAWN_pronoun} s'occupait. {PAWN_gender ? S'il : Si elle } excellait dans la diplomatie, {PAWN_pronoun} laissait les tâches physiques aux plus jeunes villageois.</VFEM_VillageElder88.description>
+<!-- EN: village elder -->
+<VFEM_VillageElder88.title>doyen du village</VFEM_VillageElder88.title>
+<VFEM_VillageElder88.titleFemale>doyenne du village</VFEM_VillageElder88.titleFemale>
+<!-- EN: elder -->
+<VFEM_VillageElder88.titleShort>doyen</VFEM_VillageElder88.titleShort>
+<VFEM_VillageElder88.titleShortFemale>doyenne</VFEM_VillageElder88.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] served as a benefactor to a local village, funding improvements to infrastructure and ensuring the well-being of [PAWN_possessive] tenants. [PAWN_pronoun] became skilled at balancing generosity with practicality, ensuring the village prospered without excessive costs. Though respected by the villagers, [PAWN_pronoun] had little experience with warfare or courtly intrigue. -->
+<VFEM_VillagePatron95.description>{PAWN_nameDef} a été l{PAWN_gender ? e : a } bienfait{PAWN_gender ? eur : rice } d'un village local, finançant l'amélioration des infrastructures et veillant au bien-être de ses locataires. {PAWN_pronoun} sut trouver un équilibre entre générosité et sens pratique, veillant à ce que le village prospère sans coûts excessifs. Bien que respecté{PAWN_gender ? : e } par les villageois, {PAWN_pronoun} n'avait que peu d'expérience en matière de guerre ou d'intrigues à la cour.</VFEM_VillagePatron95.description>
+<!-- EN: village patron -->
+<VFEM_VillagePatron95.title>mécène du village</VFEM_VillagePatron95.title>
+<!-- EN: patron -->
+<VFEM_VillagePatron95.titleShort>mécène</VFEM_VillagePatron95.titleShort>
+
+<!-- EN: [PAWN_nameDef] trained war dogs and other beasts to fight alongside soldiers in battle. [PAWN_pronoun] specialized in teaching animals to obey commands even in the chaos of combat. Though skilled in working with animals, [PAWN_pronoun] struggled with the finer points of diplomacy and negotiation. -->
+<VFEM_WarBeastTrainer80.description>{PAWN_nameDef} a dressé des chiens de guerre et d'autres animaux pour qu'ils combattent aux côtés des soldats dans les batailles. {PAWN_pronoun} s'est spécialisé{PAWN_gender ? : e } dans l'apprentissage des animaux à obéir aux ordres, même dans le chaos du combat. Bien qu'{PAWN_pronoun} soit doué{PAWN_gender ? : e } pour travailler avec les animaux, {PAWN_pronoun} a du mal à maîtriser les subtilités de la diplomatie et de la négociation.</VFEM_WarBeastTrainer80.description>
+<!-- EN: war beast trainer -->
+<VFEM_WarBeastTrainer80.title>dresseur de bêtes de guerre</VFEM_WarBeastTrainer80.title>
+<VFEM_WarBeastTrainer80.titleFemale>dresseuse de bêtes de guerre</VFEM_WarBeastTrainer80.titleFemale>
+<!-- EN: trainer -->
+<VFEM_WarBeastTrainer80.titleShort>dresseur</VFEM_WarBeastTrainer80.titleShort>
+<VFEM_WarBeastTrainer80.titleShortFemale>dresseuse</VFEM_WarBeastTrainer80.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was charged with the defense of a vast and frigid northern realm, managing both its people and its armies. [PAWN_pronoun] excelled in leadership, strategy, and building alliances to keep the lands united under [PAWN_possessive] banner. The harsh conditions forged [PAWN_pronoun] into a hardened and resolute figure. -->
+<VFEM_WardenOfTheNorth71.description>{PAWN_nameDef} a été chargé{PAWN_gender ? : e } de la défense d'un vaste royaume nordique glacial, gérant à la fois son peuple et ses armées. {PAWN_pronoun} excellait dans le commandement, la stratégie et l'établissement d'alliances pour garder les terres unies sous sa bannière. Les conditions difficiles ont fait de {PAWN_objective} un personnage endurci et résolu.</VFEM_WardenOfTheNorth71.description>
+<!-- EN: warden of the north -->
+<VFEM_WardenOfTheNorth71.title>gardien du nord</VFEM_WardenOfTheNorth71.title>
+<VFEM_WardenOfTheNorth71.titleFemale>gardienne du nord</VFEM_WardenOfTheNorth71.titleFemale>
+<!-- EN: warden -->
+<VFEM_WardenOfTheNorth71.titleShort>gardien</VFEM_WardenOfTheNorth71.titleShort>
+<VFEM_WardenOfTheNorth71.titleShortFemale>gardienne</VFEM_WardenOfTheNorth71.titleShortFemale>
+
+
+<!-- EN: [PAWN_nameDef] began training with a bow from a young age, aiming for skill and precision as required of noble warriors. [PAWN_pronoun] spent hours drawing targets in the courtyard and practicing long-distance shots. The training honed [PAWN_possessive] focus and gave [PAWN_pronoun] an edge in ranged combat. -->
+<VFEM_ArcherTrainee155.description>{PAWN_nameDef} a commencé à s'entraîner à l'arc dès son plus jeune âge, en visant l'habileté et la précision exigées des guerriers nobles. {PAWN_pronoun} passait des heures à dessiner des cibles dans la cour et à s'entraîner à tirer à longue distance. Cet entraînement lui a permis d'affiner sa concentration et lui a donné une longueur d'avance dans les combats à distance.</VFEM_ArcherTrainee155.description>
+<!-- EN: archer trainee -->
+<VFEM_ArcherTrainee155.title>apprenti archer</VFEM_ArcherTrainee155.title>
+<VFEM_ArcherTrainee155.titleFemale>apprentie archère</VFEM_ArcherTrainee155.titleFemale>
+<!-- EN: archer -->
+<VFEM_ArcherTrainee155.titleShort>archer</VFEM_ArcherTrainee155.titleShort>
+<VFEM_ArcherTrainee155.titleShortFemale>archère</VFEM_ArcherTrainee155.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was groomed for a future in diplomacy, studying languages, geography, and the customs of foreign courts. [PAWN_pronoun] practiced making speeches and mediating minor disputes among peers. Though still young, [PAWN_pronoun] showed promise as a skilled negotiator and tactician. -->
+<VFEM_AspiringDiplomat150.description>{PAWN_nameDef} a été préparé{PAWN_gender ? : e } à un avenir diplomatique, étudiant les langues, la géographie et les coutumes des cours étrangères. {PAWN_pronoun} s'entraînait à faire des discours et à arbitrer des conflits mineurs entre pairs. Bien qu'{PAWN_pronoun} soit encore jeune, {PAWN_pronoun} se révèle être un{PAWN_gender ? : e } négociat{PAWN_gender ? eur : rice } et un{PAWN_gender ? : e } tacticien{PAWN_gender ? : ne } doué{PAWN_gender ? : e }.</VFEM_AspiringDiplomat150.description>
+<!-- EN: aspiring diplomat -->
+<VFEM_AspiringDiplomat150.title>aspirant diplomate</VFEM_AspiringDiplomat150.title>
+<VFEM_AspiringDiplomat150.titleFemale>aspirante diplomate</VFEM_AspiringDiplomat150.titleFemale>
+<!-- EN: diplomat -->
+<VFEM_AspiringDiplomat150.titleShort>diplomate</VFEM_AspiringDiplomat150.titleShort>
+
+<!-- EN: [PAWN_nameDef] trained from an early age in the art of combat, preparing for the day [PAWN_pronoun] could earn [PAWN_possessive] place among the knights of [PAWN_possessive] house. [PAWN_pronoun] practiced with wooden swords and sparred with instructors, learning discipline and honor. While young, [PAWN_pronoun] already showed promise as a warrior. -->
+<VFEM_AspiringKnight145.description>{PAWN_nameDef} s'est entraîné{PAWN_gender ? : e } dès son plus jeune âge à l'art du combat, se préparant pour le jour où {PAWN_pronoun} pourrait gagner sa place parmi les chevaliers de sa maison. {PAWN_pronoun} s'entraînait avec des épées en bois et des instructeurs, apprenant la discipline et l'honneur. Bien que jeune, {PAWN_pronoun} se montre déjà prometteu{PAWN_gender ? r : se } en tant que guerri{PAWN_gender ? er : ère }.</VFEM_AspiringKnight145.description>
+<!-- EN: aspiring knight -->
+<VFEM_AspiringKnight145.title>aspirant chevalier</VFEM_AspiringKnight145.title>
+<VFEM_AspiringKnight145.titleFemale>aspirante chevalier</VFEM_AspiringKnight145.titleFemale>
+<!-- EN: knight -->
+<VFEM_AspiringKnight145.titleShort>chevalier</VFEM_AspiringKnight145.titleShort>
+
+<!-- EN: [PAWN_nameDef] carried the family banner into drills and parades, learning to represent [PAWN_possessive] house with pride. [PAWN_pronoun] spent hours practicing marching formations and staying composed under scrutiny. Though not a frontline fighter, [PAWN_pronoun] gained valuable lessons in discipline and leadership. -->
+<VFEM_BannerBearer154.description>{PAWN_nameDef} portait la bannière familiale lors des exercices et des défilés, apprenant à représenter sa maison avec fierté. {PAWN_pronoun} a passé des heures à s'entraîner aux formations de marche et à rester calme sous le feu des projecteurs. Bien qu'{PAWN_pronoun} ne soit pas un{PAWN_gender ? : e } combattant{PAWN_gender ? : e } de première ligne, {PAWN_pronoun} en tire de précieuses leçons en matière de discipline et de commandement.</VFEM_BannerBearer154.description>
+<!-- EN: banner bearer -->
+<VFEM_BannerBearer154.title>porte-bannière</VFEM_BannerBearer154.title>
+<!-- EN: banner bearer -->
+<VFEM_BannerBearer154.titleShort>porte-bannière</VFEM_BannerBearer154.titleShort>
+
+<!-- EN: [PAWN_nameDef] composed an epic poem at a young age that spread throughout the region, earning [PAWN_pronoun] fame and admiration. Nobles and commoners alike recited [PAWN_possessive] verses, praising their vivid imagery and emotional depth. The success brought invitations to courts across the land. -->
+<VFEM_BuddingPoet170.description>{PAWN_nameDef} a composé très jeune un poème épique qui s'est répandu dans toute la région et lui a valu gloire et admiration. Nobles et roturiers récitent ses vers, louant leurs images vivantes et leur profondeur émotionnelle. Ce succès lui valut d'être invité dans les cours de tout le pays.</VFEM_BuddingPoet170.description>
+<!-- EN: budding poet -->
+<VFEM_BuddingPoet170.title>poète en herbe</VFEM_BuddingPoet170.title>
+<VFEM_BuddingPoet170.titleFemale>poétesse en herbe</VFEM_BuddingPoet170.titleFemale>
+<!-- EN: poet -->
+<VFEM_BuddingPoet170.titleShort>poète</VFEM_BuddingPoet170.titleShort>
+<VFEM_BuddingPoet170.titleShortFemale>poétesse</VFEM_BuddingPoet170.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was raised in a fortified castle and spent [PAWN_possessive] days training with guards and learning the basics of siege defense. [PAWN_pronoun] practiced with bows on the battlements and drilled with spears in the courtyard. The life gave [PAWN_pronoun] a strong sense of duty and early combat experience. -->
+<VFEM_CastleDefender153.description>{PAWN_nameDef} a été élevé{PAWN_gender ? : e } dans un château fortifié et a passé ses journées à s'entraîner avec les gardes et à apprendre les rudiments de la défense en cas de siège. {PAWN_pronoun} s'entraînait avec des arcs sur les remparts et avec des lances dans la cour. Cette vie lui a donné un sens aigu du devoir et une première expérience du combat.</VFEM_CastleDefender153.description>
+<!-- EN: castle defender -->
+<VFEM_CastleDefender153.title>défenseur du château</VFEM_CastleDefender153.title>
+<VFEM_CastleDefender153.titleFemale>défenseure du château</VFEM_CastleDefender153.titleFemale>
+<!-- EN: defender -->
+<VFEM_CastleDefender153.titleShort>défenseur</VFEM_CastleDefender153.titleShort>
+<VFEM_CastleDefender153.titleShortFemale>défenseure</VFEM_CastleDefender153.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood running through the halls and courtyards of a castle, playing games with other noble children. The carefree years gave [PAWN_pronoun] a strong sense of camaraderie and a basic understanding of courtly manners. However, the sheltered life left [PAWN_pronoun] naive about the struggles of common folk. -->
+<VFEM_CastlePlaymate144.description>{PAWN_nameDef} a passé son enfance à courir dans les couloirs et les cours d'un château, à jouer avec d'autres enfants nobles. Ces années d'insouciance lui ont donné un sens aigu de la camaraderie et une connaissance élémentaire des manières de la cour. Cependant, cette vie protégée l'a rendu naï{PAWN_gender ? f : ve } face aux luttes des gens du peuple.</VFEM_CastlePlaymate144.description>
+<!-- EN: castle playmate -->
+<VFEM_CastlePlaymate144.title>camarade du château</VFEM_CastlePlaymate144.title>
+<!-- EN: playmate -->
+<VFEM_CastlePlaymate144.titleShort>camarade</VFEM_CastlePlaymate144.titleShort>
+
+<!-- EN: [PAWN_nameDef] was born under an ominous eclipse, a sign that filled the villagers with dread. [PAWN_pronoun] grew up under the weight of grim superstition, with some believing [PAWN_pronoun] brought bad luck or worse. [PAWN_pronoun] learned to navigate the fear of others, growing cunning and detached to survive. -->
+<VFEM_ChildOfTheEclipse162.description>{PAWN_nameDef} est né{PAWN_gender ? : e } sous une éclipse de mauvais augure, un signe qui a plongé les villageois dans l'effroi. {PAWN_pronoun} grandit sous le poids de sinistres superstitions, certains croyant qu'{PAWN_pronoun} portait malheur voire pire. {PAWN_pronoun} a appris à naviguer dans la peur des autres, à devenir rusé{PAWN_gender ? : e } et détaché{PAWN_gender ? : e } pour survivre.</VFEM_ChildOfTheEclipse162.description>
+<!-- EN: child of the eclipse -->
+<VFEM_ChildOfTheEclipse162.title>enfant de l'éclipse</VFEM_ChildOfTheEclipse162.title>
+<!-- EN: eclipse-born -->
+<VFEM_ChildOfTheEclipse162.titleShort>né à l'éclipse</VFEM_ChildOfTheEclipse162.titleShort>
+<VFEM_ChildOfTheEclipse162.titleShortFemale>née à l'éclipse</VFEM_ChildOfTheEclipse162.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up serving as a junior attendant in a royal court, learning the nuances of etiquette and the art of flattery. [PAWN_pronoun] observed the dealings of nobles and practiced [PAWN_possessive] own skills in negotiation and charm. Though immersed in the intrigue of the court, [PAWN_pronoun] rarely ventured beyond its walls. -->
+<VFEM_CourtAttendant148.description>{PAWN_nameDef} a grandi en tant que jeune assistant dans une cour royale, apprenant les nuances du protocole et l'art de la flatterie. {PAWN_pronoun} observait les tractations des nobles et pratiquait ses propres talents de négociateur et de charmeur. Bien que plongé{PAWN_gender ? : e } dans les intrigues de la cour, {PAWN_pronoun} s'aventurait rarement au-delà de ses murs.</VFEM_CourtAttendant148.description>
+<!-- EN: court attendant -->
+<VFEM_CourtAttendant148.title>préposé à la cour</VFEM_CourtAttendant148.title>
+<VFEM_CourtAttendant148.titleFemale>préposée à la cour</VFEM_CourtAttendant148.titleFemale>
+<!-- EN: attendant -->
+<VFEM_CourtAttendant148.titleShort>préposé</VFEM_CourtAttendant148.titleShort>
+<VFEM_CourtAttendant148.titleShortFemale>préposée</VFEM_CourtAttendant148.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was raised on a sprawling estate, learning to oversee the household and manage the laborers who worked the land. [PAWN_pronoun] received lessons in stewardship and basic leadership, preparing [PAWN_objective] for a life of privilege. Though competent, [PAWN_pronoun] had little understanding of life beyond [PAWN_possessive] family’s wealth. -->
+<VFEM_EstateHeir157.description>{PAWN_nameDef} a été élevé{PAWN_gender ? : e } sur un vaste domaine, apprenant à superviser le ménage et à diriger les ouvriers qui travaillaient la terre. {PAWN_pronoun} a reçu des leçons d'intendance et de commandement de base, ce qui l'a préparé à une vie de privilèges. Bien que compétent{PAWN_gender ? : e }, {PAWN_pronoun} ne comprenait pas grand-chose à la vie au-delà de la richesse de sa famille.</VFEM_EstateHeir157.description>
+<!-- EN: estate heir -->
+<VFEM_EstateHeir157.title>héritier du domaine</VFEM_EstateHeir157.title>
+<VFEM_EstateHeir157.titleFemale>héritière du domaine</VFEM_EstateHeir157.titleFemale>
+<!-- EN: heir -->
+<VFEM_EstateHeir157.titleShort>héritier</VFEM_EstateHeir157.titleShort>
+<VFEM_EstateHeir157.titleShortFemale>héritière</VFEM_EstateHeir157.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth learning the noble pastime of falconry, training birds to hunt and obey commands. [PAWN_pronoun] developed patience and a keen understanding of animal behavior. Though the skill impressed others, [PAWN_pronoun] had little time for practical tasks outside the sport. -->
+<VFEM_FalconryStudent149.description>{PAWN_nameDef} a passé sa jeunesse à apprendre le noble passe-temps de la fauconnerie, en dressant les oiseaux à chasser et à obéir aux ordres. {PAWN_pronoun} a acquis de la patience et une compréhension aiguë du comportement des animaux. Bien que ses compétences aient impressionné les autres, {PAWN_pronoun} n'avait que peu de temps à consacrer aux tâches pratiques en dehors du sport.</VFEM_FalconryStudent149.description>
+<!-- EN: falconry student -->
+<VFEM_FalconryStudent149.title>étudiant en fauconnerie</VFEM_FalconryStudent149.title>
+<VFEM_FalconryStudent149.titleFemale>étudiante en fauconnerie</VFEM_FalconryStudent149.titleFemale>
+<!-- EN: falconer -->
+<VFEM_FalconryStudent149.titleShort>fauconnier</VFEM_FalconryStudent149.titleShort>
+<VFEM_FalconryStudent149.titleShortFemale>fauconnière</VFEM_FalconryStudent149.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days among the headstones, speaking to the dead as though they were alive. [PAWN_pronoun] was drawn to the quiet stillness and the stories carved into weathered stone. The villagers whispered of [PAWN_possessive] odd habits, and [PAWN_pronoun] learned to keep [PAWN_possessive] thoughts hidden from prying eyes. -->
+<VFEM_GraveyardWanderer163.description>{PAWN_nameDef} passait ses journées parmi les pierres tombales, parlant aux morts comme s'ils étaient vivants. {PAWN_pronoun} était attiré{PAWN_gender ? : e } par le calme et les histoires gravées sur les pierres vieillies. Les villageois chuchotaient ses étranges habitudes et {PAWN_pronoun} apprit à cacher ses pensées aux regards indiscrets.</VFEM_GraveyardWanderer163.description>
+<!-- EN: graveyard wanderer -->
+<VFEM_GraveyardWanderer163.title>vagabond du cimetière</VFEM_GraveyardWanderer163.title>
+<VFEM_GraveyardWanderer163.titleFemale>vagabonde du cimetière</VFEM_GraveyardWanderer163.titleFemale>
+<!-- EN: wanderer -->
+<VFEM_GraveyardWanderer163.titleShort>vagabond</VFEM_GraveyardWanderer163.titleShort>
+<VFEM_GraveyardWanderer163.titleShortFemale>vagabonde</VFEM_GraveyardWanderer163.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was raised to inherit the family estate, receiving lessons in administration and diplomacy from a young age. [PAWN_pronoun] was taught to manage resources, oversee servants, and maintain order among the household. The structured upbringing prepared [PAWN_pronoun] for leadership but left little time for play. -->
+<VFEM_HeirToTheEstate146.description>{PAWN_nameDef} a été élevé{PAWN_gender ? : e } pour hériter du domaine familial et a reçu des leçons d'administration et de diplomatie dès son plus jeune âge. On lui apprit à gérer les ressources, à superviser les serviteurs et à maintenir l'ordre au sein de la famille. Cette éducation structurée l'a préparé à diriger, mais lui a laissé peu de temps pour jouer.</VFEM_HeirToTheEstate146.description>
+<!-- EN: heir to the estate -->
+<VFEM_HeirToTheEstate146.title>héritier du patrimoine</VFEM_HeirToTheEstate146.title>
+<VFEM_HeirToTheEstate146.titleFemale>héritière du patrimoine</VFEM_HeirToTheEstate146.titleFemale>
+<!-- EN: heir -->
+<VFEM_HeirToTheEstate146.titleShort>héritier</VFEM_HeirToTheEstate146.titleShort>
+<VFEM_HeirToTheEstate146.titleShortFemale>héritière</VFEM_HeirToTheEstate146.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was surrounded by luxury from birth, never knowing hunger or hardship. [PAWN_pronoun] was taught courtly manners and spent [PAWN_possessive] days enjoying music, fine food, and leisure. While refined and confident, [PAWN_pronoun] struggled with practical tasks that required hard labor. -->
+<VFEM_LavishUpbringing158.description>{PAWN_nameDef} a été entouré{PAWN_gender ? : e } de luxe dès sa naissance et n'a jamais connu la faim ni les privations. On lui a enseigné les manières de la cour et {PAWN_pronoun} a passé ses journées à apprécier la musique, la bonne chère et les loisirs. Bien que raffiné{PAWN_gender ? : e } et sûr de {PAWN_objective}, {PAWN_pronoun} s'est battu{PAWN_gender ? : e } pour accomplir des tâches pratiques qui nécessitaient un dur labeur.</VFEM_LavishUpbringing158.description>
+<!-- EN: lavish upbringing -->
+<VFEM_LavishUpbringing158.title>éducation somptueuse</VFEM_LavishUpbringing158.title>
+<!-- EN: lavish -->
+<VFEM_LavishUpbringing158.titleShort>somptueux</VFEM_LavishUpbringing158.titleShort>
+<VFEM_LavishUpbringing158.titleShortFemale>somptueuse</VFEM_LavishUpbringing158.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] grew up surrounded by the bustling trade of [PAWN_possessive] family’s business, watching deals unfold and goods change hands. [PAWN_pronoun] was taught the art of negotiation and the importance of wealth. Though well-versed in trade, [PAWN_pronoun] had little exposure to the struggles of common life. -->
+<VFEM_MerchantsProdigy156.description>{PAWN_nameDef} a grandi dans l'effervescence de l'entreprise familiale, observant le déroulement des transactions et le changement de mains des marchandises. On lui a enseigné l'art de la négociation et l'importance de la richesse. Bien que rompu{PAWN_gender ? : e } au commerce, {PAWN_pronoun} n'a guère été confronté{PAWN_gender ? : e } aux difficultés de la vie quotidienne.</VFEM_MerchantsProdigy156.description>
+<!-- EN: merchant's prodigy -->
+<VFEM_MerchantsProdigy156.title>prodige du commerce</VFEM_MerchantsProdigy156.title>
+<!-- EN: prodigy -->
+<VFEM_MerchantsProdigy156.titleShort>prodige</VFEM_MerchantsProdigy156.titleShort>
+
+<!-- EN: [PAWN_nameDef] was sent to another noble’s court to be raised and educated in the ways of governance and etiquette. [PAWN_pronoun] learned to navigate the complexities of noble relationships and gained a basic understanding of leadership. Though surrounded by luxury, [PAWN_pronoun] spent much of [PAWN_possessive] time under watchful eyes. -->
+<VFEM_NobleWard141.description>{PAWN_nameDef} a été envoyé{PAWN_gender ? : e } à la cour d'un autre noble pour y être élevé{PAWN_gender ? : e } et éduqué{PAWN_gender ? : e } dans les domaines de la gouvernance et du protocole. {PAWN_pronoun} a appris à comprendre la complexité des relations entre nobles et a acquis des notions de base en matière de commandement. Bien qu'entouré{PAWN_gender ? : e } de luxe, {PAWN_pronoun} passe la plupart de son temps sous surveillance.</VFEM_NobleWard141.description>
+<!-- EN: noble ward -->
+<VFEM_NobleWard141.title>tutelle noble</VFEM_NobleWard141.title>
+<!-- EN: ward -->
+<VFEM_NobleWard141.titleShort>tutelle</VFEM_NobleWard141.titleShort>
+
+<!-- EN: [PAWN_nameDef] began [PAWN_possessive] training in a noble household, learning the fundamentals of serving and knightly duties. [PAWN_pronoun] spent hours cleaning armor, carrying messages, and studying basic combat techniques. The experience gave [PAWN_pronoun] an early introduction to the discipline and loyalty expected of nobility. -->
+<VFEM_Page142.description>{PAWN_nameDef} a commencé sa formation dans une maison noble, où {PAWN_pronoun} a appris les rudiments du service et des devoirs des chevaliers. {PAWN_pronoun} a passé des heures à nettoyer des armures, à porter des messages et à étudier les techniques de combat de base. Cette expérience lui a permis de se familiariser très tôt avec la discipline et la loyauté que l'on attend de la noblesse.</VFEM_Page142.description>
+<!-- EN: page -->
+<VFEM_Page142.title>page</VFEM_Page142.title>
+<!-- EN: page -->
+<VFEM_Page142.titleShort>page</VFEM_Page142.titleShort>
+
+<!-- EN: [PAWN_nameDef] was encouraged to pursue and support the arts, attending performances and commissioning works from talented craftsmen. [PAWN_pronoun] developed an appreciation for beauty and creativity, as well as a talent for recognizing skill in others. Though cultured, [PAWN_pronoun] was sheltered from the harsher realities of life. -->
+<VFEM_PatronOfTheArts159.description>{PAWN_nameDef} a été encouragé{PAWN_gender ? : e } à poursuivre et à soutenir les arts, en assistant à des spectacles et en commandant des œuvres à des artisans talentueux. {PAWN_pronoun} a appris à apprécier la beauté et la créativité, ainsi qu'à reconnaître les compétences des autres. Bien que cultivé{PAWN_gender ? : e }, {PAWN_pronoun} a été protégé{PAWN_gender ? : e } des dures réalités de la vie.</VFEM_PatronOfTheArts159.description>
+<!-- EN: patron of the arts -->
+<VFEM_PatronOfTheArts159.title>mécène des arts</VFEM_PatronOfTheArts159.title>
+<!-- EN: patron -->
+<VFEM_PatronOfTheArts159.titleShort>mécène</VFEM_PatronOfTheArts159.titleShort>
+
+<!-- EN: [PAWN_nameDef] had access to the finest tutors, studying history, philosophy, and the sciences from a young age. [PAWN_pronoun] showed promise in academic pursuits, impressing [PAWN_possessive] family with [PAWN_possessive] keen intellect. However, [PAWN_pronoun] had little understanding of the struggles faced by those less fortunate. -->
+<VFEM_PrivilegedScholar160.description>{PAWN_nameDef} a eu accès aux meilleurs professeurs, étudiant l'histoire, la philosophie et les sciences dès son plus jeune âge. {PAWN_pronoun} s'est montré{PAWN_gender ? : e } prometteu{PAWN_gender ? r : se } dans ses études et a impressionné sa famille par son intelligence vive. Cependant, {PAWN_pronoun} ne comprenait guère les difficultés rencontrées par les moins fortunés.</VFEM_PrivilegedScholar160.description>
+<!-- EN: privileged scholar -->
+<VFEM_PrivilegedScholar160.title>érudit privilégié</VFEM_PrivilegedScholar160.title>
+<VFEM_PrivilegedScholar160.titleFemale>érudite privilégiée</VFEM_PrivilegedScholar160.titleFemale>
+<!-- EN: scholar -->
+<VFEM_PrivilegedScholar160.titleShort>érudit</VFEM_PrivilegedScholar160.titleShort>
+<VFEM_PrivilegedScholar160.titleShortFemale>érudite</VFEM_PrivilegedScholar160.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] won a prestigious archery competition at the age of thirteen, besting older and more experienced opponents. [PAWN_pronoun] was praised for [PAWN_possessive] precision and composure under pressure. The victory brought honor to [PAWN_possessive] family and set [PAWN_objective] on a path of future acclaim. -->
+<VFEM_PrizeArcher169.description>{PAWN_nameDef} a remporté une prestigieuse compétition de tir à l'arc à l'âge de treize ans, en battant des adversaires plus âgés et plus expérimentés. {PAWN_pronoun} a été félicité{PAWN_gender ? : e } pour sa précision et son sang-froid sous pression. Cette victoire a fait honneur à sa famille et l'a mis sur la voie de la gloire.</VFEM_PrizeArcher169.description>
+<!-- EN: prize archer -->
+<VFEM_PrizeArcher169.title>archer primé</VFEM_PrizeArcher169.title>
+<VFEM_PrizeArcher169.titleFemale>archère primée</VFEM_PrizeArcher169.titleFemale>
+<!-- EN: archer -->
+<VFEM_PrizeArcher169.titleShort>archer</VFEM_PrizeArcher169.titleShort>
+<VFEM_PrizeArcher169.titleShortFemale>archère</VFEM_PrizeArcher169.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] demonstrated a gift for strategy by organizing and winning a mock battle between the castle’s squires. [PAWN_pronoun] anticipated [PAWN_possessive] opponents’ moves and used the terrain to [PAWN_possessive] advantage, earning the admiration of seasoned knights. The event marked [PAWN_objective] as a promising future commander. -->
+<VFEM_ProdigiousTactician167.description>{PAWN_nameDef} a fait preuve d'un don pour la stratégie en organisant et en remportant une bataille simulée entre les écuyers du château. {PAWN_pronoun} a anticipé les mouvements de ses adversaires et utilisé le terrain à son avantage, ce qui lui a valu l'admiration de chevaliers chevronnés. Cet événement a fait de {PAWN_objective} un futur commandant prometteur.</VFEM_ProdigiousTactician167.description>
+<!-- EN: prodigious tactician -->
+<VFEM_ProdigiousTactician167.title>tacticien prodigieux</VFEM_ProdigiousTactician167.title>
+<VFEM_ProdigiousTactician167.titleFemale>tacticienne prodigieuse</VFEM_ProdigiousTactician167.titleFemale>
+<!-- EN: tactician -->
+<VFEM_ProdigiousTactician167.titleShort>tacticien</VFEM_ProdigiousTactician167.titleShort>
+<VFEM_ProdigiousTactician167.titleShortFemale>tacticienne</VFEM_ProdigiousTactician167.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] spent long hours learning to read and write under the guidance of a family-appointed tutor. [PAWN_pronoun] practiced copying texts and recording transactions, developing a keen eye for detail. While skilled in intellectual pursuits, [PAWN_pronoun] had little exposure to physical labor or combat training. -->
+<VFEM_ScribeInTraining147.description>{PAWN_nameDef} a passé de longues heures à apprendre à lire et à écrire sous la direction d'un tuteur désigné par sa famille. {PAWN_pronoun} s'entraînait à copier des textes et à enregistrer des transactions, développant un sens aigu du détail. Bien qu'{PAWN_pronoun} soit doué{PAWN_gender ? : e } pour les activités intellectuelles, {PAWN_pronoun} est peu exposé{PAWN_gender ? : e } au travail physique ou à l'entraînement au combat.</VFEM_ScribeInTraining147.description>
+<!-- EN: scribe in training -->
+<VFEM_ScribeInTraining147.title>scribe en formation</VFEM_ScribeInTraining147.title>
+<!-- EN: scribe -->
+<VFEM_ScribeInTraining147.titleShort>scribe</VFEM_ScribeInTraining147.titleShort>
+
+<!-- EN: [PAWN_nameDef] was feared by the villagers for reasons whispered but never explained. [PAWN_pronoun] spent [PAWN_possessive] childhood in the shadows, avoiding those who glared or crossed themselves at [PAWN_possessive] presence. The isolation hardened [PAWN_objective], leaving [PAWN_pronoun] mistrustful and quiet, always watching from the dark corners. -->
+<VFEM_ShadowedOutcast161.description>{PAWN_nameDef} était craint{PAWN_gender ? : e } par les villageois pour des raisons murmurées mais jamais expliquées. {PAWN_pronoun} a passé son enfance dans l'ombre, évitant ceux qui l{PAWN_gender ? e : a } regardaient ou se croisaient en sa présence. L'isolement l'a endurci, l{PAWN_gender ? e : a } rendant méfiant{PAWN_gender ? : e } et silencieu{PAWN_gender ? x : se }, toujours à l'affût dans les coins sombres.</VFEM_ShadowedOutcast161.description>
+<!-- EN: shadowed outcast -->
+<VFEM_ShadowedOutcast161.title>exclu de l'ombre</VFEM_ShadowedOutcast161.title>
+<VFEM_ShadowedOutcast161.titleFemale>exclue de l'ombre</VFEM_ShadowedOutcast161.titleFemale>
+<!-- EN: outcast -->
+<VFEM_ShadowedOutcast161.titleShort>exclu</VFEM_ShadowedOutcast161.titleShort>
+<VFEM_ShadowedOutcast161.titleShortFemale>exclue</VFEM_ShadowedOutcast161.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] trained alongside warriors, serving as a shield carrier during skirmishes and drills. [PAWN_pronoun] learned to endure long marches and protect [PAWN_possessive] mentors in the heat of battle. Though young, [PAWN_pronoun] displayed courage and determination beyond [PAWN_possessive] years. -->
+<VFEM_ShieldCarrier152.description>{PAWN_nameDef} s'est entraîné{PAWN_gender ? : e } aux côtés de guerriers, servant de porte-bouclier lors d'escarmouches et d'exercices. {PAWN_pronoun} a appris à endurer de longues marches et à protéger ses mentors dans le feu de l'action. Bien que jeune, {PAWN_pronoun} fait preuve d'un courage et d'une détermination hors du commun.</VFEM_ShieldCarrier152.description>
+<!-- EN: shield carrier -->
+<VFEM_ShieldCarrier152.title>porte-bouclier</VFEM_ShieldCarrier152.title>
+<!-- EN: carrier -->
+<VFEM_ShieldCarrier152.titleShort>porte-bouclier</VFEM_ShieldCarrier152.titleShort>
+
+<!-- EN: [PAWN_nameDef] was apprenticed to a knight, tasked with maintaining armor, tending horses, and learning the code of chivalry. [PAWN_pronoun] spent countless hours observing battles and practicing with training weapons. The rigorous training instilled discipline and a desire to prove [PAWN_possessive] worth on the battlefield. -->
+<VFEM_Squire151.description>{PAWN_nameDef} est devenu{PAWN_gender ? : e } l'apprenti{PAWN_gender ? : e } d'un chevalier, chargé{PAWN_gender ? : e } d'entretenir les armures, de soigner les chevaux et d'apprendre le code de la chevalerie. {PAWN_pronoun} passait d'innombrables heures à observer des batailles et à s'entraîner avec des armes d'entraînement. Cet entraînement rigoureux lui a inculqué la discipline et le désir de prouver sa valeur sur le champ de bataille.</VFEM_Squire151.description>
+<!-- EN: squire -->
+<VFEM_Squire151.title>écuyer</VFEM_Squire151.title>
+<VFEM_Squire151.titleFemale>écuyère</VFEM_Squire151.titleFemale>
+<!-- EN: squire -->
+<VFEM_Squire151.titleShort>écuyer</VFEM_Squire151.titleShort>
+<VFEM_Squire151.titleShortFemale>écuyère</VFEM_Squire151.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was believed to be cursed, blamed for every ill fortune that befell the village. Crops failed, livestock died, and villagers fell ill, all under [PAWN_possessive] dark shadow. [PAWN_pronoun] grew to expect rejection, developing a cold resilience to survive in a world that feared [PAWN_objective]. -->
+<VFEM_VillageCurseBearer164.description>On croyait que {PAWN_nameDef} était maudit{PAWN_gender ? : e } et qu'{PAWN_pronoun} était responsable de tous les malheurs qui frappaient le village. Les récoltes étaient mauvaises, le bétail mourait et les villageois tombaient malades, tous sous son ombre noire. {PAWN_pronoun} s'est habitué{PAWN_gender ? : e } à être rejeté{PAWN_gender ? : e }, développant une résistance froide pour survivre dans un monde qui le craignait.</VFEM_VillageCurseBearer164.description>
+<!-- EN: village curse-bearer -->
+<VFEM_VillageCurseBearer164.title>porte-malédiction du village</VFEM_VillageCurseBearer164.title>
+<!-- EN: cursed -->
+<VFEM_VillageCurseBearer164.titleShort>maudit</VFEM_VillageCurseBearer164.titleShort>
+<VFEM_VillageCurseBearer164.titleShortFemale>maudite</VFEM_VillageCurseBearer164.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was discovered as an infant at the edge of the woods, wrapped in tattered cloth and left in the rain. The villagers took [PAWN_objective] in reluctantly, always murmuring of unnatural origins. [PAWN_pronoun] grew up in the shadow of suspicion, learning to remain unseen and unheard. -->
+<VFEM_WhisperedFoundling165.description>{PAWN_nameDef} a été découvert{PAWN_gender ? : e } nourrisson à l'orée des bois, enveloppé{PAWN_gender ? : e } dans un tissu en lambeaux et laissé{PAWN_gender ? : e } sous la pluie. Les villageois l'ont recueilli à contrecœur, murmurant sans cesse que son existence n'était pas naturelle. {PAWN_pronoun} grandit dans l'ombre de la suspicion, apprenant à rester invisible et inaudible.</VFEM_WhisperedFoundling165.description>
+<!-- EN: whispered foundling -->
+<VFEM_WhisperedFoundling165.title>enfant trouvé chuchoté</VFEM_WhisperedFoundling165.title>
+<!-- EN: foundling -->
+<VFEM_WhisperedFoundling165.titleShort>enfant trouvé</VFEM_WhisperedFoundling165.titleShort>
+
+<!-- EN: [PAWN_nameDef] designed an innovative irrigation system for the family estate at just ten years old, greatly increasing crop yields. [PAWN_pronoun] impressed both the stewards and laborers with [PAWN_possessive] ingenuity. The success ensured [PAWN_pronoun] would be taken seriously, even at such a young age. -->
+<VFEM_YoungArchitect168.description>{PAWN_nameDef} a conçu un système d'irrigation innovant pour le domaine familial à l'âge de dix ans seulement, ce qui a permis d'augmenter considérablement le rendement des cultures. {PAWN_pronoun} impressionnait les intendants et les ouvriers par son ingéniosité. Ce succès lui permit d'être pris au sérieux, même à un si jeune âge.</VFEM_YoungArchitect168.description>
+<!-- EN: young architect -->
+<VFEM_YoungArchitect168.title>jeune architecte</VFEM_YoungArchitect168.title>
+<!-- EN: architect -->
+<VFEM_YoungArchitect168.titleShort>architecte</VFEM_YoungArchitect168.titleShort>
+
+<!-- EN: [PAWN_nameDef] surprised [PAWN_possessive] elders by brokering a truce between feuding noble families at just twelve years old. [PAWN_pronoun] used charm and logic to persuade both sides, earning respect far beyond [PAWN_possessive] years. The experience cemented [PAWN_possessive] place as a rising star in courtly politics. -->
+<VFEM_YoungDiplomat166.description>{PAWN_nameDef} a surpris ses aînés en négociant une trêve entre des familles nobles en conflit, alors qu'{PAWN_pronoun} n'avait que douze ans. {PAWN_pronoun} a usé de charme et de logique pour persuader les deux parties, gagnant un respect bien plus grand que son âge. Cette expérience lui a permis de devenir une étoile montante de la politique courtoise.</VFEM_YoungDiplomat166.description>
+<!-- EN: young diplomat -->
+<VFEM_YoungDiplomat166.title>jeune diplomate</VFEM_YoungDiplomat166.title>
+<!-- EN: diplomat -->
+<VFEM_YoungDiplomat166.titleShort>diplomate</VFEM_YoungDiplomat166.titleShort>
+
+<!-- EN: [PAWN_nameDef] was tutored in history, philosophy, and mathematics from an early age, as was expected of highborn children. [PAWN_pronoun] showed a natural curiosity and an aptitude for learning, earning praise from [PAWN_possessive] tutors. Though well-read, [PAWN_pronoun] had little experience with manual or practical work. -->
+<VFEM_YoungScholar143.description>{PAWN_nameDef} a suivi des cours d'histoire, de philosophie et de mathématiques dès son plus jeune âge, comme on l'attendait des enfants de haute naissance. {PAWN_pronoun} fit preuve d'une curiosité naturelle et d'une aptitude à apprendre, ce qui lui valut les éloges de ses tuteurs. Bien que cultivé{PAWN_gender ? : e }, {PAWN_pronoun} n'avait que peu d'expérience des travaux manuels ou pratiques.</VFEM_YoungScholar143.description>
+<!-- EN: young scholar -->
+<VFEM_YoungScholar143.title>jeune érudit</VFEM_YoungScholar143.title>
+<VFEM_YoungScholar143.titleFemale>jeune érudite</VFEM_YoungScholar143.titleFemale>
+<!-- EN: scholar -->
+<VFEM_YoungScholar143.titleShort>érudit</VFEM_YoungScholar143.titleShort>
+<VFEM_YoungScholar143.titleShortFemale>érudite</VFEM_YoungScholar143.titleShortFemale>
+
+
+</LanguageData>

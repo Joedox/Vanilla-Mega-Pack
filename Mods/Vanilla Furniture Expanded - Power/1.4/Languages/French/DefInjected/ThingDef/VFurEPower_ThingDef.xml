@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VPE_Mote_GasPuff.label>Mote</VPE_Mote_GasPuff.label>
+
+<VFE_AdvancedWindTurbine.label>turbine éolienne avancée</VFE_AdvancedWindTurbine.label>
+<VFE_AdvancedWindTurbine.description>Un générateur électrique éolien avancé de technologie spatial. Nécessite un grand espace libre devant et derrière pour une circulation optimale de l'air.</VFE_AdvancedWindTurbine.description>
+
+<VFE_AdvancedSolarGenerator.label>panneau solaire avancé</VFE_AdvancedSolarGenerator.label>
+<VFE_AdvancedSolarGenerator.description>Ce générateur solaire de technologie spatial est capable de produire beaucoup plus d'énergie de la lumière du soleil. Il ne fonctionne pas dans l'obscurité ou sous une lumière artificielle.</VFE_AdvancedSolarGenerator.description>
+
+<VFE_AdvancedWatermillGenerator.label>générateur hydroélectrique avancé</VFE_AdvancedWatermillGenerator.label>
+<VFE_AdvancedWatermillGenerator.description>Un bâtiment de technologie spatial qui produit de l'électricité à partir d'une rivière. Il doit être placé avec sa roue dans l'eau en mouvement. Si les moulins à eau sont placés trop près les uns des autres, les turbulences qu'ils génèrent interféreront et réduiront la production d'électricité.</VFE_AdvancedWatermillGenerator.description>
+
+<VPE_AdvancedGeothermalGenerator.label>générateur géothermique avancé</VPE_AdvancedGeothermalGenerator.label>
+<VPE_AdvancedGeothermalGenerator.description>Ce générateur avancé de technologie spatial produit de l'électricité à partir de geysers de vapeur géothermiques. Doit être placé sur un geyser de vapeur.</VPE_AdvancedGeothermalGenerator.description>
+
+<VFE_LargeBattery.label>grande batterie</VFE_LargeBattery.label>
+<VFE_LargeBattery.description>Stocke une grande quantité d'électricité pour une utilisation ultérieure. Les batteries chargées explosent lorsqu'elles sont exposées à la pluie ou au feu.</VFE_LargeBattery.description>
+
+<VFE_SmallBattery.label>petite batterie</VFE_SmallBattery.label>
+<VFE_SmallBattery.description>Stocke une petite quantité d'électricité pour une utilisation ultérieure. Les batteries chargées explosent lorsqu'elles sont exposées à la pluie ou au feu.</VFE_SmallBattery.description>
+
+<VFE_AdvancedBattery.label>batterie avancée</VFE_AdvancedBattery.label>
+<VFE_AdvancedBattery.description>Stocke l'électricité pour une utilisation ultérieure. Grâce aux progrès technologiques, cette unité de batterie est nettement plus efficace. Les batteries avancées chargées sont étanches et n'explosent pas lorsqu'elles sont exposées à la pluie.</VFE_AdvancedBattery.description>
+
+<VFE_LargeAdvancedBattery.label>grande batterie avancée</VFE_LargeAdvancedBattery.label>
+<VFE_LargeAdvancedBattery.description>Stocke de grandes quantités d'électricité pour une utilisation ultérieure. Grâce aux progrès technologiques, cette unité de batterie est beaucoup plus efficace. Les batteries avancées chargées sont étanches et n'explosent pas lorsqu'elles sont exposées à la pluie.</VFE_LargeAdvancedBattery.description>
+
+<VPE_NuclearGenerator.label>réacteur nucléaire</VPE_NuclearGenerator.label>
+<VPE_NuclearGenerator.description>Un grand réacteur nucléaire réutilisé à partir d'un noyau d'alimentation de vaisseau. Consomme de l'uranium pour produire de grandes quantités d'énergie. Il peut être surchargé, ce qui permet de produire encore plus d'énergie au prix de radiations locales.\n\nLe réacteur nucléaire surchauffe rapidement et doit être refroidi en permanence.\n\nNe peut être placé à l'extérieur.</VPE_NuclearGenerator.description>
+
+<VFE_PortableWoodFiredGenerator.label>générateur portable à bois</VFE_PortableWoodFiredGenerator.label>
+<VFE_PortableWoodFiredGenerator.description>Produit une petite quantité d'énergie en consommant du bois. Il doit être rechargé périodiquement et manuellement en bois. Ce générateur est suffisamment léger pour être transporté.</VFE_PortableWoodFiredGenerator.description>
+
+<VFE_PortableChemfuelPoweredGenerator.label>générateur portable à chemfuel</VFE_PortableChemfuelPoweredGenerator.label>
+<VFE_PortableChemfuelPoweredGenerator.description>Produit une petite quantité d'énergie en consommant du chemfuel. Il doit être périodiquement rechargé manuellement en chemfuel. Ce générateur est suffisamment léger pour être transporté.</VFE_PortableChemfuelPoweredGenerator.description>
+
+<VFE_IndustrialWoodFiredGenerator.label>générateur industriel à bois</VFE_IndustrialWoodFiredGenerator.label>
+<VFE_IndustrialWoodFiredGenerator.description>Produit une grande quantité d'énergie en consommant du bois. Il doit être rechargé périodiquement et manuellement en bois.</VFE_IndustrialWoodFiredGenerator.description>
+
+<VFE_IndustrialChemfuelPoweredGenerator.label>générateur industriel à chemfuel</VFE_IndustrialChemfuelPoweredGenerator.label>
+<VFE_IndustrialChemfuelPoweredGenerator.description>Produit une grande quantité d'énergie en consommant du chemfuel. Il doit être rechargé périodiquement et manuellement en chemfuel.</VFE_IndustrialChemfuelPoweredGenerator.description>
+
+<VFE_TidalGenerator.label>générateur marémotrice</VFE_TidalGenerator.label>
+<VFE_TidalGenerator.description>Produit de l'électricité à partir de masses d'eau en mouvement, notamment les marées. Doit être placé sur l'eau.</VFE_TidalGenerator.description>
+
+<VFE_SmallVanometricPowerCell.label>petite pile vanométrique</VFE_SmallVanometricPowerCell.label>
+<VFE_SmallVanometricPowerCell.description>Produit une très petite quantité d'énergie gratuite, indéfiniment, sans utiliser de carburant. Cette technologie est développée par des Archotechs, et dépasse même la plupart des sociétés de Glitterworld. Bien que personne ne sache exactement comment elle fonctionne, les chercheurs pensent qu'elle extrait en quelque sorte l'énergie directement des fluctuations de la mousse quantique.</VFE_SmallVanometricPowerCell.description>
+
+<VFE_LargeVanometricPowerCell.label>grande pile vanométrique</VFE_LargeVanometricPowerCell.label>
+<VFE_LargeVanometricPowerCell.description>Produit une grande quantité d'énergie gratuite, indéfiniment, sans utiliser de carburant. Cette technologie est développée par des Archotechs, et dépasse même la plupart des sociétés de Glitterworld. Bien que personne ne sache exactement comment elle fonctionne, les chercheurs pensent qu'elle extrait en quelque sorte l'énergie directement des fluctuations de la mousse quantique.</VFE_LargeVanometricPowerCell.description>
+
+<VPE_ArchotechViolenceGenerator.label>générateur de violence Archotech</VPE_ArchotechViolenceGenerator.label>
+<VPE_ArchotechViolenceGenerator.description>Cet appareil puise dans l'énergie psychique qui quitte le corps des humanoïdes environnants et la transforme directement en énergie utilisable. Cette technologie est développée par les Archotechs, et dépasse même la plupart des sociétés du Glitterworld.</VPE_ArchotechViolenceGenerator.description>
+
+
+</LanguageData>

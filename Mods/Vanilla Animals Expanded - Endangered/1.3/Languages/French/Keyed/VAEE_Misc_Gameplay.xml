@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Misc -->
+
+<NocturnalAnimals.BodyClock>Horloge biologique</NocturnalAnimals.BodyClock>
+<NocturnalAnimals.BodyClock_Description>Détermine quand l'animal dort et quand il est éveillé.\n\nLes animaux diurnes dorment pendant la nuit et sont éveillés pendant le jour, tandis que les animaux nocturnes dorment pendant le jour et sont éveillés pendant la nuit. Les animaux crépusculaires sont principalement actifs au crépuscule.</NocturnalAnimals.BodyClock_Description>
+
+<NocturnalAnimals.BodyClock_Diurnal>Diurne</NocturnalAnimals.BodyClock_Diurnal>
+<NocturnalAnimals.BodyClock_Nocturnal>Nocturne</NocturnalAnimals.BodyClock_Nocturnal>
+<NocturnalAnimals.BodyClock_Crepuscular>Crépuscule</NocturnalAnimals.BodyClock_Crepuscular>
+
+<VAEE.ReleaseIntoWild>Libérer dans la nature</VAEE.ReleaseIntoWild>
+<VAEE.ReleaseIntoWildDesc>Libérer cet animal dans la nature et accroître les relations avec les factions tribales et étrangères.</VAEE.ReleaseIntoWildDesc>
+<VAEE.ReleaseToRepopulate>Libérer pour repeupler</VAEE.ReleaseToRepopulate>
+<VAEE.ReleaseToRepopulateDesc>Libérer cet animal dans la nature pour qu'il se reproduise et améliore les relations avec les tribus et les factions étrangères.</VAEE.ReleaseToRepopulateDesc>
+<VAEE.LetterLabelExtintAnimalsPasses>Animaux en voie de disparition.</VAEE.LetterLabelExtintAnimalsPasses>
+<VAEE.LetterExtintAnimalsPasses>Un couple de {0}, en danger critique d'extinction, s'est égaré dans la région.\n\nIls peuvent facilement devenir la proie de grands prédateurs et de braconniers, mais vous pouvez les apprivoiser et les mettre en sécurité.\n\nLibérer des animaux en voie de disparition dans la nature améliorera les relations avec les factions tribales et étrangères.</VAEE.LetterExtintAnimalsPasses>
+<VAEE.LetterExtintAnimalsPassesRepopulate>Un couple de {0}, en danger critique d'extinction, s'est égaré dans la région.\n\nIls peuvent facilement devenir la proie de grands prédateurs et de braconniers, mais vous pouvez les apprivoiser et les mettre en sécurité.\n\nLibérer des animaux en voie de disparition dans la nature pour repeupler l'espèce améliorera les relations avec les factions tribales et étrangères.</VAEE.LetterExtintAnimalsPassesRepopulate>
+<VAEE.ReleasingToTheWildMessage>La libération d'un animal en voie de disparition dans la nature a amélioré de +2 les relations avec les factions tribales et étrangères.</VAEE.ReleasingToTheWildMessage>
+<VAEE.ReleasingToTheWildMessageRepopulate>La libération d'un animal en voie de disparition dans la nature pour repeupler l'espèce a amélioré de +2 les relations avec les factions tribales et étrangères.</VAEE.ReleasingToTheWildMessageRepopulate>
+<VAEE.ReleasingToTheWildConfirmation>Libérer dans la nature\n\nLibérer un animal dans la nature signifie que vous ne le reverrez jamais, car l'animal disparaîtra de la carte.</VAEE.ReleasingToTheWildConfirmation>
+<VAEE.ReleasingToTheWildConfirmationRepopulate>Libérer pour repeupler\n\nLibérer un animal dans la nature pour repeupler l'espèce signifie que vous ne le reverrez jamais, car l'animal disparaîtra de la carte.</VAEE.ReleasingToTheWildConfirmationRepopulate>
+<VAEE.Cancel>Annuler</VAEE.Cancel>
+<VAEE.AddBanishGizmoToAllAnimals>Ajouter le bouton "Libérer dans la nature" à tous les animaux</VAEE.AddBanishGizmoToAllAnimals>
+<VAEE.AddBanishGizmoToAllAnimalsRepopulate>Ajouter le bouton "Libérer pour repeupler" à tous les animaux</VAEE.AddBanishGizmoToAllAnimalsRepopulate>
+</LanguageData>

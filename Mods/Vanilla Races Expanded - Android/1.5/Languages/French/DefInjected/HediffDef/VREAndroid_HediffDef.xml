@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VREA_ElectromagneticShock.label>choc électromagnétique</VREA_ElectromagneticShock.label>
+<VREA_ElectromagneticShock.description>Un choc électromagnétique.</VREA_ElectromagneticShock.description>
+
+<VREA_EMPBurn.label>brûlure IEM</VREA_EMPBurn.label>
+<VREA_EMPBurn.description>Une brûlure IEM.</VREA_EMPBurn.description>
+<VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de brûlure IEM</VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+<VREA_EMPBurn.injuryProps.destroyedLabel>Brûlé(e) (IEM)</VREA_EMPBurn.injuryProps.destroyedLabel>
+<VREA_EMPBurn.injuryProps.destroyedOutLabel>Calciné(e) (IEM)</VREA_EMPBurn.injuryProps.destroyedOutLabel>
+<VREA_EMPBurn.labelNoun>une brûlure IEM</VREA_EMPBurn.labelNoun>
+<VREA_EMPBurn.labelNounPretty>une {0} au/à la {1}</VREA_EMPBurn.labelNounPretty>
+
+<VREA_NeutroLoss.label>perte de neutroamine</VREA_NeutroLoss.label>
+<VREA_NeutroLoss.description>Une réduction du volume normal de neutroamine. Une perte de neutroamine mineure a des effets relativement légers, mais lorsque la perte de neutroamine devient sévère, tous les sous-systèmes sont gravement altérés et l'androïde perd sa capacité à se déplacer. Une perte de neutroamine extrême n'entraîne jamais la mort.\n\nLa perte de neutroamine ne se rétablit pas naturellement avec le temps. Un androïde doit être inséré dans un cercueil neutroamine pour être à nouveau rempli de neutroamine.</VREA_NeutroLoss.description>
+<VREA_NeutroLoss.stages.minor-0.label>mineure</VREA_NeutroLoss.stages.minor-0.label>
+<VREA_NeutroLoss.stages.minor-1.label>mineure</VREA_NeutroLoss.stages.minor-1.label>
+<VREA_NeutroLoss.stages.moderate.label>modérée</VREA_NeutroLoss.stages.moderate.label>
+<VREA_NeutroLoss.stages.severe.label>sévère</VREA_NeutroLoss.stages.severe.label>
+<VREA_NeutroLoss.stages.extreme.label>extrême</VREA_NeutroLoss.stages.extreme.label>
+
+<VREA_Freezing.label>congélation</VREA_Freezing.label>
+<VREA_Freezing.description>La température centrale de l'androïde est dangereusement basse. Si l'androïde n'est pas réchauffé, la congélation s'aggrave et peut entraîner des dommages critiques aux biocomposants. La récupération est rapide une fois que l'androïde est réchauffé. Pour éviter la congélation, votre androïde doit être équipé de vêtements chauds dans les environnements froids.</VREA_Freezing.description>
+<VREA_Freezing.stages.shivering-0.label>insignifiante</VREA_Freezing.stages.shivering-0.label>
+<VREA_Freezing.stages.shivering-1.label>frissonnante</VREA_Freezing.stages.shivering-1.label>
+<VREA_Freezing.stages.minor.label>mineure</VREA_Freezing.stages.minor.label>
+<VREA_Freezing.stages.serious.label>sérieuse</VREA_Freezing.stages.serious.label>
+<VREA_Freezing.stages.extreme.label>extrême</VREA_Freezing.stages.extreme.label>
+
+<VREA_Freeze.label>geler</VREA_Freeze.label>
+<VREA_Freeze.description>Tissu congelé à cause d'une exposition au froid sans protection adéquate. Les engelures sont très douloureuses et les parties du corps gelées sont souvent perdues.</VREA_Freeze.description>
+<VREA_Freeze.injuryProps.destroyedLabel>Gelé(e)</VREA_Freeze.injuryProps.destroyedLabel>
+<VREA_Freeze.labelNounPretty>une {0} au/à la {1}</VREA_Freeze.labelNounPretty>
+
+<VREA_Overheating.label>surchauffe</VREA_Overheating.label>
+<VREA_Overheating.description>Perturbation généralisée du fonctionnement de l'androïde causée par une exposition excessive à la chaleur et au soleil. La mémoire de l'androïde est brouillée, ce qui accélère la perte d'espace mémoire. La récupération est rapide une fois dans un endroit frais, mais si l'exposition à la chaleur se poursuit, l'androïde continuera à perdre de l'espace mémoire, ce qui peut entraîner des reformatages fréquents.</VREA_Overheating.description>
+<VREA_Overheating.stages.initial.label>initiale</VREA_Overheating.stages.initial.label>
+<VREA_Overheating.stages.minor.label>mineure</VREA_Overheating.stages.minor.label>
+<VREA_Overheating.stages.serious.label>sérieuse</VREA_Overheating.stages.serious.label>
+<VREA_Overheating.stages.extreme.label>extrême</VREA_Overheating.stages.extreme.label>
+
+<VREA_ScanningSickness.label>maladie de la numérisation</VREA_ScanningSickness.label>
+<VREA_ScanningSickness.description>Cette personne a été scannée par un polyanalyseur de sous-noyau pour produire un sous-noyau de personnalité androïde. L'appareil de balayage à haute énergie a provoqué des perturbations dans la chimie du cerveau qui prendront du temps à se résorber. Il n'y aura pas de dommages à long terme.</VREA_ScanningSickness.description>
+
+<VREA_NeuroPump.label>neutropompe</VREA_NeuroPump.label>
+<VREA_NeuroPump.description>Une neutropompe installée.</VREA_NeuroPump.description>
+<VREA_NeuroPump.labelNoun>une neutropompe</VREA_NeuroPump.labelNoun>
+
+<VREA_AirFilter.label>filtre à air</VREA_AirFilter.label>
+<VREA_AirFilter.description>Un filtre à air installé.</VREA_AirFilter.description>
+<VREA_AirFilter.labelNoun>un filtre à air</VREA_AirFilter.labelNoun>
+
+<VREA_Neutrofilter.label>neutrofiltre</VREA_Neutrofilter.label>
+<VREA_Neutrofilter.description>Un neutrofiltre installé.</VREA_Neutrofilter.description>
+<VREA_Neutrofilter.labelNoun>un neutrofiltre</VREA_Neutrofilter.labelNoun>
+
+<VREA_MetabolismRegulator.label>régulateur métabolique</VREA_MetabolismRegulator.label>
+<VREA_MetabolismRegulator.description>Un régulateur métabolique installé.</VREA_MetabolismRegulator.description>
+<VREA_MetabolismRegulator.labelNoun>un régulateur métabolique</VREA_MetabolismRegulator.labelNoun>
+
+<VREA_Reactor.label>réacteur</VREA_Reactor.label>
+<VREA_Reactor.description>Un réacteur installé.</VREA_Reactor.description>
+<VREA_Reactor.labelNoun>un réacteur</VREA_Reactor.labelNoun>
+
+<VREA_ArtificialBrain.label>cerveau artificiel</VREA_ArtificialBrain.label>
+<VREA_ArtificialBrain.description>Un cerveau artificiel installé.</VREA_ArtificialBrain.description>
+<VREA_ArtificialBrain.labelNoun>un cerveau artificiel</VREA_ArtificialBrain.labelNoun>
+
+<VREA_OpticalUnit.label>unité optique</VREA_OpticalUnit.label>
+<VREA_OpticalUnit.description>Une unité optique installée.</VREA_OpticalUnit.description>
+<VREA_OpticalUnit.labelNoun>une unité optique</VREA_OpticalUnit.labelNoun>
+
+<VREA_AudioProcessor.label>processeur audio</VREA_AudioProcessor.label>
+<VREA_AudioProcessor.description>Un processeur audio installé.</VREA_AudioProcessor.description>
+<VREA_AudioProcessor.labelNoun>un processeur audio</VREA_AudioProcessor.labelNoun>
+
+<VREA_ArtificialNose.label>nez artificiel</VREA_ArtificialNose.label>
+<VREA_ArtificialNose.description>Un nez artificiel installé.</VREA_ArtificialNose.description>
+<VREA_ArtificialNose.labelNoun>un nez artificiel</VREA_ArtificialNose.labelNoun>
+
+<VREA_ArtificialJaw.label>mâchoire artificielle</VREA_ArtificialJaw.label>
+<VREA_ArtificialJaw.description>Une mâchoire artificielle installée.</VREA_ArtificialJaw.description>
+<VREA_ArtificialJaw.labelNoun>une mâchoire artificielle</VREA_ArtificialJaw.labelNoun>
+
+<VREA_ArtificialRibcage.label>cage thoracique artificielle</VREA_ArtificialRibcage.label>
+<VREA_ArtificialRibcage.description>Une cage thoracique artificielle installée.</VREA_ArtificialRibcage.description>
+<VREA_ArtificialRibcage.labelNoun>une cage thoracique artificielle</VREA_ArtificialRibcage.labelNoun>
+
+<VREA_ArtificialSpine.label>colonne vertébrale artificielle</VREA_ArtificialSpine.label>
+<VREA_ArtificialSpine.description>Une colonne vertébrale artificielle installée.</VREA_ArtificialSpine.description>
+<VREA_ArtificialSpine.labelNoun>une colonne vertébrale artificielle</VREA_ArtificialSpine.labelNoun>
+
+<VREA_AndroidLeg.label>jambe androïde</VREA_AndroidLeg.label>
+<VREA_AndroidLeg.description>Une jambe androïde installée.</VREA_AndroidLeg.description>
+<VREA_AndroidLeg.labelNoun>une jambe androïde</VREA_AndroidLeg.labelNoun>
+
+<VREA_AndroidFoot.label>pied androïde</VREA_AndroidFoot.label>
+<VREA_AndroidFoot.description>Un pied androïde installé.</VREA_AndroidFoot.description>
+<VREA_AndroidFoot.labelNoun>un pied androïde</VREA_AndroidFoot.labelNoun>
+
+<VREA_AndroidArm.label>bras androïde</VREA_AndroidArm.label>
+<VREA_AndroidArm.description>Un bras androïde installé.</VREA_AndroidArm.description>
+<VREA_AndroidArm.labelNoun>un bras androïde</VREA_AndroidArm.labelNoun>
+
+<VREA_AndroidHand.label>main androïde</VREA_AndroidHand.label>
+<VREA_AndroidHand.description>Une main androïde installée.</VREA_AndroidHand.description>
+<VREA_AndroidHand.labelNoun>une main androïde</VREA_AndroidHand.labelNoun>
+
+<VREA_Clavicle.label>clavicule androïde</VREA_Clavicle.label>
+
+<VREA_Femur.label>fémur androïde</VREA_Femur.label>
+
+<VREA_Finger.label>doigt androïde</VREA_Finger.label>
+
+<VREA_Humerus.label>humérus androïde</VREA_Humerus.label>
+
+<VREA_Neck.label>cou androïde</VREA_Neck.label>
+
+<VREA_Pelvis.label>bassin androïde</VREA_Pelvis.label>
+
+<VREA_Radius.label>radius androïde</VREA_Radius.label>
+
+<VREA_Shoulder.label>épaule androïde</VREA_Shoulder.label>
+
+<VREA_Sternum.label>sternum androïde</VREA_Sternum.label>
+
+<VREA_Tibia.label>tibia androïde</VREA_Tibia.label>
+
+<VREA_Toe.label>orteil androïde</VREA_Toe.label>
+
+<VREA_Tongue.label>langue androïde</VREA_Tongue.label>
+
+<VREA_Waist.label>emplacement utilitaire androïde</VREA_Waist.label>
+
+
+</LanguageData>

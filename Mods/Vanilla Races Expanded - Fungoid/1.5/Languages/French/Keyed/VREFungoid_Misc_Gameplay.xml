@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+<VRE_InfectionLabel>Infecteur de gènes ({0}), {1}</VRE_InfectionLabel>
+<VRE_InfectionDescription>Infection causée par le contact avec un {0}. Lorsqu'il atteint 100%, le colon se transforme en {0}.</VRE_InfectionDescription>
+<VRE_InfectedLabel>Gène infecté ({0} jour{0_multiple ? s : })</VRE_InfectedLabel>
+<VRE_InfectionChance>Chance d'infection des gènes</VRE_InfectionChance>
+<VRE_InfectionChanceDesc>Chance d'infection des gènes de la cible. Par défaut, elle est de 20%. Gardez à l'esprit que cela ne s'applique qu'aux attaques de griffes et de dents. Si la personne possédant "infecteur de gène" utilise des armes de mêlée, les chances d'infection s'en trouveront réduites.</VRE_InfectionChanceDesc>
+<VRE_Reset>Réinitialiser</VRE_Reset>
+
+
+</LanguageData>

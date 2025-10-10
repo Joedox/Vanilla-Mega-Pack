@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: genetic alteration -->
+<GR_GeneticAlteration.label>modification génétique</GR_GeneticAlteration.label>
+<!-- EN: Craft the Tissue Grinder and Genome Extractor Table to create genoframes and genomes respectively. -->
+<GR_GeneticAlteration.description>Vous permet de fabriquer le broyeur tissulaire et la table d'extraction de génomes pour créer respectivement des génocadres et des génomes.</GR_GeneticAlteration.description>
+<!-- EN:
+  <li>subject->unveiling genetic fabrics</li>
+  <li>subject_story->embarked on the journey to manipulate the very blueprint of life, crafting tools to unravel and reweave genetic threads</li>
+  <li>subject_story->created the Tissue Grinder and Genome Extractor Table, key instruments in the quest to understand and harness genetic potential</li>
+  <li>subject_gerund->laying the groundwork for a future where biology meets creativity</li>
+-->
+<GR_GeneticAlteration.generalRules.rulesStrings>
+  <li>subject->la découverte des tissus génétiques</li>
+  <li>subject_story->s'est lancé dans la manipulation de l'essence même de la vie, fabriquant des outils pour démêler et retisser les fils génétiques</li>
+  <li>subject_story->a créé le broyeur tissulaire et la table d'extraction de génomes, des instruments clés dans la recherche de la compréhension et de l'exploitation du potentiel génétique</li>
+  <li>subject_gerund->l'établissement des bases d'un avenir où la biologie rencontre la créativité</li>
+</GR_GeneticAlteration.generalRules.rulesStrings>
+
+<!-- EN: genetic compatibility -->
+<GR_GeneticCompatibility.label>compatibilité génétique</GR_GeneticCompatibility.label>
+<!-- EN: Grow bio-engineered implants for humans on the Implant augmentator. -->
+<GR_GeneticCompatibility.description>Vous permet de cultiver des implants bio-ingénierie pour les humains avec l'amplificateur d'implants.</GR_GeneticCompatibility.description>
+<!-- EN:
+  <li>subject->bridging genomes</li>
+  <li>subject_story->extended the boundaries of bio-engineering to humans, ensuring compatibility between their biology and the myriad forms of life</li>
+  <li>subject_story->focused on the harmony of existence, where human potential can be expanded through genetic synergy</li>
+  <li>subject_gerund->harmonizing human essence with the genetic chorus of the cosmos</li>
+-->
+<GR_GeneticCompatibility.generalRules.rulesStrings>
+  <li>subject->le rapprochement des génomes</li>
+  <li>subject_story->a étendu les limites de la bio-ingénierie à l'homme, en assurant la compatibilité entre sa biologie et les innombrables formes de vie</li>
+  <li>subject_story->s'est concentré sur l'harmonie de l'existence, où le potentiel humain peut être développé grâce à la synergie génétique</li>
+  <li>subject_gerund->l'harmonisation de l'essence humaine avec le chœur génétique du cosmos</li>
+</GR_GeneticCompatibility.generalRules.rulesStrings>
+
+<!-- EN: genetic duplication -->
+<GR_GeneticDuplication.label>duplication génétique</GR_GeneticDuplication.label>
+<!-- EN: Manufacture Template Genomes through the Genome Recombinator and duplicate existing Genomes. -->
+<GR_GeneticDuplication.description>Vous permet de fabriquer des génomes vierges grâce au recombinateur de génomes et dupliquez les génomes existants.</GR_GeneticDuplication.description>
+<!-- EN:
+  <li>subject->mirroring life</li>
+  <li>subject_story->mastered the art of genomic replication, ensuring valuable genetic traits can be preserved and replicated</li>
+  <li>subject_story->innovated with the Genome Recombinator, a breakthrough in the efficient duplication of genetic material</li>
+  <li>subject_gerund->duplicating the essence of life for prosperity and progress</li>
+-->
+<GR_GeneticDuplication.generalRules.rulesStrings>
+  <li>subject->le miroir de la vie</li>
+  <li>subject_story->a maîtrisé l'art de la réplication génomique, ce qui permet de préserver et de reproduire des caractéristiques génétiques précieuses</li>
+  <li>subject_story->a innové avec le recombinateur de génomes, une percée dans la duplication efficace du matériel génétique</li>
+  <li>subject_gerund->la reproduction de l'essence de la vie pour la prospérité et le progrès</li>
+</GR_GeneticDuplication.generalRules.rulesStrings>
+
+<!-- EN: genetic creation -->
+<GR_GeneticEngineering.label>création génétique</GR_GeneticEngineering.label>
+<!-- EN: Create new hybrids with the Genomorpher, gestate them in an Electrowomb and create boosters at the Genetics Tinkering Table. -->
+<GR_GeneticEngineering.description>Vous permet de fabriquer de nouveaux hybrides à l'aide du synthétiseur de génome, faites-en la gestation dans une électrocouveuse et créez des amplificateurs à la table d'amélioration génétique.</GR_GeneticEngineering.description>
+<!-- EN:
+  <li>subject->the architects of life</li>
+  <li>subject_story->transcended traditional breeding, employing the Genomorpher to forge new forms of life</li>
+  <li>subject_story->ushered in the age of the Electrowomb, where gestation becomes a process guided by precision and intent</li>
+  <li>subject_gerund->sculpting the living world with visionary hands</li>
+-->
+<GR_GeneticEngineering.generalRules.rulesStrings>
+  <li>subject->les architectes de la vie</li>
+  <li>subject_story->a transcendé l'élevage traditionnel en utilisant le synthétiseur de génome pour créer de nouvelles formes de vie</li>
+  <li>subject_story->a inauguré l'ère de l'électrocouveuse, où la gestation devient un processus guidé par la précision et l'intention</li>
+  <li>subject_gerund->la sculpture du monde vivant par des mains visionnaires</li>
+</GR_GeneticEngineering.generalRules.rulesStrings>
+
+<!-- EN: genetic mechahybridization -->
+<GR_GeneticMechahybridization.label>mécahybridation génétique</GR_GeneticMechahybridization.label>
+<!-- EN: Create Biomechanical Lab beacons to find mechahybridizers, and construct mechahybrid antennas to support more mechanoid hybrids. -->
+<GR_GeneticMechahybridization.description>Vous permet de fabriquer des balises de laboratoire biomécanique pour trouver des hybrides mécanoïdes, et construisez des antennes mécahybrides pour accueillir davantage hybrides mécanoïdes.</GR_GeneticMechahybridization.description>
+<!-- EN:
+  <li>subject->the synthesis of organic and machine</li>
+  <li>subject_story->ventured into uncharted territories, blending organic life with mechanoid essence to birth new forms of existence</li>
+  <li>subject_story->established the Biomechanical Lab, a beacon for those who dare to redefine life's boundaries</li>
+  <li>subject_gerund->forging the future with strands of DNA and circuits entwined</li>
+-->
+<GR_GeneticMechahybridization.generalRules.rulesStrings>
+  <li>subject->la synthèse de la matière organique et de la machine</li>
+  <li>subject_story->s'est aventuré dans des territoires inexplorés, mêlant la vie organique à l'essence mécanoïde pour donner naissance à de nouvelles formes d'existence</li>
+  <li>subject_story->a créé le laboratoire de biomécanique, un phare pour ceux qui osent redéfinir les limites de la vie</li>
+  <li>subject_gerund->la création de l'avenir avec des brins d'ADN et des circuits entrelacés</li>
+</GR_GeneticMechahybridization.generalRules.rulesStrings>
+
+<!-- EN: genetic augmentation -->
+<GR_HybridImplantology.label>augmentation génétique</GR_HybridImplantology.label>
+<!-- EN: Grow bio-engineered implants for hybrids and animals alike on the Implant augmentator. -->
+<GR_HybridImplantology.description>Vous permet de cultiver des implants bio-ingénierie pour les hybrides et les animaux avec l'amplificateur d'implant.</GR_HybridImplantology.description>
+<!-- EN:
+  <li>subject->fusing flesh and innovation</li>
+  <li>subject_story->pioneered the growth of bio-engineered implants, merging organic life with enhancements</li>
+  <li>subject_story->explored the possibilities of augmentation, not just for survival but for the evolution of abilities</li>
+  <li>subject_gerund->cultivating the next step in organismal advancement</li>
+-->
+<GR_HybridImplantology.generalRules.rulesStrings>
+  <li>subject->la fusion de la chair et de l'innovation</li>
+  <li>subject_story->a été le premier à développer des implants issus de la bio-ingénierie, fusionnant la vie organique avec des améliorations</li>
+  <li>subject_story->a exploré les possibilités d'augmentation, non seulement pour la survie mais aussi pour l'évolution des capacités</li>
+  <li>subject_gerund->la culture de l'étape suivante dans l'évolution de l'organisme</li>
+</GR_HybridImplantology.generalRules.rulesStrings>
+
+
+</LanguageData>

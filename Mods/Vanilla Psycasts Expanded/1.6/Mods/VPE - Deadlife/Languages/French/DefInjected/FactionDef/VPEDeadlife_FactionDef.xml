@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Allied Shamblers -->
+<AlliedShamblers.label>zombies alliés</AlliedShamblers.label>
+<!-- EN: This faction is hidden and used as a fix to the shamblerified people not attacking, why is it needed? Even I don't know why shamblers broke because of that ability but this faction makes them work again! -->
+<AlliedShamblers.description>Cette faction est cachée et utilisée pour corriger le fait que les personnes zombifiées n'attaquent pas, pourquoi en avoir besoin ? Même moi, je ne sais pas pourquoi les zombies se sont cassés à cause de cette capacité, mais cette faction les fait fonctionner à nouveau !</AlliedShamblers.description>
+<!-- EN: Shamblers -->
+<AlliedShamblers.fixedName>Zombies</AlliedShamblers.fixedName>
+<!-- EN: leader -->
+<AlliedShamblers.leaderTitle>chef</AlliedShamblers.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<AlliedShamblers.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</AlliedShamblers.messageDefendersAttacking>
+<!-- EN: shambler -->
+<AlliedShamblers.pawnSingular>zombie</AlliedShamblers.pawnSingular>
+<!-- EN: shamblers -->
+<AlliedShamblers.pawnsPlural>zombies</AlliedShamblers.pawnsPlural>
+
+
+</LanguageData>

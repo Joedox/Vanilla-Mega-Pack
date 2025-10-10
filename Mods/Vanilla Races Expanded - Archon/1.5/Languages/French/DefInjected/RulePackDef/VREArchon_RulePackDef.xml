@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<NamerWeaponArchon.rulePack.rulesStrings>
+    <li>r_weapon_name(p=4)->[archoNoun][archoVerber]</li>
+    <li>r_weapon_name(p=3)->[archoBeginSyl][archoMiddleSyl][archoEndSyl]</li>
+    <li>r_weapon_name(p=2)->[archoBeginSyl][archoMiddleSyl][archoMiddleSyl][archoEndSyl]</li>
+    <li>r_weapon_name(p=1)->[archoBeginSyl][archoEndSyl]</li>
+    <li>r_weapon_name(p=1)->[archoBeginSyl][archoMiddleSyl][archoEndSyl][archoVerber]</li>
+
+    <li>archoNoun->Zar</li>
+    <li>archoNoun->Ki</li>
+    <li>archoNoun->Yank</li>
+    <li>archoNoun->Vith</li>
+    <li>archoNoun->Lak</li>
+    <li>archoNoun->Raeth</li>
+    <li>archoNoun->Archo</li>
+    <li>archoNoun->Zera</li>
+    <li>archoNoun->Thra</li>
+    <li>archoNoun->Vark</li>
+    <li>archoNoun->Ril</li>
+    <li>archoNoun->Zal</li>
+
+    <li>archoVerber->tueuse</li>
+    <li>archoVerber->manieuse</li>
+    <li>archoVerber->interlocutrice</li>
+    <li>archoVerber->relieuse</li>
+    <li>archoVerber->voyante</li>
+    <li>archoVerber->marcheuse</li>
+    <li>archoVerber->chanteuse</li>
+    <li>archoVerber->forgeuse</li>
+    <li>archoVerber->détentrice</li>
+    <li>archoVerber->porteuse</li>
+    <li>archoVerber->expéditrice</li>
+    <li>archoVerber->donneuse</li>
+    <li>archoVerber->créatrice</li>
+    <li>archoVerber->broyeuse</li>
+    <li>archoVerber->briseuse</li>
+    <li>archoVerber->pilonneuse</li>
+    <li>archoVerber->cintreuse</li>
+    <li>archoVerber->connaisseuse</li>
+    <li>archoVerber->faiseuse</li>
+
+    <li>archoBeginSyl->Zar</li>
+    <li>archoBeginSyl->Ki</li>
+    <li>archoBeginSyl->Yank</li>
+    <li>archoBeginSyl->Vith</li>
+    <li>archoBeginSyl->Thra</li>
+    <li>archoBeginSyl->Vark</li>
+    <li>archoBeginSyl->Ril</li>
+    <li>archoBeginSyl->Zal</li>
+    <li>archoBeginSyl->Drak</li>
+    <li>archoBeginSyl->Thor</li>
+    <li>archoBeginSyl->Lir</li>
+
+    <li>archoMiddleSyl->lak</li>
+    <li>archoMiddleSyl->rae</li>
+    <li>archoMiddleSyl->archo</li>
+    <li>archoMiddleSyl->zera</li>
+    <li>archoMiddleSyl->thor</li>
+    <li>archoMiddleSyl->drak</li>
+    <li>archoMiddleSyl->lir</li>
+    <li>archoMiddleSyl->vark</li>
+    <li>archoMiddleSyl->thra</li>
+
+    <li>archoEndSyl->th</li>
+    <li>archoEndSyl->ki</li>
+    <li>archoEndSyl->zar</li>
+    <li>archoEndSyl->rae</li>
+    <li>archoEndSyl->lir</li>
+    <li>archoEndSyl->vark</li>
+    <li>archoEndSyl->thra</li>
+    <li>archoEndSyl->zal</li>
+    <li>archoEndSyl->drak</li>
+</NamerWeaponArchon.rulePack.rulesStrings>
+
+<NamerPersonTranscendent.rulePack.rulesStrings>
+    <li>r_name(p=2)->[archoNoun][archoMiddleSyl] [archoMiddleSylMAJ][archoEndSyl]</li>
+    <li>r_name->[archoBeginSyl][archoEndSyl] [archoNoun]</li>
+    <li>r_name->[archoBeginSyl][archoMiddleSyl] [archoMiddleSylMAJ][archoEndSyl]</li>
+    <li>r_name->[archoBeginSyl][archoEndSyl] [archoBeginSyl][archoEndSyl]</li>
+    <li>r_name->[archoBeginSyl][archoMiddleSyl] [archoEndSylMAJ]</li>
+
+    <li>archoNoun->Zar</li>
+    <li>archoNoun->Ki</li>
+    <li>archoNoun->Yank</li>
+    <li>archoNoun->Vith</li>
+    <li>archoNoun->Lak</li>
+    <li>archoNoun->Raeth</li>
+    <li>archoNoun->Archo</li>
+    <li>archoNoun->Zera</li>
+    <li>archoNoun->Thra</li>
+    <li>archoNoun->Vark</li>
+    <li>archoNoun->Ril</li>
+    <li>archoNoun->Zal</li>
+
+    <li>archoBeginSyl->Zar</li>
+    <li>archoBeginSyl->Ki</li>
+    <li>archoBeginSyl->Yank</li>
+    <li>archoBeginSyl->Vith</li>
+    <li>archoBeginSyl->Thra</li>
+    <li>archoBeginSyl->Vark</li>
+    <li>archoBeginSyl->Ril</li>
+    <li>archoBeginSyl->Zal</li>
+    <li>archoBeginSyl->Drak</li>
+    <li>archoBeginSyl->Thor</li>
+    <li>archoBeginSyl->Lir</li>
+
+    <li>archoMiddleSyl->lak</li>
+    <li>archoMiddleSyl->rae</li>
+    <li>archoMiddleSyl->archo</li>
+    <li>archoMiddleSyl->zera</li>
+    <li>archoMiddleSyl->thor</li>
+    <li>archoMiddleSyl->drak</li>
+    <li>archoMiddleSyl->lir</li>
+    <li>archoMiddleSyl->vark</li>
+    <li>archoMiddleSyl->thra</li>
+
+    <li>archoMiddleSylMAJ->Lak</li>
+    <li>archoMiddleSylMAJ->Rae</li>
+    <li>archoMiddleSylMAJ->Archo</li>
+    <li>archoMiddleSylMAJ->Zera</li>
+    <li>archoMiddleSylMAJ->Thor</li>
+    <li>archoMiddleSylMAJ->Drak</li>
+    <li>archoMiddleSylMAJ->Lir</li>
+    <li>archoMiddleSylMAJ->Vark</li>
+    <li>archoMiddleSylMAJ->Thra</li>
+
+    <li>archoEndSyl->th</li>
+    <li>archoEndSyl->ki</li>
+    <li>archoEndSyl->zar</li>
+    <li>archoEndSyl->rae</li>
+    <li>archoEndSyl->lir</li>
+    <li>archoEndSyl->vark</li>
+    <li>archoEndSyl->thra</li>
+    <li>archoEndSyl->zal</li>
+    <li>archoEndSyl->drak</li>
+
+    <li>archoEndSylMAJ->Th</li>
+    <li>archoEndSylMAJ->Ki</li>
+    <li>archoEndSylMAJ->Zar</li>
+    <li>archoEndSylMAJ->Rae</li>
+    <li>archoEndSylMAJ->Lir</li>
+    <li>archoEndSylMAJ->Vark</li>
+    <li>archoEndSylMAJ->Thra</li>
+    <li>archoEndSylMAJ->Zal</li>
+    <li>archoEndSylMAJ->Drak</li>
+</NamerPersonTranscendent.rulePack.rulesStrings>
+
+
+</LanguageData>

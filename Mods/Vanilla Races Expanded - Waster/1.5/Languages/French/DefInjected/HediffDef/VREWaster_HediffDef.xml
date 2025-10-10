@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_ToxAbsorption.label>absorption toxique</VRE_ToxAbsorption.label>
+<VRE_ToxAbsorption.description>Absorption directe des gaz toxiques par la peau, ce qui augmente la vitesse à laquelle la pollution est satisfaite pour divers gènes liés à la pollution.</VRE_ToxAbsorption.description>
+
+<VRE_PollutionRegeneration.label>régénération de pollution</VRE_PollutionRegeneration.label>
+<VRE_PollutionRegeneration.description>Bénéficier d'une guérison naturelle accélérée dans les environnements pollués. Avec l'augmentation du niveau de pollution, les capacités de régénération sont renforcées, ce qui permet de se remettre plus rapidement des blessures et de retrouver sa vitalité.</VRE_PollutionRegeneration.description>
+<VRE_PollutionRegeneration.descriptionShort>Cette créature se régénère en s'exposant à la pollution.</VRE_PollutionRegeneration.descriptionShort>
+<VRE_PollutionRegeneration.stages.inactive.label>inactive</VRE_PollutionRegeneration.stages.inactive.label>
+<VRE_PollutionRegeneration.stages.minor.label>mineure</VRE_PollutionRegeneration.stages.minor.label>
+<VRE_PollutionRegeneration.stages.moderate.label>modérée</VRE_PollutionRegeneration.stages.moderate.label>
+<VRE_PollutionRegeneration.stages.extreme.label>extrême</VRE_PollutionRegeneration.stages.extreme.label>
+
+<VRE_PollutionRage.label>rage de pollution</VRE_PollutionRage.label>
+<VRE_PollutionRage.description>Les environnements pollués amplifient les dégâts au corps-à-corps. À mesure que le niveau de pollution augmente, la férocité et la force s'intensifient, ce qui permet d'infliger des dégâts plus importants aux adversaires.</VRE_PollutionRage.description>
+<VRE_PollutionRage.descriptionShort>Cette créature est enragée par l'exposition à la pollution.</VRE_PollutionRage.descriptionShort>
+<VRE_PollutionRage.stages.inactive.label>inactive</VRE_PollutionRage.stages.inactive.label>
+<VRE_PollutionRage.stages.minor.label>mineure</VRE_PollutionRage.stages.minor.label>
+<VRE_PollutionRage.stages.moderate.label>modérée</VRE_PollutionRage.stages.moderate.label>
+<VRE_PollutionRage.stages.extreme.label>extrême</VRE_PollutionRage.stages.extreme.label>
+
+<VRE_PollutionSustenance.label>subsistance de pollution</VRE_PollutionSustenance.label>
+<VRE_PollutionSustenance.description>La pollution est source d'alimentation, ce qui ralentit le rythme de la faim.</VRE_PollutionSustenance.description>
+<VRE_PollutionSustenance.descriptionShort>Cette créature tire son alimentation de son exposition à la pollution.</VRE_PollutionSustenance.descriptionShort>
+<VRE_PollutionSustenance.stages.inactive.label>inactive</VRE_PollutionSustenance.stages.inactive.label>
+<VRE_PollutionSustenance.stages.minor.label>mineure</VRE_PollutionSustenance.stages.minor.label>
+<VRE_PollutionSustenance.stages.moderate.label>modérée</VRE_PollutionSustenance.stages.moderate.label>
+<VRE_PollutionSustenance.stages.extreme.label>extrême</VRE_PollutionSustenance.stages.extreme.label>
+
+<VRE_PollutionCognition.label>cognition de pollution</VRE_PollutionCognition.label>
+<VRE_PollutionCognition.description>Amélioration de la concentration et des capacités d'apprentissage dans les environnements pollués. À mesure que le niveau de pollution augmente, la capacité d'acquérir de nouvelles compétences et de retenir les connaissances s'accroît.</VRE_PollutionCognition.description>
+<VRE_PollutionCognition.descriptionShort>Cette créature a amélioré son apprentissage grâce à son exposition à la pollution.</VRE_PollutionCognition.descriptionShort>
+<VRE_PollutionCognition.stages.inactive.label>inactive</VRE_PollutionCognition.stages.inactive.label>
+<VRE_PollutionCognition.stages.minor.label>mineure</VRE_PollutionCognition.stages.minor.label>
+<VRE_PollutionCognition.stages.moderate.label>modérée</VRE_PollutionCognition.stages.moderate.label>
+<VRE_PollutionCognition.stages.extreme.label>extrême</VRE_PollutionCognition.stages.extreme.label>
+
+<VRE_PollutionNumbness.label>engourdissement de pollution</VRE_PollutionNumbness.label>
+<VRE_PollutionNumbness.description>Réduction des sensations de douleur dans les environnements pollués à mesure que le niveau de pollution augmente.</VRE_PollutionNumbness.description>
+<VRE_PollutionNumbness.descriptionShort>Cette créature a des sensations à la douleur réduites en raison de son exposition à la pollution.</VRE_PollutionNumbness.descriptionShort>
+<VRE_PollutionNumbness.stages.inactive.label>inactif</VRE_PollutionNumbness.stages.inactive.label>
+<VRE_PollutionNumbness.stages.minor.label>mineur</VRE_PollutionNumbness.stages.minor.label>
+<VRE_PollutionNumbness.stages.moderate.label>modéré</VRE_PollutionNumbness.stages.moderate.label>
+<VRE_PollutionNumbness.stages.extreme.label>extrême</VRE_PollutionNumbness.stages.extreme.label>
+
+<VRE_PollutionHappiness.label>bonheur de pollution</VRE_PollutionHappiness.label>
+<VRE_PollutionHappiness.description>Le bonheur s'accroît dans les environnements pollués, la joie et le contentement augmentant à mesure que le niveau de pollution augmente.</VRE_PollutionHappiness.description>
+<VRE_PollutionHappiness.descriptionShort>Cette créature a une humeur changeante en raison de son exposition à la pollution.</VRE_PollutionHappiness.descriptionShort>
+<VRE_PollutionHappiness.stages.inactive.label>inactif</VRE_PollutionHappiness.stages.inactive.label>
+<VRE_PollutionHappiness.stages.minor.label>mineur</VRE_PollutionHappiness.stages.minor.label>
+<VRE_PollutionHappiness.stages.moderate.label>modéré</VRE_PollutionHappiness.stages.moderate.label>
+<VRE_PollutionHappiness.stages.extreme.label>extrême</VRE_PollutionHappiness.stages.extreme.label>
+
+<VRE_PollutionProductivity.label>productivité de pollution</VRE_PollutionProductivity.label>
+<VRE_PollutionProductivity.description>La vitesse de travail est nettement améliorée dans les environnements pollués et l'accomplissement des tâches est plus efficace et plus rapide à mesure que le niveau de pollution augmente.</VRE_PollutionProductivity.description>
+<VRE_PollutionProductivity.descriptionShort>Cette créature est plus productive du fait de son exposition à la pollution.</VRE_PollutionProductivity.descriptionShort>
+<VRE_PollutionProductivity.stages.inactive.label>inactive</VRE_PollutionProductivity.stages.inactive.label>
+<VRE_PollutionProductivity.stages.minor.label>mineure</VRE_PollutionProductivity.stages.minor.label>
+<VRE_PollutionProductivity.stages.moderate.label>modérée</VRE_PollutionProductivity.stages.moderate.label>
+<VRE_PollutionProductivity.stages.extreme.label>extrême</VRE_PollutionProductivity.stages.extreme.label>
+
+<VRE_PollutionPsySensitivity.label>sensibilité psychique de pollution</VRE_PollutionPsySensitivity.label>
+<VRE_PollutionPsySensitivity.description>Une sensibilité psychique amplifiée dans les environnements pollués, conduisant à une intuition plus forte et à des compétences télépathiques à mesure que le niveau de pollution augmente.</VRE_PollutionPsySensitivity.description>
+<VRE_PollutionPsySensitivity.descriptionShort>Cette créature a une sensibilité psychique accrue du fait de son exposition à la pollution.</VRE_PollutionPsySensitivity.descriptionShort>
+<VRE_PollutionPsySensitivity.stages.inactive.label>inactive</VRE_PollutionPsySensitivity.stages.inactive.label>
+<VRE_PollutionPsySensitivity.stages.minor.label>mineure</VRE_PollutionPsySensitivity.stages.minor.label>
+<VRE_PollutionPsySensitivity.stages.moderate.label>modérée</VRE_PollutionPsySensitivity.stages.moderate.label>
+<VRE_PollutionPsySensitivity.stages.extreme.label>extrême</VRE_PollutionPsySensitivity.stages.extreme.label>
+
+<VRE_PollutionFertility.label>fertilité de pollution</VRE_PollutionFertility.label>
+<VRE_PollutionFertility.description>La fertilité est stimulée dans les environnements pollués, ce qui permet d'augmenter la natalité et d'accélérer l'expansion de la lignée dans des conditions dangereuses.</VRE_PollutionFertility.description>
+<VRE_PollutionFertility.descriptionShort>Cette créature a une fertilité accrue en raison de son exposition à la pollution.</VRE_PollutionFertility.descriptionShort>
+<VRE_PollutionFertility.stages.inactive.label>inactive</VRE_PollutionFertility.stages.inactive.label>
+<VRE_PollutionFertility.stages.minor.label>mineure</VRE_PollutionFertility.stages.minor.label>
+<VRE_PollutionFertility.stages.moderate.label>modérée</VRE_PollutionFertility.stages.moderate.label>
+<VRE_PollutionFertility.stages.extreme.label>extrême</VRE_PollutionFertility.stages.extreme.label>
+
+<VRE_PollutionAccuracy.label>précision de pollution</VRE_PollutionAccuracy.label>
+<VRE_PollutionAccuracy.description>Amélioration de la stabilité et de la précision dans les environnements pollués.</VRE_PollutionAccuracy.description>
+<VRE_PollutionAccuracy.descriptionShort>Cette créature a une meilleure précision grâce à son exposition à la pollution.</VRE_PollutionAccuracy.descriptionShort>
+<VRE_PollutionAccuracy.stages.inactive.label>inactive</VRE_PollutionAccuracy.stages.inactive.label>
+<VRE_PollutionAccuracy.stages.minor.label>mineure</VRE_PollutionAccuracy.stages.minor.label>
+<VRE_PollutionAccuracy.stages.moderate.label>modérée</VRE_PollutionAccuracy.stages.moderate.label>
+<VRE_PollutionAccuracy.stages.extreme.label>extrême</VRE_PollutionAccuracy.stages.extreme.label>
+
+
+</LanguageData>

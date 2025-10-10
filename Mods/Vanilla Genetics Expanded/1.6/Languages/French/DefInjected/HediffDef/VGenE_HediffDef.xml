@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: active mechanites addiction -->
+<GR_ElectroEggAddiction.label>addiction aux mécanites actifs</GR_ElectroEggAddiction.label>
+<!-- EN: A chemical addiction to active mechanites. Long-term presence of active mechanites has caused neurological adaptations at the cellular level, so the brain can no longer function properly without them.\n\nWithout regular doses of active mechanites, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+<GR_ElectroEggAddiction.description>Une dépendance chimique aux mécanites actifs. La présence à long terme de mécanites actifs a provoqué des adaptations neurologiques au niveau cellulaire, de sorte que le cerveau ne peut plus fonctionner correctement sans eux.\n\nSans doses régulières de mécanites actifs, les symptômes de sevrage commenceront. Cependant, une abstinence prolongée forcera le cerveau à revenir son état normal, faisant disparaître la dépendance.</GR_ElectroEggAddiction.description>
+<!-- EN: withdrawal -->
+<GR_ElectroEggAddiction.stages.withdrawal.label>sevrage</GR_ElectroEggAddiction.stages.withdrawal.label>
+
+<!-- EN: high on active mechanites -->
+<GR_ElectroEggHigh.label>sous l'effet de mécanites actifs</GR_ElectroEggHigh.label>
+<!-- EN: Active mechanites in the bloodstream. They lift the mood and increase attentiveness. -->
+<GR_ElectroEggHigh.description>Des mécanites actifs dans la circulation sanguine. Ils améliorent l'humeur et l'attention.</GR_ElectroEggHigh.description>
+<!-- EN: an active mechanites high -->
+<GR_ElectroEggHigh.labelNoun>une stimulation de mécanites actifs</GR_ElectroEggHigh.labelNoun>
+
+<!-- EN: active mechanites tolerance -->
+<GR_ElectroEggTolerance.label>tolérance des mécanites actifs</GR_ElectroEggTolerance.label>
+<!-- EN: A built-up tolerance to active mechanites. The more severe this tolerance is, the more active mechanites it takes to get the same effect. -->
+<GR_ElectroEggTolerance.description>Une tolérance accrue aux mécanites actifs. Plus cette tolérance est importante, plus il faut de mécanites actifs pour obtenir le même effet.</GR_ElectroEggTolerance.description>
+<!-- EN: small -->
+<GR_ElectroEggTolerance.stages.small.label>insignifiante</GR_ElectroEggTolerance.stages.small.label>
+<!-- EN: large -->
+<GR_ElectroEggTolerance.stages.large.label>forte</GR_ElectroEggTolerance.stages.large.label>
+<!-- EN: massive -->
+<GR_ElectroEggTolerance.stages.massive.label>très forte</GR_ElectroEggTolerance.stages.massive.label>
+
+
+<!-- EN: featherdust dependence -->
+<GR_FeatherdustAddiction.label>addiction à la poudre de plumes</GR_FeatherdustAddiction.label>
+<!-- EN: A chemical addiction to featherdust. Long-term use of featherdust has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of featherdust, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+<GR_FeatherdustAddiction.description>Une dépendance chimique à la poudre de plumes. La présence à long terme de poudre de plumes a provoqué des adaptations neurologiques au niveau cellulaire, de sorte que le cerveau ne peut plus fonctionner correctement sans la drogue.\n\nSans doses régulières de poudre de plumes, les symptômes de sevrage commenceront. Cependant, une abstinence prolongée forcera le cerveau à revenir à son état normal, faisant disparaître la dépendance.</GR_FeatherdustAddiction.description>
+<!-- EN: withdrawal -->
+<GR_FeatherdustAddiction.stages.withdrawal.label>sevrage</GR_FeatherdustAddiction.stages.withdrawal.label>
+
+<!-- EN: stoned on featherdust -->
+<GR_FeatherdustHigh.label>défoncé à la poudre de plumes</GR_FeatherdustHigh.label>
+<!-- EN: Featherdust's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
+<GR_FeatherdustHigh.description>La substance chimique active de la poudre de plumes dans la circulation sanguine. Génère une douce sensation de bien-être.</GR_FeatherdustHigh.description>
+
+<!-- EN: featherdust tolerance -->
+<GR_FeatherdustTolerance.label>tolérance à la poudre de plumes</GR_FeatherdustTolerance.label>
+<!-- EN: A built-up tolerance to featherdust. The more severe this tolerance is, the more featherdust it takes to get the same effect. -->
+<GR_FeatherdustTolerance.description>Une tolérance accrue à la poudre de plumes. Plus cette tolérance est importante, plus il faut de poudre de plumes pour obtenir le même effet.</GR_FeatherdustTolerance.description>
+<!-- EN: small -->
+<GR_FeatherdustTolerance.stages.small.label>insignifiante</GR_FeatherdustTolerance.stages.small.label>
+<!-- EN: large -->
+<GR_FeatherdustTolerance.stages.large.label>forte</GR_FeatherdustTolerance.stages.large.label>
+<!-- EN: massive -->
+<GR_FeatherdustTolerance.stages.massive.label>très forte</GR_FeatherdustTolerance.stages.massive.label>
+
+
+<!-- EN: adrenaline rush -->
+<GR_AdrenalineBurst.label>montée d'adrénaline</GR_AdrenalineBurst.label>
+<!-- EN: Adrenaline rush greatly increases the speed of the hybrid for a while, and then it needs to be recharged to be used again. -->
+<GR_AdrenalineBurst.description>La poussée d'adrénaline augmente considérablement la vitesse de l'hybride pendant un certain temps, puis elle doit être rechargée pour être utilisée à nouveau.</GR_AdrenalineBurst.description>
+<!-- EN: exhausted -->
+<GR_AdrenalineBurst.stages.exhausted.label>épuisement</GR_AdrenalineBurst.stages.exhausted.label>
+
+<!-- EN: victim of blood frenzy -->
+<GR_BloodFrenzy.label>victime de la frénésie sanglante</GR_BloodFrenzy.label>
+<!-- EN: This creature has been victim of a frenzied attack. -->
+<GR_BloodFrenzy.description>Cette créature a été victime d'une attaque frénétique.</GR_BloodFrenzy.description>
+
+<!-- EN: burrowing underground -->
+<GR_Burrowing.label>enterré</GR_Burrowing.label>
+<!-- EN: Burrows underground to be able to move while being almost impervious to attacks. This ability needs to be recharged to be used again. -->
+<GR_Burrowing.description>Creuse des terriers souterrains pour se déplacer tout en étant presque insensibles aux attaques. Cette capacité doit être rechargée pour être utilisée à nouveau.</GR_Burrowing.description>
+<!-- EN: recovering -->
+<GR_Burrowing.stages.recovering.label>récupération</GR_Burrowing.stages.recovering.label>
+
+<!-- EN: cat reflexes -->
+<GR_CatReflexes.label>réflexes de chat</GR_CatReflexes.label>
+<!-- EN: Cat reflexes greatly increases the speed and melee dodge chance of the hybrid for a while, and then it needs to be recharged to be used again. -->
+<GR_CatReflexes.description>Le réflexe du chat augmente considérablement la vitesse et les chances d'esquive en mêlée de l'hybride pendant un certain temps, puis il doit être rechargé pour être utilisé à nouveau.</GR_CatReflexes.description>
+<!-- EN: exhausted -->
+<GR_CatReflexes.stages.exhausted.label>épuisement</GR_CatReflexes.stages.exhausted.label>
+
+<!-- EN: recently invoked the insanity of That Which Man Is Not Meant to Know -->
+<GR_CausedHorror.label>a récemment invoqué la folie de "Ce que l'homme n'est pas censé savoir"</GR_CausedHorror.label>
+<!-- EN: Releases an insanity cloud that reduces sanity of anyone passing through it, and then it needs to be recharged to be used again. -->
+<GR_CausedHorror.description>Libère un nuage de folie qui réduit la santé mentale de tous ceux qui le traversent, il doit ensuite être rechargé pour être utilisé à nouveau.</GR_CausedHorror.description>
+<!-- EN: recovering -->
+<GR_CausedHorror.stages.recovering.label>récupération</GR_CausedHorror.stages.recovering.label>
+
+<!-- EN: recently released poison cloud -->
+<GR_CausedPoisonCloud.label>nuage de poison récemment libéré</GR_CausedPoisonCloud.label>
+<!-- EN: Releases a poison cloud that harms anyone passing through it, except reptilians, and then it needs to be recharged to be used again. -->
+<GR_CausedPoisonCloud.description>Libère un nuage de poison qui nuit à quiconque le traverse, à l'exception des reptiliens, et doit ensuite être rechargé pour être utilisé à nouveau.</GR_CausedPoisonCloud.description>
+<!-- EN: recovering -->
+<GR_CausedPoisonCloud.stages.recovering.label>récupération</GR_CausedPoisonCloud.stages.recovering.label>
+
+<!-- EN: warping -->
+<GR_DistortionHediff.label>déformation</GR_DistortionHediff.label>
+<!-- EN: This body part has been terribly warped by being exposed to a dangerous spatial distortion. Warping is very painful, and warped body parts are often lost. -->
+<GR_DistortionHediff.description>Cette partie du corps a été terriblement déformée en étant exposée à une dangereuse distorsion spatiale. La déformation est très douloureuse, et les parties du corps déformées sont souvent perdues.</GR_DistortionHediff.description>
+<!-- EN: warped scar -->
+<GR_DistortionHediff.comps.HediffComp_GetsPermanent.permanentLabel>warped scar</GR_DistortionHediff.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- EN: Lost to warping -->
+<GR_DistortionHediff.injuryProps.destroyedLabel>Perdu par la déformation</GR_DistortionHediff.injuryProps.destroyedLabel>
+<!-- EN: {0} in the {1} -->
+<GR_DistortionHediff.labelNounPretty>une {0} au/à la {1}</GR_DistortionHediff.labelNounPretty>
+
+<!-- EN: brain extracted -->
+<GR_ExtractedBrain.label>cerveau prélevé</GR_ExtractedBrain.label>
+<!-- EN: The brain or neural center of this creature has been extracted and refined into genetic material. -->
+<GR_ExtractedBrain.description>Le cerveau ou centre neuronal de cette créature a été extrait et raffiné en matériel génétique.</GR_ExtractedBrain.description>
+
+<!-- EN: frenzied -->
+<GR_Frenzied.label>frénésie</GR_Frenzied.label>
+<!-- EN: The smell of its enemies' blood has filled this hybrid with a frenzy. -->
+<GR_Frenzied.description>L'odeur du sang de ses ennemis a rempli cet hybride d'une frénésie.</GR_Frenzied.description>
+
+<!-- EN: suffocating damage -->
+<GR_HairballDamage.label>dégâts suffocants</GR_HairballDamage.label>
+<!-- EN: Genetically altered hairballs are suffocating this creature. This negatively affects breathing and can even cause unconsciousness. -->
+<GR_HairballDamage.description>Des boules de poils génétiquement modifiées étouffent cette créature. Cela affecte négativement la respiration et peut même provoquer une perte de conscience.</GR_HairballDamage.description>
+<!-- EN: initial-hidden -->
+<GR_HairballDamage.stages.initialhidden.label>insignifiant</GR_HairballDamage.stages.initialhidden.label>
+<!-- EN: initial -->
+<GR_HairballDamage.stages.initial.label>début</GR_HairballDamage.stages.initial.label>
+<!-- EN: minor -->
+<GR_HairballDamage.stages.minor.label>mineur</GR_HairballDamage.stages.minor.label>
+<!-- EN: moderate -->
+<GR_HairballDamage.stages.moderate.label>moyen</GR_HairballDamage.stages.moderate.label>
+<!-- EN: serious -->
+<GR_HairballDamage.stages.serious.label>sévère</GR_HairballDamage.stages.serious.label>
+<!-- EN: extreme -->
+<GR_HairballDamage.stages.extreme.label>extrême</GR_HairballDamage.stages.extreme.label>
+<!-- EN: nauseating -->
+<GR_HairballDamage.stages.nauseating.label>écœurant</GR_HairballDamage.stages.nauseating.label>
+
+<!-- EN: highly flammable -->
+<GR_HighlyFlammable.label>hautement inflammable</GR_HighlyFlammable.label>
+<!-- EN: This creature will die quickly if set on fire. -->
+<GR_HighlyFlammable.description>Cette créature mourra rapidement si elle prend feu.</GR_HighlyFlammable.description>
+
+<!-- EN: releasing insect clouds -->
+<GR_InsectClouds.label>nuées d'insectes</GR_InsectClouds.label>
+<!-- EN: Releases insect clouds that damage anyone crossing through them, except insectoids, and then it needs to be recharged to be used again. -->
+<GR_InsectClouds.description>Libère une nuée d'insectes qui endommage tous ceux qui la traversent, à l'exception des insectoïdes, et doit ensuite être rechargée pour être utilisée à nouveau.</GR_InsectClouds.description>
+<!-- EN: recovering -->
+<GR_InsectClouds.stages.recovering.label>récupération</GR_InsectClouds.stages.recovering.label>
+
+<!-- EN: sudden detonation -->
+<GR_Kamikaze.label>détonation brutale</GR_Kamikaze.label>
+<!-- EN: Boom. -->
+<GR_Kamikaze.description>Boum.</GR_Kamikaze.description>
+<!-- EN: initial-hidden -->
+<GR_Kamikaze.stages.initialhidden.label>insignifiant</GR_Kamikaze.stages.initialhidden.label>
+<!-- EN: critical -->
+<GR_Kamikaze.stages.critical.label>critique</GR_Kamikaze.stages.critical.label>
+
+<!-- EN: keen senses -->
+<GR_KeenSenses.label>sens aiguisés</GR_KeenSenses.label>
+<!-- EN: Keen senses greatly increases sight and conciousness of the hybrid for a while, and then it needs to be recharged to be used again. -->
+<GR_KeenSenses.description>Les sens aiguisés augmentent considérablement la vue et la conscience de l'hybride pendant un certain temps, puis il doit être rechargé pour être utilisé à nouveau.</GR_KeenSenses.description>
+<!-- EN: exhausted -->
+<GR_KeenSenses.stages.exhausted.label>épuisement</GR_KeenSenses.stages.exhausted.label>
+
+<!-- EN: needs very little sleep -->
+<GR_LowRest.label>requiert très peu de sommeil</GR_LowRest.label>
+<!-- EN: This creature has very little need for sleep, and can stay awake for a long time. -->
+<GR_LowRest.description>Cette créature a un besoin très limité de sommeil et peut rester éveillée pendant longtemps.</GR_LowRest.description>
+
+<!-- EN: melee dodging -->
+<GR_MeleeDodge.label>esquive de mêlée</GR_MeleeDodge.label>
+<!-- EN: This hybrid is very agile and receives a considerable bonus to melee dodge. -->
+<GR_MeleeDodge.description>Cet hybride est très agile et bénéficie d'un bonus considérable à l'esquive en mêlée.</GR_MeleeDodge.description>
+
+<!-- EN: no pain sensitivity -->
+<GR_NoPain.label>pas de sensibilité à la douleur</GR_NoPain.label>
+<!-- EN: This hybrid has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+<GR_NoPain.description>Cet hybride a une sensibilité réduite à la douleur, et il prend plus de temps pour être abattu à cause de la douleur.</GR_NoPain.description>
+
+<!-- EN: pack tactics -->
+<GR_PackTactics.label>tactiques de meute</GR_PackTactics.label>
+<!-- EN: This hybrid is collaborating with other nearby muffalowolves to bring down prey. -->
+<GR_PackTactics.description>Cet hybride collabore avec d'autres muffalos-loups à proximité pour abattre leurs proies.</GR_PackTactics.description>
+
+<!-- EN: pack tactics -->
+<GR_PackTacticsBuff.label>tactiques de meute</GR_PackTacticsBuff.label>
+<!-- EN: This hybrid is collaborating with other nearby muffalowolves to bring down prey. -->
+<GR_PackTacticsBuff.description>Cet hybride collabore avec d'autres muffalos-loups à proximité pour abattre leurs proies.</GR_PackTacticsBuff.description>
+
+<!-- EN: permanent burn -->
+<GR_PermanentBurn.label>brûlure permanente</GR_PermanentBurn.label>
+<!-- EN: A permanent burn scar that cannot be treated. -->
+<GR_PermanentBurn.description>Une cicatrice de brûlure permanente ne pouvant être traitée.</GR_PermanentBurn.description>
+<!-- EN: permanent burn -->
+<GR_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>brûlure permanente</GR_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- EN: Burned off -->
+<GR_PermanentBurn.injuryProps.destroyedLabel>Brûlé(e)</GR_PermanentBurn.injuryProps.destroyedLabel>
+<!-- EN: Burned out -->
+<GR_PermanentBurn.injuryProps.destroyedOutLabel>Calciné(e)</GR_PermanentBurn.injuryProps.destroyedOutLabel>
+<!-- EN: a permanent burn -->
+<GR_PermanentBurn.labelNoun>une brûlure permanente</GR_PermanentBurn.labelNoun>
+<!-- EN: {0} in the {1} -->
+<GR_PermanentBurn.labelNounPretty>une {0} au/à la {1}</GR_PermanentBurn.labelNounPretty>
+
+<!-- EN: victim of rabid slash -->
+<GR_RabidSlash.label>victime d'une taillade enragée</GR_RabidSlash.label>
+<!-- EN: This creature has been victim of a rabid slash. -->
+<GR_RabidSlash.description>Cette créature a été victime d'une entaille enragée.</GR_RabidSlash.description>
+
+<!-- EN: recently hatched -->
+<GR_RecentlyHatched.label>récemment éclos</GR_RecentlyHatched.label>
+<!-- EN: This creature has recently hatched from an incubator. -->
+<GR_RecentlyHatched.description>Cette créature a récemment éclos d'une couveuse.</GR_RecentlyHatched.description>
+
+<!-- EN: research drive -->
+<GR_ResearchDrive.label>effort de recherche</GR_ResearchDrive.label>
+<!-- EN: Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough.\n\n<color=#E5E54C>Gameplay effect:</color> "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought". -->
+<GR_ResearchDrive.description>Offrez des perspectives d'investigation aux chercheurs à proximité, leur permettant ainsi de faire plus facilement une découverte.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt; "Cher scientifique, avez-vous envisagé de rejeter l'humanité, et de retourner au stade de singe ? Matière à réflexion".</GR_ResearchDrive.description>
+
+<!-- EN: research drive -->
+<GR_ResearchDriveBuff.label>effort de recherche</GR_ResearchDriveBuff.label>
+<!-- EN: Being offered investigative insights.\n\n<color=#E5E54C>Gameplay effect:</color> "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought". -->
+<GR_ResearchDriveBuff.description>Se voit offrir des perspectives d'investigation.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt; "Cher scientifique, avez-vous envisagé de rejeter l'humanité, et de retourner au stade de singe ? Matière à réflexion".</GR_ResearchDriveBuff.description>
+
+<!-- EN: sadistic adrenaline -->
+<GR_SadisticAdrenaline.label>adrénaline sadique</GR_SadisticAdrenaline.label>
+<!-- EN: The lizardman has slaughtered a colony prisoner in cold blood, triggering the release of a potent hormone complex that is making it faster and stronger. This will last for a few hours. -->
+<GR_SadisticAdrenaline.description>L'homme-lézard a massacré de sang-froid un prisonnier de la colonie, déclenchant la libération d'un puissant système hormonal qui le rend plus rapide et plus fort. Cela va durer quelques heures.</GR_SadisticAdrenaline.description>
+
+<!-- EN: increased stamina -->
+<GR_Stamina.label>endurance accrue</GR_Stamina.label>
+<!-- EN: Increased stamina greatly increases the armor and pain resistance of the hybrid for a while, and then it needs to be recharged to be used again. -->
+<GR_Stamina.description>L'augmentation de l'endurance augmente considérablement l'armure et la résistance à la douleur de l'hybride pendant un certain temps, puis elle doit être rechargée pour être utilisée à nouveau.</GR_Stamina.description>
+<!-- EN: exhausted -->
+<GR_Stamina.stages.exhausted.label>épuisement</GR_Stamina.stages.exhausted.label>
+
+<!-- EN: stampeding -->
+<GR_Stampeding.label>ruée</GR_Stampeding.label>
+<!-- EN: The stampeding ability increases the hybrid's speed and releases clouds of dust that block ranged visibility. Once used, this ability needs to be recharged to be used again. -->
+<GR_Stampeding.description>La capacité de débandade augmente la vitesse de l'hybride et libère des nuages de poussière qui bloquent la visibilité à distance. Une fois utilisée, cette capacité doit être rechargée pour être utilisée à nouveau.</GR_Stampeding.description>
+<!-- EN: recovering -->
+<GR_Stampeding.stages.recovering.label>récupération</GR_Stampeding.stages.recovering.label>
+
+<!-- EN: toxic damage -->
+<GR_ToxicDamage.label>dégâts toxiques</GR_ToxicDamage.label>
+<!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nContrary to base game toxic buildup, creatures who die with toxic damage can be eaten. -->
+<GR_ToxicDamage.description>Des toxines dans le sang. Elles peuvent provenir de diverses sources, notamment de toxines environnementales, de morsures venimeuses ou d'armes empoisonnées.\n\nÀ haute dose, l'accumulation de toxines est mortelle. Même à faible dose, elle peut générer des cancers.\n\nContrairement à l'accumulation toxique du jeu de base, les créatures qui meurent de dégâts toxiques peuvent être mangées.</GR_ToxicDamage.description>
+<!-- EN: initial-hidden -->
+<GR_ToxicDamage.stages.initialhidden.label>insignifiant</GR_ToxicDamage.stages.initialhidden.label>
+<!-- EN: initial -->
+<GR_ToxicDamage.stages.initial.label>début</GR_ToxicDamage.stages.initial.label>
+<!-- EN: minor -->
+<GR_ToxicDamage.stages.minor.label>mineur</GR_ToxicDamage.stages.minor.label>
+<!-- EN: moderate -->
+<GR_ToxicDamage.stages.moderate.label>moyen</GR_ToxicDamage.stages.moderate.label>
+<!-- EN: serious -->
+<GR_ToxicDamage.stages.serious.label>sévère</GR_ToxicDamage.stages.serious.label>
+<!-- EN: extreme -->
+<GR_ToxicDamage.stages.extreme.label>extrême</GR_ToxicDamage.stages.extreme.label>
+
+<!-- EN: recently vented exhaust gasses -->
+<GR_VentedExhaust.label>évacuation d'air chaud récemment</GR_VentedExhaust.label>
+<!-- EN: Vents exhaust fumes on the 8 adjacent tiles, burning anyone unlucky enough to be in melee, and then it needs to be recharged to be used again. -->
+<GR_VentedExhaust.description>Évacue l'air chaud sur les 8 cases adjacentes, brûlant toute personne assez malchanceuse pour être en mêlée, et doit ensuite être rechargé pour être utilisé à nouveau.</GR_VentedExhaust.description>
+<!-- EN: recovering -->
+<GR_VentedExhaust.stages.recovering.label>récupération</GR_VentedExhaust.stages.recovering.label>
+
+<!-- EN: needs very little sleep -->
+<GR_VeryLowRest.label>requiert très peu de sommeil</GR_VeryLowRest.label>
+<!-- EN: This creature has very little need for sleep, and can stay awake for a long time. -->
+<GR_VeryLowRest.description>Cette créature a un besoin très limité de sommeil et peut rester éveillée pendant longtemps.</GR_VeryLowRest.description>
+
+
+<!-- EN: quality -->
+<GR_HungerByQuality.label>qualité</GR_HungerByQuality.label>
+<!-- EN: This is a hidden hediff that modifies the hybrid's hunger depending on quality. -->
+<GR_HungerByQuality.description>Il s'agit d'un hediff caché qui modifie la faim de l'hybride en fonction de sa qualité.</GR_HungerByQuality.description>
+
+
+<!-- EN: animal abasia -->
+<GR_AnimalAbasia.label>abasie animale</GR_AnimalAbasia.label>
+<!-- EN: A condition that makes an animal unable to walk by interfering with the motor cortex. If not treated in time, Abasia inevitably interferes with functioning of organs - for example by halting the heart functions. A creature with Animal Abasia can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+<GR_AnimalAbasia.description>Une condition qui rend un animal incapable de marcher en interférant avec le cortex moteur. Si elle n'est pas traitée à temps, l'abasie interfère inévitablement avec le fonctionnement des organes, par exemple en interrompant les fonctions cardiaques. Une créature atteinte d'abasie animale peut être soignée, ce qui ralentit la maladie, mais ne peut être guérie.\n\nTout animal hybride ou parangon sera atteint de cette maladie 3 ans après son éclosion ou sa naissance naturelle, bien que cela dépende de la qualité de l'hybride.</GR_AnimalAbasia.description>
+<!-- EN: paralyzed -->
+<GR_AnimalAbasia.stages.paralyzed.label>paralysé</GR_AnimalAbasia.stages.paralyzed.label>
+
+<!-- EN: animal tuberculosis -->
+<GR_AnimalTuberculosis.label>tuberculose animale</GR_AnimalTuberculosis.label>
+<!-- EN: A disease originating from a bacterial infection that attacks lungs. Animals with tuberculosis will keep spitting blood until blood loss causes them to die. Every time a coughing attack occurs, the lungs of that animal will get more and more damaged. A creature with Animal Tuberculosis can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+<GR_AnimalTuberculosis.description>Une maladie provenant d'une infection bactérienne qui attaque les poumons. Les animaux atteints de la tuberculose continueront à cracher du sang jusqu'à ce que la perte de sang les fasse mourir. Chaque fois qu'une quinte de toux se produit, les poumons de cet animal sont de plus en plus endommagés. Une créature atteinte de la tuberculose animale peut être soignée, ce qui ralentit la maladie, mais ne peut être guérie.\n\nTout animal hybride ou parangon sera atteint de cette maladie 3 ans après son éclosion ou sa naissance naturelle, bien que cela dépende de la qualité de l'hybride.</GR_AnimalTuberculosis.description>
+<!-- EN: initial -->
+<GR_AnimalTuberculosis.stages.initial.label>début</GR_AnimalTuberculosis.stages.initial.label>
+<!-- EN: damaged lungs -->
+<GR_AnimalTuberculosis.stages.damaged_lungs.label>poumons abîmés</GR_AnimalTuberculosis.stages.damaged_lungs.label>
+<!-- EN: very damaged lungs -->
+<GR_AnimalTuberculosis.stages.very_damaged_lungs.label>poumons très abîmés</GR_AnimalTuberculosis.stages.very_damaged_lungs.label>
+
+<!-- EN: greater scaria -->
+<GR_GreaterScaria.label>grande scaria</GR_GreaterScaria.label>
+<!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with greater scaria can't be cured and kills its host about five days after infection. Their seething rage will allow them to survive without having to eat or rest until their inevitable death. -->
+<GR_GreaterScaria.description>Une maladie qui provoque chez les créatures affectées des rages de folie furieuse. Une créature atteinte de la grande scaria ne peut être soignée et tue son hôte environ cinq jours après l'infection. Leur rage bouillonnante leur permettra de survivre sans avoir à manger ou à se reposer jusqu'à l'inévitable, la mort.</GR_GreaterScaria.description>
+
+<!-- EN: muscle necrosis -->
+<GR_MuscleNecrosis.label>nécrose musculaire</GR_MuscleNecrosis.label>
+<!-- EN: A viral infection causing an animal organism to turn on itself and reject normal functioning tissue, causing widespread necrosis across the entire animal body. A creature with Muscle Necrosis can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+<GR_MuscleNecrosis.description>Infection virale qui pousse un organisme animal à se retourner contre lui-même et à rejeter les tissus normaux, provoquant une nécrose généralisée sur tout le corps de l'animal. Une créature atteinte de nécrose musculaire peut être soignée, ce qui ralentit la maladie, mais ne peut être guérie.\n\nTout animal hybride ou parangon sera atteint de cette maladie 3 ans après son éclosion ou sa naissance naturelle, bien que cela soit affecté par la qualité de l'hybride.</GR_MuscleNecrosis.description>
+<!-- EN: initial -->
+<GR_MuscleNecrosis.stages.initial.label>début</GR_MuscleNecrosis.stages.initial.label>
+<!-- EN: necrotic -->
+<GR_MuscleNecrosis.stages.necrotic.label>nécrosé</GR_MuscleNecrosis.stages.necrotic.label>
+<!-- EN: horribly necrotic -->
+<GR_MuscleNecrosis.stages.horribly_necrotic.label>horriblement nécrosé</GR_MuscleNecrosis.stages.horribly_necrotic.label>
+
+<!-- EN: sarg syndrome -->
+<GR_SargSyndrome.label>syndrome de Sarg</GR_SargSyndrome.label>
+<!-- EN: A rare bacterial infection of the animal brain, which causes the animal to only be able to consume human meat, while consuming anything else will simply not satiate the animal’s hunger and make it vomit constantly. This will spell a death sentence for herbivores, and a slow death for carnivores. A creature with Sarg Syndrome can't be tended to or cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+<GR_SargSyndrome.description>Une infection bactérienne rare du cerveau de l'animal, qui fait que l'animal ne peut consommer que de la viande humaine, alors que toute autre consommation n'apaise pas la faim de l'animal et le fait vomir constamment. Cela entraîne la mort des herbivores et une mort lente des carnivores. Une créature atteinte du syndrome de Sarg ne peut être ni soignée ni guérie.\n\nTout animal hybride ou parangon sera atteint de cette maladie 3 ans après son éclosion ou sa naissance naturelle, bien que cela dépende de la qualité de l'hybride.</GR_SargSyndrome.description>
+
+
+<!-- EN: animal controller -->
+<GR_AnimalControlHediff.label>contrôleur animal</GR_AnimalControlHediff.label>
+<!-- EN: This creature was genetically modified with a controller booster. -->
+<GR_AnimalControlHediff.description>Cette créature a été génétiquement modifiée avec un amplificateur de contrôle.</GR_AnimalControlHediff.description>
+
+<!-- EN: animal Implant: bear leg -->
+<GR_BearLeg.label>implant animal : patte d'ours</GR_BearLeg.label>
+<!-- EN: A prosthetic animal leg strengthened with bear muscles, and ending in a powerful bear claw that adds a powerful melee attack. -->
+<GR_BearLeg.description>Une prothèse de jambe animale renforcée par des muscles d'ours, et se terminant par des griffes d'ours acérées qui ajoutent une puissante attaque de mêlée.</GR_BearLeg.description>
+<!-- EN: animal Implant: bear leg -->
+<GR_BearLeg.comps.HediffComp_VerbGiver.tools.animal_Implant_bear_leg.label>implant animal : patte d'ours</GR_BearLeg.comps.HediffComp_VerbGiver.tools.animal_Implant_bear_leg.label>
+
+<!-- EN: animal Implant: bear liver -->
+<GR_BearLiver.label>implant animal : foie d'ours</GR_BearLiver.label>
+<!-- EN: An implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens. -->
+<GR_BearLiver.description>Un implant qui utilise des gènes d'ours pour améliorer le fonctionnement du foie. Spécialement utile pour les poulets alcooliques.</GR_BearLiver.description>
+
+<!-- EN: animal Implant: boomalope heart -->
+<GR_BoomalopeHeart.label>implant animal : cœur de boomalope</GR_BoomalopeHeart.label>
+<!-- EN: An implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart. -->
+<GR_BoomalopeHeart.description>Un implant qui utilise du chemfuel pour pomper le sang dans le corps de l'animal. Cet implant est destiné aux créatures dont le cœur présente une défaillance catastrophique, car il est moins efficace qu'un cœur naturel.</GR_BoomalopeHeart.description>
+
+<!-- EN: animal Implant: boomalope stomach -->
+<GR_BoomalopeStomach.label>implant animal : estomac de boomalope</GR_BoomalopeStomach.label>
+<!-- EN: An implant that uses boomalope genes to improve function of the stomach. -->
+<GR_BoomalopeStomach.description>Un implant qui utilise les gènes du boomalope pour améliorer la fonction de l'estomac.</GR_BoomalopeStomach.description>
+
+<!-- EN: animal Implant: canid eye -->
+<GR_CanidEye.label>implant animal : œil de canidé</GR_CanidEye.label>
+<!-- EN: An eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes. -->
+<GR_CanidEye.description>Un implant oculaire qui utilise un épissage génétique avec des gènes de canidés pour donner à un vieil œil (ou endommagé) une vision décente. Cet implant n'est pas destiné à remplacer des yeux sains.</GR_CanidEye.description>
+
+<!-- EN: animal Implant: cat tail -->
+<GR_CatTail.label>implant animal : queue de chat</GR_CatTail.label>
+<!-- EN: A tail implant that uses genetic splicing with feline genes to substitute a broken or missing tail. This implant is not meant to replace a healthy tail. -->
+<GR_CatTail.description>Un implant de queue qui utilise un épissage génétique avec des gènes félins pour remplacer une queue cassée ou manquante. Cet implant n'est pas destiné à remplacer une queue saine.</GR_CatTail.description>
+
+<!-- EN: animal Implant: chicken brains -->
+<GR_ChickenBrains.label>implant animal : cerveau de poulet</GR_ChickenBrains.label>
+<!-- EN: An implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures. -->
+<GR_ChickenBrains.description>Un implant qui utilise du tissu cérébral de poulet pour réparer les voies neurologiques endommagées. Cet implant est destiné aux créatures en état de mort cérébrale.</GR_ChickenBrains.description>
+
+<!-- EN: animal Implant: chicken kidney -->
+<GR_ChickenKidney.label>implant animal : rein de poulet</GR_ChickenKidney.label>
+<!-- EN: An implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today. -->
+<GR_ChickenKidney.description>Un implant qui utilise des gènes de poulet pour améliorer la fonction du rein. Les oiseaux ont de gros reins. Ouaip, tu as appris ça aujourd'hui.</GR_ChickenKidney.description>
+
+<!-- EN: animal Implant: chitinous heart -->
+<GR_ChitinousHeart.label>implant animal : cœur chitineux</GR_ChitinousHeart.label>
+<!-- EN: A bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise. -->
+<GR_ChitinousHeart.description>Un implant cardiaque bionique utilisant une coque renforcée de chitine insectoïde pour la protection. C'est un cœur conçu pour prendre une raclée (tapette). Jeu de mots, mais c'est le dernier, je le promets.</GR_ChitinousHeart.description>
+
+<!-- EN: animal Implant: crocodile spine -->
+<GR_CrocodileSpine.label>implant animal : colonne vertébrale de crocodile</GR_CrocodileSpine.label>
+<!-- EN: A bionic implant adding a sturdy crocodile spine to the creature's skeletal system. -->
+<GR_CrocodileSpine.description>Un implant bionique ajoutant une solide colonne vertébrale de crocodile au système squelettique de la créature.</GR_CrocodileSpine.description>
+
+<!-- EN: animal Implant: insectile eye -->
+<GR_InsectileEye.label>implant animal : œil insectoïde</GR_InsectileEye.label>
+<!-- EN: A bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement. -->
+<GR_InsectileEye.description>Un implant bionique qui donne à la créature des yeux composés insectoïdes. Par rapport aux yeux simples, les yeux composés possèdent un très grand angle de vue et peuvent détecter les mouvements rapides.</GR_InsectileEye.description>
+
+<!-- EN: animal Implant: insect mandibles -->
+<GR_InsectMandibles.label>implant animal : mandibules d'insecte</GR_InsectMandibles.label>
+<!-- EN: A bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offensive weapon -->
+<GR_InsectMandibles.description>Un implant bionique ajoutant des mandibules d'insecte au visage de la créature. Les mandibules d'insectes améliorent la manipulation et l'alimentation, tout en servant d'arme offensive.</GR_InsectMandibles.description>
+<!-- EN: animal Implant: insect mandibles -->
+<GR_InsectMandibles.comps.HediffComp_VerbGiver.tools.animal_Implant_insect_mandibles.label>animal Implant: insect mandibles</GR_InsectMandibles.comps.HediffComp_VerbGiver.tools.animal_Implant_insect_mandibles.label>
+
+<!-- EN: animal Implant: insectoid pheromones -->
+<GR_InsectoidPheromones.label>implant animal : phéromones insectoïdes</GR_InsectoidPheromones.label>
+<!-- EN: An implant that uses genetic splicing with insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects. -->
+<GR_InsectoidPheromones.description>Un implant qui utilise l'épissage génétique avec des gènes insectoïdes pour donner la capacité de détecter les phéromones, améliorant ainsi le système olfactif. Ne peut pas être installé sur les oiseaux et (ironiquement) les insectes.</GR_InsectoidPheromones.description>
+
+<!-- EN: animal Implant: lizard leg -->
+<GR_LizardLeg.label>implant animal : patte de lézard</GR_LizardLeg.label>
+<!-- EN: A bionic animal leg reinforced with tough lizard skin. -->
+<GR_LizardLeg.description>Une patte animale bionique renforcée par une peau dure de lézard.</GR_LizardLeg.description>
+<!-- EN: animal Implant: lizard leg -->
+<GR_LizardLeg.comps.HediffComp_VerbGiver.tools.animal_Implant_lizard_leg.label>implant animal : patte de lézard</GR_LizardLeg.comps.HediffComp_VerbGiver.tools.animal_Implant_lizard_leg.label>
+
+<!-- EN: animal Implant: reinforced bionic heart -->
+<GR_MechaHeart.label>implant animal : cœur bionique renforcé</GR_MechaHeart.label>
+<!-- EN: A bionic heart strengthened by the action of active mechanites. -->
+<GR_MechaHeart.description>Un cœur bionique renforcé par l'action de mécanites actifs.</GR_MechaHeart.description>
+
+<!-- EN: animal Implant: elephant auditory receptor -->
+<GR_MechaReceptors.label>implant animal : récepteur auditif d'éléphant</GR_MechaReceptors.label>
+<!-- EN: This elephant auditory receptor can scan a really wide band of frequencies. -->
+<GR_MechaReceptors.description>Ce récepteur auditif d'éléphant peut balayer une très large bande de fréquences.</GR_MechaReceptors.description>
+
+<!-- EN: animal Implant: reinforced bionic spine -->
+<GR_MechaSpine.label>implant animal : colonne vertébrale bionique renforcée</GR_MechaSpine.label>
+<!-- EN: A bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system. -->
+<GR_MechaSpine.description>Un implant bionique ajoutant une structure en plastacier avec des mécanites actifs au système squelettique de la créature.</GR_MechaSpine.description>
+
+<!-- EN: animal Implant: reinforced tail -->
+<GR_MechaTail.label>implant animal : queue renforcée</GR_MechaTail.label>
+<!-- EN: An advanced animal tail, even more powerful than a natural one. -->
+<GR_MechaTail.description>Une queue animale avancée, encore plus puissante qu'une queue naturelle.</GR_MechaTail.description>
+<!-- EN: animal Implant: reinforced tail -->
+<GR_MechaTail.comps.HediffComp_VerbGiver.tools.animal_Implant_reinforced_tail.label>implant animal : queue renforcée</GR_MechaTail.comps.HediffComp_VerbGiver.tools.animal_Implant_reinforced_tail.label>
+
+<!-- EN: animal Implant: miniature thrumbo horn -->
+<GR_MiniatureThrumboHorn.label>implant animal : petite corne de thrumbo</GR_MiniatureThrumboHorn.label>
+<!-- EN: A bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant. -->
+<GR_MiniatureThrumboHorn.description>Un implant bionique ajoutant une petite corne thrumbo à la place du nez de la créature. Cet implant agit comme un nez, permettant à la créature de respirer et de sentir, et peut être utilisé par la créature en mêlée. Les oiseaux, les insectes ou les créatures possédant déjà une corne thrumbo n'ont pas assez de place sur leur crâne pour installer cet implant.</GR_MiniatureThrumboHorn.description>
+<!-- EN: animal Implant: miniature thrumbo horn -->
+<GR_MiniatureThrumboHorn.comps.HediffComp_VerbGiver.tools.animal_Implant_miniature_thrumbo_horn.label>animal Implant: miniature thrumbo horn</GR_MiniatureThrumboHorn.comps.HediffComp_VerbGiver.tools.animal_Implant_miniature_thrumbo_horn.label>
+
+<!-- EN: animal Implant: monitor lizard brain -->
+<GR_MonitorLizardBrain.label>implant animal : cerveau de lézard</GR_MonitorLizardBrain.label>
+<!-- EN: A bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes. -->
+<GR_MonitorLizardBrain.description>Un implant bionique utilisant le tissu cérébral d'un lézard. Ce reptile très intelligent a des réflexes très rapides.</GR_MonitorLizardBrain.description>
+
+<!-- EN: animal Implant: moth tympanal organ -->
+<GR_MothTympanalOrgan.label>implant animal : organe de tympan papillon</GR_MothTympanalOrgan.label>
+<!-- EN: A bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce. -->
+<GR_MothTympanalOrgan.description>Un implant bionique ajoutant un organe de tympan papillon à l'oreille de la créature. Les papillons peuvent entendre des sons d'une fréquence plus élevée que celle produite par les chauves-souris.</GR_MothTympanalOrgan.description>
+
+<!-- EN: animal Implant: muffalo lung -->
+<GR_MuffaloLung.label>implant animal : poumon de muffalo</GR_MuffaloLung.label>
+<!-- EN: An implant that uses muffalo genes to increase breathing capacity. -->
+<GR_MuffaloLung.description>Un implant qui utilise les gènes de muffalo pour augmenter la capacité respiratoire.</GR_MuffaloLung.description>
+
+<!-- EN: animal Implant: muffalo spine -->
+<GR_MuffaloSpine.label>aimplant animal : colonne vertébrale de muffalo</GR_MuffaloSpine.label>
+<!-- EN: A spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines. -->
+<GR_MuffaloSpine.description>n implant de colonne vertébrale qui utilise l'épissage génétique avec les gènes muffalo pour donner à une vieille colonne vertébrale (ou endommagée) un fonctionnement décent. Cet implant n'est pas destiné à remplacer une colonne vertébrale saine.</GR_MuffaloSpine.description>
+
+<!-- EN: animal Implant: rodent ear -->
+<GR_RodentEar.label>implant animal : oreille de rongeur</GR_RodentEar.label>
+<!-- EN: An ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears. -->
+<GR_RodentEar.description>Un implant auditif qui utilise l'épissage génétique avec des gènes de rongeurs pour donner à une vieille oreille (ou endommagée) une audition décente. Cet implant n'est pas destiné à remplacer des oreilles saines.</GR_RodentEar.description>
+
+<!-- EN: animal Implant: rodent nose -->
+<GR_RodentNose.label>implant animal : nez de rongeur</GR_RodentNose.label>
+<!-- EN: An implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects. -->
+<GR_RodentNose.description>Un implant qui utilise un épissage génétique avec des gènes de rongeurs pour donner à un vieux nez (ou endommagé) un odorat décent. Cet implant n'est pas destiné à remplacer des nez sains. Il ne peut pas être installé sur les oiseaux ou les insectes.</GR_RodentNose.description>
+
+<!-- EN: animal Implant: scyther tail -->
+<GR_ScytherTail.label>implant animal : queue de faucheur</GR_ScytherTail.label>
+<!-- EN: A scyther tail created by attaching a scyther blade to an animal's tail. -->
+<GR_ScytherTail.description>Une queue de faucheur créée en attachant une lame de faucheur à la queue d'un animal.</GR_ScytherTail.description>
+<!-- EN: animal Implant: scyther tail -->
+<GR_ScytherTail.comps.HediffComp_VerbGiver.tools.animal_Implant_scyther_tail.label>implant animal : queue de faucheur</GR_ScytherTail.comps.HediffComp_VerbGiver.tools.animal_Implant_scyther_tail.label>
+
+<!-- EN: animal Implant: bionic thrumbo brain -->
+<GR_ThrumboBrain.label>implant animal : cerveau bionique thrumbo</GR_ThrumboBrain.label>
+<!-- EN: A bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes. -->
+<GR_ThrumboBrain.description>Un implant cérébral bionique utilisant du tissu neuronal thrumbo. Une intelligence et de superbes réflexes.</GR_ThrumboBrain.description>
+
+<!-- EN: animal Implant: bionic thrumbo eye -->
+<GR_ThrumboEye.label>implant animal : œil bionique de thrumbo</GR_ThrumboEye.label>
+<!-- EN: A bionic eye reinforced with specialized photoreceptors from a powerful thrumbo. -->
+<GR_ThrumboEye.description>Un œil bionique renforcé par des photorécepteurs spécialisés provenant d'un puissant thrumbo.</GR_ThrumboEye.description>
+
+<!-- EN: animal Implant: bionic thrumbo jaws -->
+<GR_ThrumboJaws.label>implant animal : mâchoire bionique de thrumbo</GR_ThrumboJaws.label>
+<!-- EN: A bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task. -->
+<GR_ThrumboJaws.description>Un implant bionique ajoutant une mâchoire thrumbo à la bouche de la créature. Ces créatures dévorent les arbres, vous pouvez donc imaginer que leurs mâchoires sont à la hauteur de la tâche.</GR_ThrumboJaws.description>
+<!-- EN: animal Implant: bionic thrumbo jaws -->
+<GR_ThrumboJaws.comps.HediffComp_VerbGiver.tools.animal_Implant_bionic_thrumbo_jaws.label>animal Implant: bionic thrumbo jaws</GR_ThrumboJaws.comps.HediffComp_VerbGiver.tools.animal_Implant_bionic_thrumbo_jaws.label>
+
+<!-- EN: animal Implant: elephant leg -->
+<GR_ThrumboLeg.label>implant animal : patte d'éléphant</GR_ThrumboLeg.label>
+<!-- EN: A bionic animal leg reinforced with muscle tissue from a powerful elephant. -->
+<GR_ThrumboLeg.description>Une patte animale bionique renforcée par le tissu musculaire d'un puissant éléphant.</GR_ThrumboLeg.description>
+<!-- EN: animal Implant: elephant leg -->
+<GR_ThrumboLeg.comps.HediffComp_VerbGiver.tools.animal_Implant_elephant_leg.label>implant animal : patte d'éléphant</GR_ThrumboLeg.comps.HediffComp_VerbGiver.tools.animal_Implant_elephant_leg.label>
+
+<!-- EN: animal Implant: wolf fangs -->
+<GR_WolfJaws.label>implant animal : crocs de loup</GR_WolfJaws.label>
+<!-- EN: An implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws. -->
+<GR_WolfJaws.description>Un implant qui utilise un épissage génétique avec des gènes de loup pour donner à une vieille mâchoire (ou endommagée) un fonctionnement décent. Cet implant n'est pas destiné à remplacer des mâchoires saines.</GR_WolfJaws.description>
+
+
+<!-- EN: humanoid implant: bear claws -->
+<GR_BearClaws.label>implant humain : griffes d'ours</GR_BearClaws.label>
+<!-- EN: An improvement over the bionic Power Claw, these claws have been vat-grown with a mixture of human and bear DNA, and replace the subject's hand with versatile, non-retractable claws. -->
+<GR_BearClaws.description>Une amélioration des griffes bioniques puissantes, ces griffes ont été cultivées en cuve avec un mélange d'ADN humain et d'ours, et remplacent la main du sujet par des griffes polyvalentes et non rétractables.</GR_BearClaws.description>
+<!-- EN: bear claws -->
+<GR_BearClaws.comps.HediffComp_VerbGiver.tools.bear_claws.label>griffes d'ours</GR_BearClaws.comps.HediffComp_VerbGiver.tools.bear_claws.label>
+
+<!-- EN: humanoid implant: bear muscle tissue -->
+<GR_BearMuscleTissue.label>implant humain : tissu musculaire d'ours</GR_BearMuscleTissue.label>
+<!-- EN: Grafts of bear muscle tissue on the subject's torso increase overall strength and stamina. These grafts however tend to stimulate the production of an abundance of body hair. -->
+<GR_BearMuscleTissue.description>Les greffes de tissu musculaire d'ours sur le torse du sujet augmentent la force et l'endurance générales. Ces greffes ont toutefois tendance à stimuler la production d'une abondante pilosité corporelle.</GR_BearMuscleTissue.description>
+
+<!-- EN: humanoid implant: boomalope nodules -->
+<GR_BoomalopeNodules.label>implant humain : nodules de boomalope</GR_BoomalopeNodules.label>
+<!-- EN: These skin nodules can be integrated in a human's torso, causing a huge explosion if the subjects dies violently. -->
+<GR_BoomalopeNodules.description>Ces nodules de peau peuvent être intégrés dans le torse d'un humain, provoquant une énorme explosion si les sujets meurent violemment.</GR_BoomalopeNodules.description>
+
+<!-- EN: humanoid implant: bunny ear -->
+<GR_BunnyEars.label>implant humain : oreille de lapin</GR_BunnyEars.label>
+<!-- EN: This huge leporid ear gives amazing enhanced hearing. Also, super kawaii! -->
+<GR_BunnyEars.description>Cette énorme oreille de léporide permet d'améliorer l'audition. Et aussi, super kawaii !</GR_BunnyEars.description>
+
+<!-- EN: humanoid implant: cat eye -->
+<GR_CatEye.label>implant humain : œil de chat</GR_CatEye.label>
+<!-- EN: This hybrid humanoid / feline eye provides improved night vision, at the expense of a certain short-sightedness outside and during the day. Ideal for nyctophile colonists. -->
+<GR_CatEye.description>Cet œil hybride humanoïde / félin permet une meilleure vision nocturne, au détriment d'une certaine myopie à l'extérieur et en journée. Idéal pour les colons noctambules.</GR_CatEye.description>
+
+<!-- EN: humanoid implant: chemfuel heart -->
+<GR_ChemfuelHeart.label>implant humain : cœur chemfuel</GR_ChemfuelHeart.label>
+<!-- EN: A reinforced bionic heart that acts like a miniature 4-stroke internal combustion engine powered by chemfuel to pump blood through the body. -->
+<GR_ChemfuelHeart.description>Un cœur bionique renforcé qui agit comme un moteur à combustion interne miniature à 4 temps, alimenté par du chemfuel, pour pomper le sang dans le corps.</GR_ChemfuelHeart.description>
+
+<!-- EN: humanoid implant: chemfuel stomach -->
+<GR_ChemfuelStomach.label>implant humain : estomac chemfuel</GR_ChemfuelStomach.label>
+<!-- EN: A reinforced bionic stomach that uses a combination of gastric acid and chemfuel to efficiently digest food. -->
+<GR_ChemfuelStomach.description>Un estomac bionique renforcé qui utilise une combinaison d'acide gastrique et de chemfuel pour digérer efficacement les aliments.</GR_ChemfuelStomach.description>
+
+<!-- EN: humanoid implant: compound insectoid eye -->
+<GR_CompoundEye.label>implant humain : œil compulsif</GR_CompoundEye.label>
+<!-- EN: This hybrid humanoid / insectoid eye provides improved vision in a wide range of different wavelengths, including those usually outside the human range, completely modifying the way the subject perceives his surroundings. -->
+<GR_CompoundEye.description>Cet œil hybride humanoïde/insectoïde offre une vision améliorée dans un large éventail de longueurs d'onde différentes, y compris celles qui se situent habituellement en dehors de la gamme humaine, modifiant complètement la façon dont le sujet perçoit son environnement.</GR_CompoundEye.description>
+
+<!-- EN: humanoid implant: devouring jaws -->
+<GR_DevouringJaws.label>implant humain : mâchoire dévorante</GR_DevouringJaws.label>
+<!-- EN: A set of improved teeth designed to rapidly chew and ingest any kind of food. Leaves kind of a mess, though... -->
+<GR_DevouringJaws.description>Une série de dents améliorées conçues pour mâcher et ingérer rapidement toute sorte de nourriture. Ça laisse un peu de désordre, cependant...</GR_DevouringJaws.description>
+
+<!-- EN: humanoid implant: digging mole claws -->
+<GR_DiggingBearClaws.label>implant humain : griffes de taupe</GR_DiggingBearClaws.label>
+<!-- EN: Grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield. -->
+<GR_DiggingBearClaws.description>Des lames de main grotesques mais puissantes qui ont été modifiées pour être utilisées dans les exploitations minières, augmentant à la fois la vitesse et le rendement.</GR_DiggingBearClaws.description>
+<!-- EN: mole claws -->
+<GR_DiggingBearClaws.comps.HediffComp_VerbGiver.tools.mole_claws.label>griffes de taupe</GR_DiggingBearClaws.comps.HediffComp_VerbGiver.tools.mole_claws.label>
+
+<!-- EN: humanoid implant: hibernation module -->
+<GR_HibernationModule.label>implant humain : module d'hibernation</GR_HibernationModule.label>
+<!-- EN: A biochip that modifies the brain to reduce the need for sleep. -->
+<GR_HibernationModule.description>Une biopuce qui modifie le cerveau pour réduire le besoin de sommeil.</GR_HibernationModule.description>
+
+<!-- EN: humanoid implant: thrumbo horn -->
+<GR_HumanThrumboHorn.label>implant humain : corne de thumbo</GR_HumanThrumboHorn.label>
+<!-- EN: A genetically modified thrumbo horn that can be implanted in a subject's forehead. Nasty. -->
+<GR_HumanThrumboHorn.description>Une corne de thrumbo génétiquement modifiée qui peut être implantée dans le front d'un sujet. Méchant.</GR_HumanThrumboHorn.description>
+<!-- EN: thrumbo horn -->
+<GR_HumanThrumboHorn.comps.HediffComp_VerbGiver.tools.thrumbo_horn.label>corne de thumbo</GR_HumanThrumboHorn.comps.HediffComp_VerbGiver.tools.thrumbo_horn.label>
+
+<!-- EN: humanoid implant: iguana scales -->
+<GR_IguanaScales.label>implant humain : écailles d'iguane</GR_IguanaScales.label>
+<!-- EN: A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to high temperatures. -->
+<GR_IguanaScales.description>Un substitut de peau synthétique qui est bien plus épais et bien meilleur isolant que la peau humaine. Cela fournit une mesure de défense mais, surtout, rend le sujet plus résistant aux températures élevées.</GR_IguanaScales.description>
+
+<!-- EN: humanoid implant: insectoid antennae -->
+<GR_InsectoidAntennae.label>implant humain : antennes d'insectoïde</GR_InsectoidAntennae.label>
+<!-- EN: These hybrid humanoid / insectoid feeling appendages can be implanted in a subject's head, completely modifying the way the subject "sees" and feels the surrounding world. The experience may be slightly overwhelming due to sensorial overload. -->
+<GR_InsectoidAntennae.description>Ces appendices hybrides humanoïdes/insectoïdes peuvent être implantés dans la tête d'un sujet, modifiant complètement la façon dont celui-ci "voit" et ressent le monde environnant. L'expérience peut être légèrement accablante en raison de la surcharge sensorielle.</GR_InsectoidAntennae.description>
+
+<!-- EN: humanoid implant: kidney toxic filters -->
+<GR_KidneyToxicFilters.label>implant humain : filtres toxiques pour rein</GR_KidneyToxicFilters.label>
+<!-- EN: This is a bioelectronic kidney prosthesis that greatly improves the efficiency of the subject's kidney by using insectoid tissue, providing resistence to toxic substances. -->
+<GR_KidneyToxicFilters.description>Il s'agit d'une prothèse rénale bioélectronique qui améliore considérablement l'efficacité du rein du sujet en utilisant des tissus insectoïdes, offrant une résistance aux substances toxiques.</GR_KidneyToxicFilters.description>
+
+<!-- EN: humanoid implant: mole-rat nerve dampener -->
+<GR_MoleratNerveDampener.label>implant humain : amortisseur de nerfs de rat taupe</GR_MoleratNerveDampener.label>
+<!-- EN: A biochip that reduces pain sensitivity, allowing the subject to survive pain shock. -->
+<GR_MoleratNerveDampener.description>Une biopuce qui réduit la sensibilité à la douleur, permettant au sujet de survivre à un choc douloureux</GR_MoleratNerveDampener.description>
+
+<!-- EN: humanoid implant: mouse pheromones -->
+<GR_MousePheromones.label>implant humain : phéromones de souris</GR_MousePheromones.label>
+<!-- EN: A bionic vomeronasal organ that allows the subject pheromonal communication with other animals, increasing the chance of taming and training them successfully. -->
+<GR_MousePheromones.description>Un organe voméronasal bionique qui permet au sujet de communiquer par phéromones avec d'autres animaux, augmentant ainsi ses chances de les apprivoiser et de les dresser avec succès.</GR_MousePheromones.description>
+
+<!-- EN: humanoid implant: muffalo mammaries -->
+<GR_MuffaloMammaries.label>implant humain : mamelles de muffalo</GR_MuffaloMammaries.label>
+<!-- EN: By implanting muffalo mammaries into a colonist... Wait, what??? Who came up with this idea????? Anyway... this implant allows your colonist to be milked... What the... -->
+<GR_MuffaloMammaries.description>En implantant des mamelles de muffalo à un colon... Attendez, quoi ? Qui a eu cette idée ??? Bref... cet implant permet à votre colon d'être trait... Bordel de...</GR_MuffaloMammaries.description>
+
+<!-- EN: humanoid implant: muffalo strengthened muscles -->
+<GR_MuffaloMuscles.label>implant humain : muscle renforcé du muffalo</GR_MuffaloMuscles.label>
+<!-- EN: By weaving muffalo muscle strands with the subject's muscular system, strength, resilience and carrying capacity are greatly increased. -->
+<GR_MuffaloMuscles.description>En tissant des brins de muscles de muffalo avec le système musculaire des sujets, la force, la résistance et la capacité de charge sont considérablement augmentées.</GR_MuffaloMuscles.description>
+
+<!-- EN: humanoid implant: muffalo skin -->
+<GR_MuffaloSkin.label>implant humain : peau de muffalo</GR_MuffaloSkin.label>
+<!-- EN: A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to low temperatures. -->
+<GR_MuffaloSkin.description>Un substitut de peau synthétique qui est bien plus épais et bien meilleur isolant que la peau humaine. Cela fournit une mesure de défense mais, surtout, rend le sujet plus résistant aux basses températures.</GR_MuffaloSkin.description>
+
+<!-- EN: humanoid implant: neuron reinforcement -->
+<GR_NeuronReinforcement.label>implant humain : renforcement neuronal</GR_NeuronReinforcement.label>
+<!-- EN: A biochip using animal stem cells to reinforce the natural abilities of human neurons, increasing learning and research speed. -->
+<GR_NeuronReinforcement.description>Une biopuce utilisant des cellules souches animales pour renforcer les capacités naturelles des neurones humains, augmentant ainsi la vitesse d'apprentissage et de recherche.</GR_NeuronReinforcement.description>
+
+<!-- EN: humanoid implant: ovipositor -->
+<GR_Ovipositor.label>implant humain : ovipare</GR_Ovipositor.label>
+<!-- EN: You know you have gone too far in your scientific experiments when you are implanting a human being with an ovipositor. This will enable the colonist to lay chicken eggs twice a day. It hurts as hell, though. Also, yuck. -->
+<GR_Ovipositor.description>Vous savez que vous êtes allé trop loin dans vos expériences scientifiques lorsque vous implantez à un être humain un ovipositeur. Cela permettra au colon de pondre des œufs de poulet deux fois par jour. Mais ça fait très mal. Et aussi, beurk.</GR_Ovipositor.description>
+
+<!-- EN: humanoid implant: psychic dampeners -->
+<GR_PsychicDampeners.label>implant humain : amortisseurs psychiques</GR_PsychicDampeners.label>
+<!-- EN: Artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks. -->
+<GR_PsychicDampeners.description>Des prothèses auditives artificielles qui bloquent les émanations psychiques, offrant une résistance considérable aux attaques psychiques des mécanoïdes.</GR_PsychicDampeners.description>
+
+<!-- EN: humanoid implant: thrumbo skin -->
+<GR_ThrumboSkin.label>implant humain : peau de thumbo</GR_ThrumboSkin.label>
+<!-- EN: A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a lot of defense and makes the subject more resistant to extremes of temperature. -->
+<GR_ThrumboSkin.description>Un substitut de peau synthétique qui est beaucoup plus épais et un bien meilleur isolant que la peau humaine. Cela fournit beaucoup de défense et rend le sujet plus résistant aux températures extrêmes.</GR_ThrumboSkin.description>
+
+<!-- EN: humanoid implant: venomous fangs -->
+<GR_VenomousFangs.label>implant humain : crocs venimeux</GR_VenomousFangs.label>
+<!-- EN: This hybrid implant substitutes the subject's jaw with a set of venomous fangs. Useful in combat, but not very comfortable. -->
+<GR_VenomousFangs.description>Cet implant hybride remplace la mâchoire du sujet par un ensemble de crocs venimeux. Utile en combat, mais pas très confortable.</GR_VenomousFangs.description>
+<!-- EN: venomous fangs -->
+<GR_VenomousFangs.comps.HediffComp_VerbGiver.tools.venomous_fangs.label>crocs venimeux</GR_VenomousFangs.comps.HediffComp_VerbGiver.tools.venomous_fangs.label>
+
+<!-- EN: humanoid implant: wolf muscular fibers -->
+<GR_WolfMuscularFibers.label>implant humain : fibres musculaires de loup</GR_WolfMuscularFibers.label>
+<!-- EN: The subject's legs can be modified by weaving hybrid human/wolf muscle fibers within the base tissue, giving her a significant strength and speed boost. -->
+<GR_WolfMuscularFibers.description>Les jambes des sujets peuvent être modifiées en tissant des fibres musculaires hybrides homme/loup dans le tissu de base, ce qui leur confère une force et une vitesse accrues.</GR_WolfMuscularFibers.description>
+
+
+<!-- EN: poison ampoule -->
+<GR_PoisonAmpouleDrank.label>ampoule de poison</GR_PoisonAmpouleDrank.label>
+<!-- EN: Poison in the bloodstream. Causes paralysis while slowing bleeding rate and wears off after 6 hours. -->
+<GR_PoisonAmpouleDrank.description>Poison dans la circulation sanguine. Il provoque une paralysie tout en ralentissant le taux de saignement et disparaît au bout de 6 heures.</GR_PoisonAmpouleDrank.description>
+
+
+</LanguageData>

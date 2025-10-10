@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Doing something. -->
+<VFEA_GotoTargetAndUseAbility.reportString>fait quelque chose.</VFEA_GotoTargetAndUseAbility.reportString>
+
+<!-- EN: standing. -->
+<VFEA_StandAndFaceTarget.reportString>est debout.</VFEA_StandAndFaceTarget.reportString>
+
+<!-- EN: Doing something. -->
+<VFEA_UseAbility.reportString>fait quelque chose.</VFEA_UseAbility.reportString>
+
+<!-- EN: Doing something. -->
+<VFEA_UseAbilityUninterruptible.reportString>fait quelque chose.</VFEA_UseAbilityUninterruptible.reportString>
+
+
+<!-- EN: gathering animal resource from TargetA. -->
+<VEF_AnimalResource.reportString>récolte les ressources animale du TargetA.</VEF_AnimalResource.reportString>
+
+<!-- EN: eating. -->
+<VEF_AutoNutrition.reportString>mange.</VEF_AutoNutrition.reportString>
+
+<!-- EN: destroying an item. -->
+<VEF_DestroyItem.reportString>détruit un objet.</VEF_DestroyItem.reportString>
+
+<!-- EN: fleeing. -->
+<VEF_FleeAndCowerShort.reportString>fuit.</VEF_FleeAndCowerShort.reportString>
+
+<!-- EN: consuming TargetA. -->
+<VEF_IngestWeird.reportString>consomme TargetA</VEF_IngestWeird.reportString>
+
+<!-- EN: laying egg. -->
+<VEF_LayExplodingEgg.reportString>pond un œuf.</VEF_LayExplodingEgg.reportString>
+
+
+<!-- EN: inserting ingredient. -->
+<IP_InsertFirstIngredient.reportString>insére l'ingrédient.</IP_InsertFirstIngredient.reportString>
+
+<!-- EN: inserting ingredient. -->
+<IP_InsertSecondIngredient.reportString>insére l'ingrédient.</IP_InsertSecondIngredient.reportString>
+
+<!-- EN: inserting ingredient. -->
+<IP_InsertThirdIngredient.reportString>insére l'ingrédient.</IP_InsertThirdIngredient.reportString>
+
+<!-- EN: removing finished product. -->
+<IP_RemoveProduct.reportString>retire le produit fini.</IP_RemoveProduct.reportString>
+
+
+<!-- EN: attaching turret. -->
+<VFE_Mechanoids_AttachTurret.reportString>attache la tourelle.</VFE_Mechanoids_AttachTurret.reportString>
+
+<!-- EN: recharging. -->
+<VFE_Mechanoids_Recharge.reportString>se recharge.</VFE_Mechanoids_Recharge.reportString>
+
+<!-- EN: rebuilding machine. -->
+<VFE_Mechanoids_RepairMachine.reportString>reconstruit la machine.</VFE_Mechanoids_RepairMachine.reportString>
+
+
+<!-- EN: entering TargetA. -->
+<KCSG_GoToPassage.reportString>entre TargetA.</KCSG_GoToPassage.reportString>
+
+<!-- EN: customizing TargetA. -->
+<VEF_CustomizeItem.reportString>personnalise TargetA.</VEF_CustomizeItem.reportString>
+
+<!-- EN: using TargetA to teleport to TargetB -->
+<VEF_UseDoorTeleporter.reportString>utilise TargetA pour se téléporter à TargetB</VEF_UseDoorTeleporter.reportString>
+
+<!-- EN: looting TargetA. -->
+<VFE_Loot.reportString>pille TargetA.</VFE_Loot.reportString>
+
+<!-- EN: studying TargetA. -->
+<VFE_StudyBuilding.reportString>étudie TargetA.</VFE_StudyBuilding.reportString>
+
+<!-- EN: equipping TargetA. -->
+<VFEC_EquipShield.reportString>équipe TargetA.</VFEC_EquipShield.reportString>
+
+<!-- EN: leaving. -->
+<VFEC_LeaveMap.reportString>s'en va.</VFEC_LeaveMap.reportString>
+
+
+<!-- EN: bringing TargetB to TargetA. -->
+<PS_BringToProcessor.reportString>apporte TargetB à TargetA.</PS_BringToProcessor.reportString>
+
+<!-- EN: draining out of TargetA. -->
+<PS_DrainFromMarkedStorage.reportString>vidange TargetA.</PS_DrainFromMarkedStorage.reportString>
+
+<!-- EN: filling TargetA. -->
+<PS_FillStorage.reportString>remplit TargetA.</PS_FillStorage.reportString>
+
+<!-- EN: picking up from TargetA. -->
+<PS_PickUpProcessor.reportString>récupère de TargetA.</PS_PickUpProcessor.reportString>
+
+
+<!-- EN: reloading TargetA. -->
+<BetterReload.reportString>recharge TargetA.</BetterReload.reportString>
+
+<!-- EN: reloading TargetA. -->
+<ReloadFromInventory.reportString>recharge TargetA.</ReloadFromInventory.reportString>
+
+<!-- EN: unloading TargetA. -->
+<Unload.reportString>décharge TargetA.</Unload.reportString>
+
+
+</LanguageData>

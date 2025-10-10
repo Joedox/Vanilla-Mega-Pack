@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Stews -->
+
+
+<!-- EN: Stew to Cook -->
+<VCE_InsertStewDesc>Ragoût à cuire</VCE_InsertStewDesc>
+
+<!-- EN: Bring Stew -->
+<VCE_StartStewInsertion>Apporter un ragoût</VCE_StartStewInsertion>
+<!-- EN: Bring a stew to the stew pot to start cooking -->
+<VCE_StartStewInsertionDesc>Apporte un ragoût dans la marmite à bois pour commencer la cuisson.</VCE_StartStewInsertionDesc>
+
+<!-- EN: Cancel Bringing Stew -->
+<VCE_CancelBringingStew>Annuler</VCE_CancelBringingStew>
+<!-- EN: Cancel bringing stew to the stew pot. -->
+<VCE_CancelBringingStewDesc>Annuler l'apport du ragoût dans la marmite à bois.</VCE_CancelBringingStewDesc>
+
+<!-- EN: The stew has spoiled due to a lack of fuel in the stew pot -->
+<VCE_StewFailurePower>Le ragoût s'est gâté à cause du manque de combustible dans la marmite à bois.</VCE_StewFailurePower>
+<!-- EN: The stew is spoiling fast due to a lack of fuel in the stew pot -->
+<VCE_StewFailurePowerWarning>Le ragoût se gâte rapidement à cause du manque de combustible dans la marmite à bois.</VCE_StewFailurePowerWarning>
+
+<!-- EN: A simple stew is ready and waiting for pickup -->
+<VCE_FinishedSimpleStew>Un ragoût simple est prêt et attend d'être retiré.</VCE_FinishedSimpleStew>
+<!-- EN: A fine stew is ready and waiting for pickup -->
+<VCE_FinishedFineStew>Un ragoût raffiné est prêt et attend d'être retiré.</VCE_FinishedFineStew>
+<!-- EN: A lavish stew is ready and waiting for pickup -->
+<VCE_FinishedLavishStew>Un ragoût gastronomique est prêt et attend d'être retiré.</VCE_FinishedLavishStew>
+
+
+</LanguageData>

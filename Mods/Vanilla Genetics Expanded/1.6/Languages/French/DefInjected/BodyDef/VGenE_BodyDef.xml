@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: bird with teeth -->
+<GR_BirdWithTeeth.label>volatile avec des dents</GR_BirdWithTeeth.label>
+<!-- EN: left lung -->
+<GR_BirdWithTeeth.corePart.parts.left_lung.customLabel>poumon gauche</GR_BirdWithTeeth.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_BirdWithTeeth.corePart.parts.right_lung.customLabel>poumon droit</GR_BirdWithTeeth.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_BirdWithTeeth.corePart.parts.left_kidney.customLabel>rein gauche</GR_BirdWithTeeth.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_BirdWithTeeth.corePart.parts.right_kidney.customLabel>rein droit</GR_BirdWithTeeth.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<GR_BirdWithTeeth.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</GR_BirdWithTeeth.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<GR_BirdWithTeeth.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</GR_BirdWithTeeth.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left leg -->
+<GR_BirdWithTeeth.corePart.parts.left_leg.customLabel>jambe gauche</GR_BirdWithTeeth.corePart.parts.left_leg.customLabel>
+<!-- EN: left foot -->
+<GR_BirdWithTeeth.corePart.parts.left_leg.parts.left_foot.customLabel>pied gauche</GR_BirdWithTeeth.corePart.parts.left_leg.parts.left_foot.customLabel>
+<!-- EN: right leg -->
+<GR_BirdWithTeeth.corePart.parts.right_leg.customLabel>jambe droite</GR_BirdWithTeeth.corePart.parts.right_leg.customLabel>
+<!-- EN: right foot -->
+<GR_BirdWithTeeth.corePart.parts.right_leg.parts.right_foot.customLabel>pied droit</GR_BirdWithTeeth.corePart.parts.right_leg.parts.right_foot.customLabel>
+
+
+<!-- EN: horned bird -->
+<GR_HornedBird.label>volatile à cornes</GR_HornedBird.label>
+<!-- EN: left lung -->
+<GR_HornedBird.corePart.parts.left_lung.customLabel>poumon gauche</GR_HornedBird.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_HornedBird.corePart.parts.right_lung.customLabel>poumon droit</GR_HornedBird.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_HornedBird.corePart.parts.left_kidney.customLabel>rein gauche</GR_HornedBird.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_HornedBird.corePart.parts.right_kidney.customLabel>rein droit</GR_HornedBird.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<GR_HornedBird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</GR_HornedBird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<GR_HornedBird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</GR_HornedBird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left leg -->
+<GR_HornedBird.corePart.parts.left_leg.customLabel>jambe gauche</GR_HornedBird.corePart.parts.left_leg.customLabel>
+<!-- EN: left foot -->
+<GR_HornedBird.corePart.parts.left_leg.parts.left_foot.customLabel>pied gauche</GR_HornedBird.corePart.parts.left_leg.parts.left_foot.customLabel>
+<!-- EN: right leg -->
+<GR_HornedBird.corePart.parts.right_leg.customLabel>jambe droite</GR_HornedBird.corePart.parts.right_leg.customLabel>
+<!-- EN: right foot -->
+<GR_HornedBird.corePart.parts.right_leg.parts.right_foot.customLabel>pied droit</GR_HornedBird.corePart.parts.right_leg.parts.right_foot.customLabel>
+
+
+<!-- EN: jellyfish -->
+<GR_JellyfishBody.label>méduse</GR_JellyfishBody.label>
+<!-- EN: stomach pouch -->
+<GR_JellyfishBody.corePart.parts.stomach_pouch.customLabel>poche ventrale</GR_JellyfishBody.corePart.parts.stomach_pouch.customLabel>
+<!-- EN: gastrovascular cavity -->
+<GR_JellyfishBody.corePart.parts.gastrovascular_cavity.customLabel>cavité gastro-vasculaire</GR_JellyfishBody.corePart.parts.gastrovascular_cavity.customLabel>
+<!-- EN: left hydrogen-chemfuel sac -->
+<GR_JellyfishBody.corePart.parts.left_hydrogenchemfuel_sac.customLabel>sac d'hydrogène-chemfuel gauche</GR_JellyfishBody.corePart.parts.left_hydrogenchemfuel_sac.customLabel>
+<!-- EN: right hydrogen-chemfuel sac -->
+<GR_JellyfishBody.corePart.parts.right_hydrogenchemfuel_sac.customLabel>sac d'hydrogène-chemfuel droit</GR_JellyfishBody.corePart.parts.right_hydrogenchemfuel_sac.customLabel>
+<!-- EN: left eye spot -->
+<GR_JellyfishBody.corePart.parts.Head.parts.left_eye_spot.customLabel>endroit œil gauche</GR_JellyfishBody.corePart.parts.Head.parts.left_eye_spot.customLabel>
+<!-- EN: right eye spot -->
+<GR_JellyfishBody.corePart.parts.Head.parts.right_eye_spot.customLabel>endroit œil droit</GR_JellyfishBody.corePart.parts.Head.parts.right_eye_spot.customLabel>
+
+
+<!-- EN: quadruped animal with beak -->
+<GR_QuadrupedAnimalWithBeak.label>animal quadrupède avec bec</GR_QuadrupedAnimalWithBeak.label>
+<!-- EN: left lung -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.left_lung.customLabel>poumon gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.right_lung.customLabel>poumon droit</GR_QuadrupedAnimalWithBeak.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.left_kidney.customLabel>rein gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.right_kidney.customLabel>rein droit</GR_QuadrupedAnimalWithBeak.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left ear -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</GR_QuadrupedAnimalWithBeak.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: front left leg -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.front_left_leg.customLabel>jambe avant gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left paw -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>patte avant gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+<!-- EN: front right leg -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.front_right_leg.customLabel>jambe avant droite</GR_QuadrupedAnimalWithBeak.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right paw -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>patte avant droite</GR_QuadrupedAnimalWithBeak.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+<!-- EN: rear left leg -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left paw -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>patte arrière gauche</GR_QuadrupedAnimalWithBeak.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+<!-- EN: rear right leg -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</GR_QuadrupedAnimalWithBeak.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right paw -->
+<GR_QuadrupedAnimalWithBeak.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>patte arrière droite</GR_QuadrupedAnimalWithBeak.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+
+
+<!-- EN: quadruped animal with beak and Hump -->
+<GR_QuadrupedAnimalWithBeakandHump.label>animal quadrupède avec bec et bosse</GR_QuadrupedAnimalWithBeakandHump.label>
+<!-- EN: left lung -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.left_lung.customLabel>poumon gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.right_lung.customLabel>poumon droit</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.left_kidney.customLabel>rein gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.right_kidney.customLabel>rein droit</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left ear -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: front left leg -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_left_leg.customLabel>jambe avant gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left hoof -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>sabot avant gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+<!-- EN: front right leg -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_right_leg.customLabel>jambe avant droite</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right hoof -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>sabot avant droit</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+<!-- EN: rear left leg -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left hoof -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>sabot arrière gauche</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+<!-- EN: rear right leg -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right hoof -->
+<GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>sabot arrière droit</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+
+
+<!-- EN: quadruped animal -->
+<GR_QuadrupedAnimalWithPawsAndFangs.label>animal quadrupède</GR_QuadrupedAnimalWithPawsAndFangs.label>
+<!-- EN: left lung -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.left_lung.customLabel>poumon gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.right_lung.customLabel>poumon droit</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.left_kidney.customLabel>rein gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.right_kidney.customLabel>rein droit</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left ear -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: front left leg -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_left_leg.customLabel>jambe avant gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left paw -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>patte avant gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+<!-- EN: front right leg -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_right_leg.customLabel>jambe avant droite</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right paw -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>patte avant droite</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+<!-- EN: rear left leg -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left paw -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>patte arrière gauche</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+<!-- EN: rear right leg -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right paw -->
+<GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>patte arrière droite</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+
+
+<!-- EN: quadruped animal -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.label>animal quadrupède</GR_QuadrupedAnimalWithPawsHornAndTail.label>
+<!-- EN: left lung -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.left_lung.customLabel>poumon gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.right_lung.customLabel>poumon droit</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.left_kidney.customLabel>rein gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.right_kidney.customLabel>rein droit</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left ear -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: front left leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_left_leg.customLabel>jambe avant gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left paw -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>patte avant gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+<!-- EN: front right leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_right_leg.customLabel>jambe avant droite</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right paw -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>patte avant droite</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+<!-- EN: rear left leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left hoof -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>sabot arrière gauche</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+<!-- EN: rear right leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right hoof -->
+<GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>sabot arrière droit</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+
+
+<!-- EN: quadruped animal -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.label>animal quadrupède</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.label>
+<!-- EN: left lung -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.left_lung.customLabel>poumon gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.right_lung.customLabel>poumon droit</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.left_kidney.customLabel>rein gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.right_kidney.customLabel>rein droit</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.right_kidney.customLabel>
+<!-- EN: first left eye -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>premier œil gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>
+<!-- EN: second left eye -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>deuxième œil gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>
+<!-- EN: first right eye -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>premier œil droit</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>
+<!-- EN: second right eye -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>deuxième œil droit</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>
+<!-- EN: left ear -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: front left leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_left_leg.customLabel>jambe avant gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left paw -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>patte avant gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+<!-- EN: front right leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_right_leg.customLabel>jambe avant droite</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right paw -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>patte avant droite</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+<!-- EN: rear left leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left paw -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>patte arrière gauche</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+<!-- EN: rear right leg -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right paw -->
+<GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>patte arrière droite</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+
+
+<!-- EN: great ape -->
+<GR_GreatApe.label>grand singe</GR_GreatApe.label>
+<!-- EN: left clavicle -->
+<GR_GreatApe.corePart.parts.left_clavicle.customLabel>clavicule gauche</GR_GreatApe.corePart.parts.left_clavicle.customLabel>
+<!-- EN: right clavicle -->
+<GR_GreatApe.corePart.parts.right_clavicle.customLabel>clavicule droite</GR_GreatApe.corePart.parts.right_clavicle.customLabel>
+<!-- EN: left lung -->
+<GR_GreatApe.corePart.parts.left_lung.customLabel>poumon gauche</GR_GreatApe.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<GR_GreatApe.corePart.parts.right_lung.customLabel>poumon droit</GR_GreatApe.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<GR_GreatApe.corePart.parts.left_kidney.customLabel>rein gauche</GR_GreatApe.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<GR_GreatApe.corePart.parts.right_kidney.customLabel>rein droit</GR_GreatApe.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<GR_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</GR_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<GR_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</GR_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left ear -->
+<GR_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</GR_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<GR_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</GR_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: left shoulder -->
+<GR_GreatApe.corePart.parts.left_shoulder.customLabel>épaule gauche</GR_GreatApe.corePart.parts.left_shoulder.customLabel>
+<!-- EN: left arm -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>bras gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+<!-- EN: left humerus -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>humérus gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+<!-- EN: left radius -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>radius gauch</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+<!-- EN: left hand -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>main gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+<!-- EN: left pinky -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>auriculaire gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+<!-- EN: left ring finger -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>annulaire gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+<!-- EN: left middle finger -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>majeur gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+<!-- EN: left index finger -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>index gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+<!-- EN: left thumb -->
+<GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>pouce gauche</GR_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+<!-- EN: right shoulder -->
+<GR_GreatApe.corePart.parts.right_shoulder.customLabel>épaule droite</GR_GreatApe.corePart.parts.right_shoulder.customLabel>
+<!-- EN: right arm -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>bras droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+<!-- EN: right humerus -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>humérus droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+<!-- EN: right radius -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>radius droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+<!-- EN: right hand -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>main droite</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+<!-- EN: right pinky -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>auriculaire droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+<!-- EN: right ring finger -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>annulaire droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+<!-- EN: right middle finger -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>majeur droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+<!-- EN: right index finger -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>index droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+<!-- EN: right thumb -->
+<GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>pouce droit</GR_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+<!-- EN: left leg -->
+<GR_GreatApe.corePart.parts.left_leg.customLabel>jambe gauche</GR_GreatApe.corePart.parts.left_leg.customLabel>
+<!-- EN: left femur -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>fémur gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>
+<!-- EN: left tibia -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>tibia gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>
+<!-- EN: left foot -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>pied gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>
+<!-- EN: left little toe -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>petit orteil gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+<!-- EN: left fourth toe -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>quartus gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+<!-- EN: left middle toe -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>tertius gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+<!-- EN: left second toe -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>secundus gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+<!-- EN: left big toe -->
+<GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>gros orteil gauche</GR_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+<!-- EN: right leg -->
+<GR_GreatApe.corePart.parts.right_leg.customLabel>jambe droite</GR_GreatApe.corePart.parts.right_leg.customLabel>
+<!-- EN: right femur -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>fémur droit</GR_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>
+<!-- EN: right tibia -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>tibia droit</GR_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>
+<!-- EN: right foot -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>pied droit</GR_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>
+<!-- EN: right little toe -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>petit orteil droit</GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+<!-- EN: right fourth toe -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>quartus droit</GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+<!-- EN: right middle toe -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>tertius droit</GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+<!-- EN: right second toe -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>secundus droit</GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+<!-- EN: right big toe -->
+<GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>gros orteil droit</GR_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+
+
+</LanguageData>

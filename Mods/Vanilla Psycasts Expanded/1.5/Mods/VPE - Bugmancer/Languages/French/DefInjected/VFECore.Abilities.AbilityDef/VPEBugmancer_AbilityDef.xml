@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Manifest Megaspider -->
+<VPE_BigbugSTNL.label>appeler une mégaraignée</VPE_BigbugSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing a Megaspider to answer the call. -->
+<VPE_BigbugSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant une mégaraignée à répondre à votre appel.</VPE_BigbugSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BigbugSTNL.jobReportString>Utilise la capacité : {0}</VPE_BigbugSTNL.jobReportString>
+<!-- EN: Manifest Megaspider -->
+<VPE_BigbugSTNL.verbProperties.label>appeler une mégaraignée</VPE_BigbugSTNL.verbProperties.label>
+
+<!-- EN: Conjure glowpod -->
+<VPE_BugpodSTNL.label>invoquer glume lumineuse</VPE_BugpodSTNL.label>
+<!-- EN: Use your experience with insectoids to replicate one of their glowpods for the colony. -->
+<VPE_BugpodSTNL.description>Utilise votre expérience avec les insectoïdes pour reproduire une de leurs glumes lumineuses pour la colonie.</VPE_BugpodSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BugpodSTNL.jobReportString>Utilise la capacité : {0}</VPE_BugpodSTNL.jobReportString>
+<!-- EN: Conjure glowpod -->
+<VPE_BugpodSTNL.verbProperties.label>invoquer glume lumineuse</VPE_BugpodSTNL.verbProperties.label>
+
+<!-- EN: Conjure Hive -->
+<VPE_BugSefSTNL.label>invoquer un nid</VPE_BugSefSTNL.label>
+<!-- EN: Use your experience with insectoids to replicate one of their hives for the colony. -->
+<VPE_BugSefSTNL.description>Utilise votre expérience avec les insectoïdes pour reproduire l'un de leurs nids pour la colonie.</VPE_BugSefSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BugSefSTNL.jobReportString>Utilise la capacité : {0}</VPE_BugSefSTNL.jobReportString>
+<!-- EN: Conjure Hive -->
+<VPE_BugSefSTNL.verbProperties.label>invoquer un nid</VPE_BugSefSTNL.verbProperties.label>
+
+<!-- EN: Bug Self -->
+<VPE_BugSelfSTNL.label>insectise-moi</VPE_BugSelfSTNL.label>
+<!-- EN: Use your experience with bug pheromones to replicate a sample viable for humans, slightly enhancing several of this pawn's capabilities (Healing, Defense, Mov/Atk Speed). -->
+<VPE_BugSelfSTNL.description>Utilise votre expérience des phéromones d'insectes pour reproduire un échantillon viable pour les humains, améliorant légèrement plusieurs des capacités de ce colon (guérison, défense, vitesse de déplacement et vitesse d'attaque).</VPE_BugSelfSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BugSelfSTNL.jobReportString>Utilise la capacité : {0}</VPE_BugSelfSTNL.jobReportString>
+<!-- EN: Bug Self -->
+<VPE_BugSelfSTNL.verbProperties.label>insectise-moi</VPE_BugSelfSTNL.verbProperties.label>
+
+<!-- EN: Manifest Spelopede -->
+<VPE_bugSTNL.label>appeler un spélopède</VPE_bugSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing a Spelopede to answer the call. -->
+<VPE_bugSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant un spélopède à répondre à votre appel.</VPE_bugSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_bugSTNL.jobReportString>Utilise la capacité : {0}</VPE_bugSTNL.jobReportString>
+<!-- EN: Manifest Spelopede -->
+<VPE_bugSTNL.verbProperties.label>appeler un spélopède</VPE_bugSTNL.verbProperties.label>
+
+<!-- EN: Fury-Omone -->
+<VPE_FurySTNL.label>phéro-furie</VPE_FurySTNL.label>
+<!-- EN: Manifest pheromones into an animal, massively enhancing their fighting capabilities for a while. -->
+<VPE_FurySTNL.description>Manifeste des phéromones sur une créature, améliorant massivement ses capacités de combat pendant un certain temps.</VPE_FurySTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FurySTNL.jobReportString>Utilise la capacité : {0}</VPE_FurySTNL.jobReportString>
+<!-- EN: Fury-Omone -->
+<VPE_FurySTNL.verbProperties.label>phéro-furie</VPE_FurySTNL.verbProperties.label>
+
+<!-- EN: Guard-Omone -->
+<VPE_GuardSTNL.label>phéro-garde</VPE_GuardSTNL.label>
+<!-- EN: Manifest pheromones into an animal, slightly enhancing their ability to endure damage. -->
+<VPE_GuardSTNL.description>Manifeste des phéromones sur une créature, améliorant légèrement sa capacité à supporter les dégâts.</VPE_GuardSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_GuardSTNL.jobReportString>Utilise la capacité : {0}</VPE_GuardSTNL.jobReportString>
+<!-- EN: Guard-Omone -->
+<VPE_GuardSTNL.verbProperties.label>phéro-garde</VPE_GuardSTNL.verbProperties.label>
+
+<!-- EN: Heal-Omone -->
+<VPE_HealingSTNL.label>phéro-soins</VPE_HealingSTNL.label>
+<!-- EN: Manifest pheromones into an animal, massively enhancing their healing factor for a short time. -->
+<VPE_HealingSTNL.description>Manifeste des phéromones sur une créature, augmentant massivement son facteur de guérison pendant une courte période.</VPE_HealingSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_HealingSTNL.jobReportString>Utilise la capacité : {0}</VPE_HealingSTNL.jobReportString>
+<!-- EN: Heal-Omone -->
+<VPE_HealingSTNL.verbProperties.label>phéro-soins</VPE_HealingSTNL.verbProperties.label>
+
+<!-- EN: Immun-Omone -->
+<VPE_ImmunSTNL.label>phéro-immuno</VPE_ImmunSTNL.label>
+<!-- EN: Manifest pheromones into an animal, slightly enhancing their immunity gain against several conditions. -->
+<VPE_ImmunSTNL.description>Manifeste des phéromones sur une créature, améliorant légèrement son immunité contre plusieurs maladies.</VPE_ImmunSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ImmunSTNL.jobReportString>Utilise la capacité : {0}</VPE_ImmunSTNL.jobReportString>
+<!-- EN: Immun-Omone -->
+<VPE_ImmunSTNL.verbProperties.label>phéro-immuno</VPE_ImmunSTNL.verbProperties.label>
+
+<!-- EN: Manifest Megascarab -->
+<VPE_MinibugSTNL.label>appeler un mégascarabée</VPE_MinibugSTNL.label>
+<!-- EN: Psychically manifest distress pheromones, causing a Megascarab to answer the call. -->
+<VPE_MinibugSTNL.description>Manifeste psychiquement des phéromones de détresse, amenant un mégascarabée à répondre à votre appel.</VPE_MinibugSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MinibugSTNL.jobReportString>Utilise la capacité : {0}</VPE_MinibugSTNL.jobReportString>
+<!-- EN: Manifest Megascarab -->
+<VPE_MinibugSTNL.verbProperties.label>appeler un mégascarabée</VPE_MinibugSTNL.verbProperties.label>
+
+<!-- EN: Pain-Omone -->
+<VPE_PainlessSTNL.label>phéro-douleur</VPE_PainlessSTNL.label>
+<!-- EN: Manifest pheromones into an animal, effectively shutting down their pain receptors and causing their skin to harden slightly for a while. -->
+<VPE_PainlessSTNL.description>Manifeste des phéromones sur une créature, ce qui a pour effet de bloquer ses récepteurs à la douleur et de faire durcir légèrement sa peau pendant un certain temps.</VPE_PainlessSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PainlessSTNL.jobReportString>Utilise la capacité : {0}</VPE_PainlessSTNL.jobReportString>
+<!-- EN: Pain-Omone -->
+<VPE_PainlessSTNL.verbProperties.label>phéro-douleur</VPE_PainlessSTNL.verbProperties.label>
+
+<!-- EN: Stim-Omone -->
+<VPE_StimSTNL.label>phéro-stim</VPE_StimSTNL.label>
+<!-- EN: Manifest pheromones into an animal, slightly enhancing their speed and consciousness. -->
+<VPE_StimSTNL.description>Manifeste des phéromones sur une créature, augmentant légèrement sa vitesse et sa conscience.</VPE_StimSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_StimSTNL.jobReportString>Utilise la capacité : {0}</VPE_StimSTNL.jobReportString>
+<!-- EN: Stim-Omone -->
+<VPE_StimSTNL.verbProperties.label>phéro-stim</VPE_StimSTNL.verbProperties.label>
+
+
+</LanguageData>

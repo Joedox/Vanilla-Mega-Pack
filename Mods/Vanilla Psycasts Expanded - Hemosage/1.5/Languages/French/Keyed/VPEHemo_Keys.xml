@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguagData>
+
+<!-- EN: Is a deathrest building. -->
+<VPEH.DeathrestBuilding>C'est un bâtiment de torpeur.</VPEH.DeathrestBuilding>
+<!-- EN: {0} deathrest buildings nearby. -->
+<VPEH.DeathrestBuildingsNearby>{0} bâtiments de torpeur à proximité.</VPEH.DeathrestBuildingsNearby>
+<!-- EN: Hemogen is too low. Minimum {0} is required. -->
+<VPEH.HemogenTooLow>Hémogène trop bas. Un minimum de {0} est requis.</VPEH.HemogenTooLow>
+<!-- EN: Pawn does not have hemogen gene. -->
+<VPEH.NoHemogenGene>Le colon n'a pas le gène "hémogène".</VPEH.NoHemogenGene>
+<!-- EN: Corpse must be not dessicated. -->
+<VPEH.MustBeNotDessicated>Le cadavre ne doit pas être desséché.</VPEH.MustBeNotDessicated>
+<!-- EN: Cannot cast: target is hemogenic. -->
+<VPEH.OnlyNonHemogenic>Impossible : la cible est hémogénique.</VPEH.OnlyNonHemogenic>
+<!-- EN: Cancel Bloodfocus -->
+<VPEH.CancelBloodfocus>Annuler</VPEH.CancelBloodfocus>
+<!-- EN: Click to cancel Bloodfocus on the caster. -->
+<VPEH.CancelBloodfocusDesc>Annule la concentration du sang du psylanceur.</VPEH.CancelBloodfocusDesc>
+<!-- EN: H -->
+<VPEH.HemogenLetter>H</VPEH.HemogenLetter>
+<!-- EN: Cannot cast: target is not human -->
+<VPEH.OnlyHumanlikes>Impossible : la cible n'est pas humaine</VPEH.OnlyHumanlikes>
+
+
+</LanguagData>

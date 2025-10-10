@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Select prop category: -->
+<VFE_ChoosePropCategory>Sélectionner la catégorie d'accessoire :</VFE_ChoosePropCategory>
+<!-- EN: Go back -->
+<VFE_GoBack>Retour</VFE_GoBack>
+<!-- EN: Search -->
+<VFE_PrefabSearch>Recherche</VFE_PrefabSearch>
+<!-- EN: Not enough silver in stockpiles. You need to have at least {0} silver to build this prop -->
+<VFE_NoSilver>Pas assez d'argent dans les stocks. Vous devez avoir au moins {0} d'argent pour construire cet accessoire.</VFE_NoSilver>
+<!-- EN: Prop cost multiplier -->
+<VFE_PropCostMultiplier>Multiplicateur du coût des accessoires</VFE_PropCostMultiplier>
+<!-- EN: Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs. -->
+<VFE_PropCostMultiplierDesc>Le coût des accessoires achetés avec de l'argent est calculé en fonction de leur taille, de leurs points de vie et de leur couverture. Avec ce curseur, vous pouvez modifier le coût des accessoires. 0 désactive tous les coûts d'argent.</VFE_PropCostMultiplierDesc>
+<!-- EN: Silver return multiplier -->
+<VFE_SilverReturnMultiplier>Multiplicateur de remboursement d'argent</VFE_SilverReturnMultiplier>
+<!-- EN: When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting. -->
+<VFE_SilverReturnMultiplierDesc>Lorsqu'ils sont détruits, les accessoires retournent leur coût d'achat en argent. Par défaut, ce montant est égal à 100% du coût d'achat, mais il peut être réduit à l'aide de ce paramètre.</VFE_SilverReturnMultiplierDesc>
+<!-- EN: Reset -->
+<VFE_Reset>Réinitialiser</VFE_Reset>
+<!-- EN: Built -->
+<VPE_NeedsMats>Construire</VPE_NeedsMats>
+<!-- EN: This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves -->
+<VPE_NeedsMatsDesc>Cet accessoire en particulier nécessite des matériaux de construction au lieu de l'argent, et les colons doivent le construire eux-mêmes.</VPE_NeedsMatsDesc>
+<!-- EN: build props -->
+<VFEPD_BuildProps>construire accessoires</VFEPD_BuildProps>
+<!-- EN: Open a menu to build props with a silver cost. -->
+<VFEPD_BuildPropsDesc>Ouvre un menu pour construire des accessoires avec un coût en argent.</VFEPD_BuildPropsDesc>
+<!-- EN: Can't be built until {0} has been researched by the colony -->
+<VFEPD_ResearchNeeded>Ne peut être construit tant que {0} n'a pas été recherché par votre colonie.</VFEPD_ResearchNeeded>
+<!-- EN: Make copy -->
+<VFEPD_MakeCopy>Dupliquer</VFEPD_MakeCopy>
+<!-- EN: Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles. -->
+<VFEPD_MakeCopyDesc>Construire une copie de cet accessoire. Pour ce faire, vous devez disposer du coût en argent de l'accessoire dans vos stockages.</VFEPD_MakeCopyDesc>
+
+
+</LanguageData>

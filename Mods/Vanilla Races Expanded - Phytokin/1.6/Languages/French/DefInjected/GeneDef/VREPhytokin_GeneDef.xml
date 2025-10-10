@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: photosynthesis -->
+<VRE_Photosynthesis.label>photosynthèse</VRE_Photosynthesis.label>
+<!-- EN: Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight. -->
+<VRE_Photosynthesis.description>Les porteurs de ce gène sont capables de convertir l'énergie lumineuse en énergie chimique grâce à la composition génétique particulière de leur peau. Ils ne souffrent pas de la faim lorsqu'ils sont exposés à la lumière du soleil.</VRE_Photosynthesis.description>
+<!-- EN: photo -->
+<VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>photo</VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: synthesis -->
+<VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>synthèse</VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: plant -->
+<VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>plante</VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>
+
+<!-- EN: polux affinity -->
+<VRE_PoluxAffinity.label>affinité polux</VRE_PoluxAffinity.label>
+<!-- EN: Carriers of this gene have a special connection to the polux tree, allowing them to act as an amplifier to the special properties of the tree. Once a year they can plant a polux bush that will progressively grow, and their very presence will strengthen the effect of the bush's pollution pumping effects. They can also consume wastepacks and will become unhappy if there is no waste to be consumed. Consuming wastepacks does not satisfy their hunger. -->
+<VRE_PoluxAffinity.description>Les porteurs de ce gène ont une connexion spéciale avec l'arbre polux, ce qui leur permet d'agir comme un amplificateur des propriétés spéciales de l'arbre. Une fois par an, ils peuvent planter un buisson polux qui grandira progressivement, et leur seule présence renforcera les effets de dépollution du buisson. Ils peuvent également consommer des déchets toxiques et seront mécontents s'il n'y a pas de déchets à consommer. La consommation de déchets toxiques ne satisfait pas leur faim.</VRE_PoluxAffinity.description>
+<!-- EN: All polux bushes on the map have their radius increased by +2 for every pawn with a Polux affinity gene currently on the map. -->
+<VRE_PoluxAffinity.customEffectDescriptions.0>Tous les buissons polux sur la carte ont leur rayon augmenté de +2 pour chaque colon avec le gène d'affinité polux présent sur la carte.</VRE_PoluxAffinity.customEffectDescriptions.0>
+<!-- EN: A need by {PAWN_nameDef} to consume wastepacks -->
+<VRE_PoluxAffinity.resourceDescription>Le besoin de {PAWN_nameDef} de consommer des déchets toxiques.</VRE_PoluxAffinity.resourceDescription>
+<!-- EN: wastepacks -->
+<VRE_PoluxAffinity.resourceLabel>déchet toxique</VRE_PoluxAffinity.resourceLabel>
+<!-- EN: pol -->
+<VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>pol</VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: polux -->
+<VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>polux</VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>
+
+<!-- EN: saplingbirth -->
+<VRE_SaplingBirth.label>arbrenaissance</VRE_SaplingBirth.label>
+<!-- EN: Carriers of this gene grow their baby outside of their womb, in the form of a saplingchild plant. When the plant is fully grown, a child can be extracted from it. -->
+<VRE_SaplingBirth.description>Les porteurs de ce gène font grandir leur bébé en dehors de l'utérus, sous la forme d'une jeune plante. Lorsque la plante est complètement développée, un enfant peut en être extrait.</VRE_SaplingBirth.description>
+<!-- EN: Plants saplingchild instead of pregnancy and live birth. -->
+<VRE_SaplingBirth.customEffectDescriptions.0>L'enfant est planté au lieu d'une grossesse et d'une naissance vivante.</VRE_SaplingBirth.customEffectDescriptions.0>
+<!-- EN: Planting a saplingchild makes the pawn temporarily infertile. -->
+<VRE_SaplingBirth.customEffectDescriptions.1>L'implantation d'un jeune enfant rend le colon temporairement infertile.</VRE_SaplingBirth.customEffectDescriptions.1>
+<!-- EN: sapling -->
+<VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>jeune arbre</VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: spawn -->
+<VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>progéniture</VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: seed -->
+<VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>graine</VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>
+
+
+<!-- EN: sap blood -->
+<VRE_SapBlood.label>sang de sève</VRE_SapBlood.label>
+<!-- EN: Carriers of this gene have thick, sticky, orange blood that greatly slows down their bleed out time, however it also impacts their ability to do work. -->
+<VRE_SapBlood.description>Les porteurs de ce gène ont un sang épais, collant et orange qui ralentit considérablement leur temps de saignement, mais qui a également un impact sur leur capacité à travailler.</VRE_SapBlood.description>
+
+
+<!-- EN: barkskin -->
+<VRE_BarkSkin.label>peau d'écorce</VRE_BarkSkin.label>
+<!-- EN: Carriers of this gene have their skin resembling tree bark. This allows them to withstand blunt trauma that would normally knock people unconscious. -->
+<VRE_BarkSkin.description>Les porteurs de ce gène ont une peau qui ressemble à de l'écorce d'arbre. Cela leur permet de résister à des traumatismes contondants qui, normalement, rendraient les gens inconscients.</VRE_BarkSkin.description>
+<!-- EN: barkskinned -->
+<VRE_BarkSkin.labelShortAdj>écorce</VRE_BarkSkin.labelShortAdj>
+
+
+<!-- EN: foliage hair -->
+<VRE_FoliageHair.label>cheveux en feuillage</VRE_FoliageHair.label>
+<!-- EN: Carriers of this gene have natural-looking, leafy hair. -->
+<VRE_FoliageHair.description>Les porteurs de ce gène ont des cheveux d'apparence naturelle et feuillus.</VRE_FoliageHair.description>
+<!-- EN: foliage -->
+<VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>feuillage</VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: flower -->
+<VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>fleur</VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>
+<!-- EN: plant -->
+<VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>plante</VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>
+
+<!-- EN: anima hair -->
+<VRE_HairColor_Anima.label>cheveux anima</VRE_HairColor_Anima.label>
+<!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+<VRE_HairColor_Anima.description>Les porteurs de ce gène ont une couleur de cheveux anima. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_HairColor_Anima.description>
+
+<!-- EN: gauranlen hair -->
+<VRE_HairColor_Gauranlen.label>cheveux gauranlen</VRE_HairColor_Gauranlen.label>
+<!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+<VRE_HairColor_Gauranlen.description>Les porteurs de ce gène ont une couleur de cheveux gauranlen. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_HairColor_Gauranlen.description>
+
+<!-- EN: pollux hair -->
+<VRE_HairColor_Pollux.label>cheveux polux</VRE_HairColor_Pollux.label>
+<!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+<VRE_HairColor_Pollux.description>Les porteurs de ce gène ont une couleur de cheveux polux. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_HairColor_Pollux.description>
+
+
+<!-- EN: female-only -->
+<VRE_Female.label>femelle uniquement</VRE_Female.label>
+<!-- EN: Carriers of this gene are guaranteed to be female when born. -->
+<VRE_Female.description>Les porteurs de ce gène sont assurés d'être de sexe féminin à la naissance.</VRE_Female.description>
+<!-- EN: feminine -->
+<VRE_Female.labelShortAdj>féminin</VRE_Female.labelShortAdj>
+
+
+<!-- EN: green thumb -->
+<VRE_GreenThumb.label>pouce vert</VRE_GreenThumb.label>
+<!-- EN: Carriers of this gene become very happy when taking part in plant sowing. -->
+<VRE_GreenThumb.description>Les porteurs de ce gène deviennent très heureux lorsqu'ils participent à l'ensemencement des plantes.</VRE_GreenThumb.description>
+<!-- EN: +1 mood bonus from sowing a plant. Stackable up to 20 times. -->
+<VRE_GreenThumb.customEffectDescriptions.0>Bonus d'humeur de +1 en semant une plante. Cumulable jusqu'à 20 fois.</VRE_GreenThumb.customEffectDescriptions.0>
+<!-- EN: gardening -->
+<VRE_GreenThumb.labelShortAdj>jardinage</VRE_GreenThumb.labelShortAdj>
+<!-- EN: green -->
+<VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>vert</VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>
+
+
+<!-- EN: progressive attunement -->
+<VRE_ProgressiveAttunement.label>harmonisation progressive</VRE_ProgressiveAttunement.label>
+<!-- EN: Carriers of this gene become more psychically attuned as they age, greatly increasing their psychic sensitivity. -->
+<VRE_ProgressiveAttunement.description>Les porteurs de ce gène deviennent plus harmonieux sur le plan psychique en vieillissant, ce qui augmente considérablement leur sensibilité psychique.</VRE_ProgressiveAttunement.description>
+<!-- EN: psychic -->
+<VRE_ProgressiveAttunement.labelShortAdj>psychique</VRE_ProgressiveAttunement.labelShortAdj>
+<!-- EN: psychic -->
+<VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>psychique</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: psy -->
+<VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>psy</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>
+
+
+</LanguageData>

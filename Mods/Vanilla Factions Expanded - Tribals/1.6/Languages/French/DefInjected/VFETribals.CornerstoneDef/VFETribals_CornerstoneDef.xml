@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Breath of the Ancients -->
+<VFET_BreathOfTheAncients.label>Le souffle des anciens</VFET_BreathOfTheAncients.label>
+<!-- EN: Toxic resistance is increased by 0.3 -->
+<VFET_BreathOfTheAncients.description>La résistance toxique est augmentée de 0,3.</VFET_BreathOfTheAncients.description>
+<!-- EN: The lineage of {0} claims they inherit the resistance from their ancestors, capable of withstanding toxic environments. -->
+<VFET_BreathOfTheAncients.blurb>La lignée de {0} prétend hériter de la résistance de ses ancêtres, capable de résister aux environnements toxiques.</VFET_BreathOfTheAncients.blurb>
+
+<!-- EN: Charismatic Enclave -->
+<VFET_CharismaticEnclave.label>L'enclave charismatique</VFET_CharismaticEnclave.label>
+<!-- EN: Social impact of all colonists is increased by 10%. -->
+<VFET_CharismaticEnclave.description>L'impact des discussions de tous les colons est augmenté de 10%.</VFET_CharismaticEnclave.description>
+<!-- EN: Every citizen of {0} is raised with the virtues of empathy and charisma, enhancing their social prowess. -->
+<VFET_CharismaticEnclave.blurb>Chaque citoyen de {0} est élevé dans les vertus de l'empathie et du charisme, ce qui améliore ses prouesses sociales.</VFET_CharismaticEnclave.blurb>
+
+<!-- EN: Chemists of Efficacy -->
+<VFET_ChemistsOfEfficacy.label>Les chimistes de l'efficacité</VFET_ChemistsOfEfficacy.label>
+<!-- EN: The speed of drug synthesis is 15% faster. -->
+<VFET_ChemistsOfEfficacy.description>La vitesse de production chimique est 15% plus rapide.</VFET_ChemistsOfEfficacy.description>
+<!-- EN: {0}'s drug synthesizers work at a blistering pace, ensuring medicines and drugs are always available. -->
+<VFET_ChemistsOfEfficacy.blurb>La production chimique de {0} se fait à un rythme effréné, ce qui garantit la disponibilité permanente des médicaments et de drogues.</VFET_ChemistsOfEfficacy.blurb>
+
+<!-- EN: Children of the Scorching Sun -->
+<VFET_ChildrenOfTheScorchingSun.label>Les enfants du soleil brûlant</VFET_ChildrenOfTheScorchingSun.label>
+<!-- EN: Comfortable maximum temperature is 5 degrees higher. -->
+<VFET_ChildrenOfTheScorchingSun.description>La température maximale de confort augmente de 5 degrés.</VFET_ChildrenOfTheScorchingSun.description>
+<!-- EN: The sun-baked lands of {0} have shaped its people, making them thrive in the heat. -->
+<VFET_ChildrenOfTheScorchingSun.blurb>Les terres brûlées par le soleil de {0} ont façonné ses habitants, les faisant prospérer dans la chaleur.</VFET_ChildrenOfTheScorchingSun.blurb>
+
+<!-- EN: Creed of the Stoic -->
+<VFET_CreedOfTheStoic.label>Le credo du stoïcien</VFET_CreedOfTheStoic.label>
+<!-- EN: Pain threshold, at which colonists go unconscious due to pain, is increased by 10%. -->
+<VFET_CreedOfTheStoic.description>Le seuil de douleur, à partir duquel les colons perdent connaissance, est augmenté de 10%.</VFET_CreedOfTheStoic.description>
+<!-- EN: Pain is seen as a teacher in {0}, and its inhabitants have a higher tolerance because of this belief. -->
+<VFET_CreedOfTheStoic.blurb>La douleur est considérée comme un professeur dans {0}, et ses habitants ont une tolérance plus élevée en raison de cette croyance.</VFET_CreedOfTheStoic.blurb>
+
+<!-- EN: Culinary Connoisseurs -->
+<VFET_CulinaryConnoisseurs.label>Les connaisseurs culinaires</VFET_CulinaryConnoisseurs.label>
+<!-- EN: Chances of causing food poisoning are reduced by 20%. -->
+<VFET_CulinaryConnoisseurs.description>Les risques d'intoxication alimentaire sont réduits de 20%.</VFET_CulinaryConnoisseurs.description>
+<!-- EN: The kitchens of {0} take utmost care in food preparation, ensuring their meals are both delicious and safe. -->
+<VFET_CulinaryConnoisseurs.blurb>Les cuisines de {0} apportent le plus grand soin à la préparation des aliments, garantissant ainsi que les repas sont à la fois délicieux et sûrs.</VFET_CulinaryConnoisseurs.blurb>
+
+<!-- EN: Cult of Inner Strength -->
+<VFET_CultOfInnerStrength.label>Le culte de la force intérieure</VFET_CultOfInnerStrength.label>
+<!-- EN: People are more resilient and their mental break threshold is decreased by 5%. -->
+<VFET_CultOfInnerStrength.description>Les personnes sont plus résilientes et leur seuil de crise de nerfs est réduit de 5%.</VFET_CultOfInnerStrength.description>
+<!-- EN: The inhabitants of {0} are taught from a young age to cultivate mental resilience, believing in the strength of the mind. -->
+<VFET_CultOfInnerStrength.blurb>Les habitants de {0} apprennent dès leur plus jeune âge à cultiver la résilience mentale, en croyant à la force de l'esprit.</VFET_CultOfInnerStrength.blurb>
+
+<!-- EN: Custodians of Purity -->
+<VFET_CustodiansOfPurity.label>Les conservateurs de la pureté</VFET_CustodiansOfPurity.label>
+<!-- EN: Cleaning speed is increased by 20%. -->
+<VFET_CustodiansOfPurity.description>La vitesse de nettoyage est augmentée de 20%.</VFET_CustodiansOfPurity.description>
+<!-- EN: Cleanliness is next to godliness for the people of {0}, who believe in swift and efficient sanitation. -->
+<VFET_CustodiansOfPurity.blurb>La propreté est proche de la piété pour les habitants de {0}, qui croient en une hygiène rapide et efficace.</VFET_CustodiansOfPurity.blurb>
+
+<!-- EN: Dancers of the Battlefield -->
+<VFET_DancersOfTheBattlefield.label>Les danseurs du champ de bataille</VFET_DancersOfTheBattlefield.label>
+<!-- EN: Chance to dodge a melee attack is improved by 5%. -->
+<VFET_DancersOfTheBattlefield.description>Les chances d'esquiver une attaque de mêlée sont améliorées de 5%.</VFET_DancersOfTheBattlefield.description>
+<!-- EN: The soldiers of {0} weave through combat with grace, effortlessly dodging enemy blows. -->
+<VFET_DancersOfTheBattlefield.blurb>Les soldats de {0} se faufilent avec grâce dans les combats, esquivant sans effort les coups de l'ennemi.</VFET_DancersOfTheBattlefield.blurb>
+
+<!-- EN: Devoted Miners -->
+<VFET_DevotedMiners.label>Les mineurs dévoués</VFET_DevotedMiners.label>
+<!-- EN: Mining speed is increased by 10%. -->
+<VFET_DevotedMiners.description>La vitesse de minage est augmentée de 10%.</VFET_DevotedMiners.description>
+<!-- EN: The landscape of {0} has trained its miners to extract resources swiftly and proficiently. -->
+<VFET_DevotedMiners.blurb>Le paysage de {0} a formé ses mineurs à l'extraction rapide et efficace des ressources.</VFET_DevotedMiners.blurb>
+
+<!-- EN: Diligent Doers -->
+<VFET_DiligentDoers.label>Des personnes diligentes</VFET_DiligentDoers.label>
+<!-- EN: The speed of unskilled labor tasks is 10% faster. -->
+<VFET_DiligentDoers.description>La vitesse des tâches non qualifiées est 10% plus rapide.</VFET_DiligentDoers.description>
+<!-- EN: Every task, no matter how mundane, is approached with zeal and efficiency in {0}. -->
+<VFET_DiligentDoers.blurb>Chaque tâche, aussi banale soit-elle, est abordée avec zèle et efficacité dans {0}.</VFET_DiligentDoers.blurb>
+
+<!-- EN: Diplomats of Silver Tongue -->
+<VFET_DiplomatsOfSilverTongue.label>Les diplomates à la langue d'argent</VFET_DiplomatsOfSilverTongue.label>
+<!-- EN: Colonists are 10% better at negotiating. -->
+<VFET_DiplomatsOfSilverTongue.description>Les colons sont 10% plus doués pour la négociation.</VFET_DiplomatsOfSilverTongue.description>
+<!-- EN: Words are a powerful tool for the people of {0}, making them masterful negotiators. -->
+<VFET_DiplomatsOfSilverTongue.blurb>Les mots sont un outil puissant pour les habitants de {0}, ce qui fait d'eux des négociateurs hors pair.</VFET_DiplomatsOfSilverTongue.blurb>
+
+<!-- EN: Disciples of Cleanliness -->
+<VFET_DisciplesOfCleanliness.label>Les disciples de la propreté</VFET_DisciplesOfCleanliness.label>
+<!-- EN: Filth produced by people is reduced by 25%. -->
+<VFET_DisciplesOfCleanliness.description>La saleté produite par les personnes est réduite de 25%.</VFET_DisciplesOfCleanliness.description>
+<!-- EN: Purity and cleanliness are virtues held in high regard by {0}. -->
+<VFET_DisciplesOfCleanliness.blurb>La pureté et la propreté sont des vertus très appréciées par {0}.</VFET_DisciplesOfCleanliness.blurb>
+
+<!-- EN: Embrace of the Night -->
+<VFET_EmbraceOfTheNight.label>L'étreinte de la nuit</VFET_EmbraceOfTheNight.label>
+<!-- EN: Rest while sleeping is gained 10% faster. -->
+<VFET_EmbraceOfTheNight.description>Le repos pendant le sommeil est obtenu 10% plus rapidement.</VFET_EmbraceOfTheNight.description>
+<!-- EN: Nighttime in {0} is considered a sacred period of rest and rejuvenation. -->
+<VFET_EmbraceOfTheNight.blurb>La nuit en {0} est considérée comme une période sacrée de repos et de rajeunissement.</VFET_EmbraceOfTheNight.blurb>
+
+<!-- EN: Followers of the Healing Waters -->
+<VFET_FollowersOfTheHealingWaters.label>Les adeptes des eaux de guérison</VFET_FollowersOfTheHealingWaters.label>
+<!-- EN: Immunity to diseases is gained 10% faster. -->
+<VFET_FollowersOfTheHealingWaters.description>L'immunité aux maladies est acquise 10% plus rapidement.</VFET_FollowersOfTheHealingWaters.description>
+<!-- EN: Healing springs are revered in {0}, believed to grant faster recovery from ailments. -->
+<VFET_FollowersOfTheHealingWaters.blurb>Les sources curatives sont vénérées dans {0}, car elles sont censées permettre un rétablissement plus rapide en cas de maladie.</VFET_FollowersOfTheHealingWaters.blurb>
+
+<!-- EN: Guild of Diligence -->
+<VFET_GuildOfDiligence.label>La guilde de la diligence</VFET_GuildOfDiligence.label>
+<!-- EN: Global work speed is increased by 5%. -->
+<VFET_GuildOfDiligence.description>La vitesse générale de travail est augmentée de 5%.</VFET_GuildOfDiligence.description>
+<!-- EN: "Time is gold," a mantra etched deep within the ethos of {0}, driving them to work efficiently. -->
+<VFET_GuildOfDiligence.blurb>"Le temps, c'est de l'or", un mantra gravé au plus profond de l'éthique de {0}, qui les pousse à travailler efficacement.</VFET_GuildOfDiligence.blurb>
+
+<!-- EN: Harvesters of Bounty -->
+<VFET_HarvestersOfBounty.label>Les moissonneurs de primes</VFET_HarvestersOfBounty.label>
+<!-- EN: The resource yield of plant jobs is increased by 10%. -->
+<VFET_HarvestersOfBounty.description>Le rendement de récolte des plantes est augmenté de 10%.</VFET_HarvestersOfBounty.description>
+<!-- EN: The fertile lands of {0} yield more under the hands of its skilled cultivators. -->
+<VFET_HarvestersOfBounty.blurb>Les terres fertiles de {0} produisent davantage entre les mains de ses cultivateurs qualifiés.</VFET_HarvestersOfBounty.blurb>
+
+<!-- EN: Healers of Swift Hand -->
+<VFET_HealersOfSwiftHand.label>Les guérisseurs de la main rapide</VFET_HealersOfSwiftHand.label>
+<!-- EN: Medical tend speed is increased by 10%. -->
+<VFET_HealersOfSwiftHand.description>La vitesse des soins médicaux est augmentée de 10%.</VFET_HealersOfSwiftHand.description>
+<!-- EN: The medical artisans of {0} are renowned for their swift treatments, ensuring minimal suffering. -->
+<VFET_HealersOfSwiftHand.blurb>Les artisans médicaux de {0} sont réputés pour la rapidité de leurs traitements, qui garantissent un minimum de souffrance.</VFET_HealersOfSwiftHand.blurb>
+
+<!-- EN: Keepers of the Pasture -->
+<VFET_KeepersOfThePasture.label>Les gardiens des pâturages</VFET_KeepersOfThePasture.label>
+<!-- EN: The yield of resources obtained from animal handling is increased by 15%. -->
+<VFET_KeepersOfThePasture.description>Le rendement avec les animaux est augmenté de 15%.</VFET_KeepersOfThePasture.description>
+<!-- EN: The bond between {0} and their livestock ensures that they reap the most from their herds. -->
+<VFET_KeepersOfThePasture.blurb>Le lien qui unit {0} à son bétail lui permet de tirer le meilleur parti de ses troupeaux.</VFET_KeepersOfThePasture.blurb>
+
+<!-- EN: Lorekeepers' Tradition -->
+<VFET_LorekeepersTradition.label>La tradition des gardiens de la mémoire</VFET_LorekeepersTradition.label>
+<!-- EN: Learning rate of all skills is increased by 10%. -->
+<VFET_LorekeepersTradition.description>Le taux d'apprentissage de toutes les compétences est augmenté de 10%.</VFET_LorekeepersTradition.description>
+<!-- EN: Every child in {0} is taught the value of knowledge, ensuring a society of quick learners. -->
+<VFET_LorekeepersTradition.blurb>Chaque enfant de {0} apprend la valeur du savoir, ce qui garantit une société où l'on apprend vite.</VFET_LorekeepersTradition.blurb>
+
+<!-- EN: Marksmen -->
+<VFET_Marksmen.label>Les tireurs d'élite</VFET_Marksmen.label>
+<!-- EN: Shooting accuracy is increased by 5%. -->
+<VFET_Marksmen.description>La précision de tir est augmentée de 5%.</VFET_Marksmen.description>
+<!-- EN: Drawing inspiration from ancient archers, {0}'s shooters rarely miss their mark. -->
+<VFET_Marksmen.blurb>S'inspirant des archers de l'Antiquité, les tireurs de {0} manquent rarement leur cible.</VFET_Marksmen.blurb>
+
+<!-- EN: Masons of the Future -->
+<VFET_MasonsOfTheFuture.label>Les maçons du futur</VFET_MasonsOfTheFuture.label>
+<!-- EN: The speed of construction work is increased by 10%. -->
+<VFET_MasonsOfTheFuture.description>La vitesse du travail de construction est augmentée de 10%.</VFET_MasonsOfTheFuture.description>
+<!-- EN: Structures rise swiftly in {0}, a testament to the craftsmanship of its builders. -->
+<VFET_MasonsOfTheFuture.blurb>Les structures s'élèvent rapidement dans {0}, ce qui témoigne du savoir-faire de ses bâtisseurs.</VFET_MasonsOfTheFuture.blurb>
+
+<!-- EN: Master Butchers -->
+<VFET_MasterButchers.label>Les maîtres bouchers</VFET_MasterButchers.label>
+<!-- EN: Yield of resources obtained from butchering creatures is 10% higher. -->
+<VFET_MasterButchers.description>Le rendement du dépeçage des créatures est augmenté de 10%.</VFET_MasterButchers.description>
+<!-- EN: Every creature is honored in death, with {0} ensuring nothing goes to waste. -->
+<VFET_MasterButchers.blurb>Chaque créature est honorée dans sa mort, {0} veillant à ce que rien ne soit gaspillé.</VFET_MasterButchers.blurb>
+
+<!-- EN: Merchants of Prosperity -->
+<VFET_MerchantsOfProsperity.label>Les marchands de prospérité</VFET_MerchantsOfProsperity.label>
+<!-- EN: Trade prices are improved by 5%. -->
+<VFET_MerchantsOfProsperity.description>Les prix commerciaux sont augmentés de 5%.</VFET_MerchantsOfProsperity.description>
+<!-- EN: The marketplace of {0} is renowned for its fair and advantageous trade deals. -->
+<VFET_MerchantsOfProsperity.blurb>Le marché de {0} est réputé pour ses accords commerciaux équitables et avantageux.</VFET_MerchantsOfProsperity.blurb>
+
+<!-- EN: Mortar Visionaries -->
+<VFET_MortarVisionaries.label>Les visionnaires du mortier</VFET_MortarVisionaries.label>
+<!-- EN: Mortars fired by the colonists are 15% more accurate. -->
+<VFET_MortarVisionaries.description>Les obus de mortier tirés par les colons sont 15% plus précis.</VFET_MortarVisionaries.description>
+<!-- EN: {0}'s mortar teams boast unrivaled accuracy, bringing devastation upon their foes. -->
+<VFET_MortarVisionaries.blurb>Les équipes de mortiers de {0} sont d'une précision inégalée et dévastent leurs ennemis.</VFET_MortarVisionaries.blurb>
+
+<!-- EN: Nomads of Abundance -->
+<VFET_NomadsOfAbundance.label>Les nomades de l'abondance</VFET_NomadsOfAbundance.label>
+<!-- EN: Travellers forage additional 0.3 nutrition per day. -->
+<VFET_NomadsOfAbundance.description>Les voyageurs cueillent +0,3 de nutrition par jour.</VFET_NomadsOfAbundance.description>
+<!-- EN: The nomadic traditions of {0} have honed their foraging skills, ensuring no traveler goes hungry. -->
+<VFET_NomadsOfAbundance.blurb>Les traditions nomades de {0} ont affiné leurs compétences en matière de recherche de nourriture, de sorte qu'aucun voyageur ne meurt de faim.</VFET_NomadsOfAbundance.blurb>
+
+<!-- EN: Order of the Mending Hands -->
+<VFET_OrderoftheMendingHands.label>L'ordre des mains réparatrices</VFET_OrderoftheMendingHands.label>
+<!-- EN: Injuries are healed 10% faster. -->
+<VFET_OrderoftheMendingHands.description>Les blessures sont soignées 10% plus rapidement.</VFET_OrderoftheMendingHands.description>
+<!-- EN: {0} holds a tradition of skilled healers, accelerating the recovery of injuries. -->
+<VFET_OrderoftheMendingHands.blurb>{0} est une tradition de guérisseurs compétents, qui accélèrent la guérison des blessures.</VFET_OrderoftheMendingHands.blurb>
+
+<!-- EN: Path of the Swift Winds -->
+<VFET_PathOfSwiftWinds.label>La voie des vents rapides</VFET_PathOfSwiftWinds.label>
+<!-- EN: Movement speed is increased by +0.15. -->
+<VFET_PathOfSwiftWinds.description>La vitesse de déplacement augmente de +0,15.</VFET_PathOfSwiftWinds.description>
+<!-- EN: The people of {0} revere the winds that guide their every step, believing swift movement is a sign of favor. -->
+<VFET_PathOfSwiftWinds.blurb>Les habitants de {0} vénèrent les vents qui guident chacun de leurs pas, estimant qu'un mouvement rapide est un signe de faveur.</VFET_PathOfSwiftWinds.blurb>
+
+<!-- EN: Physicians of Precision -->
+<VFET_PhysiciansOfPrecision.label>Les médecins de précision</VFET_PhysiciansOfPrecision.label>
+<!-- EN: Medical tend quality is improved by 5%. -->
+<VFET_PhysiciansOfPrecision.description>La qualité des soins médicaux est améliorée de 5%.</VFET_PhysiciansOfPrecision.description>
+<!-- EN: Through years of dedication, {0}'s medical practitioners have honed their craft to near perfection. -->
+<VFET_PhysiciansOfPrecision.blurb>Grâce à des années de dévouement, les praticiens médicaux de {0} ont perfectionné leur art.</VFET_PhysiciansOfPrecision.blurb>
+
+<!-- EN: Protectors of Order -->
+<VFET_ProtectorsOfOrder.label>Les protecteurs de l'ordre</VFET_ProtectorsOfOrder.label>
+<!-- EN: Chance to successfully arrest someone is increased by 15%. -->
+<VFET_ProtectorsOfOrder.description>Les chances d'arrêter quelqu'un avec succès sont augmentées de 15%.</VFET_ProtectorsOfOrder.description>
+<!-- EN: {0} has a reputation for its skilled enforcers, ensuring peace by swiftly apprehending troublemakers. -->
+<VFET_ProtectorsOfOrder.blurb>{0} a la réputation d'avoir des hommes de main compétents, qui assurent la paix en appréhendant rapidement les fauteurs de troubles.</VFET_ProtectorsOfOrder.blurb>
+
+<!-- EN: Quickdraw Masters -->
+<VFET_QuickdrawMasters.label>Les maîtres du dégainement</VFET_QuickdrawMasters.label>
+<!-- EN: Aiming a ranged weapon takes 10% less time. -->
+<VFET_QuickdrawMasters.description>Viser avec une arme à distance prend 10% de temps en moins.</VFET_QuickdrawMasters.description>
+<!-- EN: In the heart of {0}, aiming swiftly and shooting is considered both an art and a vital survival skill. -->
+<VFET_QuickdrawMasters.blurb>Au cœur de {0}, viser rapidement et tirer est considéré à la fois comme un art et comme une compétence vitale pour la survie.</VFET_QuickdrawMasters.blurb>
+
+<!-- EN: Ritual of Quick Feast -->
+<VFET_RitualOfQuickFeast.label>Le rituel du festin rapide</VFET_RitualOfQuickFeast.label>
+<!-- EN: Eating speed is 25% faster. -->
+<VFET_RitualOfQuickFeast.description>La vitesse d'ingestion est 25% plus rapide.</VFET_RitualOfQuickFeast.description>
+<!-- EN: In {0}, meals are a swift affair, symbolizing the need to make the most of every moment. -->
+<VFET_RitualOfQuickFeast.blurb>Dans {0}, les repas sont rapides, ce qui symbolise la nécessité de profiter au maximum de chaque instant.</VFET_RitualOfQuickFeast.blurb>
+
+<!-- EN: Scholars of Progress -->
+<VFET_ScholarsOfProgress.label>Les érudits du progrès</VFET_ScholarsOfProgress.label>
+<!-- EN: Research speed is increased by 5%. -->
+<VFET_ScholarsOfProgress.description>La vitesse de recherche est augmentée de 5%.</VFET_ScholarsOfProgress.description>
+<!-- EN: The academic tradition of {0} is unmatched, pushing boundaries with accelerated research. -->
+<VFET_ScholarsOfProgress.blurb>La tradition universitaire de {0} est inégalée, repoussant les limites grâce à une recherche accélérée.</VFET_ScholarsOfProgress.blurb>
+
+<!-- EN: Seekers of Hidden Depths -->
+<VFET_SeekersOfHiddenDepths.label>Les chercheurs de profondeurs cachées</VFET_SeekersOfHiddenDepths.label>
+<!-- EN: Deep drilling speed is increased by 15%. -->
+<VFET_SeekersOfHiddenDepths.description>La vitesse de forage en profondeur est augmentée de 15%.</VFET_SeekersOfHiddenDepths.description>
+<!-- EN: Driven by the promise of riches beneath, {0}'s drillers penetrate the rock at unparalleled speeds. -->
+<VFET_SeekersOfHiddenDepths.blurb>Poussés par la promesse de richesses souterraines, les foreurs de {0} pénètrent dans la roche à des vitesses inégalées.</VFET_SeekersOfHiddenDepths.blurb>
+
+<!-- EN: Shadows of the Hunt -->
+<VFET_ShadowsOfTheHunt.label>Les ombres de la traque</VFET_ShadowsOfTheHunt.label>
+<!-- EN: Hunting stealth is increased by 20%. -->
+<VFET_ShadowsOfTheHunt.description>La furtivité de la chasse est augmentée de 20%.</VFET_ShadowsOfTheHunt.description>
+<!-- EN: The hunters of {0} move silently, becoming one with nature to claim their prey. -->
+<VFET_ShadowsOfTheHunt.blurb>Les chasseurs de {0} se déplacent silencieusement, se fondant dans la nature pour s'emparer de leur proie.</VFET_ShadowsOfTheHunt.blurb>
+
+<!-- EN: Sowers of Abundance -->
+<VFET_SowersOfAbundance.label>Les semeurs d'abondance</VFET_SowersOfAbundance.label>
+<!-- EN: Plant work speed is increased by 15%. -->
+<VFET_SowersOfAbundance.description>La vitesse de travail agricole est augmentée de 15%.</VFET_SowersOfAbundance.description>
+<!-- EN: Through careful nurturing, the farmers of {0} tend to their crops with unparalleled expertise. -->
+<VFET_SowersOfAbundance.blurb>Grâce à des méthodes de culture minutieuses, les agriculteurs de {0} s'occupent de leurs récoltes avec un savoir-faire inégalé.</VFET_SowersOfAbundance.blurb>
+
+<!-- EN: Stewards of the Vein -->
+<VFET_StewardsOftheVein.label>Les intendants des filons</VFET_StewardsOftheVein.label>
+<!-- EN: The resource yield of mining jobs is increased by 10%. -->
+<VFET_StewardsOftheVein.description>Le rendement du travail minier est augmenté de 10%.</VFET_StewardsOftheVein.description>
+<!-- EN: Every strike in {0}'s mines promises a bountiful reward, thanks to their efficient extraction techniques. -->
+<VFET_StewardsOftheVein.blurb>Chaque coup porté dans les mines de {0} promet une récompense généreuse, grâce à l'efficacité de leurs techniques d'extraction.</VFET_StewardsOftheVein.blurb>
+
+<!-- EN: Surgeons of Excellence -->
+<VFET_SurgeonsOfExcellence.label>Les chirurgiens d'excellence</VFET_SurgeonsOfExcellence.label>
+<!-- EN: Medical operation speed is 15% faster. -->
+<VFET_SurgeonsOfExcellence.description>La vitesse des opérations médicales est 15% plus rapide.</VFET_SurgeonsOfExcellence.description>
+<!-- EN: The surgical theatres of {0} are a sight to behold, with operations being completed at remarkable speeds. -->
+<VFET_SurgeonsOfExcellence.blurb>Les salles d'opération de {0} sont un véritable spectacle, les opérations étant réalisées à une vitesse remarquable.</VFET_SurgeonsOfExcellence.blurb>
+
+<!-- EN: Tech Scavengers -->
+<VFET_TechScavengers.label>Les pilleurs de technologie</VFET_TechScavengers.label>
+<!-- EN: Yield of resources obtained from shredding mechanoids is 20% higher. -->
+<VFET_TechScavengers.description>Le rendement du déchiquetage des mécanoïdes est augmenté de 20%.</VFET_TechScavengers.description>
+<!-- EN: With adept hands and discerning eyes, {0} makes the most out of every defeated mechanoid. -->
+<VFET_TechScavengers.blurb>Avec des mains habiles et des yeux perspicaces, {0} tire le meilleur parti de chaque mécanoïdes vaincu.</VFET_TechScavengers.blurb>
+
+<!-- EN: Walkers in Cold Shadows -->
+<VFET_WalkersInColdShadows.label>Les marcheurs des ombres froides</VFET_WalkersInColdShadows.label>
+<!-- EN: Comfortable minimum temperature is 5 degrees lower. -->
+<VFET_WalkersInColdShadows.description>La température minimale de confort diminue de 5 degrés.</VFET_WalkersInColdShadows.description>
+<!-- EN: To the people of {0}, enduring cold is a testament to their hardiness. -->
+<VFET_WalkersInColdShadows.blurb>Pour les habitants de {0}, la résistance au froid est une preuve de leur robustesse.</VFET_WalkersInColdShadows.blurb>
+
+<!-- EN: Warriors of Precision -->
+<VFET_WarriorsOfPrecision.label>Les guerriers de la précision</VFET_WarriorsOfPrecision.label>
+<!-- EN: Chance to hit a melee attack is improved by 5%. -->
+<VFET_WarriorsOfPrecision.description>Les chances de toucher avec une attaque de mêlée sont améliorées de 5%.</VFET_WarriorsOfPrecision.description>
+<!-- EN: {0}'s warriors have the prowess to strike with unmatched accuracy in close combat. -->
+<VFET_WarriorsOfPrecision.blurb>Les guerriers de {0} ont la capacité de frapper avec une précision inégalée au corps à corps.</VFET_WarriorsOfPrecision.blurb>
+
+<!-- EN: Way of the Rested Spirit -->
+<VFET_WayOfTheRestedSpirit.label>La voie de l'esprit reposé</VFET_WayOfTheRestedSpirit.label>
+<!-- EN: Need to rest depletes 10% slower. -->
+<VFET_WayOfTheRestedSpirit.description>Le besoin de sommeil diminue 10% moins vite.</VFET_WayOfTheRestedSpirit.description>
+<!-- EN: {0} believes in conserving energy, allowing them to be ever ready for the challenges ahead. -->
+<VFET_WayOfTheRestedSpirit.blurb>{0} croit en la conservation de l'énergie, ce qui leur permet d'être toujours prêts à relever les défis qui les attendent.</VFET_WayOfTheRestedSpirit.blurb>
+
+<!-- EN: Whisperers of the Mind -->
+<VFET_WhisperersOfMind.label>Les chuchoteurs d'esprit</VFET_WhisperersOfMind.label>
+<!-- EN: Psychic sensitivity is increased by 10%. -->
+<VFET_WhisperersOfMind.description>La sensibilité psychique est augmentée de 10%.</VFET_WhisperersOfMind.description>
+<!-- EN: {0}'s inhabitants believe in unlocking the mysteries of the mind, making them susceptible to psychic forces. -->
+<VFET_WhisperersOfMind.blurb>Les habitants de {0} croient en la possibilité de percer les mystères de l'esprit, ce qui les rend sensibles aux forces psychiques.</VFET_WhisperersOfMind.blurb>
+
+<!-- EN: Whisperers to the Wild -->
+<VFET_WhisperersToTheWild.label>Les murmures de la nature</VFET_WhisperersToTheWild.label>
+<!-- EN: A chance to tame animals is increased by 10%. -->
+<VFET_WhisperersToTheWild.description>Les chances d'apprivoiser les animaux sont augmentées de 10%.</VFET_WhisperersToTheWild.description>
+<!-- EN: The age-old bond between {0} and animals enables its people to tame the wild with ease. -->
+<VFET_WhisperersToTheWild.blurb>Le lien séculaire entre {0} et les animaux permet à ses habitants d'apprivoiser la nature avec aisance.</VFET_WhisperersToTheWild.blurb>
+
+
+</LanguageData>

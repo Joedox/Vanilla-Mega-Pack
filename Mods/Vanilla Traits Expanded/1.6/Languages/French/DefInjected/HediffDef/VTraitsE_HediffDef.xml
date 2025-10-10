@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: hemophilic -->
+<VTE_HigherBleedingRate.label>hémophile</VTE_HigherBleedingRate.label>
+<!-- EN: Hemophilia is the inability for blood to clot properly, causing wounds to bleed much more profusely. -->
+<VTE_HigherBleedingRate.description>L'hémophilie est l'incapacité du sang à coaguler correctement, ce qui fait que les plaies saignent abondamment.</VTE_HigherBleedingRate.description>
+<!-- EN: hemophilia -->
+<VTE_HigherBleedingRate.labelNoun>hémophile</VTE_HigherBleedingRate.labelNoun>
+
+<!-- EN: Insomnia -->
+<VTE_RestSlowFallFactor.label>insomnie</VTE_RestSlowFallFactor.label>
+<!-- EN: Pronounced mental or physical unrest causes insomnia, insomnia means one can often feel sluggish or exhausted and find themselves hardly ever capable of sleep. -->
+<VTE_RestSlowFallFactor.description>L'insomnie est causée par des troubles mentaux ou physiques. L'insomnie signifie que l'on se sent souvent léthargique ou épuisé et que la personne n'est pas capable de trouver le sommeil.</VTE_RestSlowFallFactor.description>
+<!-- EN: Insomnia -->
+<VTE_RestSlowFallFactor.labelNoun>insomnie</VTE_RestSlowFallFactor.labelNoun>
+
+<!-- EN: hyper-coagulant -->
+<VTE_SlowerBleedingRate.label>hypercoagulation</VTE_SlowerBleedingRate.label>
+<!-- EN: Higher red blood-cell count means hyper-coagulation occurs, causing wounds to bleed much less profusely. -->
+<VTE_SlowerBleedingRate.description>Un nombre plus élevé de globules rouges entraîne une hypercoagulation, ce qui permet aux plaies de saigner moins abondamment.</VTE_SlowerBleedingRate.description>
+<!-- EN: hyper-coagulation -->
+<VTE_SlowerBleedingRate.labelNoun>hypercoagulation</VTE_SlowerBleedingRate.labelNoun>
+
+<!-- EN: slow work -->
+<VTE_SlowWorkSpeed.label>travail lent</VTE_SlowWorkSpeed.label>
+<!-- EN: slow work -->
+<VTE_SlowWorkSpeed.description>travail lent</VTE_SlowWorkSpeed.description>
+<!-- EN: slow work -->
+<VTE_SlowWorkSpeed.labelNoun>travail lent</VTE_SlowWorkSpeed.labelNoun>
+<!-- EN: inactive -->
+<VTE_SlowWorkSpeed.stages.inactive.label>inactif</VTE_SlowWorkSpeed.stages.inactive.label>
+<!-- EN: active -->
+<VTE_SlowWorkSpeed.stages.active.label>actif</VTE_SlowWorkSpeed.stages.active.label>
+
+
+</LanguageData>

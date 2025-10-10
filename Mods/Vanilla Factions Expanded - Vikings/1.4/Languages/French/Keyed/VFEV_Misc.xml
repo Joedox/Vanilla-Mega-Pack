@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+
+
+
+
+<ScenPartSettlemntDesc>Vous commencerez pendant l'attaque d'une base. Le trésor tant convoité, 150 d'or et 300 d'argent, se trouve dans les pièces de cette base.</ScenPartSettlemntDesc>
+
+
+<VFEV_HuntQuestMultiplier>Multiplicateur du taux des quêtes Chasse (LIRE LE TOOLTIP)</VFEV_HuntQuestMultiplier>
+<VFEV_HuntQuestMultiplierTooltip>La fréquence à laquelle les quêtes de chasse (Lothurr, Njörun, Fenrir, Thrumbo et Odin) sont proposées est multipliée par ce nombre (avec un multiplicateur de 1, elles sont proposées tous les 50 à 70 jours au hasard). Les nombres inférieurs à 1 diminuent le temps, tandis que les nombres supérieurs à 1 l'augmentent.\n\nA noter que cet événement ne "remplace" pas les quêtes normales, il fonctionne indépendamment.</VFEV_HuntQuestMultiplierTooltip>
+<VFEV_StructureQuestMultiplier>Multiplicateur du taux des quêtes Tombes et Ruines (LIRE LE TOOLTIP)</VFEV_StructureQuestMultiplier>
+<VFEV_StructureQuestMultiplierTooltip>La fréquence à laquelle les quêtes de la tombe légendaire et de la ruine antique sont proposées est multipliée par ce nombre (avec un multiplicateur de 1, elles sont proposées tous les 50 à 70 jours au hasard). Les nombres inférieurs à 1 diminuent la durée, tandis que les nombres supérieurs l'augmentent.\n\nA noter que cet événement ne "remplace" pas les quêtes normales, il fonctionne indépendamment.</VFEV_StructureQuestMultiplierTooltip>
+<VFEV_Reset>Réinitialiser</VFEV_Reset>
+
+
+</LanguageData>

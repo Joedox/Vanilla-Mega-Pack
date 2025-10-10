@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<TargetLightRadius>Rayon de lumière actuel</TargetLightRadius>
+<CurrentLightOpacity>Intensité actuelle</CurrentLightOpacity>
+
+<CommandRaiseLightRDesc>Augmenter le rayon actuel.</CommandRaiseLightRDesc>
+<CommandLowerLightRDesc>Diminuer le rayon actuel.</CommandLowerLightRDesc>
+
+<CommandRaiseLightIntDesc>Augmenter l'intensité actuelle.</CommandRaiseLightIntDesc>
+<CommandLowerLightIntDesc>Diminuer l'intensité actuelle.</CommandLowerLightIntDesc>
+
+<LightIntensityPercent>% Intensité.</LightIntensityPercent>
+<LightRadiusCells> Rayon en case.</LightRadiusCells>
+
+<SwitchedColourDesc>Changer la couleur de la lumière sur</SwitchedColourDesc>
+<LightColourRed>Rouge</LightColourRed>
+<LightColourGreen>Vert</LightColourGreen>
+<LightColourBlue>Bleu</LightColourBlue>
+<LightColourWhite>Blanc</LightColourWhite>
+
+<EnableAutoForbid>Activer interdire-auto</EnableAutoForbid>
+<EnableAutoForbidExplanation>Les armes et les vêtements stockés ici seront automatiquement interdits jusqu'à ce qu'ils atteignent leurs points de vie maximum.</EnableAutoForbidExplanation>
+</LanguageData>

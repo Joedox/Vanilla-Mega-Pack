@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- Terrain tags for terrain used in VFE-Insectoids 2. -->
+<!-- We'll be including those tags in other mods as well (speed factor by terrain tag) and other mods may apply -->
+<!-- those tags in mods that don't require VFE-I2, so to avoid untranslated string we're including those here. -->
+
+<!-- EN: insect creep -->
+<TerrainTagVFEI2_Creep>mucus d'insectes</TerrainTagVFEI2_Creep>
+<!-- EN: jellyfloor -->
+<TerrainTagVFEI2_JellyFloor>sol en gelée</TerrainTagVFEI2_JellyFloor>
+<!-- EN: royal jellyfloor -->
+<TerrainTagVFEI2_RoyalJellyFloor>sol en gelée royale</TerrainTagVFEI2_RoyalJellyFloor>
+
+
+</LanguageData>

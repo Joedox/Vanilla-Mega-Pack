@@ -1,0 +1,55 @@
+<LanguageData>
+<VSE.Expertise0>Intéressé</VSE.Expertise0>
+<VSE.Expertise1>Amateur</VSE.Expertise1>
+<VSE.Expertise2>Amateur doué</VSE.Expertise2>
+<VSE.Expertise3>Apprenti</VSE.Expertise3>
+<VSE.Expertise4>Apprenti doué</VSE.Expertise4>
+<VSE.Expertise5>Pratiquant</VSE.Expertise5>
+<VSE.Expertise6>Pratiquant compétent</VSE.Expertise6>
+<VSE.Expertise7>Professionnel</VSE.Expertise7>
+<VSE.Expertise8>Professionnel compétent</VSE.Expertise8>
+<VSE.Expertise9>Spécialiste</VSE.Expertise9>
+<VSE.Expertise10>Spécialiste de haut niveau</VSE.Expertise10>
+<VSE.Expertise11>Expert débutant</VSE.Expertise11>
+<VSE.Expertise12>Expert autoproclamé</VSE.Expertise12>
+<VSE.Expertise13>Expert</VSE.Expertise13>
+<VSE.Expertise14>Expert renommé</VSE.Expertise14>
+<VSE.Expertise15>Très grand Expert</VSE.Expertise15>
+<VSE.Expertise16>Expert de classe coloniale</VSE.Expertise16>
+<VSE.Expertise17>Expert de classe régionale</VSE.Expertise17>
+<VSE.Expertise18>Grand Expert régional</VSE.Expertise18>
+<VSE.Expertise19>Grand Expert planétaire</VSE.Expertise19>
+<VSE.Expertise20>Légendaire</VSE.Expertise20>
+<VSE.Expertise>Expertise</VSE.Expertise>
+<VSE.ForgetSpeed>Vitesse d'oubli</VSE.ForgetSpeed>
+<VSE.Effects>Effets :</VSE.Effects>
+<VSE.Effects.PerLevel>Effets (par niveau) :</VSE.Effects.PerLevel>
+<VSE.ExpertiseAvailable>Le colon peut acquérir une expertise</VSE.ExpertiseAvailable>
+<VSE.ExpertiseAvailableMultiple>Les colons peuvent acquérir une expertise</VSE.ExpertiseAvailableMultiple>
+<VSE.SelectExpertise>Choisir expertise</VSE.SelectExpertise>
+<VSE.ExpertiseDesc>Le choix d'une expertise débloque une nouvelle compétence que le colon peut améliorer, donnant des bonus puissants, mais très spécifiques.\nVous pouvez choisir {0} expertise{0_multiple ? s : }, uniquement dans les compétences qui passionnent le colon.</VSE.ExpertiseDesc>
+<VSE.ExpertiseAvailableDesc>Votre colon a atteint un niveau suffisamment élevé dans une compétence qui le passionne pour pouvoir acquérir une expertise.\n\nVous pouvez envisager de choisir une expertise pour qu'il obtienne de nouveaux bonus dans le type de travail pour lequel il est doué.\n\nCes colons peuvent obtenir une expertise :\n\n</VSE.ExpertiseAvailableDesc>
+<VSE.LearnsForgets>\n   - Apprendre {0}\n   - Oublier {1}</VSE.LearnsForgets>
+<VSE.LearnOther>\n   - Apprendre les autres {0}</VSE.LearnOther>
+<VSE.NoPassion>Aucune passion</VSE.NoPassion>
+<VSE.SkillTooLow>Comp. insuffisante</VSE.SkillTooLow>
+<VSE.AtMaxExpertise>Expertise max.</VSE.AtMaxExpertise>
+<VSE.ExpertiseOverlap>Chevauchement d'expertise</VSE.ExpertiseOverlap>
+<VSE>Vanilla Skills Expanded </VSE>
+<VSE.MaxExpertise>Expertise maximum par colon :</VSE.MaxExpertise>
+<VSE.AllowMultiCritical>Autoriser plusieurs passions critiques</VSE.AllowMultiCritical>
+<VSE.AllowMultiCritical.Desc>Si désactivé, cette option garantit que seule une passion critique sera générée par colon, afin d'éviter le chevauchent et que les passions soient toutes les deux inutiles.</VSE.AllowMultiCritical.Desc>
+<VSE.CriticalEffectPassions>Effets des passions critiques</VSE.CriticalEffectPassions>
+<VSE.CriticalEffectPassions.Desc>Si désactivé, supprime la pénalité de la vitesse d’apprentissage de la passion critique sur les autres compétences avec une "passion positive".\nN’affecte pas les compétences pour lesquelles le colon à une "passion négative".</VSE.CriticalEffectPassions.Desc>
+<VSE.Commonalities>Éditer les points communs des passions (ensembles séparés)</VSE.Commonalities>
+<VSE.Reset>Réinitialiser par défaut</VSE.Reset>
+<VSE.Bad>&lt;color=#FF0000&gt;Passion négative&lt;/color&gt; :</VSE.Bad>
+<VSE.Good>&lt;color=#00FF00&gt;Passion positive&lt;/color&gt; :</VSE.Good>
+<VSE.AllowExpertiseOverlap>Permettre le chevauchement des compétences</VSE.AllowExpertiseOverlap>
+<VSE.AllowExpertiseOverlap.Desc>Si désactivé, une seule expertise peut être choisie par compétence, indépendamment du paramètre d'expertise maximum.</VSE.AllowExpertiseOverlap.Desc>
+<VSE.EnableSkillLoss>Réactiver la perte de compétences</VSE.EnableSkillLoss>
+<VSE.EnableAlert>Activer l'alerte "Expertise disponible"</VSE.EnableAlert>
+<VSE.EnableSkillsLoss.Desc>Par défaut, le mod Ducks' Insane Skills désactive toutes les pertes de compétences. En sélectionnant cette option, ce mod va remplacer Ducks et l'activer à nouveau. Utilisez cette option si vous voulez toujours être en mesure de profiter des changements de vitesse d'oubli dans les nouvelles passions.</VSE.EnableSkillsLoss.Desc>
+
+
+</LanguageData>

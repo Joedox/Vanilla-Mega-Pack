@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_Apparel_GrenadeSmokeBelt.label>ceinture grenades fumigène</VWE_Apparel_GrenadeSmokeBelt.label>
+<VWE_Apparel_GrenadeSmokeBelt.description>Attachées à la ceinture, ces vieilles cartouches de fumée condensée explosent en un nuage de fumée à l'impact.\n\nPeut-être rechargées avec une grenade fumigène.</VWE_Apparel_GrenadeSmokeBelt.description>
+<VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>grenade fumigène</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>
+<VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>lancer une grenade fumigène</VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>
+<VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>
+
+<VWE_Apparel_GrenadeFlashBelt.label>ceinture grenades assourdissante</VWE_Apparel_GrenadeFlashBelt.label>
+<VWE_Apparel_GrenadeFlashBelt.description>Attachées à la ceinture, ces grenades étourdies temporairement les ennemis et permet à l’utilisateur de s’approcher. Fonctionne uniquement sur des personnes ou des animaux.\n\nPeut-être rechargées avec une grenade assourdissante.</VWE_Apparel_GrenadeFlashBelt.description>
+<VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>grenade assourdissante</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>
+<VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>lancer une grenade assourdissante</VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>
+<VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>en recharge</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>
+
+<VWE_Apparel_GrenadeToxicBelt.label>ceinture grenades toxique</VWE_Apparel_GrenadeToxicBelt.label>
+<VWE_Apparel_GrenadeToxicBelt.description>Attachées à la ceinture, ces cartouches de gaz mortel actionnées par une charge, provoquent une forte accumulation de substances toxiques sur une très courte période.\n\nPeut-être rechargées avec une grenade toxique.</VWE_Apparel_GrenadeToxicBelt.description>
+<VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>grenade toxique</VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>
+<!--VWE_Apparel_GrenadeToxicBelt.verbs.throw_toxic_grenade.label>lancer une grenade toxique</VWE_Apparel_GrenadeToxicBelt.verbs.throw_toxic_grenade.label-->
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<SCat>Vanilla Event Expanded </SCat>
+<BReset>Réinitialiser les options</BReset>
+<GCWReset>Arrêter toutes les conditions du monde</GCWReset>
+<GCMReset>Arrêter toutes les conditions de la carte</GCMReset>
+<NeedToBeIngame>Vous devez être en jeu pour mettre fin aux conditions de jeu</NeedToBeIngame>
+<CEBC>&lt;color=cyan&gt;&lt;b&gt;Modifier la chance des événements de base ("0" : désactiver) :&lt;/b&gt;&lt;/color&gt;</CEBC>
+<BCS>Paramètres de chance des événements de base ouverts</BCS>
+<MinTPE>Jours min. avant 1er incident :</MinTPE>
+<ETPE>Jours min. prochain incident :</ETPE>
+<PES>&lt;color=cyan&gt;&lt;b&gt;Paramètres des événements violets :&lt;/b&gt;&lt;/color&gt;</PES>
+
+<IABaseC>Ère glaciaire</IABaseC>
+<GWBaseC>Réchauffement climatique</GWBaseC>
+<PRBaseC>Pluie psychique</PRBaseC>
+<LNBaseC>Longue Nuit</LNBaseC>
+<PBBaseC>Floraison psychique</PBBaseC>
+
+<HSBaseC>Tempête de grêle</HSBaseC>
+<MSBaseC>Pluie météorite</MSBaseC>
+<APCBaseC>Capsule de sauvetage d'animal</APCBaseC>
+<WJTBaseC>Traître !</WJTBaseC>
+<SPBaseC>Bataille Spatiale</SPBaseC>
+<SCBaseC>Crash d'une Navette</SCBaseC>
+<EBaseC>Tremblement de terre</EBaseC>
+<CPWBaseC>Capsule Cargo (Armes)</CPWBaseC>
+<CPABaseC>Capsule Cargo (Équipements)</CPABaseC>
+<CAWIBaseC>Animaux d'une caravane</CAWIBaseC>
+<CSBaseC>Pousses de culture</CSBaseC>
+<BAWIBaseC>Animaux domestique</BAWIBaseC>
+<DBaseC>Sécheresse</DBaseC>
+<WMWIBaseC>Hommes sauvages</WMWIBaseC>
+<HPBaseC>Partie de chasse</HPBaseC>
+<GCWResetOBO>Arrêter les conditions du monde...</GCWResetOBO>
+<GCMResetOBO>Arrêter les conditions de la carte...</GCMResetOBO>
+
+<VEE_DaysBetweenPurpleEvents>Nombre de jour(s) entre les événements violets :</VEE_DaysBetweenPurpleEvents>
+
+
+</LanguageData>

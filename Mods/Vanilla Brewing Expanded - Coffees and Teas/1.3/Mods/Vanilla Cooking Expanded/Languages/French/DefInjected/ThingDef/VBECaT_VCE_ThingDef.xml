@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VBE_DalgonaCoffee.label>café dalgona</VBE_DalgonaCoffee.label>
+<VBE_DalgonaCoffee.description>Une nouvelle boisson à la mode dans le monde du café qui proviendrait de mondes lointains. Des grains de café sont rapidement mélangés à du sucre pour former une mousse épaisse et délicieusement sucrée. Ensuite, la mousse est dispersée sur du lait soigneusement refroidi avant d'être consommée. C'est sans doute la boisson parfaite à siroter en étudiant ou en lisant.</VBE_DalgonaCoffee.description>
+<VBE_DalgonaCoffee.ingestible.ingestCommandString>Boire {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+<VBE_DalgonaCoffee.ingestible.ingestReportString>Boit du {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+
+<VBE_GreenTea.label>thé vert</VBE_GreenTea.label>
+<VBE_GreenTea.description>Un thé vert léger, aux agrumes, agrémenté de sucre pour créer un goût de beurre, presque de noix.</VBE_GreenTea.description>
+<VBE_GreenTea.ingestible.ingestCommandString>Boire {0}</VBE_GreenTea.ingestible.ingestCommandString>
+<VBE_GreenTea.ingestible.ingestReportString>Boit du {0}.</VBE_GreenTea.ingestible.ingestReportString>
+
+<VBE_MasalaChai.label>Masala Chai</VBE_MasalaChai.label>
+<VBE_MasalaChai.description>Un thé aux épices, chaud et presque boisé, composé de feuilles simples et d'épices complexes. Présumé être bon contre un taux de cholestérol élevé.</VBE_MasalaChai.description>
+<VBE_MasalaChai.ingestible.ingestCommandString>Boire {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+<VBE_MasalaChai.ingestible.ingestReportString>Boit du {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+
+<VBE_MintCoffee.label>café à la menthe</VBE_MintCoffee.label>
+<VBE_MintCoffee.description>Un expresso amer mélangé à de la crème ou du lait, puis mélangé à de la menthe et garni. Le café frais et velouté laisse place à un arrière-goût encore plus frais et apaisant, sans parler de l'haleine qui sent bon.</VBE_MintCoffee.description>
+<VBE_MintCoffee.ingestible.ingestCommandString>Boire {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+<VBE_MintCoffee.ingestible.ingestReportString>Boit du {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+
+<VBE_MintTea.label>thé à la menthe</VBE_MintTea.label>
+<VBE_MintTea.description>Des feuilles de thé noir mélangées à des feuilles de menthe et longuement infusées, puis garnies de feuilles de menthe supplémentaires. Votre haleine sera d'une fraîcheur surprenante.</VBE_MintTea.description>
+<VBE_MintTea.ingestible.ingestCommandString>Boire {0}</VBE_MintTea.ingestible.ingestCommandString>
+<VBE_MintTea.ingestible.ingestReportString>Boit du {0}.</VBE_MintTea.ingestible.ingestReportString>
+
+<VBE_NoonChai.label>Chaï de midi</VBE_NoonChai.label>
+<VBE_NoonChai.description>Un ancien thé du Cachemire mélangeant des feuilles de thé, une pincée de sel et du bicarbonate de soude, ce qui donne une boisson d'un rose éclatant, réputée pour être non seulement délicieuse mais aussi saine pour l'organisme. Très efficace pour traiter les personnes souffrant d'hypertension artérielle.</VBE_NoonChai.description>
+<VBE_NoonChai.ingestible.ingestCommandString>Boire {0}</VBE_NoonChai.ingestible.ingestCommandString>
+<VBE_NoonChai.ingestible.ingestReportString>Boit du {0}.</VBE_NoonChai.ingestible.ingestReportString>
+
+<VBE_MintLeaves.label>feuilles de menthe</VBE_MintLeaves.label>
+<VBE_MintLeaves.description>Les feuilles de menthe sont célèbres pour leur effet rafraîchissant dans la bouche, ainsi que pour leur facilité à l’infuser dans une multitude de thés ou à garnir finement un plat. Les feuilles de menthe se dégradent rapidement.</VBE_MintLeaves.description>
+
+<VBE_MintPlant.label>plant de menthe</VBE_MintPlant.label>
+<VBE_MintPlant.description>Une plante qui donne naissance à un ensemble de feuilles de menthe. Les feuilles de menthe sont célèbres pour leur effet rafraîchissant dans la bouche, ainsi que pour leur facilité à l’infuser dans une multitude de thés ou à garnir finement un plat. Elle fleurit à l'intérieur et dans les pots de fleurs, tout en étant agréable à regarder.</VBE_MintPlant.description>
+
+
+</LanguageData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: makeshift LMG bullet -->
+<VWE_Bullet_MakeshiftLMG.label>balle de mitrailleuse improvisée</VWE_Bullet_MakeshiftLMG.label>
+
+<!-- EN: makeshift pistol bullet -->
+<VWE_Bullet_MakeshiftPistol.label>balle de pistolet improvisé</VWE_Bullet_MakeshiftPistol.label>
+
+<!-- EN: makeshift rifle bullet -->
+<VWE_Bullet_MakeshiftRifle.label>balle de fusil improvisé</VWE_Bullet_MakeshiftRifle.label>
+
+<!-- EN: makeshift shotgun pellet -->
+<VWE_Bullet_MakeshiftShotgun.label>grenaille  de fusil à pompe improvisé</VWE_Bullet_MakeshiftShotgun.label>
+
+<!-- EN: makeshift SMG bullet -->
+<VWE_Bullet_MakeshiftSMG.label>balle de pistolet-mitrailleur improvisé</VWE_Bullet_MakeshiftSMG.label>
+
+<!-- EN: makeshift LMG -->
+<VWE_Gun_MakeshiftLMG.label>mitrailleuse improvisée</VWE_Gun_MakeshiftLMG.label>
+<!-- EN: An improvised, gas-operated light machine gun. Unwieldy and inaccurate, it is also very prone to jamming. Its long bursts of fire are effective against groups of enemies, but their shot counts are completely random. -->
+<VWE_Gun_MakeshiftLMG.description>Une mitrailleuse légère improvisée, fonctionnant au gaz. Peu maniable et imprécise, elle est également très susceptible de s'enrayer. Ses longues rafales de tir sont efficaces contre les groupes d'ennemis, mais leur nombre de tirs est totalement aléatoire.</VWE_Gun_MakeshiftLMG.description>
+<!-- EN: stock -->
+<VWE_Gun_MakeshiftLMG.tools.stock.label>crosse</VWE_Gun_MakeshiftLMG.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_MakeshiftLMG.tools.barrel.label>canon</VWE_Gun_MakeshiftLMG.tools.barrel.label>
+<!-- EN: makeshift LMG -->
+<VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>mitrailleuse improvisée</VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>
+
+<!-- EN: makeshift pistol -->
+<VWE_Gun_MakeshiftPistol.label>pistolet improvisé</VWE_Gun_MakeshiftPistol.label>
+<!-- EN: An improvised, rough, ancient-design pattern blowback-operated self-loading pistol. It lacks stopping power and range and is prone to jamming. -->
+<VWE_Gun_MakeshiftPistol.description>Un pistolet à chargement automatique improvisé, rudimentaire, de conception ancienne, fonctionnant avec un système de rétro-soufflage. Il manque de puissance d'arrêt et de portée et a tendance à s'enrayer.</VWE_Gun_MakeshiftPistol.description>
+<!-- EN: grip -->
+<VWE_Gun_MakeshiftPistol.tools.grip.label>poignée</VWE_Gun_MakeshiftPistol.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_Gun_MakeshiftPistol.tools.barrel.label>canon</VWE_Gun_MakeshiftPistol.tools.barrel.label>
+<!-- EN: makeshift pistol -->
+<VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>pistolet improvisé</VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>
+
+<!-- EN: makeshift rifle -->
+<VWE_Gun_MakeshiftRifle.label>fusil improvisé</VWE_Gun_MakeshiftRifle.label>
+<!-- EN: A general-purpose gas-operated improvised assault rifle, utilising various salvaged components mounted on a militia rifle receiver. It has good range, decent power, and good accuracy, but is prone to jamming. -->
+<VWE_Gun_MakeshiftRifle.description>Un fusil d'assaut improvisé à usage général fonctionnant au gaz, utilisant divers composants récupérés montés sur un récepteur de fusil de milice. Il a une bonne portée, une puissance décente et une bonne précision, mais il a tendance à s'enrayer.</VWE_Gun_MakeshiftRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_MakeshiftRifle.tools.stock.label>crosse</VWE_Gun_MakeshiftRifle.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_MakeshiftRifle.tools.barrel.label>canon</VWE_Gun_MakeshiftRifle.tools.barrel.label>
+<!-- EN: makeshift rifle -->
+<VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>fusil improvisé</VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>
+
+<!-- EN: makeshift shotgun -->
+<VWE_Gun_MakeshiftShotgun.label>fusil à pompe improvisé</VWE_Gun_MakeshiftShotgun.label>
+<!-- EN: An improvised design powerful shotgun that emits a large barrage of pellets. Deadly, but short range. Due to numerous faults in design, the amount of pellets fired varies shot by shot. -->
+<VWE_Gun_MakeshiftShotgun.description>Un fusil à pompe puissant de conception improvisée qui émet un large barrage de plombs. Mortel, mais à courte portée. En raison de nombreux défauts de conception, la quantité de plombs tirés varie d'un coup à l'autre.</VWE_Gun_MakeshiftShotgun.description>
+<!-- EN: stock -->
+<VWE_Gun_MakeshiftShotgun.tools.stock.label>crosse</VWE_Gun_MakeshiftShotgun.tools.stock.label>
+<!-- EN: barrel -->
+<VWE_Gun_MakeshiftShotgun.tools.barrel.label>canon</VWE_Gun_MakeshiftShotgun.tools.barrel.label>
+<!-- EN: makeshift shotgun -->
+<VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>fusil à pompe improvisé</VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>
+
+<!-- EN: makeshift SMG -->
+<VWE_Gun_MakeshiftSMG.label>pistolet-mitrailleur improvisé</VWE_Gun_MakeshiftSMG.label>
+<!-- EN: A small, home-made micro-submachine gun. It's short range and very prone to jamming due to the rough design and faulty elements. Its rate of fire tends to make up for its weakness. -->
+<VWE_Gun_MakeshiftSMG.description>Un petit pistolet-mitrailleur de fabrication artisanale. Il a une faible portée et a tendance à s'enrayer en raison de sa conception grossière et de ses éléments défectueux. Sa cadence de tir compense cette faiblesse.</VWE_Gun_MakeshiftSMG.description>
+<!-- EN: grip -->
+<VWE_Gun_MakeshiftSMG.tools.grip.label>poignée</VWE_Gun_MakeshiftSMG.tools.grip.label>
+<!-- EN: barrel -->
+<VWE_Gun_MakeshiftSMG.tools.barrel.label>canon</VWE_Gun_MakeshiftSMG.tools.barrel.label>
+<!-- EN: makeshift SMG -->
+<VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>pistolet-mitrailleur improvisé</VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>
+
+
+</LanguageData>

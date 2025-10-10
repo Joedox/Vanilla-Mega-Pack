@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: One or more anima nexus trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
+<AlertGauranlenTreeWithoutDryadTypeDesc>Un ou plusieurs arbres anima nexus n'ont pas leur caste de dryade.\n\nSélectionnez l'arbre et cliquez sur le bouton '{0}' pour définir la caste de dryade produite.</AlertGauranlenTreeWithoutDryadTypeDesc>
+<!-- EN: You have anima nexus trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
+<AlertConnectedPawnNotAssignedToPlantCuttingDesc>Vous avez des arbres anima nexus qui doivent être taillés, mais leurs connecteurs ne sont pas affectés à la coupe de plantes.\n\nVous devez affecter le travail de coupe de plantes aux personnes suivantes:</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+
+</LanguageData>

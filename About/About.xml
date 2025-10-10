@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Mega Pack [Fr]</name>
+	<author>Joedox</author>
+	<supportedVersions>		
+		<li>1.3</li>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Joedox.VanillaMegaPack.Fr</packageId>
+	<description>
+Ce mod traduira uniquement les mods Vanilla activés (en fonction de la liste ci-dessous), les autres mods seront ignorés (ne chargera pas des traductions inutiles (ou presque)).
+
+Vous pouvez ajouter ou supprimer le mod à n’importe quelle sauvegarde, car ce mod traduit simplement du texte.
+
+&lt;size=18&gt;Traduction &lt;color=#3691FF&gt;fra&lt;/color&gt;&lt;color=#FFFFFF&gt;nça&lt;/color&gt;&lt;color=#E00000&gt;ise&lt;/color&gt; des mods :&lt;/size&gt;
+- En&lt;size=20&gt;&lt;color=#F66077&gt; &#9632; &lt;/color&gt;&lt;/size&gt;les mods compatibles avec la version 1.3.
+- En&lt;size=20&gt;&lt;color=#56C1CE&gt; &#9632; &lt;/color&gt;&lt;/size&gt;les mods compatibles avec la version 1.4.
+- En&lt;size=20&gt;&lt;color=#B7D457&gt; &#9632; &lt;/color&gt;&lt;/size&gt;les mods compatibles avec la version 1.5.
+- En&lt;size=20&gt;&lt;color=#9175BD&gt; &#9632; &lt;/color&gt;&lt;/size&gt;les mods compatibles avec la version 1.6.
+
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Achievements Expanded
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Arid Shrubland
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Australia
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Boreal Forest
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Cats and Dogs
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Caves
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Desert
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Endangered
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Extreme Desert
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Ice Sheet
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Royal Animals
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Temperate Forest
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Tropical Rainforest
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Tropical Swamp
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Tundra
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Animals Expanded - Waste Animals
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Anomaly Expanded - Insanity
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Apparel Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Apparel Expanded - Accessories
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Armour Expanded
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Aspirations Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Backgrounds Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Backstories Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Base Generation Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Books Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Brewing Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Brewing Expanded - Coffees and Teas
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Chemfuel Expanded
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Christmas Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Cooking Expanded
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Cooking Expanded - Haute
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Cooking Expanded - Stews
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Cooking Expanded - Sushi
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Events Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Expanded - Ideology Patches
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Expanded - Royalty Patches
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Expanded Framework
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Ancients
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Classical
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Deserters
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Empire
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Insectoids
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Insectoids 2
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Mechanoids
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Medieval
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Medieval 2
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Pirates
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Settlers
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Tribals
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Factions Expanded - Vikings
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Fishing Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Fishing Expanded - Fishing Treasures AddOn
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Food Variety Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Architect
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Art
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Farming
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Medical Module
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Power
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Production
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Props and Decor
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Security
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Furniture Expanded - Spacer Module
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Genetics Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Genetics Expanded - More Lab Stuff
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Hair Expanded
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Helixien Gas Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Anima Theme
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Dryads
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Hats and Rags
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Icons and Symbols
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Memes and Structures (Merci à Qux pour son aide à la traduction)
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Relics and Artifacts
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Sophian Style
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Ideology Expanded - Splits and Schisms
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Nutrient Paste Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Outposts Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Persona Weapons Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Plants Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Plants Expanded - More Plants
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Plants Expanded - Mushrooms
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Plants Expanded - Succulents
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Psycasts Expanded
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Psycasts Expanded - Hemosage
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Psycasts Expanded - Puppeteer
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Quests Expanded - Cryptoforge
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Quests Expanded - Deadlife
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Quests Expanded - The Generator
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Android
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Archon
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Custom Icons
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Fungoid
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Genie
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Highmate
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Hussar
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Insector
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Lycanthrope
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Phytokin
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Pigskin
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Sanguophage
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Saurid
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Starjack
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Races Expanded - Waster
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Recycling Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Skills Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Social Interactions Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Diego Industrial
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Empress Evil
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Freya Fierce
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Igor Invader
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Maynard Medieval
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Neron Neolithic
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Oskar Obnoxious
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Perry Persistent
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - RimWorld Rick
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Storytellers Expanded - Winston Waves
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Temperature Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Textures Expanded
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Textures Expanded - Variations
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Trading Expanded
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Traits Expanded
+
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Vehicles Expanded
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Vehicles Expanded - Tier 3
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Vehicles Expanded - Upgrades
+
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded
+&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#333333&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Bioferrite
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Coilguns
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Frontier
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Grenades
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Heavy Weapons
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Laser
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Makeshift
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Non-Lethal
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Quickdraw
+&lt;color=#F66077&gt;&#x2611;&lt;/color&gt;&lt;color=#56C1CE&gt;&#x2611;&lt;/color&gt;&lt;color=#B7D457&gt;&#x2611;&lt;/color&gt;&lt;color=#9175BD&gt;&#x2611;&lt;/color&gt; Vanilla Weapons Expanded - Tribal
+
+
+Merci aux auteurs des Mods :
+Oskar Potocki, Kentington, Sarg Bjornson, Erdelf, Kikohi, Chowder, Taranchuk, Isorex, Xrushha, Legodude17 ...
+
+	</description>
+<loadAfter>
+<!-- 1.3 -->
+	<li>vanillaexpanded.achievements</li>
+	<li>VanillaExpanded.VAEAS</li>
+	<li>VanillaExpanded.VAEAU</li>
+	<li>VanillaExpanded.VAEBF</li>
+	<li>VanillaExpanded.VAECD</li>
+	<li>VanillaExpanded.VAECaves</li>
+	<li>VanillaExpanded.VAED</li>
+	<li>VanillaExpanded.VAEEndAndExt</li>
+	<li>VanillaExpanded.VAEED</li>
+	<li>VanillaExpanded.VAEIS</li>
+	<li>VanillaExpanded.VAETF</li>
+	<li>VanillaExpanded.VAETR</li>
+	<li>VanillaExpanded.VAETS</li>
+	<li>VanillaExpanded.VAET</li>
+	<li>VanillaExpanded.VAPPE</li>
+	<li>VanillaExpanded.VAEAccessories</li>
+	<li>VanillaExpanded.VARME</li>
+	<li>vanillaexpanded.backgrounds</li>
+	<li>VanillaExpanded.BaseGeneration</li>
+	<li>VanillaExpanded.VBooksE</li>
+	<li>VanillaExpanded.VBrewE</li>
+	<li>VanillaExpanded.VBrewECandT</li>
+	<li>VanillaExpanded.VChemfuelE</li>
+	<li>VanillaExpanded.VCookE</li>
+	<li>VanillaExpanded.VCookEStews</li>
+	<li>VanillaExpanded.VCookESushi</li>
+	<li>VanillaExpanded.VEE</li>
+	<li>OskarPotocki.VanillaExpanded.IdeologyPatches</li>
+	<li>OskarPotocki.VanillaExpanded.RoyaltyPatches</li>
+	<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	<li>OskarPotocki.VanillaFactionsExpanded.MedievalModule</li>
+	<li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
+	<li>OskarPotocki.VFE.Insectoid</li>
+	<li>OskarPotocki.VFE.Vikings</li>
+	<li>OskarPotocki.VFE.Mechanoid</li>
+	<li>VanillaExpanded.VFEA</li>
+	<li>OskarPotocki.VFE.Pirates</li>
+	<li>OskarPotocki.VFE.Classical</li>
+	<li>VanillaExpanded.VCEF</li>
+	<li>VanillaExpanded.VCEFAddon</li>
+	<li>VanillaExpanded.VFECore</li>
+	<li>VanillaExpanded.VFEArchitect</li>
+	<li>VanillaExpanded.VFEArt</li>
+	<li>VanillaExpanded.VFEFarming</li>
+	<li>VanillaExpanded.VFEMedical</li>
+	<li>VanillaExpanded.VFEPower</li>
+	<li>VanillaExpanded.VFEProduction</li>
+	<li>VanillaExpanded.VFEPropsandDecor</li>
+	<li>VanillaExpanded.VFESecurity</li>
+	<li>VanillaExpanded.VFESpacer</li>
+	<li>VanillaExpanded.VGeneticsE</li>
+	<li>VanillaExpanded.VGeneticsEMoreLabStuff</li>
+	<li>VanillaExpanded.VHE</li>
+	<li>VanillaExpanded.Ideo.Dryads</li>
+	<li>VanillaExpanded.VIEAT</li>
+	<li>VanillaExpanded.VMemesE</li>
+	<li>VanillaExpanded.VIEHAR</li>
+	<li>VanillaExpanded.Ideo.IconsandSymbols</li>
+	<li>VanillaExpanded.Ideo.RelicsAndArtifacts</li>
+	<li>VanillaExpanded.VIESAS</li>
+	<li>vanillaexpanded.outposts</li>
+	<li>VanillaExpanded.VPersonaWeaponsE</li>
+	<li>VanillaExpanded.VPlantsE</li>
+	<li>VanillaExpanded.VPlantsEMore</li>
+	<li>VanillaExpanded.VPlantsESucculents</li>
+	<li>VanillaExpanded.VanillaSocialInteractionsExpanded</li>
+	<li>VSE.DiegoIndustrial</li>
+	<li>VSE.EmpressEvil</li>
+	<li>VSE.FreyaFierce</li>
+	<li>VSE.IgorInvader</li>
+	<li>VSE.MaynardMedieval</li>
+	<li>VSE.NeronNeolithic</li>
+	<li>VSE.OskarObnoxious</li>
+	<li>VSE.PerryPersistent</li>
+	<li>vanillaexpanded.storytellers.rick</li>
+	<li>VanillaStorytellersExpanded.WinstonWave</li>
+	<li>VanillaExpanded.VTEXE</li>
+	<li>VanillaExpanded.VTEXVariations</li>
+	<li>VanillaExpanded.VanillaTradingExpanded</li>
+	<li>VanillaExpanded.VanillaTraitsExpanded</li>
+	<li>VanillaExpanded.VWE</li>
+	<li>VanillaExpanded.VWEC</li>
+	<li>VanillaExpanded.VWEFT</li>
+	<li>VanillaExpanded.VWEG</li>
+	<li>VanillaExpanded.VWEHW</li>
+	<li>VanillaExpanded.VWEL</li>
+	<li>VanillaExpanded.VWEMS</li>
+	<li>VanillaExpanded.VWENL</li>
+	<li>VanillaExpanded.VWEQ</li>
+	<li>VanillaExpanded.VWETB</li>
+	<li>vanillaexpanded.ui</li>
+	<li>VanillaExpanded.VTEXE.SOS2</li>
+	<li>vanillaexpanded.skills</li>
+
+<!-- 1.4 -->
+	<li>vanillaracesexpanded.android</li>
+	<li>vanillaracesexpanded.archon</li>
+	<li>vanillaracesexpanded.customicons</li>
+	<li>vanillaracesexpanded.genie</li>
+	<li>vanillaracesexpanded.highmate</li>
+	<li>vanillaracesexpanded.hussar</li>
+	<li>vanillaracesexpanded.saurid</li>
+	<li>vanillaracesexpanded.phytokin</li>
+	<li>vanillaracesexpanded.sanguophage</li>
+	<li>vanillaexpanded.vnutriente</li>
+	<li>vanillaexpanded.vanillabackstoriesexpanded</li>
+	<li>oskarpotocki.vfe.empire</li>
+
+<!-- 1.5 -->
+	<li>vanillaexpanded.vaewaste</li>
+	<li>vanillaracesexpanded.waster</li>
+	<li>vanillaexpanded.vpe.hemosage</li>
+	<li>vanillaexpanded.vplantsemushrooms</li>
+	<li>oskarpotocki.vanillavehiclesexpanded</li>
+	<li>oskarpotocki.vfe.deserters</li>
+	<li>vanillaexpanded.vpe.puppeteer</li>
+	<li>vanillaracesexpanded.fungoid</li>
+	<li>oskarpotocki.vanillavehiclesexpandedtier3</li>
+	<li>oskarpotocki.vfe.tribals</li>
+	<li>vanillaracesexpanded.lycanthrope</li>
+	<li>vanillaexpanded.recycling</li>
+	<li>vanillaracesexpanded.pigskin</li>
+	<li>vanillaexpanded.ideo.sophianstyle</li>
+	<li>vanillaexpanded.temperature</li>
+	<li>vanillaracesexpanded.insector</li>
+	<li>vanillaexpanded.vaeroy</li>
+	<li>vanillaexpanded.vanillaaspirationsexpanded</li>
+	<li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
+	<li>oskarpotocki.vfe.insectoid2</li>
+	<li>vanillaexpanded.vanillafoodvarietyexpanded</li>
+	<li>vanillaexpanded.vanomalyeinsanity</li>
+	<li>vanillaquestsexpanded.generator</li>
+	<li>vanillaexpanded.vwebf</li>
+	<li>oskarpotocki.vfe.medieval2</li>
+	<li>vanillaexpanded.vcookehaute</li>
+	<li>vanillaquestsexpanded.cryptoforge</li>
+	<li>vanillaquestsexpanded.deadlife</li>
+
+<!-- 1.6 -->
+	<li>vanillaracesexpanded.starjack</li>
+</loadAfter>
+
+<incompatibleWith>
+	<li></li>
+</incompatibleWith>
+
+</ModMetaData>

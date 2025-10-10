@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: guilt -->
+<VQE_Guilt.label>culpabilité</VQE_Guilt.label>
+<!-- EN: A deep psychological burden stemming from overwhelming remorse and sorrow caused by being the last remaining member of one's faction. This condition gradually consumes the mind with grief and despair, leading to worsening depression over time. -->
+<VQE_Guilt.description>Un profond fardeau psychologique résultant d'un remords et d'un chagrin accablants causés par le fait d'être le dernier membre d'une faction. Cet état consume progressivement l'esprit par le chagrin et le désespoir, ce qui conduit à une dépression qui s'aggrave avec le temps.</VQE_Guilt.description>
+<!-- EN: lingering guilt -->
+<VQE_Guilt.stages.lingering_guilt.label>culpabilité persistante</VQE_Guilt.stages.lingering_guilt.label>
+<!-- EN: growing remorse -->
+<VQE_Guilt.stages.growing_remorse.label>remords croissant</VQE_Guilt.stages.growing_remorse.label>
+<!-- EN: deep regret -->
+<VQE_Guilt.stages.deep_regret.label>profond regret</VQE_Guilt.stages.deep_regret.label>
+<!-- EN: crushing guilt -->
+<VQE_Guilt.stages.crushing_guilt.label>culpabilité écrasante</VQE_Guilt.stages.crushing_guilt.label>
+<!-- EN: tormenting sorrow -->
+<VQE_Guilt.stages.tormenting_sorrow.label>tristesse insoutenable</VQE_Guilt.stages.tormenting_sorrow.label>
+<!-- EN: despairing isolation -->
+<VQE_Guilt.stages.despairing_isolation.label>isolement désespérant</VQE_Guilt.stages.despairing_isolation.label>
+<!-- EN: guilt (acceptance) -->
+<VQE_Guilt.stages.guilt_acceptance.label>culpabilité (acceptation)</VQE_Guilt.stages.guilt_acceptance.label>
+
+
+<!-- EN: Cryptobleed -->
+<VQE_BleedrateCrypto_10.label>crypto-saignement</VQE_BleedrateCrypto_10.label>
+<!-- EN: Experimental crypto-technology woven into the armor slows biological trauma response by infusing cryptoparticles directly into the bloodstream. These particles rapidly bind to open wounds on a microscopic level, sealing them instantly and preventing any bleeding from occurring, no matter the severity. -->
+<VQE_BleedrateCrypto_10.description>La crypto-technologie expérimentale intégrée à l'armure ralentit la réaction biologique aux traumatismes en infusant des cryptoparticules directement dans la circulation sanguine. Ces particules se lient rapidement aux plaies ouvertes à un niveau microscopique, les scellant instantanément et empêchant toute hémorragie, quelle qu'en soit la gravité.</VQE_BleedrateCrypto_10.description>
+<!-- EN: Armour -->
+<VQE_BleedrateCrypto_10.stages.Armour.label>armure</VQE_BleedrateCrypto_10.stages.Armour.label>
+
+<!-- EN: Cryptobleed -->
+<VQE_BleedrateCrypto_20.label>crypto-saignement</VQE_BleedrateCrypto_20.label>
+<!-- EN: Experimental crypto-technology woven into the armor slows biological trauma response by infusing cryptoparticles directly into the bloodstream. These particles rapidly bind to open wounds on a microscopic level, sealing them instantly and preventing any bleeding from occurring, no matter the severity. -->
+<VQE_BleedrateCrypto_20.description>La crypto-technologie expérimentale intégrée à l'armure ralentit la réaction biologique aux traumatismes en infusant des cryptoparticules directement dans la circulation sanguine. Ces particules se lient rapidement aux plaies ouvertes à un niveau microscopique, les scellant instantanément et empêchant toute hémorragie, quelle qu'en soit la gravité.</VQE_BleedrateCrypto_20.description>
+<!-- EN: Armour -->
+<VQE_BleedrateCrypto_20.stages.Armour.label>armure</VQE_BleedrateCrypto_20.stages.Armour.label>
+
+<!-- EN: Cryptobleed -->
+<VQE_BleedrateCrypto_5.label>crypto-saignement</VQE_BleedrateCrypto_5.label>
+<!-- EN: Experimental crypto-technology woven into the armor slows biological trauma response by infusing cryptoparticles directly into the bloodstream. These particles rapidly bind to open wounds on a microscopic level, sealing them instantly and preventing any bleeding from occurring, no matter the severity. -->
+<VQE_BleedrateCrypto_5.description>La crypto-technologie expérimentale intégrée à l'armure ralentit la réaction biologique aux traumatismes en infusant des cryptoparticules directement dans la circulation sanguine. Ces particules se lient rapidement aux plaies ouvertes à un niveau microscopique, les scellant instantanément et empêchant toute hémorragie, quelle qu'en soit la gravité.</VQE_BleedrateCrypto_5.description>
+<!-- EN: Armour -->
+<VQE_BleedrateCrypto_5.stages.Armour.label>armure</VQE_BleedrateCrypto_5.stages.Armour.label>
+
+<!-- EN: crypto slowdown -->
+<VQE_CryptoSlowdown.label>crypto-ralentissement</VQE_CryptoSlowdown.label>
+<!-- EN: A chilling affliction caused by exposure to cryptofreeze energy. It weakens the target’s heat armor while simultaneously increasing their minimum comfortable temperature, making them more vulnerable to both extreme cold and heat while significantly reducing movement speed. If crypto slowdown reaches the maximum effect, the target becomes completely engulfed in cryptofreeze, causing severe damage. -->
+<VQE_CryptoSlowdown.description>Affliction glaciale causée par l'exposition à l'énergie du cryptogel. Elle affaiblit l'armure thermique de la cible tout en augmentant sa température minimale de confort, ce qui la rend plus vulnérable au froid et à la chaleur extrêmes tout en réduisant considérablement sa vitesse de déplacement. Si le crypto-ralentissement atteint l'effet maximal, la cible est complètement engloutie par le cryptogel, ce qui lui cause de graves dommages.</VQE_CryptoSlowdown.description>
+<!-- EN: minor -->
+<VQE_CryptoSlowdown.stages.minor.label>mineur</VQE_CryptoSlowdown.stages.minor.label>
+<!-- EN: moderate -->
+<VQE_CryptoSlowdown.stages.moderate.label>modéré</VQE_CryptoSlowdown.stages.moderate.label>
+<!-- EN: major -->
+<VQE_CryptoSlowdown.stages.major.label>majeur</VQE_CryptoSlowdown.stages.major.label>
+<!-- EN: severe -->
+<VQE_CryptoSlowdown.stages.severe.label>sévère</VQE_CryptoSlowdown.stages.severe.label>
+<!-- EN: extreme -->
+<VQE_CryptoSlowdown.stages.extreme.label>extrême</VQE_CryptoSlowdown.stages.extreme.label>
+
+<!-- EN: exposed to extreme cold -->
+<VQE_IceCrawlerHediff.label>exposé au froid extrême</VQE_IceCrawlerHediff.label>
+<!-- EN: The Ice crawler becomes more dangerous if it’s exposed to extremely cold temperatures. -->
+<VQE_IceCrawlerHediff.description>La chenille de glace devient plus dangereuse si elle est exposée à des températures extrêmement froides.</VQE_IceCrawlerHediff.description>
+
+<!-- EN: exposed to extreme cold -->
+<VQE_MegamidgeHediff.label>exposé au froid extrême</VQE_MegamidgeHediff.label>
+<!-- EN: The Megamidge becomes more dangerous if it’s exposed to extremely cold temperatures. -->
+<VQE_MegamidgeHediff.description>Le megamidge devient plus dangereux s'il est exposé à des températures extrêmement froides.</VQE_MegamidgeHediff.description>
+<!-- EN: head claw -->
+<VQE_MegamidgeHediff.comps.HediffComp_VerbGiver.tools.head_claw.label>corne frontale</VQE_MegamidgeHediff.comps.HediffComp_VerbGiver.tools.head_claw.label>
+
+
+</LanguageData>

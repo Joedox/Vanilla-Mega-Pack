@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Warcasket_Royal.label>Le Tsar</Warcasket_Royal.label>
+<Warcasket_Royal.description>Cette armure est une véritable merveille ! Digne d'une royauté, elle est ornée d'une cape opulente et recouverte d'une grande quantité d'or. Le fonctionnement interne de cet équipement est malheureusement inconnu, tout ce que je sais, c'est qu'il agit comme un système de survie qui, en plus, répond à une multitude de besoins, y compris le repos et la faim.\n\nDire qu'elle offre une protection exceptionnelle est un euphémisme : en plus d'une épaisse couche de plastacier (et évidemment d'or), l'armure est dotée d'un bouclier quasi impénétrable.\n\nLes propulseurs avancés intégrés sont capables d'élever l'armure jusqu'à la stratosphère et de couvrir une bonne partie d'une planète en un seul vol.\n\nm.p.V.S</Warcasket_Royal.description>
+<Warcasket_Royal.comps.CompReloadable.chargeNoun>saut</Warcasket_Royal.comps.CompReloadable.chargeNoun>
+<Warcasket_Royal.comps.CompReloadable.cooldownGerund>en recharge</Warcasket_Royal.comps.CompReloadable.cooldownGerund>
+<Warcasket_Royal.shortDescription>Bouclier de 700 HP, 0 inflammabilité, et capacité d'explosion incroyablement boostée. Remplit le besoin de faim et possède des améliorations supplémentaires.</Warcasket_Royal.shortDescription>
+
+<WarcasketShoulders_Royal.label>Le dernier Baron</WarcasketShoulders_Royal.label>
+<WarcasketShoulders_Royal.description>Comme prévu, à l'instar du reste de l'armure, les épaulettes sont également recouvertes de tissu doré et ignifugé. La protection et l'apparence sont vraiment superbes. Que dire d'autre ?\n\nm.p.V.S</WarcasketShoulders_Royal.description>
+<WarcasketShoulders_Royal.comps.CompReloadable.chargeNoun>saut</WarcasketShoulders_Royal.comps.CompReloadable.chargeNoun>
+<WarcasketShoulders_Royal.comps.CompReloadable.cooldownGerund>en recharge</WarcasketShoulders_Royal.comps.CompReloadable.cooldownGerund>
+<WarcasketShoulders_Royal.shortDescription>Donne la capacité de saut avec 15 charges.</WarcasketShoulders_Royal.shortDescription>
+
+<WarcasketHelmet_Royal.label>Le Poète</WarcasketHelmet_Royal.label>
+<WarcasketHelmet_Royal.description>Ce casque est-il trop royal ? Peut-être, mais à mon humble avis, il est fantastique. À vrai dire, si un malheureux accident m'arrivait, j'aimerais être enseveli dans une armure semblable à celle-ci.\n\nLe casque offre une protection totale contre l'environnement toxique et renforce considérablement les capacités physiques de l'utilisateur.\n\nm.p.V.S</WarcasketHelmet_Royal.description>
+<WarcasketHelmet_Royal.shortDescription>Résistance aux toxines. Maintient le besoin de loisirs à un niveau élevé.</WarcasketHelmet_Royal.shortDescription>
+
+<Xonus_Order.label>ordre de l'Empereur</Xonus_Order.label>
+<Xonus_Wrath.label>colère de l'Empereur</Xonus_Wrath.label>
+<Xonus_Reach.label>touché de l'Empereur</Xonus_Reach.label>
+<Plasma_Mercy.label>Coup de Grâce</Plasma_Mercy.label>
+
+<RWC_Halberd.label>hallebarde de Xonus</RWC_Halberd.label>
+<RWC_Halberd.description>Cette hallebarde, si l'on peut l'appeler ainsi, a été inventée par un chevalier impérial légendaire, Xonus Robus, qui était aussi terrifiant sur le champ de bataille qu'il était gracieux.\n\nLa hallebarde de Xonus est une arme combinée gargantuesque et polyvalente, souvent portée par les rois enterrés de haut rang. Elle peut être assez lourde à utiliser pour ceux qui n'ont pas d'expérience sur le champ de bataille, mais ceux qui maîtrisent cette arme opulente ont vraiment une force avec laquelle ils peuvent compter.\n\nLa hallebarde dispose de plusieurs modes de tir : rafale AP, téléguidé, et grande explosion\n\nm.p.V.S</RWC_Halberd.description>
+<RWC_Halberd.tools.point.label>pointe</RWC_Halberd.tools.point.label>
+<RWC_Halberd.tools.blade.label>lame</RWC_Halberd.tools.blade.label>
+<RWC_Halberd.verbs.Emperors_Order.label>ordre de l'Empereur</RWC_Halberd.verbs.Emperors_Order.label>
+<RWC_Halberd.verbs.Emperors_Wrath.label>colère de l'Empereur</RWC_Halberd.verbs.Emperors_Wrath.label>
+<RWC_Halberd.verbs.Emperors_Reach.label>touché de l'Empereur</RWC_Halberd.verbs.Emperors_Reach.label>
+
+<WarcasketGun_Box_XonusH.label>warcasket hallebarde de Xonus</WarcasketGun_Box_XonusH.label>
+<WarcasketGun_Box_XonusH.description>Cette hallebarde, si l'on peut l'appeler ainsi, a été inventée par un chevalier impérial légendaire, Xonus Robus, qui était aussi terrifiant sur le champ de bataille qu'il était gracieux.\n\nLa hallebarde de Xonus est une arme combinée gargantuesque et polyvalente, souvent portée par les rois enterrés de haut rang. Elle peut être assez lourde à utiliser pour ceux qui n'ont pas d'expérience sur le champ de bataille, mais ceux qui maîtrisent cette arme opulente ont vraiment une force avec laquelle ils peuvent compter.\n\nLa hallebarde dispose de plusieurs modes de tir : rafale AP, téléguidé, et grande explosion.\n\nm.p.V.S</WarcasketGun_Box_XonusH.description>
+
+
+</LanguageData>

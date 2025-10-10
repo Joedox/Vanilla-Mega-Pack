@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VEF_AnimalResource.label>récolter les ressources animales</VEF_AnimalResource.label>
+<VEF_AnimalResource.gerund>récolte les ressources animales</VEF_AnimalResource.gerund>
+<VEF_AnimalResource.verb>récolter les ressources animales</VEF_AnimalResource.verb>
+
+<VEF_DestroyItems.label>détruire les objets</VEF_DestroyItems.label>
+<VEF_DestroyItems.gerund>détruit l'objet</VEF_DestroyItems.gerund>
+<VEF_DestroyItems.verb>détruire les objets</VEF_DestroyItems.verb>
+
+<IP_InsertFirstIngredient.label>apporter les ingrédients</IP_InsertFirstIngredient.label>
+<IP_InsertFirstIngredient.gerund>apporte des ingrédients</IP_InsertFirstIngredient.gerund>
+<IP_InsertFirstIngredient.verb>apporter</IP_InsertFirstIngredient.verb>
+
+<IP_InsertSecondIngredient.label>apporter les ingrédients</IP_InsertSecondIngredient.label>
+<IP_InsertSecondIngredient.gerund>apporte des ingrédients</IP_InsertSecondIngredient.gerund>
+<IP_InsertSecondIngredient.verb>apporter les ingrédients</IP_InsertSecondIngredient.verb>
+
+<IP_InsertThirdIngredient.label>apporter les ingrédients</IP_InsertThirdIngredient.label>
+<IP_InsertThirdIngredient.gerund>apporte des ingrédients</IP_InsertThirdIngredient.gerund>
+<IP_InsertThirdIngredient.verb>apporter les ingrédients</IP_InsertThirdIngredient.verb>
+
+<IP_RemoveProduct.label>retirer le produit fini</IP_RemoveProduct.label>
+<IP_RemoveProduct.gerund>le retrait du produit fini</IP_RemoveProduct.gerund>
+<IP_RemoveProduct.verb>retirer le produit fini</IP_RemoveProduct.verb>
+
+<PS_DrainOutOfStorage.label>vidanger le stockage</PS_DrainOutOfStorage.label>
+<PS_DrainOutOfStorage.gerund>la vidange du stockage</PS_DrainOutOfStorage.gerund>
+<PS_DrainOutOfStorage.verb>vidanger le stockage</PS_DrainOutOfStorage.verb>
+
+<PS_FillStorage.label>remplir le stockage</PS_FillStorage.label>
+<PS_FillStorage.gerund>le remplissage dustockage</PS_FillStorage.gerund>
+<PS_FillStorage.verb>remplir le stockage</PS_FillStorage.verb>
+
+
+</LanguageData>

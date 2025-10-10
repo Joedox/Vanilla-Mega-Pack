@@ -1,0 +1,681 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<GR_CraftImmunobooster.label>fabriquer un immunostimulant</GR_CraftImmunobooster.label>
+<GR_CraftImmunobooster.description>Fabriquer un immunostimulant.</GR_CraftImmunobooster.description>
+<GR_CraftImmunobooster.jobString>Fabrique l'immunostimulant.</GR_CraftImmunobooster.jobString>
+
+<GR_CraftImmunoboosterBulk.label>fabriquer un immunostimulant x5</GR_CraftImmunoboosterBulk.label>
+<GR_CraftImmunoboosterBulk.description>Fabriquer 5 immunostimulants.</GR_CraftImmunoboosterBulk.description>
+<GR_CraftImmunoboosterBulk.jobString>Fabrique les immunostimulants.</GR_CraftImmunoboosterBulk.jobString>
+
+<GR_CraftHarmonobooster.label>fabriquer un harmonistimulant</GR_CraftHarmonobooster.label>
+<GR_CraftHarmonobooster.description>Fabriquer un harmonistimulant.</GR_CraftHarmonobooster.description>
+<GR_CraftHarmonobooster.jobString>Fabrique l'harmonistimulant.</GR_CraftHarmonobooster.jobString>
+
+<GR_CraftHarmonoboosterBulk.label>fabriquer un harmonistimulant x5</GR_CraftHarmonoboosterBulk.label>
+<GR_CraftHarmonoboosterBulk.description>Fabriquer 5 harmonistimulants.</GR_CraftHarmonoboosterBulk.description>
+<GR_CraftHarmonoboosterBulk.jobString>Fabrique les harmonistimulant.</GR_CraftHarmonoboosterBulk.jobString>
+
+<GR_CraftTempobooster.label>fabriquer un accélérostimulant</GR_CraftTempobooster.label>
+<GR_CraftTempobooster.description>Fabriquer un accélérostimulant.</GR_CraftTempobooster.description>
+<GR_CraftTempobooster.jobString>Fabrique le accélérostimulant.</GR_CraftTempobooster.jobString>
+
+<GR_CraftTempoboosterBulk.label>fabriquer un accélérostimulant x5</GR_CraftTempoboosterBulk.label>
+<GR_CraftTempoboosterBulk.description>Fabriquer 5 accélérostimulants.</GR_CraftTempoboosterBulk.description>
+<GR_CraftTempoboosterBulk.jobString>Fabrique les accélérostimulant.</GR_CraftTempoboosterBulk.jobString>
+
+<GR_CraftFertilityUnblocker.label>fabriquer un débloqueur de fécondité</GR_CraftFertilityUnblocker.label>
+<GR_CraftFertilityUnblocker.description>Fabriquer un débloqueur de fécondité.</GR_CraftFertilityUnblocker.description>
+<GR_CraftFertilityUnblocker.jobString>Fabrique le débloqueur de fécondité.</GR_CraftFertilityUnblocker.jobString>
+
+<GR_CraftFertilityUnblockerBulk.label>fabriquer un débloqueur de fécondité x5</GR_CraftFertilityUnblockerBulk.label>
+<GR_CraftFertilityUnblockerBulk.description>Fabriquer 5 débloqueurs de fécondités.</GR_CraftFertilityUnblockerBulk.description>
+<GR_CraftFertilityUnblockerBulk.jobString>Fabrique les débloqueurs de fécondité.</GR_CraftFertilityUnblockerBulk.jobString>
+
+<GR_CraftStabilizator.label>fabriquer un stabilisateur</GR_CraftStabilizator.label>
+<GR_CraftStabilizator.description>Fabriquer un stabilisateur.</GR_CraftStabilizator.description>
+<GR_CraftStabilizator.jobString>Fabrique le stabilisateur.</GR_CraftStabilizator.jobString>
+
+<GR_CraftStabilizatorBulk.label>fabriquer un stabilisateur x5</GR_CraftStabilizatorBulk.label>
+<GR_CraftStabilizatorBulk.description>Fabriquer 5 stabilisateurs.</GR_CraftStabilizatorBulk.description>
+<GR_CraftStabilizatorBulk.jobString>Fabrique les stabilisateurs.</GR_CraftStabilizatorBulk.jobString>
+
+<GR_CraftController.label>fabriquer un contrôleur</GR_CraftController.label>
+<GR_CraftController.description>Fabriquer un contrôleur.</GR_CraftController.description>
+<GR_CraftController.jobString>Fabrique le contrôleur.</GR_CraftController.jobString>
+
+<GR_CraftControllerBulk.label>fabriquer un contrôleur x5</GR_CraftControllerBulk.label>
+<GR_CraftControllerBulk.description>Fabriquer 5 contrôleurs.</GR_CraftControllerBulk.description>
+<GR_CraftControllerBulk.jobString>Fabrique les contrôleurs.</GR_CraftControllerBulk.jobString>
+
+<GR_CraftGenomeExcavator.label>fabriquer un excavateur de génome</GR_CraftGenomeExcavator.label>
+<GR_CraftGenomeExcavator.description>Fabriquer un excavateur de génome pour extraire les génomes d'animaux apprivoisés ou morts. Cet excavateur permet d'extraire les génomes de niveau 1 et de niveau 2.</GR_CraftGenomeExcavator.description>
+<GR_CraftGenomeExcavator.jobString>Fabrique l'excavateur de génome.</GR_CraftGenomeExcavator.jobString>
+
+<GR_GenoframeAwfulRecipe.label>fabriquer un génocadre (horrible)</GR_GenoframeAwfulRecipe.label>
+<GR_GenoframeAwfulRecipe.description>Fabriquer un génocadre de qualité horrible à partir de cadavres d'animaux.</GR_GenoframeAwfulRecipe.description>
+<GR_GenoframeAwfulRecipe.jobString>Fabrique le génocadre.</GR_GenoframeAwfulRecipe.jobString>
+
+<GR_GenoframePoorRecipe.label>fabriquer un génocadre (mauvais)</GR_GenoframePoorRecipe.label>
+<GR_GenoframePoorRecipe.description>Fabriquer un génocadre de qualité mauvaise à partir de deux génocadres de qualité horrible.</GR_GenoframePoorRecipe.description>
+<GR_GenoframePoorRecipe.jobString>Fabrique le génocadre.</GR_GenoframePoorRecipe.jobString>
+
+<GR_GenoframeNormalRecipe.label>fabriquer un génocadre (normal)</GR_GenoframeNormalRecipe.label>
+<GR_GenoframeNormalRecipe.description>Fabriquer un génocadre de qualité normale à partir de deux génocadres de qualité mauvaise.</GR_GenoframeNormalRecipe.description>
+<GR_GenoframeNormalRecipe.jobString>Fabrique le génocadre.</GR_GenoframeNormalRecipe.jobString>
+
+<GR_GenoframeGoodRecipe.label>fabriquer un génocadre (bon)</GR_GenoframeGoodRecipe.label>
+<GR_GenoframeGoodRecipe.description>Fabriquer un génocadre de qualité bonne à partir de deux génocadres de qualité normale.</GR_GenoframeGoodRecipe.description>
+<GR_GenoframeGoodRecipe.jobString>Fabrique le génocadre.</GR_GenoframeGoodRecipe.jobString>
+
+<GR_GenoframeExcellentRecipe.label>fabriquer un génocadre (excellent)</GR_GenoframeExcellentRecipe.label>
+<GR_GenoframeExcellentRecipe.description>Fabriquer un génocadre de qualité excellente à partir de deux génocadres de qualité bonne.</GR_GenoframeExcellentRecipe.description>
+<GR_GenoframeExcellentRecipe.jobString>Fabrique le génocadre.</GR_GenoframeExcellentRecipe.jobString>
+
+<GR_GenoframeMasterworkRecipe.label>fabriquer un génocadre (chef-d'œuvre)</GR_GenoframeMasterworkRecipe.label>
+<GR_GenoframeMasterworkRecipe.description>Fabriquer un génocadre de qualité chef-d'œuvre à partir de deux génocadres de qualité excellente.</GR_GenoframeMasterworkRecipe.description>
+<GR_GenoframeMasterworkRecipe.jobString>Fabrique le génocadre.</GR_GenoframeMasterworkRecipe.jobString>
+
+<GR_GenoframeLegendaryRecipe.label>fabriquer un génocadre (légendaire)</GR_GenoframeLegendaryRecipe.label>
+<GR_GenoframeLegendaryRecipe.description>Fabriquer un génocadre de qualité légendaire à partir de deux génocadres de qualité chef-d'œuvres.</GR_GenoframeLegendaryRecipe.description>
+<GR_GenoframeLegendaryRecipe.jobString>Fabrique le génocadre.</GR_GenoframeLegendaryRecipe.jobString>
+
+<GR_ExtractGenesBear.label>extraire des gènes ursidés</GR_ExtractGenesBear.label>
+<GR_ExtractGenesBear.description>Extraire du matériel génétique d'un cadavre d'ursidé.</GR_ExtractGenesBear.description>
+<GR_ExtractGenesBear.jobString>Extrait les gènes ursidés.</GR_ExtractGenesBear.jobString>
+
+<GR_ExtractGenesBird.label>extraire des gènes aviaires</GR_ExtractGenesBird.label>
+<GR_ExtractGenesBird.description>Extraire du matériel génétique de n'importe quel cadavre aviaire.</GR_ExtractGenesBird.description>
+<GR_ExtractGenesBird.jobString>Extrait les gènes aviaires.</GR_ExtractGenesBird.jobString>
+
+<GR_ExtractGenesBoomalope.label>extraire des gènes boom</GR_ExtractGenesBoomalope.label>
+<GR_ExtractGenesBoomalope.description>Extraire du matériel génétique d'un cadavre d'animal boom.</GR_ExtractGenesBoomalope.description>
+<GR_ExtractGenesBoomalope.jobString>Extrait les gènes boom.</GR_ExtractGenesBoomalope.jobString>
+
+<GR_ExtractGenesMuffalo.label>extraire des gènes muffalo</GR_ExtractGenesMuffalo.label>
+<GR_ExtractGenesMuffalo.description>Extraire du matériel génétique d'un cadavre de muffalo, bison ou yak.</GR_ExtractGenesMuffalo.description>
+<GR_ExtractGenesMuffalo.jobString>Extrait les gènes muffalo.</GR_ExtractGenesMuffalo.jobString>
+
+<GR_ExtractGenesCanine.label>extraire des gènes canins</GR_ExtractGenesCanine.label>
+<GR_ExtractGenesCanine.description>Extraire du matériel génétique d'un cadavre de loup, warg, chien ou toute autre espèce canine.</GR_ExtractGenesCanine.description>
+<GR_ExtractGenesCanine.jobString>Extrait les gènes canins.</GR_ExtractGenesCanine.jobString>
+
+<GR_ExtractGenesRodent.label>extraire des gènes rongeurs/léporidés</GR_ExtractGenesRodent.label>
+<GR_ExtractGenesRodent.description>Extraire du matériel génétique d'un cadavre de rongeur ou léporidé.</GR_ExtractGenesRodent.description>
+<GR_ExtractGenesRodent.jobString>Extrait les gènes rongeurs.</GR_ExtractGenesRodent.jobString>
+
+<GR_ExtractGenesFeline.label>extraire des gènes félins</GR_ExtractGenesFeline.label>
+<GR_ExtractGenesFeline.description>Extraire du matériel génétique d'un cadavre de félin.</GR_ExtractGenesFeline.description>
+<GR_ExtractGenesFeline.jobString>Extrait les gènes félins.</GR_ExtractGenesFeline.jobString>
+
+<GR_ExtractGenesHuman.label>extraire des gènes humanoïdes</GR_ExtractGenesHuman.label>
+<GR_ExtractGenesHuman.description>Extraire du matériel génétique d'un cadavre humanoïde.</GR_ExtractGenesHuman.description>
+<GR_ExtractGenesHuman.jobString>Extrait les gènes humanoïdes.</GR_ExtractGenesHuman.jobString>
+
+<GR_BearLeg.label>implant animal : patte d'ours</GR_BearLeg.label>
+<GR_BearLeg.description>Fabriquer un implant animal : patte d'ours.</GR_BearLeg.description>
+<GR_BearLeg.jobString>Fabrique l'implant patte d'ours.</GR_BearLeg.jobString>
+
+<GR_LizardLeg.label>implant animal : patte de lézard</GR_LizardLeg.label>
+<GR_LizardLeg.description>Fabriquer un implant animal : patte de lézard.</GR_LizardLeg.description>
+<GR_LizardLeg.jobString>Fabrique l'implant patte de lézard.</GR_LizardLeg.jobString>
+
+<GR_ThrumboLeg.label>implant animal : patte d'éléphant</GR_ThrumboLeg.label>
+<GR_ThrumboLeg.description>Fabriquer un implant animal : patte d'éléphant.</GR_ThrumboLeg.description>
+<GR_ThrumboLeg.jobString>Fabrique l'implant patte d'éléphant.</GR_ThrumboLeg.jobString>
+
+<GR_CatTail.label>implant animal : queue de chat</GR_CatTail.label>
+<GR_CatTail.description>Fabriquer un implant animal : queue de chat.</GR_CatTail.description>
+<GR_CatTail.jobString>Fabrique l'implant queue de chat.</GR_CatTail.jobString>
+
+<GR_ScytherTail.label>implant animal : queue de faucheur</GR_ScytherTail.label>
+<GR_ScytherTail.description>Fabriquer un implant animal : queue de faucheur.</GR_ScytherTail.description>
+<GR_ScytherTail.jobString>Fabrique l'implant queue de faucheur.</GR_ScytherTail.jobString>
+
+<GR_MechaTail.label>implant animal : queue renforcée</GR_MechaTail.label>
+<GR_MechaTail.description>Fabriquer un implant animal : queue renforcée.</GR_MechaTail.description>
+<GR_MechaTail.jobString>Fabrique l'implant queue renforcée.</GR_MechaTail.jobString>
+
+<GR_CanidEye.label>implant animal : œil de canidé</GR_CanidEye.label>
+<GR_CanidEye.description>Fabriquer un implant animal : œil de canidé.</GR_CanidEye.description>
+<GR_CanidEye.jobString>Fabrique l'implant œil de canidé.</GR_CanidEye.jobString>
+
+<GR_InsectileEye.label>implant animal : œil insectoïde</GR_InsectileEye.label>
+<GR_InsectileEye.description>Fabriquer un implant animal : œil insectoïde.</GR_InsectileEye.description>
+<GR_InsectileEye.jobString>Fabrique l'implant œil insectoïde.</GR_InsectileEye.jobString>
+
+<GR_ThrumboEye.label>implant animal : œil bionique de thrumbo</GR_ThrumboEye.label>
+<GR_ThrumboEye.description>Fabriquer un implant animal : œil bionique de thrumbo.</GR_ThrumboEye.description>
+<GR_ThrumboEye.jobString>Fabrique l'implant œil bionique de thrumbo.</GR_ThrumboEye.jobString>
+
+<GR_RodentEar.label>implant animal : oreille de rongeur</GR_RodentEar.label>
+<GR_RodentEar.description>Fabriquer un implant animal : oreille de rongeur.</GR_RodentEar.description>
+<GR_RodentEar.jobString>Fabrique l'implant oreille de rongeur.</GR_RodentEar.jobString>
+
+<GR_MothTympanalOrgan.label>implant animal : organe de tympan papillon</GR_MothTympanalOrgan.label>
+<GR_MothTympanalOrgan.description>Fabriquer un implant animal : organe de tympan papillon.</GR_MothTympanalOrgan.description>
+<GR_MothTympanalOrgan.jobString>Fabrique l'implant organe de tympan papillon.</GR_MothTympanalOrgan.jobString>
+
+<GR_MechaReceptors.label>implant animal : récepteur auditif d'éléphant</GR_MechaReceptors.label>
+<GR_MechaReceptors.description>Fabriquer un implant animal : récepteur auditif d'éléphant.</GR_MechaReceptors.description>
+<GR_MechaReceptors.jobString>Fabrique l'implant récepteur auditif d'éléphant.</GR_MechaReceptors.jobString>
+
+<GR_RodentNose.label>implant animal : nez de rongeur</GR_RodentNose.label>
+<GR_RodentNose.description>Fabriquer un implant animal : nez de rongeur.</GR_RodentNose.description>
+<GR_RodentNose.jobString>Fabrique l'implant nez de rongeur.</GR_RodentNose.jobString>
+
+<GR_InsectoidPheromones.label>implant animal : phéromones insectoïdes</GR_InsectoidPheromones.label>
+<GR_InsectoidPheromones.description>Fabriquer un implant animal : phéromones insectoïdes.</GR_InsectoidPheromones.description>
+<GR_InsectoidPheromones.jobString>Fabrique l'implant phéromones insectoïdes.</GR_InsectoidPheromones.jobString>
+
+<GR_MiniatureThrumboHorn.label>implant animal : petite corne de thrumbo</GR_MiniatureThrumboHorn.label>
+<GR_MiniatureThrumboHorn.description>Fabriquer un implant animal : petite corne de thrumbo.</GR_MiniatureThrumboHorn.description>
+<GR_MiniatureThrumboHorn.jobString>Fabrique l'implant petite corne de thrumbo.</GR_MiniatureThrumboHorn.jobString>
+
+<GR_WolfJaws.label>implant animal : crocs de loup</GR_WolfJaws.label>
+<GR_WolfJaws.description>Fabriquer un implant animal : crocs de loup.</GR_WolfJaws.description>
+<GR_WolfJaws.jobString>Fabrique l'implant crocs de loup.</GR_WolfJaws.jobString>
+
+<GR_InsectMandibles.label>implant animal : mandibules d'insecte</GR_InsectMandibles.label>
+<GR_InsectMandibles.description>Fabriquer un implant animal : mandibules d'insecte.</GR_InsectMandibles.description>
+<GR_InsectMandibles.jobString>Fabrique l'implant mandibules d'insecte.</GR_InsectMandibles.jobString>
+
+<GR_ThrumboJaws.label>implant animal : mâchoire bionique de thrumbo</GR_ThrumboJaws.label>
+<GR_ThrumboJaws.description>Fabriquer un implant animal : mâchoire bionique de thrumbo.</GR_ThrumboJaws.description>
+<GR_ThrumboJaws.jobString>Fabrique l'implant mâchoire bionique de thrumbo.</GR_ThrumboJaws.jobString>
+
+<GR_MuffaloSpine.label>implant animal : colonne vertébrale de muffalo</GR_MuffaloSpine.label>
+<GR_MuffaloSpine.description>Fabriquer un implant animal : colonne vertébrale de muffalo.</GR_MuffaloSpine.description>
+<GR_MuffaloSpine.jobString>Fabrique l'implant colonne vertébrale de muffalo.</GR_MuffaloSpine.jobString>
+
+<GR_CrocodileSpine.label>implant animal : colonne vertébrale de crocodile</GR_CrocodileSpine.label>
+<GR_CrocodileSpine.description>Fabriquer un implant animal : colonne vertébrale de crocodile.</GR_CrocodileSpine.description>
+<GR_CrocodileSpine.jobString>Fabrique l'implant colonne vertébrale de crocodile.</GR_CrocodileSpine.jobString>
+
+<GR_MechaSpine.label>implant animal : colonne vertébrale bionique renforcée</GR_MechaSpine.label>
+<GR_MechaSpine.description>Fabriquer un implant animal : colonne vertébrale bionique renforcée.</GR_MechaSpine.description>
+<GR_MechaSpine.jobString>Fabrique l'implant colonne vertébrale bionique renforcée.</GR_MechaSpine.jobString>
+
+<GR_ChickenBrains.label>implant animal : cerveau de poulet</GR_ChickenBrains.label>
+<GR_ChickenBrains.description>Fabriquer un implant animal : cerveau de poulet.</GR_ChickenBrains.description>
+<GR_ChickenBrains.jobString>Fabrique l'implant cerveau de poulet.</GR_ChickenBrains.jobString>
+
+<GR_MonitorLizardBrain.label>implant animal : cerveau de lézard</GR_MonitorLizardBrain.label>
+<GR_MonitorLizardBrain.description>Fabriquer un implant animal : cerveau de lézard.</GR_MonitorLizardBrain.description>
+<GR_MonitorLizardBrain.jobString>Fabrique l'implant cerveau de lézard.</GR_MonitorLizardBrain.jobString>
+
+<GR_ThrumboBrain.label>implant animal : cerveau bionique thrumbo</GR_ThrumboBrain.label>
+<GR_ThrumboBrain.description>Fabriquer un implant animal : cerveau bionique thrumbo.</GR_ThrumboBrain.description>
+<GR_ThrumboBrain.jobString>Fabrique l'implant cerveau bionique thrumbo.</GR_ThrumboBrain.jobString>
+
+<GR_BoomalopeHeart.label>implant animal : cœur de boomalope</GR_BoomalopeHeart.label>
+<GR_BoomalopeHeart.description>Fabriquer un implant animal : cœur de boomalope.</GR_BoomalopeHeart.description>
+<GR_BoomalopeHeart.jobString>Fabrique l'implant cœur de boomalope.</GR_BoomalopeHeart.jobString>
+
+<GR_ChitinousHeart.label>implant animal : cœur chitineux</GR_ChitinousHeart.label>
+<GR_ChitinousHeart.description>Fabriquer un implant animal : cœur chitineux.</GR_ChitinousHeart.description>
+<GR_ChitinousHeart.jobString>Fabrique l'implant cœur chitineux.</GR_ChitinousHeart.jobString>
+
+<GR_MechaHeart.label>implant animal : cœur bionique renforcé</GR_MechaHeart.label>
+<GR_MechaHeart.description>Fabriquer un implant animal : cœur bionique renforcé.</GR_MechaHeart.description>
+<GR_MechaHeart.jobString>Fabrique l'implant cœur bionique renforcé.</GR_MechaHeart.jobString>
+
+<GR_MuffaloLung.label>implant animal : poumon de muffalo</GR_MuffaloLung.label>
+<GR_MuffaloLung.description>Fabriquer un implant animal : poumon de muffalo.</GR_MuffaloLung.description>
+<GR_MuffaloLung.jobString>Fabrique l'implant poumon de muffalo.</GR_MuffaloLung.jobString>
+
+<GR_BearLiver.label>implant animal : foie d'ours</GR_BearLiver.label>
+<GR_BearLiver.description>Fabriquer un implant animal : foie d'ours.</GR_BearLiver.description>
+<GR_BearLiver.jobString>Fabrique l'implant foie d'ours.</GR_BearLiver.jobString>
+
+<GR_ChickenKidney.label>implant animal : rein de poulet</GR_ChickenKidney.label>
+<GR_ChickenKidney.description>Fabriquer un implant animal : rein de poulet.</GR_ChickenKidney.description>
+<GR_ChickenKidney.jobString>Fabrique l'implant rein de poulet.</GR_ChickenKidney.jobString>
+
+<GR_BoomalopeStomach.label>implant animal : estomac de boomalope</GR_BoomalopeStomach.label>
+<GR_BoomalopeStomach.description>Fabriquer un implant animal : estomac de boomalope.</GR_BoomalopeStomach.description>
+<GR_BoomalopeStomach.jobString>Fabrique l'implant estomac de boomalope.</GR_BoomalopeStomach.jobString>
+
+<GR_CraftBearClaws.label>implant humain : griffes d'ours</GR_CraftBearClaws.label>
+<GR_CraftBearClaws.description>Fabriquer un implant humain : griffes d'ours.</GR_CraftBearClaws.description>
+<GR_CraftBearClaws.jobString>Fabrique l'implant griffes d'ours.</GR_CraftBearClaws.jobString>
+
+<GR_CraftDiggingBearClaws.label>implant humain : griffes de taupe</GR_CraftDiggingBearClaws.label>
+<GR_CraftDiggingBearClaws.description>Fabriquer un implant humain : griffes de taupe.</GR_CraftDiggingBearClaws.description>
+<GR_CraftDiggingBearClaws.jobString>Fabrique l'implant griffes de taupe.</GR_CraftDiggingBearClaws.jobString>
+
+<GR_CraftBearMuscleTissue.label>implant humain : tissu musculaire d'ours</GR_CraftBearMuscleTissue.label>
+<GR_CraftBearMuscleTissue.description>Fabriquer un implant humain : tissu musculaire d'ours.</GR_CraftBearMuscleTissue.description>
+<GR_CraftBearMuscleTissue.jobString>Fabrique l'implant tissu musculaire d'ours.</GR_CraftBearMuscleTissue.jobString>
+
+<GR_CraftHibernationModule.label>implant humain : module d'hibernation</GR_CraftHibernationModule.label>
+<GR_CraftHibernationModule.description>Fabriquer un implant humain : module d'hibernation.</GR_CraftHibernationModule.description>
+<GR_CraftHibernationModule.jobString>Fabrique l'implant module d'hibernation.</GR_CraftHibernationModule.jobString>
+
+<GR_CraftOvipositor.label>implant humain : ovipare</GR_CraftOvipositor.label>
+<GR_CraftOvipositor.description>Fabriquer un implant humain : ovipare.</GR_CraftOvipositor.description>
+<GR_CraftOvipositor.jobString>Fabrique l'implant ovipare.</GR_CraftOvipositor.jobString>
+
+<GR_CraftMuffaloMuscles.label>implant humain : muscle renforcé du muffalo</GR_CraftMuffaloMuscles.label>
+<GR_CraftMuffaloMuscles.description>Fabriquer un implant humain : muscle renforcé du muffalo.</GR_CraftMuffaloMuscles.description>
+<GR_CraftMuffaloMuscles.jobString>Fabrique l'implant muscle renforcé du muffalo.</GR_CraftMuffaloMuscles.jobString>
+
+<GR_CraftMuffaloMammaries.label>implant humain : mamelles de muffalo</GR_CraftMuffaloMammaries.label>
+<GR_CraftMuffaloMammaries.description>Fabriquer un implant humain : mamelles de muffalo.</GR_CraftMuffaloMammaries.description>
+<GR_CraftMuffaloMammaries.jobString>Fabrique l'implant mamelles de muffalo.</GR_CraftMuffaloMammaries.jobString>
+
+<GR_CraftMuffaloSkin.label>implant humain : peau de muffalo</GR_CraftMuffaloSkin.label>
+<GR_CraftMuffaloSkin.description>Fabriquer un implant humain : peau de muffalo.</GR_CraftMuffaloSkin.description>
+<GR_CraftMuffaloSkin.jobString>Fabrique l'implant peau de muffalo.</GR_CraftMuffaloSkin.jobString>
+
+<GR_CraftBoomalopeNodules.label>implant humain : nodules de boomalope</GR_CraftBoomalopeNodules.label>
+<GR_CraftBoomalopeNodules.description>Fabriquer un implant humain : nodules de boomalope.</GR_CraftBoomalopeNodules.description>
+<GR_CraftBoomalopeNodules.jobString>Fabrique l'implant nodules de boomalope.</GR_CraftBoomalopeNodules.jobString>
+
+<GR_CraftChemfuelStomach.label>implant humain : estomac chemfuel</GR_CraftChemfuelStomach.label>
+<GR_CraftChemfuelStomach.description>Fabriquer un implant humain : estomac chemfuel.</GR_CraftChemfuelStomach.description>
+<GR_CraftChemfuelStomach.jobString>Fabrique l'implant estomac chemfuel.</GR_CraftChemfuelStomach.jobString>
+
+<GR_CraftChemfuelHeart.label>implant humain : cœur chemfuel</GR_CraftChemfuelHeart.label>
+<GR_CraftChemfuelHeart.description>Fabriquer un implant humain : cœur chemfuel.</GR_CraftChemfuelHeart.description>
+<GR_CraftChemfuelHeart.jobString>Fabrique l'implant cœur chemfuel.</GR_CraftChemfuelHeart.jobString>
+
+<GR_CraftWolfMuscularFibers.label>implant humain : fibres musculaires de loup</GR_CraftWolfMuscularFibers.label>
+<GR_CraftWolfMuscularFibers.description>Fabriquer un implant humain : fibres musculaires de loup.</GR_CraftWolfMuscularFibers.description>
+<GR_CraftWolfMuscularFibers.jobString>Fabrique l'implant fibres musculaires de loup.</GR_CraftWolfMuscularFibers.jobString>
+
+<GR_CraftDevouringJaws.label>implant humain : mâchoire dévorante</GR_CraftDevouringJaws.label>
+<GR_CraftDevouringJaws.description>Fabriquer un implant humain : mâchoire dévorante.</GR_CraftDevouringJaws.description>
+<GR_CraftDevouringJaws.jobString>Fabrique l'implant mâchoire dévorante.</GR_CraftDevouringJaws.jobString>
+
+<GR_CraftNeuronReinforcement.label>implant humain : renforcement neuronal</GR_CraftNeuronReinforcement.label>
+<GR_CraftNeuronReinforcement.description>Fabriquer un implant humain : renforcement neuronal.</GR_CraftNeuronReinforcement.description>
+<GR_CraftNeuronReinforcement.jobString>Fabrique l'implant renforcement neuronal.</GR_CraftNeuronReinforcement.jobString>
+
+<GR_CraftMousePheromones.label>implant humain : phéromones de souris</GR_CraftMousePheromones.label>
+<GR_CraftMousePheromones.description>Fabriquer un implant humain : phéromones de souris.</GR_CraftMousePheromones.description>
+<GR_CraftMousePheromones.jobString>Fabrique l'implant phéromones de souris.</GR_CraftMousePheromones.jobString>
+
+<GR_CraftMoleratNerveDampener.label>implant humain : amortisseur de nerfs de rat taupe</GR_CraftMoleratNerveDampener.label>
+<GR_CraftMoleratNerveDampener.description>Fabriquer un implant humain : amortisseur de nerfs de rat taupe.</GR_CraftMoleratNerveDampener.description>
+<GR_CraftMoleratNerveDampener.jobString>Fabrique l'implant amortisseur de nerfs de rat taupe.</GR_CraftMoleratNerveDampener.jobString>
+
+<GR_CraftBunnyEars.label>implant humain : oreille de lapin</GR_CraftBunnyEars.label>
+<GR_CraftBunnyEars.description>Fabriquer un implant humain : oreille de lapin.</GR_CraftBunnyEars.description>
+<GR_CraftBunnyEars.jobString>Fabrique l'implant oreille de lapin.</GR_CraftBunnyEars.jobString>
+
+<GR_CraftCompoundEye.label>implant humain : œil compulsif</GR_CraftCompoundEye.label>
+<GR_CraftCompoundEye.description>Fabriquer un implant humain : œil compulsif.</GR_CraftCompoundEye.description>
+<GR_CraftCompoundEye.jobString>Fabrique l'implant œil compulsif.</GR_CraftCompoundEye.jobString>
+
+<GR_CraftCatEye.label>implant humain : œil de chat</GR_CraftCatEye.label>
+<GR_CraftCatEye.description>Fabriquer un implant humain : œil de chat.</GR_CraftCatEye.description>
+<GR_CraftCatEye.jobString>Fabrique l'implant œil de chat.</GR_CraftCatEye.jobString>
+
+<GR_CraftInsectoidAntennae.label>implant humain : antennes d'insectoïde</GR_CraftInsectoidAntennae.label>
+<GR_CraftInsectoidAntennae.description>Fabriquer un implant humain : antennes d'insectoïde.</GR_CraftInsectoidAntennae.description>
+<GR_CraftInsectoidAntennae.jobString>Fabrique l'implant antennes d'insectoïde.</GR_CraftInsectoidAntennae.jobString>
+
+<GR_CraftPsychicDampeners.label>implant humain : amortisseurs psychiques</GR_CraftPsychicDampeners.label>
+<GR_CraftPsychicDampeners.description>Fabriquer un implant humain : amortisseurs psychiques.</GR_CraftPsychicDampeners.description>
+<GR_CraftPsychicDampeners.jobString>Fabrique l'implant amortisseurs psychiques.</GR_CraftPsychicDampeners.jobString>
+
+<GR_CraftKidneyToxicFilters.label>implant humain : filtres toxiques pour rein</GR_CraftKidneyToxicFilters.label>
+<GR_CraftKidneyToxicFilters.description>Fabriquer un implant humain : filtres toxiques pour rein.</GR_CraftKidneyToxicFilters.description>
+<GR_CraftKidneyToxicFilters.jobString>Fabrique l'implant filtres toxiques pour rein.</GR_CraftKidneyToxicFilters.jobString>
+
+<GR_CraftHumanThrumboHorn.label>implant humain : corne de thrumbo</GR_CraftHumanThrumboHorn.label>
+<GR_CraftHumanThrumboHorn.description>Fabriquer un implant humain : corne de thrumbo.</GR_CraftHumanThrumboHorn.description>
+<GR_CraftHumanThrumboHorn.jobString>Fabrique l'implant corne de thrumbo.</GR_CraftHumanThrumboHorn.jobString>
+
+<GR_CraftThrumboSkin.label>implant humain : peau de thrumbo</GR_CraftThrumboSkin.label>
+<GR_CraftThrumboSkin.description>Fabriquer un implant humain : peau de thrumbo.</GR_CraftThrumboSkin.description>
+<GR_CraftThrumboSkin.jobString>Fabrique l'implant peau de thrumbo.</GR_CraftThrumboSkin.jobString>
+
+<GR_CraftVenomousFangs.label>implant humain : crocs venimeux</GR_CraftVenomousFangs.label>
+<GR_CraftVenomousFangs.description>Fabriquer un implant humain : crocs venimeux.</GR_CraftVenomousFangs.description>
+<GR_CraftVenomousFangs.jobString>Fabrique l'implant crocs venimeux.</GR_CraftVenomousFangs.jobString>
+
+<GR_CraftIguanaScales.label>implant humain : écailles d'iguane</GR_CraftIguanaScales.label>
+<GR_CraftIguanaScales.description>Fabriquer un implant humain : écailles d'iguane.</GR_CraftIguanaScales.description>
+<GR_CraftIguanaScales.jobString>Fabrique l'implant écailles d'iguane.</GR_CraftIguanaScales.jobString>
+
+<GR_ExtractMilkFromMilks.label>extraire du lait à partir de lait d'hybride</GR_ExtractMilkFromMilks.label>
+<GR_ExtractMilkFromMilks.description>Extraire du lait ordinaire à partir de laits d'hybrides, en conservant la valeur nutritionnelle mais en perdant les particularités.</GR_ExtractMilkFromMilks.description>
+<GR_ExtractMilkFromMilks.jobString>Extrait le lait.</GR_ExtractMilkFromMilks.jobString>
+
+<GR_CreateTemplateGenome.label>Fabriquer un génome vierge</GR_CreateTemplateGenome.label>
+<GR_CreateTemplateGenome.description>Fabriquer un génome vierge.</GR_CreateTemplateGenome.description>
+<GR_CreateTemplateGenome.jobString>Recombine les génomes.</GR_CreateTemplateGenome.jobString>
+
+<GR_DuplicateUrsineGenome.label>dupliquer un génome ursidé</GR_DuplicateUrsineGenome.label>
+<GR_DuplicateUrsineGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateUrsineGenome.description>
+<GR_DuplicateUrsineGenome.jobString>Recombine les génomes.</GR_DuplicateUrsineGenome.jobString>
+
+<GR_DuplicateAvianGenome.label>dupliquer un génome aviaire</GR_DuplicateAvianGenome.label>
+<GR_DuplicateAvianGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateAvianGenome.description>
+<GR_DuplicateAvianGenome.jobString>Recombine les génomes.</GR_DuplicateAvianGenome.jobString>
+
+<GR_DuplicateBoomalopeGenome.label>dupliquer un génome boom</GR_DuplicateBoomalopeGenome.label>
+<GR_DuplicateBoomalopeGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateBoomalopeGenome.description>
+<GR_DuplicateBoomalopeGenome.jobString>Recombine les génomes.</GR_DuplicateBoomalopeGenome.jobString>
+
+<GR_DuplicateMuffaloGenome.label>dupliquer un génome muffalo</GR_DuplicateMuffaloGenome.label>
+<GR_DuplicateMuffaloGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateMuffaloGenome.description>
+<GR_DuplicateMuffaloGenome.jobString>Recombine les génomes.</GR_DuplicateMuffaloGenome.jobString>
+
+<GR_DuplicateCanineGenome.label>dupliquer un génome canin</GR_DuplicateCanineGenome.label>
+<GR_DuplicateCanineGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateCanineGenome.description>
+<GR_DuplicateCanineGenome.jobString>Recombine les génomes.</GR_DuplicateCanineGenome.jobString>
+
+<GR_DuplicateRodentGenome.label>dupliquer un génome rongeur/léporidé</GR_DuplicateRodentGenome.label>
+<GR_DuplicateRodentGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateRodentGenome.description>
+<GR_DuplicateRodentGenome.jobString>Recombine les génomes.</GR_DuplicateRodentGenome.jobString>
+
+<GR_DuplicateFelineGenome.label>dupliquer un génome félin</GR_DuplicateFelineGenome.label>
+<GR_DuplicateFelineGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateFelineGenome.description>
+<GR_DuplicateFelineGenome.jobString>Recombine les génomes.</GR_DuplicateFelineGenome.jobString>
+
+<GR_DuplicateEquineGenome.label>dupliquer un génome équidé</GR_DuplicateEquineGenome.label>
+<GR_DuplicateEquineGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateEquineGenome.description>
+<GR_DuplicateEquineGenome.jobString>Recombine les génomes.</GR_DuplicateEquineGenome.jobString>
+
+<GR_DuplicateInsectoidGenome.label>dupliquer un génome insectoïde</GR_DuplicateInsectoidGenome.label>
+<GR_DuplicateInsectoidGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateInsectoidGenome.description>
+<GR_DuplicateInsectoidGenome.jobString>Recombine les génomes.</GR_DuplicateInsectoidGenome.jobString>
+
+<GR_DuplicateReptileGenome.label>dupliquer un génome reptilien</GR_DuplicateReptileGenome.label>
+<GR_DuplicateReptileGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateReptileGenome.description>
+<GR_DuplicateReptileGenome.jobString>Recombine les génomes.</GR_DuplicateReptileGenome.jobString>
+
+<GR_DuplicateHumanoidGenome.label>dupliquer un génome humanoïde</GR_DuplicateHumanoidGenome.label>
+<GR_DuplicateHumanoidGenome.description>Dupliquer un génome en utilisant un modèle vierge.</GR_DuplicateHumanoidGenome.description>
+<GR_DuplicateHumanoidGenome.jobString>Recombine les génomes.</GR_DuplicateHumanoidGenome.jobString>
+
+<GR_ExtractMechaMilk.label>traitement du lait mécanoïde</GR_ExtractMechaMilk.label>
+<GR_ExtractMechaMilk.description>Extraire des matériaux utiles du lait mécanoïde.</GR_ExtractMechaMilk.description>
+<GR_ExtractMechaMilk.jobString>Extrait les matériaux du lait mécanoïde.</GR_ExtractMechaMilk.jobString>
+
+<GR_InstallBearLeg.label>&lt;color=#E89D1B&gt;installer un implant animal : patte d'ours&lt;/color&gt;</GR_InstallBearLeg.label>
+<GR_InstallBearLeg.description>Installer un implant patte d'ours.</GR_InstallBearLeg.description>
+<GR_InstallBearLeg.jobString>Installe l'implant patte d'ours.</GR_InstallBearLeg.jobString>
+
+<GR_InstallLizardLeg.label>&lt;color=#E89D1B&gt;installer un implant animal : patte de lézard&lt;/color&gt;</GR_InstallLizardLeg.label>
+<GR_InstallLizardLeg.description>Installer un implant patte de lézard.</GR_InstallLizardLeg.description>
+<GR_InstallLizardLeg.jobString>Installe l'implant patte de lézard.</GR_InstallLizardLeg.jobString>
+
+<GR_InstallThrumboLeg.label>&lt;color=#E89D1B&gt;installer un implant animal : patte d'éléphant&lt;/color&gt;</GR_InstallThrumboLeg.label>
+<GR_InstallThrumboLeg.description>Installer un implant patte d'éléphant.</GR_InstallThrumboLeg.description>
+<GR_InstallThrumboLeg.jobString>Installe l'implant patte d'éléphant.</GR_InstallThrumboLeg.jobString>
+
+<GR_InstallCatTail.label>&lt;color=#E89D1B&gt;installer un implant animal : queue de chat&lt;/color&gt;</GR_InstallCatTail.label>
+<GR_InstallCatTail.description>Installer un implant queue de chat.</GR_InstallCatTail.description>
+<GR_InstallCatTail.jobString>Installe l'implant queue de chat.</GR_InstallCatTail.jobString>
+
+<GR_InstallScytherTail.label>&lt;color=#E89D1B&gt;installer un implant animal : queue de faucheur&lt;/color&gt;</GR_InstallScytherTail.label>
+<GR_InstallScytherTail.description>Installer un implant ueue de faucheur.</GR_InstallScytherTail.description>
+<GR_InstallScytherTail.jobString>Installe l'implant ueue de faucheur.</GR_InstallScytherTail.jobString>
+
+<GR_InstallMechaTail.label>&lt;color=#E89D1B&gt;installer un implant animal : queue renforcée&lt;/color&gt;</GR_InstallMechaTail.label>
+<GR_InstallMechaTail.description>Installer un implant queue renforcée.</GR_InstallMechaTail.description>
+<GR_InstallMechaTail.jobString>Installe l'implant queue renforcée.</GR_InstallMechaTail.jobString>
+
+<GR_InstallCanidEye.label>&lt;color=#E89D1B&gt;installer un implant animal : œil de canidé&lt;/color&gt;</GR_InstallCanidEye.label>
+<GR_InstallCanidEye.description>Installer un implant œil de canidé.</GR_InstallCanidEye.description>
+<GR_InstallCanidEye.jobString>Installe l'implant œil de canidé.</GR_InstallCanidEye.jobString>
+
+<GR_InstallInsectileEye.label>&lt;color=#E89D1B&gt;installer un implant animal : œil insectoïde&lt;/color&gt;</GR_InstallInsectileEye.label>
+<GR_InstallInsectileEye.description>Installer un implant œil insectoïde.</GR_InstallInsectileEye.description>
+<GR_InstallInsectileEye.jobString>Installe l'implant œil insectoïde.</GR_InstallInsectileEye.jobString>
+
+<GR_InstallThrumboEye.label>&lt;color=#E89D1B&gt;installer un implant animal : œil bionique de thrumbo&lt;/color&gt;</GR_InstallThrumboEye.label>
+<GR_InstallThrumboEye.description>Installer un implant œil bionique de thrumbo.</GR_InstallThrumboEye.description>
+<GR_InstallThrumboEye.jobString>Installe l'implant œil bionique de thrumbo.</GR_InstallThrumboEye.jobString>
+
+<GR_InstallRodentEar.label>&lt;color=#E89D1B&gt;installer un implant animal : oreille de rongeur&lt;/color&gt;</GR_InstallRodentEar.label>
+<GR_InstallRodentEar.description>Installer un implant oreille de rongeur.</GR_InstallRodentEar.description>
+<GR_InstallRodentEar.jobString>Installe l'implant oreille de rongeur.</GR_InstallRodentEar.jobString>
+
+<GR_InstallMothTympanalOrgan.label>&lt;color=#E89D1B&gt;installer un implant animal : organe de tympan papillon&lt;/color&gt;</GR_InstallMothTympanalOrgan.label>
+<GR_InstallMothTympanalOrgan.description>Installer un implant organe de tympan papillon.</GR_InstallMothTympanalOrgan.description>
+<GR_InstallMothTympanalOrgan.jobString>Installe l'implant organe de tympan papillon.</GR_InstallMothTympanalOrgan.jobString>
+
+<GR_InstallMechaReceptors.label>&lt;color=#E89D1B&gt;installer un implant animal : récepteur auditif d'éléphant&lt;/color&gt;</GR_InstallMechaReceptors.label>
+<GR_InstallMechaReceptors.description>Installer un implant récepteur auditif d'éléphant.</GR_InstallMechaReceptors.description>
+<GR_InstallMechaReceptors.jobString>Installe l'implant récepteur auditif d'éléphant.</GR_InstallMechaReceptors.jobString>
+
+<GR_InstallRodentNose.label>&lt;color=#E89D1B&gt;installer un implant animal : nez de rongeur&lt;/color&gt;</GR_InstallRodentNose.label>
+<GR_InstallRodentNose.description>Installer un implant nez de rongeur.</GR_InstallRodentNose.description>
+<GR_InstallRodentNose.jobString>Installe l'implant nez de rongeur.</GR_InstallRodentNose.jobString>
+
+<GR_InstallInsectoidPheromones.label>&lt;color=#E89D1B&gt;installer un implant animal : phéromones insectoïdes&lt;/color&gt;</GR_InstallInsectoidPheromones.label>
+<GR_InstallInsectoidPheromones.description>Installer un implant phéromones insectoïdes.</GR_InstallInsectoidPheromones.description>
+<GR_InstallInsectoidPheromones.jobString>Installe l'implant phéromones insectoïdes.</GR_InstallInsectoidPheromones.jobString>
+
+<GR_InstallMiniatureThrumboHorn.label>&lt;color=#E89D1B&gt;installer un implant animal : petite corne de thrumbo&lt;/color&gt;</GR_InstallMiniatureThrumboHorn.label>
+<GR_InstallMiniatureThrumboHorn.description>Installer un implant petite corne de thrumbo.</GR_InstallMiniatureThrumboHorn.description>
+<GR_InstallMiniatureThrumboHorn.jobString>Installe l'implant petite corne de thrumbo.</GR_InstallMiniatureThrumboHorn.jobString>
+
+<GR_InstallWolfJaws.label>&lt;color=#E89D1B&gt;installer un implant animal : crocs de loup&lt;/color&gt;</GR_InstallWolfJaws.label>
+<GR_InstallWolfJaws.description>Installer un implant crocs de loup.</GR_InstallWolfJaws.description>
+<GR_InstallWolfJaws.jobString>Installe l'implant crocs de loup.</GR_InstallWolfJaws.jobString>
+
+<GR_InstallInsectMandibles.label>&lt;color=#E89D1B&gt;installer un implant animal : mandibules d'insecte&lt;/color&gt;</GR_InstallInsectMandibles.label>
+<GR_InstallInsectMandibles.description>Installer un implant mandibules d'insecte.</GR_InstallInsectMandibles.description>
+<GR_InstallInsectMandibles.jobString>Installe l'implant mandibules d'insecte.</GR_InstallInsectMandibles.jobString>
+
+<GR_InstallThrumboJaws.label>&lt;color=#E89D1B&gt;installer un implant animal : mâchoire bionique de thrumbo&lt;/color&gt;</GR_InstallThrumboJaws.label>
+<GR_InstallThrumboJaws.description>Installer un implant mâchoire bionique de thrumbo.</GR_InstallThrumboJaws.description>
+<GR_InstallThrumboJaws.jobString>Installe l'implant mâchoire bionique de thrumbo.</GR_InstallThrumboJaws.jobString>
+
+<GR_InstallMuffaloSpine.label>&lt;color=#E89D1B&gt;installer un implant animal : colonne vertébrale de muffalo&lt;/color&gt;</GR_InstallMuffaloSpine.label>
+<GR_InstallMuffaloSpine.description>Installer un implant colonne vertébrale de muffalo.</GR_InstallMuffaloSpine.description>
+<GR_InstallMuffaloSpine.jobString>Installe l'implant colonne vertébrale de muffalo.</GR_InstallMuffaloSpine.jobString>
+
+<GR_InstallCrocodileSpine.label>&lt;color=#E89D1B&gt;installer un implant animal : colonne vertébrale de crocodile&lt;/color&gt;</GR_InstallCrocodileSpine.label>
+<GR_InstallCrocodileSpine.description>Installer un implant colonne vertébrale de crocodile.</GR_InstallCrocodileSpine.description>
+<GR_InstallCrocodileSpine.jobString>Installe l'implant colonne vertébrale de crocodile.</GR_InstallCrocodileSpine.jobString>
+
+<GR_InstallMechaSpine.label>&lt;color=#E89D1B&gt;installer un implant animal : colonne vertébrale bionique renforcée (niveau 3)&lt;/color&gt;</GR_InstallMechaSpine.label>
+<GR_InstallMechaSpine.description>Installer un implant colonne vertébrale bionique renforcée.</GR_InstallMechaSpine.description>
+<GR_InstallMechaSpine.jobString>Installe l'implant colonne vertébrale bionique renforcée.</GR_InstallMechaSpine.jobString>
+
+<GR_InstallChickenBrains.label>&lt;color=#E89D1B&gt;installer un implant animal : cerveau de poulet&lt;/color&gt;</GR_InstallChickenBrains.label>
+<GR_InstallChickenBrains.description>Installer un implant cerveau de poulet.</GR_InstallChickenBrains.description>
+<GR_InstallChickenBrains.jobString>Installe l'implant cerveau de poulet.</GR_InstallChickenBrains.jobString>
+
+<GR_InstallMonitorLizardBrain.label>&lt;color=#E89D1B&gt;installer un implant animal : cerveau de lézard&lt;/color&gt;</GR_InstallMonitorLizardBrain.label>
+<GR_InstallMonitorLizardBrain.description>Installer un implant cerveau de lézard.</GR_InstallMonitorLizardBrain.description>
+<GR_InstallMonitorLizardBrain.jobString>Installe l'implant cerveau de lézard.</GR_InstallMonitorLizardBrain.jobString>
+
+<GR_InstallThrumboBrain.label>&lt;color=#E89D1B&gt;installer un implant animal : cerveau bionique thrumbo&lt;/color&gt;</GR_InstallThrumboBrain.label>
+<GR_InstallThrumboBrain.description>Installer un implant cerveau bionique thrumbo.</GR_InstallThrumboBrain.description>
+<GR_InstallThrumboBrain.jobString>Installe l'implant cerveau bionique thrumbo.</GR_InstallThrumboBrain.jobString>
+
+<GR_InstallBoomalopeHeart.label>&lt;color=#E89D1B&gt;installer un implant animal : cœur de boomalope&lt;/color&gt;</GR_InstallBoomalopeHeart.label>
+<GR_InstallBoomalopeHeart.description>Installer un implant cœur de boomalope.</GR_InstallBoomalopeHeart.description>
+<GR_InstallBoomalopeHeart.jobString>Installe l'implant cœur de boomalope.</GR_InstallBoomalopeHeart.jobString>
+
+<GR_InstallChitinousHeart.label>&lt;color=#E89D1B&gt;installer un implant animal : cœur chitineux&lt;/color&gt;</GR_InstallChitinousHeart.label>
+<GR_InstallChitinousHeart.description>Installer un implant cœur chitineux.</GR_InstallChitinousHeart.description>
+<GR_InstallChitinousHeart.jobString>Installe l'implant cœur chitineux.</GR_InstallChitinousHeart.jobString>
+
+<GR_InstallMechaHeart.label>&lt;color=#E89D1B&gt;installer un implant animal : cœur bionique renforcé&lt;/color&gt;</GR_InstallMechaHeart.label>
+<GR_InstallMechaHeart.description>Installer un implant cœur bionique renforcé.</GR_InstallMechaHeart.description>
+<GR_InstallMechaHeart.jobString>Installe l'implant cœur bionique renforcé.</GR_InstallMechaHeart.jobString>
+
+<GR_InstallMuffaloLung.label>&lt;color=#E89D1B&gt;installer un implant animal : poumon de muffalo&lt;/color&gt;</GR_InstallMuffaloLung.label>
+<GR_InstallMuffaloLung.description>Installer un implant poumon de muffalo.</GR_InstallMuffaloLung.description>
+<GR_InstallMuffaloLung.jobString>Installe l'implant poumon de muffalo.</GR_InstallMuffaloLung.jobString>
+
+<GR_InstallBearLiver.label>&lt;color=#E89D1B&gt;installer un implant animal : foie d'ours&lt;/color&gt;</GR_InstallBearLiver.label>
+<GR_InstallBearLiver.description>Installer un implant foie d'ours.</GR_InstallBearLiver.description>
+<GR_InstallBearLiver.jobString>Installe l'implant foie d'ours.</GR_InstallBearLiver.jobString>
+
+<GR_InstallChickenKidney.label>&lt;color=#E89D1B&gt;installer un implant animal : rein de poulet&lt;/color&gt;</GR_InstallChickenKidney.label>
+<GR_InstallChickenKidney.description>Installer un implant rein de poulet.</GR_InstallChickenKidney.description>
+<GR_InstallChickenKidney.jobString>Installe l'implant rein de poulet.</GR_InstallChickenKidney.jobString>
+
+<GR_InstallBoomalopeStomach.label>&lt;color=#E89D1B&gt;installer un implant animal : estomac de boomalope&lt;/color&gt;</GR_InstallBoomalopeStomach.label>
+<GR_InstallBoomalopeStomach.description>Installer un implant estomac de boomalope.</GR_InstallBoomalopeStomach.description>
+<GR_InstallBoomalopeStomach.jobString>Installe l'implant estomac de boomalope.</GR_InstallBoomalopeStomach.jobString>
+
+<GR_InstallBearClaws.label>&lt;color=#E89D1B&gt;installer un implant griffes d'ours&lt;/color&gt;</GR_InstallBearClaws.label>
+<GR_InstallBearClaws.description>Installer un implant griffes d'ours.</GR_InstallBearClaws.description>
+<GR_InstallBearClaws.jobString>Installe l'implant griffes d'ours.</GR_InstallBearClaws.jobString>
+
+<GR_InstallDiggingBearClaws.label>&lt;color=#E89D1B&gt;installer un implant griffes de taupe&lt;/color&gt;</GR_InstallDiggingBearClaws.label>
+<GR_InstallDiggingBearClaws.description>Installer un implant griffes de taupe.</GR_InstallDiggingBearClaws.description>
+<GR_InstallDiggingBearClaws.jobString>Installe l'implant griffes de taupe.</GR_InstallDiggingBearClaws.jobString>
+
+<GR_InstallBearMuscleTissue.label>&lt;color=#E89D1B&gt;installer un implant tissu musculaire d'ours&lt;/color&gt;</GR_InstallBearMuscleTissue.label>
+<GR_InstallBearMuscleTissue.description>Installer un implant tissu musculaire d'ours.</GR_InstallBearMuscleTissue.description>
+<GR_InstallBearMuscleTissue.jobString>Installe l'implant tissu musculaire d'ours.</GR_InstallBearMuscleTissue.jobString>
+
+<GR_InstallHibernationModule.label>&lt;color=#E89D1B&gt;installer un implant module d'hibernation&lt;/color&gt;</GR_InstallHibernationModule.label>
+<GR_InstallHibernationModule.description>Installer un implant module d'hibernation.</GR_InstallHibernationModule.description>
+<GR_InstallHibernationModule.jobString>Installe l'implant module d'hibernation.</GR_InstallHibernationModule.jobString>
+
+<GR_InstallOvipositor.label>&lt;color=#E89D1B&gt;installer un implant ovipare&lt;/color&gt;</GR_InstallOvipositor.label>
+<GR_InstallOvipositor.description>Installer un implant ovipare.</GR_InstallOvipositor.description>
+<GR_InstallOvipositor.jobString>Installe l'implant ovipare.</GR_InstallOvipositor.jobString>
+
+<GR_InstallMuffaloMuscles.label>&lt;color=#E89D1B&gt;installer un implant muscle renforcé du muffalo&lt;/color&gt;</GR_InstallMuffaloMuscles.label>
+<GR_InstallMuffaloMuscles.description>Installer un implant muscle renforcé du muffalo.</GR_InstallMuffaloMuscles.description>
+<GR_InstallMuffaloMuscles.jobString>Installe l'implant muscle renforcé du muffalo.</GR_InstallMuffaloMuscles.jobString>
+
+<GR_InstallMuffaloMammaries.label>&lt;color=#E89D1B&gt;installer un implant mamelles de muffalo&lt;/color&gt;</GR_InstallMuffaloMammaries.label>
+<GR_InstallMuffaloMammaries.description>Installer un implant mamelles de muffalo.</GR_InstallMuffaloMammaries.description>
+<GR_InstallMuffaloMammaries.jobString>Installe l'implant mamelles de muffalo.</GR_InstallMuffaloMammaries.jobString>
+
+<GR_InstallMuffaloSkin.label>&lt;color=#E89D1B&gt;installer un implant peau de muffalo&lt;/color&gt;</GR_InstallMuffaloSkin.label>
+<GR_InstallMuffaloSkin.description>Installer un implant peau de muffalo.</GR_InstallMuffaloSkin.description>
+<GR_InstallMuffaloSkin.jobString>Installe l'implant peau de muffalo.</GR_InstallMuffaloSkin.jobString>
+
+<GR_InstallBoomalopeNodules.label>&lt;color=#E89D1B&gt;installer un implant nodules de boomalope&lt;/color&gt;</GR_InstallBoomalopeNodules.label>
+<GR_InstallBoomalopeNodules.description>Installer un implant nodules de boomalope.</GR_InstallBoomalopeNodules.description>
+<GR_InstallBoomalopeNodules.jobString>Installe l'implant nodules de boomalope.</GR_InstallBoomalopeNodules.jobString>
+
+<GR_InstallChemfuelStomach.label>&lt;color=#E89D1B&gt;installer un implant estomac chemfuel&lt;/color&gt;</GR_InstallChemfuelStomach.label>
+<GR_InstallChemfuelStomach.description>Installer un implant estomac chemfuel.</GR_InstallChemfuelStomach.description>
+<GR_InstallChemfuelStomach.jobString>Installe l'implant estomac chemfuel.</GR_InstallChemfuelStomach.jobString>
+
+<GR_InstallChemfuelHeart.label>&lt;color=#E89D1B&gt;installer un implant cœur chemfuel&lt;/color&gt;</GR_InstallChemfuelHeart.label>
+<GR_InstallChemfuelHeart.description>Installer un implant cœur chemfuel.</GR_InstallChemfuelHeart.description>
+<GR_InstallChemfuelHeart.jobString>Installe l'implant cœur chemfuel.</GR_InstallChemfuelHeart.jobString>
+
+<GR_InstallWolfMuscularFibers.label>&lt;color=#E89D1B&gt;installer un implant fibres musculaires de loup&lt;/color&gt;</GR_InstallWolfMuscularFibers.label>
+<GR_InstallWolfMuscularFibers.description>Installer un implant fibres musculaires de loup.</GR_InstallWolfMuscularFibers.description>
+<GR_InstallWolfMuscularFibers.jobString>Installe l'implant fibres musculaires de loup.</GR_InstallWolfMuscularFibers.jobString>
+
+<GR_InstallDevouringJaws.label>&lt;color=#E89D1B&gt;installer un implant mâchoire dévorante&lt;/color&gt;</GR_InstallDevouringJaws.label>
+<GR_InstallDevouringJaws.description>Installer un implant mâchoire dévorante.</GR_InstallDevouringJaws.description>
+<GR_InstallDevouringJaws.jobString>Installe l'implant mâchoire dévorante.</GR_InstallDevouringJaws.jobString>
+
+<GR_InstallNeuronReinforcement.label>&lt;color=#E89D1B&gt;installer un implant renforcement neuronal&lt;/color&gt;</GR_InstallNeuronReinforcement.label>
+<GR_InstallNeuronReinforcement.description>Installer un implant renforcement neuronal.</GR_InstallNeuronReinforcement.description>
+<GR_InstallNeuronReinforcement.jobString>Installe l'implant renforcement neuronal.</GR_InstallNeuronReinforcement.jobString>
+
+<GR_InstallMousePheromones.label>&lt;color=#E89D1B&gt;installer un implant phéromones de souris&lt;/color&gt;</GR_InstallMousePheromones.label>
+<GR_InstallMousePheromones.description>Installer un implant phéromones de souris.</GR_InstallMousePheromones.description>
+<GR_InstallMousePheromones.jobString>Installe l'implant phéromones de souris.</GR_InstallMousePheromones.jobString>
+
+<GR_InstallMoleratNerveDampener.label>&lt;color=#E89D1B&gt;installer un implant amortisseur de nerfs de rat taupe&lt;/color&gt;</GR_InstallMoleratNerveDampener.label>
+<GR_InstallMoleratNerveDampener.description>Installer un implant amortisseur de nerfs de rat taupe.</GR_InstallMoleratNerveDampener.description>
+<GR_InstallMoleratNerveDampener.jobString>Installe l'implant amortisseur de nerfs de rat taupe.</GR_InstallMoleratNerveDampener.jobString>
+
+<GR_InstallBunnyEars.label>&lt;color=#E89D1B&gt;installer un implant oreille de lapin&lt;/color&gt;</GR_InstallBunnyEars.label>
+<GR_InstallBunnyEars.description>Installer un implant oreille de lapin.</GR_InstallBunnyEars.description>
+<GR_InstallBunnyEars.jobString>Installe l'implant oreille de lapin.</GR_InstallBunnyEars.jobString>
+
+<GR_InstallCompoundEye.label>&lt;color=#E89D1B&gt;installer un implant œil compulsife&lt;/color&gt;</GR_InstallCompoundEye.label>
+<GR_InstallCompoundEye.description>Installer un implant œil compulsife.</GR_InstallCompoundEye.description>
+<GR_InstallCompoundEye.jobString>Installe l'implant œil compulsife.</GR_InstallCompoundEye.jobString>
+
+<GR_InstallCatEye.label>&lt;color=#E89D1B&gt;installer un implant œil de chat&lt;/color&gt;</GR_InstallCatEye.label>
+<GR_InstallCatEye.description>Installer un implant œil de chat.</GR_InstallCatEye.description>
+<GR_InstallCatEye.jobString>Installe l'implant œil de chat.</GR_InstallCatEye.jobString>
+
+<GR_InstallInsectoidAntennae.label>&lt;color=#E89D1B&gt;installer un implant antennes d'insectoïde&lt;/color&gt;</GR_InstallInsectoidAntennae.label>
+<GR_InstallInsectoidAntennae.description>Installer un implant antennes d'insectoïde.</GR_InstallInsectoidAntennae.description>
+<GR_InstallInsectoidAntennae.jobString>Installe l'implant antennes d'insectoïde.</GR_InstallInsectoidAntennae.jobString>
+
+<GR_InstallPsychicDampeners.label>&lt;color=#E89D1B&gt;installer un implant amortisseurs psychiques&lt;/color&gt;</GR_InstallPsychicDampeners.label>
+<GR_InstallPsychicDampeners.description>Installer un implant amortisseurs psychiques.</GR_InstallPsychicDampeners.description>
+<GR_InstallPsychicDampeners.jobString>Installe l'implant amortisseurs psychiques.</GR_InstallPsychicDampeners.jobString>
+
+<GR_InstallKidneyToxicFilters.label>&lt;color=#E89D1B&gt;installer un implant filtres toxiques pour rein&lt;/color&gt;</GR_InstallKidneyToxicFilters.label>
+<GR_InstallKidneyToxicFilters.description>Installer un implant filtres toxiques pour rein.</GR_InstallKidneyToxicFilters.description>
+<GR_InstallKidneyToxicFilters.jobString>Installe l'implant filtres toxiques pour rein.</GR_InstallKidneyToxicFilters.jobString>
+
+<GR_InstallHumanThrumboHorn.label>&lt;color=#E89D1B&gt;installer un implant corne de thrumbo&lt;/color&gt;</GR_InstallHumanThrumboHorn.label>
+<GR_InstallHumanThrumboHorn.description>Installer un implant corne de thrumbo.</GR_InstallHumanThrumboHorn.description>
+<GR_InstallHumanThrumboHorn.jobString>Installe l'implant corne de thrumbo.</GR_InstallHumanThrumboHorn.jobString>
+
+<GR_InstallThrumboSkin.label>&lt;color=#E89D1B&gt;installer un implant peau de thrumbo&lt;/color&gt;</GR_InstallThrumboSkin.label>
+<GR_InstallThrumboSkin.description>Installer un implant peau de thrumbo.</GR_InstallThrumboSkin.description>
+<GR_InstallThrumboSkin.jobString>Installe l'implant peau de thrumbo.</GR_InstallThrumboSkin.jobString>
+
+<GR_InstallVenomousFangs.label>&lt;color=#E89D1B&gt;installer un implant crocs venimeux&lt;/color&gt;</GR_InstallVenomousFangs.label>
+<GR_InstallVenomousFangs.description>Installer un implant crocs venimeux.</GR_InstallVenomousFangs.description>
+<GR_InstallVenomousFangs.jobString>Installe l'implant crocs venimeux.</GR_InstallVenomousFangs.jobString>
+
+<GR_InstallIguanaScales.label>&lt;color=#E89D1B&gt;installer un implant écailles d'iguane&lt;/color&gt;</GR_InstallIguanaScales.label>
+<GR_InstallIguanaScales.description>Installer un implant écailles d'iguane.</GR_InstallIguanaScales.description>
+<GR_InstallIguanaScales.jobString>Installe l'implant écailles d'iguane.</GR_InstallIguanaScales.jobString>
+
+<GR_RemoveBearMuscleTissueImplant.label>retirer l'implant tissu musculaire d'ours</GR_RemoveBearMuscleTissueImplant.label>
+<GR_RemoveBearMuscleTissueImplant.description>Retirer l'implant tissu musculaire d'ours.</GR_RemoveBearMuscleTissueImplant.description>
+<GR_RemoveBearMuscleTissueImplant.jobString>Retire l'implant tissu musculaire d'ours.</GR_RemoveBearMuscleTissueImplant.jobString>
+
+<GR_RemoveHibernationModuleImplant.label>retirer l'implant module d'hibernation</GR_RemoveHibernationModuleImplant.label>
+<GR_RemoveHibernationModuleImplant.description>Retirer l'implant module d'hibernation.</GR_RemoveHibernationModuleImplant.description>
+<GR_RemoveHibernationModuleImplant.jobString>Retire l'implant module d'hibernation.</GR_RemoveHibernationModuleImplant.jobString>
+
+<GR_RemoveOvipositorImplant.label>retirer ovipare</GR_RemoveOvipositorImplant.label>
+<GR_RemoveOvipositorImplant.description>Retirer ovipare.</GR_RemoveOvipositorImplant.description>
+<GR_RemoveOvipositorImplant.jobString>Retire ovipare.</GR_RemoveOvipositorImplant.jobString>
+
+<GR_RemoveMuffaloMusclesImplant.label>retirer l'implant muscle renforcé du muffalo</GR_RemoveMuffaloMusclesImplant.label>
+<GR_RemoveMuffaloMusclesImplant.description>Retirer l'implant muscle renforcé du muffalo.</GR_RemoveMuffaloMusclesImplant.description>
+<GR_RemoveMuffaloMusclesImplant.jobString>Retire l'implant muscle renforcé du muffalo.</GR_RemoveMuffaloMusclesImplant.jobString>
+
+<GR_RemoveMuffaloMammariesImplant.label>retirer l'implant mamelles de muffalo</GR_RemoveMuffaloMammariesImplant.label>
+<GR_RemoveMuffaloMammariesImplant.description>Retirer l'implant mamelles de muffalo.</GR_RemoveMuffaloMammariesImplant.description>
+<GR_RemoveMuffaloMammariesImplant.jobString>Retire l'implant mamelles de muffalo.</GR_RemoveMuffaloMammariesImplant.jobString>
+
+<GR_RemoveMuffaloSkinImplant.label>retirer l'implant peau de muffalo</GR_RemoveMuffaloSkinImplant.label>
+<GR_RemoveMuffaloSkinImplant.description>Retirer l'implant peau de muffalo.</GR_RemoveMuffaloSkinImplant.description>
+<GR_RemoveMuffaloSkinImplant.jobString>Retire l'implant peau de muffalo.</GR_RemoveMuffaloSkinImplant.jobString>
+
+<GR_RemoveBoomalopeNodulesImplant.label>retirer l'implant nodules de boomalope</GR_RemoveBoomalopeNodulesImplant.label>
+<GR_RemoveBoomalopeNodulesImplant.description>Retirer l'implant nodules de boomalope.</GR_RemoveBoomalopeNodulesImplant.description>
+<GR_RemoveBoomalopeNodulesImplant.jobString>Retire l'implant nodules de boomalope.</GR_RemoveBoomalopeNodulesImplant.jobString>
+
+<GR_RemoveWolfMuscularFibersImplant.label>retirer l'implant fibres musculaires de loup</GR_RemoveWolfMuscularFibersImplant.label>
+<GR_RemoveWolfMuscularFibersImplant.description>Retirer l'implant fibres musculaires de loup.</GR_RemoveWolfMuscularFibersImplant.description>
+<GR_RemoveWolfMuscularFibersImplant.jobString>Retire l'implant fibres musculaires de loup.</GR_RemoveWolfMuscularFibersImplant.jobString>
+
+<GR_RemoveNeuronReinforcementImplant.label>retirer l'implant renforcement neuronal</GR_RemoveNeuronReinforcementImplant.label>
+<GR_RemoveNeuronReinforcementImplant.description>Retirer l'implant renforcement neuronal.</GR_RemoveNeuronReinforcementImplant.description>
+<GR_RemoveNeuronReinforcementImplant.jobString>Retire l'implant renforcement neuronal.</GR_RemoveNeuronReinforcementImplant.jobString>
+
+<GR_RemovePsychicDampenersImplant.label>retirer l'implant amortisseurs psychiques</GR_RemovePsychicDampenersImplant.label>
+<GR_RemovePsychicDampenersImplant.description>Retirer l'implant amortisseurs psychiques.</GR_RemovePsychicDampenersImplant.description>
+<GR_RemovePsychicDampenersImplant.jobString>Retire l'implant amortisseurs psychiques.</GR_RemovePsychicDampenersImplant.jobString>
+
+<GR_RemoveThrumboSkinImplant.label>retirer l'implant peau de thrumbo</GR_RemoveThrumboSkinImplant.label>
+<GR_RemoveThrumboSkinImplant.description>Retirer l'implant peau de thrumbo.</GR_RemoveThrumboSkinImplant.description>
+<GR_RemoveThrumboSkinImplant.jobString>Retire l'implant peau de thrumbo.</GR_RemoveThrumboSkinImplant.jobString>
+
+<GR_RemoveVenomousFangsImplant.label>retirer l'implant crocs venimeux</GR_RemoveVenomousFangsImplant.label>
+<GR_RemoveVenomousFangsImplant.description>Retirer l'implant crocs venimeux.</GR_RemoveVenomousFangsImplant.description>
+<GR_RemoveVenomousFangsImplant.jobString>Retire l'implant crocs venimeux.</GR_RemoveVenomousFangsImplant.jobString>
+
+<GR_RemoveIguanaScalesImplant.label>retirer l'implant écailles d'iguane</GR_RemoveIguanaScalesImplant.label>
+<GR_RemoveIguanaScalesImplant.description>Retirer l'implant écailles d'iguane.</GR_RemoveIguanaScalesImplant.description>
+<GR_RemoveIguanaScalesImplant.jobString>Retire l'implant écailles d'iguane.</GR_RemoveIguanaScalesImplant.jobString>
+
+
+</LanguageData>

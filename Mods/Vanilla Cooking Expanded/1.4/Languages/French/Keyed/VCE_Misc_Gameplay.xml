@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Soups -->
+
+<VCE_InsertSoup>insérer une soupe</VCE_InsertSoup>
+<VCE_InsertSoupDesc>Soupe à cuisiner</VCE_InsertSoupDesc>
+<VCE_NoSoupsFound>Aucune soupe de ce type n'a été trouvée sur cette carte.</VCE_NoSoupsFound>
+<VCE_UncookedSoupSimple>soupe simple</VCE_UncookedSoupSimple>
+<VCE_UncookedSoupFine>soupe raffinée</VCE_UncookedSoupFine>
+<VCE_UncookedSoupLavish>soupe gastronomique</VCE_UncookedSoupLavish>
+<VCE_UncookedSoupGourmet>soupe de gourmet</VCE_UncookedSoupGourmet>	
+<VCE_UncookedSoupSimple_InsertSoup>insérer une soupe simple</VCE_UncookedSoupSimple_InsertSoup>
+<VCE_UncookedSoupFine_InsertSoup>insérer une soupe raffinée</VCE_UncookedSoupFine_InsertSoup>
+<VCE_UncookedSoupLavish_InsertSoup>insérer une soupe gastronomique</VCE_UncookedSoupLavish_InsertSoup>
+<VCE_UncookedSoupGourmet_InsertSoup>insérer une soupe de gourmet</VCE_UncookedSoupGourmet_InsertSoup>
+<VCE_SelectSoup>Sélectionner le type de soupe à cuisiner</VCE_SelectSoup>
+<VCE_StartInsertion>Apporter la soupe</VCE_StartInsertion>
+<VCE_StartInsertionDesc>Apporter une soupe dans la marmite électrique pour commencer la cuisson.</VCE_StartInsertionDesc>
+<VCE_RemoveSoup>Retirer la soupe</VCE_RemoveSoup>
+<VCE_RemoveSoupDesc>Retirer la soupe de la marmite. Cela doit être fait avant de commencer à la cuire.</VCE_RemoveSoupDesc>
+<VCE_CancelBringingSoup>Annuler</VCE_CancelBringingSoup>
+<VCE_CancelBringingSoupDesc>Annuler l'apport de la soupe dans la marmite électrique.</VCE_CancelBringingSoupDesc>
+<VCE_WaitTillJobsEnd>Attendre que la soupe ait été apportée à la marmite électrique, ou annuler le travail.</VCE_WaitTillJobsEnd>
+<VCE_NotPowered>La marmite électrique n'est pas alimentée.</VCE_NotPowered>
+<VCE_Engage>Cuisiner la soupe</VCE_Engage>
+<VCE_EngageDesc>Commencer à faire mijoter la soupe. Ce processus prend 3 jours et ne peut pas être interrompu, sinon la soupe sera perdue.</VCE_EngageDesc>
+<VCE_SoupFailurePower>La soupe s'est détériorée à cause d'une panne de courant dans la marmite électrique.</VCE_SoupFailurePower>
+<VCE_SoupFailurePowerWarning>La soupe se détériore rapidement à cause d'une panne courant dans la marmite électrique.</VCE_SoupFailurePowerWarning>
+<VCE_SoupFinished>Une soupe a fini de mijoter dans la marmite électrique.</VCE_SoupFinished>
+<VCE_SoupInProgress>Une {0} est en train de mijoter. Elle sera prête dans {1}.</VCE_SoupInProgress>
+<VCE_SoupReady>Une soupe a fini de mijoter et attend d'être récupérée.</VCE_SoupReady>
+
+<!-- Cheese making -->
+
+<VCE_InsertMilkDesc>Choisir le lait à presser dans la presse à fromage. Différents laits peuvent produire différents types de fromage.</VCE_InsertMilkDesc>
+<VCE_InsertMilk>Choisir le lait</VCE_InsertMilk>
+<VCE_InsertMilkVariable>Insérer {0}</VCE_InsertMilkVariable>
+<VCE_NoMilksFound>Aucun lait de ce type n'a été trouvé sur cette carte.</VCE_NoMilksFound>
+<VCE_SelectMilk>Choisir le type de lait à presser</VCE_SelectMilk>
+<VCE_StartInsertionMilk>Apporter le lait</VCE_StartInsertionMilk>
+<VCE_StartInsertionMilkDesc>Apporter le lait à la presse à fromage pour commencer le pressage.</VCE_StartInsertionMilkDesc>
+<VCE_RemoveMilk>Retirer le lait</VCE_RemoveMilk>
+<VCE_RemoveMilkDesc>Retirer le lait de la presse. Cela ne peut être fait qu'avant de commencer à le presser.</VCE_RemoveMilkDesc>	
+<VCE_CancelBringingMilk>Annuler</VCE_CancelBringingMilk>
+<VCE_CancelBringingMilkDesc>Annuler l'apport de lait à la presse à fromage.</VCE_CancelBringingMilkDesc>
+<VCE_WaitTillJobsEndMilk>Attendre que le lait ait été transporté jusqu'à la presse à fromage, ou annuler la tâche.</VCE_WaitTillJobsEndMilk>
+<VCE_EngageMilk>Presser en fromage</VCE_EngageMilk>
+<VCE_EngageMilkDesc>Commencer à presser le lait pour en faire du fromage. Ce processus prend un temps variable et la qualité du fromage augmentera avec l'affinage. Vous pouvez le retirer à tout moment après la période initiale.</VCE_EngageMilkDesc>
+<VCE_CheeseFinished>Un fromage a fini de vieillir dans la presse à fromage.</VCE_CheeseFinished>
+<VCE_CheeseInProgress>La presse à fromage est en train de presser {0}. Il sera prêt avec la qualité {1} dans {2}.</VCE_CheeseInProgress>
+<VCE_CheeseReady>Ce fromage a atteint le degré de vieillissement souhaité et attend d'être récupéré.</VCE_CheeseReady>
+<VCE_MilkImproperlyDefined>Ce lait a été mal défini pour fonctionner avec la presse à fromage, contactez l'auteur du mod de ce lait.</VCE_MilkImproperlyDefined>
+<VCE_RemoveCheese>Retirer le fromage ({0})</VCE_RemoveCheese>
+<VCE_RemoveCheeseDesc>Retirer le fromage de la presse à fromage. Le fromage sera prêt au niveau de qualité actuel ({0}).</VCE_RemoveCheeseDesc>
+
+<VCE_CheesePressEmpty>La presse à fromage est actuellement vide.</VCE_CheesePressEmpty>
+<VCE_CheesePressFilled>Presse à fromage remplie de {0}</VCE_CheesePressFilled>
+<VCE_CheesePressWorking>La presse à fromage fonctionne :</VCE_CheesePressWorking>
+<VCE_ResourcePercentage> (rempli de {0} de {1})</VCE_ResourcePercentage>
+
+<!-- Condiment stats (using code from AnimalBehaviours) -->
+
+<VCE_CondimentEffects>Effets des condiments</VCE_CondimentEffects>
+<VCE_CondimentEffectsTitle>Agit comme un condiment</VCE_CondimentEffectsTitle>
+<VCE_CondimentEffectsAgave>Le nectar d'agave est un nectar fin et semi-sucré, connu pour ses propriétés curatives et anti-inflammatoires. La consommation de repas incluant ce condiment donne un gain de 15% de vitesse d'immunité pendant 12 heures.</VCE_CondimentEffectsAgave>
+<VCE_CondimentEffectsSugar>Le sucre est facilement converti en énergie par l'organisme, ce qui peut se traduire par une belle poussée d'énergie. La consommation de repas comprenant ce condiment augmente de 15% la capacité de mouvement pendant 12 heures.</VCE_CondimentEffectsSugar>
+<VCE_CondimentEffectsSpices>Une variété d'épices aromatiques et piquantes. La consommation de repas comprenant ce condiment augmente de 10% la valeur de manipulation pendant 12 heures.</VCE_CondimentEffectsSpices>
+<VCE_CondimentEffectsSalt>La consommation de repas comprenant ce condiment augmente l'humeur de 5 pendant 12 heures.</VCE_CondimentEffectsSalt>
+<VCE_CondimentEffectsMayo>La mayonnaise, bien que mauvaise pour la santé, ajoute un goût agréable et est très calorique. La consommation de repas comprenant ce condiment réduit de 15% le taux de faim pendant 12 heures.</VCE_CondimentEffectsMayo>
+<VCE_CondimentEffectsJelly>La consommation de repas comprenant ce condiment augmente l'humeur de 10 pendant 12 heures.</VCE_CondimentEffectsJelly>
+<VCE_CondimentEffectsButter>La consommation de repas comprenant ce condiment crée une défonce sans risque de dépendance.</VCE_CondimentEffectsButter>
+<VCE_CondimentEffectsSyrup>La consommation de repas comprenant ce condiment augmente l'humeur de 7 pendant 12 heures.</VCE_CondimentEffectsSyrup>
+<VCE_CondimentEffectsNanites>La consommation de repas comprenant ce condiment augmente de 1% la manipulation pendant 12 heures. Le colon sera ressuscité s'il est tué pendant cette période.</VCE_CondimentEffectsNanites>
+<VCE_CondimentEffectsKetchup>La consommation de repas comprenant ce condiment augmente l'humeur de 3 pendant 12 heures.</VCE_CondimentEffectsKetchup>
+<VCE_CondimentEffectsSauce>Si les sauces piquantes particulièrement fortes sont douloureuses au début, elles sont connues pour engourdir la douleur et provoquer une sueur chaude peu après leur consommation. La consommation de repas comprenant ce condiment augmente de 15% la résistance à la douleur et de 10ºC la résistance aux températures froides pendant 12 heures. L'humeur sera réduite de 3.</VCE_CondimentEffectsSauce>
+
+<VCE_HealthEffects>Effets sur la santé</VCE_HealthEffects>	
+<VCE_NoEffect>Aucun effet sur la santé</VCE_NoEffect>
+<VCE_NoEffectDesc>La consommation de repas comprenant ce condiment n'entraîne aucun effet négatif sur la santé.</VCE_NoEffectDesc>
+
+<VCE_DiabetesEffect>Diabète</VCE_DiabetesEffect>	
+<VCE_DiabetesEffectDescHalfPoint>La consommation de repas comprenant ce condiment provoque le diabète. Chaque ingestion d'un tel repas augmentera le Diabète du colon de 0,5%.</VCE_DiabetesEffectDescHalfPoint>
+<VCE_DiabetesEffectDescOneAndHalfPoint>La consommation de repas comprenant ce condiment provoque le diabète. Chaque ingestion d'un tel repas augmentera le Diabète du colon de 1,5%.</VCE_DiabetesEffectDescOneAndHalfPoint>
+<VCE_DiabetesEffectDescThreeQuarterPoint>La consommation de repas comprenant ce condiment provoque le diabète. Chaque ingestion d'un tel repas augmentera le Diabète du colon de 0,75%.</VCE_DiabetesEffectDescThreeQuarterPoint>
+<VCE_DiabetesDessertSimpleDesc>La consommation de ce repas provoque le diabète. Chaque ingestion d'un tel repas augmentera le Diabète du colon de 0,5%.</VCE_DiabetesDessertSimpleDesc>
+<VCE_DiabetesDessertFineDesc>La consommation de ce repas provoque le diabète. Chaque ingestion d'un tel repas augmentera le Diabète du colon de 1.5%.</VCE_DiabetesDessertFineDesc>
+<VCE_DiabetesDessertLavishDesc>La consommation de ce repas provoque le diabète. Chaque ingestion d'un tel repas augmentera le Diabète du colon de 2.5%.</VCE_DiabetesDessertLavishDesc>
+<VCE_DiabetesDessertGourmetDesc>La consommation de ce repas provoque le diabète. Chaque ingestion d'un tel repas augmentera le Diabète du colon de 3.5%.</VCE_DiabetesDessertGourmetDesc>
+
+
+<VCE_HighBloodPressureEffect>Hypertension artérielle</VCE_HighBloodPressureEffect>	
+<VCE_HighBloodPressureEffectDesc>La consommation de repas comprenant ce condiment provoque une hypertension artérielle. Chaque ingestion d'un tel repas augmente la pression artérielle du colon de 0,75%.</VCE_HighBloodPressureEffectDesc>
+<VCE_HighBloodPressureEffectDescCanned>La consommation de conserves provoque une hypertension artérielle. Chaque fois qu'un tel repas est ingéré, la tension artérielle du colon augmente de 1,5 %.</VCE_HighBloodPressureEffectDescCanned>
+
+<VCE_CholesterolEffect>Cholestérol</VCE_CholesterolEffect>	
+<VCE_CholesterolEffectDesc>La consommation de repas comprenant ce condiment provoque du cholestérol. Chaque ingestion d'un tel repas augmente le cholestérol du colon de 1%.</VCE_CholesterolEffectDesc>
+<VCE_CholesterolEffectDescOneAndHalfPoint>La consommation de repas comprenant ce condiment provoque du cholestérol. Chaque ingestion d'un tel repas augmente le cholestérol du colon de 1,5 %.</VCE_CholesterolEffectDescOneAndHalfPoint>
+<VCE_CholesterolEffectDescDouble>La consommation de repas comprenant ce condiment provoque du cholestérol. Chaque ingestion d'un tel repas augmente le cholestérol du colon de 2%.</VCE_CholesterolEffectDescDouble>
+<VCE_CholesterolDescDeepFried>La consommation d'aliments frits provoque du cholestérol. Chaque ingestion d'un tel repas augmentera le cholestérol du colon de 1,5 %.</VCE_CholesterolDescDeepFried>
+
+
+</LanguageData>

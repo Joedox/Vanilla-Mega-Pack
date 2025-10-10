@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Toggle {0} -->
+<MVCF.Toggle>Basculer {0}</MVCF.Toggle>
+<!-- EN: Toggle using {0} automatically -->
+<MVCF.ToggleUsing>Basculer en utilisant {0} automatiquement</MVCF.ToggleUsing>
+<!-- EN: Toggle automatic usage -->
+<MVCF.ToggleAuto>Basculer l'utilisation automatique</MVCF.ToggleAuto>
+<!-- EN: Still on cooldown. {0} left. -->
+<MVCF.Cooldown>Toujours en attente. {0} restantes.</MVCF.Cooldown>
+<!-- EN: Multi-Verb Combat Framework -->
+<MVCF.Setting>Multi-Verbes Combat Framework</MVCF.Setting>
+<!-- EN: Developer Mode -->
+<MVCF.Settings.Debug>Mode Développeur</MVCF.Settings.Debug>
+<!-- EN: Log level: -->
+<MVCF.Settings.LogLevel>Niveau du journal :</MVCF.Settings.LogLevel>
+<!-- EN: None -->
+<MVCF.Settings.LogLevel.None>Aucun</MVCF.Settings.LogLevel.None>
+<!-- EN: Important -->
+<MVCF.Settings.LogLevel.Important>Important </MVCF.Settings.LogLevel.Important>
+<!-- EN: Info -->
+<MVCF.Settings.LogLevel.Info>Info </MVCF.Settings.LogLevel.Info>
+<!-- EN: Verbose -->
+<MVCF.Settings.LogLevel.Verbose>Verbeux</MVCF.Settings.LogLevel.Verbose>
+<!-- EN: Silly -->
+<MVCF.Settings.LogLevel.Silly>Insensé</MVCF.Settings.LogLevel.Silly>
+<!-- EN: Tick -->
+<MVCF.Settings.LogLevel.Tick>Tic</MVCF.Settings.LogLevel.Tick>
+<!-- EN: Toggle automatic reloading while drafted -->
+<MVCF.ToggleAutoReload>Mobiliser vos colons lors d’un rechargement automatique.</MVCF.ToggleAutoReload>
+
+
+</LanguageData>

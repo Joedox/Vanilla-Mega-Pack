@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: advanced bed -->
+<Bed_AdvBed.label>lit avancé</Bed_AdvBed.label>
+<!-- EN: A cutting-edge, fully motorized bed equipped with pressure-adjusting surfaces, biometric monitoring, and tech-assisted sleep tracking. It offers unmatched comfort, rest efficiency, and surgical support. -->
+<Bed_AdvBed.description>Un lit high-tech, entièrement motorisé, équipé de surfaces de réglage de la pression, d'une surveillance biométrique et d'un suivi du sommeil assisté par la technologie. Il offre un confort inégalé, une efficacité de repos et un soutien chirurgical.</Bed_AdvBed.description>
+
+<!-- EN: advanced double bed -->
+<Bed_AdvDoubleBed.label>lit double avancé</Bed_AdvDoubleBed.label>
+<!-- EN: A cutting-edge, fully motorized bed that fits two people, equipped with pressure-adjusting surfaces, biometric monitoring, and tech-assisted sleep tracking. It offers unmatched comfort, rest efficiency, and surgical support. -->
+<Bed_AdvDoubleBed.description>Un lit high-tech, entièrement motorisé, pouvant accueillir deux personnes, équipé de surfaces de réglage de la pression, d'une surveillance biométrique et d'un suivi du sommeil assisté par la technologie. Il offre un confort inégalé, une efficacité de repos et un soutien chirurgical.</Bed_AdvDoubleBed.description>
+
+<!-- EN: illuminated dresser -->
+<Table_IlluminatedDresser.label>commode lumineuse</Table_IlluminatedDresser.label>
+<!-- EN: A sleek, modern dresser with an integrated soft-glow lamp. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+<Table_IlluminatedDresser.description>Une commode lumineuse, ornée de bandes lumineuses. Donne un petit bonus de confort à tous les lits voisins, tout en éclairant la pièce. Placer plus d'une commode près d'un même lit n'a aucun effet.</Table_IlluminatedDresser.description>
+
+<!-- EN: illuminated end table -->
+<Table_IlluminatedEndTable.label>table de nuit lumineuse</Table_IlluminatedEndTable.label>
+<!-- EN: A sleek bedside table with an integrated soft-glow lamp. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+<Table_IlluminatedEndTable.description>Une petite table de nuit lumineuse ornée de bandes lumineuses qui rend les lits voisins un peu plus confortables, tout en éclairant la pièce. Elle doit être placée directement à côté de la tête de lit. Placer plus d'une table de nuit près du même lit n'a aucun effet.</Table_IlluminatedEndTable.description>
+
+<!-- EN: illuminated wardrobe -->
+<VFES_Table_IlluminatedWardrobe.label>garde-robe lumineuse</VFES_Table_IlluminatedWardrobe.label>
+<!-- EN: A sleek, modern wardrobe with an integrated soft-glow lamp. Gives a small comfort and rest effectiveness bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect. -->
+<VFES_Table_IlluminatedWardrobe.description>Une garde-robe moderne et élégante avec une lampe à lumière douce intégrée. Donne un petit bonus d'efficacité de confort et de repos à tous les lits proches. Placer plus d'une armoire près du même lit n'a aucun effet.</VFES_Table_IlluminatedWardrobe.description>
+
+
+<!-- EN: hyperscreen television -->
+<UltrascreenTV.label>télévision panoramique</UltrascreenTV.label>
+<!-- EN: A colossal, ultra-definition entertainment wall spanning multiple panels. Designed for luxurious colonies, it delivers an overwhelming visual experience with rich sound and vibrant clarity. Streams archived ultranet broadcasts from long-dead satellites and local data arrays. -->
+<UltrascreenTV.description>Un mur de divertissement colossal et une ultra-définition qui s'étend sur plusieurs panneaux. Conçu pour les colonies luxueuses, il offre une expérience visuelle extraordinaire avec un son riche et une clarté éclatante. Il diffuse en continu des émissions ultranet archivées provenant de satellites morts depuis longtemps et de réseaux de données locaux.</UltrascreenTV.description>
+
+<!-- EN: television speaker -->
+<VFES_TelevisionSpeaker.label>haut-parleur de télévision</VFES_TelevisionSpeaker.label>
+<!-- EN: A high-fidelity audio system designed to enhance the viewing experience of nearby televisions. When placed near a television, it links with the screen to deliver immersive sound, increasing the recreation gain of any colonist watching. -->
+<VFES_TelevisionSpeaker.description>Un système audio haute fidélité conçu pour améliorer l'expérience visuelle des téléviseurs à proximité. Lorsqu'il est placé près d'un téléviseur, il se connecte à l'écran pour offrir un son immersif, augmentant ainsi le plaisir de tout spectateur qui le regarde.</VFES_TelevisionSpeaker.description>
+
+<!-- EN: wall-mounted television -->
+<VFES_WallMountedTelevision.label>télévision murale</VFES_WallMountedTelevision.label>
+<!-- EN: A sleek, high-tech flat-screen television. Its slim profile saves floor space while delivering the same rich color and clarity as traditional flat-screen units. It doesn’t have a huge viewing space, but can be mounted on walls. -->
+<VFES_WallMountedTelevision.description>Un téléviseur à écran plat élégant et high-tech. Son profil mince permet de gagner de la place tout en offrant les mêmes couleurs riches et la même clarté que les téléviseurs à écran plat traditionnels. Il ne dispose pas d'un grand écran, mais peut être fixé au mur.</VFES_WallMountedTelevision.description>
+
+
+<!-- EN: mechanite repair shelf -->
+<Shelf_RepairRack.label>étagère de réparation</Shelf_RepairRack.label>
+<!-- EN: A high-tech shelf for storing apparel or weapons. Items stored on this shelf will benefit from nanoswarms of mechanites that will slowly repair any damage and deterioration. The process requires a large amount of power and takes a significant amount of time. -->
+<Shelf_RepairRack.description>Une étagère high-tech pour ranger des vêtements ou des armes. Les objets stockés sur cette étagère bénéficieront de nano-essaims de mécanites qui répareront lentement les dommages et la détérioration. Ce processus nécessite une grande quantité d'énergie et prend beaucoup de temps.</Shelf_RepairRack.description>
+
+<!-- EN: outdoor solar lamp -->
+<Spacer_OutdoorLamp.label>lampe solaire extérieure</Spacer_OutdoorLamp.label>
+<!-- EN: An electrical standing lamp that lights an area, good for large outdoor spaces, with a small solar panel mounted on top. Stores electrical charge during the day, when it’s off, and automatically turns on at night. -->
+<Spacer_OutdoorLamp.description>Une lampe électrique sur pied qui éclaire une zone, idéale pour les grands espaces extérieurs, avec un petit panneau solaire monté sur le dessus. Elle stocke l'énergie solaire pendant la journée, lorsqu'elle est éteinte, et s'allume automatiquement pendant la nuit.</Spacer_OutdoorLamp.description>
+<!-- EN: Off due to being under a roof. -->
+<Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>Éteinte dû à la présence d'un toit.</Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>
+<!-- EN: Off due to sufficient sunlight. -->
+<Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>Éteinte dû à un ensoleillement suffisant.</Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>
+
+<!-- EN: air purifier -->
+<VFES_AirPurifier.label>purificateur d'air</VFES_AirPurifier.label>
+<!-- EN: A compact, high-efficiency air purifier that filters out dust, allergens, smoke, and other unwanted particulates while circulating clean, scented air. Improves room cleanliness, slightly boosts mood, and enhances the overall environment. -->
+<VFES_AirPurifier.description>Un purificateur d'air compact à haute efficacité qui filtre la poussière, les allergènes, la fumée et d'autres particules indésirables tout en faisant circuler de l'air pur et parfumé. Il améliore la propreté de la pièce, stimule légèrement l'humeur et améliore l'environnement général.</VFES_AirPurifier.description>
+
+
+<!-- EN: advanced chair -->
+<Seat_AdvChair.label>chaise avancée</Seat_AdvChair.label>
+<!-- EN: A high-end, spacer-era seating solution with adaptive cushioning, posture calibration, and breathable smart fabrics. Designed for maximum long-term comfort and sleek modern interiors. -->
+<Seat_AdvChair.description>Une solution de siège haut de gamme, datant de l'ère spatiale, avec un amortissement adaptatif, un calibrage de la posture et des tissus intelligents et respirants. Conçu pour un confort maximal à long terme et des intérieurs modernes et élégants.</Seat_AdvChair.description>
+
+<!-- EN: modern armchair -->
+<VFES_ModernArmchair.label>fauteuil moderne</VFES_ModernArmchair.label>
+<!-- EN: A sleek, spacer-era armchair. Built with memory foam, smart-fabric upholstery, and ergonomic design, it provides superior comfort and aesthetics. -->
+<VFES_ModernArmchair.description>Un fauteuil élégant de l'ère spatiale. Fabriqué avec de la mousse à mémoire de forme, un rembourrage en tissu intelligent et un design ergonomique, il offre un confort et une esthétique supérieurs.</VFES_ModernArmchair.description>
+
+<!-- EN: modern couch -->
+<VFES_ModernCouch.label>canapé moderne</VFES_ModernCouch.label>
+<!-- EN: A sleek, double-wide spacer-era couch. Memory foam, ergonomic design and smart-fabric upholstery provide maximum comfort. -->
+<VFES_ModernCouch.description>Un canapé élégant datant de l'ère spatiale. La mousse à mémoire de forme, le design ergonomique et le rembourrage en tissu intelligent offrent un confort maximal.</VFES_ModernCouch.description>
+
+
+<!-- EN: interactive table (1x1) -->
+<Table_interactive_1x1c.label>table interactive (1x1)</Table_interactive_1x1c.label>
+<!-- EN: A sleek spacer table with an embedded smart display. When seated at this table, colonists enjoy passive television-style recreation alongside meals or work. People eat off tables when chairs are placed facing them. -->
+<Table_interactive_1x1c.description>Une table spatiale élégante dotée d'un écran intelligent intégré. Lorsqu'ils sont assis à cette table, les colons profitent de loisirs passifs de type télévisuel en même temps qu'ils prennent leurs repas ou qu'ils travaillent. Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_interactive_1x1c.description>
+
+<!-- EN: interactive table (2x2) -->
+<Table_interactive_2x2c.label>table interactive (2x2)</Table_interactive_2x2c.label>
+<!-- EN: A sleek spacer table with an embedded smart display. When seated at this table, colonists enjoy passive television-style recreation alongside meals or work. People eat off tables when chairs are placed facing them. -->
+<Table_interactive_2x2c.description>Une table spatiale élégante dotée d'un écran intelligent intégré. Lorsqu'ils sont assis à cette table, les colons profitent de loisirs passifs de type télévisuel en même temps qu'ils prennent leurs repas ou qu'ils travaillent. Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Table_interactive_2x2c.description>
+
+
+</LanguageData>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Syrup to Insert -->
+<VBE_InsertSyrupDesc>Sirop à insérer</VBE_InsertSyrupDesc>
+<!-- EN: Bring Syrup -->
+<VBE_StartInsertion>Apporter du sirop</VBE_StartInsertion>
+<!-- EN: Bring a syrup to the soda fountain to start processing -->
+<VBE_StartInsertionDesc>Apporter du sirop à la fontaine à soda pour commencer le processus.</VBE_StartInsertionDesc>
+<!-- EN: Cancel Bringing Syrup -->
+<VBE_CancelBringingSyrup>Annuler</VBE_CancelBringingSyrup>
+<!-- EN: Cancel bringing syrup to the soda fountain. -->
+<VBE_CancelBringingSyrupDesc>Annuler l'apport de sirop à la fontaine à soda.</VBE_CancelBringingSyrupDesc>
+<!-- EN: The soda has spoiled due to a power failure in the soda fountain -->
+<VBE_SyrupFailurePower>Le soda s'est détérioré en raison d'une panne de courant de la fontaine à soda.</VBE_SyrupFailurePower>
+<!-- EN: This soda fountain is not working at the moment -->
+<VCE_SodaFountainNotWorking>Cette fontaine à soda ne fonctionne pas pour le moment.</VCE_SodaFountainNotWorking>
+<!-- EN: The syrup mix is spoiling fast due to a lack of fuel in the soda fountain -->
+<VCE_SyrupFailurePowerWarning>Le mélange de sirop se gâte rapidement en raison du manque de combustible dans la fontaine à soda.</VCE_SyrupFailurePowerWarning>
+
+<!-- EN: Must to Insert -->
+<VBE_InsertAmbMustDesc>Moût à insérer</VBE_InsertAmbMustDesc>
+<!-- EN: Bring Must -->
+<VBE_StartInsertionAmbMust>Apporter du moût</VBE_StartInsertionAmbMust>
+<!-- EN: Bring ambrandy must to the ambrandy distillery to start fermentation -->
+<VBE_StartInsertionAmbMustDesc>Apporter le moût d'ambrandie à la distillerie d'ambrandie pour commencer la fermentation.</VBE_StartInsertionAmbMustDesc>
+<!-- EN: Cancel Bringing Must -->
+<VBE_CancelBringingAmbMust>Annuler</VBE_CancelBringingAmbMust>
+<!-- EN: Cancel bringing ambrandy must to the ambrandy distillery. -->
+<VBE_CancelBringingAmbMustDesc>Annuler l'apport du moût d'ambrandie à la distillerie d'ambrandie.</VBE_CancelBringingAmbMustDesc>
+<!-- EN: The ambrandy has spoiled due to a power failure in the ambrandy distillery -->
+<VBE_AmbrandyFailurePower>L'ambrandie s'est détérioré à cause d'une panne d'électricité dans la distillerie d'ambrandie.</VBE_AmbrandyFailurePower>
+<!-- EN: Remove Ambrandy ({0}) -->
+<VBE_RemoveAmbrandy>Retirer l'ambrandie ({0})</VBE_RemoveAmbrandy>
+<!-- EN: Remove ambrandy from the ambrandy distillery. The ambrandy will be acquired at the present quality level ({0}) -->
+<VBE_RemoveAmbrandyDesc>Retirer l'ambrandie de la distillerie d'ambrandie. L'ambrandie sera obtenu au niveau de qualité actuel ({0})</VBE_RemoveAmbrandyDesc>
+<!-- EN: This ambrandy distillery is not working at the moment -->
+<VCE_AmbrandyNotWorking>Cette distillerie d'ambrandie ne fonctionne pas pour le moment.</VCE_AmbrandyNotWorking>
+
+<!-- EN: Mash or Whiskey to Insert -->
+<VBE_InsertMustOrWhiskeyDesc>Moût ou Whisky à insérer</VBE_InsertMustOrWhiskeyDesc>
+<!-- EN: Bring Mash or Whiskey -->
+<VBE_StartInsertionMustOrWhiskey>Apporter du Moût ou Whisky</VBE_StartInsertionMustOrWhiskey>
+<!-- EN: Bring mash to the whiskey cask to start fermentation or whiskey to start double-aging process -->
+<VBE_StartInsertionMustOrWhiskeyDesc>Apporter le moût dans le fût à whisky pour commencer la fermentation ou le whisky pour commencer le processus de double vieillissement.</VBE_StartInsertionMustOrWhiskeyDesc>
+<!-- EN: Cancel bringing mash or whiskey must to the whiskey cask. -->
+<VBE_CancelBringingMustOrWhiskey>Annuler l'apport du moût ou du whisky au fût à whisky.</VBE_CancelBringingMustOrWhiskey>
+<!-- EN: This whiskey cask is not working at the moment -->
+<VCE_WhiskeyCaskNotWorking>Ce fût à whisky ne fonctionne pas pour le moment.</VCE_WhiskeyCaskNotWorking>
+
+<!-- EN: Must to Insert -->
+<VBE_InsertTequilaMustDesc>Moût à insérer</VBE_InsertTequilaMustDesc>
+<!-- EN: Bring Must -->
+<VBE_StartInsertionTequilaMust>Apporter du moût</VBE_StartInsertionTequilaMust>
+<!-- EN: Bring tequila must to the tequila barrel to start fermentation process -->
+<VBE_StartInsertionTequilaMustDesc>Apporter le moût de tequila dans le baril pour commencer le processus de fermentation.</VBE_StartInsertionTequilaMustDesc>
+<!-- EN: Cancel Bringing Must -->
+<VBE_CancelBringingTequilaMust>Annuler</VBE_CancelBringingTequilaMust>
+<!-- EN: Cancel bringing tequila must to the tequila barrel. -->
+<VBE_CancelBringingTequilaMustDesc>Annuler l'apport du moût dans le baril de tequila.</VBE_CancelBringingTequilaMustDesc>
+<!-- EN: This tequila barrel is not working at the moment -->
+<VCE_TequilaBarrelNotWorking>Ce baril de tequila ne fonctionne pas pour le moment.</VCE_TequilaBarrelNotWorking>
+
+<!-- EN: Mash to Insert -->
+<VBE_InsertVodkaMustDesc>Moût à insérer</VBE_InsertVodkaMustDesc>
+<!-- EN: Bring Mash -->
+<VBE_StartInsertionVodkaMust>Apporter du moût</VBE_StartInsertionVodkaMust>
+<!-- EN: Bring vodka mash to the vodka drum to start fermentation process -->
+<VBE_StartInsertionVodkaMustDesc>Apporter le moût de vodka dans la cuve pour commencer le processus de fermentation.</VBE_StartInsertionVodkaMustDesc>
+<!-- EN: Cancel Bringing Mash -->
+<VBE_CancelBringingVodkaMust>Annuler</VBE_CancelBringingVodkaMust>
+<!-- EN: Cancel bringing vodka mash to the vodka drum. -->
+<VBE_CancelBringingVodkaMustDesc>Annuler l'apport du moût dans la cuve de vodka.</VBE_CancelBringingVodkaMustDesc>
+<!-- EN: This vodka drum is not working at the moment -->
+<VCE_VodkaDrumNotWorking>Cette cuve de vodka ne fonctionne pas pour le moment.</VCE_VodkaDrumNotWorking>
+
+<!-- EN: Mush to Insert -->
+<VBE_InsertGinMushDesc>Moût à insérer</VBE_InsertGinMushDesc>
+<!-- EN: Bring Mush -->
+<VBE_StartInsertionGinMush>Apporter du moût</VBE_StartInsertionGinMush>
+<!-- EN: Bring gin mush to the gin still to start fermentation process -->
+<VBE_StartInsertionGinMushDesc>Apporter le moût de gin dans l'alambic pour commencer le processus de fermentation.</VBE_StartInsertionGinMushDesc>
+<!-- EN: Cancel Bringing Mush -->
+<VBE_CancelBringingGinMush>Annuler</VBE_CancelBringingGinMush>
+<!-- EN: Cancel bringing gin mush to the gin still. -->
+<VBE_CancelBringingGinMushDesc>Annuler l'apport du moût dans l'alambic à gin.</VBE_CancelBringingGinMushDesc>
+<!-- EN: This gin still is not working at the moment -->
+<VCE_GinStillNotWorking>Cet alambic de gin ne fonctionne pas pour le moment.</VCE_GinStillNotWorking>
+
+<!-- EN: Mush ripening -->
+<VBE_MushRipening>Maturation en moût</VBE_MushRipening>
+<!-- EN: This mush is frozen and will not ripen into ambrandy must -->
+<VBE_MushCurrentlyFrozen>Cette bouillie est congelée et ne se transformera pas en moût d'ambrandie</VBE_MushCurrentlyFrozen>
+<!-- EN: This mush is refrigerated and will not ripen into ambrandy must as fast as it could (ripens in {0}) -->
+<VBE_MushCurrentlyRefrigerated>Cette bouillie est réfrigéré et ne se transformera pas en moût d'ambrandie aussi rapidement qu'elle le pourrait (maturation dans {0})</VBE_MushCurrentlyRefrigerated>
+<!-- EN: This mush is ripening into ambrandy must correctly (ripens in {0}) -->
+<VBE_MushDryingCorrectly>Cette bouillie d'ambroisie est en train de mûrir correctement en moût d'ambrandie (maturation dans {0})</VBE_MushDryingCorrectly>
+
+<!-- EN: Cider maturing -->
+<VBE_CiderMaturing>Maturation en cidre</VBE_CiderMaturing>
+<!-- EN: This unfermented cider is frozen and will not mature into cider -->
+<VBE_CiderCurrentlyFrozen>Ce cidre non fermenté est gelé et ne mûrira pas en cidre</VBE_CiderCurrentlyFrozen>
+<!-- EN: This unfermented cider is refrigerated and will not mature into cider as fast as it could (matures in {0}) -->
+<VBE_CiderCurrentlyRefrigerated>Ce cidre non fermenté est réfrigéré et ne se transformera pas en cidre aussi rapidement qu'il le pourrait (maturation dans {0})</VBE_CiderCurrentlyRefrigerated>
+<!-- EN: This unfermented cider is maturing into cider correctly (matures in {0}) -->
+<VBE_CiderMaturingCorrectly>Ce cidre non fermenté est en train de mûrir correctement (maturation dans {0})</VBE_CiderMaturingCorrectly>
+
+<!-- EN: Unforbid dropped fruit -->
+<VBE_UnforbidDroppedFruit>Autoriser les fruits tombés</VBE_UnforbidDroppedFruit>
+
+<!-- EN: Never -->
+<VBE_Never>— Jamais</VBE_Never>
+<!-- EN: Never unforbid automatically dropped fruit -->
+<VBE_NeverDesc>Ne jamais Autoriser les fruits tombés automatiquement.</VBE_NeverDesc>
+<!-- EN: Home area -->
+<VBE_HomeArea>— Zone de base</VBE_HomeArea>
+<!-- EN: Only unforbid automatically dropped fruit if the tree is in the home area -->
+<VBE_HomeAreaDesc>Autoriser seulement les fruits tombés automatiquement si l'arbre se trouve dans la Zone de base.</VBE_HomeAreaDesc>
+<!-- EN: Always -->
+<VBE_Always>— Toujours</VBE_Always>
+<!-- EN: Always unforbid automatically dropped fruit -->
+<VBE_AlwaysDesc>Toujours Autoriser les fruits tombés automatiquement.</VBE_AlwaysDesc>
+
+
+</LanguageData>

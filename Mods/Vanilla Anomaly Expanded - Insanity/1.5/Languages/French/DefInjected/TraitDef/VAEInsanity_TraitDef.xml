@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: distractable -->
+<VAEI_Distractable.label>distrait</VAEI_Distractable.label>
+<!-- EN: distractable -->
+<VAEI_Distractable.degreeDatas.distractable.label>distrait</VAEI_Distractable.degreeDatas.distractable.label>
+<!-- EN: {PAWN_nameDef} hyperfocuses on certain things when {PAWN_pronoun} feel like it, but most of the time {PAWN_pronoun} will struggle to concentrate on {PAWN_possessive} task, severely affecting {PAWN_possessive} work speed. -->
+<VAEI_Distractable.degreeDatas.distractable.description>{PAWN_nameDef} se concentre sur certaines choses lorsqu'{PAWN_pronoun} en a envie, mais la plupart du temps, {PAWN_pronoun} a du mal à se concentrer sur sa tâche, ce qui affecte gravement sa vitesse de travail.</VAEI_Distractable.degreeDatas.distractable.description>
+<VAEI_Distractable.degreeDatas.distractable.labelFemale>distraite</VAEI_Distractable.degreeDatas.distractable.labelFemale>
+
+<!-- EN: germaphobe -->
+<VAEI_Germaphobe.label>germaphobe</VAEI_Germaphobe.label>
+<!-- EN: germaphobe -->
+<VAEI_Germaphobe.degreeDatas.germaphobe.label>germaphobe</VAEI_Germaphobe.degreeDatas.germaphobe.label>
+<!-- EN: {PAWN_nameDef} is terrified of germs and contamination, leading to excessively slow and meticulous cleaning, but due to the careful nature will never contract flu, malaria, or plague. -->
+<VAEI_Germaphobe.degreeDatas.germaphobe.description>{PAWN_nameDef} est terrifié{PAWN_gender ? : e } par les germes et la contamination, ce qui l'amène à faire le ménage avec une lenteur et une méticulosité excessives, mais grâce à sa nature prudente, {PAWN_pronoun} ne contractera jamais la grippe, la malaria ou la peste.</VAEI_Germaphobe.degreeDatas.germaphobe.description>
+
+<!-- EN: inhumanized -->
+<VAEI_Inhumanized.degreeDatas.inhumanized.label>déshumanisé</VAEI_Inhumanized.degreeDatas.inhumanized.label>
+<!-- EN: {PAWN_nameDef} text.todo -->
+<VAEI_Inhumanized.degreeDatas.inhumanized.description>TODO</VAEI_Inhumanized.degreeDatas.inhumanized.description>
+<VAEI_Inhumanized.degreeDatas.inhumanized.labelFemale>déshumanisée</VAEI_Inhumanized.degreeDatas.inhumanized.labelFemale>
+
+<!-- EN: mood swings -->
+<VAEI_MoodSwings.label>sautes d'humeur</VAEI_MoodSwings.label>
+<!-- EN: mood swings -->
+<VAEI_MoodSwings.degreeDatas.mood_swings.label>sautes d'humeur</VAEI_MoodSwings.degreeDatas.mood_swings.label>
+<!-- EN: {PAWN_nameDef} suffers from severe mood swings that can last anything between a day and a quadrum. One day {PAWN_pronoun} might be extremely happy, whilst the next day - extremely sad. -->
+<VAEI_MoodSwings.degreeDatas.mood_swings.description>{PAWN_nameDef} souffre de graves sautes d'humeur qui peuvent durer entre un jour et un quadrum. Un jour, {PAWN_pronoun} peut être extrêmement heureu{PAWN_gender ? x : se }, tandis que le lendemain, {PAWN_pronoun} est extrêmement triste.</VAEI_MoodSwings.degreeDatas.mood_swings.description>
+
+<!-- EN: noncommittal -->
+<VAEI_Noncommittal.label>philophobie</VAEI_Noncommittal.label>
+<!-- EN: noncommittal -->
+<VAEI_Noncommittal.degreeDatas.noncommittal.label>philophobie</VAEI_Noncommittal.degreeDatas.noncommittal.label>
+<!-- EN: {PAWN_nameDef} is panicly afraid of commitment. {PAWN_pronoun} will actively refuse any attachment to others, and will never form any new relationships. -->
+<VAEI_Noncommittal.degreeDatas.noncommittal.description>{PAWN_nameDef} a une peur panique de l'engagement. {PAWN_pronoun} refusera activement tout attachement aux autres et ne nouera jamais de nouvelles relations.</VAEI_Noncommittal.degreeDatas.noncommittal.description>
+
+<!-- EN: impulsive -->
+<VAEI_Unstable.label>impulsif</VAEI_Unstable.label>
+<!-- EN: impulsive -->
+<VAEI_Unstable.degreeDatas.impulsive.label>impulsif</VAEI_Unstable.degreeDatas.impulsive.label>
+<!-- EN: {PAWN_nameDef}'s emotional foundation is fragile, making {PAWN_objective} significantly more prone to crumbling under stress. {PAWN_pronoun} struggle to handle pressure, which often leads to breakdowns in challenging situations. -->
+<VAEI_Unstable.degreeDatas.impulsive.description>Les fondations émotionnelles de {PAWN_nameDef} sont fragiles, ce qui {PAWN_gender ? le : la } rend beaucoup plus susceptible de s'effondrer sous l'effet du stress. {PAWN_pronoun} a du mal à gérer la pression, ce qui {PAWN_gender ? le : la } conduit souvent à s'effondrer dans des situations difficiles.</VAEI_Unstable.degreeDatas.impulsive.description>
+<VAEI_Unstable.degreeDatas.impulsive.labelFemale>impulsive</VAEI_Unstable.degreeDatas.impulsive.labelFemale>
+
+<!-- EN: void touched -->
+<VAEI_VoidTouched.degreeDatas.void_touched.label>toucher du néant</VAEI_VoidTouched.degreeDatas.void_touched.label>
+<!-- EN: {PAWN_nameDef} text.todo -->
+<VAEI_VoidTouched.degreeDatas.void_touched.description>TODO</VAEI_VoidTouched.degreeDatas.void_touched.description>
+
+
+</LanguageData>

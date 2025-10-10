@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<VOEAdditionalOutposts.DepositTab>Dépôts</VOEAdditionalOutposts.DepositTab>
+<VOEAdditionalOutposts.BankInterestMsg>La banque {0} a généré {2} d'{1} d’intérêt pour le dépôt.</VOEAdditionalOutposts.BankInterestMsg>
+<VOEAdditionalOutposts.DepositCurrent>Dépôt +{0} pour {1} saison{1_multiple ? s : } </VOEAdditionalOutposts.DepositCurrent>
+<VOEAdditionalOutposts.DepositSeasonsLeft>Saison restante : {0}</VOEAdditionalOutposts.DepositSeasonsLeft>
+<VOEAdditionalOutposts.DepositTimeLeft>Temps restant du dépôt : {0}</VOEAdditionalOutposts.DepositTimeLeft>
+<VOEAdditionalOutposts.DepositIncome>Intérêt de la saison en cours : {0}</VOEAdditionalOutposts.DepositIncome>
+<VOEAdditionalOutposts.DepositDeliver>Intérêts livrés à {0}</VOEAdditionalOutposts.DepositDeliver>
+<VOEAdditionalOutposts.DepositKeep>Intérêts réinvestis dans le dépôt</VOEAdditionalOutposts.DepositKeep>
+<VOEAdditionalOutposts.DepositAddedNextSeason>Nouveau dépôt pour la prochaine saison :</VOEAdditionalOutposts.DepositAddedNextSeason>
+<VOEAdditionalOutposts.DepositSelectDeposit>Sélectionner le prochain dépôt :</VOEAdditionalOutposts.DepositSelectDeposit>
+<VOEAdditionalOutposts.DepositAutoRepeat>Répéter automatiquement le dépôt</VOEAdditionalOutposts.DepositAutoRepeat>
+<VOEAdditionalOutposts.DepositStart>Créer le nouveau dépôt</VOEAdditionalOutposts.DepositStart>
+<VOEAdditionalOutposts.DepositStop>Retrait prématuré du dépôt</VOEAdditionalOutposts.DepositStop>
+<VOEAdditionalOutposts.DepositMaxWealth>Dépôt de richesse max : {0}</VOEAdditionalOutposts.DepositMaxWealth>
+<VOEAdditionalOutposts.Settings.DepositWealthPerSocial>Richesse max par point dans la compétence Sociabilité </VOEAdditionalOutposts.Settings.DepositWealthPerSocial>
+<VOEAdditionalOutposts.Settings.SilverInterestMultiplier>Multiplicateur d'intérêts pour l'argent </VOEAdditionalOutposts.Settings.SilverInterestMultiplier>
+<VOEAdditionalOutposts.Settings.GoldInterestMultiplier>Multiplicateur d'intérêts pour l'or </VOEAdditionalOutposts.Settings.GoldInterestMultiplier>
+<VOEAdditionalOutposts.Settings.EarlyDepositStop>Possibilité de retrait anticipé</VOEAdditionalOutposts.Settings.EarlyDepositStop>
+
+
+</LanguageData>

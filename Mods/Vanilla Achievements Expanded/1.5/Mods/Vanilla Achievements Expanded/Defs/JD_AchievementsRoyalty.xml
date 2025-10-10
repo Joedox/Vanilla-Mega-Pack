@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Royalty -->
+
+<!-- Dents-de-sabre -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>JD_DentsDeSabre</defName>
+		<label>Sabretooth</label>
+		<description>Install two clawed hands on the same colon.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>HandTalon</key>
+					<value>2</value>
+				</li>
+			</defs>
+		</tracker>
+
+		<texPath>Achievements/JD_DentsDeSabre</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Main verte -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>JD_MainVerte</defName>
+		<label>Do you know how to plant cabbages</label>
+		<description>Install two green hands on the same settler.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>FieldHand</key>
+					<value>2</value>
+				</li>
+			</defs>
+		</tracker>
+
+		<texPath>Achievements/JD_MainVerte</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Bras de forage -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>JD_BrasForage</defName>
+		<label>Tunnelier</label>
+		<description>Install two drilling arms on the same settler.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>DrillArm</key>
+					<value>2</value>
+				</li>
+			</defs>
+		</tracker>
+
+		<texPath>Achievements/JD_BrasForage</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Crocs à venin & Griffe venimeuse -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>JD_Venin</defName>
+		<label>Next stop, Fourchelang</label>
+		<description>Install venom fangs and venomous claws on the same colon.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>VenomFangs</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>VenomTalon</key>
+					<value>2</value>
+				</li>
+			</defs>
+		</tracker>
+
+		<texPath>Achievements/JD_Venin</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+</Defs>

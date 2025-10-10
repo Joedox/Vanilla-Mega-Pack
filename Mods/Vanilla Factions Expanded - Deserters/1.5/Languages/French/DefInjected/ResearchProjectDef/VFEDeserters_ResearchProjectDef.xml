@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFED_ImperialDefenses.label>défenses impériales</VFED_ImperialDefenses.label>
+<VFED_ImperialDefenses.description>Vous permet de construire des mégatourelles impériales : Kontarion, Onager et Palintone, ainsi que leurs munitions.</VFED_ImperialDefenses.description>
+<VFED_ImperialDefenses.generalRules.rulesStrings>
+    <li>subject->l'ingénierie de la forteresse</li>
+    <li>subject_story->a mis au point les défenses les plus puissantes, dissuadant les conquérants potentiels par de simples rumeurs de leur puissance</li>
+    <li>subject_story->a conçu des tourelles qui combinent des principes de conception anciens avec des armes futuristes</li>
+    <li>subject_story->a veillé à ce que les frontières de l'empire soient imprenables, témoignant ainsi de l'ingéniosité impériale</li>
+    <li>subject_gerund->la redéfinition de l'art de la défense</li>
+</VFED_ImperialDefenses.generalRules.rulesStrings>
+
+<VFED_ImperialWarSolutions.label>solutions guerre impériale</VFED_ImperialWarSolutions.label>
+<VFED_ImperialWarSolutions.description>Vous permet de fabriquer de puissants obus de mortier impériaux, tels que les obus shrapnel, les obus perforants ou les obus à fragmentation.</VFED_ImperialWarSolutions.description>
+<VFED_ImperialWarSolutions.generalRules.rulesStrings>
+    <li>subject->les munitions avancées</li>
+    <li>subject_story->a innové en créant des munitions d'artillerie qui permettaient de tourner les champs de bataille à leur avantage d'une seule salve</li>
+    <li>subject_story->a mis au point des obus capables de percer les armures les plus résistantes ou de disperser les ennemis avec des éclats d'obus implacables</li>
+    <li>subject_story->a transformé l'artillerie de l'empire en une force capable de dicter les termes de l'engagement</li>
+    <li>subject_gerund->la maîtrise de la science de la destruction</li>
+</VFED_ImperialWarSolutions.generalRules.rulesStrings>
+
+<VFED_RemoteDemolition.label>solutions guerre impériale</VFED_RemoteDemolition.label>
+<VFED_RemoteDemolition.description>Vous permet de construire des pièges explosifs avancés avec un mécanisme de détonation à distance.</VFED_RemoteDemolition.description>
+<VFED_RemoteDemolition.generalRules.rulesStrings>
+    <li>subject->les tactiques de démolition</li>
+    <li>subject_story->a été le premier à utiliser des explosifs commandés à distance, ce qui a modifié la dynamique de la guerre de siège</li>
+    <li>subject_story->a conçu des pièges qui pouvaient être déclenchés au moment idéal, créant ainsi le chaos dans les rangs de l'ennemi</li>
+    <li>subject_story->a transformé le champ de bataille en un environnement méticuleusement contrôlé, où chaque pas pouvait être le dernier</li>
+    <li>subject_gerund->l'élévation de l'élément de surprise au rang d'art</li>
+</VFED_RemoteDemolition.generalRules.rulesStrings>
+
+
+</LanguageData>

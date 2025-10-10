@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Throwing Rocks -->
+
+  <VWE_Throwing_Rocks.label>pierres de lancer</VWE_Throwing_Rocks.label>
+  <VWE_Throwing_Rocks.description>Une poignée de pierres. Peut infliger des blessures mineures à courte distance. Ne tombe pas en cas de mort. Simple mais efficace.</VWE_Throwing_Rocks.description>
+  <VWE_Throwing_Rocks.tools.edge.label>pierre</VWE_Throwing_Rocks.tools.edge.label>
+  <VWE_Throwing_Rocks.verbs.Verb_Shoot.label>pierres de lancer</VWE_Throwing_Rocks.verbs.Verb_Shoot.label>
+
+  <VWE_Rock.label>pierre</VWE_Rock.label>
+
+
+  <!-- Long Bow -->
+
+  <VWE_Bow_Long.label>arc long</VWE_Bow_Long.label>
+  <VWE_Bow_Long.description>Les arcs longs sont des armes néolithiques qui peuvent tirer des flèches puissantes sur de longues distances.\n\nLes flèches tirées volent en arc de cercle afin de passer aux dessus des obstacles.</VWE_Bow_Long.description>
+  <VWE_Bow_Long.tools.limb.label>cadre arc long</VWE_Bow_Long.tools.limb.label>
+  <VWE_Bow_Long.verbs.Verb_Shoot.label>arc long</VWE_Bow_Long.verbs.Verb_Shoot.label>
+
+  <VWE_Arrow_Long.label>flèche arc long</VWE_Arrow_Long.label>
+  
+
+</LanguageData>

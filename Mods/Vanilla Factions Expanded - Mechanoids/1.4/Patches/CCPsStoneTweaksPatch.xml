@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>CCP's Stone Tweaks</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+
+
+
+				<li Class="PatchOperationAdd"> 
+					<success>Always</success>
+					<xpath>/Defs</xpath>
+					<value>
+
+						<ItemProcessor.CombinationDef>
+							<defName>VFEM_MasonryAndMetallicsFactory_MasonrySaw_ChunkPinkMarble</defName>
+							<building>VFEM_MasonryAndMetallicsFactory_MasonrySaw</building>
+							<items>
+								<li>ChunkPinkMarble</li>
+							</items>	
+							<amount>
+								<li>1</li>
+							</amount>
+							<result>BlocksPinkMarble</result>	
+							<yield>10</yield>
+							<outputLimitControlled>true</outputLimitControlled>
+							<maxTotalOutput>2000</maxTotalOutput>
+							<resultUsesSpecialIcon>true</resultUsesSpecialIcon>
+							<resultSpecialIcon>UI/BlocksPinkMarble</resultSpecialIcon>
+							<useQualityIncreasing>false</useQualityIncreasing>
+							<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+						</ItemProcessor.CombinationDef>
+
+						<ItemProcessor.CombinationDef>
+							<defName>VFEM_MasonryAndMetallicsFactory_MasonrySaw_ChunkGreenMarble</defName>
+							<building>VFEM_MasonryAndMetallicsFactory_MasonrySaw</building>
+							<items>
+								<li>ChunkGreenMarble</li>
+							</items>	
+							<amount>
+								<li>1</li>
+							</amount>
+							<result>BlocksGreenMarble</result>	
+							<yield>10</yield>
+							<outputLimitControlled>true</outputLimitControlled>
+							<maxTotalOutput>2000</maxTotalOutput>
+							<resultUsesSpecialIcon>true</resultUsesSpecialIcon>
+							<resultSpecialIcon>UI/ChunkGreenMarble</resultSpecialIcon>
+							<useQualityIncreasing>false</useQualityIncreasing>
+							<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+						</ItemProcessor.CombinationDef>
+
+						<ItemProcessor.CombinationDef>
+							<defName>VFEM_MasonryAndMetallicsFactory_MasonrySaw_ChunkBlueGranite</defName>
+							<building>VFEM_MasonryAndMetallicsFactory_MasonrySaw</building>
+							<items>
+								<li>ChunkBlueGranite</li>
+							</items>	
+							<amount>
+								<li>1</li>
+							</amount>
+							<result>BlocksBlueGranite</result>	
+							<yield>10</yield>
+							<outputLimitControlled>true</outputLimitControlled>
+							<maxTotalOutput>2000</maxTotalOutput>
+							<resultUsesSpecialIcon>true</resultUsesSpecialIcon>
+							<resultSpecialIcon>UI/BlocksBlueGranite</resultSpecialIcon>
+							<useQualityIncreasing>false</useQualityIncreasing>
+							<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+						</ItemProcessor.CombinationDef>
+
+
+
+					</value>
+				</li>
+
+
+
+
+
+
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+

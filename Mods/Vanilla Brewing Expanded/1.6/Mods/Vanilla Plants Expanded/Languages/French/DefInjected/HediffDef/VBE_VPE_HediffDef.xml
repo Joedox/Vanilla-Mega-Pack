@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: drank cider based cocktail -->
+<VBE_CiderAsIngredient.label>a bu un cocktail à base de cidre</VBE_CiderAsIngredient.label>
+<!-- EN: This colonist drank a cocktail that had cider as one of its ingredients. Many praise cider for its supposed antioxidant properties. Slightly removes toxic buildup. -->
+<VBE_CiderAsIngredient.description>Ce colon a bu un cocktail dont l'un des ingrédients était le cidre. Beaucoup font l'éloge du cidre pour ses supposées propriétés antioxydantes. Il élimine légèrement les accumulations toxiques.</VBE_CiderAsIngredient.description>
+
+<!-- EN: cider high -->
+<VBE_CiderHigh.label>cidre</VBE_CiderHigh.label>
+<!-- EN: Alcohol from cider in the bloodstream. It makes people happy, but reduces capacities. Cannot cause alcohol addiction. Cannot get past the “warm” drunken stage no matter how many are downed. -->
+<VBE_CiderHigh.description>L'alcool du cidre dans le sang. Il rend les gens heureux, mais réduit les capacités. Ne peut pas causer de dépendance à l'alcool. Ne peut pas dépasser le stade de l'ivresse "gai", quel que soit le nombre de verres consommés.</VBE_CiderHigh.description>
+<!-- EN: a cider high -->
+<VBE_CiderHigh.labelNoun>un cidre</VBE_CiderHigh.labelNoun>
+<!-- EN: warm -->
+<VBE_CiderHigh.stages.warm.label>gai</VBE_CiderHigh.stages.warm.label>
+
+
+</LanguageData>

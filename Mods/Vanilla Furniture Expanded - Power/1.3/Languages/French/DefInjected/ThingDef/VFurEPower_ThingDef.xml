@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VPE_Mote_GasPuff.label>Mote</VPE_Mote_GasPuff.label>
+
+<VFE_AdvancedWindTurbine.label>turbine éolienne avancée</VFE_AdvancedWindTurbine.label>
+<VFE_AdvancedWindTurbine.description>Un générateur électrique éolien avancé de technologie spatial. Nécessite un grand espace libre devant et derrière pour une circulation optimale de l'air.</VFE_AdvancedWindTurbine.description>
+
+<VFE_AdvancedSolarGenerator.label>panneau solaire avancé</VFE_AdvancedSolarGenerator.label>
+<VFE_AdvancedSolarGenerator.description>Ce générateur solaire de technologie spatial est capable de produire beaucoup plus d'énergie de la lumière du soleil. Il ne fonctionne pas dans l'obscurité ou sous une lumière artificielle.</VFE_AdvancedSolarGenerator.description>
+
+<VFE_AdvancedWatermillGenerator.label>générateur hydroélectrique avancé</VFE_AdvancedWatermillGenerator.label>
+<VFE_AdvancedWatermillGenerator.description>Un bâtiment de technologie spatial qui produit de l'électricité à partir d'une rivière. Il doit être placé avec sa roue dans l'eau en mouvement. Si les moulins à eau sont placés trop près les uns des autres, les turbulences qu'ils génèrent interféreront et réduiront la production d'électricité.</VFE_AdvancedWatermillGenerator.description>
+
+<VPE_AdvancedGeothermalGenerator.label>générateur géothermique avancé</VPE_AdvancedGeothermalGenerator.label>
+<VPE_AdvancedGeothermalGenerator.description>Ce générateur avancé de technologie spatial produit de l'électricité à partir de geysers de vapeur géothermiques. Doit être placé sur un geyser de vapeur.</VPE_AdvancedGeothermalGenerator.description>
+
+<VFE_LargeBattery.label>grande batterie</VFE_LargeBattery.label>
+<VFE_LargeBattery.description>Stocke une grande quantité d'électricité pour une utilisation ultérieure. Les batteries chargées explosent lorsqu'elles sont exposées à la pluie ou au feu.</VFE_LargeBattery.description>
+
+<VFE_SmallBattery.label>petite batterie</VFE_SmallBattery.label>
+<VFE_SmallBattery.description>Stocke une petite quantité d'électricité pour une utilisation ultérieure. Les batteries chargées explosent lorsqu'elles sont exposées à la pluie ou au feu.</VFE_SmallBattery.description>
+
+<VFE_AdvancedBattery.label>batterie avancée</VFE_AdvancedBattery.label>
+<VFE_AdvancedBattery.description>Stocke l'électricité pour une utilisation ultérieure. Grâce aux progrès technologiques, cette unité de batterie est nettement plus efficace. Les batteries avancées chargées sont étanches et n'explosent pas lorsqu'elles sont exposées à la pluie.</VFE_AdvancedBattery.description>
+
+<VFE_LargeAdvancedBattery.label>grande batterie avancée</VFE_LargeAdvancedBattery.label>
+<VFE_LargeAdvancedBattery.description>Stocke de grandes quantités d'électricité pour une utilisation ultérieure. Grâce aux progrès technologiques, cette unité de batterie est beaucoup plus efficace. Les batteries avancées chargées sont étanches et n'explosent pas lorsqu'elles sont exposées à la pluie.</VFE_LargeAdvancedBattery.description>
+
+<VPE_ChemfuelPump.label>pompe à chemfuel</VPE_ChemfuelPump.label>
+<VPE_ChemfuelPump.description>Une pompe de type industriel capable d'extraire le carburant chimique des poches souterraines. Une fois le combustible chimique entièrement extrait, la pompe à combustible chimique peut être démontée en toute sécurité.</VPE_ChemfuelPump.description>
+
+<VPE_GasPipe.label>tuyau de gaz</VPE_GasPipe.label>
+<VPE_GasPipe.description>Un tuyau qui achemine le gaz hélixien.</VPE_GasPipe.description>
+
+<VPE_GasPipeSub.label>tuyau de gaz souterrain</VPE_GasPipeSub.label>
+<VPE_GasPipeSub.description>Un tuyau qui achemine le gaz hélixien. Ce tuyau est caché de la vue et il est protégé des explosions de gaz. Beaucoup plus coûteux à construire que les tuyaux ordinaires.</VPE_GasPipeSub.description>
+
+<VPE_GasPipeValve.label>vanne de gaz</VPE_GasPipeValve.label>
+<VPE_GasPipeValve.description>Permet d'activer ou de désactiver le flux de gaz.</VPE_GasPipeValve.description>
+
+<VPE_GasTank.label>réservoir de gaz</VPE_GasTank.label>
+<VPE_GasTank.description>Un grand réservoir en acier pour le stockage du gaz. Il explose s'il est endommagé.</VPE_GasTank.description>
+
+<VPE_HelixienPump.label>pompe hélixien</VPE_HelixienPump.label>
+<VPE_HelixienPump.description>Une machine d'extraction montée sur un geyser de gaz hélixien. Auto-alimentée, cette machine pompe du gaz précieux et doit être connectée à d'autres services de gaz à l'aide du réseau de canalisations.</VPE_HelixienPump.description>
+
+<VPE_HelixienGenerator.label>générateur au gaz hélixien</VPE_HelixienGenerator.label>
+<VPE_HelixienGenerator.description>Produit de l'énergie en consommant du gaz hélixien. Doit être raccordé à un réseau de gaz.</VPE_HelixienGenerator.description>
+
+<VPE_IndustrialHelixienGenerator.label>générateur industriel au gaz hélixien</VPE_IndustrialHelixienGenerator.label>
+<VPE_IndustrialHelixienGenerator.description>Produit une grande quantité d'énergie en consommant du gaz hélixien. Doit être raccordé à un réseau de gaz.</VPE_IndustrialHelixienGenerator.description>
+
+<VPE_GasCrematorium.label>four crématoire au gaz hélixien</VPE_GasCrematorium.label>
+<VPE_GasCrematorium.description>Un immense crématorium de pierre qui vaporise les cadavres à des températures extrêmement élevées. Fonctionne au gaz hélixien.</VPE_GasCrematorium.description>
+
+<VPE_GasSmelter.label>fonderie au gaz hélixien</VPE_GasSmelter.label>
+<VPE_GasSmelter.description>Extrait le métal réutilisable des débris et objets métalliques. Fonctionne au gaz hélixien.</VPE_GasSmelter.description>
+
+<VPE_GasStove.label>cuisinière au gaz hélixien</VPE_GasStove.label>
+<VPE_GasStove.description>Une cuisinière au gaz avec un plan de travail pour la préparation des repas.</VPE_GasStove.description>
+
+<VPE_GasDrill.label>forage en profondeur au gaz hélixien</VPE_GasDrill.label>
+<VPE_GasDrill.description>Une plate-forme de forage pour extraire des minerais loin sous la surface. Utiliser un scanner géologique capable de pénétrer le sol pour détecter les ressources. Si aucune ressource n’est présente cela donnera des morceaux de pierre. Peut-être repositionné librement.</VPE_GasDrill.description>
+
+<VPE_GasCooler.label>refroidisseur au gaz hélixien</VPE_GasCooler.label>
+<VPE_GasCooler.description>Une machine de refroidissement de l'air qui libère de l'air refroidi autour d'elle. Peut être utilisé pour créer une chambre froide. Ne peut pas être réglé et abaisse automatiquement la température légèrement en dessous de zéro.</VPE_GasCooler.description>
+
+<VPE_GasHeater.label>chauffage au gaz hélixien</VPE_GasHeater.label>
+<VPE_GasHeater.description>Un appareil qui convertit le gaz hélixien en chaleur rayonnante. Il peut s'allumer ou s'éteindre automatiquement pour atteindre une température cible spécifique.</VPE_GasHeater.description>
+
+<VPE_GasSunLamp.label>lampe horticole au gaz hélixien</VPE_GasSunLamp.label>
+<VPE_GasSunLamp.description>Éclaire suffisamment pour que les plantes puissent pousser, mais consomme beaucoup de gaz hélixien. S’éteint automatiquement la nuit.</VPE_GasSunLamp.description>
+<VPE_GasSunLamp.comps.CompSchedule.offMessage>Éteint pendant la période de repos des plantes</VPE_GasSunLamp.comps.CompSchedule.offMessage>
+
+<VPE_GasSmithy.label>établi de forgeron au gaz hélixien</VPE_GasSmithy.label>
+<VPE_GasSmithy.description>Un établi qui fonctionne au gaz pour forger et assembler des armes et des outils sans mécanismes.</VPE_GasSmithy.description>
+
+<VPE_GasLamp.label>lampadaire au gaz</VPE_GasLamp.label>
+<VPE_GasLamp.description>Un lampadaire fonctionnant au gaz qui éclaire une zone. Les gens ont besoin de lumière pour se déplacer et travailler à toute vitesse. Doit être raccordé au réseau de gaz hélixien. Peut être placée en toute sécurité à l'extérieur.</VPE_GasLamp.description>
+
+<VPE_GasWallLight.label>applique au gaz</VPE_GasWallLight.label>
+<VPE_GasWallLight.description>Une applique murale fonctionnant au gaz qui éclaire une zone. Les gens ont besoin de lumière pour se déplacer et travailler à toute vitesse. Doit être raccordée au réseau de gaz hélixien. Peut être placée en toute sécurité à l'extérieur.</VPE_GasWallLight.description>
+
+<VPE_GasWallDarkLight.label>applique tamisé au gaz</VPE_GasWallDarkLight.label>
+<VPE_GasWallDarkLight.description>Une applique murale fonctionnant au gaz qui émet une lumière tamisée sur une grande surface. Les personnes qui préfèrent travailler dans l'obscurité sont satisfaites de cette source de lumière. Doit être raccordée au réseau de gaz hélixien. Peut être placée en toute sécurité à l'extérieur.</VPE_GasWallDarkLight.description>
+
+<VPE_GasFloodlight.label>lampe extérieure au gaz</VPE_GasFloodlight.label>
+<VPE_GasFloodlight.description>Un grand projecteur au gaz qui éclaire une grande surface. Les gens ont besoin de lumière pour se déplacer et travailler à toute vitesse. Il ne brille pas assez pour faire pousser des cultures. Doit être raccordé au réseau de gaz hélixien.</VPE_GasFloodlight.description>
+
+<VPE_GasBiofuelRefinery.label>raffinerie au gaz hélixien</VPE_GasBiofuelRefinery.label>
+<VPE_GasBiofuelRefinery.description>Raffine la matière biologique comme le bois ou la matière végétale en combustible chimique. Doit être connecté au réseau de gaz hélixien.</VPE_GasBiofuelRefinery.description>
+
+<VPE_GasVent.label>évent de gaz hélixien</VPE_GasVent.label>
+<VPE_GasVent.description>Un évent mural capable de libérer des composés toxiques de gaz hélixien dans la zone ciblée. Il draine rapidement la réserve de gaz hélixien et se dissipe rapidement. Il nécessite l'installation d'une vanne de gaz dans le même réseau pour limiter le flux de gaz. Le gaz hélixien est très volatile et se disperse avec le vent.</VPE_GasVent.description>
+
+<VPE_GasPodLauncher.label>lanceur de capsules au gaz</VPE_GasPodLauncher.label>
+<VPE_GasPodLauncher.description>Un lanceur fonction au gaz hélixien pour le lancement d'une capsule de transport. Les lanceurs de capsule peuvent s'activer par groupe, mais pour cela, ils doivent être placés côte à côte. Doit être connecté au réseau de gaz hélixien.</VPE_GasPodLauncher.description>
+
+<VPE_LightningRod.label>paratonnerre</VPE_LightningRod.label>
+<VPE_LightningRod.description>Une technologie avancée permet à ce dispositif d'exploiter la puissance de la foudre et de la placer sous forme de charge prête à l'emploi dans les batteries.</VPE_LightningRod.description>
+
+<VPE_HelixienGeyser.label>geyser de gaz hélixien</VPE_HelixienGeyser.label>
+<VPE_HelixienGeyser.description>Une source naturelle de gaz à haute pression. Des pompes à gaz hélixien peuvent être construites au sommet pour extraire le gaz.</VPE_HelixienGeyser.description>
+
+<VPE_ChemfuelPond.label>bassin chemfuel</VPE_ChemfuelPond.label>
+<VPE_ChemfuelPond.description>Une source naturelle de chemfuel, plus fréquente dans les biomes arides. Une pompe à chemfuel peut être installée ici pour extraire le chemfuel. Le bassin finira par s'épuiser.</VPE_ChemfuelPond.description>
+
+<VPE_NuclearGenerator.label>réacteur nucléaire</VPE_NuclearGenerator.label>
+<VPE_NuclearGenerator.description>Un grand réacteur nucléaire réutilisé à partir d'un noyau d'alimentation de vaisseau. Consomme de l'uranium pour produire de grandes quantités d'énergie. Il peut être surchargé, ce qui permet de produire encore plus d'énergie au prix de radiations locales.\n\nLe réacteur nucléaire surchauffe rapidement et doit être refroidi en permanence.\n\nNe peut être placé à l'extérieur.</VPE_NuclearGenerator.description>
+
+<VFE_PortableWoodFiredGenerator.label>générateur portable à bois</VFE_PortableWoodFiredGenerator.label>
+<VFE_PortableWoodFiredGenerator.description>Produit une petite quantité d'énergie en consommant du bois. Il doit être rechargé périodiquement et manuellement en bois. Ce générateur est suffisamment léger pour être transporté.</VFE_PortableWoodFiredGenerator.description>
+
+<VFE_PortableChemfuelPoweredGenerator.label>générateur portable à chemfuel</VFE_PortableChemfuelPoweredGenerator.label>
+<VFE_PortableChemfuelPoweredGenerator.description>Produit une petite quantité d'énergie en consommant du chemfuel. Il doit être périodiquement rechargé manuellement en chemfuel. Ce générateur est suffisamment léger pour être transporté.</VFE_PortableChemfuelPoweredGenerator.description>
+
+<VFE_IndustrialWoodFiredGenerator.label>générateur industriel à bois</VFE_IndustrialWoodFiredGenerator.label>
+<VFE_IndustrialWoodFiredGenerator.description>Produit une grande quantité d'énergie en consommant du bois. Il doit être rechargé périodiquement et manuellement en bois.</VFE_IndustrialWoodFiredGenerator.description>
+
+<VFE_IndustrialChemfuelPoweredGenerator.label>générateur industriel à chemfuel</VFE_IndustrialChemfuelPoweredGenerator.label>
+<VFE_IndustrialChemfuelPoweredGenerator.description>Produit une grande quantité d'énergie en consommant du chemfuel. Il doit être rechargé périodiquement et manuellement en chemfuel.</VFE_IndustrialChemfuelPoweredGenerator.description>
+
+<VFE_TidalGenerator.label>générateur marémotrice</VFE_TidalGenerator.label>
+<VFE_TidalGenerator.description>Produit de l'électricité à partir de masses d'eau en mouvement, notamment les marées. Doit être placé sur l'eau.</VFE_TidalGenerator.description>
+
+<VFE_SmallVanometricPowerCell.label>petite pile vanométrique</VFE_SmallVanometricPowerCell.label>
+<VFE_SmallVanometricPowerCell.description>Produit une très petite quantité d'énergie gratuite, indéfiniment, sans utiliser de carburant. Cette technologie est développée par des Archotechs, et dépasse même la plupart des sociétés de Glitterworld. Bien que personne ne sache exactement comment elle fonctionne, les chercheurs pensent qu'elle extrait en quelque sorte l'énergie directement des fluctuations de la mousse quantique.</VFE_SmallVanometricPowerCell.description>
+
+<VFE_LargeVanometricPowerCell.label>grande pile vanométrique</VFE_LargeVanometricPowerCell.label>
+<VFE_LargeVanometricPowerCell.description>Produit une grande quantité d'énergie gratuite, indéfiniment, sans utiliser de carburant. Cette technologie est développée par des Archotechs, et dépasse même la plupart des sociétés de Glitterworld. Bien que personne ne sache exactement comment elle fonctionne, les chercheurs pensent qu'elle extrait en quelque sorte l'énergie directement des fluctuations de la mousse quantique.</VFE_LargeVanometricPowerCell.description>
+
+<VPE_ArchotechViolenceGenerator.label>générateur de violence Archotech</VPE_ArchotechViolenceGenerator.label>
+<VPE_ArchotechViolenceGenerator.description>Cet appareil puise dans l'énergie psychique qui quitte le corps des humanoïdes environnants et la transforme directement en énergie utilisable. Cette technologie est développée par les Archotechs, et dépasse même la plupart des sociétés du Glitterworld.</VPE_ArchotechViolenceGenerator.description>
+
+<Gas_Helixien.label>gaz hélixien</Gas_Helixien.label>
+<Gas_Helixien.description>Hautement inflammable et hautement toxique.</Gas_Helixien.description>
+
+
+</LanguageData>

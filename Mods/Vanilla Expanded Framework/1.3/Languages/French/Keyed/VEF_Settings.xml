@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<GeneralTitle>Général</GeneralTitle>
+    <!-- CSG -->
+<CSGTitle>Génération de structure personnalisée</CSGTitle>
+<CSGLog>Activer le journal de débogage de génération de structure: </CSGLog>
+
+    <!-- Toggable patches -->
+<TPTitle>Patchs adaptables</TPTitle>
+<NeedRestart>Tous les paramètres nécessitent un redémarrage pour être appliqués</NeedRestart>
+<XPatchFound>{0} correctifs trouvés</XPatchFound>
+
+	<!-- Weather damages -->
+<VEF.WeatherDamages>Dégâts climatiques</VEF.WeatherDamages>
+<VEF.EnableWeatherDamage>{0} </VEF.EnableWeatherDamage>
+    <!-- Faction Discovery -->
+<FDTitle>Découverte de faction</FDTitle>
+<NeedToBeInGame>Vous devez d'abord charger une sauvegarde.</NeedToBeInGame>
+<AskForPopUp>Ajouter faction</AskForPopUp>
+<AskForPopUpExplained>Cliquer sur ce bouton afin que l'on vous demande pour chaque faction si vous voulez les ajouter à votre jeu.</AskForPopUpExplained>
+<CanAddXFaction>{0} faction{0_multiple ? s : } {0_multiple ? peuvent : peut } être ajouté à votre sauvegarde actuelle.</CanAddXFaction>
+
+<VEF.DisableModSourceReport>Désactiver le rapport sur la source du mod dans la fiche d'information</VEF.DisableModSourceReport>
+
+<VEF.Shields.Search>Chercher : </VEF.Shields.Search>
+<VEF.Shields.ResetModSettingsToDefault>Réinitialiser les paramètres par défaut du mod</VEF.Shields.ResetModSettingsToDefault>
+<VEF.Shields.ExplanationTitle>Configurer les armes pour qu'elles soient utilisables ou non avec des boucliers.</VEF.Shields.ExplanationTitle>
+<VEF.Shields.ShowMeleeWeapons>Afficher les armes de mêlée</VEF.Shields.ShowMeleeWeapons>
+<VEF.Shields.ShowRangeWeapons>Afficher les armes à distance</VEF.Shields.ShowRangeWeapons>
+
+
+</LanguageData>

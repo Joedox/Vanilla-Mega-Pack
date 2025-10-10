@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<PipeSystem_Consumption>consommation de {0}</PipeSystem_Consumption>
+<PipeSystem_ConsumptionExplained>La quantité par jour de {0} que ce bâtiment va consommer sur le réseau de {1}.</PipeSystem_ConsumptionExplained>
+
+<PipeSystem_IdleConsumption>consommation à vide {0}</PipeSystem_IdleConsumption>
+<PipeSystem_IdleConsumptionExplained>La quantité de {0} que ce bâtiment utilise sur le réseau de {1} lorsqu'il est inactif.</PipeSystem_IdleConsumptionExplained>
+
+<PipeSystem_Production>production de {0}</PipeSystem_Production>
+<PipeSystem_ProductionExplained>La quantité par jour de {0} que ce bâtiment produira sur le réseau de {1}.</PipeSystem_ProductionExplained>
+
+<PipeSystem_DeconstructLabel>Démolir tuyaux de {0}</PipeSystem_DeconstructLabel>
+<PipeSystem_DeconstructDesc>Démolir seulement les tuyaux faisant partie du réseau de {0}.</PipeSystem_DeconstructDesc>
+
+<PipeSystem_ResourceOutput>Sortie de {0} :</PipeSystem_ResourceOutput>
+<PipeSystem_ResourceNeeded>Besoin de {0} :</PipeSystem_ResourceNeeded>
+
+<PipeSystem_ResourceStored>Stockage de {0} :</PipeSystem_ResourceStored>
+
+<PipeSystem_NotConnected>Non connecté à {}.</PipeSystem_NotConnected>
+    <PipeSystem_ExcessStored>{0} net excess/stored in network: {1} {3}/d / {2} {3}</PipeSystem_ExcessStored><!-- Excédent net/stocké dans le réseau : {0} {2}/j / {1} {2} --><!-- TODO -->
+<PipeSystem_Stored>{0} stocké dans le réseau :</PipeSystem_Stored>
+
+<PipeSystem_ValveClosed>Vanne fermée.</PipeSystem_ValveClosed>
+<PipeSystem_ValveOpened>Vanne ouverte.</PipeSystem_ValveOpened>
+
+<PipeSystem_AugmentStack>+1 </PipeSystem_AugmentStack>
+<PipeSystem_AugmentStackDesc>Augmente la taille maximum de la pile de sortie de 1.</PipeSystem_AugmentStackDesc>
+<PipeSystem_AugmentStackB>+10 </PipeSystem_AugmentStackB>
+<PipeSystem_AugmentStackDescB>Augmente la taille maximum de la pile de sortie de 10.</PipeSystem_AugmentStackDescB>
+
+<PipeSystem_DecreaseStack>-1 </PipeSystem_DecreaseStack>
+<PipeSystem_DecreaseStackDesc>Diminue la taille maximum de la pile de sortie de 1.</PipeSystem_DecreaseStackDesc>
+<PipeSystem_DecreaseStackB>-10 </PipeSystem_DecreaseStackB>
+<PipeSystem_DecreaseStackDescB>Diminue la taille maximum de la pile de sortie de 10.</PipeSystem_DecreaseStackDescB>
+
+<PipeSystem_AmountOut>Montant maximum stocké ici : {0}</PipeSystem_AmountOut>
+
+<PipeSystem_ProcessorBuffer>Tampon : {0}</PipeSystem_ProcessorBuffer>
+<PipeSystem_Producing>Production de {0} {1}. Progression : {2}</PipeSystem_Producing>
+<PipeSystem_Produce>Produit {0} {1} à partir de {2} {3}.</PipeSystem_Produce>
+<PipeSystem_ChooseResult>Choisir le résultat</PipeSystem_ChooseResult>
+<PipeSystem_ChooseResultDesc>Choisir le résultat du processeur.</PipeSystem_ChooseResultDesc>
+
+  <PipeSystem_ProduceLabel>Produce {0} {1} using:</PipeSystem_ProduceLabel><!-- TODO -->
+
+<PipeSystem_TransferContent>Transférer le contenu</PipeSystem_TransferContent>
+<PipeSystem_TransferContentDesc>Transfère le contenu du réservoir vers d'autres réservoirs disponibles.</PipeSystem_TransferContentDesc>
+<PipeSystem_MarkedToTransferContent>Transfert du contenu vers d'autres réservoirs disponibles...</PipeSystem_MarkedToTransferContent>
+
+<PipeSystem_NothingToRefill>Rien à remplir {0}</PipeSystem_NothingToRefill> <!-- No thing to refill {0} -->
+<PipeSystem_AllowManualRefill>Autoriser le remplissage manuel</PipeSystem_AllowManualRefill>
+<PipeSystem_AllowManualRefillDesc>Permet aux colons de remplir directement le réservoir.</PipeSystem_AllowManualRefillDesc>
+
+<PipeSystem_CantExtract>Impossible d'extraire : Réservoirs pleins</PipeSystem_CantExtract>
+<PipeSystem_CantPlaceHere>La {0} ne peut être placée que sur un gisement de {1}. Utiliser un scanner géologique pour trouver les gisements.</PipeSystem_CantPlaceHere>
+<PipeSystem_ResourceLeft>Quantité restante dans le gisement : {0}</PipeSystem_ResourceLeft>
+
+<PipeSystem_NoStorageInNet>Aucun stockage connecté</PipeSystem_NoStorageInNet>
+<PipeSystem_NoStorageInNetDesc>Les réseaux suivants ne sont connectés à aucun bâtiment de stockage, mais en ont besoin :</PipeSystem_NoStorageInNetDesc>
+
+<PipeSystem_StorageContentRotted>Le contenu de la {0} a pourri à cause d'un manque d'énergie.</PipeSystem_StorageContentRotted>
+<PipeSystem_ContentWillRot>Va pourrir dans {0} à cause du manque d'énergie.</PipeSystem_ContentWillRot>
+
+    <PipeSystem_NothingToPickUp>Nothing to pick-up</PipeSystem_NothingToPickUp><!-- TODO -->
+    <PipeSystem_MakeProcess>Make {0}</PipeSystem_MakeProcess><!-- TODO -->
+    <PipeSystem_OutputToNet>Output to {0} net</PipeSystem_OutputToNet><!-- TODO -->
+    <PipeSystem_OrNet>or {0} net</PipeSystem_OrNet><!-- TODO -->
+    <PipeSystem_XFromNet>{0} from net</PipeSystem_XFromNet><!-- TODO -->
+    <PipeSystem_Processes>Processes</PipeSystem_Processes><!-- TODO -->
+    <PipeSystem_AddProcess>Add process</PipeSystem_AddProcess><!-- TODO -->
+    <PipeSystem_CancelCurrentProcess>Cancel current process</PipeSystem_CancelCurrentProcess><!-- TODO -->
+    <PipeSystem_OutputOnGround>Output on ground</PipeSystem_OutputOnGround><!-- TODO -->
+    <PipeSystem_NoProcess>No current process</PipeSystem_NoProcess><!-- TODO -->
+    <PipeSystem_NoProcessAvailable>No process available</PipeSystem_NoProcessAvailable><!-- TODO -->
+    <PipeSystem_Product>Product</PipeSystem_Product><!-- TODO -->
+
+
+</LanguageData>

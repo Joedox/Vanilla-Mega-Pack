@@ -1,0 +1,1885 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>r_art_description->A [decadent] [cut] of [preparation_method] [protein], [descriptor_importance]. [Carefully] [preparation_method] [delicate] [strands] of [vegetable1] add a [refined_contrast], while [delicate] [preparation_method] [vegetable2] [lends] [descriptor] and [descriptor] to the composition. A [whisper] of [condiment1], [descriptor_effects], intertwining with the [whisper] of [condiment2] for a truly [elevated] experience. [artistic_precision], each element is [goal_of_the_meal].</li>
+-->
+<VCE_MealArtDescriptionRoot.rulePack.rulesStrings>
+  <li>r_art_description->[decadent] de [protein] [preparation_method], [descriptor_importance]. [Carefully] le [vegetable1] [strands] [delicate] [preparation_method] ajoute [refined_contrast], tandis que le [vegetable2] [delicate] [preparation_method] [lends] [descriptor] et [descriptor] à la composition. [whisper] de [condiment1], [descriptor_effects], s'entremêlant à [whisper] de [condiment2] pour une expérience vraiment [elevated]. [artistic_precision], chaque élément est [goal_of_the_meal].</li>
+</VCE_MealArtDescriptionRoot.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>decadent->sumptuous</li>
+  <li>decadent->opulent</li>
+  <li>decadent->luxurious</li>
+  <li>decadent->exquisite</li>
+  <li>decadent->lavish</li>
+  <li>decadent->refined</li>
+  <li>decadent->indulgent</li>
+  <li>decadent->magnificent</li>
+  <li>decadent->regal</li>
+  <li>decadent->artisanal</li>
+  <li>decadent->pristine</li>
+  <li>decadent->celestial</li>
+  <li>decadent->elegant</li>
+  <li>decadent->gilded</li>
+  <li>decadent->sublime</li>
+  <li>decadent->peerless</li>
+  <li>decadent->heavenly</li>
+  <li>decadent->divine</li>
+  <li>decadent->masterful</li>
+  <li>decadent->supreme</li>
+  <li>decadent->decadent</li>
+  <li>decadent(p=6)-></li>
+  <li>refined_contrast->delicate contrast</li>
+  <li>refined_contrast->harmonious balance</li>
+  <li>refined_contrast->subtle interplay</li>
+  <li>refined_contrast->elegant juxtaposition</li>
+  <li>refined_contrast->graceful opposition</li>
+  <li>refined_contrast->sophisticated balance</li>
+  <li>refined_contrast->artful contrast</li>
+  <li>refined_contrast->precise equilibrium</li>
+  <li>refined_contrast->refined opposition</li>
+  <li>refined_contrast->flawless complement</li>
+  <li>refined_contrast->delicate equilibrium</li>
+  <li>refined_contrast->contrasting harmony</li>
+  <li>refined_contrast->nuanced contrast</li>
+  <li>refined_contrast->exquisite counterpoint</li>
+  <li>refined_contrast->subtle duality</li>
+  <li>refined_contrast->seamless interplay</li>
+  <li>refined_contrast->artistic tension</li>
+  <li>refined_contrast->gentle contrast</li>
+  <li>refined_contrast->layered complexity</li>
+  <li>refined_contrast->balanced refinement</li>
+  <li>refined_contrast->elevated interplay</li>
+  <li>refined_contrast->deliberate contrast</li>
+  <li>refined_contrast->poised variation</li>
+  <li>refined_contrast->measured opposition</li>
+  <li>refined_contrast->dynamic contrast</li>
+  <li>refined_contrast->finessed interplay</li>
+  <li>refined_contrast->curated balance</li>
+  <li>refined_contrast->restrained contrast</li>
+  <li>refined_contrast->layered nuance</li>
+  <li>refined_contrast->thoughtful opposition</li>
+  <li>cut->cut</li>
+  <li>cut->portion</li>
+  <li>cut->slice</li>
+  <li>cut->piece</li>
+  <li>cut->serving</li>
+  <li>cut->segment</li>
+  <li>cut->shard</li>
+  <li>cut->wedge</li>
+  <li>cut->section</li>
+  <li>cut->morsel</li>
+  <li>cut->sliver</li>
+  <li>cut->nugget</li>
+  <li>cut->fragment</li>
+  <li>cut->bite</li>
+  <li>cut->medallion</li>
+  <li>cut->petal</li>
+  <li>cut->pearl</li>
+  <li>cut->floret</li>
+  <li>cut->crescent</li>
+  <li>cut->cube</li>
+  <li>cut->fillet</li>
+  <li>preparation_method->slow-cooked</li>
+  <li>preparation_method->charred to perfection</li>
+  <li>preparation_method->delicately seared</li>
+  <li>preparation_method->artfully poached</li>
+  <li>preparation_method->butter-basted</li>
+  <li>preparation_method->lightly smoked</li>
+  <li>preparation_method->flame-kissed</li>
+  <li>preparation_method->tenderly braised</li>
+  <li>preparation_method->meticulously roasted</li>
+  <li>preparation_method->crisply pan-fried</li>
+  <li>preparation_method->velvety puréed</li>
+  <li>preparation_method->perfectly confited</li>
+  <li>preparation_method->brushed with aromatic oils</li>
+  <li>preparation_method->infused with fragrant herbs</li>
+  <li>preparation_method->caramelized to golden perfection</li>
+  <li>preparation_method->enrobed in a delicate glaze</li>
+  <li>preparation_method->gently steamed</li>
+  <li>preparation_method->slow-roasted with finesse</li>
+  <li>preparation_method->glazed and torched</li>
+  <li>preparation_method->herb-crusted</li>
+  <li>preparation_method->sous-vide to sublime tenderness</li>
+  <li>preparation_method->artfully emulsified</li>
+  <li>preparation_method->carefully fermented</li>
+  <li>preparation_method->wrapped in a golden pastry</li>
+  <li>preparation_method->expertly deglazed</li>
+  <li>preparation_method->perfectly tempura-fried</li>
+  <li>preparation_method->subtly marinated</li>
+  <li>preparation_method->elegantly pickled</li>
+  <li>preparation_method->lovingly torch-grilled</li>
+  <li>preparation_method->delicately layered</li>
+  <li>preparation_method->gently sautéed</li>
+  <li>preparation_method->silkily emulsified</li>
+  <li>preparation_method->tantalizingly spiced</li>
+  <li>preparation_method->succulently basted</li>
+  <li>preparation_method->meticulously lacquered</li>
+  <li>preparation_method->infused with delicate essences</li>
+  <li>preparation_method->exquisitely torch-seared</li>
+  <li>preparation_method->bathed in aromatic broths</li>
+  <li>preparation_method->delicately brined</li>
+  <li>preparation_method->wrapped in edible gold leaf</li>
+  <li>preparation_method->expertly aged to perfection</li>
+  <li>preparation_method->truffle-infused</li>
+  <li>preparation_method->hand-kneaded and pressed</li>
+  <li>preparation_method->drizzled with rare reductions</li>
+  <li>preparation_method->flawlessly whipped into a velvety texture</li>
+  <li>preparation_method->crisped to a delicate crunch</li>
+  <li>preparation_method->impeccably rolled and folded</li>
+  <li>preparation_method->suspended in a delicate consommé</li>
+  <li>preparation_method->delicately souffléed</li>
+  <li>preparation_method->transformed into a silken mousse</li>
+  <li>preparation_method->carefully flame-roasted</li>
+  <li>preparation_method->delicately aerated</li>
+  <li>preparation_method->painstakingly hand-folded</li>
+  <li>preparation_method->artfully ribboned</li>
+  <li>preparation_method->lightly dusted with rare spices</li>
+  <li>preparation_method->masterfully aged</li>
+  <li>preparation_method->gently simmered to perfection</li>
+  <li>preparation_method->skillfully balanced in flavor</li>
+  <li>preparation_method->delicately char-grilled</li>
+  <li>preparation_method->subtly enhanced with floral notes</li>
+  <li>preparation_method->hand-smoked over aromatic woods</li>
+  <li>preparation_method->coated in a luscious reduction</li>
+  <li>preparation_method->refined through meticulous technique</li>
+  <li>preparation_method->bloomed with exquisite aromas</li>
+  <li>preparation_method->layered with impeccable precision</li>
+  <li>preparation_method->whipped into a cloud-like texture</li>
+  <li>preparation_method->shaped into a work of art</li>
+  <li>preparation_method->gilded with edible silver</li>
+  <li>preparation_method->painstakingly infused with exotic flavors</li>
+  <li>preparation_method->transcendently balanced in texture</li>
+  <li>preparation_method->kissed by moonlight and slow-aged in crystal chambers</li>
+  <li>preparation_method->hand-massaged by expert chefs under symphonic vibrations</li>
+  <li>preparation_method->delicately smoked over ancient spell-infused woods</li>
+  <li>preparation_method->fermented under the watchful gaze of a Michelin-starred monk</li>
+  <li>preparation_method->bathed in a reduction of tears from a joyfully weeping sommelier</li>
+  <li>descriptor_importance->stands as the pinnacle of refined indulgence</li>
+  <li>descriptor_importance->serves as the crowning jewel of this creation</li>
+  <li>descriptor_importance->anchors the dish in a symphony of flavors</li>
+  <li>descriptor_importance->defines the very essence of culinary luxury</li>
+  <li>descriptor_importance->elevates the composition to unparalleled heights</li>
+  <li>descriptor_importance->sets the stage for a truly transcendent experience</li>
+  <li>descriptor_importance->acts as the foundation of this gastronomic masterpiece</li>
+  <li>descriptor_importance->weaves the soul of this haute cuisine spectacle</li>
+  <li>descriptor_importance->embodies the artistry of elite craftsmanship</li>
+  <li>descriptor_importance->ushers in an opulent journey of taste</li>
+  <li>descriptor_importance->represents the apex of gastronomic sophistication</li>
+  <li>descriptor_importance->delivers a sublime expression of culinary excellence</li>
+  <li>descriptor_importance->forms the backbone of this unparalleled delight</li>
+  <li>descriptor_importance->radiates elegance in every delicate bite</li>
+  <li>descriptor_importance->unfolds into a tale of luxury and precision</li>
+  <li>descriptor_importance->sourced from the finest purveyors, ensuring unmatched quality</li>
+  <li>descriptor_importance->hand-selected for its exquisite marbling and tenderness</li>
+  <li>descriptor_importance->carefully aged to deepen its rich, complex flavors</li>
+  <li>descriptor_importance->sustainably harvested to preserve its natural purity</li>
+  <li>descriptor_importance->sourced from heritage breeds known for superior taste</li>
+  <li>descriptor_importance->cultivated with precision to achieve peak texture</li>
+  <li>descriptor_importance->ethically raised to embody both luxury and responsibility</li>
+  <li>descriptor_importance->prized for its delicate balance of flavor and succulence</li>
+  <li>descriptor_importance->chosen for its velvety texture and unparalleled depth</li>
+  <li>descriptor_importance->elevated through expert craftsmanship and culinary artistry</li>
+  <li>descriptor_importance->sourced from pristine waters, ensuring a pure, clean finish</li>
+  <li>descriptor_importance->hand-carved to highlight its most tender portions</li>
+  <li>descriptor_importance->infused with subtle notes that enhance its natural character</li>
+  <li>descriptor_importance->nurtured in ideal conditions to develop its luxurious profile</li>
+  <li>descriptor_importance->renowned for its silky mouthfeel and rich, decadent taste</li>
+  <li>descriptor_importance->a testament to the heights of culinary craftsmanship</li>
+  <li>descriptor_importance->the embodiment of refined taste and sophistication</li>
+  <li>descriptor_importance->curated for those who seek only the extraordinary</li>
+  <li>descriptor_importance->a rare indulgence reserved for the most discerning palates</li>
+  <li>descriptor_importance->a harmonious fusion of flavor, texture, and artistry</li>
+  <li>descriptor_importance->an opulent expression of gastronomic excellence</li>
+  <li>descriptor_importance->a flawless balance of delicacy and depth</li>
+  <li>descriptor_importance->a creation that transcends mere sustenance</li>
+  <li>descriptor_importance->the purest expression of haute cuisine</li>
+  <li>descriptor_importance->an unparalleled experience in every bite</li>
+  <li>Carefully->Carefully</li>
+  <li>Carefully->Delicately</li>
+  <li>Carefully->Expertly</li>
+  <li>Carefully->Masterfully</li>
+  <li>Carefully->Precisely</li>
+  <li>Carefully->Artfully</li>
+  <li>Carefully->Meticulously</li>
+  <li>Carefully->Elegantly</li>
+  <li>Carefully->Lovingly</li>
+  <li>Carefully->Impeccably</li>
+  <li>Carefully->Flawlessly</li>
+  <li>Carefully->Painstakingly</li>
+  <li>Carefully->Gracefully</li>
+  <li>Carefully->Exquisitely</li>
+  <li>Carefully->Skillfully</li>
+  <li>Carefully->Thoughtfully</li>
+  <li>Carefully->Sensitively</li>
+  <li>Carefully->With utmost precision</li>
+  <li>Carefully->With expert hands</li>
+  <li>Carefully->With refined technique</li>
+  <li>Carefully->With gentle finesse</li>
+  <li>Carefully->With an artist’s touch</li>
+  <li>Carefully->With masterful control</li>
+  <li>Carefully->With unwavering attention</li>
+  <li>Carefully->With an air of sophistication</li>
+  <li>Carefully->With a chef’s trained intuition</li>
+  <li>Carefully->With a meticulous approach</li>
+  <li>Carefully->With unrivaled craftsmanship</li>
+  <li>Carefully->With deep culinary expertise</li>
+  <li>Carefully->With studied precision</li>
+  <li>Carefully->With obsessive dedication</li>
+  <li>Carefully(p=9)-></li>
+  <li>delicate->delicate</li>
+  <li>delicate->tender</li>
+  <li>delicate->velvety</li>
+  <li>delicate->silky</li>
+  <li>delicate->buttery</li>
+  <li>delicate->succulent</li>
+  <li>delicate->luscious</li>
+  <li>delicate->delectable</li>
+  <li>delicate->refined</li>
+  <li>delicate->gossamer</li>
+  <li>delicate->ethereal</li>
+  <li>delicate->fragile</li>
+  <li>delicate->whisper-thin</li>
+  <li>delicate->airy</li>
+  <li>delicate->dainty</li>
+  <li>delicate->sumptuous</li>
+  <li>delicate->melt-in-your-mouth</li>
+  <li>delicate->light-as-air</li>
+  <li>delicate->flawless</li>
+  <li>delicate->gilded</li>
+  <li>delicate->plush</li>
+  <li>delicate->velvet-soft</li>
+  <li>delicate->fine</li>
+  <li>delicate->crisp</li>
+  <li>delicate->juicy</li>
+  <li>delicate->sublime</li>
+  <li>delicate->moist</li>
+  <li>delicate->pure</li>
+  <li>delicate->satiny</li>
+  <li>delicate->translucent</li>
+  <li>delicate->exquisite</li>
+  <li>delicate->supple</li>
+  <li>delicate->butter-soft</li>
+  <li>delicate->pristine</li>
+  <li>delicate->silken</li>
+  <li>delicate->effortless</li>
+  <li>delicate->lightly textured</li>
+  <li>delicate->faintly crisped</li>
+  <li>delicate->cloud-like</li>
+  <li>delicate->honeyed</li>
+  <li>delicate->sumptuously soft</li>
+  <li>delicate->vibrant</li>
+  <li>delicate->robust</li>
+  <li>delicate->earthy</li>
+  <li>delicate->bold</li>
+  <li>delicate->hearty</li>
+  <li>delicate->fragrant</li>
+  <li>delicate->crisp</li>
+  <li>delicate->zesty</li>
+  <li>delicate->smoky</li>
+  <li>delicate->caramelized</li>
+  <li>delicate->savory</li>
+  <li>delicate->umami-rich</li>
+  <li>delicate->spiced</li>
+  <li>delicate->aromatic</li>
+  <li>delicate->tangy</li>
+  <li>delicate->buttery</li>
+  <li>delicate->charred</li>
+  <li>delicate->nutty</li>
+  <li>delicate->fiery</li>
+  <li>delicate->fermented</li>
+  <li>delicate->smoked</li>
+  <li>delicate->toasted</li>
+  <li>delicate->aged</li>
+  <li>delicate->marbled</li>
+  <li>delicate->zesty</li>
+  <li>delicate->luscious</li>
+  <li>delicate->herbaceous</li>
+  <li>delicate->rich</li>
+  <li>delicate->succulent</li>
+  <li>delicate->peppery</li>
+  <li>delicate(p=10)-></li>
+  <li>lends->adds</li>
+  <li>lends->contributes</li>
+  <li>lends->infuses</li>
+  <li>lends->imbues</li>
+  <li>lends->enhances</li>
+  <li>lends->introduces</li>
+  <li>lends->brings</li>
+  <li>lends->provides</li>
+  <li>lends->delivers</li>
+  <li>lends->offers</li>
+  <li>lends->imparts</li>
+  <li>lends->complements</li>
+  <li>lends->balances</li>
+  <li>lends->elevates</li>
+  <li>lends->accentuates</li>
+  <li>lends->fortifies</li>
+  <li>lends->evokes</li>
+  <li>lends->enriches</li>
+  <li>lends->underlines</li>
+  <li>lends->supports</li>
+  <li>lends->reinforces</li>
+  <li>lends->melds</li>
+  <li>lends->harmonizes</li>
+  <li>lends->deepens</li>
+  <li>lends->layers</li>
+  <li>lends->melds seamlessly with</li>
+  <li>lends->heightens</li>
+  <li>lends->rounds out</li>
+  <li>lends->illuminates</li>
+  <li>lends->intensifies</li>
+  <li>descriptor->depth</li>
+  <li>descriptor->vibrancy</li>
+  <li>descriptor->richness</li>
+  <li>descriptor->harmony</li>
+  <li>descriptor->complexity</li>
+  <li>descriptor->luxury</li>
+  <li>descriptor->refinement</li>
+  <li>descriptor->balance</li>
+  <li>descriptor->opulence</li>
+  <li>descriptor->indulgence</li>
+  <li>descriptor->sophistication</li>
+  <li>descriptor->warmth</li>
+  <li>descriptor->flair</li>
+  <li>descriptor->elegance</li>
+  <li>descriptor->intensity</li>
+  <li>descriptor->boldness</li>
+  <li>descriptor->purity</li>
+  <li>descriptor->freshness</li>
+  <li>descriptor->nuance</li>
+  <li>descriptor->finesse</li>
+  <li>descriptor->grace</li>
+  <li>descriptor->subtlety</li>
+  <li>descriptor->exuberance</li>
+  <li>descriptor->silkiness</li>
+  <li>descriptor->smoothness</li>
+  <li>descriptor->umami</li>
+  <li>descriptor->aroma</li>
+  <li>descriptor->spice</li>
+  <li>descriptor->earthiness</li>
+  <li>descriptor->zest</li>
+  <li>descriptor->intrigue</li>
+  <li>descriptor->mystery</li>
+  <li>descriptor->allure</li>
+  <li>descriptor->heritage</li>
+  <li>descriptor->tradition</li>
+  <li>descriptor->innovation</li>
+  <li>descriptor->artistry</li>
+  <li>descriptor->creaminess</li>
+  <li>descriptor->savory</li>
+  <li>descriptor->contrast</li>
+  <li>descriptor->succulence</li>
+  <li>descriptor->juiciness</li>
+  <li>descriptor->fullness</li>
+  <li>descriptor->tenderness</li>
+  <li>descriptor->brightness</li>
+  <li>descriptor->resonance</li>
+  <li>descriptor->delicacy</li>
+  <li>descriptor->aromaticity</li>
+  <li>descriptor->robustness</li>
+  <li>descriptor->zestiness</li>
+  <li>descriptor->unctuousness</li>
+  <li>descriptor->fermentation</li>
+  <li>descriptor->caramelization</li>
+  <li>descriptor->crispness</li>
+  <li>descriptor->mellowness</li>
+  <li>descriptor->smokiness</li>
+  <li>descriptor->tanginess</li>
+  <li>descriptor->fragrance</li>
+  <li>descriptor->roundness</li>
+  <li>descriptor->wholesomeness</li>
+  <li>whisper->whisper</li>
+  <li>whisper->hint</li>
+  <li>whisper->touch</li>
+  <li>whisper->trace</li>
+  <li>whisper->essence</li>
+  <li>whisper->breath</li>
+  <li>whisper->murmur</li>
+  <li>whisper->undertone</li>
+  <li>whisper->nuance</li>
+  <li>whisper->suggestion</li>
+  <li>whisper->whiff</li>
+  <li>whisper->glimpse</li>
+  <li>whisper->delicate note</li>
+  <li>whisper->faint wisp</li>
+  <li>whisper->subtle dash</li>
+  <li>whisper->lingering touch</li>
+  <li>whisper->barest trace</li>
+  <li>whisper->soft accent</li>
+  <li>whisper->shadow</li>
+  <li>whisper->whispered echo</li>
+  <li>whisper->featherlight presence</li>
+  <li>descriptor_effects->lingering elegantly on the palate</li>
+  <li>descriptor_effects->enhancing the dish’s natural depth</li>
+  <li>descriptor_effects->elevating every nuanced bite</li>
+  <li>descriptor_effects->adding a touch of refined complexity</li>
+  <li>descriptor_effects->bringing warmth and balance</li>
+  <li>descriptor_effects->subtly enlivening the flavor profile</li>
+  <li>descriptor_effects->intertwining seamlessly with every element</li>
+  <li>descriptor_effects->rounding out the dish with finesse</li>
+  <li>descriptor_effects->lending a delicate aromatic lift</li>
+  <li>descriptor_effects->harmonizing the composition beautifully</li>
+  <li>descriptor_effects->deepening the dish’s luxurious character</li>
+  <li>descriptor_effects->weaving through the flavors like a gentle thread</li>
+  <li>descriptor_effects->amplifying the dish’s rich undertones</li>
+  <li>descriptor_effects->brightening the palate with subtle vibrancy</li>
+  <li>descriptor_effects->providing an exquisite finishing touch</li>
+  <li>descriptor_effects->introducing a whisper of indulgence</li>
+  <li>descriptor_effects->balancing the elements with effortless grace</li>
+  <li>descriptor_effects->underscoring the dish’s elegant simplicity</li>
+  <li>descriptor_effects->leaving a lingering impression of sophistication</li>
+  <li>descriptor_effects->complementing the dish’s refined essence</li>
+  <li>descriptor_effects->infusing the dish with a delicate warmth</li>
+  <li>descriptor_effects->subtly enhancing the natural umami</li>
+  <li>descriptor_effects->adding a touch of aromatic intrigue</li>
+  <li>descriptor_effects->weaving a gentle contrast into the profile</li>
+  <li>descriptor_effects->offering a refined, lingering finish</li>
+  <li>descriptor_effects->heightening the interplay of flavors</li>
+  <li>descriptor_effects->melding seamlessly into the dish’s depth</li>
+  <li>descriptor_effects->providing a soft counterbalance to bolder elements</li>
+  <li>descriptor_effects->gently accentuating the dish’s complexity</li>
+  <li>descriptor_effects->introducing an elegant, ephemeral nuance</li>
+  <li>descriptor_effects->softening the dish’s sharper notes with grace</li>
+  <li>descriptor_effects->imbuing the plate with a whisper of luxury</li>
+  <li>descriptor_effects->delicately enriching the dish’s texture</li>
+  <li>descriptor_effects->elevating the aroma to a new dimension</li>
+  <li>descriptor_effects->drawing out the deeper layers of taste</li>
+  <li>descriptor_effects->bringing a refined silkiness to each bite</li>
+  <li>descriptor_effects->melding harmoniously into the overall composition</li>
+  <li>descriptor_effects->softly intensifying the dish’s character</li>
+  <li>descriptor_effects->offering a final flourish of sophistication</li>
+  <li>descriptor_effects->creating a seamless bridge between flavors</li>
+  <li>descriptor_effects->adding a touch of delicate refinement</li>
+  <li>descriptor_effects->softly rounding out the flavor profile</li>
+  <li>descriptor_effects->bringing a gentle, lingering depth</li>
+  <li>descriptor_effects->introducing an air of understated elegance</li>
+  <li>descriptor_effects->offering a whisper of floral complexity</li>
+  <li>descriptor_effects->enhancing the interplay of textures and tastes</li>
+  <li>descriptor_effects->melting effortlessly into the dish’s richness</li>
+  <li>descriptor_effects->heightening the overall balance of flavors</li>
+  <li>descriptor_effects->drawing out a subtle sweetness beneath the surface</li>
+  <li>descriptor_effects->adding a measured contrast to the composition</li>
+  <li>descriptor_effects->infusing the dish with a quiet sophistication</li>
+  <li>descriptor_effects->layering in a restrained but essential nuance</li>
+  <li>descriptor_effects->deepening the natural warmth of the dish</li>
+  <li>descriptor_effects->weaving an intricate thread of complexity</li>
+  <li>descriptor_effects->offering a smooth, lingering aftertaste</li>
+  <li>descriptor_effects->balancing the richness with a gentle lift</li>
+  <li>descriptor_effects->melding into the dish with seamless harmony</li>
+  <li>descriptor_effects->imparting a soft, fragrant undertone</li>
+  <li>descriptor_effects->gently coaxing out hidden depths of flavor</li>
+  <li>descriptor_effects->introducing a refined yet barely perceptible finish</li>
+  <li>elevated->refined</li>
+  <li>elevated->sublime</li>
+  <li>elevated->luxurious</li>
+  <li>elevated->exquisite</li>
+  <li>elevated->sophisticated</li>
+  <li>elevated->transcendent</li>
+  <li>elevated->opulent</li>
+  <li>elevated->divine</li>
+  <li>elevated->ethereal</li>
+  <li>elevated->indulgent</li>
+  <li>elevated->sumptuous</li>
+  <li>elevated->harmonious</li>
+  <li>elevated->flawless</li>
+  <li>elevated->peerless</li>
+  <li>elevated->artful</li>
+  <li>elevated->masterful</li>
+  <li>elevated->unparalleled</li>
+  <li>elevated->graceful</li>
+  <li>elevated->majestic</li>
+  <li>elevated->breathtaking</li>
+  <li>strands->microgreens</li>
+  <li>strands->pearls</li>
+  <li>strands->essence</li>
+  <li>strands->dewdrops</li>
+  <li>strands->garnishes</li>
+  <li>strands->petals</li>
+  <li>strands->whispers</li>
+  <li>strands->florets</li>
+  <li>strands->confetti</li>
+  <li>strands->brunoise</li>
+  <li>strands->beads</li>
+  <li>strands->caviar</li>
+  <li>strands->threads</li>
+  <li>strands->delicate curls</li>
+  <li>strands->crystals</li>
+  <li>strands->air</li>
+  <li>strands->micro-shavings</li>
+  <li>strands->whisps</li>
+  <li>strands->tendrils</li>
+  <li>strands->shavings</li>
+  <li>strands->shreds</li>
+  <li>strands->slivers</li>
+  <li>strands->flecks</li>
+  <li>strands->crumbs</li>
+  <li>strands->specks</li>
+  <li>strands->fragments</li>
+  <li>strands->whisps</li>
+  <li>strands->morsels</li>
+  <li>strands->drizzles</li>
+  <li>strands->sprinkles</li>
+  <li>strands->grains</li>
+  <li>strands->dustings</li>
+  <li>strands->pinches</li>
+  <li>strands->scatters</li>
+  <li>strands->traces</li>
+  <li>strands->dabs</li>
+  <li>strands->hints</li>
+  <li>strands->drops</li>
+  <li>strands->streaks</li>
+  <li>strands->swirls</li>
+  <li>strands->glimmers</li>
+  <li>strands->frills</li>
+  <li>strands->petals</li>
+  <li>strands->curls</li>
+  <li>strands->ribbons</li>
+  <li>strands->dribbles</li>
+  <li>strands->tufts</li>
+  <li>strands->nodules</li>
+  <li>strands->flakes</li>
+  <li>strands->pearls</li>
+  <li>artistic_precision->meticulously plated with elegant symmetry</li>
+  <li>artistic_precision->arranged with flawless attention to detail</li>
+  <li>artistic_precision->composed as a visual masterpiece</li>
+  <li>artistic_precision->crafted with sculptural finesse</li>
+  <li>artistic_precision->adorned with a painterly flourish</li>
+  <li>artistic_precision->presented with graceful minimalism</li>
+  <li>artistic_precision->layered with geometric precision</li>
+  <li>artistic_precision->styled with haute cuisine artistry</li>
+  <li>artistic_precision->designed as a feast for the eyes</li>
+  <li>artistic_precision->elevated with modernist plating techniques</li>
+  <li>artistic_precision->curated with exquisite culinary balance</li>
+  <li>artistic_precision->arranged with impeccable visual harmony</li>
+  <li>artistic_precision->showcased in a composition of refined elegance</li>
+  <li>artistic_precision->assembled like a work of fine art</li>
+  <li>artistic_precision->presented with a flourish of haute cuisine</li>
+  <li>artistic_precision->balanced with a striking aesthetic contrast</li>
+  <li>artistic_precision->styled with effortless refinement</li>
+  <li>artistic_precision->garnished with a delicate, thoughtful touch</li>
+  <li>artistic_precision->structured with architectural precision</li>
+  <li>artistic_precision->arranged to evoke a sense of grandeur</li>
+  <li>artistic_precision->plated with impeccable balance and grace</li>
+  <li>artistic_precision->designed with an eye for symmetry and flow</li>
+  <li>artistic_precision->crafted with sculptural precision</li>
+  <li>artistic_precision->layered to create a striking visual contrast</li>
+  <li>artistic_precision->arranged in a mesmerizing composition</li>
+  <li>artistic_precision->styled to resemble a living tableau</li>
+  <li>artistic_precision->presented with a touch of minimalist elegance</li>
+  <li>artistic_precision->adorned with intricate edible embellishments</li>
+  <li>artistic_precision->framed on the plate like a gallery-worthy piece</li>
+  <li>artistic_precision->elevated with a sense of refined artistry</li>
+  <li>artistic_precision->curated with a dramatic flair</li>
+  <li>artistic_precision->assembled with the precision of a master jeweler</li>
+  <li>artistic_precision->garnished with a painter’s delicate brushstroke</li>
+  <li>artistic_precision->designed with a seamless blend of form and function</li>
+  <li>artistic_precision->shaped with the delicate hand of a sculptor</li>
+  <li>artistic_precision->presented in an arrangement of effortless beauty</li>
+  <li>artistic_precision->plated to highlight every exquisite detail</li>
+  <li>artistic_precision->showcased with striking contrast and harmony</li>
+  <li>artistic_precision->balanced between elegance and bold expression</li>
+  <li>artistic_precision->infused with a sense of poetic movement</li>
+  <li>artistic_precision->composed to reflect natural beauty</li>
+  <li>artistic_precision->designed to highlight every nuanced texture</li>
+  <li>artistic_precision->gilded with edible gold and delicate accents</li>
+  <li>artistic_precision->formed into a captivating, sculptural silhouette</li>
+  <li>artistic_precision->delicately layered with precision and intent</li>
+  <li>artistic_precision->showcased like a treasured masterpiece</li>
+  <li>artistic_precision->structured to highlight the dish’s organic elegance</li>
+  <li>artistic_precision->crafted with haute couture culinary sensibility</li>
+  <li>artistic_precision->plated with striking architectural balance</li>
+  <li>artistic_precision->framed in a delicate yet bold aesthetic</li>
+  <li>goal_of_the_meal->meticulously placed to create a symphony of flavors</li>
+  <li>goal_of_the_meal->harmonized to offer a seamless gastronomic experience</li>
+  <li>goal_of_the_meal->arranged to showcase the dish’s refined elegance</li>
+  <li>goal_of_the_meal->composed to delight both the eye and the palate</li>
+  <li>goal_of_the_meal->structured to highlight its intricate balance</li>
+  <li>goal_of_the_meal->perfected to ensure every bite is an indulgence</li>
+  <li>goal_of_the_meal->crafted to evoke a sense of culinary artistry</li>
+  <li>goal_of_the_meal->layered to deliver a journey through taste and texture</li>
+  <li>goal_of_the_meal->orchestrated to celebrate the beauty of fine dining</li>
+  <li>goal_of_the_meal->shaped to offer a multisensory delight</li>
+  <li>goal_of_the_meal->designed to enhance its exquisite depth</li>
+  <li>goal_of_the_meal->balanced to create an unforgettable dining experience</li>
+  <li>goal_of_the_meal->curated to reflect culinary mastery at its finest</li>
+  <li>goal_of_the_meal->finessed to perfection, leaving a lasting impression</li>
+  <li>goal_of_the_meal->aligned to ensure a flawless tasting experience</li>
+  <li>goal_of_the_meal->woven together to create an opulent indulgence</li>
+  <li>goal_of_the_meal->refined to elevate even the subtlest nuances</li>
+  <li>goal_of_the_meal->arranged with intention to maximize its sophistication</li>
+  <li>goal_of_the_meal->crafted to deliver a moment of pure luxury</li>
+  <li>goal_of_the_meal->brought together in an exquisite culinary composition</li>
+  <li>goal_of_the_meal->placed with intent to evoke harmony and balance</li>
+  <li>goal_of_the_meal->arranged to accentuate the dish’s refined complexity</li>
+  <li>goal_of_the_meal->carefully positioned to ensure a seamless flavor experience</li>
+  <li>goal_of_the_meal->designed to complement the dish’s intricate layers</li>
+  <li>goal_of_the_meal->crafted to highlight the interplay of taste and texture</li>
+  <li>goal_of_the_meal->orchestrated to create a symphony of flavors</li>
+  <li>goal_of_the_meal->harmonized to reflect the pinnacle of fine dining</li>
+  <li>goal_of_the_meal->balanced to deliver an effortlessly elegant experience</li>
+  <li>goal_of_the_meal->woven together to form a masterpiece of culinary artistry</li>
+  <li>goal_of_the_meal->placed with precision to showcase its depth and vibrancy</li>
+  <li>goal_of_the_meal->aligned to create an exquisite visual and sensory delight</li>
+  <li>goal_of_the_meal->structured to lead the palate through layers of indulgence</li>
+  <li>goal_of_the_meal->perfected to elevate the dish to a true work of art</li>
+  <li>goal_of_the_meal->meticulously layered to offer a refined tasting experience</li>
+  <li>goal_of_the_meal->designed to highlight both contrast and cohesion</li>
+  <li>goal_of_the_meal->curated to ensure every bite is a moment of indulgence</li>
+  <li>goal_of_the_meal->elevated to provide an unparalleled dining experience</li>
+  <li>goal_of_the_meal->arranged to capture the essence of culinary sophistication</li>
+  <li>goal_of_the_meal->composed to leave a lasting impression of refinement</li>
+  <li>goal_of_the_meal->shaped with intention to celebrate gastronomic excellence</li>
+-->
+<VCE_MealDescriptionUtility_Global.rulePack.rulesStrings>
+  <li>decadent->Un somptueux [cutM]</li>
+  <li>decadent->Un opulent [cutM]</li>
+  <li>decadent->Un luxueux [cutM]</li>
+  <li>decadent->Un [cutM] exquis</li>
+  <li>decadent->Un généreux [cutM]</li>
+  <li>decadent->Un [cutM] royal</li>
+  <li>decadent->Un savoureux [cutM]</li>
+  <li>decadent->Un magnifique [cutM]</li>
+  <li>decadent->Un sublime [cutM]</li>
+  <li>decadent->Un riche [cutM]</li>
+  <li>decadent->Un prestigieux [cutM]</li>
+  <li>decadent->Un délicieux[cutM] </li>
+  <li>decadent->Un élégant [cutM]</li>
+  <li>decadent->Un majestueux [cutM]</li>
+  <li>decadent->Un splendide [cutM]</li>
+  <li>decadent->Un [cutM] incomparable</li>
+  <li>decadent->Un excellent [cutM]</li>
+  <li>decadent->Un succulent [cutM]</li>
+  <li>decadent->Un [cutM] divin</li>
+  <li>decadent->Un superbe [cutM]</li>
+  <li>decadent->Un [cutM] suprême</li>
+  <li>decadent->Un décadent [cutM]</li>
+  <li>decadent->Une somptueuse [cutF]</li>
+  <li>decadent->Une opulente [cutF]</li>
+  <li>decadent->Une luxueuse [cutF]</li>
+  <li>decadent->Une [cutF] exquise</li>
+  <li>decadent->Une généreuse [cutF]</li>
+  <li>decadent->Une [cutF] royale</li>
+  <li>decadent->Une savoureuse [cutF]</li>
+  <li>decadent->Une magnifique [cutF]</li>
+  <li>decadent->Une sublime [cutF]</li>
+  <li>decadent->Une riche [cutF]</li>
+  <li>decadent->Une prestigieuse [cutF]</li>
+  <li>decadent->Une délicieuse[cutF] </li>
+  <li>decadent->Une élégante [cutF]</li>
+  <li>decadent->Une majestueuse [cutF]</li>
+  <li>decadent->Une splendide [cutF]</li>
+  <li>decadent->Une [cutF] incomparable</li>
+  <li>decadent->Une excellente [cutF]</li>
+  <li>decadent->Une succulente [cutF]</li>
+  <li>decadent->Une [cutF] divine</li>
+  <li>decadent->Une superbe [cutF]</li>
+  <li>decadent->Une [cutF] suprême</li>
+  <li>decadent->Une décadente [cutF]</li>
+  <li>decadent(p=6)->[cutM]</li>
+  <li>decadent(p=6)->[cutF]</li>
+  <li>refined_contrast->un contraste délicat</li>
+  <li>refined_contrast->un équilibre harmonieux</li>
+  <li>refined_contrast->un jeu subtil</li>
+  <li>refined_contrast->une élégante juxtaposition</li>
+  <li>refined_contrast->une opposition gracieuse</li>
+  <li>refined_contrast->un équilibre sophistiqué</li>
+  <li>refined_contrast->un contraste astucieux</li>
+  <li>refined_contrast->un équilibre précis</li>
+  <li>refined_contrast->une opposition affinée</li>
+  <li>refined_contrast->un complément parfait</li>
+  <li>refined_contrast->un équilibre délicat</li>
+  <li>refined_contrast->une harmonie contrastée</li>
+  <li>refined_contrast->un contraste nuancé</li>
+  <li>refined_contrast->un contrepoint exquis</li>
+  <li>refined_contrast->une dualité subtile</li>
+  <li>refined_contrast->une interaction parfaite</li>
+  <li>refined_contrast->une tension artistique</li>
+  <li>refined_contrast->un doux contraste</li>
+  <li>refined_contrast->une complexité en couches</li>
+  <li>refined_contrast->un raffinement équilibré</li>
+  <li>refined_contrast->une interaction élevée</li>
+  <li>refined_contrast->un contraste délibéré</li>
+  <li>refined_contrast->une variation en douceur</li>
+  <li>refined_contrast->une opposition mesurée</li>
+  <li>refined_contrast->un contraste dynamique</li>
+  <li>refined_contrast->une interaction raffinée</li>
+  <li>refined_contrast->un équilibre soigné</li>
+  <li>refined_contrast->un contraste sobre</li>
+  <li>refined_contrast->une nuance en strates</li>
+  <li>refined_contrast->une opposition réfléchie</li>
+  <li>cutM->morceau</li>
+  <li>cutF->portion</li>
+  <li>cutF->tranche</li>
+  <li>cutF->pièce</li>
+  <li>cutF->desserte</li>
+  <li>cutM->segment</li>
+  <li>cutM->tesson</li>
+  <li>cutM->quartier</li>
+  <li>cutF->section</li>
+  <li>cutF->bouchée</li>
+  <li>cutM->émincé</li>
+  <li>cutF->pépite</li>
+  <li>cutM->fragment</li>
+  <li>cutF->part</li>
+  <li>cutM->médaillon</li>
+  <li>cutM->bouquet</li>
+  <li>cutF->perle</li>
+  <li>cutM->fleuron</li>
+  <li>cutM->croissant</li>
+  <li>cutM->pavé</li>
+  <li>cutM->filet</li>
+  <li>preparation_method->cuit lentement</li>
+  <li>preparation_method->cuit à feu doux</li>
+  <li>preparation_method->cuit à la perfection</li>
+  <li>preparation_method->délicatement saisi</li>
+  <li>preparation_method->poché avec art</li>
+  <li>preparation_method->arrosé de beurre</li>
+  <li>preparation_method->légèrement fumé</li>
+  <li>preparation_method->embrassé à la flamme</li>
+  <li>preparation_method->tendrement braisés</li>
+  <li>preparation_method->méticuleusement rôti</li>
+  <li>preparation_method->croustillant à la poêle</li>
+  <li>preparation_method->purée et veloutée</li>
+  <li>preparation_method->parfaitement confit</li>
+  <li>preparation_method->badigeonné d'huiles aromatiques</li>
+  <li>preparation_method->infusé avec des herbes parfumées</li>
+  <li>preparation_method->caramélisés à la perfection</li>
+  <li>preparation_method->enrobé d'un délicat glaçage</li>
+  <li>preparation_method->cuit à la vapeur</li>
+  <li>preparation_method->rôti lentement et avec finesse</li>
+  <li>preparation_method->glacé et flambé</li>
+  <li>preparation_method->en croûte d'herbes</li>
+  <li>preparation_method->sous-vide pour une douceur sublime</li>
+  <li>preparation_method->émulsifié avec art</li>
+  <li>preparation_method->soigneusement fermenté</li>
+  <li>preparation_method->enveloppé dans une pâte dorée</li>
+  <li>preparation_method->déglacé de manière experte</li>
+  <li>preparation_method->parfaitement frit en tempura</li>
+  <li>preparation_method->subtilement mariné</li>
+  <li>preparation_method->élégamment mariné</li>
+  <li>preparation_method->flambé avec amour au chalumeau</li>
+  <li>preparation_method->délicatement superposé</li>
+  <li>preparation_method->doucement sauté</li>
+  <li>preparation_method->émulsionné et soyeux</li>
+  <li>preparation_method->aux épices alléchantes</li>
+  <li>preparation_method->succulemment arrosé</li>
+  <li>preparation_method->méticuleusement laqué</li>
+  <li>preparation_method->infusé d'essences délicates</li>
+  <li>preparation_method->saisi au chalumeau de manière exquise</li>
+  <li>preparation_method->baignant dans un bouillon aromatique</li>
+  <li>preparation_method->délicatement saumuré</li>
+  <li>preparation_method->enveloppé dans une feuille d'or comestible</li>
+  <li>preparation_method->vieillie à la perfection par un expert</li>
+  <li>preparation_method->infusé à la truffe</li>
+  <li>preparation_method->pétris et pressés à la main</li>
+  <li>preparation_method->arrosé de réductions rares</li>
+  <li>preparation_method->parfaitement fouetté pour obtenir une texture veloutée</li>
+  <li>preparation_method->croustillant à souhait</li>
+  <li>preparation_method->roulé et plié de manière impeccable</li>
+  <li>preparation_method->suspendus dans un délicat consommé</li>
+  <li>preparation_method->délicatement soufflé</li>
+  <li>preparation_method->transformé en une mousse soyeuse</li>
+  <li>preparation_method->soigneusement grillé à la flamme</li>
+  <li>preparation_method->délicatement aéré</li>
+  <li>preparation_method->soigneusement plié à la main</li>
+  <li>preparation_method->savamment enrubanné</li>
+  <li>preparation_method->légèrement saupoudré d'épices rares</li>
+  <li>preparation_method->vieillie de façon magistrale</li>
+  <li>preparation_method->doucement mijoté à la perfection</li>
+  <li>preparation_method->à la saveur savamment équilibrée</li>
+  <li>preparation_method->délicatement grillé à la braise</li>
+  <li>preparation_method->subtilement rehaussé de notes florales</li>
+  <li>preparation_method->fumé à la main sur du bois aromatique</li>
+  <li>preparation_method->enrobé d'une réduction succulente</li>
+  <li>preparation_method->raffiné grâce à une technique méticuleuse</li>
+  <li>preparation_method->fleuri d'arômes exquis</li>
+  <li>preparation_method->superposé avec une précision irréprochable</li>
+  <li>preparation_method->fouetté pour obtenir une texture nuageuse</li>
+  <li>preparation_method->façonné en œuvre d'art</li>
+  <li>preparation_method->doré à l'argent comestible</li>
+  <li>preparation_method->soigneusement infusé de saveurs exotiques</li>
+  <li>preparation_method->à la texture et à la saveur parfaitement équilibrées</li>
+  <li>preparation_method->embrassé par le clair de lune et vieilli lentement dans des chambres de cristal</li>
+  <li>preparation_method->massé à la main par un chef expert sous des vibrations symphoniques</li>
+  <li>preparation_method->délicatement fumé sur du bois ancien infusé par des sortilèges</li>
+  <li>preparation_method->fermenté sous le regard attentif d'un chef étoilé au guide Michelin</li>
+  <li>preparation_method->baigné dans une réduction de larmes d'un sommelier joyeusement éploré</li>
+  <li>descriptor_importance->représente le summum de l'indulgence raffinée</li>
+  <li>descriptor_importance->constitue le fleuron de cette création</li>
+  <li>descriptor_importance->ancre le plat dans une symphonie de saveurs</li>
+  <li>descriptor_importance->définit l'essence même du luxe culinaire</li>
+  <li>descriptor_importance->élève la composition à des niveaux inégalés</li>
+  <li>descriptor_importance->ouvre la voie à une expérience véritablement transcendante</li>
+  <li>descriptor_importance->constitue la base de ce chef-d'œuvre gastronomique</li>
+  <li>descriptor_importance->tisse l'âme de ce spectacle de haute cuisine</li>
+  <li>descriptor_importance->incarne l'art de l'artisanat d'élite</li>
+  <li>descriptor_importance->inaugure un opulent voyage gustatif</li>
+  <li>descriptor_importance->représente l'apogée de la sophistication gastronomique</li>
+  <li>descriptor_importance->offre une expression sublime de l'excellence culinaire</li>
+  <li>descriptor_importance->constitue l'épine dorsale de ce délice sans pareil</li>
+  <li>descriptor_importance->rayonne d'élégance à chaque bouchée délicate</li>
+  <li>descriptor_importance->dévoile dans une histoire de luxe et de précision</li>
+  <li>descriptor_importance->provenant des meilleurs fournisseurs, ce qui garantit une qualité inégalée</li>
+  <li>descriptor_importance->sélectionné à la main pour son marbrage exquis et sa tendreté</li>
+  <li>descriptor_importance->soigneusement vieilli pour approfondir ses saveurs riches et complexes</li>
+  <li>descriptor_importance->récolté de manière durable pour préserver sa pureté naturelle</li>
+  <li>descriptor_importance->provenant de races patrimoniales reconnues pour leur goût supérieur</li>
+  <li>descriptor_importance->cultivé avec précision pour obtenir une texture optimale</li>
+  <li>descriptor_importance->élevé de manière éthique pour incarner à la fois le luxe et la responsabilité</li>
+  <li>descriptor_importance->apprécié pour son équilibre délicat entre saveur et succulence</li>
+  <li>descriptor_importance->choisi pour sa texture veloutée et sa profondeur inégalée</li>
+  <li>descriptor_importance->élevé grâce à un savoir-faire d'expert et à l'art culinaire</li>
+  <li>descriptor_importance->provenant d'eaux pures, garantissant une finition pure et propre</li>
+  <li>descriptor_importance->découpé à la main pour mettre en valeur les parties les plus tendres</li>
+  <li>descriptor_importance->infusé de notes subtiles qui rehaussent son caractère naturel</li>
+  <li>descriptor_importance->cultivé dans des conditions idéales pour développer son profil luxueux</li>
+  <li>descriptor_importance->réputé pour sa texture soyeuse en bouche et son goût riche et décadent</li>
+  <li>descriptor_importance->témoignant de l'excellence de l'artisanat culinaire</li>
+  <li>descriptor_importance->l'incarnation du goût raffiné et de la sophistication</li>
+  <li>descriptor_importance->conçu pour ceux qui ne recherchent que l'extraordinaire</li>
+  <li>descriptor_importance->un plaisir rare réservé aux palais les plus exigeants</li>
+  <li>descriptor_importance->une fusion harmonieuse de saveurs, de textures et d'art</li>
+  <li>descriptor_importance->une expression opulente de l'excellence gastronomique</li>
+  <li>descriptor_importance->un équilibre parfait entre délicatesse et profondeur</li>
+  <li>descriptor_importance->une création qui dépasse la simple subsistance</li>
+  <li>descriptor_importance->l'expression la plus pure de la haute cuisine</li>
+  <li>descriptor_importance->une expérience inégalée à chaque bouchée</li>
+  <li>Carefully->Soigneusement,</li>
+  <li>Carefully->Délicatement,</li>
+  <li>Carefully->Avec compétence,</li>
+  <li>Carefully->Habilement,</li>
+  <li>Carefully->Magistralement,</li>
+  <li>Carefully->Précisément,</li>
+  <li>Carefully->Artistiquement,</li>
+  <li>Carefully->Méticuleusement,</li>
+  <li>Carefully->Elégamment,</li>
+  <li>Carefully->Affectueusement,</li>
+  <li>Carefully->Impeccablement,</li>
+  <li>Carefully->Parfaitement,</li>
+  <li>Carefully->Minutieusement,</li>
+  <li>Carefully->Gracieusement,</li>
+  <li>Carefully->Merveilleusement,</li>
+  <li>Carefully->Adroitement,</li>
+  <li>Carefully->Attentivement,</li>
+  <li>Carefully->Sensiblement,</li>
+  <li>Carefully->Avec une grande précision</li>
+  <li>Carefully->Avec des mains expertes</li>
+  <li>Carefully->Avec une technique raffinée</li>
+  <li>Carefully->Avec une grande finesse</li>
+  <li>Carefully->Avec une touche artistique</li>
+  <li>Carefully->Avec une maîtrise parfaite</li>
+  <li>Carefully->Avec une attention sans faille</li>
+  <li>Carefully->Avec un air de sophistication</li>
+  <li>Carefully->Avec l'intuition d'un chef cuisinier</li>
+  <li>Carefully->Avec une approche méticuleuse</li>
+  <li>Carefully->Avec un savoir-faire inégalé</li>
+  <li>Carefully->Avec une grande expertise culinaire</li>
+  <li>Carefully->Avec une précision éprouvée</li>
+  <li>Carefully->Avec un dévouement obsessionnel</li>
+  <li>Carefully(p=9)-></li>
+  <li>delicate->délicatement</li>
+  <li>delicate->tendrement</li>
+  <li>delicate->voluptueusement</li>
+  <li>delicate->soyeusement</li>
+  <li>delicate->onctueusement</li>
+  <li>delicate->succulemment</li>
+  <li>delicate->savoureusement</li>
+  <li>delicate->délicieusement</li>
+  <li>delicate->finement</li>
+  <li>delicate->méticuleusement</li>
+  <li>delicate->doucement</li>
+  <li>delicate->extrêmement léger</li>
+  <li>delicate->vaporeusement</li>
+  <li>delicate->fragilement</li>
+  <li>delicate->très finement</li>
+  <li>delicate->aéré</li>
+  <li>delicate->délicatement</li>
+  <li>delicate->somptueusement</li>
+  <li>delicate->fondant dans la bouche</li>
+  <li>delicate->léger comme l'air</li>
+  <li>delicate->irréprochable</li>
+  <li>delicate->doré</li>
+  <li>delicate->onctueusement</li>
+  <li>delicate->doux comme du velours</li>
+  <li>delicate->parfaitement</li>
+  <li>delicate->croustillant</li>
+  <li>delicate->juteusement</li>
+  <li>delicate->sublimement</li>
+  <li>delicate->humidement</li>
+  <li>delicate->fraîchement</li>
+  <li>delicate->brillamment</li>
+  <li>delicate->translucide</li>
+  <li>delicate->exquisement</li>
+  <li>delicate->souplement</li>
+  <li>delicate->doux comme du beurre</li>
+  <li>delicate->immaculément</li>
+  <li>delicate->silencieusement</li>
+  <li>delicate->sans effort</li>
+  <li>delicate->légèrement texturé</li>
+  <li>delicate->légèrement croustillant</li>
+  <li>delicate->nuageusement</li>
+  <li>delicate->mielleusement</li>
+  <li>delicate->somptueusement doux</li>
+  <li>delicate->dynamiquement</li>
+  <li>delicate->robustement</li>
+  <li>delicate->audacieusement</li>
+  <li>delicate->chaleureusement</li>
+  <li>delicate->parfumé</li>
+  <li>delicate->croquant</li>
+  <li>delicate->piquamment</li>
+  <li>delicate->fumé</li>
+  <li>delicate->caramélisant</li>
+  <li>delicate->savoureusement</li>
+  <li>delicate->riche en umami</li>
+  <li>delicate->épicé</li>
+  <li>delicate->aromatiquement</li>
+  <li>delicate->piquant</li>
+  <li>delicate->beurré</li>
+  <li>delicate->grillé</li>
+  <li>delicate->de noix</li>
+  <li>delicate->ardemment</li>
+  <li>delicate->fermenté</li>
+  <li>delicate->fumé</li>
+  <li>delicate->toasté</li>
+  <li>delicate->longuement</li>
+  <li>delicate->vieillement</li>
+  <li>delicate->marbré</li>
+  <li>delicate->succulemment</li>
+  <li>delicate->herbacé</li>
+  <li>delicate->richement</li>
+  <li>delicate->poivré</li>
+  <li>delicate(p=10)-></li>
+  <li>lends->ajoute</li>
+  <li>lends->contribue</li>
+  <li>lends->infuse</li>
+  <li>lends->imprègne</li>
+  <li>lends->améliore</li>
+  <li>lends->introduit</li>
+  <li>lends->apporte</li>
+  <li>lends->fournit</li>
+  <li>lends->livre</li>
+  <li>lends->délivre</li>
+  <li>lends->offre</li>
+  <li>lends->transmet</li>
+  <li>lends->communique</li>
+  <li>lends->complète</li>
+  <li>lends->équilibre</li>
+  <li>lends->élève</li>
+  <li>lends->accentue</li>
+  <li>lends->fortifie</li>
+  <li>lends->renforce</li>
+  <li>lends->évoque</li>
+  <li>lends->suscite</li>
+  <li>lends->enrichit</li>
+  <li>lends->souligne</li>
+  <li>lends->soutient</li>
+  <li>lends->fond</li>
+  <li>lends->harmonise</li>
+  <li>lends->approfondit</li>
+  <li>lends->dispose</li>
+  <li>lends->se marie parfaitement avec</li>
+  <li>lends->s'intègre parfaitement avec</li>
+  <li>lends->accroît</li>accntue
+  <li>lends->arrondit</li>
+  <li>lends->illumine</li>
+  <li>lends->intensifie</li>
+  <li>descriptor->la profondeur</li>
+  <li>descriptor->la vivacité</li>
+  <li>descriptor->la richesse</li>
+  <li>descriptor->l'harmonie</li>
+  <li>descriptor->la complexité</li>
+  <li>descriptor->le luxe</li>
+  <li>descriptor->le raffinement</li>
+  <li>descriptor->l'équilibre</li>
+  <li>descriptor->l'opulence</li>
+  <li>descriptor->l'indulgence</li>
+  <li>descriptor->la sophistication</li>
+  <li>descriptor->la chaleur</li>
+  <li>descriptor->le flair</li>
+  <li>descriptor->l'élégance</li>
+  <li>descriptor->l'intensité</li>
+  <li>descriptor->l'audace</li>
+  <li>descriptor->la pureté</li>
+  <li>descriptor->la fraîcheur</li>
+  <li>descriptor->la nuance</li>
+  <li>descriptor->la finesse</li>
+  <li>descriptor->la grâce</li>
+  <li>descriptor->la subtilité</li>
+  <li>descriptor->l'exubérance</li>
+  <li>descriptor->la douceur</li>
+  <li>descriptor->l'onctuosité</li>
+  <li>descriptor->l'umami</li>
+  <li>descriptor->l'arôme</li>
+  <li>descriptor->des épices</li>
+  <li>descriptor->la terre</li>
+  <li>descriptor->le piquant</li>
+  <li>descriptor->l'intrigue</li>
+  <li>descriptor->le mystère</li>
+  <li>descriptor->l'attrait</li>
+  <li>descriptor->le patrimoine</li>
+  <li>descriptor->la tradition</li>
+  <li>descriptor->l'innovation</li>
+  <li>descriptor->l'art</li>
+  <li>descriptor->l'onctuosité</li>
+  <li>descriptor->la saveur</li>
+  <li>descriptor->le contraste</li>
+  <li>descriptor->la succulence</li>
+  <li>descriptor->la jutosité</li>
+  <li>descriptor->la plénitude</li>
+  <li>descriptor->la tendresse</li>
+  <li>descriptor->la luminosité</li>
+  <li>descriptor->la résonance</li>
+  <li>descriptor->la délicatesse</li>
+  <li>descriptor->l'aromaticité</li>
+  <li>descriptor->la robustesse</li>
+  <li>descriptor->l'entrain</li>
+  <li>descriptor->la nervosité</li>
+  <li>descriptor->la fermentation</li>
+  <li>descriptor->la caramélisation</li>
+  <li>descriptor->le croquant</li>
+  <li>descriptor->le moelleux</li>
+  <li>descriptor->la fumée</li>
+  <li>descriptor->l'acidité</li>
+  <li>descriptor->parfum</li>
+  <li>descriptor->rondeur</li>
+  <li>descriptor->la salubrité</li>
+  <li>whisper->un soupçon</li>
+  <li>whisper->une pointe</li>
+  <li>whisper->une touche</li>
+  <li>whisper->une trace</li>
+  <li>whisper->une essence</li>
+  <li>whisper->un souffle</li>
+  <li>whisper->un murmure</li>
+  <li>whisper->une connotation</li>
+  <li>whisper->une nuance</li>
+  <li>whisper->une suggestion</li>
+  <li>whisper->une bouffée</li>
+  <li>whisper->un aperçu</li>
+  <li>whisper->une note délicate</li>
+  <li>whisper->un léger brin</li>
+  <li>whisper->un trait subtil</li>
+  <li>whisper->une touche persistante</li>
+  <li>whisper->une trace infime</li>
+  <li>whisper->un léger accent</li>
+  <li>whisper->une ombre</li>
+  <li>whisper->une once</li>
+  <li>whisper->un écho chuchoté</li>
+  <li>whisper->une présence légère</li>
+  <li>descriptor_effects->persistant élégamment en bouche</li>
+  <li>descriptor_effects->améliorant la profondeur naturelle de l'assiette</li>
+  <li>descriptor_effects->rehaussant chaque bouchée nuancée</li>
+  <li>descriptor_effects->ajoutant une touche de complexité raffinée</li>
+  <li>descriptor_effects->apportant chaleur et équilibre</li>
+  <li>descriptor_effects->rehaussant subtilement le profil de la saveur</li>
+  <li>descriptor_effects->s'intègrant parfaitement à tous les éléments</li>
+  <li>descriptor_effects->complétant le plat avec finesse</li>
+  <li>descriptor_effects->apportant une délicate note aromatique</li>
+  <li>descriptor_effects->harmonisant magnifiquement la composition</li>
+  <li>descriptor_effects->renforçant le caractère luxueux du plat</li>
+  <li>descriptor_effects->se faufilant entre les saveurs comme un fil doux</li>
+  <li>descriptor_effects->amplifiant la richesse du plat</li>
+  <li>descriptor_effects->illuminant le palais d'une subtile vivacité</li>
+  <li>descriptor_effects->apportant une touche finale exquise</li>
+  <li>descriptor_effects->introduisant un murmure d'indulgence</li>
+  <li>descriptor_effects->équilibrant les éléments avec une grâce sans effort</li>
+  <li>descriptor_effects->soulignant l'élégante simplicité du plat</li>
+  <li>descriptor_effects->laissant une impression persistante de sophistication</li>
+  <li>descriptor_effects->complétant l'essence raffinée du plat</li>
+  <li>descriptor_effects->nsufflant une chaleur délicate au plat</li>
+  <li>descriptor_effects->renforçant subtilement l'umami naturel</li>
+  <li>descriptor_effects->ajoutant une touche d'intrigue aromatique</li>
+  <li>descriptor_effects->tissant un léger contraste dans le profil</li>
+  <li>descriptor_effects->offrant une finition raffinée et persistante</li>
+  <li>descriptor_effects->renforcant le jeu des saveurs</li>
+  <li>descriptor_effects->fondant parfaitement dans la profondeur du plat</li>
+  <li>descriptor_effects->apportant un doux contrepoids à des éléments plus audacieux</li>
+  <li>descriptor_effects->accentuant en douceur la complexité du plat</li>
+  <li>descriptor_effects->introduisant une nuance élégante et éphémère</li>
+  <li>descriptor_effects->adoucissant les notes piquantes du plat avec grâce</li>
+  <li>descriptor_effects->imprégnant l'assiette d'un soupçon de luxe</li>
+  <li>descriptor_effects->enrichissant délicatement la texture du plat</li>
+  <li>descriptor_effects->élevant l'arôme à une nouvelle dimension</li>
+  <li>descriptor_effects->faisant ressortir les couches profondes du goût</li>
+  <li>descriptor_effects->apportant une douceur raffinée à chaque bouchée</li>
+  <li>descriptor_effects->fondant harmonieusement dans l'ensemble de la composition</li>
+  <li>descriptor_effects->intensifiant en douceur le caractère du plat</li>
+  <li>descriptor_effects->offrant une touche finale de sophistication</li>
+  <li>descriptor_effects->créant une passerelle transparente entre les saveurs</li>
+  <li>descriptor_effects->ajoutant une touche de raffinement délicat</li>
+  <li>descriptor_effects->complétant en douceur le profil de saveur</li>
+  <li>descriptor_effects->apportant une profondeur douce et persistante</li>
+  <li>descriptor_effects->introduisant un air d'élégance discrète</li>
+  <li>descriptor_effects->offrant un soupçon de complexité florale</li>
+  <li>descriptor_effects->améliorant l'interaction des textures et des goûts</li>
+  <li>descriptor_effects->fondant aisément dans la richesse du plat</li>
+  <li>descriptor_effects->rehaussant l'équilibre général des saveurs</li>
+  <li>descriptor_effects->faisant ressortir une douceur subtile sous la surface</li>
+  <li>descriptor_effects->ajoutant un contraste mesuré à la composition</li>
+  <li>descriptor_effects->conférant à ce plat une sophistication discrète</li>
+  <li>descriptor_effects->ajoutant une nuance discrète mais essentielle</li>
+  <li>descriptor_effects->approfondissant la chaleur naturelle du plat</li>
+  <li>descriptor_effects->tissant un fil complexe de complexité</li>
+  <li>descriptor_effects->offrant un arrière-goût doux et persistant</li>
+  <li>descriptor_effects->équilibrant la richesse avec un léger soulèvement</li>
+  <li>descriptor_effects->fondant dans le plat avec une harmonie parfaite</li>
+  <li>descriptor_effects->apportant une note douce et parfumée</li>
+  <li>descriptor_effects->faisant ressortir les saveurs cachées en profondeur</li>
+  <li>descriptor_effects->introduisant une finition raffinée et à peine perceptible</li>
+  <li>elevated->raffinée</li>
+  <li>elevated->sublime</li>
+  <li>elevated->luxueuse</li>
+  <li>elevated->exquise</li>
+  <li>elevated->sophistiquée</li>
+  <li>elevated->transcendante</li>
+  <li>elevated->opulente</li>
+  <li>elevated->divine</li>
+  <li>elevated->éthérée</li>
+  <li>elevated->indulgente</li>
+  <li>elevated->gourmande</li>
+  <li>elevated->somptueuse</li>
+  <li>elevated->harmonieuse</li>
+  <li>elevated->parfaite</li>
+  <li>elevated->incomparable</li>
+  <li>elevated->artistique</li>
+  <li>elevated->magistrale</li>
+  <li>elevated->inégalée</li>
+  <li>elevated->gracieuse</li>
+  <li>elevated->enrichissante</li>
+  <li>elevated->élégante</li>
+  <li>elevated->majestueuse</li>
+  <li>elevated->époustouflante</li>
+  <li>strands->en micropousses</li>
+  <li>strands->en perles</li>
+  <li>strands->en essence</li>
+  <li>strands->en gouttes de rosée</li>
+  <li>strands->en garniture</li>
+  <li>strands->en pétales</li>
+  <li>strands->en murmures</li>
+  <li>strands->en fleurons</li>
+  <li>strands->en confettis</li>
+  <li>strands->en brunoise</li>
+  <li>strands->en billes</li>
+  <li>strands->en caviar</li>
+  <li>strands->en fils</li>
+  <li>strands->en boucles délicates</li>
+  <li>strands->en cristaux</li>
+  <li>strands->en micro-copeaux</li>
+  <li>strands->en sifflements</li>
+  <li>strands->en vrilles</li>
+  <li>strands->en copeaux</li>
+  <li>strands->en lambeaux</li>
+  <li>strands->en lamelles</li>
+  <li>strands->en éclats</li>
+  <li>strands->en mouchetures</li>
+  <li>strands->en miettes</li>
+  <li>strands->en taches</li>
+  <li>strands->en fragments</li>
+  <li>strands->en chuchotement</li>
+  <li>strands->en bouchées</li>
+  <li>strands->en gouttes</li>
+  <li>strands->en paillettes</li>
+  <li>strands->en grains</li>
+  <li>strands->en saupoudrages</li>
+  <li>strands->en pincées</li>
+  <li>strands->en éparpillements</li>
+  <li>strands->en traces</li>
+  <li>strands->en limandes</li>
+  <li>strands->en note</li>
+  <li>strands->en pastilles</li>
+  <li>strands->en stries</li>
+  <li>strands->en tourbillons</li>
+  <li>strands->en lueurs</li>
+  <li>strands->en fioritures</li>
+  <li>strands->en pétales</li>
+  <li>strands->en boucles</li>
+  <li>strands->en rubans</li>
+  <li>strands->en filet</li>
+  <li>strands->en touffes</li>
+  <li>strands->en nodules</li>
+  <li>strands->en flocons</li>
+  <li>strands->en perles</li>
+  <li>artistic_precision->méticuleusement mis en scène avec une élégante symétrie</li>
+  <li>artistic_precision->arrangé avec un souci du détail sans faille</li>
+  <li>artistic_precision->composé comme un chef-d'œuvre visuel</li>
+  <li>artistic_precision->élaboré avec une finesse sculpturale</li>
+  <li>artistic_precision->orné d'une touche picturale</li>
+  <li>artistic_precision->présenté avec un minimalisme gracieux</li>
+  <li>artistic_precision->superposé avec une précision géométrique</li>
+  <li>artistic_precision->conçu avec l'art de la haute cuisine</li>
+  <li>artistic_precision->conçu comme un régal pour les yeux</li>
+  <li>artistic_precision->surélevé à l'aide de techniques de présentation modernes</li>
+  <li>artistic_precision->créé avec un équilibre culinaire exquis</li>
+  <li>artistic_precision->agencé avec une harmonie visuelle impeccable</li>
+  <li>artistic_precision->dans une composition d'une élégance raffinée</li>
+  <li>artistic_precision->assemblé comme une œuvre d'art</li>
+  <li>artistic_precision->présenté avec une touche de haute cuisine</li>
+  <li>artistic_precision->équilibré avec un contraste esthétique frappant</li>
+  <li>artistic_precision->conçu avec un raffinement sans effort</li>
+  <li>artistic_precision->garni avec une touche délicate et réfléchie</li>
+  <li>artistic_precision->structuré avec une précision architecturale,</li>
+  <li>artistic_precision->disposés pour évoquer un sentiment de grandeur</li>
+  <li>artistic_precision->placé avec un équilibre et une grâce impeccables</li>
+  <li>artistic_precision->conçu dans un souci de symétrie et de fluidité</li>
+  <li>artistic_precision->fabriqué avec une précision sculpturale</li>
+  <li>artistic_precision->superposés pour créer un contraste visuel saisissant</li>
+  <li>artistic_precision->disposés dans une composition envoûtante</li>
+  <li>artistic_precision->conçu pour ressembler à un tableau vivant</li>
+  <li>artistic_precision->présenté avec une touche d'élégance minimaliste</li>
+  <li>artistic_precision->orné d'embellissements comestibles complexes</li>
+  <li>artistic_precision->encadré dans l'assiette comme une pièce digne d'une galerie</li>
+  <li>artistic_precision->élevé avec un sens artistique raffiné</li>
+  <li>artistic_precision->organisé avec une touche dramatique</li>
+  <li>artistic_precision->assemblé avec la précision d'un maître joaillier</li>
+  <li>artistic_precision->garni d'un coup de pinceau délicat de peintre</li>
+  <li>artistic_precision->conçu pour allier harmonieusement forme et fonction</li>
+  <li>artistic_precision->façonné avec la main délicate d'un sculpteur</li>
+  <li>artistic_precision->présenté dans un arrangement d'une beauté absolue</li>
+  <li>artistic_precision->plaqué pour mettre en valeur chaque détail exquis</li>
+  <li>artistic_precision->présenté avec un contraste et une harmonie saisissants</li>
+  <li>artistic_precision->équilibré entre l'élégance et l'expression audacieuse</li>
+  <li>artistic_precision->infusé avec un sens du mouvement poétique</li>
+  <li>artistic_precision->composé pour refléter la beauté naturelle</li>
+  <li>artistic_precision->conçu pour mettre en valeur toutes les nuances de la texture</li>
+  <li>artistic_precision->doré à l'or comestible et aux accents délicats</li>
+  <li>artistic_precision->formé d'une silhouette sculpturale captivante</li>
+  <li>artistic_precision->délicatement superposé avec précision et intention</li>
+  <li>artistic_precision->présenté comme un chef-d'œuvre</li>
+  <li>artistic_precision->structuré pour souligner l'élégance organique du plat</li>
+  <li>artistic_precision->conçu avec une sensibilité culinaire de haute couture</li>
+  <li>artistic_precision->plaqué avec un équilibre architectural frappant</li>
+  <li>artistic_precision->encadré par une esthétique à la fois délicate et audacieuse</li>
+  <li>goal_of_the_meal->méticuleusement placé pour créer une symphonie de saveurs</li>
+  <li>goal_of_the_meal->harmonisé pour offrir une expérience gastronomique sans faille</li>
+  <li>goal_of_the_meal->disposé de manière à mettre en valeur l'élégance raffinée du plat</li>
+  <li>goal_of_the_meal->composé pour ravir à la fois l'œil et le palais</li>
+  <li>goal_of_the_meal->structuré de manière à mettre en évidence son équilibre complexe</li>
+  <li>goal_of_the_meal->perfectionné pour que chaque bouchée soit un délice</li>
+  <li>goal_of_the_meal->conçu pour évoquer un sens de l'art culinaire</li>
+  <li>goal_of_the_meal->superposé pour offrir un voyage à travers les goûts et les textures</li>
+  <li>goal_of_the_meal->orchestré pour célébrer la beauté de la gastronomie</li>
+  <li>goal_of_the_meal->façonné pour offrir un plaisir multisensoriel</li>
+  <li>goal_of_the_meal->conçu pour mettre en valeur sa profondeur exquise</li>
+  <li>goal_of_the_meal->équilibré pour créer une expérience gastronomique inoubliable</li>
+  <li>goal_of_the_meal->conçu pour refléter la maîtrise culinaire dans ce qu'elle a de plus raffiné</li>
+  <li>goal_of_the_meal->peaufiné à la perfection et laisse une impression durable</li>
+  <li>goal_of_the_meal->aligné pour garantir une expérience de dégustation sans faille</li>
+  <li>goal_of_the_meal->tissé ensemble pour créer un plaisir opulent</li>
+  <li>goal_of_the_meal->raffiné pour rehausser les nuances les plus subtiles</li>
+  <li>goal_of_the_meal->disposé avec intention pour maximiser sa sophistication</li>
+  <li>goal_of_the_meal->conçu pour offrir un moment de pur luxe</li>
+  <li>goal_of_the_meal->réuni dans une composition culinaire exquise</li>
+  <li>goal_of_the_meal->placé avec l'intention d'évoquer l'harmonie et l'équilibre</li>
+  <li>goal_of_the_meal->disposé de manière à accentuer la complexité raffinée du plat</li>
+  <li>goal_of_the_meal->soigneusement positionné pour garantir une expérience gustative sans faille</li>
+  <li>goal_of_the_meal->conçu pour compléter les couches complexes du plat</li>
+  <li>goal_of_the_meal->conçu pour mettre en valeur l'interaction des goûts et des textures</li>
+  <li>goal_of_the_meal->orchestré pour créer une symphonie de saveurs</li>
+  <li>goal_of_the_meal->harmonisé pour refléter le summum de la gastronomie</li>
+  <li>goal_of_the_meal->équilibré pour offrir une expérience élégante et sans effort</li>
+  <li>goal_of_the_meal->tissé ensemble pour former un chef-d'œuvre d'art culinaire</li>
+  <li>goal_of_the_meal->placé avec précision pour mettre en valeur sa profondeur et son éclat</li>
+  <li>goal_of_the_meal->aligné pour créer un plaisir visuel et sensoriel exquis</li>
+  <li>goal_of_the_meal->structuré de manière à guider le palais à travers des couches de plaisir</li>
+  <li>goal_of_the_meal->perfectionné pour faire du plat une véritable œuvre d'art</li>
+  <li>goal_of_the_meal->méticuleusement superposé pour offrir une expérience de dégustation raffinée</li>
+  <li>goal_of_the_meal->conçu pour mettre en évidence à la fois le contraste et la cohésion</li>
+  <li>goal_of_the_meal->conçu pour que chaque bouchée soit un moment de plaisir</li>
+  <li>goal_of_the_meal->mis en valeur pour offrir une expérience gastronomique inégalée</li>
+  <li>goal_of_the_meal->disposé de manière à capturer l'essence de la sophistication culinaire</li>
+  <li>goal_of_the_meal->composé pour laisser une impression durable de raffinement</li>
+  <li>goal_of_the_meal->façonné avec intention pour célébrer l'excellence gastronomique</li>
+</VCE_MealDescriptionUtility_Global.rulePack.rulesStrings>
+
+<!-- EN:
+  <li>r_art_name(p=4)->[protein] [preparation_protein_suffix], with [vegetable1] [preparation_suffix] and [vegetable2] [preparation_suffix]</li>
+  <li>r_art_name(p=2)->[protein] [preparation_protein_suffix], with [vegetable1] [preparation_suffix] and [vegetable2]</li>
+  <li>r_art_name(p=2)->[protein] [preparation_protein_suffix], with [vegetable1] and [vegetable2]</li>
+  <li>r_art_name->[protein] [preparation_protein_suffix]</li>
+  <li>r_art_name->[preparation_protein_prefix] [protein], with [vegetable1] [preparation_suffix] and [vegetable2] [preparation_suffix]</li>
+  <li>r_art_name->[protein] [preparation_protein_suffix], with [preparation_prefix] [vegetable1] and [vegetable2] [preparation_suffix]</li>
+  <li>preparation_protein_suffix->ragout</li>
+  <li>preparation_protein_suffix->steak</li>
+  <li>preparation_protein_suffix->filet</li>
+  <li>preparation_protein_suffix->carpaccio</li>
+  <li>preparation_protein_suffix->tartare</li>
+  <li>preparation_protein_suffix->confit</li>
+  <li>preparation_protein_suffix->roast</li>
+  <li>preparation_protein_suffix->cutlet</li>
+  <li>preparation_protein_suffix->medallion</li>
+  <li>preparation_protein_suffix->brisket</li>
+  <li>preparation_protein_suffix->chop</li>
+  <li>preparation_protein_suffix->kebab</li>
+  <li>preparation_protein_suffix->terrine</li>
+  <li>preparation_protein_suffix->broth</li>
+  <li>preparation_protein_suffix->casserole</li>
+  <li>preparation_protein_suffix->pâté</li>
+  <li>preparation_protein_suffix->mignon</li>
+  <li>preparation_protein_suffix->shank</li>
+  <li>preparation_protein_suffix->ballotine</li>
+  <li>preparation_protein_suffix->galantine</li>
+  <li>preparation_protein_suffix->roulade</li>
+  <li>preparation_protein_suffix->stroganoff</li>
+  <li>preparation_protein_suffix->bourguignon</li>
+  <li>preparation_protein_suffix->suprême</li>
+  <li>preparation_protein_suffix->cassoulet</li>
+  <li>preparation_protein_suffix->bisque</li>
+  <li>preparation_protein_suffix->curry</li>
+  <li>preparation_protein_suffix->goulash</li>
+  <li>preparation_protein_suffix->fricassee</li>
+  <li>preparation_protein_suffix->pot-au-feu</li>
+  <li>preparation_protein_suffix->meunière</li>
+  <li>preparation_protein_suffix->pilaf</li>
+  <li>preparation_protein_suffix->stroganoff</li>
+  <li>preparation_protein_suffix->à la mode</li>
+  <li>preparation_protein_suffix->aiguillettes</li>
+  <li>preparation_protein_suffix->cordon bleu</li>
+  <li>preparation_protein_suffix->à la royale</li>
+  <li>preparation_protein_suffix->skewer</li>
+  <li>preparation_protein_suffix->bavette</li>
+  <li>preparation_protein_suffix->osso buco</li>
+  <li>preparation_protein_suffix->braise</li>
+  <li>preparation_protein_suffix->en croûte</li>
+  <li>preparation_protein_suffix->vol-au-vent</li>
+  <li>preparation_protein_suffix->civet</li>
+  <li>preparation_protein_suffix->braised cut</li>
+  <li>preparation_protein_suffix->barbecue</li>
+  <li>preparation_protein_suffix->en papillote</li>
+  <li>preparation_protein_suffix->coq au vin</li>
+  <li>preparation_protein_suffix->ballotines</li>
+  <li>preparation_protein_prefix->grilled</li>
+  <li>preparation_protein_prefix->seared</li>
+  <li>preparation_protein_prefix->roasted</li>
+  <li>preparation_protein_prefix->braised</li>
+  <li>preparation_protein_prefix->smoked</li>
+  <li>preparation_protein_prefix->glazed</li>
+  <li>preparation_protein_prefix->marinated</li>
+  <li>preparation_protein_prefix->poached</li>
+  <li>preparation_protein_prefix->caramelized</li>
+  <li>preparation_protein_prefix->crispy</li>
+  <li>preparation_protein_prefix->spiced</li>
+  <li>preparation_protein_prefix->buttered</li>
+  <li>preparation_protein_prefix->herbed</li>
+  <li>preparation_protein_prefix->blackened</li>
+  <li>preparation_protein_prefix->charred</li>
+  <li>preparation_protein_prefix->infused</li>
+  <li>preparation_protein_prefix->candied</li>
+  <li>preparation_protein_prefix->pickled</li>
+  <li>preparation_protein_prefix->tenderized</li>
+  <li>preparation_protein_prefix->cured</li>
+  <li>preparation_protein_prefix->lacquered</li>
+  <li>preparation_protein_prefix->coated</li>
+  <li>preparation_protein_prefix->steamed</li>
+  <li>preparation_protein_prefix->basted</li>
+  <li>preparation_protein_prefix->toasted</li>
+  <li>preparation_protein_prefix->sautéed</li>
+  <li>preparation_protein_prefix->confit</li>
+  <li>preparation_protein_prefix->fermented</li>
+  <li>preparation_protein_prefix->aged</li>
+  <li>preparation_protein_prefix->peppered</li>
+  <li>preparation_protein_prefix->smothered</li>
+  <li>preparation_protein_prefix->spatchcocked</li>
+  <li>preparation_protein_prefix->blistered</li>
+  <li>preparation_protein_prefix->torched</li>
+  <li>preparation_protein_prefix->dusted</li>
+  <li>preparation_protein_prefix->rubbed</li>
+  <li>preparation_protein_prefix->scorched</li>
+  <li>preparation_protein_prefix->wrapped</li>
+  <li>preparation_protein_prefix->folded</li>
+  <li>preparation_suffix->mash</li>
+  <li>preparation_suffix->purée</li>
+  <li>preparation_suffix->confit</li>
+  <li>preparation_suffix->ribbons</li>
+  <li>preparation_suffix->julienne</li>
+  <li>preparation_suffix->gratin</li>
+  <li>preparation_suffix->compote</li>
+  <li>preparation_suffix->foam</li>
+  <li>preparation_suffix->mousse</li>
+  <li>preparation_suffix->espuma</li>
+  <li>preparation_suffix->coulis</li>
+  <li>preparation_suffix->fondue</li>
+  <li>preparation_suffix->fricassée</li>
+  <li>preparation_suffix->reduction</li>
+  <li>preparation_suffix->soufflé</li>
+  <li>preparation_suffix->velouté</li>
+  <li>preparation_suffix->sauté</li>
+  <li>preparation_suffix->braise</li>
+  <li>preparation_suffix->terrine</li>
+  <li>preparation_suffix->compote</li>
+  <li>preparation_suffix->pickle</li>
+  <li>preparation_suffix->caviar</li>
+  <li>preparation_suffix->chips</li>
+  <li>preparation_suffix->roast</li>
+  <li>preparation_suffix->char</li>
+  <li>preparation_suffix->fritters</li>
+  <li>preparation_suffix->tempura</li>
+  <li>preparation_suffix->beurre blanc</li>
+  <li>preparation_suffix->bisque</li>
+  <li>preparation_suffix->tapenade</li>
+  <li>preparation_suffix->tartare</li>
+  <li>preparation_suffix->ferment</li>
+  <li>preparation_suffix->pesto</li>
+  <li>preparation_suffix->braised</li>
+  <li>preparation_suffix->glaze</li>
+  <li>preparation_suffix->pickle</li>
+  <li>preparation_suffix->marmalade</li>
+  <li>preparation_suffix->salsa</li>
+  <li>preparation_suffix->chutney</li>
+  <li>preparation_suffix->butter</li>
+  <li>preparation_suffix->dust</li>
+  <li>preparation_suffix->shavings</li>
+  <li>preparation_suffix->drizzle</li>
+  <li>preparation_suffix->marinade</li>
+  <li>preparation_suffix->jus</li>
+  <li>preparation_suffix->fondant</li>
+  <li>preparation_suffix->infusion</li>
+  <li>preparation_suffix->aioli</li>
+  <li>preparation_suffix->syrup</li>
+  <li>preparation_suffix->brûlée</li>
+  <li>preparation_suffix->garnish</li>
+  <li>preparation_suffix->essence</li>
+  <li>preparation_suffix->dusting</li>
+  <li>preparation_suffix->brûlée</li>
+  <li>preparation_suffix->emulsion</li>
+  <li>preparation_suffix->gelée</li>
+  <li>preparation_suffix->gloss</li>
+  <li>preparation_suffix->crumble</li>
+  <li>preparation_suffix->caramelization</li>
+  <li>preparation_suffix->sorbet</li>
+  <li>preparation_suffix->nectar</li>
+  <li>preparation_suffix->froth</li>
+  <li>preparation_suffix->ragu</li>
+  <li>preparation_suffix->velvet</li>
+  <li>preparation_suffix->spheres</li>
+  <li>preparation_suffix->pearls</li>
+  <li>preparation_suffix->whip</li>
+  <li>preparation_suffix->infused oil</li>
+  <li>preparation_suffix->crisp</li>
+  <li>preparation_suffix->puffed</li>
+  <li>preparation_suffix->dehydrated</li>
+  <li>preparation_suffix->fermented essence</li>
+  <li>preparation_suffix->frizzles</li>
+  <li>preparation_suffix->floss</li>
+  <li>preparation_suffix->beurre noisette</li>
+  <li>preparation_suffix->liqueur</li>
+  <li>preparation_suffix->petals</li>
+  <li>preparation_suffix->dashi</li>
+  <li>preparation_suffix->honeycomb</li>
+  <li>preparation_suffix->smoke</li>
+  <li>preparation_suffix->cloud</li>
+  <li>preparation_suffix->mille-feuille</li>
+  <li>preparation_suffix->quenelle</li>
+  <li>preparation_suffix->crackling</li>
+  <li>preparation_suffix->steep</li>
+  <li>preparation_suffix->bavarois</li>
+  <li>preparation_suffix->relish</li>
+  <li>preparation_suffix->pavé</li>
+  <li>preparation_suffix->curd</li>
+  <li>preparation_suffix->noisette</li>
+  <li>preparation_suffix->agrodolce</li>
+  <li>preparation_suffix->brioche</li>
+  <li>preparation_suffix->candy</li>
+  <li>preparation_suffix->tuile</li>
+  <li>preparation_suffix->beurre monté</li>
+  <li>preparation_suffix->chantilly</li>
+  <li>preparation_suffix->snow</li>
+  <li>preparation_suffix->cinder</li>
+  <li>preparation_suffix->nitro dust</li>
+  <li>preparation_prefix->charred</li>
+  <li>preparation_prefix->smoked</li>
+  <li>preparation_prefix->roasted</li>
+  <li>preparation_prefix->grilled</li>
+  <li>preparation_prefix->blistered</li>
+  <li>preparation_prefix->buttered</li>
+  <li>preparation_prefix->candied</li>
+  <li>preparation_prefix->confit</li>
+  <li>preparation_prefix->marinated</li>
+  <li>preparation_prefix->sautéed</li>
+  <li>preparation_prefix->braised</li>
+  <li>preparation_prefix->fermented</li>
+  <li>preparation_prefix->pickled</li>
+  <li>preparation_prefix->glazed</li>
+  <li>preparation_prefix->steamed</li>
+  <li>preparation_prefix->honey-glazed</li>
+  <li>preparation_prefix->wine-braised</li>
+  <li>preparation_prefix->salt-roasted</li>
+  <li>preparation_prefix->caramelized</li>
+  <li>preparation_prefix->truffle-infused</li>
+  <li>preparation_prefix->blackened</li>
+  <li>preparation_prefix->crispy</li>
+  <li>preparation_prefix->fire-roasted</li>
+  <li>preparation_prefix->balsamic-reduced</li>
+  <li>preparation_prefix->slow-cooked</li>
+  <li>preparation_prefix->tender</li>
+  <li>preparation_prefix->garlic-infused</li>
+  <li>preparation_prefix->spiced</li>
+  <li>preparation_prefix->velvety</li>
+  <li>preparation_prefix->coconut-poached</li>
+  <li>preparation_prefix->herb-roasted</li>
+  <li>preparation_prefix->saffron-infused</li>
+  <li>preparation_prefix->whiskey-glazed</li>
+  <li>preparation_prefix->maple-roasted</li>
+  <li>preparation_prefix->fragrant</li>
+  <li>preparation_prefix->pistachio-crusted</li>
+  <li>preparation_prefix->sesame-seared</li>
+  <li>preparation_prefix->buttermilk-soaked</li>
+  <li>preparation_prefix->coffee-rubbed</li>
+  <li>preparation_prefix->thyme-roasted</li>
+  <li>preparation_prefix->soy-glazed</li>
+  <li>preparation_prefix->aged</li>
+  <li>preparation_prefix->cinnamon-dusted</li>
+  <li>preparation_prefix->zesty</li>
+  <li>preparation_prefix->umami-rich</li>
+  <li>preparation_prefix->bourbon-smoked</li>
+  <li>preparation_prefix->barbecue-charred</li>
+  <li>preparation_prefix->miso-glazed</li>
+  <li>preparation_prefix->buttermilk-fried</li>
+  <li>preparation_prefix->ash-roasted</li>
+  <li>preparation_prefix->beechwood-smoked</li>
+  <li>preparation_prefix->butter-basted</li>
+  <li>preparation_prefix->candle-charred</li>
+  <li>preparation_prefix->charcoal-roasted</li>
+  <li>preparation_prefix->coconut-charred</li>
+  <li>preparation_prefix->dehydrated</li>
+  <li>preparation_prefix->fire-kissed</li>
+  <li>preparation_prefix->gently poached</li>
+  <li>preparation_prefix->golden-browned</li>
+  <li>preparation_prefix->hickory-smoked</li>
+  <li>preparation_prefix->lime-zested</li>
+  <li>preparation_prefix->miso-fermented</li>
+  <li>preparation_prefix->oak-barrel-aged</li>
+  <li>preparation_prefix->orange-blossom-glazed</li>
+  <li>preparation_prefix->pomegranate-glazed</li>
+  <li>preparation_prefix->pressed</li>
+  <li>preparation_prefix->rosemary-scented</li>
+  <li>preparation_prefix->seaweed-infused</li>
+  <li>preparation_prefix->sesame-crusted</li>
+  <li>preparation_prefix->sherry-glazed</li>
+  <li>preparation_prefix->slow-roasted</li>
+  <li>preparation_prefix->stone-charred</li>
+  <li>preparation_prefix->sundried</li>
+  <li>preparation_prefix->tea-smoked</li>
+  <li>preparation_prefix->thyme-infused</li>
+  <li>preparation_prefix->vanilla-scented</li>
+  <li>preparation_prefix->wood-grilled</li>
+  <li>preparation_prefix->yuzu-marinated</li>
+  <li>preparation_prefix->ghee-roasted</li>
+  <li>preparation_prefix->charcoal-embered</li>
+  <li>preparation_prefix->matcha-dusted</li>
+  <li>preparation_prefix->molasses-lacquered</li>
+  <li>preparation_prefix->wine-soaked</li>
+  <li>preparation_prefix->applewood-kissed</li>
+  <li>preparation_prefix->sandalwood-smoked</li>
+  <li>preparation_prefix->tandoori-roasted</li>
+  <li>preparation_prefix->coriander-crusted</li>
+  <li>preparation_prefix->cumin-infused</li>
+  <li>preparation_prefix->shiso-wrapped</li>
+  <li>preparation_prefix->truffle-dusted</li>
+  <li>preparation_prefix->lemon-infused</li>
+  <li>preparation_prefix->bourbon-charred</li>
+  <li>preparation_prefix->balsamic-drizzled</li>
+  <li>preparation_prefix->fennel-pickled</li>
+  <li>preparation_prefix->ginger-poached</li>
+  <li>preparation_prefix->plum-glazed</li>
+  <li>preparation_prefix->cardamom-spiced</li>
+-->
+<VCE_MealNamerArt.rulePack.rulesStrings>
+  <li>r_art_name(p=4)->[preparation_protein_suffix] de [protein], avec [preparation_suffix] de [vegetable1] et [preparation_suffix] de [vegetable2]</li>
+  <li>r_art_name(p=2)->[preparation_protein_suffix] de [protein], avec [preparation_suffix] de [vegetable1] et [vegetable2]</li>
+  <li>r_art_name(p=2)->[preparation_protein_suffix] de [protein], avec [vegetable1] et [vegetable2]</li>
+  <li>r_art_name->[preparation_protein_suffix] de [protein]</li>
+  <li>r_art_name->[protein] [preparation_protein_prefix], avec [preparation_suffix] de [vegetable1] et [preparation_suffix] de [vegetable2]</li>
+  <li>r_art_name->[preparation_protein_suffix] de [protein], avec [vegetable1] [preparation_prefix] et [preparation_suffix] de [vegetable2]</li>
+  <li>preparation_protein_suffix->ragoût</li>
+  <li>preparation_protein_suffix->steak</li>
+  <li>preparation_protein_suffix->filet</li>
+  <li>preparation_protein_suffix->carpaccio</li>
+  <li>preparation_protein_suffix->tartare</li>
+  <li>preparation_protein_suffix->confit</li>
+  <li>preparation_protein_suffix->rôti</li>
+  <li>preparation_protein_suffix->escalope</li>
+  <li>preparation_protein_suffix->médaillon</li>
+  <li>preparation_protein_suffix->poitrine</li>
+  <li>preparation_protein_suffix->hacher</li>
+  <li>preparation_protein_suffix->kebab</li>
+  <li>preparation_protein_suffix->terrine</li>
+  <li>preparation_protein_suffix->bouillon</li>
+  <li>preparation_protein_suffix->cocotte</li>
+  <li>preparation_protein_suffix->pâté</li>
+  <li>preparation_protein_suffix->mignon</li>
+  <li>preparation_protein_suffix->jarret</li>
+  <li>preparation_protein_suffix->ballotine</li>
+  <li>preparation_protein_suffix->galantine</li>
+  <li>preparation_protein_suffix->roulade</li>
+  <li>preparation_protein_suffix->stroganoff</li>
+  <li>preparation_protein_suffix->bourguignon</li>
+  <li>preparation_protein_suffix->suprême</li>
+  <li>preparation_protein_suffix->cassoulet</li>
+  <li>preparation_protein_suffix->bisque</li>
+  <li>preparation_protein_suffix->curry</li>
+  <li>preparation_protein_suffix->goulache</li>
+  <li>preparation_protein_suffix->fricassée</li>
+  <li>preparation_protein_suffix->pot-au-feu</li>
+  <li>preparation_protein_suffix->meunière</li>
+  <li>preparation_protein_suffix->pilaf</li>
+  <li>preparation_protein_suffix->côtelette</li>
+  <li>preparation_protein_suffix->aiguillettes</li>
+  <li>preparation_protein_suffix->cordon bleu</li>
+  <li>preparation_protein_suffix->brochette</li>
+  <li>preparation_protein_suffix->bavette</li>
+  <li>preparation_protein_suffix->osso buco</li>
+  <li>preparation_protein_suffix->braisé</li>
+  <li>preparation_protein_suffix->vol-au-vent</li>
+  <li>preparation_protein_suffix->civet</li>
+  <li>preparation_protein_suffix->côte braisée</li>
+  <li>preparation_protein_suffix->barbecue</li>
+  <li>preparation_protein_suffix->coq au vin</li>
+  <li>preparation_protein_suffix->ballotine</li>
+  <li>preparation_protein_prefix->grillée</li>
+  <li>preparation_protein_prefix->saisie</li>
+  <li>preparation_protein_prefix->poêlée</li>
+  <li>preparation_protein_prefix->rôtie</li>
+  <li>preparation_protein_prefix->braisée</li>
+  <li>preparation_protein_prefix->fumée</li>
+  <li>preparation_protein_prefix->glacée</li>
+  <li>preparation_protein_prefix->marinée</li>
+  <li>preparation_protein_prefix->pochée</li>
+  <li>preparation_protein_prefix->caramélisée</li>
+  <li>preparation_protein_prefix->croustillante</li>
+  <li>preparation_protein_prefix->épicée</li>
+  <li>preparation_protein_prefix->beurrée</li>
+  <li>preparation_protein_prefix->persillée</li>
+  <li>preparation_protein_prefix->noircie</li>
+  <li>preparation_protein_prefix->carbonisée</li>
+  <li>preparation_protein_prefix->infusée</li>
+  <li>preparation_protein_prefix->confite</li>
+  <li>preparation_protein_prefix->saumurée</li>
+  <li>preparation_protein_prefix->attendrie</li>
+  <li>preparation_protein_prefix->séchée</li>
+  <li>preparation_protein_prefix->laquée</li>
+  <li>preparation_protein_prefix->enrobée</li>
+  <li>preparation_protein_prefix->étuvée</li>
+  <li>preparation_protein_prefix->arrosée</li>
+  <li>preparation_protein_prefix->badigeonnée</li>
+  <li>preparation_protein_prefix->toastée</li>
+  <li>preparation_protein_prefix->sautée</li>
+  <li>preparation_protein_prefix->fermentée</li>
+  <li>preparation_protein_prefix->vieillie</li>
+  <li>preparation_protein_prefix->poivrée</li>
+  <li>preparation_protein_prefix->étouffée</li>
+  <li>preparation_protein_prefix->crapaudine</li>
+  <li>preparation_protein_prefix->cloquée</li>
+  <li>preparation_protein_prefix->brûlée</li>
+  <li>preparation_protein_prefix->saupoudrée</li>
+  <li>preparation_protein_prefix->frottée</li>
+  <li>preparation_protein_prefix->roussie</li>
+  <li>preparation_protein_prefix->enveloppée</li>
+  <li>preparation_protein_prefix->pliée</li>
+  <li>preparation_protein_prefix->à la mode</li>
+  <li>preparation_protein_prefix->à la royale</li>
+  <li>preparation_protein_prefix->en croûte</li>
+  <li>preparation_protein_prefix->en papillote</li>
+  <li>preparation_suffix->bouillie</li>
+  <li>preparation_suffix->purée</li>
+  <li>preparation_suffix->confit</li>
+  <li>preparation_suffix->ruban</li>
+  <li>preparation_suffix->julienne</li>
+  <li>preparation_suffix->gratin</li>
+  <li>preparation_suffix->compote</li>
+  <li>preparation_suffix->écume</li>
+  <li>preparation_suffix->mousse</li>
+  <li>preparation_suffix->espuma</li>
+  <li>preparation_suffix->coulis</li>
+  <li>preparation_suffix->fondue</li>
+  <li>preparation_suffix->fricassée</li>
+  <li>preparation_suffix->réduction</li>
+  <li>preparation_suffix->soufflé</li>
+  <li>preparation_suffix->velouté</li>
+  <li>preparation_suffix->sauté</li>
+  <li>preparation_suffix->braisé</li>
+  <li>preparation_suffix->terrine</li>
+  <li>preparation_suffix->marinade</li>
+  <li>preparation_suffix->caviar</li>
+  <li>preparation_suffix->chips</li>
+  <li>preparation_suffix->rôti</li>
+  <li>preparation_suffix->omble</li>
+  <li>preparation_suffix->beignets</li>
+  <li>preparation_suffix->tempura</li>
+  <li>preparation_suffix->beurre blanc</li>
+  <li>preparation_suffix->bisque</li>
+  <li>preparation_suffix->tapenade</li>
+  <li>preparation_suffix->tartare</li>
+  <li>preparation_suffix->ermentation</li>
+  <li>preparation_suffix->pesto</li>
+  <li>preparation_suffix->marmelade</li>
+  <li>preparation_suffix->confiture</li>
+  <li>preparation_suffix->salsa</li>
+  <li>preparation_suffix->chutney</li>
+  <li>preparation_suffix->beurre</li>
+  <li>preparation_suffix->poudre</li>
+  <li>preparation_suffix->copeaux</li>
+  <li>preparation_suffix->bruine</li>
+  <li>preparation_suffix->marinade</li>
+  <li>preparation_suffix->jus</li>
+  <li>preparation_suffix->fondant</li>
+  <li>preparation_suffix->infusion</li>
+  <li>preparation_suffix->aïoli</li>
+  <li>preparation_suffix->sirop</li>
+  <li>preparation_suffix->brûlée</li>
+  <li>preparation_suffix->garniture</li>
+  <li>preparation_suffix->essence</li>
+  <li>preparation_suffix->saupoudrage</li>
+  <li>preparation_suffix->émulsion</li>
+  <li>preparation_suffix->gelée</li>
+  <li>preparation_suffix->crumble</li>
+  <li>preparation_suffix->caramélisation</li>
+  <li>preparation_suffix->sorbet</li>
+  <li>preparation_suffix->nectar</li>
+  <li>preparation_suffix->ragù</li>
+  <li>preparation_suffix->velouté</li>
+  <li>preparation_suffix->sphère</li>
+  <li>preparation_suffix->perles</li>
+  <li>preparation_suffix->boules</li>
+  <li>preparation_suffix->fouetté</li>
+  <li>preparation_suffix->huile infusée</li>
+  <li>preparation_suffix->croustillant</li>
+  <li>preparation_suffix->essence fermentée</li>
+  <li>preparation_suffix->frisottis</li>
+  <li>preparation_suffix->fil</li>
+  <li>preparation_suffix->noisette de beurre</li>
+  <li>preparation_suffix->liqueur</li>
+  <li>preparation_suffix->pétales</li>
+  <li>preparation_suffix->dashi</li>
+  <li>preparation_suffix->nid d'abeilles</li>
+  <li>preparation_suffix->fumée</li>
+  <li>preparation_suffix->nuage</li>
+  <li>preparation_suffix->mille-feuille</li>
+  <li>preparation_suffix->quenelle</li>
+  <li>preparation_suffix->craquelé</li>
+  <li>preparation_suffix->bavarois</li>
+  <li>preparation_suffix->relish</li>
+  <li>preparation_suffix->pavé</li>
+  <li>preparation_suffix->caillé</li>
+  <li>preparation_suffix->noisette</li>
+  <li>preparation_suffix->agrodolce</li>
+  <li>preparation_suffix->brioche</li>
+  <li>preparation_suffix->bonbons</li>
+  <li>preparation_suffix->tuile</li>
+  <li>preparation_suffix->beurre monté</li>
+  <li>preparation_suffix->chantilly</li>
+  <li>preparation_suffix->neige</li>
+  <li>preparation_suffix->flocon</li>
+  <li>preparation_suffix->cendres</li>
+  <li>preparation_suffix->poudre de nitro</li>
+  <li>preparation_prefix->carbonisé</li>
+  <li>preparation_prefix->fumé</li>
+  <li>preparation_prefix->rôti</li>
+  <li>preparation_prefix->grillé</li>
+  <li>preparation_prefix->cloqué</li>
+  <li>preparation_prefix->beurré</li>
+  <li>preparation_prefix->confit</li>
+  <li>preparation_prefix->mariné</li>
+  <li>preparation_prefix->sauté</li>
+  <li>preparation_prefix->braisé</li>
+  <li>preparation_prefix->fermenté</li>
+  <li>preparation_prefix->vinaigré</li>
+  <li>preparation_prefix->laqué</li>
+  <li>preparation_prefix->vapeur</li>
+  <li>preparation_prefix->glacé au miel</li>
+  <li>preparation_prefix->braisé au vin</li>
+  <li>preparation_prefix->rôti au sel</li>
+  <li>preparation_prefix->caramélisé</li>
+  <li>preparation_prefix->infusé aux truffes</li>
+  <li>preparation_prefix->noirci</li>
+  <li>preparation_prefix->croquant</li>
+  <li>preparation_prefix->grillé au feu de bois</li>
+  <li>preparation_prefix->au balsamique</li>
+  <li>preparation_prefix->mijoté</li>
+  <li>preparation_prefix->à cuisson lente</li>
+  <li>preparation_prefix->cuit à l'étouffée</li>
+  <li>preparation_prefix->tendre</li>
+  <li>preparation_prefix->à l'ail</li>
+  <li>preparation_prefix->épicé</li>
+  <li>preparation_prefix->velouté</li>
+  <li>preparation_prefix->à la noix de coco</li>
+  <li>preparation_prefix->aux herbes</li>
+  <li>preparation_prefix->au safran</li>
+  <li>preparation_prefix->glacé au whisky</li>
+  <li>preparation_prefix->à l'érable</li>
+  <li>preparation_prefix->parfumé</li>
+  <li>preparation_prefix->aux pistaches</li>
+  <li>preparation_prefix->au sésame</li>
+  <li>preparation_prefix->macéré au babeurre</li>
+  <li>preparation_prefix->aromatisé au café</li>
+  <li>preparation_prefix->au thym</li>
+  <li>preparation_prefix->glacé au soja</li>
+  <li>preparation_prefix->vieilli</li>
+  <li>preparation_prefix->à la cannelle</li>
+  <li>preparation_prefix->piquant</li>
+  <li>preparation_prefix->riche en umami</li>
+  <li>preparation_prefix->fumé au bourbon</li>
+  <li>preparation_prefix->au barbecue</li>
+  <li>preparation_prefix->glacé au miso</li>
+  <li>preparation_prefix->frit au babeurre</li>
+  <li>preparation_prefix->cendré</li>
+  <li>preparation_prefix->fumé au bois de hêtre</li>
+  <li>preparation_prefix->au beurre</li>
+  <li>preparation_prefix->cuit à la bougie</li>
+  <li>preparation_prefix->grillé au charbon</li>
+  <li>preparation_prefix->cuit à la noix de coco</li>
+  <li>preparation_prefix->déshydraté</li>
+  <li>preparation_prefix->à la flamme</li>
+  <li>preparation_prefix->délicatement poché</li>
+  <li>preparation_prefix->doré</li>
+  <li>preparation_prefix->bruni</li>
+  <li>preparation_prefix->fumé au noyer</li>
+  <li>preparation_prefix->au zeste de citron</li>
+  <li>preparation_prefix->fermenté au miso</li>
+  <li>preparation_prefix->vieilli en fût de chêne</li>
+  <li>preparation_prefix->glacé à la fleur d'oranger</li>
+  <li>preparation_prefix->glacé à la grenade</li>
+  <li>preparation_prefix->pressé</li>
+  <li>preparation_prefix->au romarin</li>
+  <li>preparation_prefix->aux algues</li>
+  <li>preparation_prefix->en croûte de sésame</li>
+  <li>preparation_prefix->glacé au xérès</li>
+  <li>preparation_prefix->rôti à l'étouffée</li>
+  <li>preparation_prefix->rôti lentement</li>
+  <li>preparation_prefix->rôti à feu doux</li>
+  <li>preparation_prefix->cuit à la pierre</li>
+  <li>preparation_prefix->séché</li>
+  <li>preparation_prefix->fumé au thé</li>
+  <li>preparation_prefix->parfumé au thym</li>
+  <li>preparation_prefix->parfumé à la vanille</li>
+  <li>preparation_prefix->grillé au bois</li>
+  <li>preparation_prefix->mariné au yuzu</li>
+  <li>preparation_prefix->rôti au ghee</li>
+  <li>preparation_prefix->cuit au charbon de bois</li>
+  <li>preparation_prefix->au matcha</li>
+  <li>preparation_prefix->laqué à la mélasse</li>
+  <li>preparation_prefix->imbibé de vin</li>
+  <li>preparation_prefix->au bois de pommier</li>
+  <li>preparation_prefix->fumé au bois de santal</li>
+  <li>preparation_prefix->rôti au tandoori</li>
+  <li>preparation_prefix->à la coriandre</li>
+  <li>preparation_prefix->au cumin</li>
+  <li>preparation_prefix->enrobé de shiso</li>
+  <li>preparation_prefix->à la truffe</li>
+  <li>preparation_prefix->au citron</li>
+  <li>preparation_prefix->parfumé au bourbon</li>
+  <li>preparation_prefix->arrosé de balsamique</li>
+  <li>preparation_prefix->au fenouil</li>
+  <li>preparation_prefix->au gingembre</li>
+  <li>preparation_prefix->glacé aux prunes</li>
+  <li>preparation_prefix->à la cardamome</li>
+  <li>preparation_prefix->glacé</li>
+  <li>preparation_prefix->brillant</li>
+  <li>preparation_prefix->soufflé</li>
+  <li>preparation_prefix->déshydraté</li>
+  <li>preparation_prefix->trempé</li>
+</VCE_MealNamerArt.rulePack.rulesStrings>
+
+
+</LanguageData>

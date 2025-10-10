@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Best Prisoner Skill Multiplier -->
+<VOEAdditionalOutposts.Settings.PerPrisonerSkill>Multiplicateur de la meilleure compétence du prisonnier </VOEAdditionalOutposts.Settings.PerPrisonerSkill>
+<!-- EN: Interaction Interval Reduction Per Warden -->
+<VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerWarden>Réduction de l'intervalle d'interaction par les gardiens </VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerWarden>
+<!-- EN: Max Interaction Interval -->
+<VOEAdditionalOutposts.Settings.MaxInteractionInterval>Intervalle d'interaction maximum </VOEAdditionalOutposts.Settings.MaxInteractionInterval>
+<!-- EN: Min Interaction Interval -->
+<VOEAdditionalOutposts.Settings.MinInteractionInterval>Intervalle d'interaction minimum </VOEAdditionalOutposts.Settings.MinInteractionInterval>
+<!-- EN: silver {0} -->
+<VOEAdditionalOutposts.Silver>{0} d'argent</VOEAdditionalOutposts.Silver>
+<!-- EN: hemogen packs {0} -->
+<VOEAdditionalOutposts.Hemogen>{0} pack d'hémogène</VOEAdditionalOutposts.Hemogen>
+<!-- EN: Force prisoners to work -->
+<VOEAdditionalOutposts.PrisonersWork>Travail forcé</VOEAdditionalOutposts.PrisonersWork>
+<!-- EN: Recruit prisoners -->
+<VOEAdditionalOutposts.RecruitPrisoners>Recruter</VOEAdditionalOutposts.RecruitPrisoners>
+<!-- EN: Enslave prisoners -->
+<VOEAdditionalOutposts.EnslavePrisoners>Asservir</VOEAdditionalOutposts.EnslavePrisoners>
+<!-- EN: Extract hemogen packs from prisoners -->
+<VOEAdditionalOutposts.HemogenPrisoners>Exploitation d'hémogène</VOEAdditionalOutposts.HemogenPrisoners>
+<!-- EN: Prisoners -->
+<VOEAdditionalOutposts.Prisoners>Prisonniers</VOEAdditionalOutposts.Prisoners>
+<!-- EN: Wardens -->
+<VOEAdditionalOutposts.Wardens>Gardiens</VOEAdditionalOutposts.Wardens>
+<!-- EN: Interaction Interval -->
+<VOEAdditionalOutposts.InteractionInterval>Intervalle interaction</VOEAdditionalOutposts.InteractionInterval>
+<!-- EN: Prison -->
+<VOEAdditionalOutposts.PrisonTab>Prison </VOEAdditionalOutposts.PrisonTab>
+<!-- EN: Recruit Delivery Destination -->
+<VOEAdditionalOutposts.Commands.RecruitDelivery.Label>Destination des recrutés…</VOEAdditionalOutposts.Commands.RecruitDelivery.Label>
+<!-- EN: Select which colony/outpost will recieve recruited prisoner. Currently: {0} -->
+<VOEAdditionalOutposts.Commands.RecruitDelivery.Desc>Sélectionner la colonie ou l'avant-poste qui recevra les prisonniers recrutés.\nActuellement : {0}</VOEAdditionalOutposts.Commands.RecruitDelivery.Desc>
+<!-- EN: Enslave Delivery Destination -->
+<VOEAdditionalOutposts.Commands.EnslaveDelivery.Label>Destination des esclaves…</VOEAdditionalOutposts.Commands.EnslaveDelivery.Label>
+<!-- EN: Select which colony/outpost will recieve enslaved prisoner. Currently: {0} -->
+<VOEAdditionalOutposts.Commands.EnslaveDelivery.Desc>Sélectionner la colonie ou l'avant-poste qui recevra les prisonniers réduits en esclavage.\nActuellement : {0}</VOEAdditionalOutposts.Commands.EnslaveDelivery.Desc>
+<!-- EN: Wardens: {0}\nColony prisoners: {1}\nCurret strategy: {2}\nNext delivery in {3}:\n{4} -->
+<VOEAdditionalOutposts.WillWarden>Gardien : {0}   |   Prisonnier : {1}\nType de travail : {2}\nProduira ce qui suit dans {3} :\n{4}</VOEAdditionalOutposts.WillWarden>
+<!-- EN: Prison {0} Nothing To Report -->
+<VOEAdditionalOutposts.Letters.PrisonFail.Label>Le pénitencier de {0} n'a rien à signaler.</VOEAdditionalOutposts.Letters.PrisonFail.Label>
+<!-- EN: Prsion didn't recieved any payments. Consider increasing amount of wardens or prisoners -->
+<VOEAdditionalOutposts.Letters.PrisonFail.Text>Le pénitencier n'a reçu aucun paiement. Envisager d'augmenter le nombre de gardiens ou de prisonniers.</VOEAdditionalOutposts.Letters.PrisonFail.Text>
+
+
+</LanguageData>

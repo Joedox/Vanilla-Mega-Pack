@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VTE_AirDuct.label>conduit d'air</VTE_AirDuct.label>
+<VTE_AirDuct.description>Conduit d'air utilisé par le réseau de climatisation pour transporter l'air entre les unités de climatisation et les évaporateurs.</VTE_AirDuct.description>
+
+<VTE_VentValve.label>vanne de conduit d'air</VTE_VentValve.label>
+<VTE_VentValve.description>Permet de couper ou de rétablir le flux d'air conditionné.</VTE_VentValve.description>
+
+<VTE_UndergroundAirDuct.label>conduit d'air enterré</VTE_UndergroundAirDuct.label>
+<VTE_UndergroundAirDuct.description>Conduit d'air enterré utilisé par le réseau de climatisation pour transporter l'air entre les unités de climatisation et les évaporateurs.</VTE_UndergroundAirDuct.description>
+
+<VTE_ACControlUnit.label>unité de contrôle AC</VTE_ACControlUnit.label>
+<VTE_ACControlUnit.description>Unité de contrôle principale d'air conditionné. Elle se connecte aux évaporateurs pour permettre aux unités AC de produire de l'air froid ou chaud. Elle doit être reliée aux évaporateurs par des conduits d'air. L'unité de contrôle AC détermine la température souhaitée pour toutes les unités AC du même réseau. Une installation trop grande d'unités AC peut diminuer l'efficacité du réseau, en augmentant la consommation d'énergie de tous les appareils. La construction d'évaporateurs supplémentaires améliorera l'efficacité du réseau.</VTE_ACControlUnit.description>
+
+<VTE_ACUnit.label>unité AC</VTE_ACUnit.label>
+<VTE_ACUnit.description>Une machine de climatisation qui s'encastre dans un mur. Elle diffuse de l'air froid ou chaud dans la même direction, en fonction de la température actuelle de la pièce. Si elle n'est pas déconnectée des paramètres du réseau, elle vise à atteindre la température spécifiée dans l'unité de contrôle AC. Elle doit être reliée à l'unité de contrôle AC par des conduits d'air.</VTE_ACUnit.description>
+
+<VTE_ACUnitWall.label>unité AC murale</VTE_ACUnitWall.label>
+<VTE_ACUnitWall.description>Une machine de climatisation murale. Elle diffuse de l'air froid ou chaud dans la même direction, en fonction de la température actuelle de la pièce. Si elle n'est pas déconnectée des paramètres du réseau, elle vise à atteindre la température spécifiée dans l'unité de contrôle AC. Doit être relié à l'unité de contrôle AC par des conduits d'air. Ne peut être installé que sur un mur.</VTE_ACUnitWall.description>
+
+<VTE_ACCompressor.label>évaporateur AC</VTE_ACCompressor.label>
+<VTE_ACCompressor.description>Un évaporateur de climatisation qui doit être relié à une unité de contrôle AC via des conduits d'air. Il peut uniquement être placé à l'extérieur. Lorsqu'il est alimenté, il permet au réseau de climatisation de faire fonctionner deux appareils de climatisation supplémentaires sans perte d'efficacité.</VTE_ACCompressor.description>
+
+<VTE_LargeACCompressor.label>grand évaporateur AC</VTE_LargeACCompressor.label>
+<VTE_LargeACCompressor.description>Un grand évaporateur de climatisation qui doit être relié à une unité de contrôle AC via des conduits d'air. Il peut uniquement être placé à l'extérieur. Lorsqu'il est alimenté, il permet au réseau de climatisation de faire fonctionner six appareils de climatisation supplémentaires sans perte d'efficacité.</VTE_LargeACCompressor.description>
+
+<VTE_IndustrialHeater.label>chauffage industriel</VTE_IndustrialHeater.label>
+<VTE_IndustrialHeater.description>Un grand appareil de chauffage de type industriel qui s'installe dans un mur. Il convertit l'électricité en chaleur. Il peut s'allumer ou s'éteindre automatiquement pour atteindre une température cible spécifique. Il est capable de chauffer la pièce à une température beaucoup plus élevée que les chauffages standard.</VTE_IndustrialHeater.description>
+
+<VTE_IndustrialCooler.label>climatiseur industriel</VTE_IndustrialCooler.label>
+<VTE_IndustrialCooler.description>Une grande machine de refroidissement de l'air de type industriel qui s'encastre dans un mur. L'air frais sort d'un côté, tandis que l'air chaud sort de l'autre. Elle peut être utilisée pour refroidir des pièces pendant l'été ou pour créer une chambre froide. Elle est capable de refroidir la pièce à une température beaucoup plus basse qu'un climatiseur standard.</VTE_IndustrialCooler.description>
+
+<VTE_WallHeater.label>chauffage mur</VTE_WallHeater.label>
+<VTE_WallHeater.description>Un appareil de chauffage qui s'installe dans un mur. Il convertit l'électricité en chaleur. Il peut s'allumer ou s'éteindre automatiquement pour atteindre une température cible spécifique. Il peut être utilisé pour chauffer des pièces en hiver.</VTE_WallHeater.description>
+
+<VTE_WallMountedHeater.label>chauffage mural</VTE_WallMountedHeater.label>
+<VTE_WallMountedHeater.description>Appareil mural qui convertit l'électricité en chaleur. Il peut s'allumer ou s'éteindre automatiquement pour atteindre une température cible spécifique. Doit être construit sur un mur.</VTE_WallMountedHeater.description>
+
+<VTE_WallMountedCooler.label>climatiseur mural</VTE_WallMountedCooler.label>
+<VTE_WallMountedCooler.description>Une machine murale de refroidissement de l'air qui s'insère dans un mur. L'air frais sort d'un côté, tandis que l'air chaud est évacué de l'autre. Peut être utilisé pour refroidir des pièces pendant l'été ou pour créer une chambre froide. Doit être construit sur un mur.</VTE_WallMountedCooler.description>
+
+<VTE_WallMountedVent.label>ventilation murale</VTE_WallMountedVent.label>
+<VTE_WallMountedVent.description>Une simple bouche d'aération murale pour équilibrer la température entre deux pièces sans que l'on puisse circuler entre elles. Doit être construit sur un mur.</VTE_WallMountedVent.description>
+
+<VTE_StandingCooler.label>climatiseur sur pied</VTE_StandingCooler.label>
+<VTE_StandingCooler.description>Une machine de refroidissement d'air autonome. L'air frais sort d'un ventilateur et se répand dans la zone environnante. Peut être utilisé pour refroidir des pièces pendant l'été. Pas assez efficace pour réfrigérer les aliments.</VTE_StandingCooler.description>
+
+<VTE_SmallCeilingFan.label>petit ventilateur de plafond</VTE_SmallCeilingFan.label>
+<VTE_SmallCeilingFan.description>Ventilateur monté au plafond. Il peut être utilisé pour refroidir lentement les pièces pendant l'été. Pas assez efficace pour réfrigérer les aliments, il vise à atteindre une température ambiante de 17°C.</VTE_SmallCeilingFan.description>
+
+<VTE_LargeCeilingFan.label>ventilateur de plafond</VTE_LargeCeilingFan.label>
+<VTE_LargeCeilingFan.description>Grand ventilateur monté au plafond. Il peut être utilisé pour rafraîchir rapidement les pièces pendant l'été. Pas assez efficace pour réfrigérer les aliments, il vise à atteindre une température ambiante de 17°C.</VTE_LargeCeilingFan.description>
+
+
+</LanguageData>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN:
+  <li>r_roleName(p=7)->[firstPart] [secondPart]</li>
+  <li>firstPart->swarthy</li>
+  <li>firstPart->foul-mouthed</li>
+  <li>firstPart->shady</li>
+  <li>firstPart->deceitful</li>
+  <li>firstPart->unscrupulous</li>
+  <li>firstPart->sly</li>
+  <li>firstPart->beguiling</li>
+  <li>firstPart->crooked</li>
+  <li>firstPart->grungy</li>
+  <li>firstPart->strapping</li>
+  <li>firstPart->haggard</li>
+  <li>firstPart->burly</li>
+  <li>firstPart->brawny</li>
+  <li>secondPart(p=4)->buccaneer</li>
+  <li>secondPart(p=4)->privateer</li>
+  <li>secondPart(p=4)->corsair</li>
+  <li>secondPart(p=4)->freebooter</li>
+  <li>secondPart(p=4)->rover</li>
+  <li>secondPart(p=4)->picaroon</li>
+  <li>secondPart(p=4)->bootlegger</li>
+  <li>secondPart(p=4)->smuggler</li>
+  <li>secondPart(p=4)->plunderer</li>
+  <li>secondPart(p=4)->rogue</li>
+  <li>secondPart(p=4)->pilferer</li>
+  <li>secondPart(p=4)->purloiner</li>
+-->
+<VFEP_NamerRoleCaptain.rulePack.rulesStrings>
+  <li>r_roleName(p=7)->[secondPart] [firstPart]</li>
+  <li>firstPart->basané</li>
+  <li>firstPart->grossier</li>
+  <li>firstPart->louche</li>
+  <li>firstPart->trompeur</li>
+  <li>firstPart->sans scrupules</li>
+  <li>firstPart->sournois</li>
+  <li>firstPart->séduisant</li>
+  <li>firstPart->tordu</li>
+  <li>firstPart->vieux</li>
+  <li>firstPart->costaud</li>
+  <li>firstPart->hagard</li>
+  <li>firstPart->robuste</li>
+  <li>firstPart->musclé</li>
+  <li>secondPart(p=4)->boucanier</li>
+  <li>secondPart(p=4)->corsaire</li>
+  <li>secondPart(p=4)->corsair</li>
+  <li>secondPart(p=4)->flibustier</li>
+  <li>secondPart(p=4)->rôdeur</li>
+  <li>secondPart(p=4)->picaroon</li>
+  <li>secondPart(p=4)->contrebandier</li>
+  <li>secondPart(p=4)->trafiquant</li>
+  <li>secondPart(p=4)->pilleur</li>
+  <li>secondPart(p=4)->gredin</li>
+  <li>secondPart(p=4)->voleur</li>
+  <li>secondPart(p=4)->dérobeur</li>
+</VFEP_NamerRoleCaptain.rulePack.rulesStrings>
+
+
+</LanguageData>

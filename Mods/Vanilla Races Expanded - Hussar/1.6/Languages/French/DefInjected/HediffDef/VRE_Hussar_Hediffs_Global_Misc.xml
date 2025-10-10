@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: chemical dependency -->
+<VREH_GeneticDrugNeed_Luci.label>dépendance chimique</VREH_GeneticDrugNeed_Luci.label>
+<!-- EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
+<VREH_GeneticDrugNeed_Luci.description>Cette personne a une dépendance biochimique génétiquement induite à une drogue bien spécifique. Sans doses régulières de ce produit, son corps ne peut pas se maintenir, sa santé et son humeur se dégraderont jusqu'à sa mort.\n\nPrend effet après l'âge de 13 ans.</VREH_GeneticDrugNeed_Luci.description>
+<!-- EN: deficiency -->
+<VREH_GeneticDrugNeed_Luci.stages.deficiency.label>carence</VREH_GeneticDrugNeed_Luci.stages.deficiency.label>
+<!-- EN: deficiency coma -->
+<VREH_GeneticDrugNeed_Luci.stages.2.overrideLabel>coma</VREH_GeneticDrugNeed_Luci.stages.2.overrideLabel>
+
+<!-- EN: glidewings -->
+<VREH_Glidewings.label>planeur</VREH_Glidewings.label>
+<!-- EN: A small set of wings growing from this person's shoulderblades. They are not capable of flight, but they will not be slowed down by any obstacles. -->
+<VREH_Glidewings.description>Un petit ensemble d'ailes poussant sur les omoplates de cette personne. Elles ne sont pas capables de voler, mais elles ne sont pas ralenties par les obstacles.</VREH_Glidewings.description>
+
+
+</LanguageData>

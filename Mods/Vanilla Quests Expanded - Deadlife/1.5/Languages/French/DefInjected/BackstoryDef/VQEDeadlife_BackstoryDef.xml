@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: [PAWN_nameDef] formulated long-term battle plans relying on the deployment of expendable, undead battalions into irradiated and cursed zones. [PAWN_pronoun] viewed humans as inefficient vessels, preferring dust-born constructs who didn’t sleep or retreat. [PAWN_pronoun] once approved a maneuver where only the dead returned and called it a flawless victory. -->
+<VQE_AshStrategist40.description>{PAWN_nameDef} a élaboré des plans de bataille à long terme reposant sur le déploiement de bataillons de morts-vivants sacrifiables dans des zones irradiées et maudites. {PAWN_pronoun} considérait les humains comme des vaisseaux inefficaces, préférant les créatures nées de la poussière qui ne dormaient pas et ne battaient pas en retraite. {PAWN_pronoun} a un jour approuvé une manœuvre où seuls les morts sont revenus, la qualifiant de victoire sans faille.</VQE_AshStrategist40.description>
+<!-- EN: ash strategist -->
+<VQE_AshStrategist40.title>stratège de cendres</VQE_AshStrategist40.title>
+<!-- EN: strategist -->
+<VQE_AshStrategist40.titleShort>stratège</VQE_AshStrategist40.titleShort>
+
+<!-- EN: [PAWN_nameDef] analyzed the patterns left in deadlife dust as it settled, fractals of intent, echoing through silence. [PAWN_pronoun] claimed the dust was speaking, and spent hours tracing messages only [PAWN_pronoun] could see. The others stopped questioning it when [PAWN_pronoun] predicted a breach twelve hours before it happened. -->
+<VQE_AshTranslator15.description>{PAWN_nameDef} analysait les motifs laissés par la poussière de résurrection lorsqu'elle se déposait, des fractales d'intention qui résonnaient dans le silence. {PAWN_pronoun} affirmait que la poussière parlait et passait des heures à déchiffrer des messages que {PAWN_objective} seul{PAWN_gender ? : e } pouvait voir. Les autres ont cessé de le remettre en question lorsqu'{PAWN_pronoun} a prédit une brèche douze heures avant qu'elle ne se produise.</VQE_AshTranslator15.description>
+<!-- EN: ash translator -->
+<VQE_AshTranslator15.title>traducteur de cendres</VQE_AshTranslator15.title>
+<VQE_AshTranslator15.titleFemale>traductrice de cendres</VQE_AshTranslator15.titleFemale>
+<!-- EN: translator -->
+<VQE_AshTranslator15.titleShort>traducteur</VQE_AshTranslator15.titleShort>
+<VQE_AshTranslator15.titleShortFemale>traductrice</VQE_AshTranslator15.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] stepped forward during the first breach trials, signing a form titled "Consent to Dissolution." [PAWN_pronoun] was marched into the dust storm without armor, carrying only a black flag. Days later, the flag returned, stitched into [PAWN_possessive] new uniform. -->
+<VQE_BreachVolunteer46.description>{PAWN_nameDef} s'est présenté{PAWN_gender ? : e } lors des premiers procès pour violation, signant un formulaire intitulé "Consentement à la dissolution". {PAWN_pronoun} a été conduit{PAWN_gender ? : e } dans une tempête de sable sans armure, portant seulement un drapeau noir. Quelques jours plus tard, le drapeau est revenu, cousu sur son nouvel uniforme.</VQE_BreachVolunteer46.description>
+<!-- EN: breach volunteer -->
+<VQE_BreachVolunteer46.title>violation volontaire</VQE_BreachVolunteer46.title>
+<!-- EN: volunteer -->
+<VQE_BreachVolunteer46.titleShort>volontaire</VQE_BreachVolunteer46.titleShort>
+
+<!-- EN: [PAWN_nameDef] reviewed personnel logs, behavioral reports, and incident transcripts, flagging deviations for reconditioning. [PAWN_pronoun] never met the people [PAWN_pronoun] condemned. Only once did [PAWN_pronoun] hesitate - when the file bore [PAWN_possessive] own name. -->
+<VQE_ComplianceAuditor30.description>{PAWN_nameDef} a examiné les registres du personnel, les rapports comportementaux et les transcriptions des incidents, signalant les écarts à corriger. {PAWN_pronoun} n'a jamais rencontré les personnes qu'{PAWN_pronoun} a condamnées. {PAWN_pronoun} n'a hésité qu'une seule fois, lorsque le dossier portait son propre nom.</VQE_ComplianceAuditor30.description>
+<!-- EN: compliance auditor -->
+<VQE_ComplianceAuditor30.title>auditeur de conformité</VQE_ComplianceAuditor30.title>
+<VQE_ComplianceAuditor30.titleFemale>auditrice de conformité</VQE_ComplianceAuditor30.titleFemale>
+<!-- EN: auditor -->
+<VQE_ComplianceAuditor30.titleShort>auditeur</VQE_ComplianceAuditor30.titleShort>
+<VQE_ComplianceAuditor30.titleShortFemale>auditrice</VQE_ComplianceAuditor30.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] volunteered for cognitive stripping, which included the removal of memory, name, and will. What remained was a body that obeyed. [PAWN_pronoun] stood in formation while storms raged and flesh fell from bone, waiting only for the next command pulse from the central stack. -->
+<VQE_CompliantHusk10.description>{PAWN_nameDef} s'est porté{PAWN_gender ? : e } volontaire pour subir un effacement cognitif, qui comprenait la suppression de la mémoire, du nom et de la volonté. {PAWN_pronoun} ne restait plus qu'un corps obéissant. {PAWN_pronoun} se tenait au garde-à-vous tandis que les tempêtes faisaient rage et que la chair se détachait des os, attendant seulement le prochain ordre provenant de la pile centrale.</VQE_CompliantHusk10.description>
+<!-- EN: compliant husk -->
+<VQE_CompliantHusk10.title>enveloppe conforme</VQE_CompliantHusk10.title>
+<!-- EN: husk -->
+<VQE_CompliantHusk10.titleShort>enveloppe</VQE_CompliantHusk10.titleShort>
+
+<!-- EN: [PAWN_nameDef] was posted in a hallway that no one walked down, outside a door that no one opened. [PAWN_pronoun] was told to stand still, never speak, and never blink too long. On the seventh year, [PAWN_pronoun] started to hear footsteps behind the wall. -->
+<VQE_CorridorWatch25.description>{PAWN_nameDef} était posté{PAWN_gender ? : e } dans un couloir où personne ne passait, devant une porte que personne n'ouvrait. On lui avait demandé de rester immobile, de ne jamais parler et de ne jamais cligner des yeux trop longtemps. Au bout de sept ans, {PAWN_pronoun} a commencé à entendre des bruits de pas derrière le mur.</VQE_CorridorWatch25.description>
+<!-- EN: corridor watch -->
+<VQE_CorridorWatch25.title>surveillance du couloir</VQE_CorridorWatch25.title>
+<!-- EN: watch -->
+<VQE_CorridorWatch25.titleShort>surveillance</VQE_CorridorWatch25.titleShort>
+
+<!-- EN: [PAWN_nameDef] scrawled codes onto crates, noting date, contents, and threat tier. Many containers arrived unmarked, but [PAWN_pronoun] learned quickly: if it rattled, it was best to skip the contents line. Sometimes the ink bled upward, off the label, and into [PAWN_possessive] sleeve. -->
+<VQE_CrateNotator32.description>{PAWN_nameDef} griffonnait des codes sur les caisses, notant la date, le contenu et le niveau de menace. De nombreux conteneurs arrivaient sans marquage, mais {PAWN_pronoun} apprit rapidement : si ça faisait du bruit, mieux valait ne pas noter le contenu. Parfois, l'encre coulait vers le haut, hors de l'étiquette, et sur sa manche.</VQE_CrateNotator32.description>
+<!-- EN: crate notator -->
+<VQE_CrateNotator32.title>notateur de caisse</VQE_CrateNotator32.title>
+<VQE_CrateNotator32.titleFemale>notatrice de caisse</VQE_CrateNotator32.titleFemale>
+<!-- EN: notator -->
+<VQE_CrateNotator32.titleShort>notateur</VQE_CrateNotator32.titleShort>
+<VQE_CrateNotator32.titleShortFemale>notatrice</VQE_CrateNotator32.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] manned the auto-cannons near the dust transfer docks, defending against "anomalous discharge movement", whatever that meant. Nothing ever approached the dock, but [PAWN_pronoun] fired anyway. Better that than let the dust think [PAWN_pronoun] hesitated. -->
+<VQE_DockGunner19.description>{PAWN_nameDef} manœuvrait les canons automatiques près des quais de transfert de poussière, se défendant contre "un mouvement de décharge anormal", quoi que cela puisse signifier. Rien ne s'approcha jamais du quai, mais {PAWN_pronoun} tira quand même. Mieux valait cela que de laisser la poussière penser qu'{PAWN_pronoun} avait hésité.</VQE_DockGunner19.description>
+<!-- EN: dock gunner -->
+<VQE_DockGunner19.title>mitrailleur de ponton</VQE_DockGunner19.title>
+<!-- EN: gunner -->
+<VQE_DockGunner19.titleShort>mitrailleur</VQE_DockGunner19.titleShort>
+
+<!-- EN: [PAWN_nameDef] transcribed the daily decrees of the central authority, etching them onto rusted tablets distributed throughout the facility. [PAWN_pronoun] wrote in total silence, copying phrases [PAWN_pronoun] did not understand. One phrase, however, appeared in every order: "Decay is compliance." -->
+<VQE_DoctrineScribe27.description>{PAWN_nameDef} transcrivait les décrets quotidiens de l'autorité centrale, les gravant sur des tablettes rouillées réparties dans tout le complexe. {PAWN_pronoun} écrivait dans un silence total, copiant des phrases qu'{PAWN_pronoun} ne comprenait pas. Une phrase, cependant, apparaissait dans chaque ordre : "La décadence est la conformité."</VQE_DoctrineScribe27.description>
+<!-- EN: doctrine scribe -->
+<VQE_DoctrineScribe27.title>scribe doctrinal</VQE_DoctrineScribe27.title>
+<!-- EN: scribe -->
+<VQE_DoctrineScribe27.titleShort>scribe</VQE_DoctrineScribe27.titleShort>
+
+<!-- EN: [PAWN_nameDef] operated the containment pylons and extraction rigs around the Death Door. [PAWN_pronoun] calibrated siphons by eye and rebalanced psychic insulators mid-flow. The margin for error was one breath, and [PAWN_pronoun] hasn’t taken a full one since. -->
+<VQE_DoorTechnician14.description>{PAWN_nameDef} actionnait les pylônes de confinement et les plateformes d'extraction autour de la Porte de la mort. {PAWN_pronoun} calibrait les siphons à l'œil nu et rééquilibrait les isolants psychiques en cours de fonctionnement. La marge d'erreur était d'un souffle, et {PAWN_pronoun} n'avait pas respiré profondément depuis.</VQE_DoorTechnician14.description>
+<!-- EN: door technician -->
+<VQE_DoorTechnician14.title>technicien de porte</VQE_DoorTechnician14.title>
+<VQE_DoorTechnician14.titleFemale>technicienne de porte</VQE_DoorTechnician14.titleFemale>
+<!-- EN: technician -->
+<VQE_DoorTechnician14.titleShort>technicien</VQE_DoorTechnician14.titleShort>
+<VQE_DoorTechnician14.titleShortFemale>technicienne</VQE_DoorTechnician14.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] ferried containers of deadlife dust from the extraction chamber to cold-vault containment zones. Escorts were forbidden, as too much movement stirred the dust. [PAWN_pronoun] walked in silence, clutching steel boxes that sometimes wept from within. -->
+<VQE_DustCourier12.description>{PAWN_nameDef} transportait des conteneurs remplis de poussière de résurrection depuis la chambre d'extraction jusqu'aux zones de confinement réfrigérées. Les escortes étaient interdites, car trop de mouvements remuaient la poussière. {PAWN_pronoun} marchait en silence, serrant contre {PAWN_objective} des boîtes en acier qui parfois laissaient échapper quelques grains.</VQE_DustCourier12.description>
+<!-- EN: dust courier -->
+<VQE_DustCourier12.title>courrier de poussière</VQE_DustCourier12.title>
+<!-- EN: courier -->
+<VQE_DustCourier12.titleShort>courrier</VQE_DustCourier12.titleShort>
+
+<!-- EN: [PAWN_nameDef] authored the central philosophy behind the use of deadlife dust, an ideology blending utility, inevitability, and transcendence through decay. [PAWN_pronoun] designed the program not to conquer death, but to industrialize it. Those who dissented were reassigned to dust-harvesting duties until compliant. -->
+<VQE_DustDoctrineArchitect36.description>{PAWN_nameDef} est l'aut{PAWN_gender ? eur : rice } de la philosophie centrale qui sous-tend l'utilisation de la poussière de résurrection, une idéologie mêlant utilité, inévitabilité et transcendance à travers la décomposition. {PAWN_pronoun} a conçu ce programme non pas pour vaincre la mort, mais pour l'industrialiser. Ceux qui s'y opposaient étaient réaffectés à des tâches de récolte de poussière jusqu'à ce qu'ils se conforment.</VQE_DustDoctrineArchitect36.description>
+<!-- EN: dust doctrine architect -->
+<VQE_DustDoctrineArchitect36.title>architecte de doctrine de poussière</VQE_DustDoctrineArchitect36.title>
+<!-- EN: architect -->
+<VQE_DustDoctrineArchitect36.titleShort>architecte</VQE_DustDoctrineArchitect36.titleShort>
+
+<!-- EN: [PAWN_nameDef] was responsible for loading raw deadlife dust into containment drums, working under flashing hazard lights and sealed hoods. The powder stuck to gloves and skin no matter how thick the gear. [PAWN_pronoun] was told it couldn't penetrate bone, but [PAWN_pronoun] isn’t sure anymore. -->
+<VQE_DustLoader16.description>{PAWN_nameDef} était responsable du chargement de la poussière brute de résurrection dans des fûts de confinement, travaillant sous des lumières clignotantes et des hottes hermétiques. La poudre collait aux gants et à la peau, quelle que soit l'épaisseur de l'équipement. On lui avait dit qu'elle ne pouvait pas pénétrer les os, mais {PAWN_pronoun} n'en est plus si sûr.</VQE_DustLoader16.description>
+<!-- EN: dust loader -->
+<VQE_DustLoader16.title>chargeur de poussière</VQE_DustLoader16.title>
+<VQE_DustLoader16.titleFemale>chargeuse de poussière</VQE_DustLoader16.titleFemale>
+<!-- EN: loader -->
+<VQE_DustLoader16.titleShort>chargeur</VQE_DustLoader16.titleShort>
+<VQE_DustLoader16.titleShortFemale>chargeuse</VQE_DustLoader16.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] catalogued every gram of deadlife dust processed through the sector, logging each shipment’s origin and intended experiment. [PAWN_pronoun] never asked what the dust did, just that the weights matched and the signatures were clean. Some days, the logbook filled itself. -->
+<VQE_DustRegistrar26.description>{PAWN_nameDef} répertoriait chaque gramme de poussière de résurrection traitée dans le secteur, enregistrant l'origine et l'expérience prévue de chaque expédition. {PAWN_pronoun} ne demandait jamais à quoi servait la poussière, seulement si les poids correspondaient et si les signatures étaient propres. Certains jours, le journal de bord se remplissait tout seul.</VQE_DustRegistrar26.description>
+<!-- EN: dust registrar -->
+<VQE_DustRegistrar26.title>greffier de poussière</VQE_DustRegistrar26.title>
+<VQE_DustRegistrar26.titleFemale>greffière de poussière</VQE_DustRegistrar26.titleFemale>
+<!-- EN: registrar -->
+<VQE_DustRegistrar26.titleShort>greffier</VQE_DustRegistrar26.titleShort>
+<VQE_DustRegistrar26.titleShortFemale>greffière</VQE_DustRegistrar26.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was exposed to the Death Door during a containment breach and hasn't spoken [PAWN_possessive] own thoughts since. Everything [PAWN_pronoun] says is a repetition of something someone else is about to say. [PAWN_pronoun] knows things that haven’t happened yet. The facility keeps [PAWN_objective] alive... just in case. -->
+<VQE_EchoRepeater45.description>{PAWN_nameDef} a été exposé{PAWN_gender ? : e } à la Porte de la mort lors d'une brèche dans le confinement et n'a plus exprimé ses propres pensées depuis. Tout ce qu'{PAWN_pronoun} dit n'est que la répétition de ce que quelqu'un d'autre s'apprête à dire. {PAWN_pronoun} sait des choses qui ne se sont pas encore produites. Le centre l{PAWN_gender ? e : a } maintient en vie... au cas où.</VQE_EchoRepeater45.description>
+<!-- EN: echo repeater -->
+<VQE_EchoRepeater45.title>répéteur d'écho</VQE_EchoRepeater45.title>
+<VQE_EchoRepeater45.titleFemale>répétrice d'écho</VQE_EchoRepeater45.titleFemale>
+<!-- EN: repeater -->
+<VQE_EchoRepeater45.titleShort>répéteur</VQE_EchoRepeater45.titleShort>
+<VQE_EchoRepeater45.titleShortFemale>répétrice</VQE_EchoRepeater45.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] designed the warehouse and storage rotation protocol meant to function without human oversight for over a thousand years. [PAWN_pronoun] believed a perfect system outlived its masters, and had [PAWN_possessive] own heart replaced with a synthetic failsafe. [PAWN_pronoun] has not aged since activation. -->
+<VQE_EternalLogisticsOfficer38.description>{PAWN_nameDef} a conçu le protocole de rotation des entrepôts et des stocks destiné à fonctionner sans surveillance humaine pendant plus de mille ans. {PAWN_pronoun} pensait qu'un système parfait survivrait à ses créateurs et a fait remplacer son propre cœur par un dispositif synthétique à sécurité intégrée. {PAWN_pronoun} n'a pas vieilli depuis son activation.</VQE_EternalLogisticsOfficer38.description>
+<!-- EN: eternal logistics officer -->
+<VQE_EternalLogisticsOfficer38.title>officier logistique éternel</VQE_EternalLogisticsOfficer38.title>
+<VQE_EternalLogisticsOfficer38.titleFemale>officière logistique éternel</VQE_EternalLogisticsOfficer38.titleFemale>
+<!-- EN: officer -->
+<VQE_EternalLogisticsOfficer38.titleShort>officier</VQE_EternalLogisticsOfficer38.titleShort>
+<VQE_EternalLogisticsOfficer38.titleShortFemale>officière</VQE_EternalLogisticsOfficer38.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] maintained the dust filtration systems that kept the air breathable and the death sealed. The filters clogged fast, screaming if left too long. [PAWN_pronoun] replaced them by hand, gloved, double-suited, and breathing recycled air laced with static. -->
+<VQE_FilterMechanic20.description>{PAWN_nameDef} entretenait les systèmes de filtration de la poussière qui permettaient de respirer et empêchaient la mort de s'installer. Les filtres s'encrassaient rapidement et émettaient des cris stridents s'ils restaient trop longtemps en place. {PAWN_pronoun} les remplaçait à la main, équipé de gants, d'une double combinaison et respirant de l'air recyclé chargé d'électricité statique.</VQE_FilterMechanic20.description>
+<!-- EN: filter mechanic -->
+<VQE_FilterMechanic20.title>mécanicien filtre</VQE_FilterMechanic20.title>
+<VQE_FilterMechanic20.titleFemale>mécanicienne filtre</VQE_FilterMechanic20.titleFemale>
+<!-- EN: mechanic -->
+<VQE_FilterMechanic20.titleShort>mécanicien</VQE_FilterMechanic20.titleShort>
+<VQE_FilterMechanic20.titleShortFemale>mécanicienne</VQE_FilterMechanic20.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was deployed alone into chemically saturated deadzones, tasked with recording troop decay rates and atmospheric effects. [PAWN_pronoun] watched comrades dissolve, regenerate, and march again, then noted the results with unblinking precision. [PAWN_pronoun] didn’t speak for years afterward, and no one asked [PAWN_objective] to. -->
+<VQE_FoglineObserver8.description>{PAWN_nameDef} a été déployé{PAWN_gender ? : e } seul{PAWN_gender ? : e } dans des zones mortes saturées de produits chimiques, chargé{PAWN_gender ? : e } d'enregistrer les taux de décomposition des troupes et les effets atmosphériques. {PAWN_pronoun} a regardé ses camarades se dissoudre, se régénérer et repartir en marche, puis a noté les résultats avec une précision implacable. {PAWN_pronoun} n'a pas parlé pendant des années après cela, et personne ne lui a demandé de le faire.</VQE_FoglineObserver8.description>
+<!-- EN: fogline observer -->
+<VQE_FoglineObserver8.title>observateur de ligne de brouillard</VQE_FoglineObserver8.title>
+<VQE_FoglineObserver8.titleFemale>observatrice de ligne de brouillard</VQE_FoglineObserver8.titleFemale>
+<!-- EN: observer -->
+<VQE_FoglineObserver8.titleShort>observateur</VQE_FoglineObserver8.titleShort>
+<VQE_FoglineObserver8.titleShortFemale>observatrice</VQE_FoglineObserver8.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] guarded the perimeter of the Death Door facility, tasked with eliminating anything that emerged or tried to return. [PAWN_pronoun] saw shapes that didn’t reflect light, and heard commands that weren’t broadcast. The dust drifted past the line sometimes, and [PAWN_pronoun] learned not to breathe too deep. -->
+<VQE_GatewaySentinel13.description>{PAWN_nameDef} gardait le périmètre de l'installation de la Porte de la mort, chargé{PAWN_gender ? : e } d'éliminer tout ce qui en sortait ou tentait d'y retourner. {PAWN_pronoun} voyait des formes qui ne reflétaient pas la lumière et entendait des ordres qui n'étaient pas diffusés. La poussière dérivait parfois au-delà de la ligne, et {PAWN_pronoun} apprit à ne pas respirer trop profondément.</VQE_GatewaySentinel13.description>
+<!-- EN: gateway sentinel -->
+<VQE_GatewaySentinel13.title>sentinelle de passerelle</VQE_GatewaySentinel13.title>
+<!-- EN: sentinel -->
+<VQE_GatewaySentinel13.titleShort>sentinelle</VQE_GatewaySentinel13.titleShort>
+
+<!-- EN: [PAWN_nameDef] died in the field and was immediately reanimated under Directive Pale Flame: an experimental loop-binding protocol to override memory, identity, and morality. [PAWN_pronoun] still wears the scars of [PAWN_possessive] first death, though they’ve long ceased to matter. Now, [PAWN_pronoun] kills with the calm of someone who’s already passed judgment. -->
+<VQE_IndoctrinatedRevenant5.description>{PAWN_nameDef} est mort{PAWN_gender ? : e } sur le terrain et a été immédiatement réanimé{PAWN_gender ? : e } dans le cadre de la directive Flamme pâle : un protocole expérimental de bouclage visant à remplacer la mémoire, l'identité et la moralité. {PAWN_pronoun} porte encore les cicatrices de sa première mort, même si celles-ci ont depuis longtemps perdu toute importance. Aujourd'hui, {PAWN_pronoun} tue avec le calme de quelqu'un qui a déjà rendu son jugement.</VQE_IndoctrinatedRevenant5.description>
+<!-- EN: indoctrinated revenant -->
+<VQE_IndoctrinatedRevenant5.title>revenant endoctriné</VQE_IndoctrinatedRevenant5.title>
+<VQE_IndoctrinatedRevenant5.titleFemale>revenante endoctriné</VQE_IndoctrinatedRevenant5.titleFemale>
+<!-- EN: revenant -->
+<VQE_IndoctrinatedRevenant5.titleShort>revenant</VQE_IndoctrinatedRevenant5.titleShort>
+<VQE_IndoctrinatedRevenant5.titleShortFemale>revenante</VQE_IndoctrinatedRevenant5.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] watched the flow of deadlife dust into containment silos, reporting clogs and pressure drops with precise timing. [PAWN_pronoun] wasn’t allowed to speak to other staff as too many went missing between shifts. The job required focus and silence, which [PAWN_pronoun] delivered perfectly. -->
+<VQE_IntakeMonitor18.description>{PAWN_nameDef} surveillait le flux de poussière de résurrection dans les silos de confinement, signalant les obstructions et les chutes de pression avec une précision chronométrique. {PAWN_pronoun} n'avait pas le droit de parler aux autres membres du personnel, car trop d'entre eux disparaissaient entre deux quarts de travail. Ce travail exigeait de la concentration et du silence, ce qu'{PAWN_pronoun} faisait à la perfection.</VQE_IntakeMonitor18.description>
+<!-- EN: intake monitor -->
+<VQE_IntakeMonitor18.title>moniteur d'admission</VQE_IntakeMonitor18.title>
+<VQE_IntakeMonitor18.titleFemale>monitrice d'admission</VQE_IntakeMonitor18.titleFemale>
+<!-- EN: monitor -->
+<VQE_IntakeMonitor18.titleShort>moniteur</VQE_IntakeMonitor18.titleShort>
+<VQE_IntakeMonitor18.titleShortFemale>monitrice</VQE_IntakeMonitor18.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was in charge of verifying label integrity across the sealed vault grid. [PAWN_pronoun] spent entire shifts reading faded text under flickering lights, checking against catalogs no longer maintained. Some crates had no labels, just symbols that [PAWN_pronoun] could swear [PAWN_pronoun] remembered from dreams. -->
+<VQE_LabelOverseer34.description>{PAWN_nameDef} était chargé{PAWN_gender ? : e } de vérifier l'intégrité des étiquettes sur l'ensemble de la grille de l'abri scellé. {PAWN_pronoun} passait ses journées de travail à lire des textes effacés sous des lumières vacillantes, en les comparant à des catalogues qui n'étaient plus tenus à jour. Certaines caisses n'avaient pas d'étiquettes, seulement des symboles dont {PAWN_pronoun} aurait juré se souvenir dans ses rêves.</VQE_LabelOverseer34.description>
+<!-- EN: label overseer -->
+<VQE_LabelOverseer34.title>responsable d'étiquettes</VQE_LabelOverseer34.title>
+<!-- EN: overseer -->
+<VQE_LabelOverseer34.titleShort>responsable</VQE_LabelOverseer34.titleShort>
+
+<!-- EN: [PAWN_nameDef] handed out ration packs to workers exiting the sealed extraction halls. The meals were identical, grey, tasteless, pre-labeled. Sometimes one would whisper when opened. [PAWN_pronoun] never took one for [PAWN_objective]self, just in case. -->
+<VQE_MealDistributor24.description>{PAWN_nameDef} distribuait des rations aux ouvriers qui sortaient des salles d'extraction hermétiques. Les repas étaient tous identiques, gris, insipides, pré-étiquetés. Parfois, l'un d'eux murmurait lorsqu'on l'ouvrait. {PAWN_pronoun} n'en prenait jamais pour {PAWN_objective}-même, au cas où.</VQE_MealDistributor24.description>
+<!-- EN: meal distributor -->
+<VQE_MealDistributor24.title>distributeur de repas</VQE_MealDistributor24.title>
+<VQE_MealDistributor24.titleFemale>distributrice de repas</VQE_MealDistributor24.titleFemale>
+<!-- EN: distributor -->
+<VQE_MealDistributor24.titleShort>distributeur</VQE_MealDistributor24.titleShort>
+<VQE_MealDistributor24.titleShortFemale>distributrice</VQE_MealDistributor24.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was both soldier and scientist, one of the few entrusted to maintain the resurrection architecture embedded in elite corpses. [PAWN_pronoun] spliced code into spinal columns and rewrote death like it was faulty circuitry. Despite the grotesque procedures, [PAWN_pronoun] never hesitated, as progress demanded flesh. -->
+<VQE_Necroengineer3.description>{PAWN_nameDef} était à la fois soldat et scientifique, l'un{PAWN_gender ? : e } des rares à être chargé{PAWN_gender ? : e } de maintenir l'architecture de résurrection intégrée dans les cadavres d'élite. {PAWN_pronoun} a inséré du code dans les colonnes vertébrales et réécrit la mort comme s'il s'agissait d'un circuit défectueux. Malgré la grotesquerie des procédures, {PAWN_pronoun} n'a jamais hésité, car le progrès exigeait de la chair.</VQE_Necroengineer3.description>
+<!-- EN: necroengineer -->
+<VQE_Necroengineer3.title>nécro-ingénieur</VQE_Necroengineer3.title>
+<!-- EN: engineer -->
+<VQE_Necroengineer3.titleShort>ingénieur</VQE_Necroengineer3.titleShort>
+
+<!-- EN: [PAWN_nameDef] was among the first inducted into the Null Corps: frontline troops chemically lobotomized to erase fear and memory. [PAWN_pronoun] received orders through skull-implanted transceivers, moving silently and without question. [PAWN_pronoun] does not remember pain, or why [PAWN_pronoun] enlisted. Only the rifle in [PAWN_possessive] hands. -->
+<VQE_NullInfantry7.description>{PAWN_nameDef} fut l'un{PAWN_gender ? : e } des premiers à être enrôlé dans le Corps sans valeur : des troupes de première ligne ayant subi une lobotomie chimique afin d'effacer toute peur et tout souvenir. {PAWN_pronoun} recevait ses ordres via des émetteurs-récepteurs implantés dans son crâne, se déplaçant silencieusement et sans poser de questions. {PAWN_pronoun} ne se souvient ni de la douleur, ni de la raison pour laquelle {PAWN_pronoun} s'est enrôlé{PAWN_gender ? : e }. Seul le fusil entre ses mains lui reste en mémoire.</VQE_NullInfantry7.description>
+<!-- EN: null infantry -->
+<VQE_NullInfantry7.title>infanterie sans valeur</VQE_NullInfantry7.title>
+<!-- EN: null -->
+<VQE_NullInfantry7.titleShort>sans valeur</VQE_NullInfantry7.titleShort>
+
+<!-- EN: No records exist for [PAWN_nameDef] prior to Vault Cycle 18. [PAWN_pronoun] was found kneeling at the Death Door, eyes closed, hands outstretched, murmuring patterns that canceled sound in a six-meter radius. [PAWN_pronoun] now works in Inventory. The lights dim when [PAWN_pronoun] passes. -->
+<VQE_NullWitness44.description>Il n'existe aucune trace de {PAWN_nameDef} avant le cycle 18 de l'abri. {PAWN_pronoun} a été retrouvé{PAWN_gender ? : e } agenouillé{PAWN_gender ? : e } devant la Porte de la mort, les yeux fermés, les mains tendues, murmurant des formules qui annulaient tout son dans un rayon de six mètres. {PAWN_pronoun} travaille désormais au service des stocks. Les lumières s'éteignent lorsqu'{PAWN_pronoun} passe.</VQE_NullWitness44.description>
+<!-- EN: null witness -->
+<VQE_NullWitness44.title>témoin sans valeur</VQE_NullWitness44.title>
+<!-- EN: witness -->
+<VQE_NullWitness44.titleShort>témoin</VQE_NullWitness44.titleShort>
+
+<!-- EN: [PAWN_nameDef] formulated nutrient slurries for long-term storage in deep dormancy wings. [PAWN_pronoun] was told not to question the smell, or why some vats emptied without record. [PAWN_pronoun] just stirred, sealed, and labeled each batch: “For Contingency Use Only.” -->
+<VQE_NutritionSynthesist29.description>{PAWN_nameDef} a formulé des bouillies nutritives destinées à être stockées à long terme dans des ailes de dormance profonde. On lui a demandé de ne pas poser de questions sur l'odeur ou sur la raison pour laquelle certaines cuves se vidaient sans qu'{PAWN_pronoun} y ait de trace écrite. {PAWN_pronoun} se contentait de remuer, de sceller et d'étiqueter chaque lot : "À utiliser uniquement en cas d'urgence."</VQE_NutritionSynthesist29.description>
+<!-- EN: nutrition synthesist -->
+<VQE_NutritionSynthesist29.title>synthétiseur nutritionnel</VQE_NutritionSynthesist29.title>
+<!-- EN: synthesist -->
+<VQE_NutritionSynthesist29.titleShort>synthétiseur</VQE_NutritionSynthesist29.titleShort>
+
+<!-- EN: [PAWN_nameDef] signed the Oath of Obedience in blood, requesting permanent reassignment to non-cognitive labor. [PAWN_pronoun] underwent cerebral smoothing, then was sent to carry crates too heavy for the living. [PAWN_pronoun] does not stop until ordered to, even if bones crack. -->
+<VQE_ObediencePledge48.description>{PAWN_nameDef} a signé le serment d'obéissance avec son sang, demandant à être affecté de manière permanente à des tâches non cognitives. {PAWN_pronoun} a subi un lissage cérébral, puis a été envoyé transporter des caisses trop lourdes pour les vivants. {PAWN_pronoun} ne s'arrête pas tant qu'on ne lui en donne pas l'ordre, même si ses os craquent.</VQE_ObediencePledge48.description>
+<!-- EN: obedience pledge -->
+<VQE_ObediencePledge48.title>serment d'allégeance</VQE_ObediencePledge48.title>
+<!-- EN: pledged -->
+<VQE_ObediencePledge48.titleShort>engagé</VQE_ObediencePledge48.titleShort>
+
+<!-- EN: [PAWN_nameDef] was stationed in the ossuaries: vast chambers where failed soldiers were stacked and catalogued for parts. [PAWN_pronoun] patrolled in silence, rifle in hand, surrounded by the rattling echoes of half-living experiments. No one spoke in the ossuaries. No one had mouths. -->
+<VQE_OssuaryGuard9.description>{PAWN_nameDef} était affecté{PAWN_gender ? : e } aux ossuaires : de vastes salles où les soldats défaillants étaient empilés et catalogués pour être utilisés comme pièces détachées. {PAWN_pronoun} patrouillait en silence, fusil à la main, entouré des échos cliquetants d'expériences à moitié vivantes. Personne ne parlait dans les ossuaires. Personne n'avait de bouche.</VQE_OssuaryGuard9.description>
+<!-- EN: ossuary guard -->
+<VQE_OssuaryGuard9.title>gardien de l'ossuaire</VQE_OssuaryGuard9.title>
+<VQE_OssuaryGuard9.titleFemale>gardienne de l'ossuaire</VQE_OssuaryGuard9.titleFemale>
+<!-- EN: guard -->
+<VQE_OssuaryGuard9.titleShort>gardien</VQE_OssuaryGuard9.titleShort>
+<VQE_OssuaryGuard9.titleShortFemale>gardienne</VQE_OssuaryGuard9.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] stood guard outside the inner chamber for 900 days, never entering, never relieved. Then, on day 901, the door opened just a slit. [PAWN_pronoun] looked inside for exactly three seconds. Since then, [PAWN_pronoun] has not blinked once. -->
+<VQE_PaleWitness43.description>{PAWN_nameDef} a monté la garde devant la chambre intérieure pendant 900 jours, sans jamais y entrer, sans jamais être relevé. Puis, le 901e jour, la porte s'est entrouverte. {PAWN_pronoun} a regardé à l'intérieur pendant exactement trois secondes. Depuis, {PAWN_pronoun} n'a pas cligné des yeux une seule fois.</VQE_PaleWitness43.description>
+<!-- EN: pale witness -->
+<VQE_PaleWitness43.title>témoin pâle</VQE_PaleWitness43.title>
+<!-- EN: witness -->
+<VQE_PaleWitness43.titleShort>témoin</VQE_PaleWitness43.titleShort>
+
+<!-- EN: [PAWN_nameDef] rose to command a death battalion before being sealed in cryostorage with [PAWN_possessive] mind uploaded to carbon-thin neural plates. Decades passed in blackout stasis, dreaming only of tactical formations and absolute obedience. When awakened, [PAWN_pronoun] resumed command as if the war had never paused. -->
+<VQE_PreservedCommander4.description>{PAWN_nameDef} a été promu{PAWN_gender ? : e } commandant{PAWN_gender ? : e } d'un bataillon de la mort avant d'être plongé{PAWN_gender ? : e } dans un état de cryostase, son esprit transféré sur des plaques neuronales ultrafines en carbone. {PAWN_pronoun} a passé des décennies dans un état de stase totale, ne rêvant que de formations tactiques et d'obéissance absolue. À son réveil, {PAWN_pronoun} a repris le commandement comme si la guerre n'avait jamais été interrompue.</VQE_PreservedCommander4.description>
+<!-- EN: preserved commander -->
+<VQE_PreservedCommander4.title>commandant préservé</VQE_PreservedCommander4.title>
+<VQE_PreservedCommander4.titleFemale>commandante préservé</VQE_PreservedCommander4.titleFemale>
+<!-- EN: commander -->
+<VQE_PreservedCommander4.titleShort>commandant</VQE_PreservedCommander4.titleShort>
+<VQE_PreservedCommander4.titleShortFemale>commandante</VQE_PreservedCommander4.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] requested the “watcher’s gift” - a surgical splice of deadlife dust into the optic nerves and frontal cortex. [PAWN_pronoun] stands motionless for days, monitoring movement where none exists. [PAWN_pronoun] hasn’t reported an intrusion, but occasionally whispers that one is "already inside." -->
+<VQE_ProcessedSentinel50.description>{PAWN_nameDef} a demandé le "don de l'observateur" : une greffe chirurgicale de poussière de résurrection dans les nerfs optiques et le cortex frontal. {PAWN_pronoun} reste immobile pendant des jours, surveillant des mouvements qui n'existent pas. {PAWN_pronoun} n'a signalé aucune intrusion, mais murmure parfois que quelqu'un est "déjà à l'intérieur".</VQE_ProcessedSentinel50.description>
+<!-- EN: processed sentinel -->
+<VQE_ProcessedSentinel50.title>sentinelle traitée</VQE_ProcessedSentinel50.title>
+<!-- EN: sentinel -->
+<VQE_ProcessedSentinel50.titleShort>sentinelle</VQE_ProcessedSentinel50.titleShort>
+
+<!-- EN: [PAWN_nameDef] volunteered for the first wave of transhuman necrosis trials, offering [PAWN_possessive] body to a military doctrine that worshipped permanence through decay. [PAWN_pronoun] endured months in a sealed vat as bone, tissue, and cognition were rewired by machine and fluid alike. What emerged was no longer fully alive, but unshakably loyal. -->
+<VQE_PrototypeSubject1.description>{PAWN_nameDef} s'est porté{PAWN_gender ? : e } volontaire pour la première vague d'essais sur la nécrose transhumaine, offrant son corps à une doctrine militaire qui vénérait la permanence à travers la décomposition. {PAWN_pronoun} a enduré des mois dans une cuve scellée tandis que ses os, ses tissus et ses capacités cognitives étaient reconfigurés par des machines et des fluides. Ce qui en est ressorti n'était plus tout à fait vivant, mais d'une loyauté inébranlable.</VQE_PrototypeSubject1.description>
+<!-- EN: prototype subject -->
+<VQE_PrototypeSubject1.title>sujet prototype</VQE_PrototypeSubject1.title>
+<!-- EN: subject -->
+<VQE_PrototypeSubject1.titleShort>sujet</VQE_PrototypeSubject1.titleShort>
+
+<!-- EN: [PAWN_nameDef] oversaw the barracks of the reanimated units, managing deployment cycles and overseeing mental degradation thresholds. [PAWN_pronoun] insisted the undead required no names, only barcodes. When one subject regained a memory and spoke, [PAWN_pronoun] personally incinerated it. -->
+<VQE_ReanimationWarden39.description>{PAWN_nameDef} supervisait les casernes des unités réanimées, gérant les cycles de déploiement et surveillant les seuils de dégradation mentale. {PAWN_pronoun} insistait sur le fait que les morts-vivants n'avaient pas besoin de noms, seulement de codes-barres. Lorsqu'un sujet a retrouvé la mémoire et s'est mis à parler, {PAWN_pronoun} l'a personnellement incinéré.</VQE_ReanimationWarden39.description>
+<!-- EN: reanimation warden -->
+<VQE_ReanimationWarden39.title>gardien de réanimation</VQE_ReanimationWarden39.title>
+<VQE_ReanimationWarden39.titleFemale>gardienne de réanimation</VQE_ReanimationWarden39.titleFemale>
+<!-- EN: warden -->
+<VQE_ReanimationWarden39.titleShort>gardien</VQE_ReanimationWarden39.titleShort>
+<VQE_ReanimationWarden39.titleShortFemale>gardienne</VQE_ReanimationWarden39.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was sent through the Death Door for a three-minute reconnaissance. The cameras failed instantly. [PAWN_pronoun] returned eighteen hours later, unharmed but altered, with skin colder, voice slower, eyes not entirely [PAWN_possessive]. No one asked what [PAWN_pronoun] saw. No one does now. -->
+<VQE_ReturnedObserver42.description>{PAWN_nameDef} a été envoyé{PAWN_gender ? : e } à travers la Porte de la mort pour une reconnaissance de trois minutes. Les caméras ont immédiatement cessé de fonctionner. {PAWN_pronoun} est revenu{PAWN_gender ? : e } dix-huit heures plus tard, indemne mais transformé, avec une peau plus froide, une voix plus lente, des yeux qui n'étaient plus tout à fait les siens. Personne ne lui a demandé ce qu'{PAWN_pronoun} avait vu. Personne ne lui a demandé jusqu'à ce jour.</VQE_ReturnedObserver42.description>
+<!-- EN: returned observer -->
+<VQE_ReturnedObserver42.title>observateur revenu</VQE_ReturnedObserver42.title>
+<VQE_ReturnedObserver42.titleFemale>observatrice revenue</VQE_ReturnedObserver42.titleFemale>
+<!-- EN: returned -->
+<VQE_ReturnedObserver42.titleShort>revenu</VQE_ReturnedObserver42.titleShort>
+<VQE_ReturnedObserver42.titleShortFemale>revenue</VQE_ReturnedObserver42.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] knelt willingly in the circle, surrounded by augurs and dark machines, and did not scream when the dust was poured into [PAWN_possessive] lungs. [PAWN_pronoun] was declared clinically dead, then reassigned to frontline duty two hours later. [PAWN_pronoun] no longer blinks. Nor stops. -->
+<VQE_RitualSubject47.description>{PAWN_nameDef} s'agenouilla volontairement dans le cercle, entouré{PAWN_gender ? : e } d'augures et de machines sombres, et ne cria pas lorsque la poussière fut versée dans ses poumons. {PAWN_pronoun} fut déclaré{PAWN_gender ? : e } cliniquement mort, puis réaffecté{PAWN_gender ? : e } au front deux heures plus tard. {PAWN_pronoun} ne cligne plus des yeux. {PAWN_pronoun} ne s'arrête plus.</VQE_RitualSubject47.description>
+<!-- EN: ritual subject -->
+<VQE_RitualSubject47.title>sujet rituel</VQE_RitualSubject47.title>
+<!-- EN: subject -->
+<VQE_RitualSubject47.titleShort>sujet</VQE_RitualSubject47.titleShort>
+
+<!-- EN: [PAWN_nameDef] logged every shift rotation, personnel movement, and anomaly ping near the Death Door. [PAWN_pronoun] noticed strange patterns in the logs: repeating names, people clocking in after confirmed deaths, whole hours missing. [PAWN_pronoun] kept recording anyway. -->
+<VQE_ShiftRecorder23.description>{PAWN_nameDef} consignait chaque rotation d'équipe, chaque mouvement de personnel et chaque anomalie près de la Porte de la mort. {PAWN_pronoun} remarqua des anomalies dans les registres : des noms qui se répétaient, des personnes pointant après avoir été déclarées mortes, des heures entières manquantes. {PAWN_pronoun} continua néanmoins à tout consigner.</VQE_ShiftRecorder23.description>
+<!-- EN: shift recorder -->
+<VQE_ShiftRecorder23.title>enregistreur de quarts</VQE_ShiftRecorder23.title>
+<VQE_ShiftRecorder23.titleFemale>enregistreuse de quarts</VQE_ShiftRecorder23.titleFemale>
+<!-- EN: recorder -->
+<VQE_ShiftRecorder23.titleShort>enregistreur</VQE_ShiftRecorder23.titleShort>
+<VQE_ShiftRecorder23.titleShortFemale>enregistreuse</VQE_ShiftRecorder23.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] enforced silence protocol within the dust-processing halls, where sound was said to attract unwanted responses. [PAWN_pronoun] walked the catwalks with a shock-rod and a clicker, punishing speech, coughs and even breath, if too loud. [PAWN_pronoun] hasn’t spoken in years, even off duty. -->
+<VQE_SilenceOfficer21.description>{PAWN_nameDef} appliquait le protocole de silence dans les salle de traitement des poussières, où le bruit était censé attirer des réponses indésirables. {PAWN_pronoun} parcourait les passerelles avec une matraque électrique et un cliquet, punissant les paroles, les toux et même les respirations trop bruyantes. {PAWN_pronoun} n'avait pas parlé depuis des années, même en dehors de ses heures de travail.</VQE_SilenceOfficer21.description>
+<!-- EN: silence officer -->
+<VQE_SilenceOfficer21.title>officier de silence</VQE_SilenceOfficer21.title>
+<VQE_SilenceOfficer21.titleFemale>officière de silence</VQE_SilenceOfficer21.titleFemale>
+<!-- EN: officer -->
+<VQE_SilenceOfficer21.titleShort>officier</VQE_SilenceOfficer21.titleShort>
+<VQE_SilenceOfficer21.titleShortFemale>officière</VQE_SilenceOfficer21.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] walked into the conversion chamber, sealed the door behind [PAWN_objective], and waited. The machine inside removed [PAWN_possessive] speech, hunger, and memory. What emerged walked straight to duty assignment without waiting for instruction. -->
+<VQE_SilentConversion49.description>{PAWN_nameDef} entra dans la chambre de conversion, ferma la porte derrière {PAWN_objective} et attendit. La machine à l'intérieur lui ôta la parole, la faim et la mémoire. Ce qui en ressortit se dirigea directement vers sa mission sans attendre d'instructions.</VQE_SilentConversion49.description>
+<!-- EN: silent conversion -->
+<VQE_SilentConversion49.title>conversion silencieuse</VQE_SilentConversion49.title>
+<!-- EN: converted -->
+<VQE_SilentConversion49.titleShort>converti</VQE_SilentConversion49.titleShort>
+<VQE_SilentConversion49.titleShortFemale>convertie</VQE_SilentConversion49.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] moved biological containers between crypto-labs, some twitching, some whispering. [PAWN_pronoun] never opened a crate, but sometimes the shadows inside moved with familiarity. [PAWN_pronoun] didn’t log what didn’t stop moving. -->
+<VQE_SpecimenHandler28.description>{PAWN_nameDef} transportait des conteneurs biologiques entre les cryptolaboratoires, certains tremblotant, d'autres murmurant. {PAWN_pronoun} n'ouvrait jamais les caisses, mais parfois, les ombres à l'intérieur bougeaient avec familiarité. {PAWN_pronoun} ne consignait pas ce qui ne cessait de bouger.</VQE_SpecimenHandler28.description>
+<!-- EN: specimen handler -->
+<VQE_SpecimenHandler28.title>manipulateur d'échantillons</VQE_SpecimenHandler28.title>
+<VQE_SpecimenHandler28.titleFemale>manipulatrice d'échantillons</VQE_SpecimenHandler28.titleFemale>
+<!-- EN: handler -->
+<VQE_SpecimenHandler28.titleShort>manipulateur</VQE_SpecimenHandler28.titleShort>
+<VQE_SpecimenHandler28.titleShortFemale>manipulatrice</VQE_SpecimenHandler28.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] moved ancient supplies through decaying aisles, rotating materials to slow entropy. Many of the items had no known purpose, some no discernible shape. [PAWN_pronoun] once touched something warm that shouldn’t have been. It didn’t cool down afterward. -->
+<VQE_StockpileRotator33.description>{PAWN_nameDef} déplaçait d'anciennes provisions dans des allées délabrées, faisant tourner les matériaux pour ralentir l'entropie. Beaucoup d'entre eux n'avaient aucune utilité connue, certains n'avaient même pas de forme discernable. Une fois, {PAWN_pronoun} toucha quelque chose de chaud qui n'aurait pas dû l'être. Cela ne refroidit pas par la suite.</VQE_StockpileRotator33.description>
+<!-- EN: stockpile rotator -->
+<VQE_StockpileRotator33.title>rotateur de stock</VQE_StockpileRotator33.title>
+<VQE_StockpileRotator33.titleFemale>rotatrice de stock</VQE_StockpileRotator33.titleFemale>
+<!-- EN: rotator -->
+<VQE_StockpileRotator33.titleShort>rotateur</VQE_StockpileRotator33.titleShort>
+<VQE_StockpileRotator33.titleShortFemale>rotatrice</VQE_StockpileRotator33.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] stood closest to the Death Door, siphoning dust from its breathless aperture into sealed black vials. The dust hissed, shimmered, and whispered, burning the air and minds alike. [PAWN_pronoun] wore triple-layered filtration gear, but still wakes to coughing shadows. -->
+<VQE_ThresholdHarvester11.description>{PAWN_nameDef} se tenait tout près de la Porte de la mort, aspirant la poussière qui s'échappait de son ouverture sans souffle dans des fioles noires hermétiques. La poussière sifflait, scintillait et murmurait, brûlant l'air et les esprits. {PAWN_pronoun} portait un équipement de filtration à triple couche, mais se réveillait quand même avec des ombres qui toussaient.</VQE_ThresholdHarvester11.description>
+<!-- EN: threshold harvester -->
+<VQE_ThresholdHarvester11.title>récolteur de seuil</VQE_ThresholdHarvester11.title>
+<VQE_ThresholdHarvester11.titleFemale>récolteuse de seuil</VQE_ThresholdHarvester11.titleFemale>
+<!-- EN: harvester -->
+<VQE_ThresholdHarvester11.titleShort>récolteur</VQE_ThresholdHarvester11.titleShort>
+<VQE_ThresholdHarvester11.titleShortFemale>récolteuse</VQE_ThresholdHarvester11.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] was assigned to burial patrols, recovering fallen comrades and tagging them for reanimation. [PAWN_pronoun] slept among corpses, carried bone-thin bodies back to processing, and watched them twitch to life again. The stench never faded, but neither did [PAWN_possessive] unwavering obedience. -->
+<VQE_TrenchAwakener6.description>{PAWN_nameDef} fut affecté{PAWN_gender ? : e } aux patrouilles funéraires, chargées de récupérer les corps des camarades tombés au combat et de les marquer pour leur réanimation. {PAWN_pronoun} dormait parmi les cadavres, transportait des corps squelettiques jusqu'à l'usine de traitement et les regardait reprendre vie dans des soubresauts. L'odeur nauséabonde ne s'estompait jamais, mais son obéissance indéfectible non plus.</VQE_TrenchAwakener6.description>
+<!-- EN: trench awakener -->
+<VQE_TrenchAwakener6.title>réveilleur de tranchée</VQE_TrenchAwakener6.title>
+<VQE_TrenchAwakener6.titleFemale>réveilleuse de tranchée</VQE_TrenchAwakener6.titleFemale>
+<!-- EN: awakener -->
+<VQE_TrenchAwakener6.titleShort>réveilleur</VQE_TrenchAwakener6.titleShort>
+<VQE_TrenchAwakener6.titleShortFemale>réveilleuse</VQE_TrenchAwakener6.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] checked for dust contamination in uniforms and skin before workers left the core sectors. [PAWN_pronoun] scrubbed patches that pulsed, burned fabric that moved, and blacklisted anything that remembered touch. [PAWN_pronoun] stopped questioning why some suits came back... without the wearers. -->
+<VQE_UniformInspector22.description>{PAWN_nameDef} vérifiait la présence de poussière sur les uniformes et la peau des travailleurs avant qu'ils ne quittent les secteurs centraux. {PAWN_pronoun} frottait les zones qui pulsaient, brûlait les tissus qui bougeaient et mettait sur liste noire tout ce qui gardait la mémoire du toucher. {PAWN_pronoun} cessa de se demander pourquoi certaines combinaisons revenaient... sans leurs porteurs.</VQE_UniformInspector22.description>
+<!-- EN: uniform inspector -->
+<VQE_UniformInspector22.title>inspecteur d'uniforme</VQE_UniformInspector22.title>
+<VQE_UniformInspector22.titleFemale>inspectrice d'uniforme</VQE_UniformInspector22.titleFemale>
+<!-- EN: inspector -->
+<VQE_UniformInspector22.titleShort>inspecteur</VQE_UniformInspector22.titleShort>
+<VQE_UniformInspector22.titleShortFemale>inspectrice</VQE_UniformInspector22.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] maintained ledgers of inventory buried deep in the sub-storage vaults. [PAWN_pronoun] documented sealed containers with unreadable glyphs and crates that hummed faintly when touched. One morning, an entry appeared in [PAWN_possessive] own handwriting, describing a box [PAWN_pronoun] hadn’t logged yet. -->
+<VQE_VaultArchivist31.description>{PAWN_nameDef} tenait des registres d'inventaire enfouis profondément dans les abris de sous-stockage. {PAWN_pronoun} y consignait des conteneurs scellés portant des glyphes illisibles et des caisses qui émettaient un léger bourdonnement lorsqu'on les touchait. Un matin, une entrée écrite de sa propre main apparut, décrivant une boîte qu'{PAWN_pronoun} n'avait pas encore enregistrée.</VQE_VaultArchivist31.description>
+<!-- EN: vault archivist -->
+<VQE_VaultArchivist31.title>archiviste d'abri</VQE_VaultArchivist31.title>
+<!-- EN: archivist -->
+<VQE_VaultArchivist31.titleShort>archiviste</VQE_VaultArchivist31.titleShort>
+
+<!-- EN: [PAWN_nameDef] ensured ideological purity among vault personnel, conducting loyalty evaluations and sanctioning disciplinary corrections. [PAWN_pronoun] maintained that those exposed to the Death Door too long became unreliable. [PAWN_pronoun] had many of them sealed behind the vaults, alive or not was irrelevant. -->
+<VQE_VaultCommissar37.description>{PAWN_nameDef} veillait à la pureté idéologique du personnel des abris, en procédant à des évaluations de loyauté et en sanctionnant les manquements par des mesures disciplinaires. {PAWN_pronoun} affirmait que ceux qui étaient exposés trop longtemps à la Porte de la mort devenaient peu fiables. {PAWN_pronoun} en avait enfermé un grand nombre derrière les abris, qu'ils soient vivants ou morts n'avait aucune importance.</VQE_VaultCommissar37.description>
+<!-- EN: vault commissar -->
+<VQE_VaultCommissar37.title>commissaire d'abris</VQE_VaultCommissar37.title>
+<!-- EN: commissar -->
+<VQE_VaultCommissar37.titleShort>commissaire</VQE_VaultCommissar37.titleShort>
+
+<!-- EN: [PAWN_nameDef] was stationed deep beneath the surface, tasked with protecting the bio-vaults that housed experimental regeneration tanks and failed prototypes. When containment alarms sounded, [PAWN_pronoun] didn’t flinch. The only thing [PAWN_pronoun] feared was failure, and fear had been surgically removed years ago. -->
+<VQE_VaultEnforcer2.description>{PAWN_nameDef} était stationné{PAWN_gender ? : e } profondément sous la surface, chargé{PAWN_gender ? : e } de protéger les bio-abris qui abritaient des cuves de régénération expérimentales et des prototypes défaillants. Lorsque les alarmes de confinement retentirent, {PAWN_pronoun} ne broncha pas. La seule chose qu'{PAWN_pronoun} craignait était l'échec, et la peur avait été chirurgicalement retirée des années auparavant.</VQE_VaultEnforcer2.description>
+<!-- EN: vault enforcer -->
+<VQE_VaultEnforcer2.title>exécuteur d'abri</VQE_VaultEnforcer2.title>
+<VQE_VaultEnforcer2.titleFemale>exécutrice d'abri</VQE_VaultEnforcer2.titleFemale>
+<!-- EN: enforcer -->
+<VQE_VaultEnforcer2.titleShort>exécuteur</VQE_VaultEnforcer2.titleShort>
+<VQE_VaultEnforcer2.titleShortFemale>exécutrice</VQE_VaultEnforcer2.titleShortFemale>
+
+<!-- EN: [PAWN_nameDef] verified access credentials for vault entrants and logged removals from sealed shelves. [PAWN_pronoun] noticed that names on the log began to repeat: dead soldiers requesting supplies long after they’d been archived. [PAWN_pronoun] flagged it once. Nothing changed. -->
+<VQE_VaultEntryClerk35.description>{PAWN_nameDef} vérifiait les identifiants d'accès des personnes entrant dans l'abri et consignait les retraits effectués dans les étagères scellées. {PAWN_pronoun} remarqua que certains noms commençaient à se répéter dans le registre : des soldats décédés qui demandaient des fournitures longtemps après avoir été archivés. {PAWN_pronoun} le signala une fois. Rien ne changea.</VQE_VaultEntryClerk35.description>
+<!-- EN: vault entry clerk -->
+<VQE_VaultEntryClerk35.title>commis d'entrée de l'abri</VQE_VaultEntryClerk35.title>
+<!-- EN: clerk -->
+<VQE_VaultEntryClerk35.titleShort>commis</VQE_VaultEntryClerk35.titleShort>
+
+<!-- EN: [PAWN_nameDef] cleaned the insides of sealed dust vaults after they were purged. The walls were never truly clean, they were always humming, always whispering. [PAWN_pronoun] stopped using [PAWN_possessive] name after the third cycle. No one corrected [PAWN_objective]. -->
+<VQE_VaultScrubber17.description>{PAWN_nameDef} nettoyait l'intérieur des abris à poussière scellées après leur purge. Les murs n'étaient jamais vraiment propres, ils bourdonnaient et murmuraient sans cesse. {PAWN_pronoun} cessa d'utiliser son nom après le troisième cycle. Personne ne l{PAWN_gender ? e : a } corrigea.</VQE_VaultScrubber17.description>
+<!-- EN: vault scrubber -->
+<VQE_VaultScrubber17.title>épurateur d'abri</VQE_VaultScrubber17.title>
+<!-- EN: scrubber -->
+<VQE_VaultScrubber17.titleShort>épurateur</VQE_VaultScrubber17.titleShort>
+
+<!-- EN: [PAWN_nameDef] was assigned to monitor the auditory pulses emitted by the Death Door during lunar shifts. [PAWN_pronoun] began transcribing messages in no known language, yet perfectly understood. After the seventh day, [PAWN_pronoun] no longer required equipment to hear them. -->
+<VQE_WhisperHost41.description>{PAWN_nameDef} fut chargé{PAWN_gender ? : e } de surveiller les impulsions auditives émises par la Porte de la mort pendant les phases lunaires. {PAWN_pronoun} commença à transcrire des messages dans une langue inconnue, mais parfaitement compréhensible. Après le septième jour, {PAWN_pronoun} n'eut plus besoin d'équipement pour les entendre.</VQE_WhisperHost41.description>
+<!-- EN: whisper host -->
+<VQE_WhisperHost41.title>hôte chuchoteur</VQE_WhisperHost41.title>
+<VQE_WhisperHost41.titleFemale>hôtesse chuchoteuse</VQE_WhisperHost41.titleFemale>
+<!-- EN: host -->
+<VQE_WhisperHost41.titleShort>hôte</VQE_WhisperHost41.titleShort>
+<VQE_WhisperHost41.titleShortFemale>hôtesse</VQE_WhisperHost41.titleShortFemale>
+
+
+<!-- EN: [PAWN_nameDef] grew up behind reinforced glass, just beyond the war room where [PAWN_possessive] parent issued silent commands to a dying world. The halls were sterile, the uniforms always grey, and [PAWN_pronoun] quickly learned which doors never opened and which ones never closed. [PAWN_pronoun] was told the flickering silhouettes beyond the viewing screens were simulations, until one of them looked back. No one mentioned it afterward, and neither did [PAWN_pronoun]. -->
+<VQE_Childhood_OfficersShadow.description>{PAWN_nameDef} a grandi derrière une vitre blindée, juste derrière la salle de crise où ses parents donnaient des ordres silencieux à un monde agonisant. Les couloirs étaient stériles, les uniformes toujours gris, et {PAWN_pronoun} a rapidement appris quelles portes ne s'ouvraient jamais et lesquelles ne se fermaient jamais. On lui a dit que les silhouettes vacillantes derrière les écrans étaient des simulations, jusqu'à ce que l'une d'elles l{PAWN_gender ? e : a } regarde en retour. Personne n'en a parlé après coup, et {PAWN_objective} non plus.</VQE_Childhood_OfficersShadow.description>
+<!-- EN: officer’s shadow -->
+<VQE_Childhood_OfficersShadow.title>ombre d'officier</VQE_Childhood_OfficersShadow.title>
+<!-- EN: shadow -->
+<VQE_Childhood_OfficersShadow.titleShort>ombre</VQE_Childhood_OfficersShadow.titleShort>
+
+<!-- EN: [PAWN_nameDef] designed Operation: Deadlife from the first blueprint to the last breath, believing death could be structured, harnessed, and weaponized. When the Death Door was first opened, [PAWN_pronoun] stepped through without hesitation, alone, unarmed, and smiling. [PAWN_pronoun] returned days later, silent and burned from within, wrapped in binding cloth and sealed inside a containment sarcophagus that no one claimed to understand. The war ended. The door remained open. [PAWN_pronoun] sleeps still - but the seals are growing warm. -->
+<VQE_TheGeneral.description>{PAWN_nameDef} a conçu l'opération : Résurrection depuis le premier plan jusqu'à son dernier souffle, convaincu{PAWN_gender ? : e } que la mort pouvait être structurée, maîtrisée et transformée en arme. Lorsque la Porte de la mort s'est ouverte pour la première fois, {PAWN_pronoun} l'a franchie sans hésitation, seul{PAWN_gender ? : e }, sans arme et souriant. {PAWN_pronoun} est revenu{PAWN_gender ? : e } quelques jours plus tard, silencieu{PAWN_gender ? x : se } et brûlé{PAWN_gender ? : e } de l'intérieur, enveloppé{PAWN_gender ? : e } dans un tissu contraignant et enfermé{PAWN_gender ? : e } dans un sarcophage de confinement que personne ne prétendait comprendre. La guerre a pris fin. La porte est restée ouverte. {PAWN_pronoun} dort toujours, mais les sceaux se réchauffent.</VQE_TheGeneral.description>
+<!-- EN: the general -->
+<VQE_TheGeneral.title>le général</VQE_TheGeneral.title>
+<!-- EN: general -->
+<VQE_TheGeneral.titleShort>général</VQE_TheGeneral.titleShort>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEC_OpiumHigh.label>défoncé à l'opium</VFEC_OpiumHigh.label>
+<VFEC_OpiumHigh.description>Opium présent dans le sang. Il atténue complètement la douleur.</VFEC_OpiumHigh.description>
+<VFEC_OpiumHigh.labelNoun>sous l'emprise de l'opium</VFEC_OpiumHigh.labelNoun>
+
+<VFEC_OpiumTolerance.label>tolérance à l'opium</VFEC_OpiumTolerance.label>
+<VFEC_OpiumTolerance.description>Une tolérance accumulée à l'opium. Plus cette tolérance est importante, plus il faut d'opium pour obtenir le même effet.</VFEC_OpiumTolerance.description>
+<VFEC_OpiumTolerance.stages.small.label>insignifiante</VFEC_OpiumTolerance.stages.small.label>
+<VFEC_OpiumTolerance.stages.large.label>forte</VFEC_OpiumTolerance.stages.large.label>
+<VFEC_OpiumTolerance.stages.massive.label>très forte</VFEC_OpiumTolerance.stages.massive.label>
+
+<VFEC_OpiumAddiction.label>addiction à l'opium</VFEC_OpiumAddiction.label>
+<VFEC_OpiumAddiction.description>Une dépendance chimique à l'opium. La présence à long terme de l'opium a provoqué des modifications neurologiques au niveau cellulaire, de sorte que le cerveau ne peut plus fonctionner correctement sans cette drogue.\n\nSans doses régulières d'opium, les symptômes de sevrage commenceront. Cependant, une abstinence prolongée forcera le cerveau à s'adapter pour revenir à son état normal, ce qui supprimera la dépendance.</VFEC_OpiumAddiction.description>
+<VFEC_OpiumAddiction.stages.withdrawal.label>sevrage</VFEC_OpiumAddiction.stages.withdrawal.label>
+
+<VFEC_CenturionArmor.label>armure de centurion</VFEC_CenturionArmor.label>
+<VFEC_CenturionArmor.description>La présence d'une armure de centurion encourage les combattants alliés proches à se battre malgré la douleur.</VFEC_CenturionArmor.description>
+
+<VFEC_CenturionArmorBuff.label>Effet : Armure de centurion</VFEC_CenturionArmorBuff.label>
+<VFEC_CenturionArmorBuff.description>La capacité à résister à la douleur est augmentée grâce à la proximité d'une personne portant une armure de centurion.</VFEC_CenturionArmorBuff.description>
+
+
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<AAVPE_JumpingPawn.label>vol</AAVPE_JumpingPawn.label>
+
+<AA_HiveEntrance.label>entrée de ruche noire</AA_HiveEntrance.label>
+<AA_HiveEntrance.description>Une ruche d'insectes géants. Ce monticule a été utilisé par la Ruche Noire pour creuser un tunnel vers ce territoire. Cette entrée de ruche produira périodiquement des larves noires, qui deviendront des insectes aléatoires de la ruche noire. Ceux-ci ne sont pas temporaires et les colons peuvent les apprivoiser comme des animaux normaux. Votre colonie ne peut avoir qu'une seule entrée de ruche, et pas plus de quatre insectes seront présents en même temps.</AA_HiveEntrance.description>
+
+<AA_BlackCocoon.label>cocon noir</AA_BlackCocoon.label>
+<AA_BlackCocoon.description>Un cocon de larve de la Ruche Noire.</AA_BlackCocoon.description>
+
+<AA_ElderAlienTree.label>arbre oculaire ancien</AA_ElderAlienTree.label>
+<AA_ElderAlienTree.description>Cet arbre est complètement alien, probablement même pas à 100% à base de carbone, et il semble avoir du mal à se développer à cause de son exposition à un environnement terrestre. Des fruits étranges ressemblant à des globes oculaires pendent de l'arbre, mais ils ne sont probablement pas comestibles. Son bois dégage une odeur puissante et sucrée.\nCet arbre en particulier semble être plus grand que les autres, et il émane une aura de confusion et de désespoir. Le tissu même de la réalité semble s'effilocher autour de lui.\n\n&lt;color=#b51509&gt;Attention :&lt;/color&gt; C'est une chose cool mais lente, tout comme les morceaux de vaisseaux défoliateur dans le jeu de base.</AA_ElderAlienTree.description>
+
+<AA_BlackScarab_Temporary.label>mégascarabée noir invoqué</AA_BlackScarab_Temporary.label>
+<AA_BlackScarab_Temporary.description>Ce mégascarabée noir génétiquement modifié fait partie de la Ruche Noire, un écosystème artificiel d'insectoïdes conçu pour lutter contre les invasions mécanoïdes. La Ruche Noire a été conçue pour être beaucoup plus agressive que d'habitude, et plusieurs nouvelles espèces ont été créées et ajoutées à la Ruche pour augmenter sa létalité. Les mégascarabées noirs ne sont guère plus que de la chair à canon, lâchés devant la horde principale d'insectoïdes pour attirer le feu ennemi. C'est une créature eusociale qui ne peut pas survivre seule.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BlackScarab_Temporary.description>
+<AA_BlackScarab_Temporary.tools.mandibles.label>mandibules</AA_BlackScarab_Temporary.tools.mandibles.label>
+<AA_BlackScarab_Temporary.tools.head.label>tête</AA_BlackScarab_Temporary.tools.head.label>
+
+<AA_BlackSpelopede_Temporary.label>spélopède noir invoqué</AA_BlackSpelopede_Temporary.label>
+<AA_BlackSpelopede_Temporary.description>Un insectoïde génétiquement modifié de la taille d'un mouton, qui fait partie de la Ruche Noire, un écosystème artificiel d'insectoïdes conçu pour lutter contre les invasions mécanoïdes. La Ruche Noire a été conçue pour être beaucoup plus agressive que d'habitude, et plusieurs nouvelles espèces ont été créées et ajoutées à la Ruche pour augmenter sa létalité. Le spélopède est la caste intermédiaire d'une ruche, s'occupant de la plupart des tâches de travail ainsi que du combat avec ses griffes excavatrices. Il est dangereux au combat, mais lent sur le terrain découvert.\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_BlackSpelopede_Temporary.description>
+<AA_BlackSpelopede_Temporary.tools.head_claw.label>griffe de tête</AA_BlackSpelopede_Temporary.tools.head_claw.label>
+<AA_BlackSpelopede_Temporary.tools.head.label>tête</AA_BlackSpelopede_Temporary.tools.head.label>
+<AA_BlackSpelopede_Temporary.verbs.venomous_spit.label>crachat venimeux</AA_BlackSpelopede_Temporary.verbs.venomous_spit.label>
+
+<AA_BlackSpider_Temporary.label>mégaraignée noire invoquée</AA_BlackSpider_Temporary.label>
+<AA_BlackSpider_Temporary.description>La mégaraignée noire n'est pas vraiment une araignée, mais un insectoïde géant génétiquement conçu, de la taille d'un ours. Cette créature fait partie de la Ruche Noire, un écosystème artificiel d'insectoïdes conçu pour combattre les invasions mécanoïdes. La Ruche Noire a été conçue pour être beaucoup plus agressive que d'habitude, et plusieurs nouvelles espèces ont été créées et ajoutées à la Ruche pour augmenter sa létalité. Conçue pour les travaux lourds et le combat, son épaisse armure chitineuse la rend difficile à tuer, tandis que ses longues lames déchirantes la rendent mortelle au corps à corps.\n\nArt par Gon (voir plus : https://twitter.com/GON_again).</AA_BlackSpider_Temporary.description>
+<AA_BlackSpider_Temporary.tools.head_claw.label>griffe de tête</AA_BlackSpider_Temporary.tools.head_claw.label>
+<AA_BlackSpider_Temporary.tools.head.label>tête</AA_BlackSpider_Temporary.tools.head.label>
+<AA_BlackSpider_Temporary.verbs.venomous_spit.label>crachat venimeux</AA_BlackSpider_Temporary.verbs.venomous_spit.label>
+
+<AA_MammothWorm_Temporary.label>ver géant invoqué</AA_MammothWorm_Temporary.label>
+<AA_MammothWorm_Temporary.description>Un ver génétiquement modifié de très grande taille. Malgré sa taille et son arsenal incroyablement intimidants, ces énormes créatures sont plutôt pacifiques. Il faisait autrefois partie de la caste des travailleurs d'un écosystème artificiel d'insectoïdes conçu pour lutter contre les invasions mécanoïdes. Il portait et déplaçait des choses que ses petits cousins ne pouvaient pas faire.\n\nBien que généralement pacifique, si on le provoque, il devient une force terrifiante qui peut rivaliser avec les centipèdes mécanoïdes.\n\nÀ l'origine, le ver géant a été spécifiquement élevé pour servir d'engin de siège vivant afin de détruire les structures mécanoïdes, et en tant que tel, il peut être extrêmement efficace.\n\nLes Vers géants sont également d'excellentes montures, ils se déplacent légèrement plus vite lorsqu'ils sont montés et repoussent les projectiles (cette interaction nécessite le mod Giddy-Up, combat mounts, qui permet aux Vers géants de se déplacer 25% plus vite lorsqu'ils sont utilisés comme montures et d'augmenter leur armure de 50%).\n\nArt par Feroxiious (consultez son Instagram : https://www.instagram.com/feroxiious/).</AA_MammothWorm_Temporary.description>
+<AA_MammothWorm_Temporary.tools.body.label>corps</AA_MammothWorm_Temporary.tools.body.label>
+
+<AA_BlackLarvae.label>larve noire</AA_BlackLarvae.label>
+<AA_BlackLarvae.description>Forme juvénile de l'insectoïde de la ruche noire, la larve est inoffensive, lente et facile à tuer. Après un certain temps, elle subit une métamorphose et devient un insectoïde adulte de la ruche noire. Rien ne permet de dire quel type d'insecte sortira de son cocon.</AA_BlackLarvae.description>
+<AA_BlackLarvae.tools.head_claw.label>griffe de tête</AA_BlackLarvae.tools.head_claw.label>
+
+<AAVPE_BlackQueen.label>reine noire invoquée</AAVPE_BlackQueen.label>
+<AAVPE_BlackQueen.description>Un insectoïde géant, génétiquement modifié, responsable de la création d'une nouvelle progéniture. Mère des insectes de la ruche noire, la reine noire est incroyablement agressive et ne craint pas les combats brutaux. Aussi massive qu'un thrumbo adulte, la reine inspire la peur à la plupart de ses adversaires. Son épaisse armure en chitine la rend difficile à tuer, tandis que de longues lames mortelles peuvent déchirer le blindage en plastacier en quelques secondes et causer de graves blessures infectées.\n\n&lt;color=#E5E54C&gt;Effet de jeu :&lt;/color&gt; La Reine noire régénère sa santé et ses attaques physiques ont 95 % de chances de provoquer des infections.</AAVPE_BlackQueen.description>
+<AAVPE_BlackQueen.tools.infected_mandibles.label>mandibules infectées</AAVPE_BlackQueen.tools.infected_mandibles.label>
+<AAVPE_BlackQueen.tools.head.label>tête</AAVPE_BlackQueen.tools.head.label>
+
+<AA_OcularOriginator.label>initiateur oculaire</AA_OcularOriginator.label>
+<AA_OcularOriginator.description>Cette créature amorphe et translucide semble dépourvue de tout sauf des instincts les plus élémentaires, se déplaçant lentement et dévorant parfois toute plante avec laquelle elle entre en contact, l'incorporant dans son cytoplasme. Pour rendre son apparence encore plus troublante, des yeux injectés de sang de différentes tailles flottent à l'intérieur d'elle et clignent de façon spasmodique à intervalles irréguliers.\n\nLes initiateurs oculaires sont des versions déformées des initiateurs tératogènes, tordues par les énergies étranges d'un royaume extra-dimensionnel pervers de pure folie. Les étranges yeux mutants peuvent être périodiquement excisés de la créature et utilisés à volonté. Les initiateurs oculaires ne peuvent pas se reproduire et un seul sera présent sur une carte à un moment donné.</AA_OcularOriginator.description>
+<AA_OcularOriginator.tools.tentacles.label>tentacules</AA_OcularOriginator.tools.tentacles.label>
+
+<AA_Summoned_Eyeling.label>œiling invoqué</AA_Summoned_Eyeling.label>
+<AA_Summoned_Eyeling.description>Un œil grotesquement agrandi, rampant à l'aide de quelques tentacules charnus. Pas très utile du tout. Créé en infusant à un animal des énergies étranges provenant d'une corruption extra-dimensionnelle.</AA_Summoned_Eyeling.description>
+<AA_Summoned_Eyeling.tools.eye.label>œil</AA_Summoned_Eyeling.tools.eye.label>
+
+
+</LanguageData>

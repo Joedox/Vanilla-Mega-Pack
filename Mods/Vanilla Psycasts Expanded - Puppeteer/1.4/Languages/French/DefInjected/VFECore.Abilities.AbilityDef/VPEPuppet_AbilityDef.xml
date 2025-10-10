@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VPEP_BrainCut.label>coupure cérébrale</VPEP_BrainCut.label>
+<VPEP_BrainCut.description>Une mauvaise utilisation intentionnelle du psysort de reprogrammation qui crée une faille permanente dans le cerveau de la cible. Les dégâts sont proportionnels à la sensibilité psychique de la cible et la désorientent pendant 2 secondes.</VPEP_BrainCut.description>
+<VPEP_BrainCut.jobReportString>Utilise la capacité : {0}</VPEP_BrainCut.jobReportString>
+<VPEP_BrainCut.verbProperties.label>coupure cérébrale</VPEP_BrainCut.verbProperties.label>
+
+<VPEP_BrainLeech.label>sangsue cérébrale</VPEP_BrainLeech.label>
+<VPEP_BrainLeech.description>Crée un lien psionique sur un prisonnier ou un esclave qui redirige la puissance de traitement du cerveau vers le psylanceur. L'effet est inefficace et atteint son maximum au bout de 2 jours avant de disparaître dans l'obscurité. Une seule sangsue peut être maintenue.</VPEP_BrainLeech.description>
+<VPEP_BrainLeech.jobReportString>Utilise la capacité : {0}</VPEP_BrainLeech.jobReportString>
+<VPEP_BrainLeech.verbProperties.label>sangsue cérébrale</VPEP_BrainLeech.verbProperties.label>
+
+<VPEP_Subjugation.label>asservir</VPEP_Subjugation.label>
+<VPEP_Subjugation.description>Induit une forme d'endoctrinement sur un prisonnier en modifiant les voies neuronales de sorte que les pensées de la faction de la cible déclenchent des réactions négatives. Les effets sont désagréables et "convainquent" le prisonnier de changer de camp au bout de 7 jours.</VPEP_Subjugation.description>
+<VPEP_Subjugation.jobReportString>Utilise la capacité : {0}</VPEP_Subjugation.jobReportString>
+<VPEP_Subjugation.verbProperties.label>asservir</VPEP_Subjugation.verbProperties.label>
+
+<VPEP_Degrade.label>dégrader</VPEP_Degrade.label>
+<VPEP_Degrade.description>Ramène les instincts comportementaux de la cible humanoïde à un état beaucoup plus primitif, en déclenchant de force la rupture mentale "retourne à l'état sauvage".</VPEP_Degrade.description>
+<VPEP_Degrade.jobReportString>Utilise la capacité : {0}</VPEP_Degrade.jobReportString>
+<VPEP_Degrade.verbProperties.label>dégrader</VPEP_Degrade.verbProperties.label>
+
+<VPEP_Puppet.label>marionnette</VPEP_Puppet.label>
+<VPEP_Puppet.description>Ce psysort écrase de façon permanente la personnalité de la cible affectée par sangsue cérébrale avec celle du psylanceur. Il bloque la mémoire à court terme du cerveau pour qu'elle se synchronise avec le psylanceur, ce qui plonge la cible dans un coma de courte durée. Le nombre de marionnettes est initialement limité à une.</VPEP_Puppet.description>
+<VPEP_Puppet.jobReportString>Utilise la capacité : {0}</VPEP_Puppet.jobReportString>
+<VPEP_Puppet.verbProperties.label>marionnette</VPEP_Puppet.verbProperties.label>
+
+<VPEP_SummonPuppet.label>invoquer une marionnette</VPEP_SummonPuppet.label>
+<VPEP_SummonPuppet.description>En provoquant un effet similaire à un cas extrême du "mal du pays", le psylanceur peut forcer la marionnette ciblée à se rapprocher de lui presque instantanément, quelle que soit la distance.</VPEP_SummonPuppet.description>
+<VPEP_SummonPuppet.jobReportString>Utilise la capacité : {0}</VPEP_SummonPuppet.jobReportString>
+<VPEP_SummonPuppet.verbProperties.label>invoquer une marionnette</VPEP_SummonPuppet.verbProperties.label>
+
+<VPEP_MindSplit.label>diviser l'esprit</VPEP_MindSplit.label>
+<VPEP_MindSplit.description>En appliquant l'équivalent psionique d'un marteau et d'un burin à sa propre conscience, le psylanceur peut augmenter de façon permanente sa limite de marionnettes contrôlables de un. Cette technique est en fait indolore, car le psylanceur se rend inconscient pendant une courte durée en brisant son sens de l'identité.</VPEP_MindSplit.description>
+<VPEP_MindSplit.jobReportString>Utilise la capacité : {0}</VPEP_MindSplit.jobReportString>
+<VPEP_MindSplit.verbProperties.label>diviser l'esprit</VPEP_MindSplit.verbProperties.label>
+
+<VPEP_PuppetSwarm.label>essaim de marionnettes</VPEP_PuppetSwarm.label>
+<VPEP_PuppetSwarm.description>En provoquant un effet similaire à un cas extrême du "mal du pays", le psylanceur peut forcer toutes les marionnettes qui lui sont liées à se rapprocher de lui presque instantanément, quelle que soit la distance.</VPEP_PuppetSwarm.description>
+<VPEP_PuppetSwarm.jobReportString>Utilise la capacité : {0}</VPEP_PuppetSwarm.jobReportString>
+<VPEP_PuppetSwarm.verbProperties.label>essaim de marionnettes</VPEP_PuppetSwarm.verbProperties.label>
+
+<VPEP_Ascension.label>ascension</VPEP_Ascension.label>
+<VPEP_Ascension.description>Cible une marionnette contrôlée et la pousse à se suicider par surcharge psychique, en s'anéantissant dans un rayon de 5 cases autour d'elle. La somme des compétences acquises par la marionnette est convertie en énergie psychique pour la détonation, une fraction étant absorbée par le psylanceur sous forme d'XP de psylanceur.</VPEP_Ascension.description>
+<VPEP_Ascension.jobReportString>Utilise la capacité : {0}</VPEP_Ascension.jobReportString>
+<VPEP_Ascension.verbProperties.label>ascension</VPEP_Ascension.verbProperties.label>
+
+<VPEP_MindJump.label>saut d'esprit</VPEP_MindJump.label>
+<VPEP_MindJump.description>Échange définitivement les corps du psylanceur et de la marionnette ciblée, la marionnette devenant le maître avec toutes ses capacités de psylanceur. Le changement soudain de conscience et l'adaptation à un nouveau corps plongent le nouveau maître dans un coma psychique de 48 heures.</VPEP_MindJump.description>
+<VPEP_MindJump.jobReportString>Utilise la capacité : {0}</VPEP_MindJump.jobReportString>
+<VPEP_MindJump.verbProperties.label>saut d'esprit</VPEP_MindJump.verbProperties.label>
+
+
+
+</LanguageData>

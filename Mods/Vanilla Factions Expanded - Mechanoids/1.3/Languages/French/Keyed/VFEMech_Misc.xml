@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VFEMech.LetterJoinOfferTitle>{PAWN_nameDef} souhaite vous rejoindre.</VFEMech.LetterJoinOfferTitle>
+<VFEMech.LetterJoinOfferLabel>Offre : {PAWN_nameDef}</VFEMech.LetterJoinOfferLabel>
+<VFEMech.LetterJoinOfferText>{PAWN_nameDef} estime qu'{PAWN_pronoun} peut être utile pour votre colonie. {PAWN_pronoun} souhaite vous rejoindre.</VFEMech.LetterJoinOfferText>
+
+<VFEMech.RaidWarningTitle>Raid imminent : {FACTION_name}</VFEMech.RaidWarningTitle>
+<VFEMech.RaidWarningText>{FACTION_name} vous attaqueront dans les 12 prochaines heures. {1}</VFEMech.RaidWarningText>
+
+<VFEMech.DisableTotalWarMechanic>Désactiver le mécanisme Guerre Totale</VFEMech.DisableTotalWarMechanic>
+<VFEMech.AdjustIncidentTimeInterval>Ajuster l'intervalle des atterrissages de vaisseaux :</VFEMech.AdjustIncidentTimeInterval>
+<VFEMech.AdjustIncidentChanceLabel>Ajuster la chance de base pour les incidents d'atterrissage des vaisseaux :</VFEMech.AdjustIncidentChanceLabel>
+<VFEMech.AdjustMechPresenceLabel>Ajuster la présence des mécanoïdes générée avec les vaisseaux :</VFEMech.AdjustMechPresenceLabel>
+<VFEMech.AdjustMinimunColonistCountLabel>Ajuster le nombre minimum de colons requis pour les incidents d'atterrissage des vaisseaux :</VFEMech.AdjustMinimunColonistCountLabel>
+<VFEMech.AdjustMinimunWealthCountLabel>Ajuster le nombre minimum de richesses requis pour les incidents d'atterrissage des vaisseaux :</VFEMech.AdjustMinimunWealthCountLabel>
+<VFEMech.AdjustMaximumDistanceForShipsLabel>Ajuster la distance maximale pour les sites d'atterrissage des vaisseaux :</VFEMech.AdjustMaximumDistanceForShipsLabel>
+<VFEM_factorySpeedMultiplier>Multiplicateur de vitesse des usines</VFEM_factorySpeedMultiplier>
+<VFEM_factorySpeedMultiplierTooltip>Par défaut 1.\nLes nombres inférieurs accélèrent la vitesse des usines, tandis que les nombres supérieurs les font travailler plus lentement.</VFEM_factorySpeedMultiplierTooltip>
+<VFEM_SuperComputerResearchPointYield>Valeur de rendement des points de recherche du superordinateur. Par défaut 1.</VFEM_SuperComputerResearchPointYield>
+
+<VFEMech.FactionDestroyedShip>{FACTION_name} détruit {1}</VFEMech.FactionDestroyedShip>
+<VFEMech.FactionDestroyedShipDesc>Grâce à des stratégies astucieuses, un grand nombre de pertes et une incroyable persévérance, {FACTION_name} a réussi à détruire {1}.</VFEMech.FactionDestroyedShipDesc>
+<VFEMech.IdeologyConversionTarget>Objectif de conversion de l'idéologie : {0}</VFEMech.IdeologyConversionTarget>
+<VFEMech.SetIdeologyConversionTarget>Fixer un objectif de conversion idéologique.</VFEMech.SetIdeologyConversionTarget>
+<VFEMech.SetIdeologyConversionTargetDesc>Sélectionner l'idéologie à laquelle le colon sélectionné doit être converti.</VFEMech.SetIdeologyConversionTargetDesc>
+<VFEMech.CurrentCertainty>La croyance de {PAWN_nameDef} sur {1} est de {2}%</VFEMech.CurrentCertainty>
+<VFEMech.EnterIndoctrinationPod>Entrer dans le caisson d'endoctrinement</VFEMech.EnterIndoctrinationPod>
+
+
+</LanguageData>

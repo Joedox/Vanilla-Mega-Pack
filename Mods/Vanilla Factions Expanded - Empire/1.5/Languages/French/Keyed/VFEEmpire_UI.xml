@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEE.SeeAlso>Voir également :</VFEE.SeeAlso>
+<VFEE.ChangeCharacter>Changer de personnage</VFEE.ChangeCharacter>
+<VFEE.CurrentTitle>Titre actuel : {0}</VFEE.CurrentTitle>
+<VFEE.CurrentHonor>Honneur : {0}</VFEE.CurrentHonor>
+<VFEE.PermitPoints>Points de Licence restants : {0}</VFEE.PermitPoints>
+<VFEE.DevMode>Mode développeur</VFEE.DevMode>
+<VFEE.VassalPoints>Points de Vassal restants : {0}</VFEE.VassalPoints>
+<VFEE.ReleaseAllVassals>Libérer tous les vassaux</VFEE.ReleaseAllVassals>
+<VFEE.ReleaseAllVassals.Confirm>La libération des vassaux entraînera la perte des ressources stockées. Êtes-vous sûr ?</VFEE.ReleaseAllVassals.Confirm>
+<VFEE.VassalsOf>Vassal de {0}, {1}</VFEE.VassalsOf>
+<VFEE.TitheDesc>Les dîmes seront livrées par capsule de transport une fois le temps imparti écoulé.</VFEE.TitheDesc>
+<VFEE.Deliver>Livrer </VFEE.Deliver>
+<VFEE.Deliver.EveryWeek>Tous les 7 jours</VFEE.Deliver.EveryWeek>
+<VFEE.Deliver.EveryQuadrum>Tous les 15 jours</VFEE.Deliver.EveryQuadrum>
+<VFEE.Deliver.EveryYear>Une fois par an</VFEE.Deliver.EveryYear>
+<VFEE.Deliver.Never>Jamais (pause)</VFEE.Deliver.Never>
+<VFEE.Created>{0} {1} générés chaque jour.</VFEE.Created>
+<VFEE.CreatedSpecial>{0} {1} générés tous les {2} jours.</VFEE.CreatedSpecial>
+<VFEE.InStockpile>{0} en stock : {1}</VFEE.InStockpile>
+<VFEE.VassalDesc>Vous ne pouvez vassaliser que des bases situées à moins de 100 cases de vous ou de vos vassaux.\nVassalisez plus de villes pour augmenter la portée et débloquer plus de sujets vassaux potentiels.</VFEE.VassalDesc>
+<VFEE.NoVassalize>Impossible de vassaliser : Trop loin</VFEE.NoVassalize>
+<VFEE.Vassalize>Vassaliser</VFEE.Vassalize>
+<VFEE.RoomRequirementInstrumentSpace>espace de danse pour tous les instruments</VFEE.RoomRequirementInstrumentSpace>
+<VFEE.OfThe>{0} de {1}</VFEE.OfThe>
+<VFEE.Invite>Inviter</VFEE.Invite>
+<VFEE.InviteAs>Inviter par {0} (Coût : {1} honneur{1_multiple ? s : })</VFEE.InviteAs>
+<VFEE.Skip.Title.Previous>Titre précédent</VFEE.Skip.Title.Previous>
+<VFEE.Skip.Title.Next>Titre suivant</VFEE.Skip.Title.Next>
+<VFEE.Skip.Colonist.Previous>Colon précédent</VFEE.Skip.Colonist.Previous>
+<VFEE.Skip.Colonist.Next>Colon suivant</VFEE.Skip.Colonist.Next>
+<VFEE.Honors.RemoveAll>Supprimer définitivement \n les titres honorifiques sur ce noble</VFEE.Honors.RemoveAll>
+<VFEE.Honors.Active>Titres honorifiques décernés à ce noble. Faites-les glisser vers la droite pour lui retirer.\nLes titres en blancs sont activés, ceux en jaune nécessites une cérémonie.</VFEE.Honors.Active>
+<VFEE.Honors.Available>Ces titres honorifiques sont disponibles pour être décerner sur vos nobles.\nFaites-les glisser vers la gauche pour lui décerner. Une cérémonie doit être organier pour les rendre actifs.</VFEE.Honors.Available>
+<VFEE.HonorsOf>Honneur de {0}, {1}</VFEE.HonorsOf>
+<VFEE.Honors.Reward>vous obtiendrez l'honneur de {0} à attribuer à un colon</VFEE.Honors.Reward>
+<VFEE.Honors>Titre honorifique :</VFEE.Honors>
+<VFEE.MustBeLordOf>Doit être seigneur de {0}</VFEE.MustBeLordOf>
+<VFEE.MustWield>Doit manier {0}</VFEE.MustWield>
+<VFEE.MustHaveParent>Doit avoir un parent</VFEE.MustHaveParent>
+<VFEE.Honor.Pending>Ce titre honorifique doit être décerné lors d'une cérémonie avant de devenir actif.</VFEE.Honor.Pending>
+<VFEE.Honor.Bestow>Titre honorifique</VFEE.Honor.Bestow>
+<VFEE.Honor.BestowPlural>Titre honorifique</VFEE.Honor.BestowPlural>
+<VFEE.Honor.Bestow.Desc>Accorde le titre honorifique en attente pour ce noble. Décernera :\n{0}</VFEE.Honor.Bestow.Desc>
+<VFEE.Successful>décerné</VFEE.Successful>
+<VFEE.Honor.Bestow.Success>{0} a obtenu le titre honorifique en attente.\n\nTitre honorifique décerné :\n{1}</VFEE.Honor.Bestow.Success>
+<VFEE.Honor.NoHonors>Doit avoir un titre honorifique en attente à décerner.</VFEE.Honor.NoHonors>
+<VFEEmpire.RitualRoleTitled.NotTitled>Doit détenir un titre.</VFEEmpire.RitualRoleTitled.NotTitled>
+<VFEEmpire.RitualRoleTitled.NotColonist>Doit être un colon.</VFEEmpire.RitualRoleTitled.NotColonist>
+
+
+</LanguageData>

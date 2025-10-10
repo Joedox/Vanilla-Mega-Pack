@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ NamerDeityVikings +++++ -->
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.0>name->[syl][end]</VFEV_NamerDeityVikings.rulePack.rulesStrings.0>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.1>name->[syl]'[end]</VFEV_NamerDeityVikings.rulePack.rulesStrings.1>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.2>syl->[NorseNames]</VFEV_NamerDeityVikings.rulePack.rulesStrings.2>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.3>end->abrei</VFEV_NamerDeityVikings.rulePack.rulesStrings.3>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.4>end->tro</VFEV_NamerDeityVikings.rulePack.rulesStrings.4>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.5>end->ox</VFEV_NamerDeityVikings.rulePack.rulesStrings.5>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.6>end->brin</VFEV_NamerDeityVikings.rulePack.rulesStrings.6>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.7>end->bai</VFEV_NamerDeityVikings.rulePack.rulesStrings.7>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.8>end->bust</VFEV_NamerDeityVikings.rulePack.rulesStrings.8>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.9>end->vast</VFEV_NamerDeityVikings.rulePack.rulesStrings.9>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.10>end->varg</VFEV_NamerDeityVikings.rulePack.rulesStrings.10>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.11>end->vix</VFEV_NamerDeityVikings.rulePack.rulesStrings.11>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.12>end->tor</VFEV_NamerDeityVikings.rulePack.rulesStrings.12>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.13>end->tear</VFEV_NamerDeityVikings.rulePack.rulesStrings.13>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.14>end->cut</VFEV_NamerDeityVikings.rulePack.rulesStrings.14>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.15>end->lop</VFEV_NamerDeityVikings.rulePack.rulesStrings.15>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.16>end->oze</VFEV_NamerDeityVikings.rulePack.rulesStrings.16>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.17>end->ozzle</VFEV_NamerDeityVikings.rulePack.rulesStrings.17>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.18>end->latch</VFEV_NamerDeityVikings.rulePack.rulesStrings.18>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.19>end->lock</VFEV_NamerDeityVikings.rulePack.rulesStrings.19>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.20>end->burn</VFEV_NamerDeityVikings.rulePack.rulesStrings.20>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.21>end->sear</VFEV_NamerDeityVikings.rulePack.rulesStrings.21>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.22>end->shank</VFEV_NamerDeityVikings.rulePack.rulesStrings.22>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.23>end->hurt</VFEV_NamerDeityVikings.rulePack.rulesStrings.23>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.24>end->vash</VFEV_NamerDeityVikings.rulePack.rulesStrings.24>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.25>end->warg</VFEV_NamerDeityVikings.rulePack.rulesStrings.25>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.26>end->wug</VFEV_NamerDeityVikings.rulePack.rulesStrings.26>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.27>end->thot</VFEV_NamerDeityVikings.rulePack.rulesStrings.27>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.28>end->thard</VFEV_NamerDeityVikings.rulePack.rulesStrings.28>
+<VFEV_NamerDeityVikings.rulePack.rulesStrings.29>end->thad</VFEV_NamerDeityVikings.rulePack.rulesStrings.29>
+
+		<!-- +++++ RulePacks_Art_DescriptionsPhysical +++++ -->
+  <!-- Different physical description roots for different kinds of artworks. 
+      Added to artworks with tales and taleless art.-->
+<ArtDescription_Hearth.rulePack.rulesStrings.0>physical_description_root->Le foyer est gravé d'un [depiction] de [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.0>
+<ArtDescription_Hearth.rulePack.rulesStrings.1>physical_description_root->Le foyer porte un [depiction] de [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.1>
+<ArtDescription_Hearth.rulePack.rulesStrings.2>physical_description_root->Le foyer est décoré d'un [depiction] de [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.2>
+<ArtDescription_Hearth.rulePack.rulesStrings.3>physical_description_root->La gravure sur ce foyer [depicts] [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.3>
+
+		<!-- +++++ RulePacks_Namers_Factions +++++ -->
+<NamerFactionViking.rulePack.rulesStrings.0>r_name->Le clan [AnimalNordic]</NamerFactionViking.rulePack.rulesStrings.0>
+<NamerFactionViking.rulePack.rulesStrings.1>r_name->Le clan [AnimalNordic] [Color]</NamerFactionViking.rulePack.rulesStrings.1>
+<NamerFactionViking.rulePack.rulesStrings.2>r_name->Clan de [NorseNames]</NamerFactionViking.rulePack.rulesStrings.2>
+
+<NamerSettlementViking.rulePack.rulesStrings.0>r_name->[townname_wordgen]</NamerSettlementViking.rulePack.rulesStrings.0>
+<NamerSettlementViking.rulePack.rulesStrings.1>townname_wordgen(p=2)->[SylE][SylE]</NamerSettlementViking.rulePack.rulesStrings.1>
+<NamerSettlementViking.rulePack.rulesStrings.2>townname_wordgen(p=2)->[SylE][SylE][SylE]</NamerSettlementViking.rulePack.rulesStrings.2>
+<NamerSettlementViking.rulePack.rulesStrings.3>townname_wordgen(p=2)->[SylE][townendevil]</NamerSettlementViking.rulePack.rulesStrings.3>
+<NamerSettlementViking.rulePack.rulesStrings.4>townname_wordgen(p=2)->[SylE][SylE][townendevil]</NamerSettlementViking.rulePack.rulesStrings.4>
+<NamerSettlementViking.rulePack.rulesStrings.5>townendevil->vast</NamerSettlementViking.rulePack.rulesStrings.5>
+<NamerSettlementViking.rulePack.rulesStrings.6>townendevil->varg</NamerSettlementViking.rulePack.rulesStrings.6>
+<NamerSettlementViking.rulePack.rulesStrings.7>townendevil->vix</NamerSettlementViking.rulePack.rulesStrings.7>
+<NamerSettlementViking.rulePack.rulesStrings.8>townendevil->tor</NamerSettlementViking.rulePack.rulesStrings.8>
+<NamerSettlementViking.rulePack.rulesStrings.9>townendevil->tear</NamerSettlementViking.rulePack.rulesStrings.9>
+<NamerSettlementViking.rulePack.rulesStrings.10>townendevil->cut</NamerSettlementViking.rulePack.rulesStrings.10>
+<NamerSettlementViking.rulePack.rulesStrings.11>townendevil->lop</NamerSettlementViking.rulePack.rulesStrings.11>
+<NamerSettlementViking.rulePack.rulesStrings.12>townendevil->oze</NamerSettlementViking.rulePack.rulesStrings.12>
+<NamerSettlementViking.rulePack.rulesStrings.13>townendevil->ozzle</NamerSettlementViking.rulePack.rulesStrings.13>
+<NamerSettlementViking.rulePack.rulesStrings.14>townendevil->latch</NamerSettlementViking.rulePack.rulesStrings.14>
+<NamerSettlementViking.rulePack.rulesStrings.15>townendevil->lock</NamerSettlementViking.rulePack.rulesStrings.15>
+<NamerSettlementViking.rulePack.rulesStrings.16>townendevil->burn</NamerSettlementViking.rulePack.rulesStrings.16>
+<NamerSettlementViking.rulePack.rulesStrings.17>townendevil->sear</NamerSettlementViking.rulePack.rulesStrings.17>
+<NamerSettlementViking.rulePack.rulesStrings.18>townendevil->shank</NamerSettlementViking.rulePack.rulesStrings.18>
+<NamerSettlementViking.rulePack.rulesStrings.19>townendevil->hurt</NamerSettlementViking.rulePack.rulesStrings.19>
+<NamerSettlementViking.rulePack.rulesStrings.20>townendevil->vash</NamerSettlementViking.rulePack.rulesStrings.20>
+<NamerSettlementViking.rulePack.rulesStrings.21>townendevil->warg</NamerSettlementViking.rulePack.rulesStrings.21>
+<NamerSettlementViking.rulePack.rulesStrings.22>townendevil->wug</NamerSettlementViking.rulePack.rulesStrings.22>
+<NamerSettlementViking.rulePack.rulesStrings.23>townendevil->thot</NamerSettlementViking.rulePack.rulesStrings.23>
+<NamerSettlementViking.rulePack.rulesStrings.24>townendevil->thard</NamerSettlementViking.rulePack.rulesStrings.24>
+<NamerSettlementViking.rulePack.rulesStrings.25>townendevil->thad</NamerSettlementViking.rulePack.rulesStrings.25>
+
+<NamerPersonViking.rulePack.rulesStrings>
+  <li>r_name(p=2)->[NorseNames] fils de [NorseNames]</li>
+  <li>r_name->[NorseNames] [NorseNames]berg</li>
+  <li>r_name->[NorseNames] 'tueur de [AnimalBadass]' fils de [NorseNames]</li>
+  <li>r_name->[NorseNames] '[Animal] [Color]' fils de [NorseNames]</li>
+  <li>r_name->[NorseNames] [NorseNames]-fils</li>
+  <li>r_name->[NorseNames] 'fils de [NorseNames]' du Clan [Animal]</li>
+</NamerPersonViking.rulePack.rulesStrings>
+<!-- Test avec les "li"
+<NamerPersonViking.rulePack.rulesStrings.0>r_name(p=2)->[NorseNames] fils de [NorseNames]</NamerPersonViking.rulePack.rulesStrings.0>
+<NamerPersonViking.rulePack.rulesStrings.1>r_name->[NorseNames] [NorseNames]berg</NamerPersonViking.rulePack.rulesStrings.1>
+<NamerPersonViking.rulePack.rulesStrings.2>r_name->[NorseNames] 'tueur de [AnimalBadass]' fils de [NorseNames]</NamerPersonViking.rulePack.rulesStrings.2>
+<NamerPersonViking.rulePack.rulesStrings.3>r_name->[NorseNames] '[Animal] [Color]' fils de [NorseNames]</NamerPersonViking.rulePack.rulesStrings.3>
+<NamerPersonViking.rulePack.rulesStrings.4>r_name->[NorseNames] [NorseNames]-fils</NamerPersonViking.rulePack.rulesStrings.4>
+<NamerPersonViking.rulePack.rulesStrings.5>r_name->[NorseNames] 'fils de [NorseNames]' du Clan [Animal]</NamerPersonViking.rulePack.rulesStrings.5>
+-->
+
+</LanguageData>

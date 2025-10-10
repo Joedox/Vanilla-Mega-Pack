@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Auto Drill -->
+
+<VFE_ChunkToMine>Forage de {0}</VFE_ChunkToMine>
+<VFE_ChunkRandomMine>Forage de Gravats aléatoires</VFE_ChunkRandomMine>
+<VFE_ChooseMine>Choisir le type de gravats</VFE_ChooseMine>
+<VFE_ChooseMineDesc>Choisir le type de gravats à extraire. Vous pouvez choisir n'importe quel type de gravats de la carte, ou aléatoirement.</VFE_ChooseMineDesc>
+<VFE_RandomRock>Gravats aléatoire</VFE_RandomRock>
+<VFE_PleaseSelectOutput>Sélectionner la sortie de la machine</VFE_PleaseSelectOutput>
+<VFE_NeedsWater>Ce bâtiment doit être placé sur l'eau.</VFE_NeedsWater>
+
+<!-- Random Building Graphics -->
+
+<VFE_ChangeGraphic>Modifier la texture</VFE_ChangeGraphic>
+<VFE_ChangeGraphicDesc>Change la texture graphique de cet objet de façon aléatoire parmi celles disponibles.</VFE_ChangeGraphicDesc>
+
+<VFE_ChooseGraphic>Choisir la texture</VFE_ChooseGraphic>
+<VFE_ChooseGraphicDesc>Choisissez la texture graphique de cet objet via un menu avec toutes les options disponibles.</VFE_ChooseGraphicDesc>
+
+<VFE_NoGraphics>Cet objet n'a pas de graphiques supplémentaires aléatoires à choisir. Un moddeur a ajouté la classe comp à cet objet sans graphiques alternatifs, ce qui est étrange.</VFE_NoGraphics>
+
+<!-- Random Building Graphics, Options -->
+
+<!--VFE_RandomOrSequentially>Le bouton "Modifier la Texture" change le design graphique de façon aléatoire (désactiver pour du séquentiel)</VFE_RandomOrSequentially-->
+<VFE_HideRandomizeButton>Cacher le bouton "Modifier la texture"</VFE_HideRandomizeButton>
+<VFE_RandomBuildingsDontStartRandom>Les objets nouvellement construits n’auront pas une texture aléatoire (si activé).</VFE_RandomBuildingsDontStartRandom>
+
+<VFE.SwitchLightColor>Modifier la couleur</VFE.SwitchLightColor>
+<VFE.SwitchLightColorDesc>Modifie la couleur de la lumière actuelle.</VFE.SwitchLightColorDesc>
+<VFE.ChangeColorTo>Changer la couleur pour {0}</VFE.ChangeColorTo>
+<VFE.ColorSwitchPowerOff>L'alimentation est coupée. Impossible de changer la couleur.</VFE.ColorSwitchPowerOff>
+
+
+</LanguageData>

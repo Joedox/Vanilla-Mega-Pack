@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Double Wind -->
+<MakaiRanger_BuffFour.label>double vent</MakaiRanger_BuffFour.label>
+<!-- EN: the nature is providing this pawn with a favor of speed. -->
+<MakaiRanger_BuffFour.description>La nature offre une faveur de rapidité à ce psylanceur.</MakaiRanger_BuffFour.description>
+
+<!-- EN: Marked -->
+<MakaiRanger_BuffFour_Mark.label>marque du forestier</MakaiRanger_BuffFour_Mark.label>
+<!-- EN: Marked by Ranger -->
+<MakaiRanger_BuffFour_Mark.description>La marque d'un forestier.</MakaiRanger_BuffFour_Mark.description>
+<!-- EN: Marked -->
+<MakaiRanger_BuffFour_Mark.stages.Marked.label>marqué</MakaiRanger_BuffFour_Mark.stages.Marked.label>
+
+<!-- EN: Wind Frenzy -->
+<MakaiRanger_BuffFour_Speed.label>frénésie du vent</MakaiRanger_BuffFour_Speed.label>
+<!-- EN: attacking the same target continuously making this pawn attack faster. -->
+<MakaiRanger_BuffFour_Speed.description>Attaquer continuellement la même cible permet à ce psylanceur de viser plus rapidement et de diminuer sa cadence de tir.</MakaiRanger_BuffFour_Speed.description>
+<!-- EN: 1 -->
+<MakaiRanger_BuffFour_Speed.stages._1.label>1</MakaiRanger_BuffFour_Speed.stages._1.label>
+<!-- EN: 2 -->
+<MakaiRanger_BuffFour_Speed.stages._2.label>2</MakaiRanger_BuffFour_Speed.stages._2.label>
+<!-- EN: 3 -->
+<MakaiRanger_BuffFour_Speed.stages._3.label>3</MakaiRanger_BuffFour_Speed.stages._3.label>
+<!-- EN: 4 -->
+<MakaiRanger_BuffFour_Speed.stages._4.label>4</MakaiRanger_BuffFour_Speed.stages._4.label>
+<!-- EN: 5 -->
+<MakaiRanger_BuffFour_Speed.stages._5.label>5</MakaiRanger_BuffFour_Speed.stages._5.label>
+<!-- EN: 6 -->
+<MakaiRanger_BuffFour_Speed.stages._6.label>6</MakaiRanger_BuffFour_Speed.stages._6.label>
+<!-- EN: 7 -->
+<MakaiRanger_BuffFour_Speed.stages._7.label>7</MakaiRanger_BuffFour_Speed.stages._7.label>
+<!-- EN: 8 -->
+<MakaiRanger_BuffFour_Speed.stages._8.label>8</MakaiRanger_BuffFour_Speed.stages._8.label>
+<!-- EN: 9 -->
+<MakaiRanger_BuffFour_Speed.stages._9.label>9</MakaiRanger_BuffFour_Speed.stages._9.label>
+
+<!-- EN: Qucik Draw -->
+<MakaiRanger_BuffOne.label>double tir</MakaiRanger_BuffOne.label>
+<!-- EN: always fire one additional shot, with additional boost to marksmanship ability -->
+<MakaiRanger_BuffOne.description>Tire un projectile supplémentaire et augmente la portée de l'arme.</MakaiRanger_BuffOne.description>
+
+<!-- EN: Arcing Shot -->
+<MakaiRanger_BuffThree.label>tir arqué</MakaiRanger_BuffThree.label>
+<!-- EN: shot arcing upward before spliting into several smaller shot. -->
+<MakaiRanger_BuffThree.description>Un tir arqué vers le ciel avant de se diviser en plusieurs tirs plus petits.</MakaiRanger_BuffThree.description>
+
+<!-- EN: Ricochet Shot -->
+<MakaiRanger_BuffTwo.label>tir ricochet</MakaiRanger_BuffTwo.label>
+<!-- EN: shot ricochet between enemies, won't work if there only one enemy. -->
+<MakaiRanger_BuffTwo.description>Les tirs ricochent entre les ennemis, ne fonctionne pas avec un seul ennemi.</MakaiRanger_BuffTwo.description>
+
+<!-- EN: binded solid -->
+<MakaiRanger_DebuffOne.label>filet</MakaiRanger_DebuffOne.label>
+<!-- EN: This entity is completely binded in a net, and will not be able to move until it break. -->
+<MakaiRanger_DebuffOne.description>Cette créature est complètement entravée dans un filet et ne peut plus se déplacer avant de rompre le filet.</MakaiRanger_DebuffOne.description>
+
+
+</LanguageData>

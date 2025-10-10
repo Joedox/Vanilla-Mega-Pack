@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+<VCE_SingingCarolsOutcome.description>En fonction de la qualité du rituel, les participants obtiendront une humeur comprise entre {MINMOOD} et {MAXMOOD} pendant {MOODDAYS} jours.</VCE_SingingCarolsOutcome.description>
+<!-- EN: leader present -->
+<VCE_SingingCarolsOutcome.comps.0.label>chef présent</VCE_SingingCarolsOutcome.comps.0.label>
+<!-- EN: participant count -->
+<VCE_SingingCarolsOutcome.comps.1.label>nombre de participants</VCE_SingingCarolsOutcome.comps.1.label>
+<!-- EN: during Decembary -->
+<VCE_SingingCarolsOutcome.comps.3.label>en décemvier</VCE_SingingCarolsOutcome.comps.3.label>
+<!-- EN: not during Decembary -->
+<VCE_SingingCarolsOutcome.comps.3.labelNotMet>pas en décemvier</VCE_SingingCarolsOutcome.comps.3.labelNotMet>
+<!-- EN: Terrible -->
+<VCE_SingingCarolsOutcome.outcomeChances.0.label>Épouvantable</VCE_SingingCarolsOutcome.outcomeChances.0.label>
+<!-- EN: The {0} was terrible. The leader displayed a lack of passion and the festive feeling just wasn't there. -->
+<VCE_SingingCarolsOutcome.outcomeChances.0.description>Le {0} était épouvantable. Le chef de file a fait preuve d'un manque de passion et le sentiment de fête n'était tout simplement pas présent.</VCE_SingingCarolsOutcome.outcomeChances.0.description>
+<!-- EN: Boring -->
+<VCE_SingingCarolsOutcome.outcomeChances.1.label>Ennuyeux</VCE_SingingCarolsOutcome.outcomeChances.1.label>
+<!-- EN: The {0} was boring. The leader treated us like children, wanting so desperately to hear something to lift their spirits. -->
+<VCE_SingingCarolsOutcome.outcomeChances.1.description>Le {0} était ennuyeux. Le chef nous a traités comme des enfants, voulant désespérément entendre quelque chose qui lui remonterait le moral.</VCE_SingingCarolsOutcome.outcomeChances.1.description>
+<!-- EN: Fun -->
+<VCE_SingingCarolsOutcome.outcomeChances.2.label>Amusant</VCE_SingingCarolsOutcome.outcomeChances.2.label>
+<!-- EN: The {0} was super fun. The leader lifted our spirits and made us feel a festive spirit that will only make us stronger. -->
+<VCE_SingingCarolsOutcome.outcomeChances.2.description>Le {0} était super amusant. Le chef nous a remonté le moral et nous a fait ressentir un esprit festif qui ne peut que nous rendre plus forts.</VCE_SingingCarolsOutcome.outcomeChances.2.description>
+<!-- EN: Unforgettable -->
+<VCE_SingingCarolsOutcome.outcomeChances.3.label>Inoubliable</VCE_SingingCarolsOutcome.outcomeChances.3.label>
+<!-- EN: The {0} was unforgettable! We can still hear the mesmerizing words of the carols, as they reminded us of the importance of our shared beliefs. We can just feel our sadness vanish away. -->
+<VCE_SingingCarolsOutcome.outcomeChances.3.description>Le {0} était inoubliable ! Nous pouvons encore entendre les paroles envoûtantes des chants de Noël, qui nous ont rappelé l'importance de nos croyances communes. Nous sentons notre tristesse disparaître.</VCE_SingingCarolsOutcome.outcomeChances.3.description>
+
+
+<!-- 24 décembre -->
+<!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the festive feast is fun or unforgettable, varying festive favor amounts will be given for each participant. -->
+<VCE_FestiveFeastOutcome.description>En fonction de la qualité du rituel, les participants obtiendront une humeur comprise entre {MINMOOD} et {MAXMOOD} pendant {MOODDAYS} jours. Si le festin festif est amusant ou inoubliable, des quantités variables de faveurs festives seront accordées pour chaque participant.</VCE_FestiveFeastOutcome.description>
+<!-- EN: leader present -->
+<VCE_FestiveFeastOutcome.comps.0.label>chef présent</VCE_FestiveFeastOutcome.comps.0.label>
+<!-- EN: participant count -->
+<VCE_FestiveFeastOutcome.comps.1.label>nombre de participants</VCE_FestiveFeastOutcome.comps.1.label>
+<!-- EN: during Decembary -->
+<VCE_FestiveFeastOutcome.comps.2.label>en décemvier</VCE_FestiveFeastOutcome.comps.2.label>
+<!-- EN: not during Decembary -->
+<VCE_FestiveFeastOutcome.comps.2.labelNotMet>pas en décemvier</VCE_FestiveFeastOutcome.comps.2.labelNotMet>
+<!-- EN: Terrible -->
+<VCE_FestiveFeastOutcome.outcomeChances.0.label>Épouvantable</VCE_FestiveFeastOutcome.outcomeChances.0.label>
+<!-- EN: The {0} was terrible. The food was disgusting and we just quarreled and bickered through all of it. -->
+<VCE_FestiveFeastOutcome.outcomeChances.0.description>Le {0} était épouvantable. La nourriture était dégoûtante et nous nous sommes disputés et chamaillés tout au long de la soirée.</VCE_FestiveFeastOutcome.outcomeChances.0.description>
+<!-- EN: Boring -->
+<VCE_FestiveFeastOutcome.outcomeChances.1.label>Ennuyeux</VCE_FestiveFeastOutcome.outcomeChances.1.label>
+<!-- EN: The {0} was boring. We just went throught he motions, without putting much heart into it. The food was a bit bland. -->
+<VCE_FestiveFeastOutcome.outcomeChances.1.description>Le {0} était ennuyeux. Nous nous sommes contentés de suivre le mouvement, sans y mettre beaucoup de cœur. La nourriture était un peu fade.</VCE_FestiveFeastOutcome.outcomeChances.1.description>
+<!-- EN: Fun -->
+<VCE_FestiveFeastOutcome.outcomeChances.2.label>Amusant</VCE_FestiveFeastOutcome.outcomeChances.2.label>
+<!-- EN: The {0} was super fun. Gathering together to share a festive feast really enhances the spirit of the season. -->
+<VCE_FestiveFeastOutcome.outcomeChances.2.description>Le {0} était super amusant. Le fait de se réunir pour partager un festin festif renforce vraiment l'esprit de la saison.</VCE_FestiveFeastOutcome.outcomeChances.2.description>
+<!-- EN: Unforgettable -->
+<VCE_FestiveFeastOutcome.outcomeChances.3.label>Inoubliable</VCE_FestiveFeastOutcome.outcomeChances.3.label>
+<!-- EN: The {0} was unforgettable! We truly felt like a big family and the food was just simply amazing! -->
+<VCE_FestiveFeastOutcome.outcomeChances.3.description>Le {0} était inoubliable ! Nous nous sommes vraiment sentis comme une grande famille et la nourriture était tout simplement incroyable !</VCE_FestiveFeastOutcome.outcomeChances.3.description>
+
+
+</LanguageData>

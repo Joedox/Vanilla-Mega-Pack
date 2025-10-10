@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: heavy incinerator -->
+<VWEB_HeavyIncinerator.label>incinérateur lourd</VWEB_HeavyIncinerator.label>
+<!-- EN: A powerful, experimental incinerator that can spray a stream of flame into an area. It can shoot in an arc over allies without harming them. The flame burns off rapidly, so it will only ignite the most flammable targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nWhile the main incinerator flamethrower has limited number of uses, the weapon also comes equipped with a bioferrite-powered vaporizer unit which generates a massive blast of superheated plasma from a pressurized bioferrite charge, destroying everything hit. The vaporizer unit must be refueled after each use. -->
+<VWEB_HeavyIncinerator.description>Un puissant incinérateur expérimental qui peut projeter un jet de flammes dans une zone. Il peut tirer en lob par dessus les alliés sans les blesser. La flamme s'éteint rapidement et n'enflamme que les cibles les plus inflammables.\n\nComme il s'agit d'une arme extrêmement lourde, il faut une armure motorisée pour l'utiliser efficacement.\n\nBien que le lance-flammes incinérateur principal ait un nombre limité d'utilisations, l'arme est également équipée d'un vaporisateur à bioferrite qui génère une explosion massive de plasma surchauffé à partir d'une charge de bioferrite pressurisée, détruisant tout ce qui est touché. Le vaporisateur doit être rechargé après chaque utilisation.</VWEB_HeavyIncinerator.description>
+<!-- EN: burner charge -->
+<VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.chargeNoun>charge de brûleur</VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.chargeNoun>
+<!-- EN: on cooldown -->
+<VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>en recharge</VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<!-- EN: stock -->
+<VWEB_HeavyIncinerator.tools.stock.label>crosse</VWEB_HeavyIncinerator.tools.stock.label>
+<!-- EN: barrel -->
+<VWEB_HeavyIncinerator.tools.barrel.label>canon</VWEB_HeavyIncinerator.tools.barrel.label>
+<!-- EN: heavy incinerator -->
+<VWEB_HeavyIncinerator.verbs.Verb_ArcSprayIncineratorHeavy.label>incinérateur lourd</VWEB_HeavyIncinerator.verbs.Verb_ArcSprayIncineratorHeavy.label>
+
+
+</LanguageData>

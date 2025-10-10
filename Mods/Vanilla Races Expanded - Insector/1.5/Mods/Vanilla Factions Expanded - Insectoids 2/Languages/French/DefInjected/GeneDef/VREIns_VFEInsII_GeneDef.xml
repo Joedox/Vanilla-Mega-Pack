@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_SwarmSynapse.label>synapse d'essaim</VRE_SwarmSynapse.label>
+<VRE_SwarmSynapse.description>Les porteurs de ce gène forment un essaim synaptique, ce qui permet à leurs esprits de se relier et d'accélérer l'apprentissage lorsqu'ils sont ensemble. À l'instar d'une ruche d'insectes, leur intelligence collective et leur vitesse d'absorption des connaissances augmentent avec chaque membre supplémentaire.</VRE_SwarmSynapse.description>
+<VRE_SwarmSynapse.customEffectDescriptions.0>Augmente la vitesse d'apprentissage globale de chaque colon de la colonie possédant le gène Synapse d'essaim.</VRE_SwarmSynapse.customEffectDescriptions.0>
+<VRE_SwarmSynapse.customEffectDescriptions.1>Le nombre de colons possédant le gène est rafraîchi tous les 10 000 ticks (4 heures en jeu) pour éviter le lag.</VRE_SwarmSynapse.customEffectDescriptions.1>
+
+<VRE_RoyalJellyInjector.label>injecteur de gelée royale</VRE_RoyalJellyInjector.label>
+<VRE_RoyalJellyInjector.description>Les porteurs de ce gène développent une bouche d'injecteur spécialisée qui leur permet d'administrer de la gelée royale à d'autres personnes. Cette injection renforce l'immunité et améliore l'humeur du receveur, mais elle laisse une petite blessure et ne peut être effectuée que toutes les 6 heures.</VRE_RoyalJellyInjector.description>
+
+<VRE_PyroResistantChitin.label>chitine pyro-résistante</VRE_PyroResistantChitin.label>
+<VRE_PyroResistantChitin.description>Les porteurs de ce gène développent une chitine pyro-résistante, ce qui réduit considérablement leur inflammabilité et les dégâts causés par les flammes. Ils restent calmes dans les situations enflammées, ne cédant jamais à la panique lorsqu'ils sont en feu.</VRE_PyroResistantChitin.description>
+<VRE_PyroResistantChitin.customEffectDescriptions.0>Ne s'enfuit pas en panique s'il est en feu.</VRE_PyroResistantChitin.customEffectDescriptions.0>
+<VRE_PyroResistantChitin.symbolPack.prefixSymbols.0.symbol>carburant</VRE_PyroResistantChitin.symbolPack.prefixSymbols.0.symbol>
+<VRE_PyroResistantChitin.symbolPack.prefixSymbols.1.symbol>chem</VRE_PyroResistantChitin.symbolPack.prefixSymbols.1.symbol>
+<VRE_PyroResistantChitin.symbolPack.prefixSymbols.2.symbol>pétrole</VRE_PyroResistantChitin.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_FlameGlands.label>glandes de flammes</VRE_FlameGlands.label>
+<VRE_FlameGlands.description>Les porteurs de ce gène possèdent des glandes à flammes qui leur permettent de cracher un liquide combustible par la bouche. Ce liquide s'enflamme au contact, embrasant les cibles ou les surfaces, grâce à une glande spéciale et à un sac qui produisent et stockent la substance enflammée.</VRE_FlameGlands.description>
+<VRE_FlameGlands.symbolPack.prefixSymbols.0.symbol>feu</VRE_FlameGlands.symbolPack.prefixSymbols.0.symbol>
+<VRE_FlameGlands.symbolPack.prefixSymbols.1.symbol>flamme</VRE_FlameGlands.symbolPack.prefixSymbols.1.symbol>
+<VRE_FlameGlands.symbolPack.prefixSymbols.2.symbol>brûler</VRE_FlameGlands.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_LocustWings.label>ailes de criquets</VRE_LocustWings.label>
+<VRE_LocustWings.description>Les porteurs de ce gène développent des ailes de criquet, ce qui leur confère la capacité spéciale d'effectuer un saut de criquet. Cela leur permet de voler sur de courtes distances en imitant les sauts puissants et agiles des criquets.</VRE_LocustWings.description>
+<VRE_LocustWings.symbolPack.prefixSymbols.0.symbol>vol</VRE_LocustWings.symbolPack.prefixSymbols.0.symbol>
+<VRE_LocustWings.symbolPack.prefixSymbols.1.symbol>saut</VRE_LocustWings.symbolPack.prefixSymbols.1.symbol>
+<VRE_LocustWings.symbolPack.suffixSymbols.0.symbol>coureur</VRE_LocustWings.symbolPack.suffixSymbols.0.symbol>
+<VRE_LocustWings.symbolPack.suffixSymbols.1.symbol>sauter</VRE_LocustWings.symbolPack.suffixSymbols.1.symbol>
+<VRE_LocustWings.symbolPack.suffixSymbols.2.symbol>flier</VRE_LocustWings.symbolPack.suffixSymbols.2.symbol>
+<VRE_LocustWings.symbolPack.suffixSymbols.3.symbol>vol</VRE_LocustWings.symbolPack.suffixSymbols.3.symbol>
+
+<VRE_InsectRostrum.label>rostre d'insecte</VRE_InsectRostrum.label>
+<VRE_InsectRostrum.description>Les porteurs de ce gène possèdent un rostre d'insecte, une structure large et pointue ressemblant à un proboscis d'abeille. Cette adaptation quadruple leur vitesse de consommation et leur confère une puissante attaque de morsure en mêlée, qui inflige d'importants dégâts coupants avec un temps de recharge rapide.</VRE_InsectRostrum.description>
+<VRE_InsectRostrum.labelShortAdj>mandibulé</VRE_InsectRostrum.labelShortAdj>
+<VRE_InsectRostrum.symbolPack.prefixSymbols.0.symbol>insecte</VRE_InsectRostrum.symbolPack.prefixSymbols.0.symbol>
+<VRE_InsectRostrum.symbolPack.prefixSymbols.1.symbol>mandibule</VRE_InsectRostrum.symbolPack.prefixSymbols.1.symbol>
+
+<VRE_AcidGlands.label>glandes acides</VRE_AcidGlands.label>
+<VRE_AcidGlands.description>Les porteurs de ce gène développent des glandes acides qui leur permettent de cracher de l'acide par le cou, endommageant les bâtiments, les personnes et les objets dans la zone ciblée.</VRE_AcidGlands.description>
+<VRE_AcidGlands.symbolPack.prefixSymbols.0.symbol>acide</VRE_AcidGlands.symbolPack.prefixSymbols.0.symbol>
+<VRE_AcidGlands.symbolPack.prefixSymbols.1.symbol>veno</VRE_AcidGlands.symbolPack.prefixSymbols.1.symbol>
+
+<VRE_InfraredSensors.label>capteurs infrarouges</VRE_InfraredSensors.label>
+<VRE_InfraredSensors.description>Les porteurs de ce gène possèdent des capteurs infrarouges qui leur permettent de voir clairement dans l'obscurité. Ils ne subissent aucune pénalité de vitesse de travail ou de mouvement dans l'obscurité, et bénéficient d'une meilleure précision à longue portée.</VRE_InfraredSensors.description>
+
+<VRE_MineralRichInsectskin.label>peau d'insecte riche en minéraux</VRE_MineralRichInsectskin.label>
+<VRE_MineralRichInsectskin.description>Les porteurs de ce gène développent une peau d'insecte riche en minéraux, formant un épais placage protecteur sur leur peau. Cette armure naturelle offre une protection importante jusqu'à ce qu'elle soit suffisamment endommagée pour se briser.</VRE_MineralRichInsectskin.description>
+
+<VRE_ChargerClaws.label>pinces de charge</VRE_ChargerClaws.label>
+<VRE_ChargerClaws.description>Les porteurs de ce gène développent de grandes pinces de charge, ce qui leur permet de charger une cible, d'infliger des dégâts importants à tout ce qui se trouve sur leur chemin et de détruire facilement les défenses, avec la possibilité d'effectuer cette action périodiquement et sur une distance considérable.</VRE_ChargerClaws.description>
+
+<VRE_Microsized.label>minuscule</VRE_Microsized.label>
+<VRE_Microsized.description>Les porteurs de ce gène présentent une stature microdimensionnelle, nettement plus petite que leurs congénères. Leur taille réduite se traduit par une durée d'étalement plus longue, un rendement en viande et en cuir plus faible et un besoin de faim plus petit mais plus efficace.</VRE_Microsized.description>
+<VRE_Microsized.symbolPack.prefixSymbols.0.symbol>petit</VRE_Microsized.symbolPack.prefixSymbols.0.symbol>
+<VRE_Microsized.symbolPack.prefixSymbols.1.symbol>minuscule</VRE_Microsized.symbolPack.prefixSymbols.1.symbol>
+<VRE_Microsized.symbolPack.prefixSymbols.2.symbol>mini</VRE_Microsized.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_Colossal.label>colossal</VRE_Colossal.label>
+<VRE_Colossal.description>Les porteurs de ce gène atteignent des proportions colossales, dépassant leurs pairs. Leur taille immense augmente le rendement en viande et en cuir et les besoins en nourriture, tout en réduisant la vitesse de déplacement et les chances d'esquive en mêlée. S'ils sont équipés des bonnes améliorations, ils peuvent porter les armes les plus lourdes et l'armement warcasket.</VRE_Colossal.description>
+<VRE_Colossal.symbolPack.prefixSymbols.0.symbol>large</VRE_Colossal.symbolPack.prefixSymbols.0.symbol>
+<VRE_Colossal.symbolPack.prefixSymbols.1.symbol>grand</VRE_Colossal.symbolPack.prefixSymbols.1.symbol>
+<VRE_Colossal.symbolPack.prefixSymbols.2.symbol>magni</VRE_Colossal.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_ChemfuelSacks.label>sacs de chemfuel</VRE_ChemfuelSacks.label>
+<VRE_ChemfuelSacks.description>Les porteurs de ce gène développent des sacs de chemfuel ressemblant à une queue, ce qui augmente considérablement leur sensibilité aux dommages causés par les flammes. S'ils sont engloutis dans des flammes suffisamment importantes ou s'ils meurent, ils explosent. De plus, il est possible de les "traire" périodiquement pour obtenir du chemfuel.</VRE_ChemfuelSacks.description>
+<VRE_ChemfuelSacks.customEffectDescriptions.0>Le temps passé à courir en panique lorsqu'il est mis en feu est doublé.</VRE_ChemfuelSacks.customEffectDescriptions.0>
+<VRE_ChemfuelSacks.customEffectDescriptions.1>Produit 30 chemfuel tous les 10 jours.</VRE_ChemfuelSacks.customEffectDescriptions.1>
+<VRE_ChemfuelSacks.customEffectDescriptions.2>S'il est enflammé et que le feu a une taille d'au moins 35, il explose dans une explosion de feu. Après l'explosion, il n'explosera plus pendant 24 heures.</VRE_ChemfuelSacks.customEffectDescriptions.2>
+<VRE_ChemfuelSacks.symbolPack.prefixSymbols.0.symbol>carburant</VRE_ChemfuelSacks.symbolPack.prefixSymbols.0.symbol>
+<VRE_ChemfuelSacks.symbolPack.prefixSymbols.1.symbol>chem</VRE_ChemfuelSacks.symbolPack.prefixSymbols.1.symbol>
+<VRE_ChemfuelSacks.symbolPack.prefixSymbols.2.symbol>pétrole</VRE_ChemfuelSacks.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_Pyrophiliac.label>pyrophile</VRE_Pyrophiliac.label>
+<VRE_Pyrophiliac.description>Les porteurs de ce gène possèdent une nature pyrophile, manifestant une fascination et un amour pour le feu. Ils sont attirés par les flammes et trouvent du réconfort et de la joie en leur présence.</VRE_Pyrophiliac.description>
+<VRE_Pyrophiliac.symbolPack.prefixSymbols.0.symbol>feu</VRE_Pyrophiliac.symbolPack.prefixSymbols.0.symbol>
+<VRE_Pyrophiliac.symbolPack.prefixSymbols.1.symbol>flamme</VRE_Pyrophiliac.symbolPack.prefixSymbols.1.symbol>
+<VRE_Pyrophiliac.symbolPack.prefixSymbols.2.symbol>pyro</VRE_Pyrophiliac.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_InsectVolatile.label>volatile</VRE_InsectVolatile.label>
+<VRE_InsectVolatile.description>Les porteurs de ce gène ont un comportement instable, augmentant considérablement leur probabilité d'initier des bagarres sociales et de s'assurer que leurs crises de nerfs sont toujours violentes lorsque c'est possible. Ils ont une tendance accrue à tenter des évasions de prison et utilisent des armes dans les confrontations sociales.</VRE_InsectVolatile.description>
+<VRE_InsectVolatile.customEffectDescriptions.0>Utilise des armes dans les conflits sociaux.</VRE_InsectVolatile.customEffectDescriptions.0>
+<VRE_InsectVolatile.symbolPack.prefixSymbols.0.symbol>aggro</VRE_InsectVolatile.symbolPack.prefixSymbols.0.symbol>
+<VRE_InsectVolatile.symbolPack.prefixSymbols.1.symbol>sauvage</VRE_InsectVolatile.symbolPack.prefixSymbols.1.symbol>
+<VRE_InsectVolatile.symbolPack.prefixSymbols.2.symbol>vola</VRE_InsectVolatile.symbolPack.prefixSymbols.2.symbol>
+
+<VRE_EcdysoneOverdrive.label>ecdysone surmultipliée</VRE_EcdysoneOverdrive.label>
+<VRE_EcdysoneOverdrive.description>Les porteurs de ce gène souffrent d'un excès d'ecdysone, ce qui crée un besoin constant de satiété. Les périodes prolongées sans mort en mêlée sont de plus en plus pénalisantes pour l'humeur, ce qui les pousse à des confrontations violentes pour maintenir leur équilibre mental.</VRE_EcdysoneOverdrive.description>
+<VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.0.symbol>aggro</VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.0.symbol>
+<VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.1.symbol>tueur</VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.1.symbol>
+
+<VRE_AcidBurstSack.label>jaillissement d'acide</VRE_AcidBurstSack.label>
+<VRE_AcidBurstSack.description>Les porteurs de ce gène possèdent une poche d'acide, qui déclenche une explosion d'acide corrosif lorsqu'ils sont gravement touchés. Cette explosion affecte tout ce qui se trouve dans un large rayon, causant des dégâts continus à ceux qui sont pris dans le souffle de l'explosion.</VRE_AcidBurstSack.description>
+
+<VRE_SolidGreyMatter.label>matière grise solide</VRE_SolidGreyMatter.label>
+<VRE_SolidGreyMatter.description>Les porteurs de ce gène ont une matière grise solidifiée, ce qui se traduit par une incapacité totale à acquérir de nouvelles compétences. Ils subissent une perte de compétences accélérée, qui les affecte même à des niveaux de compétences inférieurs.</VRE_SolidGreyMatter.description>
+<VRE_SolidGreyMatter.customEffectDescriptions.0>Multiplicateur de perte de compétence globale : x2</VRE_SolidGreyMatter.customEffectDescriptions.0>
+<VRE_SolidGreyMatter.customEffectDescriptions.1>La perte de compétences s'applique même en dessous du niveau 10.</VRE_SolidGreyMatter.customEffectDescriptions.1>
+<VRE_SolidGreyMatter.symbolPack.prefixSymbols.0.symbol>thag</VRE_SolidGreyMatter.symbolPack.prefixSymbols.0.symbol>
+<VRE_SolidGreyMatter.symbolPack.prefixSymbols.1.symbol>grunt</VRE_SolidGreyMatter.symbolPack.prefixSymbols.1.symbol>
+<VRE_SolidGreyMatter.symbolPack.prefixSymbols.2.symbol>stupid</VRE_SolidGreyMatter.symbolPack.prefixSymbols.2.symbol>
+<VRE_SolidGreyMatter.symbolPack.prefixSymbols.3.symbol>dull</VRE_SolidGreyMatter.symbolPack.prefixSymbols.3.symbol>
+<VRE_SolidGreyMatter.symbolPack.prefixSymbols.4.symbol>dumb</VRE_SolidGreyMatter.symbolPack.prefixSymbols.4.symbol>
+
+<VRE_HardLockedJoints.label>articulations durcies</VRE_HardLockedJoints.label>
+<VRE_HardLockedJoints.description>Les porteurs de ce gène ont des articulations bloquées, ce qui ralentit considérablement leurs mouvements. Leurs articulations inflexibles rendent les flexions et les actions rapides extrêmement difficiles.</VRE_HardLockedJoints.description>
+<VRE_HardLockedJoints.symbolPack.prefixSymbols.0.symbol>lent</VRE_HardLockedJoints.symbolPack.prefixSymbols.0.symbol>
+<VRE_HardLockedJoints.symbolPack.prefixSymbols.1.symbol>verrouiller</VRE_HardLockedJoints.symbolPack.prefixSymbols.1.symbol>
+
+<VRE_PassiveInsect.label>passif</VRE_PassiveInsect.label>
+<VRE_PassiveInsect.description>Les porteurs de ce gène sont intrinsèquement passifs, ne s'intéressent pas au combat et sont incapables d'y participer. Leur nature les pousse à éviter toute confrontation violente.</VRE_PassiveInsect.description>
+
+
+</LanguageData>

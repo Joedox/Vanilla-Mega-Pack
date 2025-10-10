@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Anima Banshee -->
+<VPE_AnimaBansheeSTNL.label>banshee anima</VPE_AnimaBansheeSTNL.label>
+<!-- EN: Generate an overwhelming rush of fear in everyone near the target point. Considered an overt act of aggression. -->
+<VPE_AnimaBansheeSTNL.description>Génère une vague de peur chez tous ceux qui se trouvent à proximité du point ciblé. Considéré comme un acte d'agression délibéré.</VPE_AnimaBansheeSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AnimaBansheeSTNL.jobReportString>Utilise la capacité : {0}</VPE_AnimaBansheeSTNL.jobReportString>
+<!-- EN: Anima Banshee -->
+<VPE_AnimaBansheeSTNL.verbProperties.label>banshee anima</VPE_AnimaBansheeSTNL.verbProperties.label>
+
+<!-- EN: Animeditation -->
+<VPE_AnimameditateSTNL.label>animéditation</VPE_AnimameditateSTNL.label>
+<!-- EN: Concentrate on your connection to the Anima tree, allowing you to restore your psyfocus and gain experience towards your next Psy-level. -->
+<VPE_AnimameditateSTNL.description>Concentrez-vous sur votre connexion à l'arbre anima, ce qui vous permettra de restaurer votre concentration psychique et d'acquérir de l'expérience en vue de votre prochain niveau psychique.</VPE_AnimameditateSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AnimameditateSTNL.jobReportString>Utilise la capacité : {0}</VPE_AnimameditateSTNL.jobReportString>
+<!-- EN: Animeditation -->
+<VPE_AnimameditateSTNL.verbProperties.label>animéditation</VPE_AnimameditateSTNL.verbProperties.label>
+
+<!-- EN: Anima Mind -->
+<VPE_AnimaMindSTNL.label>esprit anima</VPE_AnimaMindSTNL.label>
+<!-- EN: Link yourself to a distant greater Anima tree, causing it to raise your consciousness and psychic sensitivity. -->
+<VPE_AnimaMindSTNL.description>Liez-vous à un grand arbre anima lointain, afin qu'il élève votre conscience et votre sensibilité psychique.</VPE_AnimaMindSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AnimaMindSTNL.jobReportString>Utilise la capacité : {0}</VPE_AnimaMindSTNL.jobReportString>
+<!-- EN: Anima Mind -->
+<VPE_AnimaMindSTNL.verbProperties.label>esprit anima</VPE_AnimaMindSTNL.verbProperties.label>
+
+<!-- EN: Anima Reap -->
+<VPE_AnimaReapSTNL.label>récolte anima</VPE_AnimaReapSTNL.label>
+<!-- EN: Rip the energy out of the target, using it to strengthen your connection to the Greater Anima tree. -->
+<VPE_AnimaReapSTNL.description>Arrache l'énergie de la cible et l'utilise pour renforcer votre lien avec le grand arbre anima.</VPE_AnimaReapSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AnimaReapSTNL.jobReportString>Utilise la capacité : {0}</VPE_AnimaReapSTNL.jobReportString>
+<!-- EN: Anima Reap -->
+<VPE_AnimaReapSTNL.verbProperties.label>récolte anima</VPE_AnimaReapSTNL.verbProperties.label>
+
+<!-- EN: Anima Attunement -->
+<VPE_AnimattuneSTNL.label>harmonisation anima</VPE_AnimattuneSTNL.label>
+<!-- EN: Attune your mind to the Anima tree, raising your psychic sensitivity. -->
+<VPE_AnimattuneSTNL.description>Harmonise votre esprit avec l'arbre anima, augmentant ainsi votre sensibilité psychique.</VPE_AnimattuneSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AnimattuneSTNL.jobReportString>Utilise la capacité : {0}</VPE_AnimattuneSTNL.jobReportString>
+<!-- EN: Anima Attunement -->
+<VPE_AnimattuneSTNL.verbProperties.label>harmonisation anima</VPE_AnimattuneSTNL.verbProperties.label>
+
+<!-- EN: Anima Vertigo -->
+<VPE_AnimaVertigoSTNL.label>vertige anima</VPE_AnimaVertigoSTNL.label>
+<!-- EN: Generate an overwhelming feeling of vertigo in everyone near the target point. Considered an overt act of aggression. -->
+<VPE_AnimaVertigoSTNL.description>Génère une sensation de vertige écrasante chez toutes les personnes se trouvant à proximité du point ciblé. Considéré comme un acte d'agression délibéré.</VPE_AnimaVertigoSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AnimaVertigoSTNL.jobReportString>Utilise la capacité : {0}</VPE_AnimaVertigoSTNL.jobReportString>
+<!-- EN: Anima Vertigo -->
+<VPE_AnimaVertigoSTNL.verbProperties.label>vertige anima</VPE_AnimaVertigoSTNL.verbProperties.label>
+
+<!-- EN: Anima Mote -->
+<VPE_SummonmoteSTNL.label>particule anima</VPE_SummonmoteSTNL.label>
+<!-- EN: Psychically manifest a mote of Anima energy, allowing any psycaster to convert it to 25% psyfocus. -->
+<VPE_SummonmoteSTNL.description>Manifeste psychiquement une particule d'énergie anima, permettant à n'importe quel psylanceur de la convertir en 25% de concentration psychique.</VPE_SummonmoteSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SummonmoteSTNL.jobReportString>Utilise la capacité : {0}</VPE_SummonmoteSTNL.jobReportString>
+<!-- EN: Anima Mote -->
+<VPE_SummonmoteSTNL.verbProperties.label>particule anima</VPE_SummonmoteSTNL.verbProperties.label>
+
+<!-- EN: Anima-Link -->
+<VPE_SummonpsylinkSTNL.label>lien anima</VPE_SummonpsylinkSTNL.label>
+<!-- EN: Psychically manifest an Anima-Link, allowing another person to develop psychic powers. Or to be used by a psycaster to raise their level. -->
+<VPE_SummonpsylinkSTNL.description>Manifeste psychiquement un lien anima, permettant à une autre personne de développer des pouvoirs psychiques. Ou d'être utilisé par un psylanceur pour augmenter son niveau.</VPE_SummonpsylinkSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SummonpsylinkSTNL.jobReportString>Utilise la capacité : {0}</VPE_SummonpsylinkSTNL.jobReportString>
+<!-- EN: Anima-Link -->
+<VPE_SummonpsylinkSTNL.verbProperties.label>lien anima</VPE_SummonpsylinkSTNL.verbProperties.label>
+
+<!-- EN: Anima Wisp -->
+<VPE_SummonWispSTNL.label>fragment anima</VPE_SummonWispSTNL.label>
+<!-- EN: Psychically manifest a wisp of Anima energy, allowing any psycaster to convert it to 100% psyfocus. -->
+<VPE_SummonWispSTNL.description>Manifeste psychiquement un fragment d'énergie anima, permettant à n'importe quel psylanceur de le convertir en 100% de concentration psychique.</VPE_SummonWispSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SummonWispSTNL.jobReportString>Utilise la capacité : {0}</VPE_SummonWispSTNL.jobReportString>
+<!-- EN: Anima Wisp -->
+<VPE_SummonWispSTNL.verbProperties.label>fragment anima</VPE_SummonWispSTNL.verbProperties.label>
+
+
+</LanguageData>

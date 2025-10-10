@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: salvaged laser weapon -->
+<LaserRandom.label>arme laser expérimentale</LaserRandom.label>
+<!-- EN: A bunch of components that when assembled can create a salvaged laser weapon. -->
+<LaserRandom.description>Un tas de composants qui, une fois assemblés, peuvent créer une arme laser expérimentale.</LaserRandom.description>
+
+
+<!-- EN: unfinished laser gun -->
+<UnfinishedSalvagedLaserGun.label>canon laser inachevé</UnfinishedSalvagedLaserGun.label>
+
+
+<!-- EN: laser beam -->
+<VWELBeamGraphic.label>faisceau laser</VWELBeamGraphic.label>
+
+
+<!-- EN: Mote -->
+<HeatGlow.label>Mote</HeatGlow.label>
+
+<!-- EN: Mote -->
+<MicroSparksFast.label>Mote</MicroSparksFast.label>
+
+<!-- EN: Mote -->
+<VWEL_Mote_BloodPuff.label>Mote</VWEL_Mote_BloodPuff.label>
+
+
+<!-- EN: laser sword -->
+<VWEL_LaserSword.label>épée laser</VWEL_LaserSword.label>
+<!-- EN: An ultratech device consisting of a handle and an extendable laser blade. A weapon of gentlemen. -->
+<VWEL_LaserSword.description>Un dispositif Ultratech composé d'une poignée et d'une lame laser extensible. Une arme de gentlemen.</VWEL_LaserSword.description>
+<!-- EN: handle -->
+<VWEL_LaserSword.tools.handle.label>poignée</VWEL_LaserSword.tools.handle.label>
+<!-- EN: point -->
+<VWEL_LaserSword.tools.point.label>pointe</VWEL_LaserSword.tools.point.label>
+<!-- EN: blade -->
+<VWEL_LaserSword.tools.blade.label>lame</VWEL_LaserSword.tools.blade.label>
+
+
+<!-- EN: laser minigun shot -->
+<VWEL_Bullet_LaserMinigun.label>tir minigun laser</VWEL_Bullet_LaserMinigun.label>
+<!-- EN: A narrow, focused laser beam from a multibarrel weapon. -->
+<VWEL_Bullet_LaserMinigun.description>Un faisceau laser étroit et focalisé provenant d'une arme à barils multiples.</VWEL_Bullet_LaserMinigun.description>
+
+<!-- EN: laser pistol shot -->
+<VWEL_Bullet_LaserPistol.label>tir pistolet laser</VWEL_Bullet_LaserPistol.label>
+
+<!-- EN: laser shot -->
+<VWEL_Bullet_LaserRifle.label>tir laser</VWEL_Bullet_LaserRifle.label>
+<!-- EN: A focused laser beam. -->
+<VWEL_Bullet_LaserRifle.description>Un faisceau laser focalisé.</VWEL_Bullet_LaserRifle.description>
+
+<!-- EN: laser scatter shot -->
+<VWEL_Bullet_LaserShotgun.label>tir dispersion laser</VWEL_Bullet_LaserShotgun.label>
+<!-- EN: A broken down laser beam. -->
+<VWEL_Bullet_LaserShotgun.description>Un rayon laser décomposé.</VWEL_Bullet_LaserShotgun.description>
+
+<!-- EN: precise laser shot -->
+<VWEL_Bullet_LaserSniperRifle.label>tir fusil de précision Laser</VWEL_Bullet_LaserSniperRifle.label>
+<!-- EN: A focused, long range laser beam. -->
+<VWEL_Bullet_LaserSniperRifle.description>Un faisceau laser focalisé et à longue portée.</VWEL_Bullet_LaserSniperRifle.description>
+
+<!-- EN: unstable laser pistol shot -->
+<VWEL_Bullet_SalvagedLaserPistol.label>tir pistolet laser instable</VWEL_Bullet_SalvagedLaserPistol.label>
+
+<!-- EN: unstable laser shot -->
+<VWEL_Bullet_SalvagedLaserRifle.label>tir laser instable</VWEL_Bullet_SalvagedLaserRifle.label>
+<!-- EN: An unstable laser beam. -->
+<VWEL_Bullet_SalvagedLaserRifle.description>Un faisceau laser instable.</VWEL_Bullet_SalvagedLaserRifle.description>
+
+<!-- EN: unstable laser scatter shot -->
+<VWEL_Bullet_SalvagedLaserShotgun.label>tir dispersion laser instable</VWEL_Bullet_SalvagedLaserShotgun.label>
+<!-- EN: Am unstable, broken down laser beam. -->
+<VWEL_Bullet_SalvagedLaserShotgun.description>Un rayon laser instable, décomposé.</VWEL_Bullet_SalvagedLaserShotgun.description>
+
+<!-- EN: unstable precise laser shot -->
+<VWEL_Bullet_SalvagedLaserSniperRifle.label>tir fusil de précision laser instable</VWEL_Bullet_SalvagedLaserSniperRifle.label>
+<!-- EN: An unstable long range laser beam. -->
+<VWEL_Bullet_SalvagedLaserSniperRifle.description>Un rayon laser instable à longue portée.</VWEL_Bullet_SalvagedLaserSniperRifle.description>
+
+<!-- EN: tesla shot -->
+<VWEL_Bullet_TeslaGun.label>tir Tesla</VWEL_Bullet_TeslaGun.label>
+<!-- EN: A lightning bolt emitted by a Tesla device. -->
+<VWEL_Bullet_TeslaGun.description>Un éclair émis par un dispositif Tesla.</VWEL_Bullet_TeslaGun.description>
+
+<!-- EN: laser minigun -->
+<VWEL_Gun_LaserMinigun.label>minigun laser</VWEL_Gun_LaserMinigun.label>
+<!-- EN: An ultratech multi-barrel device capable of emitting a concentrated beam of light with enough power to deal considerable damage with a long, continuous firing mode.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_LaserMinigun.description>Un minigun Ultratech capable d'émettre un faisceau de lumière concentré avec suffisamment de puissance pour infliger des dégâts considérables. \n\nEn utilisant des batteries à cellule avancées, cette arme est capable de surchauffer, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_LaserMinigun.description>
+<!-- EN: barrel -->
+<VWEL_Gun_LaserMinigun.tools.barrel.label>canon</VWEL_Gun_LaserMinigun.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_LaserMinigun.tools.grip.label>crosse</VWEL_Gun_LaserMinigun.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_LaserMinigun.verbs.Standard.label>minigun laser</VWEL_Gun_LaserMinigun.verbs.Standard.label>
+
+<!-- EN: laser pistol -->
+<VWEL_Gun_LaserPistol.label>pistolet laser</VWEL_Gun_LaserPistol.label>
+<!-- EN: An ultratech pistol capable of emitting a concentrated beam of light with enough power to deal considerable damage.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_LaserPistol.description>Un pistolet Ultratech capable d'émettre un faisceau de lumière concentré avec suffisamment de puissance pour infliger des dégâts considérables.\n\nEn utilisant des batteries à cellule avancées, cette arme est capable de surchauffer, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile.\n\nCette arme peut exploser lorsqu'elle atteint le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_LaserPistol.description>
+<!-- EN: barrel -->
+<VWEL_Gun_LaserPistol.tools.barrel.label>canon</VWEL_Gun_LaserPistol.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_LaserPistol.tools.grip.label>crosse</VWEL_Gun_LaserPistol.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_LaserPistol.verbs.Standard.label>pistolet laser</VWEL_Gun_LaserPistol.verbs.Standard.label>
+
+<!-- EN: laser rifle -->
+<VWEL_Gun_LaserRifle.label>fusil laser</VWEL_Gun_LaserRifle.label>
+<!-- EN: An ultratech rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over medium distance.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_LaserRifle.description>Un fusil Ultratech capable d'émettre un faisceau de lumière concentré avec suffisamment de puissance pour infliger des dégâts considérables. \n\nEn utilisant des batteries à cellule avancées, cette arme est capable de surchauffer, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_LaserRifle.description>
+<!-- EN: barrel -->
+<VWEL_Gun_LaserRifle.tools.barrel.label>canon</VWEL_Gun_LaserRifle.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_LaserRifle.tools.grip.label>crosse</VWEL_Gun_LaserRifle.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_LaserRifle.verbs.Standard.label>fusil laser</VWEL_Gun_LaserRifle.verbs.Standard.label>
+
+<!-- EN: laser shotgun -->
+<VWEL_Gun_LaserShotgun.label>fusil à pompe laser</VWEL_Gun_LaserShotgun.label>
+<!-- EN: An ultratech scatter gun capable of emitting several beams of light with enough power to deal considerable damage.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_LaserShotgun.description>Un fusil à pompe Ultratech capable d'émettre un faisceau de lumière concentré avec suffisamment de puissance pour infliger des dégâts considérables. \n\nEn utilisant des batteries à cellule avancées, cette arme est capable de surchauffer, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_LaserShotgun.description>
+<!-- EN: barrel -->
+<VWEL_Gun_LaserShotgun.tools.barrel.label>canon</VWEL_Gun_LaserShotgun.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_LaserShotgun.tools.grip.label>crosse</VWEL_Gun_LaserShotgun.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_LaserShotgun.verbs.Standard.label>fusil à pompe laser</VWEL_Gun_LaserShotgun.verbs.Standard.label>
+
+<!-- EN: laser SMG -->
+<VWEL_Gun_LaserSMG.label>SMG laser</VWEL_Gun_LaserSMG.label>
+<!-- EN: An ultratech submachine gun capable of emitting a concentrated beam of light with enough power to deal considerable damage.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_LaserSMG.description>Un SMG Ultratech capable d'émettre un faisceau de lumière concentré avec suffisamment de puissance pour infliger des dégâts considérables. \n\nEn utilisant des batteries à cellule avancées, cette arme est capable de surchauffer, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_LaserSMG.description>
+<!-- EN: barrel -->
+<VWEL_Gun_LaserSMG.tools.barrel.label>canon</VWEL_Gun_LaserSMG.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_LaserSMG.tools.grip.label>crosse</VWEL_Gun_LaserSMG.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_LaserSMG.verbs.Standard.label>SMG laser</VWEL_Gun_LaserSMG.verbs.Standard.label>
+
+<!-- EN: laser sniper rifle -->
+<VWEL_Gun_LaserSniperRifle.label>fusil de précision laser</VWEL_Gun_LaserSniperRifle.label>
+<!-- EN: An ultratech sniper rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over long range.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_LaserSniperRifle.description>Un fusil de précision Ultratech capable d'émettre un faisceau de lumière concentré avec suffisamment de puissance pour infliger des dégâts considérables. \n\nEn utilisant des batteries à cellule avancées, cette arme est capable de surchauffer, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_LaserSniperRifle.description>
+<!-- EN: barrel -->
+<VWEL_Gun_LaserSniperRifle.tools.barrel.label>canon</VWEL_Gun_LaserSniperRifle.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_LaserSniperRifle.tools.grip.label>crosse</VWEL_Gun_LaserSniperRifle.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_LaserSniperRifle.verbs.Standard.label>fusil de précision laser</VWEL_Gun_LaserSniperRifle.verbs.Standard.label>
+
+<!-- EN: salvaged laser pistol -->
+<VWEL_Gun_SalvagedLaserPistol.label>expérimental pistolet laser</VWEL_Gun_SalvagedLaserPistol.label>
+<!-- EN: A salvaged pistol capable of emitting an unstable beam of light with enough power to deal moderate damage.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_SalvagedLaserPistol.description>Un pistolet expérimental capable d'émettre un faisceau de lumière instable avec suffisamment de puissance pour infliger des dégâts modérés. \n\nEn utilisant des batteries à cellule de fortune, cette arme est capable de surchauffer rapidement, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint rapidement le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_SalvagedLaserPistol.description>
+<!-- EN: barrel -->
+<VWEL_Gun_SalvagedLaserPistol.tools.barrel.label>canon</VWEL_Gun_SalvagedLaserPistol.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_SalvagedLaserPistol.tools.grip.label>crosse</VWEL_Gun_SalvagedLaserPistol.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_SalvagedLaserPistol.verbs.Standard.label>expérimental pistolet laser</VWEL_Gun_SalvagedLaserPistol.verbs.Standard.label>
+
+<!-- EN: salvaged laser rifle -->
+<VWEL_Gun_SalvagedLaserRifle.label>expérimental fusil laser</VWEL_Gun_SalvagedLaserRifle.label>
+<!-- EN: A salvaged rifle capable of emitting an unstable beam of light with enough power to deal moderate damage over medium distance.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_SalvagedLaserRifle.description>Un fusil expérimental capable d'émettre un faisceau de lumière instable avec suffisamment de puissance pour infliger des dégâts modérés. \n\nEn utilisant des batteries à cellule de fortune, cette arme est capable de surchauffer rapidement, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint rapidement le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_SalvagedLaserRifle.description>
+<!-- EN: barrel -->
+<VWEL_Gun_SalvagedLaserRifle.tools.barrel.label>canon</VWEL_Gun_SalvagedLaserRifle.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_SalvagedLaserRifle.tools.grip.label>crosse</VWEL_Gun_SalvagedLaserRifle.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_SalvagedLaserRifle.verbs.Standard.label>expérimental fusil laser</VWEL_Gun_SalvagedLaserRifle.verbs.Standard.label>
+
+<!-- EN: salvaged laser shotgun -->
+<VWEL_Gun_SalvagedLaserShotgun.label>expérimental fusil à pompe laser</VWEL_Gun_SalvagedLaserShotgun.label>
+<!-- EN: A salvaged scattergun capable of emitting several unstable beams of light with enough power to deal moderate damage.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_SalvagedLaserShotgun.description>Un fusil à pompe expérimental capable d'émettre un faisceau de lumière instable avec suffisamment de puissance pour infliger des dégâts modérés. \n\nEn utilisant des batteries à cellule de fortune, cette arme est capable de surchauffer rapidement, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint rapidement le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_SalvagedLaserShotgun.description>
+<!-- EN: barrel -->
+<VWEL_Gun_SalvagedLaserShotgun.tools.barrel.label>canon</VWEL_Gun_SalvagedLaserShotgun.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_SalvagedLaserShotgun.tools.grip.label>crosse</VWEL_Gun_SalvagedLaserShotgun.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_SalvagedLaserShotgun.verbs.Standard.label>expérimental fusil à pompe laser</VWEL_Gun_SalvagedLaserShotgun.verbs.Standard.label>
+
+<!-- EN: salvaged laser sniper rifle -->
+<VWEL_Gun_SalvagedLaserSniperRifle.label>expérimental fusil de précision laser</VWEL_Gun_SalvagedLaserSniperRifle.label>
+<!-- EN: A salvaged sniper rifle capable of emitting an unstable beam of light with enough power to deal moderate damage over long distances.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user. -->
+<VWEL_Gun_SalvagedLaserSniperRifle.description>Un fusil de précision expérimental capable d'émettre un faisceau de lumière instable avec suffisamment de puissance pour infliger des dégâts modérés. \n\nEn utilisant des batteries à cellule de fortune, cette arme est capable de surchauffer rapidement, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nCette arme peut exploser lorsqu'elle atteint rapidement le seuil critique de surchauffe, ce qui entraine une petite explosion de la batterie autour de l'utilisateur.</VWEL_Gun_SalvagedLaserSniperRifle.description>
+<!-- EN: barrel -->
+<VWEL_Gun_SalvagedLaserSniperRifle.tools.barrel.label>canon</VWEL_Gun_SalvagedLaserSniperRifle.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_SalvagedLaserSniperRifle.tools.grip.label>crosse</VWEL_Gun_SalvagedLaserSniperRifle.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_SalvagedLaserSniperRifle.verbs.Standard.label>expérimental fusil de précision laser</VWEL_Gun_SalvagedLaserSniperRifle.verbs.Standard.label>
+
+<!-- EN: tesla gun -->
+<VWEL_Gun_TeslaGun.label>canon Tesla</VWEL_Gun_TeslaGun.label>
+<!-- EN: An ultratech arc lightning device capable of emitting a lightning bolt that disable electronic systems and sets enemies on fire.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nUsed widely by ultratech marines during mechanoid wars. -->
+<VWEL_Gun_TeslaGun.description>Un dispositif d'arc de foudre Ultratech capable d'émettre un éclair qui désactive les systèmes électroniques et met le feu aux ennemis. \n\nEn utilisant des batteries à cellule avancées, cette arme est capable de surchauffer, augmentant la vitesse de tir et pour chaque tir consécutif en restant immobile. \n\nLargement utilisé par les marines Ultratech pendant la guerre contre les Mécanoïdes.</VWEL_Gun_TeslaGun.description>
+<!-- EN: barrel -->
+<VWEL_Gun_TeslaGun.tools.barrel.label>canon</VWEL_Gun_TeslaGun.tools.barrel.label>
+<!-- EN: grip -->
+<VWEL_Gun_TeslaGun.tools.grip.label>crosse</VWEL_Gun_TeslaGun.tools.grip.label>
+<!-- EN: Standard -->
+<VWEL_Gun_TeslaGun.verbs.Standard.label>canon Tesla</VWEL_Gun_TeslaGun.verbs.Standard.label>
+
+
+</LanguageData>

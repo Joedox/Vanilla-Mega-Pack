@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: peacock egg (fert.) -->
+<VAERoy_EggPeacockFertilized.label>œuf de paon (fécondé)</VAERoy_EggPeacockFertilized.label>
+<!-- EN: A fertilized peacock egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked. -->
+<VAERoy_EggPeacockFertilized.description>Un œuf de paon fécondé. Si tout va bien, il devrait éclore en un paonneau. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggPeacockFertilized.description>
+
+<!-- EN: peacock egg (unfert.) -->
+<VAERoy_EggPeacockUnfertilized.label>œuf de paon (non fécondé)</VAERoy_EggPeacockUnfertilized.label>
+<!-- EN: An unfertilized peacock egg. It can be eaten raw, but it's much, much better cooked. -->
+<VAERoy_EggPeacockUnfertilized.description>Un œuf de paon non fécondé. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggPeacockUnfertilized.description>
+
+<!-- EN: quail egg (fert.) -->
+<VAERoy_EggQuailFertilized.label>œuf de caille (fécondé)</VAERoy_EggQuailFertilized.label>
+<!-- EN: A fertilized quail egg. If all goes well, it should hatch into a quail. It can be eaten raw, but it's much better cooked. -->
+<VAERoy_EggQuailFertilized.description>Un œuf de caille fécondé. Si tout va bien, il devrait éclore en un cailleteau. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggQuailFertilized.description>
+
+<!-- EN: quail egg (unfert.) -->
+<VAERoy_EggQuailUnfertilized.label>œuf de caille (non fécondé)</VAERoy_EggQuailUnfertilized.label>
+<!-- EN: An unfertilized quail egg. It can be eaten raw, but it's much, much better cooked. -->
+<VAERoy_EggQuailUnfertilized.description>Un œuf de caille non fécondé. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggQuailUnfertilized.description>
+
+<!-- EN: swan egg (fert.) -->
+<VAERoy_EggSwanFertilized.label>œuf de cygne (fécondé)</VAERoy_EggSwanFertilized.label>
+<!-- EN: A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked. -->
+<VAERoy_EggSwanFertilized.description>Un œuf de cygne fécondé. Si tout va bien, il devrait éclore en un cygneau. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggSwanFertilized.description>
+
+<!-- EN: swan egg (unfert.) -->
+<VAERoy_EggSwanUnfertilized.label>œuf de cygne (non fécondé)</VAERoy_EggSwanUnfertilized.label>
+<!-- EN: An unfertilized swan egg. It can be eaten raw, but it's much, much better cooked. -->
+<VAERoy_EggSwanUnfertilized.description>Un œuf de cygne non fécondé. Il peut être mangé cru, mais il est bien meilleur lorsqu'il est cuit.</VAERoy_EggSwanUnfertilized.description>
+
+<!-- EN: peacock -->
+<VAERoy_Peacock.label>paon</VAERoy_Peacock.label>
+<!-- EN: Beautiful, majestic royal birds genetically altered to be able to bestow psychic energy onto people they nuzzle.\n\n<color=#E5E54C>Gameplay effect:</color> Peacocks will periodically nuzzle your colonists. This increases Psychic Sensitivity of the nuzzled person by 25% for 12 hours. This stacks up to 8 times, resulting in +200% Psychic sensitivity if nuzzled by 8 peacocks. -->
+<VAERoy_Peacock.description>De beaux et majestueux oiseaux royaux génétiquement modifiés pour être capables de transmettre de l'énergie psychique aux personnes qu'ils câlinent.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Les paons vont périodiquement câliner vos colons. Ils augmentent la sensibilité psychique de la personne touchée de 25% pendant 12 heures. Cette action peut s'empiler jusqu'à 8 fois, ce qui donne une sensibilité psychique de +200% si 8 paons câlinent un colon.</VAERoy_Peacock.description>
+<!-- EN: claws -->
+<VAERoy_Peacock.tools.claws.label>griffes</VAERoy_Peacock.tools.claws.label>
+<!-- EN: beak -->
+<VAERoy_Peacock.tools.beak.label>bec</VAERoy_Peacock.tools.beak.label>
+<!-- EN: head -->
+<VAERoy_Peacock.tools.head.label>tête</VAERoy_Peacock.tools.head.label>
+
+<!-- EN: quail -->
+<VAERoy_Quail.label>caille</VAERoy_Quail.label>
+<!-- EN: Royal poultry bred specifically for human consumption, quail meat is one of a kind, with a taste so succulent it turns any meal into a lavish meal.\n\n<color=#E5E54C>Gameplay effect:</color> Their extremely tasty meat instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations. -->
+<VAERoy_Quail.description>Volaille royale élevée spécifiquement pour la consommation humaine, la viande de caille est unique en son genre, avec un goût si succulent qu'elle transforme n'importe quel plat en un plat gastronomique.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Leur viande extrêmement savoureuse transforme instantanément n'importe quel plat simple ou raffiné dans lequel elle est utilisée en un plat gastronomique. Elle transforme également les grillades et les gâteaux de Vanilla Cooking Expanded en leurs variantes gastronomiques.</VAERoy_Quail.description>
+<!-- EN: claws -->
+<VAERoy_Quail.tools.claws.label>griffes</VAERoy_Quail.tools.claws.label>
+<!-- EN: beak -->
+<VAERoy_Quail.tools.beak.label>bec</VAERoy_Quail.tools.beak.label>
+<!-- EN: head -->
+<VAERoy_Quail.tools.head.label>tête</VAERoy_Quail.tools.head.label>
+
+<!-- EN: swan -->
+<VAERoy_Swan.label>cygne</VAERoy_Swan.label>
+<!-- EN: One of the largest birds capable of flying, swans are often kept by royalty due to the beautiful nests of flowers they build for themselves. These nests have an extremely high beauty, but a swan will never build more than one.\n\n<color=#E5E54C>Gameplay effect:</color> Swans create their own sleeping spots that have extremely high beauty. These nests are auto-asigned to them as sleeping spots on creation. -->
+<VAERoy_Swan.description>L'un des plus grands oiseaux capables de voler, les cygnes sont souvent gardés par des membres de la famille royale en raison des magnifiques nids de fleurs qu'ils se construisent. Ces nids sont d'une très grande beauté, mais un cygne n'en construira jamais plus d'un.\n\n&lt;color=#E5E54C>Effet de jeu :&lt;/color> Les cygnes créent leurs propres lieux de nidification qui sont d'une très grande beauté. Ces nids leur sont attribués automatiquement comme lieux de repos à la création.</VAERoy_Swan.description>
+<!-- EN: claws -->
+<VAERoy_Swan.tools.claws.label>griffes</VAERoy_Swan.tools.claws.label>
+<!-- EN: beak -->
+<VAERoy_Swan.tools.beak.label>bec</VAERoy_Swan.tools.beak.label>
+<!-- EN: head -->
+<VAERoy_Swan.tools.head.label>tête</VAERoy_Swan.tools.head.label>
+
+
+</LanguageData>

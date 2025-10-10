@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_AntibioticsHigh.label>antibiotiques</VRE_AntibioticsHigh.label>
+<VRE_AntibioticsHigh.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh.description>
+
+<VRE_AntibioticsHigh_NoImmunity.label>antibiotiques</VRE_AntibioticsHigh_NoImmunity.label>
+<VRE_AntibioticsHigh_NoImmunity.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh_NoImmunity.description>
+
+<VRE_AntibioticsHigh_VeryWeak.label>antibiotiques</VRE_AntibioticsHigh_VeryWeak.label>
+<VRE_AntibioticsHigh_VeryWeak.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh_VeryWeak.description>
+
+<VRE_AntibioticsHigh_Weak.label>antibiotiques</VRE_AntibioticsHigh_Weak.label>
+<VRE_AntibioticsHigh_Weak.description>Un médicament pour stimuler le système immunitaire après que les infections se soient installées. Aide à lutter contre les maladies telles que le paludisme et la peste, ainsi que des infections dues à des plaies sales. Dure 12 heures. L'effet est plus fort en fonction de l'importance des gènes d'immunité de celui qui l'ingère (plus fort pour les sujets moins immunisés), et il est modifié par la tolérance de la personne au médicament.</VRE_AntibioticsHigh_Weak.description>
+
+<VRE_AntibioticsTolerance.label>tolérance aux antibiotiques</VRE_AntibioticsTolerance.label>
+<VRE_AntibioticsTolerance.description>Une tolérance croissante aux antibiotiques. Plus cette tolérance est sévère, plus il faut d'antibiotiques pour obtenir le même effet.</VRE_AntibioticsTolerance.description>
+<VRE_AntibioticsTolerance.stages.small.label>insignifiante</VRE_AntibioticsTolerance.stages.small.label>
+<VRE_AntibioticsTolerance.stages.large.label>forte</VRE_AntibioticsTolerance.stages.large.label>
+<VRE_AntibioticsTolerance.stages.massive.label>très forte</VRE_AntibioticsTolerance.stages.massive.label>
+
+<VRE_AntibioticsAddiction.label>addiction aux antibiotiques</VRE_AntibioticsAddiction.label>
+<VRE_AntibioticsAddiction.description>Une dépendance chimique aux antibiotiques. La présence à long terme d'antibiotiques a provoqué des adaptations neurologiques au niveau cellulaire, de sorte que le cerveau ne peut plus fonctionner correctement sans la drogue.\n\nSans doses régulières d'antibiotiques, les symptômes de sevrage commenceront. Cependant, une abstinence prolongée forcera le cerveau à revenir à son état normal, faisant disparaître la dépendance.</VRE_AntibioticsAddiction.description>
+<VRE_AntibioticsAddiction.stages.withdrawal.label>sevrage</VRE_AntibioticsAddiction.stages.withdrawal.label>
+
+<VRE_Hemophiliac.label>hémophile</VRE_Hemophiliac.label>
+<VRE_Hemophiliac.description>Un trouble de la coagulation qui arrête les facteurs de coagulation dans le sang, entraînant un taux de saignement beaucoup plus rapide en cas de blessure.</VRE_Hemophiliac.description>
+
+
+</LanguageData>

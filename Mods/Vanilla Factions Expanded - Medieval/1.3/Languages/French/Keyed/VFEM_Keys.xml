@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_MessageNeedsThePairedMeme>{0} a besoin qu'un des mèmes suivants soit également choisi pour fonctionner : {1}</VME_MessageNeedsThePairedMeme>
+
+<DesignatorDigTerrain>Creuser</DesignatorDigTerrain>
+<DesignatorDigTerrainDesc>Désigner un sol meuble à creuser.</DesignatorDigTerrainDesc>
+<DesignatorFillTerrain>Remblayer</DesignatorFillTerrain>
+<DesignatorFillTerrainDesc>Désigner un sol meuble à remblayer.</DesignatorFillTerrainDesc>
+
+<TerrainBeingDug>La surface est déjà marquée pour Creuser le sol.</TerrainBeingDug>
+<TerrainBeingFilled>La surface est déjà marquée pour Remblayer le sol.</TerrainBeingFilled>
+
+<MessageMustDesignateMoatableTerrain>Doit désigner un sol meuble.</MessageMustDesignateMoatableTerrain>
+
+<AtDeepestLevel>Niveau déjà au plus bas, impossible de creuser.</AtDeepestLevel>
+<AtHighestLevel>Niveau déjà au plus haut, impossible de remblayer.</AtHighestLevel>
+
+<CantFillWater>Il y a trop d'eau, pensez à utiliser une pompe.</CantFillWater>
+
+
+  <!-- Wine barrel -->
+										 <!-- EN  Must to Insert -->
+<VanillaFactionsExpanded.Wine.InsertFirstItemDesc>Insérer du moût</VanillaFactionsExpanded.Wine.InsertFirstItemDesc>
+<VanillaFactionsExpanded.Wine.bringIngredientsText>Apporter du moût</VanillaFactionsExpanded.Wine.bringIngredientsText>
+<VanillaFactionsExpanded.Wine.bringIngredientsDesc>Apporter le moût de vin dans le tonneau pour commencer la fermentation</VanillaFactionsExpanded.Wine.bringIngredientsDesc>
+<VanillaFactionsExpanded.Wine.cancelIngredientsText>Annuler</VanillaFactionsExpanded.Wine.cancelIngredientsText>
+<VanillaFactionsExpanded.Wine.cancelIngredientsDesc>Annuler l'apport du moût de vin dans le Tonneau.</VanillaFactionsExpanded.Wine.cancelIngredientsDesc>
+<VanillaFactionsExpanded.Wine.removeProductText>Extraire ({0})</VanillaFactionsExpanded.Wine.removeProductText>
+<VanillaFactionsExpanded.Wine.removeProductDesc>Retirer le vin du tonneau. Le tonneau sera prêt au niveau de qualité actuel ({0}).</VanillaFactionsExpanded.Wine.removeProductDesc>
+<!--
+  <VanillaFactionsExpanded.NoMust>besoin de moût de raisin</VanillaFactionsExpanded.NoMust>
+  <VanillaFactionsExpanded.ContainsMust>Contient {0} / {1} moût</VanillaFactionsExpanded.ContainsMust>
+  <VanillaFactionsExpanded.ContainsWine>Contient {0} / {1} vin</VanillaFactionsExpanded.ContainsWine>
+  <VanillaFactionsExpanded.TargetWineQuality>Qualité cible: {0}</VanillaFactionsExpanded.TargetWineQuality>
+  <VanillaFactionsExpanded.TargetWineQualityMulti>Définir la qualité cible</VanillaFactionsExpanded.TargetWineQualityMulti>
+  <VanillaFactionsExpanded.TargetWineQuality_Description>Vos colons retireront le vin de ce tonneau lorsqu'il atteindra la qualité cible spécifiée.</VanillaFactionsExpanded.TargetWineQuality_Description>
+-->
+
+
+  <!-- Smoker -->
+<VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>Insérer de la viande</VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>
+<VanillaFactionsExpanded.Smoker.bringIngredientsText>Apporter la viande</VanillaFactionsExpanded.Smoker.bringIngredientsText>
+<VanillaFactionsExpanded.Smoker.bringIngredientsDesc>Apporter la viande dans le fumoir pour commencer à la fumer</VanillaFactionsExpanded.Smoker.bringIngredientsDesc>
+<VanillaFactionsExpanded.Smoker.cancelIngredientsText>Annuler</VanillaFactionsExpanded.Smoker.cancelIngredientsText>
+<VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>Annuler l'apport de la viande dans le Fumoir.</VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>
+
+
+  <!-- Tournaments -->
+  <VanillaFactionsExpanded.TournamentDurationDays>Le tournoi durera {0} jours.</VanillaFactionsExpanded.TournamentDurationDays>
+  <VanillaFactionsExpanded.MedievalTournamentInspectString>Prix : {0} ({1} restant)</VanillaFactionsExpanded.MedievalTournamentInspectString>
+
+  <VanillaFactionsExpanded.AttendMedievalTournament>Assister {0}</VanillaFactionsExpanded.AttendMedievalTournament>
+  <VanillaFactionsExpanded.CaravanAttending>Assiste {0}</VanillaFactionsExpanded.CaravanAttending>
+
+  <VanillaFactionsExpanded.MedievalTournamentInitial>Ce tournoi est organisé par {0} de {1}, la catégorie est {2}. Il y a {3} autres concurrents dans ce tournoi, tous désireux d'avoir une chance de gagner les prix suivants : \n\n{4}</VanillaFactionsExpanded.MedievalTournamentInitial>
+
+  <VanillaFactionsExpanded.Participate>Participer</VanillaFactionsExpanded.Participate>
+  <VanillaFactionsExpanded.ParticipateInitial>Vous avez choisi de participer à ce tournoi. Nommer votre champion :</VanillaFactionsExpanded.ParticipateInitial>
+  <VanillaFactionsExpanded.PredictedPerformance>chances</VanillaFactionsExpanded.PredictedPerformance>
+  <VanillaFactionsExpanded.CannotParticipate>ne peut pas participer</VanillaFactionsExpanded.CannotParticipate>
+
+  <VanillaFactionsExpanded.TournamentWinLetter>Tournoi gagné</VanillaFactionsExpanded.TournamentWinLetter>
+  <VanillaFactionsExpanded.TournamentWinLetter_Text>Félicitations, {PAWN_labelShort} a terminé {0} sur {1} dans le tournoi ! Vous avez gagné de la réputation avec {2} et remporté les prix suivants : \n\n{3}</VanillaFactionsExpanded.TournamentWinLetter_Text>
+
+  <VanillaFactionsExpanded.TournamentLossLetter>Tournoi perdu</VanillaFactionsExpanded.TournamentLossLetter>
+  <VanillaFactionsExpanded.TournamentLossLetter_Text>{PAWN_labelShort} n'a malheureusement pas pu gagner le tournoi cette fois. {PAWN_pronoun} a terminé à la {0} place sur {1}.</VanillaFactionsExpanded.TournamentLossLetter_Text>
+
+  <VanillaFactionsExpanded.TournamentCancelledLetter>Tournoi annulé</VanillaFactionsExpanded.TournamentCancelledLetter>
+  <VanillaFactionsExpanded.TournamentCancelledLetter_Text>Le tournoi a dû être annulé en raison d'un incident.</VanillaFactionsExpanded.TournamentCancelledLetter_Text>
+
+  <VanillaFactionsExpanded.TournamentExpGains>{PAWN_labelShort} a acquis {0} d'expériences.</VanillaFactionsExpanded.TournamentExpGains>
+  <VanillaFactionsExpanded.LogEntryLine>Manche {0}: {1}</VanillaFactionsExpanded.LogEntryLine>
+
+  <VanillaFactionsExpanded.Leave>Partir</VanillaFactionsExpanded.Leave>
+
+
+  <!-- Black Plague -->
+<VFEM.BlackPlagueSpreadedFurther>La peste noire s'est répandue. {PAWN_nameDef} a été infecté par celle-ci. Envisager une quarantaine pour les colons infectés.</VFEM.BlackPlagueSpreadedFurther>
+
+
+  <!-- Enemy caravans -->
+<!--
+  <VanillaFactionsExpanded.AttackEnemyCaravan>Attaque {0}</VanillaFactionsExpanded.AttackEnemyCaravan>
+  <VanillaFactionsExpanded.AttackingEnemyCaravan>Attaquer {0}</VanillaFactionsExpanded.AttackingEnemyCaravan>
+-->
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: healing exhaustion -->
+<VPER_Healing_Ban.label>guérison épuisante</VPER_Healing_Ban.label>
+<!-- EN: The mentally-engraved rune of Berkana was used to restore this pawn's health some time ago. However, this has left them feeling slightly drained.\n\nWhile this effect lingers, the pawn cannot be healed by the effects of Invoke: Berkana. -->
+<VPER_Healing_Ban.description>La rune Berkana gravée mentalement a été utilisée pour restaurer la santé de cette personne il y a quelque temps. Cependant, ce dernier s'est senti légèrement épuisé.\n\nTant que cet effet persiste, la personne ne peut pas être soignée par l'effet Invoquer : Berkana.</VPER_Healing_Ban.description>
+
+<!-- EN: engraved Algiz -->
+<VPER_Runecircle_Defense.label>Algiz gravé</VPER_Runecircle_Defense.label>
+<!-- EN: The mentally-engraved rune of Algiz is reducing the damage this pawn takes. -->
+<VPER_Runecircle_Defense.description>La rune Algiz gravée mentalement réduit les dégâts subis de cette personne.</VPER_Runecircle_Defense.description>
+
+<!-- EN: engraved Teiwaz -->
+<VPER_Runecircle_Melee.label>Teiwaz gravé</VPER_Runecircle_Melee.label>
+<!-- EN: The mentally-engraved rune of Teiwaz is boosting this pawn's melee prowess. -->
+<VPER_Runecircle_Melee.description>La rune Teiwaz gravée mentalement augmente les prouesses de cette personne en mêlée.</VPER_Runecircle_Melee.description>
+
+<!-- EN: engraved Ehwaz -->
+<VPER_Runecircle_Speed.label>Ehwaz gravé</VPER_Runecircle_Speed.label>
+<!-- EN: The mentally-engraved rune of Ehwaz is boosting the speed of this pawn. -->
+<VPER_Runecircle_Speed.description>La rune Ehwaz gravée mentalement augmente la vitesse de cette personne.</VPER_Runecircle_Speed.description>
+
+<!-- EN: clinging frost -->
+<VPER_Slow.label>givre accroché</VPER_Slow.label>
+<!-- EN: Clinging frost is slowing down the movement of this pawn. -->
+<VPER_Slow.description>Le givre accroché à cette personne ralentit ses mouvements.</VPER_Slow.description>
+
+<!-- EN: clinging ice -->
+<VPER_SlowFragile.label>glace accrochée</VPER_SlowFragile.label>
+<!-- EN: Clinging ice is slowing down the movement of this pawn and causing them to take increased damage. -->
+<VPER_SlowFragile.description>La glace accrochée à cette personne ralentit ses mouvements et lui fait subir des dégâts accrus.</VPER_SlowFragile.description>
+
+
+</LanguageData>

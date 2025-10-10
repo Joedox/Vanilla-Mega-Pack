@@ -1,0 +1,1388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- archonte -->
+<!-- EN: blinding pulse -->
+<VPE_BlindingPulse.label>impulsion aveuglante</VPE_BlindingPulse.label>
+<!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity. -->
+<VPE_BlindingPulse.description>Induit un son dans le système optique du cerveau, qui obscurcit la vision de tous ceux qui se trouvent à proximité du point ciblé. Dure 30 secondes, affecté par la sensibilité psychique.</VPE_BlindingPulse.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BlindingPulse.jobReportString>Utilise la capacité : {0}</VPE_BlindingPulse.jobReportString>
+<!-- EN: impulsion aveuglante -->
+<VPE_BlindingPulse.verbProperties.label>impulsion aveuglante</VPE_BlindingPulse.verbProperties.label>
+
+<!-- EN: drain psyessence -->
+<VPE_DrainPsyessence.label>drainer psyessence</VPE_DrainPsyessence.label>
+<!-- EN: Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+<VPE_DrainPsyessence.description>Cible une personne ayant un talent psychique, pour lui induire un son psychique harmonique intense lui liquéfiant sa chair et la convertissant en psyessence, celle-ci sera absorbée par le psylanceur afin d'accroître ses propres compétences psychiques. Les derniers instants de la désintégration psychique seront ressentis par tous à plusieurs kilomètres à la ronde, entraînant des conséquences diplomatiques avec toutes les factions.</VPE_DrainPsyessence.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DrainPsyessence.jobReportString>Utilise la capacité : {0}</VPE_DrainPsyessence.jobReportString>
+<!-- EN: drainer psyessence -->
+<VPE_DrainPsyessence.verbProperties.label>drainer psyessence</VPE_DrainPsyessence.verbProperties.label>
+
+<!-- EN: group link -->
+<VPE_GroupLink.label>lien de groupe</VPE_GroupLink.label>
+<!-- EN: Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range. -->
+<VPE_GroupLink.description>Crée une sphère de persuasion psychique autour du psylanceur, liant tous les colons qui s'y trouvent au psylanceur, permettant à n'importe quel sort psychique "Mot de..." à cible unique d'affecter tous les autres. L'effet prend fin lorsque les personnes liées se déplacent hors de portée.</VPE_GroupLink.description>
+<!-- EN: Using ability: {0} -->
+<VPE_GroupLink.jobReportString>Utilise la capacité : {0}</VPE_GroupLink.jobReportString>
+<!-- EN: lien de groupe -->
+<VPE_GroupLink.verbProperties.label>lien de groupe</VPE_GroupLink.verbProperties.label>
+
+<!-- EN: mass hallucination -->
+<VPE_MassHallucination.label>hallucination de masse</VPE_MassHallucination.label>
+<!-- EN: Creating a massive burst of psychic suggestion, convinced nearby pawns that rooms are the absolute best they could possibly be. The resulting coma for the caster and the effect lasts for five days. -->
+<VPE_MassHallucination.description>Crée un souffle massif de persuasion psychique autour du lanceur, afin de convaincre les colons à proximité que les pièces sont parfaitement adaptées à leurs besoins. Le sort provoque un coma de 5 jours pour le psylanceur.</VPE_MassHallucination.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MassHallucination.jobReportString>Utilise la capacité : {0}</VPE_MassHallucination.jobReportString>
+<!-- EN: hallucination de masse -->
+<VPE_MassHallucination.verbProperties.label>hallucination de masse</VPE_MassHallucination.verbProperties.label>
+
+<!-- EN: mind break -->
+<VPE_MindBreak.label>briser l'esprit</VPE_MindBreak.label>
+<!-- EN: Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions. -->
+<VPE_MindBreak.description>En utilisant des sons psychiques harmoniques concentrés, ils lobotomisent la cible et la transforment en esclave serviable et nerveux. Très peu appréciés par leurs anciennes factions.</VPE_MindBreak.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MindBreak.jobReportString>Utilise la capacité : {0}</VPE_MindBreak.jobReportString>
+<!-- EN: briser l'esprit -->
+<VPE_MindBreak.verbProperties.label>briser l'esprit</VPE_MindBreak.verbProperties.label>
+
+<!-- EN: word of alliance -->
+<VPE_WordofAlliance.label>mot de l'alliance</VPE_WordofAlliance.label>
+<!-- EN: Speak words of friendship and benefits to a close target using psychic suggestion, coaxing them into improving their relations. Ineffective against hostility and scales with high psychic sensitivity. -->
+<VPE_WordofAlliance.description>Parle d'amitié et d'avantages à une cible proche en utilisant la persuasion psychique, pour l'aider à réaliser que vous n'êtes pas si mauvais que ça. Ne fonctionne qu'avec ceux qui sont prêts à écouter et l'effet varie en fonction de la sensibilité psychique du lanceur.</VPE_WordofAlliance.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofAlliance.jobReportString>Utilise la capacité : {0}</VPE_WordofAlliance.jobReportString>
+<!-- EN: mot de l'alliance -->
+<VPE_WordofAlliance.verbProperties.label>mot d'alliance</VPE_WordofAlliance.verbProperties.label>
+
+<!-- EN: word of pain -->
+<VPE_WordofPain.label>mot de douleur</VPE_WordofPain.label>
+<!-- EN: Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity. -->
+<VPE_WordofPain.description>Induit un son dans le système de la douleur du cerveau de la cible et surexcite ses terminaisons nerveuses, ce qui altère sa sensibilité psychique.</VPE_WordofPain.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofPain.jobReportString>Utilise la capacité : {0}</VPE_WordofPain.jobReportString>
+<!-- EN: mot de douleur -->
+<VPE_WordofPain.verbProperties.label>mot de douleur</VPE_WordofPain.verbProperties.label>
+
+<!-- EN: word of productivity -->
+<VPE_WordofProductivity.label>mot de productivité</VPE_WordofProductivity.label>
+<!-- EN: Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity. -->
+<VPE_WordofProductivity.description>En utilisant des mots de motivation avec une bonne dose de métabolisme, la cible touchée devient un membre plus productif de la société pour les prochains jours. Considéré comme une action hostile et la durée est affectée par la sensibilité psychique de la cible.</VPE_WordofProductivity.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofProductivity.jobReportString>Utilise la capacité : {0}</VPE_WordofProductivity.jobReportString>
+<!-- EN: mot de productivité -->
+<VPE_WordofProductivity.verbProperties.label>mot de productivité</VPE_WordofProductivity.verbProperties.label>
+
+<!-- EN: word of protection -->
+<VPE_WordofProtection.label>mot de protection</VPE_WordofProtection.label>
+<!-- EN: Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity. -->
+<VPE_WordofProtection.description>En utilisant un son psychique harmonique, modifie physiquement le corps de la cible pour qu'il soit plus solide et résistant aux attaques. Dure longtemps et augmente avec la sensibilité psychique du lanceur.</VPE_WordofProtection.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofProtection.jobReportString>Utilise la capacité : {0}</VPE_WordofProtection.jobReportString>
+<!-- EN: mot de protection -->
+<VPE_WordofProtection.verbProperties.label>mot de protection</VPE_WordofProtection.verbProperties.label>
+
+<!-- EN: word of trust -->
+<VPE_WordofTrust.label>mot de confiance</VPE_WordofTrust.label>
+<!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him. -->
+<VPE_WordofTrust.description>Parle au prisonnier en utilisant la persuasion psychique pour réduire sa résistance au recrutement. Cette persuasion psychique peut seulement réduire la résistance d'un prisonnier, mais ne peut pas le recruter.</VPE_WordofTrust.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofTrust.jobReportString>Utilise la capacité : {0}</VPE_WordofTrust.jobReportString>
+<!-- EN: mot de confiance -->
+<VPE_WordofTrust.verbProperties.label>mot de confiance</VPE_WordofTrust.verbProperties.label>
+
+
+<!-- archotechiste -->
+<!-- EN: aggressive heat dump -->
+<VPE_AggressiveHeatDump.label>purge agressive</VPE_AggressiveHeatDump.label>
+<!-- EN: Instantly dump all of your neural heat into a target, causing them to explode with an area of effect relative to the heat lost. A good declaration of war. -->
+<VPE_AggressiveHeatDump.description>Purge instantanément tout votre échauffement neuronal sur une cible, la faisant exploser avec une zone d'effet proportionnelle à l'échauffement neuronal dissipée. Une bonne déclaration de guerre.</VPE_AggressiveHeatDump.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AggressiveHeatDump.jobReportString>Utilise la capacité : {0}</VPE_AggressiveHeatDump.jobReportString>
+<!-- EN: purge agressive -->
+<VPE_AggressiveHeatDump.verbProperties.label>purge agressive</VPE_AggressiveHeatDump.verbProperties.label>
+
+<!-- EN: berserk -->
+<VPE_Berserk.label>folie furieuse</VPE_Berserk.label>
+<!-- EN: Induce a berserker psychosis in the target's mind, causing them to attack anyone nearby. They regain rationality after 15 seconds, depending on their psychic sensitivity. -->
+<VPE_Berserk.description>Induit une psychose folie furieuse dans l'esprit de la cible, l'amenant à attaquer toute personne à proximité. Elle retrouve sa rationalité après 15 secondes, en fonction de sa sensibilité psychique.</VPE_Berserk.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Berserk.jobReportString>Utilise la capacité : {0}</VPE_Berserk.jobReportString>
+<!-- EN: folie furieuse -->
+<VPE_Berserk.verbProperties.label>folie furieuse</VPE_Berserk.verbProperties.label>
+
+<!-- EN: berserk pulse -->
+<VPE_BerserkPulse.label>impulsion folie furieuse</VPE_BerserkPulse.label>
+<!-- EN: Generate an overwhelming rush of undirected rage in everyone near the target point. Considered an overt act of aggression and lasts several seconds. -->
+<VPE_BerserkPulse.description>Génère une poussée écrasante de folie furieuse non dirigée chez toutes les personnes proches du point ciblé. Considéré comme un acte délibéré d'agression et dure plusieurs secondes.</VPE_BerserkPulse.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BerserkPulse.jobReportString>Utilise la capacité : {0}</VPE_BerserkPulse.jobReportString>
+<!-- EN: impulsion folie furieuse -->
+<VPE_BerserkPulse.verbProperties.label>impulsion folie furieuse</VPE_BerserkPulse.verbProperties.label>
+
+<!-- EN: burden -->
+<VPE_Burden.label>fardeau</VPE_Burden.label>
+<!-- EN: Slow the target for a short time by suppressing motor activity in the brain. Considered a hostile action and affected by the target’s psychic sensitivity. -->
+<VPE_Burden.description>Ralentit la cible pendant un court instant en supprimant l'activité motrice dans le cerveau. Considéré comme une action hostile et affecté par la sensibilité psychique de la cible.</VPE_Burden.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Burden.jobReportString>Utilise la capacité : {0}</VPE_Burden.jobReportString>
+<!-- EN: fardeau -->
+<VPE_Burden.verbProperties.label>fardeau</VPE_Burden.verbProperties.label>
+
+<!-- EN: neural heat detonation -->
+<VPE_NeuralHeatDetonation.label>détonation neuronale</VPE_NeuralHeatDetonation.label>
+<!-- EN: Efficiently but indiscriminately dumps all of the caster’s neural heat into an explosion away from themselves, the size being relative to the heat lost. -->
+<VPE_NeuralHeatDetonation.description>Décharge efficacement mais indistinctement tout l'échauffement neuronal du lanceur dans une explosion autour de lui, la taille est proportionnelle à l'échauffement neuronal dissipée.</VPE_NeuralHeatDetonation.description>
+<!-- EN: Using ability: {0} -->
+<VPE_NeuralHeatDetonation.jobReportString>Utilise la capacité : {0}</VPE_NeuralHeatDetonation.jobReportString>
+<!-- EN: détonation neuronale -->
+<VPE_NeuralHeatDetonation.verbProperties.label>détonation neuronale</VPE_NeuralHeatDetonation.verbProperties.label>
+
+<!-- EN: neural heat dump -->
+<VPE_NeuralHeatDump.label>purge neuronale</VPE_NeuralHeatDump.label>
+<!-- EN: Instantly dump all your neural heat into a conscious ally. As a side effect, the target will fall into a debilitating, harmless coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
+<VPE_NeuralHeatDump.description>Déverse instantanément tout votre échauffement neuronal dans un allié conscient. Comme effet secondaire, la cible tombera dans un coma débilitant et inoffensif pendant environ 1 jour. La cible doit accepter volontairement l'invasion psychique, donc seuls les alliés conscients peuvent être ciblés.</VPE_NeuralHeatDump.description>
+<!-- EN: Using ability: {0} -->
+<VPE_NeuralHeatDump.jobReportString>Utilise la capacité : {0}</VPE_NeuralHeatDump.jobReportString>
+<!-- EN: purge neuronale -->
+<VPE_NeuralHeatDump.verbProperties.label>purge neuronale</VPE_NeuralHeatDump.verbProperties.label>
+
+<!-- EN: neuroquake -->
+<VPE_Neuroquake.label>séisme neuronal</VPE_Neuroquake.label>
+<!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe inner circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+<VPE_Neuroquake.description>Trouve une discontinuité dans le champ psychique et déplie-la, libérant une quantité massive d'énergie psychique. Toutes les créatures à portée, mais en dehors du cercle intérieur sécurisé, seront violemment rendues folles. Il faut 12 secondes de méditation pour lancer ce sort, après quoi le psylanceur tombe dans un coma psychique de 5 jours. Les échos troublants du séisme neuronal infligeront de la douleur à tout le monde à plusieurs kilomètres à la ronde, ce qui aura des conséquences diplomatiques avec toutes les factions.</VPE_Neuroquake.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Neuroquake.jobReportString>Utilise la capacité : {0}</VPE_Neuroquake.jobReportString>
+<!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+<VPE_Neuroquake.modExtensions.0.message>Si vous utilisez Séisme neuronal, tout le monde dans cette région ressentira l'écho du Séisme neuronal, vous perdrez la bienveillance de toutes les factions non-hostiles.\n\nSéisme neuronal prend 12 secondes pour être lancé, et ne peut être interrompu. Une fois terminé, le lanceur tombera dans un coma psychique pendant 5 jours. Toutes les personnes à portée, à l'exception de celles situées dans un petit cercle autour du lanceur, seront affectées.\n\nVous voulez vraiment lancer Séisme neuronal ?</VPE_Neuroquake.modExtensions.0.message>
+<!-- EN: séisme neuronal -->
+<VPE_Neuroquake.verbProperties.label>séisme neuronal</VPE_Neuroquake.verbProperties.label>
+
+<!-- EN: psychic drone -->
+<VPE_PsychicDrone.label>drone psychique</VPE_PsychicDrone.label>
+<!-- EN: Creates a massive psychic drone aura around the caster tuned to hostiles, frequently driving them insane until they overcome the break. Duration scales with the caster’s psychic sensitivity. -->
+<VPE_PsychicDrone.description>Crée une aura de drone psychique massive autour du psylanceur, destinée aux ennemis, les rendant périodiquement fous jusqu'à ce qu'ils surmontent la rupture. La durée varie en fonction de la sensibilité psychique du psylanceur.</VPE_PsychicDrone.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PsychicDrone.jobReportString>Utilise la capacité : {0}</VPE_PsychicDrone.jobReportString>
+<!-- EN: drone psychique -->
+<VPE_PsychicDrone.verbProperties.label>drone psychique</VPE_PsychicDrone.verbProperties.label>
+
+<!-- EN: psychic shock -->
+<VPE_PsychicShock.label>choc psychique</VPE_PsychicShock.label>
+<!-- EN: Psychically shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage and is overtly hostile. -->
+<VPE_PsychicShock.description>Provoque un choc psychique dans l'esprit de la cible avec des images chaotiques, bloquant la perception cohérente et plonge la cible dans un état de choc psychique. Risque de lésions cérébrales et cette action est délibérément hostile.</VPE_PsychicShock.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PsychicShock.jobReportString>Utilise la capacité : {0}</VPE_PsychicShock.jobReportString>
+<!-- EN: choc psychique -->
+<VPE_PsychicShock.verbProperties.label>choc psychique</VPE_PsychicShock.verbProperties.label>
+
+<!-- EN: stun -->
+<VPE_Stun.label>étourdir</VPE_Stun.label>
+<!-- EN: Momentarily disrupts motor function in the target's brain, preventing any movement. This lasts for a few seconds and is considered a hostile action. -->
+<VPE_Stun.description>Perturbe momentanément le système de motricité du cerveau de la cible, empêchant tout mouvement. Cela dure quelques secondes et cette action est considérée comme hostile.</VPE_Stun.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Stun.jobReportString>Utilise la capacité : {0}</VPE_Stun.jobReportString>
+<!-- EN: étourdir -->
+<VPE_Stun.verbProperties.label>étourdir</VPE_Stun.verbProperties.label>
+
+
+<!-- chronopathe -->
+<!-- EN: age -->
+<VPE_Age.label>âge</VPE_Age.label>
+<!-- EN: Very inefficiently siphons life force from a living target, de-aging the caster by 2 years and aging the other by 10. Very debilitating aftereffects for the victim and considered a hostile action by allies. -->
+<VPE_Age.description>Siphonne très inefficacement la force vitale d'une cible vivante, rajeunissant le psylanceur de 2 ans et vieillissant la cible de 10 ans. Effet secondaire très incapacitant pour la victime et considéré comme une action hostile par les alliés.</VPE_Age.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Age.jobReportString>Utilise la capacité : {0}</VPE_Age.jobReportString>
+<!-- EN: âge -->
+<VPE_Age.verbProperties.label>âge</VPE_Age.verbProperties.label>
+
+<!-- EN: craft timeskip -->
+<VPE_CraftTimeskip.label>saut de temps : artisanat</VPE_CraftTimeskip.label>
+<!-- EN: Using very precise timeskipping, moves the desired item to its finished state as if the creator had continued working on it. Biologically ages the caster by a full year. -->
+<VPE_CraftTimeskip.description>Grâce à des sauts temporels très précis, l'élément souhaité est amené à son état final comme si le créateur avait continué à y travailler. Le psylanceur vieillit biologiquement d'une année entière.</VPE_CraftTimeskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CraftTimeskip.jobReportString>Utilise la capacité : {0}</VPE_CraftTimeskip.jobReportString>
+<!-- EN: saut de temps : artisanat -->
+<VPE_CraftTimeskip.verbProperties.label>saut de temps : artisanat</VPE_CraftTimeskip.verbProperties.label>
+
+<!-- EN: plant timeskip -->
+<VPE_PlantTimeskip.label>saut de temps : croissance</VPE_PlantTimeskip.label>
+<!-- EN: Grows all the plants in a radius around the caster, advancing their maturity by the equivalent of 7 days. Biologically ages the caster by a full year. -->
+<VPE_PlantTimeskip.description>Fait pousser toutes les plantes dans un rayon autour du lanceur, en avançant leur maturité de l'équivalent de 7 jours. Vieillit biologiquement le psylanceur d'une année complète.</VPE_PlantTimeskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PlantTimeskip.jobReportString>Utilise la capacité : {0}</VPE_PlantTimeskip.jobReportString>
+<!-- EN: saut de temps : croissance -->
+<VPE_PlantTimeskip.verbProperties.label>saut de temps : croissance</VPE_PlantTimeskip.verbProperties.label>
+
+<!-- EN: raid pause -->
+<VPE_RaidPause.label>raid en pause</VPE_RaidPause.label>
+<!-- EN: Depending on the caster’s psychic sensitivity, slows all raiders on the map to a complete stop for up to five minutes. Attacking any single affected raider jolts all of them back into action. -->
+<VPE_RaidPause.description>En fonction de la sensibilité psychique du psylanceur, il ralentit tous les pillards sur la carte jusqu'à l'arrêt complet pendant 5 minutes. L'attaque d'un seul pillard affecté annule l’arrêt du temps pour tout le monde.</VPE_RaidPause.description>
+<!-- EN: Using ability: {0} -->
+<VPE_RaidPause.jobReportString>Utilise la capacité : {0}</VPE_RaidPause.jobReportString>
+<!-- EN: raid en pause -->
+<VPE_RaidPause.verbProperties.label>raid en pause</VPE_RaidPause.verbProperties.label>
+
+<!-- EN: season timeskip -->
+<VPE_SeasonTimeskip.label>saut de temps : saison</VPE_SeasonTimeskip.label>
+<!-- EN: Locks the entire planet into a season-long psychically induced slowdown, effectively skipping forward a season. Nigh instantaneous effect, very strenuous and puts the caster in a coma, as well as biologically aging them by a full year. -->
+<VPE_SeasonTimeskip.description>Bloque la planète entière dans un ralentissement psychique qui dure toute une saison, sautant efficacement à la saison suivante. Effet quasi instantané, très éprouvant et qui plonge le lanceur dans le coma et le vieillit biologiquement d'une année entière.</VPE_SeasonTimeskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SeasonTimeskip.jobReportString>Utilise la capacité : {0}</VPE_SeasonTimeskip.jobReportString>
+<!-- EN: saut de temps : saison -->
+<VPE_SeasonTimeskip.verbProperties.label>saut de temps : saison</VPE_SeasonTimeskip.verbProperties.label>
+
+<!-- EN: timequake -->
+<VPE_Timequake.label>séisme temporel</VPE_Timequake.label>
+<!-- EN: Find a discontinuity in the psychic field and compress it, releasing a massive temporal disturbance. Every creature in range but outside of the safe inner circle will experience rapid aging and structures will warp. Casting this takes 20 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing timequake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+<VPE_Timequake.description>Trouve une discontinuité dans le champ psychique et la comprime, libérant une perturbation temporelle massive. Toutes les créatures à portée, mais en dehors du cercle intérieur sécurisé, connaîtront un vieillissement rapide et les structures se déformeront. Il faut 20 secondes de méditation pour lancer ce sort, après quoi le psylanceur tombe dans un coma psychique de 5 jours. Les échos troublants du séisme temporel infligeront de la douleur à tout le monde à plusieurs kilomètres à la ronde, entraînant des conséquences diplomatiques avec toutes les factions.</VPE_Timequake.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Timequake.jobReportString>Utilise la capacité : {0}</VPE_Timequake.jobReportString>
+<!-- EN: If you use timequake, everyone in this region will feel the timequake echo, you will lose goodwill with every non-hostile faction.\n\nTimequake takes 20 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone except those in a small circle around the caster will be affected.\n\nDo you really want to cast timequake? -->
+<VPE_Timequake.modExtensions.2.message>Si vous utilisez Séisme temporel, tout le monde dans cette région ressentira l'écho du Séisme temporel, vous perdrez la bienveillance de toutes les factions non-hostiles.\n\nSéisme temporel prend 20 secondes pour être lancé, et ne peut pas être interrompu. Une fois le sort terminé, le lanceur tombera dans un coma psychique pendant 5 jours.\n\nTout le monde, sauf ceux qui se trouvent dans un petit cercle autour du lanceur, sera affecté.\n\nVoulez-vous vraiment lancer Séisme temporel ?</VPE_Timequake.modExtensions.2.message>
+<!-- EN: séisme temporel -->
+<VPE_Timequake.verbProperties.label>séisme temporel</VPE_Timequake.verbProperties.label>
+
+<!-- EN: time reversal -->
+<VPE_TimeReversal.label>inversion du temps</VPE_TimeReversal.label>
+<!-- EN: Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma. -->
+<VPE_TimeReversal.description>Siphonne de manière inefficace la force vitale d'une cible vivante, vieillissant le psylanceur de 5 ans et rajeunissant la cible de 10 ans. A un âge minimum, supprime les pénalités liées à l'âge et plonge le lanceur dans le coma.</VPE_TimeReversal.description>
+<!-- EN: Using ability: {0} -->
+<VPE_TimeReversal.jobReportString>Utilise la capacité : {0}</VPE_TimeReversal.jobReportString>
+<!-- EN: inversion du temps -->
+<VPE_TimeReversal.verbProperties.label>inversion du temps</VPE_TimeReversal.verbProperties.label>
+
+<!-- EN: timeskip meditation -->
+<VPE_TimeskipMeditation.label>saut de temps : méditation</VPE_TimeskipMeditation.label>
+<!-- EN: Puts the caster into a self-inflicted coma for a full day as they earn a considerable amount of experience toward their next Psycast level and regain full Psyfocus. Biologically ages the caster by five years. -->
+<VPE_TimeskipMeditation.description>Plonge le psylanceur dans un coma pendant une journée entière. Pendant ce temps il gagne une quantité considérable d’expérience pour son prochain niveau de psylanceur et récupère toute sa concentration psychique. Vieillit biologiquement le psylanceur de cinq ans.</VPE_TimeskipMeditation.description>
+<!-- EN: Using ability: {0} -->
+<VPE_TimeskipMeditation.jobReportString>Utilise la capacité : {0}</VPE_TimeskipMeditation.jobReportString>
+<!-- EN: saut de temps : méditation -->
+<VPE_TimeskipMeditation.verbProperties.label>saut de temps : meditation</VPE_TimeskipMeditation.verbProperties.label>
+
+<!-- EN: time sphere -->
+<VPE_TimeSphere.label>sphère temporelle</VPE_TimeSphere.label>
+<!-- EN: Psychically compresses the flow of time in an area. Rapidly ages living creatures, plants flourish and wither, and structures start to disintegrate from the bizarre stress. -->
+<VPE_TimeSphere.description>Comprime psychiquement l'écoulement du temps dans une zone. Les créatures vivantes vieillissent rapidement, les plantes fleurissent et flétrissent, et les structures commencent à se désagréger à cause du stress inhabituel.</VPE_TimeSphere.description>
+<!-- EN: Using ability: {0} -->
+<VPE_TimeSphere.jobReportString>Utilise la capacité : {0}</VPE_TimeSphere.jobReportString>
+<!-- EN: sphère temporelle -->
+<VPE_TimeSphere.verbProperties.label>sphère temporelle</VPE_TimeSphere.verbProperties.label>
+
+<!-- EN: word of foretelling -->
+<VPE_WordofForetelling.label>mot de prédiction</VPE_WordofForetelling.label>
+<!-- EN: Psychic whispers of things to come. Colony pawns are inspired, neutrals or friendlies improve relations, prisoners lose their resistance and enemies retreat from their doom. Biologically ages the caster by a full year. -->
+<VPE_WordofForetelling.description>Murmures psychiques de choses à venir. Les colons sont inspirés, les neutres ou les alliés améliorent leurs relations, les prisonniers perdent leur résistance et les ennemis reculent devant leur destin. Vieillit biologiquement le lanceur d'une année entière.</VPE_WordofForetelling.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofForetelling.jobReportString>Utilise la capacité : {0}</VPE_WordofForetelling.jobReportString>
+<!-- EN: mot de prédiction -->
+<VPE_WordofForetelling.verbProperties.label>mot de prédiction</VPE_WordofForetelling.verbProperties.label>
+
+
+<!-- conflagrateur -->
+<!-- EN: breathe flame -->
+<VPE_BreatheFlame.label>souffle de feu</VPE_BreatheFlame.label>
+<!-- EN: Spews forth flammable liquid which immediately ignites, along with everything the flames touch. -->
+<VPE_BreatheFlame.description>Crache un liquide inflammable qui s'enflamme immédiatement, ainsi que tout ce qu'il touche.</VPE_BreatheFlame.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BreatheFlame.jobReportString>Utilise la capacité : {0}</VPE_BreatheFlame.jobReportString>
+<!-- EN: souffle de feu -->
+<VPE_BreatheFlame.verbProperties.label>souffle de feu</VPE_BreatheFlame.verbProperties.label>
+
+<!-- EN: explosion -->
+<VPE_Explosion.label>explosion</VPE_Explosion.label>
+<!-- EN: Ignites a small amount of deepchem underneath the target area, which vents to the surface in an explosion. Burns the area and spills forth excess liquid. -->
+<VPE_Explosion.description>Enflamme une petite quantité de deepchem sous la zone ciblée, qui s'évacue à la surface dans une explosion. Brûle la zone et répand l'excédent de liquide.</VPE_Explosion.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Explosion.jobReportString>Utilise la capacité : {0}</VPE_Explosion.jobReportString>
+<!-- EN: explosion -->
+<VPE_Explosion.verbProperties.label>explosion</VPE_Explosion.verbProperties.label>
+
+<!-- EN: eye blast -->
+<VPE_EyeBlast.label>explosion optique</VPE_EyeBlast.label>
+<!-- EN: Emulating a star, the caster compresses highly energized gas which escapes in the desired direction, with damage scaling with psychic sensitivity. Ignites a small but distant area. -->
+<VPE_EyeBlast.description>En imitant une étoile, le psylanceur comprime un gaz hautement énergisé qui s'échappe dans la direction souhaitée, les dégâts étant proportionnels à la sensibilité psychique. Enflamme une petite zone éloignée.</VPE_EyeBlast.description>
+<!-- EN: Using ability: {0} -->
+<VPE_EyeBlast.jobReportString>Utilise la capacité : {0}</VPE_EyeBlast.jobReportString>
+<!-- EN: explosion optique -->
+<VPE_EyeBlast.verbProperties.label>explosion optique</VPE_EyeBlast.verbProperties.label>
+
+<!-- EN: fire beam -->
+<VPE_FireBeam.label>faisceau de feu</VPE_FireBeam.label>
+<!-- EN: Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. The long, intense concentration ends with the caster falling into a 6-hour coma. -->
+<VPE_FireBeam.description>Tente de recréer la puissance d'une étoile à l'intérieur d'une colonne concentrée d'oxygène presque liquéfié. L'émission de plasma qui en résulte est si puissante que seuls les systèmes d'armes les plus avancés peuvent espérer s'y comparer. La longue et intense concentration se termine par un coma de 6 heures.</VPE_FireBeam.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FireBeam.jobReportString>Utilise la capacité : {0}</VPE_FireBeam.jobReportString>
+<!-- EN: faisceau de feu -->
+<VPE_FireBeam.verbProperties.label>faisceau de feu</VPE_FireBeam.verbProperties.label>
+
+<!-- EN: fire shield -->
+<VPE_FireShield.label>bouclier de feu</VPE_FireShield.label>
+<!-- EN: Creates an aura of blazing flames around the target for a time, preventing them from immolation and igniting any who try to attack them in melee. Duration scales with the caster’s psychic sensitivity. -->
+<VPE_FireShield.description>Crée une aura de flammes ardentes autour de la cible pendant un certain temps, l'empêchant d'être immolée et enflammant tous ceux qui tentent de l'attaquer en mêlée. La durée dépend de la sensibilité psychique du psylanceur.</VPE_FireShield.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FireShield.jobReportString>Utilise la capacité : {0}</VPE_FireShield.jobReportString>
+<!-- EN: bouclier de feu -->
+<VPE_FireShield.verbProperties.label>bouclier de feu</VPE_FireShield.verbProperties.label>
+
+<!-- EN: flameball -->
+<VPE_Flameball.label>boule de flamme</VPE_Flameball.label>
+<!-- EN: Throw an orb of condensed flames, similar to a grenade, which explodes upon impact. The range scales with the caster’s psychic sensitivity. -->
+<VPE_Flameball.description>Lance un orbe de flammes condensées, semblable à une grenade, qui explose à l'impact. La portée est proportionnelle à la sensibilité psychique du psylanceur.</VPE_Flameball.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Flameball.jobReportString>Utilise la capacité : {0}</VPE_Flameball.jobReportString>
+<!-- EN: boule de feu -->
+<VPE_Flameball.verbProperties.label>boule de flamme</VPE_Flameball.verbProperties.label>
+
+<!-- EN: fire tornado -->
+<VPE_FlameTornado.label>tornade de feu</VPE_FlameTornado.label>
+<!-- EN: Attempts to recreate the power of a star inside a vortex of concentrated oxygen. The mess of reactions occurring creates flammable byproducts in its wake while also leaving its trajectory completely unpredictable. -->
+<VPE_FlameTornado.description>Tente de recréer la puissance d'une étoile à l'intérieur d'un vortex d'oxygène concentré. Le désordre des réactions qui se produisent crée des sous-produits inflammables dans son sillage tout en laissant sa trajectoire complètement imprévisible.</VPE_FlameTornado.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FlameTornado.jobReportString>Utilise la capacité : {0}</VPE_FlameTornado.jobReportString>
+<!-- EN: tornade de feu -->
+<VPE_FlameTornado.verbProperties.label>tornade de feu</VPE_FlameTornado.verbProperties.label>
+
+<!-- EN: meteor shower -->
+<VPE_MeteorShower.label>pluie de météores</VPE_MeteorShower.label>
+<!-- EN: Skips and immolates orbiting meteoroids to strike a designated area. The number of impacts scales with psychic sensitivity. -->
+<VPE_MeteorShower.description>Lance et immole des météorites en orbite pour frapper la zone ciblée. Le nombre de météorites est proportionnel à la sensibilité psychique du lanceur.</VPE_MeteorShower.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MeteorShower.jobReportString>Utilise la capacité : {0}</VPE_MeteorShower.jobReportString>
+<!-- EN: pluie de météores -->
+<VPE_MeteorShower.verbProperties.label>pluie de météores</VPE_MeteorShower.verbProperties.label>
+
+<!-- EN: extinguish flames -->
+<VPE_QuenchFlames.label>éteindre les flammes</VPE_QuenchFlames.label>
+<!-- EN: Converts a local deposit of deepchem into fire-retardant foam which sprays forth from the user in a large area. -->
+<VPE_QuenchFlames.description>Convertit un dépôt local de deepchem en mousse anti-incendie qui est pulvérisée autour du lanceur sur une grande surface.</VPE_QuenchFlames.description>
+<!-- EN: Using ability: {0} -->
+<VPE_QuenchFlames.jobReportString>Utilise la capacité : {0}</VPE_QuenchFlames.jobReportString>
+<!-- EN: éteindre les flammes -->
+<VPE_QuenchFlames.verbProperties.label>éteindre les flammes</VPE_QuenchFlames.verbProperties.label>
+
+<!-- EN: self explosion -->
+<VPE_SelfExplosion.label>auto-explosion</VPE_SelfExplosion.label>
+<!-- EN: Expels pressurized, flammable gas from the caster which immediately ignites. High chance of igniting those in the blast site, but does little damage without harming the caster. -->
+<VPE_SelfExplosion.description>Expulse du psylanceur un gaz inflammable sous pression qui s'enflamme immédiatement. Ce gaz a de fortes chances d'enflammer ceux qui se trouvent dans la zone d'explosion, mais ne cause que peu de dégâts et ne blesse pas le psylanceur.</VPE_SelfExplosion.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SelfExplosion.jobReportString>Utilise la capacité : {0}</VPE_SelfExplosion.jobReportString>
+<!-- EN: auto-explosion -->
+<VPE_SelfExplosion.verbProperties.label>auto-explosion</VPE_SelfExplosion.verbProperties.label>
+
+
+<!-- empathe -->
+<!-- EN: bliss -->
+<VPE_Bliss.label>féliciter</VPE_Bliss.label>
+<!-- EN: After a brief meditation period, induce a sense of serenity in the target that reaches maximum magnitude near the effect’s end. As the calming feeling becomes more pronounced, they will find it harder to concentrate but it is not considered a malicious action. -->
+<VPE_Bliss.description>Après une brève période de méditation, procure à la cible un sentiment de sérénité qui atteint son ampleur maximum vers la fin de l'effet. Au fur et à mesure que le sentiment de sérénité s'accentue, la cible aura plus de mal à se concentrer, mais cela n'est pas considéré comme une action malveillante.</VPE_Bliss.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Bliss.jobReportString>Utilise la capacité : {0}</VPE_Bliss.jobReportString>
+<!-- EN: féliciter -->
+<VPE_Bliss.verbProperties.label>féliciter</VPE_Bliss.verbProperties.label>
+
+<!-- EN: energy dump -->
+<VPE_EnergyDump.label>transfert d'énergie</VPE_EnergyDump.label>
+<!-- EN: Purges the build-up of fatigue in a nearby target and leaves them completely refreshed, in exchange the caster is left completely exhausted and needing a good nap. -->
+<VPE_EnergyDump.description>Purge l'accumulation de fatigue chez une cible proche et la rend complètement revigorée. En échange, le psylanceur est complètement épuisé et a besoin d'une bonne sieste.</VPE_EnergyDump.description>
+<!-- EN: Using ability: {0} -->
+<VPE_EnergyDump.jobReportString>Utilise la capacité : {0}</VPE_EnergyDump.jobReportString>
+<!-- EN: transfert d'énergie -->
+<VPE_EnergyDump.verbProperties.label>transfert d'énergie</VPE_EnergyDump.verbProperties.label>
+
+<!-- EN: mind wipe -->
+<VPE_MindWipe.label>effacer l'esprit</VPE_MindWipe.label>
+<!-- EN: Induce a harmless, instantaneous retrograde amnesia in the target, purging all memories, social bonds and skills acquired outside of their backstory. They also feel a strong kinship with the caster’s colony and joy at rediscovering the joys of life without commitment. -->
+<VPE_MindWipe.description>Provoque une amnésie rétrograde inoffensive et instantanée à la cible, purgeant tous les souvenirs, les liens sociaux et les compétences acquises en dehors de leur passé. Elle ressent également une forte parenté avec la colonie du psylanceur et la satisfaction de redécouvrir les joies de la vie sans engagement.</VPE_MindWipe.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MindWipe.jobReportString>Utilise la capacité : {0}</VPE_MindWipe.jobReportString>
+<!-- EN: effacer l'esprit -->
+<VPE_MindWipe.verbProperties.label>effacer l'esprit</VPE_MindWipe.verbProperties.label>
+
+<!-- EN: reunion farskip -->
+<VPE_ReunionFarskip.label>réunion lointaine</VPE_ReunionFarskip.label>
+<!-- EN: After a short meditation period and followed by a 5-day coma, taps into a target’s bloodline to skip all living family members to their proximity, knocked out through psychic shock. However, it does nothing to change their relationships and is considered rude by all other factions. -->
+<VPE_ReunionFarskip.description>Après une courte période de méditation, le psylanceur convoque les membres de la famille de la cible et téléporte tous les membres vivants à proximité, ils seront assommés à cause du choc psychique. Cependant, cela ne change en rien les relations entre eux et cette action est considérée comme impoli par les fonctions concernées. Le sort provoque un coma de 5 jours pour le psylanceur.</VPE_ReunionFarskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ReunionFarskip.jobReportString>Utilise la capacité : {0}</VPE_ReunionFarskip.jobReportString>
+<!-- EN: réunion lointaine -->
+<VPE_ReunionFarskip.verbProperties.label>réunion lointaine</VPE_ReunionFarskip.verbProperties.label>
+
+<!-- EN: psychic sooth (female) -->
+<VPE_SootheFemale.label>apaisement psychique (femme)</VPE_SootheFemale.label>
+<!-- EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects females. -->
+<VPE_SootheFemale.description>Envoie un signal à une machine à bonheur distante pour commencer à projeter un drone psychique positif, tout en manipulant un amplificateur orbital qui n'affecte que les femmes.</VPE_SootheFemale.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SootheFemale.jobReportString>Utilise la capacité : {0}</VPE_SootheFemale.jobReportString>
+<!-- EN: apaisement psychique (femme) -->
+<VPE_SootheFemale.verbProperties.label>apaisement psychique (femme)</VPE_SootheFemale.verbProperties.label>
+
+<!-- EN: psychic sooth (male) -->
+<VPE_SootheMale.label>apaisement psychique (homme)</VPE_SootheMale.label>
+<!-- EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects males. -->
+<VPE_SootheMale.description>Envoie un signal à une machine à bonheur distante pour commencer à projeter un drone psychique positif, tout en manipulant un amplificateur orbital qui n'affecte que les hommes.</VPE_SootheMale.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SootheMale.jobReportString>Utilise la capacité : {0}</VPE_SootheMale.jobReportString>
+<!-- EN: apaisement psychique (homme) -->
+<VPE_SootheMale.verbProperties.label>apaisement psychique (homme)</VPE_SootheMale.verbProperties.label>
+
+<!-- EN: word of inspiration -->
+<VPE_WordofInspiration.label>mot d'inspiration</VPE_WordofInspiration.label>
+<!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
+<VPE_WordofInspiration.description>Prononce des mots encourageant la créativité tout en hyper-chargeant psychiquement l'esprit de la cible avec de nouvelles idées. La cible ressentira une inspiration aléatoire qui lui est propre.</VPE_WordofInspiration.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofInspiration.jobReportString>Utilise la capacité : {0}</VPE_WordofInspiration.jobReportString>
+<!-- EN: mot d'inspiration -->
+<VPE_WordofInspiration.verbProperties.label>mot d'inspiration</VPE_WordofInspiration.verbProperties.label>
+
+<!-- EN: word of joy -->
+<VPE_WordofJoy.label>mot de joie</VPE_WordofJoy.label>
+<!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+<VPE_WordofJoy.description>Dit des mots positifs et apaisants à quelqu'un tout en utilisant la persuasion psychique pour implanter une boucle de bonheur dans son esprit. Le sentiment de bonheur supprime les pensées et les sensations désagréables de la cible pour améliorer son humeur. Cela a pour effet secondaire de diminuer les sensations et la prise de décision, ce qui réduit la conscience.</VPE_WordofJoy.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofJoy.jobReportString>Utilise la capacité : {0}</VPE_WordofJoy.jobReportString>
+<!-- EN: mot de joie -->
+<VPE_WordofJoy.verbProperties.label>mot de joie</VPE_WordofJoy.verbProperties.label>
+
+<!-- EN: word of love -->
+<VPE_WordofLove.label>mot d'amour</VPE_WordofLove.label>
+<!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
+<VPE_WordofLove.description>Parle de vertus romantiques de quelqu'un tout en utilisant la persuasion psychique pour implanter le désir romantique chez l'auditeur. Pendant les jours suivants, l'auditeur ressentira une attirance romantique induite psychiquement envers l'autre personne. Cela augmente considérablement l'opinion et le rend beaucoup plus susceptible de tenter des avances romantiques et des demandes en mariage s'il en a l'occasion. Ce pouvoir peut être utilisé pour relier deux autres personnes, susciter l'amour pour le psylanceur ou se forcer à en aimer un autre.</VPE_WordofLove.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofLove.jobReportString>Utilise la capacité : {0}</VPE_WordofLove.jobReportString>
+<!-- EN: mot d'amour -->
+<VPE_WordofLove.verbProperties.label>mot d'amour</VPE_WordofLove.verbProperties.label>
+
+<!-- EN: word of serenity -->
+<VPE_WordofSerenity.label>mot de sérénité</VPE_WordofSerenity.label>
+<!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
+<VPE_WordofSerenity.description>Utilise des mots apaisants et la persuasion psychique pour mettre fin à une rupture mentale sur une personne ou un animal. La cible tombera dans un court sommeil psychique. Le coût en concentration psychique dépend de l'intensité de la rupture mentale de la cible.</VPE_WordofSerenity.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofSerenity.jobReportString>Utilise la capacité : {0}</VPE_WordofSerenity.jobReportString>
+<!-- EN: mot de sérénité -->
+<VPE_WordofSerenity.verbProperties.label>mot de sérénité</VPE_WordofSerenity.verbProperties.label>
+
+
+<!-- façonneur de givre -->
+<!-- EN: blizzard -->
+<VPE_Blizzard.label>blizzard</VPE_Blizzard.label>
+<!-- EN: Using differential-pressure skipgates, water-linked skipgates and nodes of psychic entropy, creates a swirling blizzard away from the caster. Those exposed to the tempest experience reduced sight, moving and manipulation, as well as hypothermia buildup and cutting cold. Duration scales with the caster’s psychic sensitivity and puts them in a 5-day coma. -->
+<VPE_Blizzard.description>En utilisant les differences de pression différentielle, des portails de saut liés à l'eau et des nœuds d'entropie psychique, crée un blizzard tourbillonnant loin du psylanceur. Les personnes exposées à la tempête subissent une réduction de la vue, du déplacement et de la manipulation, ainsi qu'une accumulation d'hypothermie et un froid intense. La durée est proportionnelle à la sensibilité psychique du lanceur et le plonge dans un coma de 5 jours.</VPE_Blizzard.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Blizzard.jobReportString>Utilise la capacité : {0}</VPE_Blizzard.jobReportString>
+<!-- EN: blizzard -->
+<VPE_Blizzard.verbProperties.label>blizzard</VPE_Blizzard.verbProperties.label>
+
+<!-- EN: cold zone -->
+<VPE_ColdZone.label>zone froide</VPE_ColdZone.label>
+<!-- EN: Cause an area to manifest nodes of psychic entropy for the next 24 hours, drastically lowering the temperature. -->
+<VPE_ColdZone.description>Provoque la manifestation de nœuds d'entropie psychique dans une zone pour les 24 prochaines heures, ce qui a pour effet d'abaisser drastiquement la température.</VPE_ColdZone.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ColdZone.jobReportString>Utilise la capacité : {0}</VPE_ColdZone.jobReportString>
+<!-- EN: zone froide -->
+<VPE_ColdZone.verbProperties.label>zone froide</VPE_ColdZone.verbProperties.label>
+
+<!-- EN: frost ray -->
+<VPE_FrostRay.label>rayon de givre</VPE_FrostRay.label>
+<!-- EN: Push forth a concentrated stream of psychic entropy for a few seconds, rapidly inducing cuts and hypothermia. The duration scales with the caster’s psychic sensitivity. -->
+<VPE_FrostRay.description>Projette un flux concentré d'entropie psychique pendant quelques secondes, provoquant rapidement des coupures et une hypothermie. La durée varie en fonction de la sensibilité psychique du lanceur.</VPE_FrostRay.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FrostRay.jobReportString>Utilise la capacité : {0}</VPE_FrostRay.jobReportString>
+<!-- EN: rayon de givre -->
+<VPE_FrostRay.verbProperties.label>rayon de givre</VPE_FrostRay.verbProperties.label>
+
+<!-- EN: ice block -->
+<VPE_IceBlock.label>bloc de glace</VPE_IceBlock.label>
+<!-- EN: Combining nodes of psychic entropy and a skipgate linked to an ocean, creating a large block of ice to form in the target location. Fragile and can melt if the temperature is above freezing. -->
+<VPE_IceBlock.description>Combine des nœuds d'entropie psychique et un portail de saut relié à un océan, créant un grand bloc de glace qui se forme à l'endroit ciblé. Fragile et peut fondre si la température est supérieure au point de congélation.</VPE_IceBlock.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IceBlock.jobReportString>Utilise la capacité : {0}</VPE_IceBlock.jobReportString>
+<!-- EN: bloc de glace -->
+<VPE_IceBlock.verbProperties.label>bloc de glace</VPE_IceBlock.verbProperties.label>
+
+<!-- EN: breathe ice -->
+<VPE_IceBreath.label>souffle de glace</VPE_IceBreath.label>
+<!-- EN: Breathe forward a stream of psychic entropy, the resulting cold cutting and inducing hypothermia scaling with the distance to the target. -->
+<VPE_IceBreath.description>Souffle un jet d'entropie psychique, le froid qui en résulte coupe et provoque une hypothermie en fonction de la distance qui vous sépare de la cible.</VPE_IceBreath.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IceBreath.jobReportString>Utilise la capacité : {0}</VPE_IceBreath.jobReportString>
+<!-- EN: souffle de glace -->
+<VPE_IceBreath.verbProperties.label>souffle de glace</VPE_IceBreath.verbProperties.label>
+
+<!-- EN: ice crystal -->
+<VPE_IceCrystal.label>cristal de glace</VPE_IceCrystal.label>
+<!-- EN: Creates a node of psychic entropy in the form of a crystal, sapping the heat from the room for the next 5 days. -->
+<VPE_IceCrystal.description>Crée un nœud d'entropie psychique sous la forme d'un cristal qui absorbe la chaleur de la pièce pendant les 5 jours.</VPE_IceCrystal.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IceCrystal.jobReportString>Utilise la capacité : {0}</VPE_IceCrystal.jobReportString>
+<!-- EN: cristal de glace -->
+<VPE_IceCrystal.verbProperties.label>cristal de glace</VPE_IceCrystal.verbProperties.label>
+
+<!-- EN: ice shield -->
+<VPE_IceShield.label>bouclier de glace</VPE_IceShield.label>
+<!-- EN: Creates an aura of psychic entropy around the target for a time, preventing them from experiencing cold and inducing hypothermia on any who try to attack them in melee. Duration scales with psychic sensitivity of the caster. -->
+<VPE_IceShield.description>Crée une aura d'entropie psychique autour de la cible pendant un certain temps, l'empêchant de ressentir le froid et provoquant une hypothermie chez tous ceux qui tentent de l'attaquer en mêlée. La durée dépend de la sensibilité psychique du psylanceur.</VPE_IceShield.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IceShield.jobReportString>Utilise la capacité : {0}</VPE_IceShield.jobReportString>
+<!-- EN: bouclier de glace -->
+<VPE_IceShield.verbProperties.label>bouclier de glace</VPE_IceShield.verbProperties.label>
+
+<!-- EN: ice spike -->
+<VPE_IceSpike.label>pic de glace</VPE_IceSpike.label>
+<!-- EN: Condenses vapor with psychic entropy into an icicle launched at a target, the damage and accuracy scaling with psychic sensitivity. -->
+<VPE_IceSpike.description>Condense la vapeur avec l'entropie psychique en un glaçon lancé sur une cible, les dégâts augmentant avec la sensibilité psychique.</VPE_IceSpike.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IceSpike.jobReportString>Utilise la capacité : {0}</VPE_IceSpike.jobReportString>
+<!-- EN: pic de glace -->
+<VPE_IceSpike.verbProperties.label>pic de glace</VPE_IceSpike.verbProperties.label>
+
+<!-- EN: ice wall -->
+<VPE_IceWall.label>mur de glace</VPE_IceWall.label>
+<!-- EN: Combining nodes of psychic entropy and miniature skipgates linked to an ocean, creating a circular wall of ice to form around the caster. Fragile and can melt if the temperature is above freezing. -->
+<VPE_IceWall.description>Combine des nœuds d'entropie psychique et des portails de saut miniatures reliés à un océan, créant un mur de glace circulaire qui se forme autour du psylanceur. Fragile et peut fondre si la température est supérieure au point de congélation.</VPE_IceWall.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IceWall.jobReportString>Utilise la capacité : {0}</VPE_IceWall.jobReportString>
+<!-- EN: mur de glace -->
+<VPE_IceWall.verbProperties.label>mur de glace</VPE_IceWall.verbProperties.label>
+
+<!-- EN: snap freeze -->
+<VPE_SnapFreeze.label>gel instantané</VPE_SnapFreeze.label>
+<!-- EN: Creates motes of psychic entropy and miniature skipgates to water reservoirs above all the targets in a small area, encasing them in ice. Victims will experience hypothermia but the ice can melt prematurely if the temperature is above freezing. -->
+<VPE_SnapFreeze.description>Crée des particules d'entropie psychique et des portails de saut miniatures vers des réservoirs d'eau au-dessus de toutes les cibles dans une petite zone, les enfermant dans la glace. Les victimes souffriront d'hypothermie mais la glace peut fondre prématurément si la température est supérieure au point de congélation.</VPE_SnapFreeze.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SnapFreeze.jobReportString>Utilise la capacité : {0}</VPE_SnapFreeze.jobReportString>
+<!-- EN: gel instantané -->
+<VPE_SnapFreeze.verbProperties.label>gel instantané</VPE_SnapFreeze.verbProperties.label>
+
+
+<!-- harmonisateur -->
+<!-- EN: bend probability -->
+<VPE_BendProbability.label>probabilité de torsion</VPE_BendProbability.label>
+<!-- EN: Creates a ripple of cosmic scale that will force something to happen. -->
+<VPE_BendProbability.description>Crée une onde à l'échelle cosmique qui va forcer quelque chose à se produire.</VPE_BendProbability.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BendProbability.jobReportString>Utilise la capacité : {0}</VPE_BendProbability.jobReportString>
+<!-- EN: probabilité de torsion -->
+<VPE_BendProbability.verbProperties.label>probabilité de torsion</VPE_BendProbability.verbProperties.label>
+
+<!-- EN: health swap -->
+<VPE_HealthSwap.label>échanger la santé</VPE_HealthSwap.label>
+<!-- EN: Through the law of equivalent exchange, returns the primary target’s vitality to its origin, transferring all foreign objects and injuries to the secondary target. -->
+<VPE_HealthSwap.description>En utilisant le fondement alchimique de l'échange équivalent, ramène la vitalité de la cible primaire à son origine, transférant tous les objets étrangers et les blessures à la cible secondaire.</VPE_HealthSwap.description>
+<!-- EN: Using ability: {0} -->
+<VPE_HealthSwap.jobReportString>Utilise la capacité : {0}</VPE_HealthSwap.jobReportString>
+<!-- EN: échanger la santé -->
+<VPE_HealthSwap.verbProperties.label>échanger la santé</VPE_HealthSwap.verbProperties.label>
+
+<!-- EN: heat focus -->
+<VPE_HeatFocus.label>concentration d'échauffement</VPE_HeatFocus.label>
+<!-- EN: Initiates harmonic meditation which converts all accumulated heat in psyfocus after 10 seconds. Can neither overcharge psyfocus nor heat dump. -->
+<VPE_HeatFocus.description>Entame une méditation harmonique qui convertit tout l'échauffement neuronal accumulée en concentration psychique après 10 secondes. Ne peut ni surcharger la concentration psychique, ni se décharger de l'échauffement neuronal.</VPE_HeatFocus.description>
+<!-- EN: Using ability: {0} -->
+<VPE_HeatFocus.jobReportString>Utilise la capacité : {0}</VPE_HeatFocus.jobReportString>
+<!-- EN: concentration d'échauffement -->
+<VPE_HeatFocus.verbProperties.label>concentration d'échauffement</VPE_HeatFocus.verbProperties.label>
+
+<!-- EN: location swap -->
+<VPE_LocationSwap.label>échanger de place</VPE_LocationSwap.label>
+<!-- EN: Using precision skipgates, swaps the positions of the caster and a visible target. -->
+<VPE_LocationSwap.description>À l'aide de portes de saut précises, échange la position du psylanceur avec celle de la cible visible.</VPE_LocationSwap.description>
+<!-- EN: Using ability: {0} -->
+<VPE_LocationSwap.jobReportString>Utilise la capacité : {0}</VPE_LocationSwap.jobReportString>
+<!-- EN: échanger de place -->
+<VPE_LocationSwap.verbProperties.label>échanger de place</VPE_LocationSwap.verbProperties.label>
+
+<!-- EN: luck transfer -->
+<VPE_LuckTransfer.label>transfert de chance</VPE_LuckTransfer.label>
+<!-- EN: Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity. -->
+<VPE_LuckTransfer.description>Crée une faille dans l'équilibre karmique en transférant le karma négatif de la première cible sur la deuxième cible, tout en recevant le karma positif. N'affecte que le combat et la durée dépend de la sensibilité psychique de la première cible.</VPE_LuckTransfer.description>
+<!-- EN: Using ability: {0} -->
+<VPE_LuckTransfer.jobReportString>Utilise la capacité : {0}</VPE_LuckTransfer.jobReportString>
+<!-- EN: transfert de chance -->
+<VPE_LuckTransfer.verbProperties.label>transfert de chance</VPE_LuckTransfer.verbProperties.label>
+
+<!-- EN: mind control -->
+<VPE_Mindcontrol.label>contrôle mental</VPE_Mindcontrol.label>
+<!-- EN: Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once. -->
+<VPE_Mindcontrol.description>Permet de dominer psychiquement une cible pendant une brève période, en augmentant sa sensibilité psychique, ce qui donne au psylanceur un second corps. Cependant, il est difficile d'être deux personnes à la fois.</VPE_Mindcontrol.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Mindcontrol.jobReportString>Utilise la capacité : {0}</VPE_Mindcontrol.jobReportString>
+<!-- EN: contrôle mental -->
+<VPE_Mindcontrol.verbProperties.label>contrôle mental</VPE_Mindcontrol.verbProperties.label>
+
+<!-- EN: psychic guidance -->
+<VPE_PsychicGuidance.label>conseil psychique</VPE_PsychicGuidance.label>
+<!-- EN: Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities. -->
+<VPE_PsychicGuidance.description>Atténue la vue, l'ouïe, le mouvement et la manipulation du psylanceur en échange d'une surcharge des capacités physiques de la cible.</VPE_PsychicGuidance.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PsychicGuidance.jobReportString>Utilise la capacité : {0}</VPE_PsychicGuidance.jobReportString>
+<!-- EN: conseil psychique -->
+<VPE_PsychicGuidance.verbProperties.label>conseil psychique</VPE_PsychicGuidance.verbProperties.label>
+
+<!-- EN: skillroll -->
+<VPE_SkillRoll.label>relancer les compétences</VPE_SkillRoll.label>
+<!-- EN: Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma for a day, but can be reduced with psychic sensitivity. -->
+<VPE_SkillRoll.description>Provoque un changement dans les connaissances et les compétences accumulées de la cible, tentant de les rééquilibrer de manière quelque peu chaotique avec quelques conseils bénéfiques. La contrainte plonge le lanceur dans le coma pendant 1 jour, mais peut être réduite par la sensibilité psychique.</VPE_SkillRoll.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SkillRoll.jobReportString>Utilise la capacité : {0}</VPE_SkillRoll.jobReportString>
+<!-- EN: relancer les compétences -->
+<VPE_SkillRoll.verbProperties.label>relancer les compétences</VPE_SkillRoll.verbProperties.label>
+
+<!-- EN: transmutation -->
+<VPE_Transmutation.label>transmutation</VPE_Transmutation.label>
+<!-- EN: Through the law of equivalent exchange, converts a targeted (stack of) item(s) into an item of equal or lesser value. Completely unpredictable. -->
+<VPE_Transmutation.description>En utilisant le fondement alchimique de l'échange équivalent, convertit un objet ou une pile d'objets ciblés en un objet de valeur égale ou inférieure. Complètement imprévisible.</VPE_Transmutation.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Transmutation.jobReportString>Utilise la capacité : {0}</VPE_Transmutation.jobReportString>
+<!-- EN: transmutation -->
+<VPE_Transmutation.verbProperties.label>transmutation</VPE_Transmutation.verbProperties.label>
+
+<!-- EN: transmute stone -->
+<VPE_TransmuteStone.label>transmuter la roche</VPE_TransmuteStone.label>
+<!-- EN: Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata. -->
+<VPE_TransmuteStone.description>Désigne une zone avec des morceaux de roches dont les minéraux seront remplacés par un type unique et aléatoire provenant d'une couche souterraine.</VPE_TransmuteStone.description>
+<!-- EN: Using ability: {0} -->
+<VPE_TransmuteStone.jobReportString>Utilise la capacité : {0}</VPE_TransmuteStone.jobReportString>
+<!-- EN: transmuter la roche -->
+<VPE_TransmuteStone.verbProperties.label>transmuter la roche</VPE_TransmuteStone.verbProperties.label>
+
+
+<!-- nécropathe -->
+<!-- EN: consume bodies -->
+<VPE_ConsumeBodies.label>consommer les corps</VPE_ConsumeBodies.label>
+<!-- EN: Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat. -->
+<VPE_ConsumeBodies.description>Enlève psychiquement toute force vitale restante des cadavres humanoïdes proches et stocke l'essence comme réserve permanente d'échauffement neuronal.</VPE_ConsumeBodies.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ConsumeBodies.jobReportString>Utilise la capacité : {0}</VPE_ConsumeBodies.jobReportString>
+<!-- EN: consommer les corps -->
+<VPE_ConsumeBodies.verbProperties.label>consommer les corps</VPE_ConsumeBodies.verbProperties.label>
+
+<!-- EN: corpsetalk -->
+<VPE_Corpsetalk.label>parler au mort</VPE_Corpsetalk.label>
+<!-- EN: Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal. -->
+<VPE_Corpsetalk.description>Cible un cadavre et s'approprie temporairement les compétences de la victime pour pallier les déficiences du psylanceur. L'effet dure une saison avant de revenir à la normale.</VPE_Corpsetalk.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Corpsetalk.jobReportString>Utilise la capacité : {0}</VPE_Corpsetalk.jobReportString>
+<!-- EN: parler au mort -->
+<VPE_Corpsetalk.verbProperties.label>parler au mort</VPE_Corpsetalk.verbProperties.label>
+
+<!-- EN: deathshield -->
+<VPE_Deathshield.label>bouclier de mort</VPE_Deathshield.label>
+<!-- EN: Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs. -->
+<VPE_Deathshield.description>Bloque la force vitale de la cible touchée pendant une journée, l'empêchant de mourir. Après cette période, elle peut mourir des blessures accumulées, de la perte de sang ou de l'absence de membres ou d'organes.</VPE_Deathshield.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Deathshield.jobReportString>Utilise la capacité : {0}</VPE_Deathshield.jobReportString>
+<!-- EN: bouclier de mort -->
+<VPE_Deathshield.verbProperties.label>bouclier de mort</VPE_Deathshield.verbProperties.label>
+
+<!-- EN: enthrall -->
+<VPE_Enthrall.label>ensorceler</VPE_Enthrall.label>
+<!-- EN: Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies. -->
+<VPE_Enthrall.description>Dépouille psychiquement la cible décédée de sa force vitale et l'infuse directement dans ses os, l'animant pendant une journée entière. Le seul instinct restant est d'infliger de la douleur aux ennemis du psylanceur.</VPE_Enthrall.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Enthrall.jobReportString>Utilise la capacité : {0}</VPE_Enthrall.jobReportString>
+<!-- EN: ensorceler -->
+<VPE_Enthrall.verbProperties.label>ensorceler</VPE_Enthrall.verbProperties.label>
+
+<!-- EN: ghostwalk -->
+<VPE_Ghostwalk.label>marche fantôme</VPE_Ghostwalk.label>
+<!-- EN: Coats the caster in a layer of temporary psychic atrophy, allowing them to walk through structures unimpeded and without damaging anything. Duration scales with the caster’s psychic sensitivity. -->
+<VPE_Ghostwalk.description>Persuade psychiquement les atomes du psylanceur qu'ils sont capables de passer entre les atomes des structures. La durée de la tromperie varie en fonction de la sensibilité psychique du lanceur.</VPE_Ghostwalk.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Ghostwalk.jobReportString>Utilise la capacité : {0}</VPE_Ghostwalk.jobReportString>
+<!-- EN: marche fantôme -->
+<VPE_Ghostwalk.verbProperties.label>marche fantôme</VPE_Ghostwalk.verbProperties.label>
+
+<!-- EN: liferot -->
+<VPE_Liferot.label>nécrose</VPE_Liferot.label>
+<!-- EN: Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and inducing vomiting. Duration scales with the target’s psychic sensitivity and is an overtly hostile action. -->
+<VPE_Liferot.description>Provoque psychiquement une nécrose de masse aléatoire sur la cible, exposant les parties du corps touchées à l'infection et à des nausées intenses dues à l'odeur. La durée dépend de la sensibilité psychique de la cible et constitue une action clairement hostile.</VPE_Liferot.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Liferot.jobReportString>Utilise la capacité : {0}</VPE_Liferot.jobReportString>
+<!-- EN: nécrose -->
+<VPE_Liferot.verbProperties.label>nécrose</VPE_Liferot.verbProperties.label>
+
+<!-- EN: paralysis pulse -->
+<VPE_ParalysisPulse.label>impulsion paralysante</VPE_ParalysisPulse.label>
+<!-- EN: Emits a cloud of black particles from the caster, which afflicts all, caster included, within the area with paralytic abasia for a full day. The radius scales with the caster’s psychic sensitivity. -->
+<VPE_ParalysisPulse.description>Émet un nuage de particules noires autour du psylanceur, qui afflige tous ceux qui se trouvent dans la zone, y compris le psylanceur, d'une abasie paralytique pendant une journée entière. Le rayon varie en fonction de la sensibilité psychique du lanceur.</VPE_ParalysisPulse.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ParalysisPulse.jobReportString>Utilise la capacité : {0}</VPE_ParalysisPulse.jobReportString>
+<!-- EN: impulsion paralysante -->
+<VPE_ParalysisPulse.verbProperties.label>impulsion paralysante</VPE_ParalysisPulse.verbProperties.label>
+
+<!-- EN: resurrect -->
+<VPE_Resurrect.label>ressusciter</VPE_Resurrect.label>
+<!-- EN: By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. The long, intense concentration ends with the caster falling into a 6-hour coma. -->
+<VPE_Resurrect.description>En sacrifiant un doigt naturel, le psylanceur est capable d'imiter les effets du mech-sérum de résurrection sur n'importe quel cadavre non desséché, l'énergie psychique réparant les tissus endommagés et redonnant vie au corps. La cible sera frappée d'incapacité et ses allégeances resteront les mêmes. Moins le corps est préservé, plus la cible est susceptible de souffrir d'effets secondaires négatifs. La longue et intense concentration se termine par un coma de 6 heures.</VPE_Resurrect.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Resurrect.jobReportString>Utilise la capacité : {0}</VPE_Resurrect.jobReportString>
+<!-- EN: ressusciter -->
+<VPE_Resurrect.verbProperties.label>ressusciter</VPE_Resurrect.verbProperties.label>
+
+<!-- EN: steal vitality -->
+<VPE_StealVitality.label>vol de vitalité</VPE_StealVitality.label>
+<!-- EN: Siphons vitality from a nearby source, transferring the target’s natural healing factor, movement speed, and consciousness to the caster for a full day. Considered an overtly hostile action. -->
+<VPE_StealVitality.description>Siphonne la vitalité de la cible proche et vivante, transférant le facteur de guérison naturel, la vitesse de mouvement et la conscience de la cible au psylanceur. Considéré comme une action ouvertement hostile.</VPE_StealVitality.description>
+<!-- EN: Using ability: {0} -->
+<VPE_StealVitality.jobReportString>Utilise la capacité : {0}</VPE_StealVitality.jobReportString>
+<!-- EN: vol de vitalité -->
+<VPE_StealVitality.verbProperties.label>vol de vitalité</VPE_StealVitality.verbProperties.label>
+
+<!-- EN: word of fear -->
+<VPE_WordofFear.label>mot de peur</VPE_WordofFear.label>
+<!-- EN: Induces panic by overloading their flight response system for a duration scaling with their psychic sensitivity. Considered a hostile action. -->
+<VPE_WordofFear.description>Provoque la panique en surchargeant le système de réaction de survie pendant une durée correspondant à la sensibilité psychique de l'individu. Considéré comme une action hostile.</VPE_WordofFear.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofFear.jobReportString>Utilise la capacité : {0}</VPE_WordofFear.jobReportString>
+<!-- EN: mot de peur -->
+<VPE_WordofFear.verbProperties.label>mot de peur</VPE_WordofFear.verbProperties.label>
+
+
+<!-- traqueur nocturne -->
+<!-- EN: assassinate -->
+<VPE_Assassinate.label>assassiner</VPE_Assassinate.label>
+<!-- EN: Links the caster’s shadow to a target in dark areas, allowing them to skip back and forth multiple times to attack in melee. The amount of hits depends on the caster’s psychic sensitivity. -->
+<VPE_Assassinate.description>Lie l'ombre du psylanceur à une cible dans une zone sombre, lui permettant de faire de multiples allers-retours pour attaquer en mêlée. Le nombre de coups dépend de la sensibilité psychique du lanceur.</VPE_Assassinate.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Assassinate.jobReportString>Utilise la capacité : {0}</VPE_Assassinate.jobReportString>
+<!-- EN: assassiner -->
+<VPE_Assassinate.verbProperties.label>assassiner</VPE_Assassinate.verbProperties.label>
+
+<!-- EN: darkness -->
+<VPE_Darkness.label>ténèbres</VPE_Darkness.label>
+<!-- EN: Select a target area to generate an orb of completely obfuscating darkness, the duration scaling with the caster’s psychic sensitivity. All vision is blocked and any attacks within or passing through will miss entirely. -->
+<VPE_Darkness.description>Sélectionne une zone cible pour générer un orbe d'obscurité totale, dont la durée dépend de la sensibilité psychique du psylanceur. Toute vision est bloquée et toute attaque à l'intérieur ou au travers de l'orbe sera totalement ratée.</VPE_Darkness.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Darkness.jobReportString>Utilise la capacité : {0}</VPE_Darkness.jobReportString>
+<!-- EN: ténèbres -->
+<VPE_Darkness.verbProperties.label>ténèbres</VPE_Darkness.verbProperties.label>
+
+<!-- EN: darkvision -->
+<VPE_Darkvision.label>vision nocturne</VPE_Darkvision.label>
+<!-- EN: Gives the targeted pawn a nictitating membrane that allows them to see equally well in darkness and daytime. Duration scales with the target's psychic sensitivity. -->
+<VPE_Darkvision.description>Donne au colon ciblé une membrane nictitante qui lui permet de voir aussi bien la nuit que le jour. La durée varie en fonction de la sensibilité psychique de la cible.</VPE_Darkvision.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Darkvision.jobReportString>Utilise la capacité : {0}</VPE_Darkvision.jobReportString>
+<!-- EN: vision nocturne -->
+<VPE_Darkvision.verbProperties.label>vision nocturne</VPE_Darkvision.verbProperties.label>
+
+<!-- EN: decoy -->
+<VPE_Decoy.label>leurre</VPE_Decoy.label>
+<!-- EN: Creates a localized field of optical disharmony to travel and remain in a desired location, with a duration scaling with psychic sensitivity. The illusion will draw the ire of all enemies. -->
+<VPE_Decoy.description>Crée un champ localisé de dysharmonie optique restant à l'endroit désiré, avec une durée qui varie en fonction de la sensibilité psychique. L'illusion attire la colère de tous les ennemis.</VPE_Decoy.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Decoy.jobReportString>Utilise la capacité : {0}</VPE_Decoy.jobReportString>
+<!-- EN: leurre -->
+<VPE_Decoy.verbProperties.label>leurre</VPE_Decoy.verbProperties.label>
+
+<!-- EN: eclipse -->
+<VPE_Eclipse.label>éclipse</VPE_Eclipse.label>
+<!-- EN: By strategically placing an orb of obfuscating darkness high in the sky, the caster can effectively cause a spontaneous eclipse. -->
+<VPE_Eclipse.description>En plaçant stratégiquement un orbe des ténèbres obscures haut dans le ciel, le psylanceur peut provoquer une éclipse spontanée.</VPE_Eclipse.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Eclipse.jobReportString>Utilise la capacité : {0}</VPE_Eclipse.jobReportString>
+<!-- EN: éclipse -->
+<VPE_Eclipse.verbProperties.label>éclipse</VPE_Eclipse.verbProperties.label>
+
+<!-- EN: intensify shadows -->
+<VPE_IntensifyShadows.label>renforcer les ombres</VPE_IntensifyShadows.label>
+<!-- EN: Links the caster’s shadow with the shade and infuses it with obfuscating darkness, plummeting all areas on the map with less than 50% light levels into pitch darkness. Duration scales with the caster’s psychic sensitivity. -->
+<VPE_IntensifyShadows.description>Associe l'ombre du psylanceur à la nuance et l'imprègne de ténèbres obscurcissantes, plongeant dans l'obscurité totale toutes les zones de la carte où le niveau de lumière est inférieur à 50%. La durée dépend de la sensibilité psychique du lanceur.</VPE_IntensifyShadows.description>
+<!-- EN: Using ability: {0} -->
+<VPE_IntensifyShadows.jobReportString>Utilise la capacité : {0}</VPE_IntensifyShadows.jobReportString>
+<!-- EN: renforcer les ombres -->
+<VPE_IntensifyShadows.verbProperties.label>renforcer les ombres</VPE_IntensifyShadows.verbProperties.label>
+
+<!-- EN: nightstep -->
+<VPE_Nightstep.label>marche nocturne</VPE_Nightstep.label>
+<!-- EN: Briefly links nearby allies to a distant colonist’s shadow to instantly teleport them, even across the planet as long as they are not overburdened. Can only be cast at night and temporarily stuns the caster. -->
+<VPE_Nightstep.description>Relie brièvement les alliés proches à l'ombre d'un colon éloigné pour les téléporter instantanément vers la cible, même à travers la planète tant qu'ils ne sont pas surchargés. Ne peut être lancé que la nuit et étourdit temporairement le lanceur.</VPE_Nightstep.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Nightstep.jobReportString>Utilise la capacité : {0}</VPE_Nightstep.jobReportString>
+<!-- EN: marche nocturne -->
+<VPE_Nightstep.verbProperties.label>marche nocturne</VPE_Nightstep.verbProperties.label>
+
+<!-- EN: obscure -->
+<VPE_Obscure.label>obscurité</VPE_Obscure.label>
+<!-- EN: Creates a field of optical disharmony around the caster, causing affected allies standing in darkness to be completely invisible. Attacking breaks the illusion. -->
+<VPE_Obscure.description>Crée un champ de dysharmonie optique autour du psylanceur, rendant les alliés affectés se tenant dans l'obscurité complètement invisibles. Toute attaque brise l'illusion.</VPE_Obscure.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Obscure.jobReportString>Utilise la capacité : {0}</VPE_Obscure.jobReportString>
+<!-- EN: obscurité -->
+<VPE_Obscure.verbProperties.label>obscurité</VPE_Obscure.verbProperties.label>
+
+<!-- EN: shadowfocus -->
+<VPE_ShadowFocus.label>concentration des ombres</VPE_ShadowFocus.label>
+<!-- EN: Emitting particles of absorptive darkness allows the caster to augment their psychic sensitivity, which scales inversely with the local light level. -->
+<VPE_ShadowFocus.description>L'émission de particules absorbantes de ténèbres permet au psylanceur d'augmenter sa sensibilité psychique, qui est inversement proportionnelle au niveau de lumière présent sur le lanceur.</VPE_ShadowFocus.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShadowFocus.jobReportString>Utilise la capacité : {0}</VPE_ShadowFocus.jobReportString>
+<!-- EN: concentration des ombres -->
+<VPE_ShadowFocus.verbProperties.label>concentration des ombres</VPE_ShadowFocus.verbProperties.label>
+
+<!-- EN: shadowskip -->
+<VPE_Shadowskip.label>saut d'ombre</VPE_Shadowskip.label>
+<!-- EN: Linking the caster with their own shadow allows them to teleport themselves to an area of darkness, even if they can’t see the location. -->
+<VPE_Shadowskip.description>En liant le psylanceur à sa propre ombre, il peut se téléporter dans une zone d'obscurité, même s'il ne peut pas voir cet endroit.</VPE_Shadowskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Shadowskip.jobReportString>Utilise la capacité : {0}</VPE_Shadowskip.jobReportString>
+<!-- EN: saut d'ombre -->
+<VPE_Shadowskip.verbProperties.label>saut d'ombre</VPE_Shadowskip.verbProperties.label>
+
+
+<!-- protecteur -->
+<!-- EN: focus -->
+<VPE_Focus.label>concentration</VPE_Focus.label>
+<!-- EN: Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities. -->
+<VPE_Focus.description>Concentre psychiquement l'esprit de la cible pendant une minute, augmentant sa vue, son ouïe et ses capacités de mouvement.</VPE_Focus.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Focus.jobReportString>Utilise la capacité : {0}</VPE_Focus.jobReportString>
+<!-- EN: concentration -->
+<VPE_Focus.verbProperties.label>concentration</VPE_Focus.verbProperties.label>
+
+<!-- EN: guardian skipbarrier -->
+<VPE_GuardianSkipbarrier.label>gardien saut de barrage</VPE_GuardianSkipbarrier.label>
+<!-- EN: Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps. -->
+<VPE_GuardianSkipbarrier.description>Génère un portail de saut sphérique autour du lanceur qui envoie tous les projectiles terrestres vers un endroit éloigné, aussi longtemps que ce dernier peut gérer l'accumulation d'échauffement neuronal. Les personnes et les objets ne sont pas affectés. Il faut une immense concentration pour le tenir, le lanceur doit donc faire attention quand il marche.</VPE_GuardianSkipbarrier.description>
+<!-- EN: Using ability: {0} -->
+<VPE_GuardianSkipbarrier.jobReportString>Utilise la capacité : {0}</VPE_GuardianSkipbarrier.jobReportString>
+<!-- EN: gardien saut de barrage -->
+<VPE_GuardianSkipbarrier.verbProperties.label>gardien saut de barrage</VPE_GuardianSkipbarrier.verbProperties.label>
+
+<!-- EN: invisibility -->
+<VPE_Invisibility.label>invisibilité</VPE_Invisibility.label>
+<!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
+<VPE_Invisibility.description>Manipule psychiquement le système optique de toutes les personnes se trouvant à proximité, les rendant incapables de percevoir un individu particulier pendant un court instant.</VPE_Invisibility.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Invisibility.jobReportString>Utilise la capacité : {0}</VPE_Invisibility.jobReportString>
+<!-- EN: invisibilité -->
+<VPE_Invisibility.verbProperties.label>invisibilité</VPE_Invisibility.verbProperties.label>
+
+<!-- EN: overshield -->
+<VPE_Overshield.label>bouclier de protection</VPE_Overshield.label>
+<!-- EN: Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected. -->
+<VPE_Overshield.description>Génère un portail de saut sphérique sur une cible qui envoie tous les projectiles terrestres entrants vers un endroit éloigné, la durée s'adaptant à la sensibilité psychique de la cible. Les personnes et les objets ne sont pas affectés.</VPE_Overshield.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Overshield.jobReportString>Utilise la capacité : {0}</VPE_Overshield.jobReportString>
+<!-- EN: bouclier de protection -->
+<VPE_Overshield.verbProperties.label>bouclier de protection</VPE_Overshield.verbProperties.label>
+
+<!-- EN: painblock -->
+<VPE_Painblock.label>inhibition de la douleur</VPE_Painblock.label>
+<!-- EN: Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
+<VPE_Painblock.description>Limite sévèrement le système de la douleur dans le cerveau de la cible pendant quelques minutes. Cela peut permettre à une personne de bouger et d'agir même avec des blessures graves qui la rendraient normalement invalide.</VPE_Painblock.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Painblock.jobReportString>Utilise la capacité : {0}</VPE_Painblock.jobReportString>
+<!-- EN: inhibition de la douleur -->
+<VPE_Painblock.verbProperties.label>inhibition de la douleur</VPE_Painblock.verbProperties.label>
+
+<!-- EN: regrow limbs -->
+<VPE_RegrowLimbs.label>régénération de membres</VPE_RegrowLimbs.label>
+<!-- EN: Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs. -->
+<VPE_RegrowLimbs.description>Induit un coma psychique et régénérateur chez la cible qui dure une journée entière. L'énergie psychique assiste la cible en faisant lentement repousser les membres manquants.</VPE_RegrowLimbs.description>
+<!-- EN: Using ability: {0} -->
+<VPE_RegrowLimbs.jobReportString>Utilise la capacité : {0}</VPE_RegrowLimbs.jobReportString>
+<!-- EN: régénération de membres -->
+<VPE_RegrowLimbs.verbProperties.label>régénération de membres</VPE_RegrowLimbs.verbProperties.label>
+
+<!-- EN: skipshield -->
+<VPE_Skipshield.label>saut de bouclier</VPE_Skipshield.label>
+<!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster. -->
+<VPE_Skipshield.description>Génère un portail de saut sphérique qui envoie tous les projectiles terrestres entrants et sortants vers un endroit éloigné. Les personnes et les objets ne sont pas affectés. La durée dépend de la sensibilité psychique du lanceur.</VPE_Skipshield.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Skipshield.jobReportString>Utilise la capacité : {0}</VPE_Skipshield.jobReportString>
+<!-- EN: saut de bouclier -->
+<VPE_Skipshield.verbProperties.label>saut de bouclier</VPE_Skipshield.verbProperties.label>
+
+<!-- EN: stabilize -->
+<VPE_Stabilize.label>stabiliser</VPE_Stabilize.label>
+<!-- EN: Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for a time, scaling with the psychic sensitivity of the caster. -->
+<VPE_Stabilize.description>Met temporairement le système cardiovasculaire de la cible en stase, ce qui l'empêche de se vider de son sang pendant un certain temps, en fonction de la sensibilité psychique du lanceur.</VPE_Stabilize.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Stabilize.jobReportString>Utilise la capacité : {0}</VPE_Stabilize.jobReportString>
+<!-- EN: stabiliser -->
+<VPE_Stabilize.verbProperties.label>stabiliser</VPE_Stabilize.verbProperties.label>
+
+<!-- EN: word of healing -->
+<VPE_WordofHealing.label>mot de guérison</VPE_WordofHealing.label>
+<!-- EN: Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days. -->
+<VPE_WordofHealing.description>Stimule psychiquement les capacités de régénération d'une personne, en triplant l’efficacité du facteur de guérison naturel pendant quelques jours.</VPE_WordofHealing.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofHealing.jobReportString>Utilise la capacité : {0}</VPE_WordofHealing.jobReportString>
+<!-- EN: mot de guérison -->
+<VPE_WordofHealing.verbProperties.label>mot de guérison</VPE_WordofHealing.verbProperties.label>
+
+<!-- EN: word of immunity -->
+<VPE_WordofImmunity.label>mot d'immunité</VPE_WordofImmunity.label>
+<!-- EN: Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days. -->
+<VPE_WordofImmunity.description>Stimule psychiquement le système immunitaire d'une personne, en doublant l’efficacité de la vitesse de réponse immunitaire pendant quelques jours.</VPE_WordofImmunity.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofImmunity.jobReportString>Utilise la capacité : {0}</VPE_WordofImmunity.jobReportString>
+<!-- EN: mot d'immunité -->
+<VPE_WordofImmunity.verbProperties.label>mot d'immunité</VPE_WordofImmunity.verbProperties.label>
+
+
+<!-- maître des sauts -->
+<!-- EN: chaos skip -->
+<VPE_ChaosSkip.label>saut chaotique</VPE_ChaosSkip.label>
+<!-- EN: Teleport the target to a random position from where he started, the distance scaling with the caster’s psychic sensitivity. Stuns the target for a second and is considered a hostile action. -->
+<VPE_ChaosSkip.description>Téléporte la cible à une position aléatoire près de son point de départ, la distance augmentant avec la sensibilité psychique du lanceur. Étourdit la cible pendant une seconde, cette action est considérée comme hostile.</VPE_ChaosSkip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ChaosSkip.jobReportString>Utilise la capacité : {0}</VPE_ChaosSkip.jobReportString>
+<!-- EN: saut chaotique -->
+<VPE_ChaosSkip.verbProperties.label>saut chaotique</VPE_ChaosSkip.verbProperties.label>
+
+<!-- EN: chunk skip -->
+<VPE_Chunkskip.label>saut de blocs</VPE_Chunkskip.label>
+<!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+<VPE_Chunkskip.description>Déplace 5 morceaux de roche ou de débris pour les disperser près du point ciblé. Ceci est utile pour produire une couverture lors d'opérations offensives.</VPE_Chunkskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Chunkskip.jobReportString>Utilise la capacité : {0}</VPE_Chunkskip.jobReportString>
+<!-- EN: saut de blocs -->
+<VPE_Chunkskip.verbProperties.label>saut de blocs</VPE_Chunkskip.verbProperties.label>
+
+<!-- EN: farskip -->
+<VPE_Farskip.label>transport lointain</VPE_Farskip.label>
+<!-- EN: Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey. -->
+<VPE_Farskip.description>Téléporte le psylanceur, ainsi que toute personne se trouvant près de lui, vers un allié volontaire dans un lieu éloigné. Cela peut envoyer des personnes à l'autre bout de la planète, les personnes téléportées apparaîtront toujours près d'un allié aléatoire sur la carte ciblée et seront étourdies pendant quelques secondes par leur voyage.</VPE_Farskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Farskip.jobReportString>Utilise la capacité : {0}</VPE_Farskip.jobReportString>
+<!-- EN: transport lointain -->
+<VPE_Farskip.verbProperties.label>transport lointain</VPE_Farskip.verbProperties.label>
+
+<!-- EN: mass chaos skip -->
+<VPE_MassChaosSkip.label>saut chaotique de masse</VPE_MassChaosSkip.label>
+<!-- EN: Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger. -->
+<VPE_MassChaosSkip.description>Téléporte toutes les créatures proches du point ciblé vers une position aléatoire à proximité. Considéré comme une nuisance car cela peut mettre en danger les alliés.</VPE_MassChaosSkip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MassChaosSkip.jobReportString>Utilise la capacité : {0}</VPE_MassChaosSkip.jobReportString>
+<!-- EN: saut chaotique de masse -->
+<VPE_MassChaosSkip.verbProperties.label>saut chaotique de masse</VPE_MassChaosSkip.verbProperties.label>
+
+<!-- EN: skip -->
+<VPE_Skip.label>téléportation</VPE_Skip.label>
+<!-- EN: Teleport the target to a desired position, the distance scaling with the caster’s psychic sensitivity, from his starting point. This is considered a hostile action. -->
+<VPE_Skip.description>Téléporte la cible à la postion désirée proche de sa position de départ, la distance étant proportionnelle à la sensibilité psychique du lanceur. Cette action est considérée comme hostile.</VPE_Skip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Skip.jobReportString>Utilise la capacité : {0}</VPE_Skip.jobReportString>
+<!-- EN: téléportation -->
+<VPE_Skip.verbProperties.label>téléportation</VPE_Skip.verbProperties.label>
+
+<!-- EN: skipdoor -->
+<VPE_Skipdoor.label>porte de saut</VPE_Skipdoor.label>
+<!-- EN: Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse. -->
+<VPE_Skipdoor.description>Crée une ouverture vers un réseau de portails de saut qui peut être placé à n'importe quel endroit avec une présence permanente. Le réseau est lié à la conscience collective d'un groupe, ce qui permet à d'autres de l'utiliser et à différents psylanceurs de le compléter. Cependant, les points d'entrée sont sensibles aux perturbations physiques pouvant entraîner son effondrement.</VPE_Skipdoor.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Skipdoor.jobReportString>Utilise la capacité : {0}</VPE_Skipdoor.jobReportString>
+<!-- EN: porte de saut -->
+<VPE_Skipdoor.verbProperties.label>porte de saut</VPE_Skipdoor.verbProperties.label>
+
+<!-- EN: smokepop -->
+<VPE_Smokepop.label>écran de fumée</VPE_Smokepop.label>
+<!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+<VPE_Smokepop.description>Téléporte des particules de terre provenant du sous-sol pour former un épais nuage. Celui-ci réduit la précision de tous les tirs exécutés à travers lui et empêche complètement la visée automatique des tourelles de fonctionner.</VPE_Smokepop.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Smokepop.jobReportString>Utilise la capacité : {0}</VPE_Smokepop.jobReportString>
+<!-- EN: écran de fumée -->
+<VPE_Smokepop.verbProperties.label>écran de fumée</VPE_Smokepop.verbProperties.label>
+
+<!-- EN: solar pinhole -->
+<VPE_SolarPinhole.label>trou d'épingle solaire</VPE_SolarPinhole.label>
+<!-- EN: Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
+<VPE_SolarPinhole.description>Génère un trou de vers microscopique relié au noyau d'une étoile proche pendant quelques jours. La matière solaire fuite par le trou d'épingle au travers de l'espace-temps, éclairant et réchauffant la zone environnante jusqu'à ce qu'il se referme. La lumière est suffisante pour travailler, mais pas assez pour faire pousser des plantes.</VPE_SolarPinhole.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SolarPinhole.jobReportString>Utilise la capacité : {0}</VPE_SolarPinhole.jobReportString>
+<!-- EN: trou d'épingle solaire -->
+<VPE_SolarPinhole.verbProperties.label>trou d'épingle solaire</VPE_SolarPinhole.verbProperties.label>
+
+<!-- EN: wall raise -->
+<VPE_Wallraise.label>mur de terre</VPE_Wallraise.label>
+<!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours. -->
+<VPE_Wallraise.description>Forme un mur temporaire en téléportant des cailloux et de la terre des profondeurs du sol. Portée décente et utile pour bloquer la ligne de vue et le mouvement pendant quelques heures.</VPE_Wallraise.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Wallraise.jobReportString>Utilise la capacité : {0}</VPE_Wallraise.jobReportString>
+<!-- EN: mur de terre -->
+<VPE_Wallraise.verbProperties.label>mur de terre</VPE_Wallraise.verbProperties.label>
+
+<!-- EN: waterskip -->
+<VPE_Waterskip.label>arrosage massif</VPE_Waterskip.label>
+<!-- EN: Douse a target in water, extinguishing fires and shorting any electrical structures. The water is archotechnologically skipped from distant bodies of water or underground aquifers, with the amount skipped scaling with psychic sensitivity. -->
+<VPE_Waterskip.description>Arrose d'eau une zone cible, pratique pour éteindre les incendies et de court-circuiter les structures électriques. L'eau est prelevée par un procédé archotechnologique dans les plans d'eau éloignés ou depuis les nappes phréatiques souterraines, la quantité extraite étant proportionnelle à la sensibilité psychique du lanceur.</VPE_Waterskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Waterskip.jobReportString>Utilise la capacité : {0}</VPE_Waterskip.jobReportString>
+<!-- EN: arrosage massif -->
+<VPE_Waterskip.verbProperties.label>arrosage massif</VPE_Waterskip.verbProperties.label>
+
+
+<!-- seigneur statique -->
+<!-- EN: ball lightning -->
+<VPE_BallLightning.label>orbe de foudre</VPE_BallLightning.label>
+<!-- EN: The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity. -->
+<VPE_BallLightning.description>Le psylanceur comprime un orbe d'électricité condensée qui se déplace lentement vers l'endroit désigné. Quelques secondes après sa libération, elle commencera à se décharger sur les cibles environnantes avec des éclairs d'électricité.</VPE_BallLightning.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BallLightning.jobReportString>Utilise la capacité : {0}</VPE_BallLightning.jobReportString>
+<!-- EN: orbe de foudre -->
+<VPE_BallLightning.verbProperties.label>orbe de foudre</VPE_BallLightning.verbProperties.label>
+
+<!-- EN: bolt -->
+<VPE_Bolt.label>trait de foudre</VPE_Bolt.label>
+<!-- EN: Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage. -->
+<VPE_Bolt.description>Lance un faible éclair d'électricité pour frapper une petite zone ciblée, la distance étant proportionnelle à la sensibilité psychique du lanceur. Inflige des brûlures mineures sur les coups directs et des dégâts IEM de zone.</VPE_Bolt.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Bolt.jobReportString>Utilise la capacité : {0}</VPE_Bolt.jobReportString>
+<!-- EN: trait de foudre -->
+<VPE_Bolt.verbProperties.label>trait de foudre</VPE_Bolt.verbProperties.label>
+
+<!-- EN: chain bolt -->
+<VPE_ChainBolt.label>chaîne d'éclairs</VPE_ChainBolt.label>
+<!-- EN: Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage. -->
+<VPE_ChainBolt.description>Lance un éclair d'électricité sur une cible qui peut ensuite rebondir sur des cibles proches, le nombre de rebond étant proportionnelle à la sensibilité psychique du lanceur. Inflige de légères brûlures et des dégâts d'IEM.</VPE_ChainBolt.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ChainBolt.jobReportString>Utilise la capacité : {0}</VPE_ChainBolt.jobReportString>
+<!-- EN: chaîne d'éclairs -->
+<VPE_ChainBolt.verbProperties.label>chaîne d'éclairs</VPE_ChainBolt.verbProperties.label>
+
+<!-- EN: flashstorm -->
+<VPE_Flashstorm.label>tempête d'éclairs</VPE_Flashstorm.label>
+<!-- EN: Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
+<VPE_Flashstorm.description>Utilise les différences de pression concentrées dans l'atmosphère pour générer une tempête d'éclairs localisée. La tempête frappera la zone avec des éclairs pendant un certain temps avant de se dissiper.</VPE_Flashstorm.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Flashstorm.jobReportString>Utilise la capacité : {0}</VPE_Flashstorm.jobReportString>
+<!-- EN: tempête d'éclairs -->
+<VPE_Flashstorm.verbProperties.label>tempête d'éclairs</VPE_Flashstorm.verbProperties.label>
+
+<!-- EN: hurricane -->
+<VPE_Hurricane.label>ouragan</VPE_Hurricane.label>
+<!-- EN: The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop. -->
+<VPE_Hurricane.description>Le psylanceur modifie de force le temps - à l'aide de la difference de pression différentielle étendu - en une pluie diluvienne accompagnée de vents de la force d'un ouragan, qui dure aussi longtemps que le lanceur peut gérer l'accumulation d'échauffement neuronal et il s'arrêtera immédiatement à la limite du dépassement neuronal. Les personnes se trouvant à l'extérieur verront leur vue, leurs mouvements et leurs manipulations progressivement limités, jusqu'à la fin de l'ouragan.</VPE_Hurricane.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Hurricane.jobReportString>Utilise la capacité : {0}</VPE_Hurricane.jobReportString>
+<!-- EN: ouragan -->
+<VPE_Hurricane.verbProperties.label>ouragan</VPE_Hurricane.verbProperties.label>
+
+<!-- EN: recharge -->
+<VPE_Recharge.label>rechargement</VPE_Recharge.label>
+<!-- EN: Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity. -->
+<VPE_Recharge.description>Accorde avec soin et délicatesse un flux d'électricité à une batterie touchée pour la recharger de 100kW ou l'équivalent de 100 Wd/s. La durée de la recharge dépend de la sensibilité psychique du lanceur.</VPE_Recharge.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Recharge.jobReportString>Utilise la capacité : {0}</VPE_Recharge.jobReportString>
+<!-- EN: rechargement -->
+<VPE_Recharge.verbProperties.label>rechargement</VPE_Recharge.verbProperties.label>
+
+<!-- EN: static aura -->
+<VPE_StaticAura.label>aura statique</VPE_StaticAura.label>
+<!-- EN: The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects. -->
+<VPE_StaticAura.description>Le psylanceur désigne une cible proche pour qu'elle reçoive une aura d'électricité déferlante, qui inflige des effets IEM à tout ce qui lui est étranger, cela comprend les structures, les colons et les objets électriques.</VPE_StaticAura.description>
+<!-- EN: Using ability: {0} -->
+<VPE_StaticAura.jobReportString>Utilise la capacité : {0}</VPE_StaticAura.jobReportString>
+<!-- EN: aura statique -->
+<VPE_StaticAura.verbProperties.label>aura statique</VPE_StaticAura.verbProperties.label>
+
+<!-- EN: static pulse -->
+<VPE_StaticPulse.label>impulsion statique</VPE_StaticPulse.label>
+<!-- EN: The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless. -->
+<VPE_StaticPulse.description>Le psylanceur déverse une quantité massive de tension dans l'air environnant, provoquant une explosion IEM dans un immense rayon mais qui est inoffensif.</VPE_StaticPulse.description>
+<!-- EN: Using ability: {0} -->
+<VPE_StaticPulse.jobReportString>Utilise la capacité : {0}</VPE_StaticPulse.jobReportString>
+<!-- EN: impulsion statique -->
+<VPE_StaticPulse.verbProperties.label>impulsion statique</VPE_StaticPulse.verbProperties.label>
+
+<!-- EN: thunderbolt -->
+<VPE_Thunderbolt.label>foudre</VPE_Thunderbolt.label>
+<!-- EN: Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells. -->
+<VPE_Thunderbolt.description>Invoque un éclair pour frapper une cible, infligeant des brûlures sur les coups directs et des dégâts IEM sur une zone plus large. Le rayon d'impact augmente en fonction de la sensibilité psychique du lanceur, jusqu'à un maximum de 12 cases.</VPE_Thunderbolt.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Thunderbolt.jobReportString>Utilise la capacité : {0}</VPE_Thunderbolt.jobReportString>
+<!-- EN: foudre -->
+<VPE_Thunderbolt.verbProperties.label>foudre</VPE_Thunderbolt.verbProperties.label>
+
+<!-- EN: vortex -->
+<VPE_Vortex.label>vortex</VPE_Vortex.label>
+<!-- EN: Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center. -->
+<VPE_Vortex.description>Provoque un gigantesque vortex d'électricité à haute tension - redirigée par un portail de saut d'une tempête de nébuleuses - sur une zone cible avec un effet important. Entrave sévèrement les mouvements et la manipulation de manière proportionnelle, avec un effet plus fort au centre du vortex.</VPE_Vortex.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Vortex.jobReportString>Utilise la capacité : {0}</VPE_Vortex.jobReportString>
+<!-- EN: vortex -->
+<VPE_Vortex.verbProperties.label>vortex</VPE_Vortex.verbProperties.label>
+
+
+<!-- technomancien -->
+<!-- EN: conjure heat pearls -->
+<VPE_ConjureHeatPearls.label>perles d'échauffement</VPE_ConjureHeatPearls.label>
+<!-- EN: Converts the caster’s neural heat into compressed metaphysical pearls. Completely harmless, but dumps a tremendous amount of neural heat into a small area when shattered. -->
+<VPE_ConjureHeatPearls.description>Convertit l'échauffement neuronal du lanceur en perles métaphysiques compressées. Complètement inoffensif, elle déverse une énorme quantité d'échauffement neuronal dans une petite zone lorsqu'elle est brisée.</VPE_ConjureHeatPearls.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ConjureHeatPearls.jobReportString>Utilise la capacité : {0}</VPE_ConjureHeatPearls.jobReportString>
+<!-- EN: perles d'échauffement -->
+<VPE_ConjureHeatPearls.verbProperties.label>perles d'échauffement</VPE_ConjureHeatPearls.verbProperties.label>
+
+<!-- EN: craft psyring -->
+<VPE_CraftPsyRing.label>anneau psychique</VPE_CraftPsyRing.label>
+<!-- EN: Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice. -->
+<VPE_CraftPsyRing.description>Modifie psychiquement la forme d'un morceau d'eltex pour lui donner la forme d'un anneau, qui est imprégné d'un sort de la connaissance du psylanceur. Lorsqu'il est porté par un autre psylanceur, cet anneau lui permet temporairement d'utiliser ces connaissances pour lancer le sort psychique imprégniez et ce, sans entraînement.</VPE_CraftPsyRing.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CraftPsyRing.jobReportString>Utilise la capacité : {0}</VPE_CraftPsyRing.jobReportString>
+<!-- EN: anneau psychique -->
+<VPE_CraftPsyRing.verbProperties.label>anneau psychique</VPE_CraftPsyRing.verbProperties.label>
+
+<!-- EN: enchant quality -->
+<VPE_EnchantQuality.label>qualité de l'objet</VPE_EnchantQuality.label>
+<!-- EN: Psychically manipulate an object or structure to improve its overall quality. Maximum quality depends on psychic sensitivity. -->
+<VPE_EnchantQuality.description>Manipule psychiquement un objet ou une structure pour en améliorer la qualité globale. La qualité maximale dépend de la sensibilité psychique du lanceur.</VPE_EnchantQuality.description>
+<!-- EN: Using ability: {0} -->
+<VPE_EnchantQuality.jobReportString>Utilise la capacité : {0}</VPE_EnchantQuality.jobReportString>
+<!-- EN: qualité de l'objet -->
+<VPE_EnchantQuality.verbProperties.label>qualité de l'objet</VPE_EnchantQuality.verbProperties.label>
+
+<!-- EN: haywire -->
+<VPE_Haywire.label>détraquer</VPE_Haywire.label>
+<!-- EN: Subjects an area to psychic interference, temporarily reconfiguring up to 3 automated weapons systems to protect the caster and their allies. Duration scales with the caster’s psychic sensitivity. -->
+<VPE_Haywire.description>Soumet une zone à des interférences psychiques, reconfigurant temporairement jusqu'à 3 systèmes d'armes automatisés pour protéger le psylanceur et ses alliés. La durée varie en fonction de la sensibilité psychique du lanceur.</VPE_Haywire.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Haywire.jobReportString>Utilise la capacité : {0}</VPE_Haywire.jobReportString>
+<!-- EN: détraquer -->
+<VPE_Haywire.verbProperties.label>détraquer</VPE_Haywire.verbProperties.label>
+
+<!-- EN: mend -->
+<VPE_Mend.label>réparer</VPE_Mend.label>
+<!-- EN: Psychically manipulate an object or structure to restore its condition. Requires high psychic sensitivity for any meaningful restoration. -->
+<VPE_Mend.description>Manipule psychiquement un objet ou une structure pour en restaurer l'état. Nécessite une grande sensibilité psychique pour une restauration significative.</VPE_Mend.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Mend.jobReportString>Utilise la capacité : {0}</VPE_Mend.jobReportString>
+<!-- EN: réparer -->
+<VPE_Mend.verbProperties.label>réparer</VPE_Mend.verbProperties.label>
+
+<!-- EN: power -->
+<VPE_Power.label>énergie</VPE_Power.label>
+<!-- EN: Metaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity. -->
+<VPE_Power.description>Modifie métaphysiquement l'alimentation de l'équipement désigné pour obtenir de l'énergie directement à partir des fluctuations de la mousse quantique pendant quelques jours. La durée varie en fonction de la sensibilité psychique du lanceur.</VPE_Power.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Power.jobReportString>Utilise la capacité : {0}</VPE_Power.jobReportString>
+<!-- EN: énergie -->
+<VPE_Power.verbProperties.label>énergie</VPE_Power.verbProperties.label>
+
+<!-- EN: reverse engineer -->
+<VPE_ReverseEngineer.label>rétro-ingénierie</VPE_ReverseEngineer.label>
+<!-- EN: Psychically manipulate an object or structure to learn its history and principles, annihilating it in the process. Extremely taxing, resulting in the caster falling into a temporary coma. -->
+<VPE_ReverseEngineer.description>Manipule psychiquement un objet ou une structure pour en connaître l'histoire et les principes, et l'anéantit au passage. Extrêmement éprouvant, il fait tomber le psylanceur dans un coma temporaire.</VPE_ReverseEngineer.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ReverseEngineer.jobReportString>Utilise la capacité : {0}</VPE_ReverseEngineer.jobReportString>
+<!-- EN: rétro-ingénierie -->
+<VPE_ReverseEngineer.verbProperties.label>rétro-ingénierie</VPE_ReverseEngineer.verbProperties.label>
+
+<!-- EN: rock construct -->
+<VPE_RockConstruct.label>construction rocheuse</VPE_RockConstruct.label>
+<!-- EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into a stone chunk. Creates a construct capable of simple chores. Breaking the crystals restores heat tolerance. -->
+<VPE_RockConstruct.description>Verrouille une petite quantité d'échauffement neuronal du psylanceur en cristal métaphysique qui sera implanté dans un morceau de roche. Cette nouvelle construction rocheuse est capable d'effectuer des tâches simples, si le cristal est brisé, la quantité d'échauffement neuronal est restaurée.</VPE_RockConstruct.description>
+<!-- EN: Using ability: {0} -->
+<VPE_RockConstruct.jobReportString>Utilise la capacité : {0}</VPE_RockConstruct.jobReportString>
+<!-- EN: construction rocheuse -->
+<VPE_RockConstruct.verbProperties.label>construction rocheuse</VPE_RockConstruct.verbProperties.label>
+
+<!-- EN: steel construct -->
+<VPE_SteelConstruct.label>construction métallique</VPE_SteelConstruct.label>
+<!-- EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into steel slag. Creates a construct that guards the caster. Breaking the crystals restores heat tolerance. -->
+<VPE_SteelConstruct.description>Verrouille une petite quantité d'échauffement neuronal du psylanceur en cristal métaphysique qui sera implanté dans un débris d'acier. Cette nouvelle construction métallique suivra le psylanceur et le protégera de tout danger, si le cristal est brisé, la quantité d'échauffement neuronal sera restaurée.</VPE_SteelConstruct.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SteelConstruct.jobReportString>Utilise la capacité : {0}</VPE_SteelConstruct.jobReportString>
+<!-- EN: construction métallique -->
+<VPE_SteelConstruct.verbProperties.label>construction métallique</VPE_SteelConstruct.verbProperties.label>
+
+<!-- EN: word of progress -->
+<VPE_WordofProgress.label>mot de progrès</VPE_WordofProgress.label>
+<!-- EN: Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity. -->
+<VPE_WordofProgress.description>Prononce des mots encourageant les capacités de résolution de problèmes tout en surchargeant psychiquement l'esprit de la cible avec une perspicacité aiguë. La cible verra sa vitesse de recherche et son gain de compétences intellectuelles doubler pendant 5 jours, en fonction de sa sensibilité psychique.</VPE_WordofProgress.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofProgress.jobReportString>Utilise la capacité : {0}</VPE_WordofProgress.jobReportString>
+<!-- EN: mot de progrès -->
+<VPE_WordofProgress.verbProperties.label>mot de progrès</VPE_WordofProgress.verbProperties.label>
+
+
+<!-- seigneur de guerre -->
+<!-- EN: adrenaline rush -->
+<VPE_AdrenalineRush.label>poussée d'adrénaline</VPE_AdrenalineRush.label>
+<!-- EN: Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity. -->
+<VPE_AdrenalineRush.description>Déclenche psychiquement une poussée d'adrénaline chez le lanceur, bloquant toute douleur et augmentant sa vue, son ouïe et son déplacement. Dure environ trente secondes, selon sa sensibilité psychique.</VPE_AdrenalineRush.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AdrenalineRush.jobReportString>Utilise la capacité : {0}</VPE_AdrenalineRush.jobReportString>
+<!-- EN: poussée d'adrénaline -->
+<VPE_AdrenalineRush.verbProperties.label>poussée d'adrénaline</VPE_AdrenalineRush.verbProperties.label>
+
+<!-- EN: beckon -->
+<VPE_Beckon.label>provocation</VPE_Beckon.label>
+<!-- EN: Psychically command the target to approach the caster. -->
+<VPE_Beckon.description>Ordonne psychiquement à la cible de s'approcher du psylanceur.</VPE_Beckon.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Beckon.jobReportString>Utilise la capacité : {0}</VPE_Beckon.jobReportString>
+<!-- EN: provocation -->
+<VPE_Beckon.verbProperties.label>provocation</VPE_Beckon.verbProperties.label>
+
+<!-- EN: blade focus -->
+<VPE_BladeFocus.label>concentration de mêlée</VPE_BladeFocus.label>
+<!-- EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity. -->
+<VPE_BladeFocus.description>Augmente psychiquement les fibres musculaires, les ligaments et les articulations des bras du psylanceur, doublant sa vitesse d'attaque en mêlée pendant environ deux minutes, selon sa sensibilité psychique.</VPE_BladeFocus.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BladeFocus.jobReportString>Utilise la capacité : {0}</VPE_BladeFocus.jobReportString>
+<!-- EN: concentration de mêlée -->
+<VPE_BladeFocus.verbProperties.label>focus de la lame</VPE_BladeFocus.verbProperties.label>
+
+<!-- EN: controlled frenzy -->
+<VPE_ControlledFrenzy.label>frénésie contrôlée</VPE_ControlledFrenzy.label>
+<!-- EN: Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy. -->
+<VPE_ControlledFrenzy.description>Augmente psychiquement les prouesses et les pulsions meurtrières du psylanceur, doublant les dégâts qu'il inflige avec toutes les armes. Chaque mort réduit de 10 l'échauffement neuronal du lanceur et réinitialise la durée de la frénésie.</VPE_ControlledFrenzy.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ControlledFrenzy.jobReportString>Utilise la capacité : {0}</VPE_ControlledFrenzy.jobReportString>
+<!-- EN: frénésie contrôlée -->
+<VPE_ControlledFrenzy.verbProperties.label>frénésie contrôlée</VPE_ControlledFrenzy.verbProperties.label>
+
+<!-- EN: firing focus -->
+<VPE_FiringFocus.label>concentration de tir</VPE_FiringFocus.label>
+<!-- EN: Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity. -->
+<VPE_FiringFocus.description>Augmente psychiquement les mains, les yeux et la vitesse de réaction du psylanceur, réduisant le temps de recharge de ses attaques à distance de 80% pendant environ deux minutes, en fonction de sa sensibilité psychique.</VPE_FiringFocus.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FiringFocus.jobReportString>Utilise la capacité : {0}</VPE_FiringFocus.jobReportString>
+<!-- EN: concentration de tir -->
+<VPE_FiringFocus.verbProperties.label>firing focus</VPE_FiringFocus.verbProperties.label>
+
+<!-- EN: guided shot -->
+<VPE_GuidedShot.label>tir guidé</VPE_GuidedShot.label>
+<!-- EN: Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster. -->
+<VPE_GuidedShot.description>Projette une aura psychique pendant quelques instants qui permet au psylanceur de modifier la trajectoire des balles qu'il tire, doublant ainsi la portée de son arme et lui garantissant de toucher pendant toute la durée de l'aura. La durée est proportionnelle à la sensibilité psychique du psylanceur.</VPE_GuidedShot.description>
+<!-- EN: Using ability: {0} -->
+<VPE_GuidedShot.jobReportString>Utilise la capacité : {0}</VPE_GuidedShot.jobReportString>
+<!-- EN: tir guidé -->
+<VPE_GuidedShot.verbProperties.label>tir guidé</VPE_GuidedShot.verbProperties.label>
+
+<!-- EN: killskip -->
+<VPE_Killskip.label>saut mortel</VPE_Killskip.label>
+<!-- EN: Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill. -->
+<VPE_Killskip.description>Se téléporte vers la cible et exécute une frappe de mêlée, affaiblie ou augmentée par la compétence de mêlée du lanceur. Si la cible meurt, il se téléporte gratuitement vers le prochain ennemi le plus proche et attaque à nouveau, jusqu'à ce qu'il n'y ait plus rien à tuer.</VPE_Killskip.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Killskip.jobReportString>Utilise la capacité : {0}</VPE_Killskip.jobReportString>
+<!-- EN: saut mortel -->
+<VPE_Killskip.verbProperties.label>saut mortel</VPE_Killskip.verbProperties.label>
+
+<!-- EN: mass beckon -->
+<VPE_MassBeckon.label>provocation de masse</VPE_MassBeckon.label>
+<!-- EN: Psychically command the targets within an area to approach the caster. -->
+<VPE_MassBeckon.description>Ordonne psychiquement aux cibles dans la zone d'effet de s'approcher du psylanceur.</VPE_MassBeckon.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MassBeckon.jobReportString>Utilise la capacité : {0}</VPE_MassBeckon.jobReportString>
+<!-- EN: provocation de masse -->
+<VPE_MassBeckon.verbProperties.label>provocation de masse</VPE_MassBeckon.verbProperties.label>
+
+<!-- EN: power leap -->
+<VPE_PowerLeap.label>saut de puissance</VPE_PowerLeap.label>
+<!-- EN: Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity. -->
+<VPE_PowerLeap.description>Augmente considérablement les jambes, les pieds et la colonne vertébrale du psylanceur pour lui permettre de sauter sur de grandes distances et d'atterrir sans se blesser, la distance augmente selon sa sensibilité psychique.</VPE_PowerLeap.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PowerLeap.jobReportString>Utilise la capacité : {0}</VPE_PowerLeap.jobReportString>
+<!-- EN: saut de puissance -->
+<VPE_PowerLeap.verbProperties.label>saut de puissance</VPE_PowerLeap.verbProperties.label>
+
+<!-- EN: speedboost -->
+<VPE_SpeedBoost.label>boost de vitesse</VPE_SpeedBoost.label>
+<!-- EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity. -->
+<VPE_SpeedBoost.description>Augmente psychiquement les fibres musculaires, les ligaments et les articulations des jambes du psylanceur, triplant sa vitesse de déplacement pendant environ deux minutes, selon sa sensibilité psychique.</VPE_SpeedBoost.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SpeedBoost.jobReportString>Utilise la capacité : {0}</VPE_SpeedBoost.jobReportString>
+<!-- EN: boost de vitesse -->
+<VPE_SpeedBoost.verbProperties.label>boost de vitesse</VPE_SpeedBoost.verbProperties.label>
+
+
+<!-- orateur sauvage -->
+<!-- EN: animal allies -->
+<VPE_AnimalAllies.label>alliés des animaux</VPE_AnimalAllies.label>
+<!-- EN: Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity. -->
+<VPE_AnimalAllies.description>Infuse une large zone avec une force de vie harmonique qui influence le comportement des animaux, les poussant à attaquer ceux qui sont hostiles au psylanceur pour une durée qui varie selon la sensibilité psychique du lanceur.</VPE_AnimalAllies.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AnimalAllies.jobReportString>Utilise la capacité : {0}</VPE_AnimalAllies.jobReportString>
+<!-- EN: alliés des animaux -->
+<VPE_AnimalAllies.verbProperties.label>alliés des animaux</VPE_AnimalAllies.verbProperties.label>
+
+<!-- EN: bramble maze -->
+<VPE_BrambleMaze.label>labyrinthe de ronces</VPE_BrambleMaze.label>
+<!-- EN: Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours. -->
+<VPE_BrambleMaze.description>Infuse une zone fertile avec une énergie vitale chaotique, ce qui fait pousser des ronces qui fanent après 12 heures.</VPE_BrambleMaze.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BrambleMaze.jobReportString>Utilise la capacité : {0}</VPE_BrambleMaze.jobReportString>
+<!-- EN: labyrinthe de ronces -->
+<VPE_BrambleMaze.verbProperties.label>labyrinthe de ronces</VPE_BrambleMaze.verbProperties.label>
+
+<!-- EN: crop burst -->
+<VPE_CropBurst.label>pousse de culture</VPE_CropBurst.label>
+<!-- EN: Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity. -->
+<VPE_CropBurst.description>Infuse une zone fertile avec de l'énergie vitale, faisant pousser des plantes avec de la maturitée en fonction de la sensibilité psychique du lanceur.</VPE_CropBurst.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CropBurst.jobReportString>Utilise la capacité : {0}</VPE_CropBurst.jobReportString>
+<!-- EN: pousse de culture -->
+<VPE_CropBurst.verbProperties.label>pousse de culture</VPE_CropBurst.verbProperties.label>
+
+<!-- EN: essence transfer -->
+<VPE_EssenceTransfer.label>transfert d'essence</VPE_EssenceTransfer.label>
+<!-- EN: Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a 6 hour coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying upon completion. Should the linked animal die first, the effect is lost, and there can only be one link at a time. -->
+<VPE_EssenceTransfer.description>Infuse la force vitale d'une autre personne proche dans un animal de la colonie, les liant et plonge le psylanceur dans un coma de 6 heures. Si la personne liée meurt, l'animal lié ira à ses côtés et lui transférera sa propre essence vitale harmonisée, mourant une fois terminé. Si l'animal lié meurt en premier, l'effet est perdu et un seul lien peut être établi à la fois.</VPE_EssenceTransfer.description>
+<!-- EN: Using ability: {0} -->
+<VPE_EssenceTransfer.jobReportString>Utilise la capacité : {0}</VPE_EssenceTransfer.jobReportString>
+<!-- EN: transfert d'essence -->
+<VPE_EssenceTransfer.verbProperties.label>transfert d'essence</VPE_EssenceTransfer.verbProperties.label>
+
+<!-- EN: manhunter pulse -->
+<VPE_ManhunterPulse.label>impulsion chasseur d'hommes</VPE_ManhunterPulse.label>
+<!-- EN: Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan. -->
+<VPE_ManhunterPulse.description>Provoque chez les animaux dans une grande zone une folie de chasseurs d'hommes à l'aide d'une impulsion psychique, d'une durée d'une minute. Considéré comme une déclaration de guerre s'il affecte les animaux d'une caravane.</VPE_ManhunterPulse.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ManhunterPulse.jobReportString>Utilise la capacité : {0}</VPE_ManhunterPulse.jobReportString>
+<!-- EN: impulsion chasseur d'hommes -->
+<VPE_ManhunterPulse.verbProperties.label>impulsion chasseur d'hommes</VPE_ManhunterPulse.verbProperties.label>
+
+<!-- EN: shield animals -->
+<VPE_ShieldAnimals.label>bouclier animal</VPE_ShieldAnimals.label>
+<!-- EN: Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity. -->
+<VPE_ShieldAnimals.description>Génère des portails de saut sphériques sur tous les animaux de la colonie à portée qui renvoient tous les projectiles terrestres entrants et sortants vers un endroit éloigné. Les personnes et les objets ne sont pas affectés et la durée est proportionnelle à la sensibilité psychique du psylanceur.</VPE_ShieldAnimals.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShieldAnimals.jobReportString>Utilise la capacité : {0}</VPE_ShieldAnimals.jobReportString>
+<!-- EN: bouclier animal -->
+<VPE_ShieldAnimals.verbProperties.label>bouclier animal</VPE_ShieldAnimals.verbProperties.label>
+
+<!-- EN: shrineshield -->
+<VPE_Shrineshield.label>bouclier du sanctuaire</VPE_Shrineshield.label>
+<!-- EN: Generate a spherical skipgate on a nature shrine that sends any incoming and outgoing projectiles, including mortar shells, to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine, while duration scales with the caster’s psychic sensitivity. -->
+<VPE_Shrineshield.description>Génère une barrière sphérique sur un sanctuaire de la nature qui renvoie tous les projectiles terrestres entrants et sortants, y compris les obus de mortier, vers un endroit éloigné. Les personnes et les objets ne sont pas affectés et la taille de la sphère dépend de la taille du sanctuaire, tandis que la durée dépend de la sensibilité psychique du lanceur.</VPE_Shrineshield.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Shrineshield.jobReportString>Utilise la capacité : {0}</VPE_Shrineshield.jobReportString>
+<!-- EN: bouclier du sanctuaire -->
+<VPE_Shrineshield.verbProperties.label>bouclier du sanctuaire</VPE_Shrineshield.verbProperties.label>
+
+<!-- EN: summon pack -->
+<VPE_SummonPack.label>invocation de meute</VPE_SummonPack.label>
+<!-- EN: Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The relative strength of the creatures summoned is influenced by the caster’s psychic sensitivity. -->
+<VPE_SummonPack.description>Envoie une impulsion de force vitale dans la région, induisant une agressivité de territoire chasse à l'homme chez de nombreux animaux qui apparaîtront pour défendre la colonie. Une fois que tous les envahisseurs sont vaincus, les animaux retournent chez eux. La force relative des créatures invoquées est influencée par la sensibilité psychique du lanceur.</VPE_SummonPack.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SummonPack.jobReportString>Utilise la capacité : {0}</VPE_SummonPack.jobReportString>
+<!-- EN: invocation de meute -->
+<VPE_SummonPack.verbProperties.label>invocation de meute</VPE_SummonPack.verbProperties.label>
+
+<!-- EN: tree sprout -->
+<VPE_TreeSprout.label>pousse d'arbre</VPE_TreeSprout.label>
+<!-- EN: Infuses a fertile area with potent life energy, causing it to sprout fully grown native trees. The effective radius scales with psychic sensitivity, up to a maximum of 8 tiles. -->
+<VPE_TreeSprout.description>Infuse une grande zone fertile avec une puissante énergie vitale, ce qui fait pousser des arbres à maturité. Le rayon augmente avec la sensibilité psychique, jusqu'à un maximum de 8 cases.</VPE_TreeSprout.description>
+<!-- EN: Using ability: {0} -->
+<VPE_TreeSprout.jobReportString>Utilise la capacité : {0}</VPE_TreeSprout.jobReportString>
+<!-- EN: pousse d'arbre -->
+<VPE_TreeSprout.verbProperties.label>pousse d'arbre</VPE_TreeSprout.verbProperties.label>
+
+<!-- EN: word of animals -->
+<VPE_WordofAnimals.label>mot d'animaux</VPE_WordofAnimals.label>
+<!-- EN: Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. Depending on the psychic sensitivity of the caster and the body size of an animal, the psycast may backfire and turn the animal manhunter. -->
+<VPE_WordofAnimals.description>Apaise un animal en utilisant la persuasion psychique, soit en calmant un animal chasseur d'hommes, soit en l'apprivoisant. En fonction de la sensibilité psychique du lanceur et de la taille de l'animal, la persuasion psychique peut se retourner contre lui et le transformer en chasseur d'hommes.</VPE_WordofAnimals.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WordofAnimals.jobReportString>Utilise la capacité : {0}</VPE_WordofAnimals.jobReportString>
+<!-- EN: mot d'animaux -->
+<VPE_WordofAnimals.verbProperties.label>mot d'animaux</VPE_WordofAnimals.verbProperties.label>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--================= Circle ===================-->
+	<IdeoIconDef>
+		<defName>Ideoligion_GameOfRoles</defName>
+		<iconPath>UI/Icons/Ideoligion/GameOfRoles</iconPath>
+		<memes>
+			<li>Structure_Archist</li>
+		</memes>
+	</IdeoIconDef>
+
+	<IdeoIconDef>
+		<defName>Ideoligion_ApertureScience</defName>
+		<iconPath>UI/Icons/Ideoligion/ApertureScience</iconPath>
+		<memes>
+			<li>Structure_Archist</li>
+		</memes>
+	</IdeoIconDef>
+
+	<IdeoIconDef>
+		<defName>Ideoligion_Sigmar</defName>
+		<iconPath>UI/Icons/Ideoligion/Sigmar</iconPath>
+		<memes>
+			<li>Structure_Archist</li>
+		</memes>
+	</IdeoIconDef>
+
+	<!--================= Animal Prints ===================-->
+	<IdeoIconDef>
+		<defName>Ideoligion_Cubee</defName>
+		<iconPath>UI/Icons/Ideoligion/Cubee</iconPath>
+		<memes>
+			<li>AnimalPersonhood</li>
+			<li>NaturePrimacy</li>
+			<li>Rancher</li>
+		</memes>
+	</IdeoIconDef>
+
+
+</Defs>

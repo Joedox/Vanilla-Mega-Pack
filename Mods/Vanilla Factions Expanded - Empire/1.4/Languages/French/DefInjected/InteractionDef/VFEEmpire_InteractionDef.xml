@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEE_RoyalGossip.label>commérage royal</VFEE_RoyalGossip.label>
+<VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] et [RECIPIENT_nameDef] ont [talkedabout] [THIRDPARTY_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a [talkedabout] [THIRDPARTY_nameDef] avec [RECIPIENT_nameDef].</li>
+
+    <li>talkedabout(p=4)->discuté de</li>
+    <li>talkedabout->échangé un mot sur</li>
+    <li>talkedabout->parlé de</li>
+    <li>talkedabout->papoté</li>
+    <li>talkedabout->évoqué</li>
+    <li>talkedabout->plaisanté sur</li>
+    <li>talkedabout->fait une boutade sur</li>
+</VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>

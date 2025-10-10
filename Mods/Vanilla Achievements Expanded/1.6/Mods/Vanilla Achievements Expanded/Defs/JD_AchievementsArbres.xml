@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Anima -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>JD_Cut_Anima_tree</defName>
+		<label>Cut the link</label>
+		<description>Deliberately (or not) felling a Anima tree.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>ChoppedStump_Anima</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Cut_Anima_tree</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>JD_GrassAnima</defName>
+		<label>Oh, the beautiful blue!</label>
+		<description>Grow a total of 50 Anima herbs around the Anima tree.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>Plant_GrassAnima</def>
+			<count>50</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_GrassAnima</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Gauranlen -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Ideology">
+		<defName>JD_Cut_Gauranlen_tree</defName>
+		<label>Slayer of the Dryad Queen</label>
+		<description>Deliberately (or not) felling a Gauranlen tree.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>ChoppedStump_Gauranlen</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Cut_Gauranlen_tree</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Ideology">
+		<defName>JD_GauranlenMoss</defName>
+		<label>Oh, the beautiful orange!</label>
+		<description>Wait for 100 Gauranlen mosses to grow around the Gauranlen tree.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>Plant_MossGauranlen</def>
+			<count>100</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_GauranlenMoss</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Polux -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>JD_Cut_Polux_tree</defName>
+		<label>Pollux the dog</label>
+		<description>Deliberately (or not) felling a Polux tree.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>ChoppedStump_Polux</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Cut_Polux_tree</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Et de quatre ! -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Anomaly">
+		<defName>JD_Cut_Harbinger_tree</defName>
+		<label>And four more!</label>
+		<description>Felling 4 hedgerow trees at the same time.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>ChoppedStump_Harbinger</def>
+			<count>4</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Cut_Harbinger_tree</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Couper les 3 arbres (Anima, Gauranlen, Polux). Pour valider le HF il faut que les 3 souches de chaque arbre soit présent sur la carte. -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Ideology,Ludeon.RimWorld.Biotech">
+		<defName>JD_Cut_AniGauPo_tree</defName>
+		<label>You did that on purpose!</label>
+		<description>Deliberately fell an Anima, Gauranlen and Polux tree in under 48 hours.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<thingList>
+				<li>
+					<key>ChoppedStump_Anima</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>ChoppedStump_Polux</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>ChoppedStump_Gauranlen</key>
+					<value>1</value>
+				</li>
+			</thingList>
+			<mustHaveAll>true</mustHaveAll>
+		</tracker>
+		
+		<texPath>Achievements/JD_Cut_AniGauPo_tree</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+
+<!-- Archéen -->
+	<AchievementsExpanded.AchievementDef MayRequire="Ludeon.RimWorld.Odyssey">
+		<defName>JD_Cut_Archean_tree</defName>
+		<label>Vous n’avez plus d’excuse</label>
+		<description>Deliberately (or not) felling a Archean tree.</description>
+		<tab>VAE_DLCTab</tab>
+
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>ChoppedStump_Archean</def>
+			<count>1</count>
+		</tracker>
+		
+		<texPath>Achievements/JD_Cut_Archean_tree</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+
+
+</Defs>

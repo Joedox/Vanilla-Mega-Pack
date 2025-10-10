@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Ideology split: {0} -->
+<VIESAS.IdeoSplit>Idéo partagé : {0}</VIESAS.IdeoSplit>
+<!-- EN: As with all big communities, certain traditions in your colony developed in a different way. Some people began to see the old ways as no longer valid in the times you're in, and they decided that the future requires your ideology to adapt. As such, {0} has been found.\n\n{1}\n\nFollowing people decided to join the new ideology:\n{2} -->
+<VIESAS.IdeoSplitDesc>Comme dans toutes les grandes communautés, certaines traditions de votre colonie se sont développées de manière différente. Certaines personnes ont commencé à considérer que les anciennes méthodes n'étaient plus valables à l'époque où vous vivez, et ont décidé que l'avenir exigeait que votre idéologie s'adapte. Ainsi, {0} a été trouvé.\n\n{1}\n\nLes personnes suivantes ont décidé de rejoindre la nouvelle idéologie :\n{2}</VIESAS.IdeoSplitDesc>
+<!-- EN: With a schism come new challenges. You will now have to take care of two unique ideologies in your colony, until one of them dominates the other.\n\nSelect an option below to decide what to do further with the new ideology. You can configure it or accept the ideology as is and close the window. -->
+<VIESAS.IdeoSplitDescOptions>Le schisme s'accompagne de nouveaux défis. Vous devrez désormais vous occuper de deux idéologies uniques dans votre colonie, jusqu'à ce que l'une d'entre elles domine l'autre.\n\nSélectionnez une option ci-dessous pour décider de la suite à donner à la nouvelle idéologie. Vous pouvez la configurer ou l'accepter telle quelle et fermer la fenêtre.</VIESAS.IdeoSplitDescOptions>
+<!-- EN: Percentage odds of Schism occuring:  -->
+<VIESAS.OddsOfSchismToOccur>Pourcentage de chances qu'un schisme se produise : </VIESAS.OddsOfSchismToOccur>
+<!-- EN: Max percentage of low certainty colonists to form new ideo:  -->
+<VIESAS.PctOfColonistsToTurnToNewIdeology>Pourcentage max de colons dans une nouvelle idéologie : </VIESAS.PctOfColonistsToTurnToNewIdeology>
+<!-- EN: Minimum amount of Colonists in one Ideology for Schism to Occur:  -->
+<VIESAS.MinimumColonistCountForSchismToOccur>Minimum de colons dans une idéologie pour qu'un schisme se produise : </VIESAS.MinimumColonistCountForSchismToOccur>
+<!-- EN: Amount of Memes changed during Schism:  -->
+<VIESAS.AmountOfMemesChangedDuringSchism>Quantité de Mèmes changée pendant le Schisme : </VIESAS.AmountOfMemesChangedDuringSchism>
+<!-- EN: Ideology conversion day interval check:  -->
+<VIESAS.IdeologyConversionCheckDaysInterval>Contrôle de l'intervalle entre les jours de conversion de l'idéologie : </VIESAS.IdeologyConversionCheckDaysInterval>
+<!-- EN: Meme changed -->
+<VIESAS.MemeChanged>Mème changé</VIESAS.MemeChanged>
+<!-- EN: New meme -->
+<VIESAS.NewMeme>Nouveau mème</VIESAS.NewMeme>
+<!-- EN: {0} forgotten -->
+<VIESAS.OldIdeoForgotten>{0} oublié</VIESAS.OldIdeoForgotten>
+<!-- EN: {0} has been forgotten. Nobody on this planet remembers the old ways, and the traditions, culture and creed of that ideology have been lost to progress.\n\nIdeology has vanished due to lack of followers. -->
+<VIESAS.OldIdeoForgottenDesc>{0} a été oubliée. Personne sur cette planète ne se souvient des anciennes méthodes, et les traditions, la culture et le culte de cette idéologie ont été perdus au profit du progrès.\n\nL'idéologie a disparu par manque d'adeptes.</VIESAS.OldIdeoForgottenDesc>
+<!-- EN: Threshold of certainty of Colonists to join new ideo:  -->
+<VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>Seuil de certitude des colons d'adhérer à la nouvelle idéologie : </VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>
+
+
+</LanguageData>

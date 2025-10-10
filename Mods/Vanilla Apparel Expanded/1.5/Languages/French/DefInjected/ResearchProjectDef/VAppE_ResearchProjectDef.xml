@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VAE_CasualWear.label>vêtements décontracté</VAE_CasualWear.label>
+<VAE_CasualWear.description>Vous permet de fabriquer des vêtements décontractés avec des caractéristiques pratiques pour toutes les situations de la vie.</VAE_CasualWear.description>
+<VAE_CasualWear.generalRules.rulesStrings>
+  <li>subject->vêtements décontracté</li>
+  <li>subject_story->a révolutionné la tenue vestimentaire quotidienne avec des poches pour tous les gadgets</li>
+  <li>subject_story->a créé des vêtements qui s'adaptent aussi bien aux rencontres sociales qu'à la solitude</li>
+  <li>subject_story->a créé la tenue de loisirs par excellence, alliant la mode à l'utilité</li>
+  <li>subject_gerund->concevoir des vêtements polyvalents et décontractés</li>
+</VAE_CasualWear.generalRules.rulesStrings>
+
+<VAE_FormalWear.label>vêtements de cérémonie</VAE_FormalWear.label>
+<VAE_FormalWear.description>Vous permet de fabriquer des costumes et des uniformes de cérémonie.</VAE_FormalWear.description>
+<VAE_FormalWear.generalRules.rulesStrings>
+  <li>subject->vêtements de cérémonie</li>
+  <li>subject_story->a conçu les tenues de gala les plus convoitées</li>
+  <li>subject_story->a ramené les styles vintage avec une touche de modernité</li>
+  <li>subject_story->des costumes sur mesure qui sont devenus la norme dans la haute diplomatie</li>
+  <li>subject_gerund->fabrication de vêtements de cérémonie exquis</li>
+</VAE_FormalWear.generalRules.rulesStrings>
+
+<VAE_WorkAttire.label>tenues de travail</VAE_WorkAttire.label>
+<VAE_WorkAttire.description>Vous permet de fabriquer des tenues confortables et fonctionnels pour tout type de travail.</VAE_WorkAttire.description>
+<VAE_WorkAttire.generalRules.rulesStrings>
+  <li>subject->tenues de travail</li>
+  <li>subject_story->introduit des tissus durables qui résistent à tous types de travaux</li>
+  <li>subject_story->a innové avec des ceintures multi-outils intégrées aux pantalons de travail</li>
+  <li>subject_story->établir la nouvelle norme avec des vêtements de travail adaptés au climat</li>
+  <li>subject_gerund->couture de vêtements de travail spécialisés</li>
+</VAE_WorkAttire.generalRules.rulesStrings>
+
+<VAE_SterileAttire.label>tenues stérile</VAE_SterileAttire.label>
+<VAE_SterileAttire.description>Vous permet de fabriquer des tenues stériles utilisées par les médecins et les scientifiques.</VAE_SterileAttire.description>
+<VAE_SterileAttire.generalRules.rulesStrings>
+  <li>subject->tenues stérile</li>
+  <li>subject_story->a mis au point un tissu qui repousse 99,9% des microbes</li>
+  <li>subject_story->a été le pionnier de la blouse de laboratoire autonettoyante</li>
+  <li>subject_story->a introduit des uniformes avec un code couleur pour les différents secteurs du laboratoire</li>
+  <li>subject_gerund->production de vêtements stériles</li>
+</VAE_SterileAttire.generalRules.rulesStrings>
+
+<VAE_MilitaryClothing.label>vêtements militaire</VAE_MilitaryClothing.label>
+<VAE_MilitaryClothing.description>Vous permet de fabriquer des vêtements imperméables pour protéger vos soldats.</VAE_MilitaryClothing.description>
+<VAE_MilitaryClothing.generalRules.rulesStrings>
+  <li>subject->vêtements militaire</li>
+  <li>subject_story->camouflage conçu pour se fondre dans de multiples terrains</li>
+  <li>subject_story->a créé des inserts d'armure à la fois légers et pare-balles</li>
+  <li>subject_story->a équipé les unités de tenues de combat climatisées</li>
+  <li>subject_gerund->assemblage d'équipements militaires avancés</li>
+</VAE_MilitaryClothing.generalRules.rulesStrings>
+
+
+</LanguageData>

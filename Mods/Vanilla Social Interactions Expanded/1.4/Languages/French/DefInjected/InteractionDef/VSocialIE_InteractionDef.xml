@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VSIE_Discord.label>discorde</VSIE_Discord.label>
+<VSIE_Discord.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] a [insulted] [PersonalCharacteristic] de [target].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a comparé et décrit [target] de [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a traité [target] de [insultcomparison].</li>
+
+    <li>target(p=4)->[RECIPIENT_nameDef]</li> Josy
+    <li>target->[PersonFamily_MF] de [RECIPIENT_nameDef]</li>
+
+    <li>insulted(p=3)->insulté</li>
+    <li>insulted->ouvertement insulté</li>
+    <li>insulted->insulté à haute voix</li>
+    <li>insulted->insulté de façon flagrante</li>
+    <li>insulted->directement insulté</li>
+    <li>insulted->méchamment insulté</li>
+    <li>insulted->manqué de respect de manière flagrante</li>
+    <li>insulted->dénigré</li>
+    <li>insulted->proféré des injures sur</li>
+    <li>insulted->ridiculisé</li>
+
+    <li>insultcomparison(p=2)->[Animal_MF]</li>
+    <li>insultcomparison->[Enemy_MF]</li>
+
+<!-- Ajout -->
+    <li>PersonFamily_MF->un [People_Family]</li>
+    <li>PersonFamily_MF->une [People_Family_Feminine]</li>
+    <li>Animal_MF->[Animals]</li>
+    <li>Animal_MF->[Animals_Feminine]</li>
+    <li>Enemy_MF->[Enemies]</li>
+    <li>Enemy_MF->[Enemies_Feminine]</li>
+<!-- Fin -->
+</VSIE_Discord.logRulesInitiator.rulesStrings>
+
+
+<VSIE_Vent.label>stresser</VSIE_Vent.label>
+<VSIE_Vent.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] et [RECIPIENT_nameDef] ont [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a [talkedabout] [TalkTopicLight] avec [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] à [RECIPIENT_nameDef].</li>
+
+    <li>talkedabout(p=4)->discuté</li>
+    <li>talkedabout->partagé un mot au sujet</li>
+    <li>talkedabout->parlé</li>
+    <li>talkedabout->papoté</li>
+    <li>talkedabout->évoqué</li>
+    <li>talkedabout->plaisanté à propos</li>
+    <li>talkedabout->blagué sur la façon</li>
+
+    <li>commentedabout->a dit quelque chose à propos</li>
+    <li>commentedabout->a dit un mot au sujet</li>
+    <li>commentedabout->a fait un commentaire sur le fait</li>
+    <li>commentedabout->a commenté</li>
+    <li>commentedabout->a raconté une blague au sujet</li>
+</VSIE_Vent.logRulesInitiator.rulesStrings>
+
+
+<VSIE_Teaching.label>enseignement</VSIE_Teaching.label>
+<VSIE_Teaching.logRulesInitiator.rulesStrings.0>r_logentry-></VSIE_Teaching.logRulesInitiator.rulesStrings.0>
+
+
+</LanguageData>

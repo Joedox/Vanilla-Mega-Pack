@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: breacher charge -->
+<VFEI2_BreacherCharge_Colonists.label>charge destructive</VFEI2_BreacherCharge_Colonists.label>
+<!-- EN: Insector charges towards the target, dealing significant damage to anything on the path. Will destroy any sort of defenses with ease. -->
+<VFEI2_BreacherCharge_Colonists.description>L'insecteur chargent en direction de la cible, infligeant d'importants dégâts à tout ce qui se trouve sur son chemin. Il détruit facilement toutes les défenses.</VFEI2_BreacherCharge_Colonists.description>
+<!-- EN: breacher charge -->
+<VFEI2_BreacherCharge_Colonists.verbProperties.label>charge destructive</VFEI2_BreacherCharge_Colonists.verbProperties.label>
+
+<!-- EN: locust farglide -->
+<VFEI2_InsectGlide_Far_Colonists.label>saut de criquet</VFEI2_InsectGlide_Far_Colonists.label>
+<!-- EN: Fly to a distant location that you can or cannot see using a set of gigantic locust wings. Allows the gene carrier to jump over the walls, provided the area they are jumping to is not roofed. -->
+<VFEI2_InsectGlide_Far_Colonists.description>Vole vers un endroit éloigné, visible ou non, à l'aide d'un ensemble d'ailes de locustes gigantesques. Permet au porteur du gène de sauter par-dessus les murs, à condition que la zone où il se rend ne soit pas couverte.</VFEI2_InsectGlide_Far_Colonists.description>
+<!-- EN: locust farglide -->
+<VFEI2_InsectGlide_Far_Colonists.verbProperties.label>saut de criquet</VFEI2_InsectGlide_Far_Colonists.verbProperties.label>
+
+<!-- EN: inject royal jelly -->
+<VRE_RoyalJellyInjector.label>injecter de la gelée royale</VRE_RoyalJellyInjector.label>
+<!-- EN: Inject royal jelly into a willing subject using a specialized injector organ. If the gene carrier's royal jelly is currently regenerating, the injection will not be possible. Injection causes a tiny wound, but when injected, the royal jelly grants the target an immunity boost and a mood boost. -->
+<VRE_RoyalJellyInjector.description>Injecte de la gelée royale à un sujet consentant à l'aide d'un organe injecteur spécialisé. Si la gelée royale du porteur du gène est en train de se régénérer, l'injection ne sera pas possible. L'injection provoque une minuscule blessure, mais une fois injectée, la gelée royale confère à la cible un renforcement de l'immunité et une amélioration de l'humeur.</VRE_RoyalJellyInjector.description>
+
+
+</LanguageData>

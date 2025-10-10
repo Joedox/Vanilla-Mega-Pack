@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: Vanilla Achievements Expanded -->
+<VAE>Vanilla Achievements Expanded </VAE>
+<!-- EN: Enable DebugWriter -->
+<DebugWriter>Activer DebugWriter</DebugWriter>
+<!-- EN: Are you sure you want to enable the DebugWriter? This will significantly decrease performance in return for Achievement related data. This should only be enabled to track valuable information for debugging. -->
+<DebugWriterConfirmation>Êtes-vous sûr de vouloir activer le DebugWriter ? Cela diminuera considérablement les performances en contrepartie des données liées à l'achèvement. Il ne devrait être activé que pour suivre des informations précieuses pour le débogage.</DebugWriterConfirmation>
+
+<!-- EN: Write to File -->
+<GenerateLogInfo>Écrire dans le fichier</GenerateLogInfo>
+<!-- EN: Push achievement related logs to file. For debugging purposes only. -->
+<GenerateLogInfoTooltip>Transférer les journaux relatifs aux succès dans un fichier. À des fins de débogage uniquement.</GenerateLogInfoTooltip>
+<!-- EN: Successfully pushed achievement logs to AchievementLog.txt -->
+<SuccessfulWriteToFile>Les journaux des succès ont été envoyés dans le fichier AchievementLog.txt.</SuccessfulWriteToFile>
+
+<!-- EN: Unlock achievements and earn Storyteller points which you can redeem for various events. -->
+<SideBarInfo>Les succès vous font gagner des points Narrateur que vous pouvez utiliser dans des événements.</SideBarInfo>
+<!-- EN: Unlock achievements and earn Storyteller points to gauge your performance. -->
+<VAE_SideBarInfoNoRedeem>Déverrouillez des succès et gagnez des points de Narrateur pour évaluer vos performances.</VAE_SideBarInfoNoRedeem>
+
+<!-- EN: Storyteller Points -->
+<StorytellerPoints>Points Narrateur :</StorytellerPoints>
+
+<!-- EN: Redeem Points -->
+<PointsRedeem>Utiliser les points :</PointsRedeem>
+<!-- EN: Available: {0} -->
+<PointsAvailable>Disponible : {0}</PointsAvailable>
+<!-- EN: Total earnt: {0} -->
+<PointsEarned>Total gagné : {0}</PointsEarned>
+
+<!-- EN: Unlocked with DevMode -->
+<UnlockedDevMode>Déverrouillé avec le DevMode</UnlockedDevMode>
+<!-- EN: Locked -->
+<AchievementLocked>Verrouillé</AchievementLocked>
+
+<!-- EN: Achievements Unlocked: {0} -->
+<AchievementsUnlocked>Succès débloqué : {0}</AchievementsUnlocked>
+<!-- EN: Total Achievements Unlocked: {0} -->
+<AchievementsTotalUnlocked>Total des succès débloqués : {0}</AchievementsTotalUnlocked>
+<!-- EN: Achievement Unlocked! -->
+<AchievementUnlocked>Succès débloqué !</AchievementUnlocked>
+
+<!-- EN: Failed to redeem reward {0} -->
+<FailedRewardEvent>Échec de l'échange de la récompense {0}</FailedRewardEvent>
+<!-- EN: Must have map loaded or IncidentTarget object selected on World Map -->
+<FailedTargetFinder>La carte doit être chargée ou l'objet IncidentTarget doit être sélectionné sur la carte du monde.</FailedTargetFinder>
+<!-- EN: Must be purchased with PlayerHome map in view. -->
+<NoValidMap>Doit être acheté avec la carte PlayerHome en vue.</NoValidMap>
+<!-- EN: Incident not available right now. -->
+<IncidentNotAvailable>Incident non disponible pour le moment.</IncidentNotAvailable>
+<!-- EN: Not Enough Points -->
+<NotEnoughPoints>Pas assez de points.</NotEnoughPoints>
+
+<!-- EN: Quest Item -->
+<RandomQuestRewardItemLetter>Objet de quête</RandomQuestRewardItemLetter>
+<!-- EN: Random quest item dropped! -->
+<RandomQuestRewardItem>Un objet de quête aléatoire est tombé !</RandomQuestRewardItem>
+
+<!-- EN: Use achievement points reward system -->
+<VAE_UsePointsSystem>Utiliser le système de récompense de points de succès</VAE_UsePointsSystem>
+<!-- EN: By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count. -->
+<VAE_UsePointsSystemDesc>Par défaut, l'obtention des succès récompense le joueur avec des points, qui peuvent être échangés contre des caravanes marchandes, des événements, des raids, etc.\n\nCette option désactive ce système, les points n'étant plus qu'un simple décompte.</VAE_UsePointsSystemDesc>
+
+<!-- EN: Collate mod tabs -->
+<VAE_CollateModTabs>Regrouper les onglets</VAE_CollateModTabs>
+<!-- EN: By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs -->
+<VAE_CollateModTabsDesc>En cochant cette option, toutes les succès de tous les mods seront regroupées dans un seul onglet Mod.\n\nUtilisez cette option si vous avez plusieurs mods qui ajoutent des hauts faits et que votre fenêtre de hauts faits ressemble à un fouillis d'onglets infiniment petits.</VAE_CollateModTabsDesc>
+
+<!-- EN: Hidden until monolith level {0} -->
+<VAE_AchievementHidden>Caché jusqu'au niveau {0} du monolithe</VAE_AchievementHidden>
+
+
+</LanguageData>

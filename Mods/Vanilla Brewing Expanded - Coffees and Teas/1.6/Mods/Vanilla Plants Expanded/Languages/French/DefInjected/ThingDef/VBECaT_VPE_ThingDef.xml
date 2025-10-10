@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: earl grey tea -->
+<VBE_EarlGreyTea.label>thé earl grey</VBE_EarlGreyTea.label>
+<!-- EN: A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize. -->
+<VBE_EarlGreyTea.description>Un thé fruité très fort et semi-sucré. Des notes florales dansent autour du palais, même au parfum le plus terne. Les personnes qui finissent la boisson se sentent étrangement poussées à vouloir coloniser.</VBE_EarlGreyTea.description>
+<!-- EN: Drink {0} -->
+<VBE_EarlGreyTea.ingestible.ingestCommandString>Boire un {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_EarlGreyTea.ingestible.ingestReportString>Boit le {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+
+<!-- EN: espresso romano -->
+<VBE_LemonCoffee.label>expresso romano</VBE_LemonCoffee.label>
+<!-- EN: A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites. -->
+<VBE_LemonCoffee.description>Une combinaison particulièrement étrange. Un café déjà acide garni d'un quartier de citron encore plus acide, destiné à être incorporé dans le café avant d'être rapidement consommé chaud. Un goût certes particulier, mais apprécié par ceux qui le préfèrent. Spécialement indiqué pour combattre les parasites intestinaux.</VBE_LemonCoffee.description>
+<!-- EN: Drink {0} -->
+<VBE_LemonCoffee.ingestible.ingestCommandString>Boire un {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_LemonCoffee.ingestible.ingestReportString>Boit l'{0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+
+<!-- EN: lemon tea -->
+<VBE_LemonTea.label>thé au citron</VBE_LemonTea.label>
+<!-- EN: A dark tea cut with water, chilled and garnished with a wedge of bright lemon. -->
+<VBE_LemonTea.description>Un thé noir coupé avec de l'eau, refroidi et garni d'un quartier de citron frais.</VBE_LemonTea.description>
+<!-- EN: Drink {0} -->
+<VBE_LemonTea.ingestible.ingestCommandString>Boire un {0}</VBE_LemonTea.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_LemonTea.ingestible.ingestReportString>Boit le {0}.</VBE_LemonTea.ingestible.ingestReportString>
+
+<!-- EN: lemons -->
+<VCE_RawLemon.label>citron</VCE_RawLemon.label>
+<!-- EN: An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee. -->
+<VCE_RawLemon.description>Un fruit au goût acide et aigre. Le jus, le zeste et la pulpe sont souvent utilisés en cuisine, notamment sur le poisson et d'autres viandes pour en améliorer le goût. Le citron est également utilisé pour aromatiser des boissons, comme la limonade, ou mélangé au thé et au café.</VCE_RawLemon.description>
+
+<!-- EN: lemon tree -->
+<VBE_LemonTree.label>citronnier</VBE_LemonTree.label>
+<!-- EN: A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready. -->
+<VBE_LemonTree.description>Un grand arbre originaire à la fois des déserts et des tropiques. Des citrons acides et vifs poussent en abondance sur cet arbre. Certains citrons peuvent même arriver à maturité plus tôt et tomber au sol avant que la première récolte ne soit prête.</VBE_LemonTree.description>
+
+<!-- EN: lemonade -->
+<VBE_Lemonade.label>limonade</VBE_Lemonade.label>
+<!-- EN: A sweet beverage mixed together with lemon juice, sugar, and water. -->
+<VBE_Lemonade.description>Une boisson sucrée mélangée avec du jus de citron, du sucre et de l'eau.</VBE_Lemonade.description>
+<!-- EN: Drink {0} -->
+<VBE_Lemonade.ingestible.ingestCommandString>Boire une {0}</VBE_Lemonade.ingestible.ingestCommandString>
+<!-- EN: Drinking {0}. -->
+<VBE_Lemonade.ingestible.ingestReportString>Boit la {0}.</VBE_Lemonade.ingestible.ingestReportString>
+<!-- EN: bottle -->
+<VBE_Lemonade.tools.bottle.label>bouteille</VBE_Lemonade.tools.bottle.label>
+<!-- EN: neck -->
+<VBE_Lemonade.tools.neck.label>goulot</VBE_Lemonade.tools.neck.label>
+
+
+</LanguageData>

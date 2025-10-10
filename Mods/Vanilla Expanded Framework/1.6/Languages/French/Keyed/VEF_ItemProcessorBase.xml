@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Generic -->
+
+<!-- EN: Insert -->
+<IP_InsertFirstItemDesc>Insérer</IP_InsertFirstItemDesc>
+<!-- EN: Insert -->
+<IP_InsertSecondItemDesc>Insérer</IP_InsertSecondItemDesc>
+<!-- EN: Insert -->
+<IP_InsertThirdItemDesc>Insérer</IP_InsertThirdItemDesc>
+<!-- EN: Insert -->
+<IP_InsertFourthItemDesc>Insérer</IP_InsertFourthItemDesc>
+<!-- EN: Insert {0} -->
+<IP_InsertVariable>Insérer {0}</IP_InsertVariable>
+<!-- EN: Output {0} -->
+<IP_Output>Plan : {0}</IP_Output>
+<!-- EN: Output {0} from {1} -->
+<IP_OutputVariable>{1} → {0}</IP_OutputVariable>
+<!-- EN: Processor will output {0}. It needs to be fed {1} -->
+<IP_OutputDesc>L'usine a besoin : {1}\nElle produira : {0}</IP_OutputDesc>
+<!-- EN: Insert {0} in 2nd slot -->
+<IP_InsertVariableSecond>Insérer {0} dans le 2ème slot</IP_InsertVariableSecond>
+<!-- EN: Insert {0} in 3rd slot -->
+<IP_InsertVariableThird>Insérer {0} dans le 3ème slot</IP_InsertVariableThird>
+<!-- EN: No items of that kind ({0}) found in this map -->
+<IP_CantFindThing>Aucun élément de ce type ({0}) n'a été trouvé sur la carte.</IP_CantFindThing>
+<!-- EN: Bring Ingredients -->
+<IP_BringIngredients>Apporter les ingrédients</IP_BringIngredients>
+<!-- EN: Bring ingredients to start the process -->
+<IP_BringIngredientsDesc>Apporter les ingrédients pour commencer le processus.</IP_BringIngredientsDesc>
+<!-- EN: Cancel Bringing Ingredients -->
+<IP_CancelIngredients>Annuler</IP_CancelIngredients>
+<!-- EN: Cancel Bringing Ingredients to this building -->
+<IP_CancelIngredientsDesc>Annuler l'apport d'ingrédient.</IP_CancelIngredientsDesc>	
+<!-- EN: No ingredient found on map -->
+<IP_NoIngredientFound>Aucun ingrédient trouvé sur la carte.</IP_NoIngredientFound>
+<!-- EN: Choose Ingredient -->
+<IP_ChooseIngredient>Choisir l'ingrédient</IP_ChooseIngredient>
+<!-- EN: Choose Output -->
+<IP_ChooseOutput>Choisir plan</IP_ChooseOutput>
+<!-- EN: Choose Second Ingredient -->
+<IP_ChooseIngredientSecond>Choisir le second ingrédient</IP_ChooseIngredientSecond>
+<!-- EN: Choose Third Ingredient -->
+<IP_ChooseIngredientThird>Choisir le troisième ingrédient</IP_ChooseIngredientThird>
+<!-- EN: Choose Fourth Ingredient -->
+<IP_ChooseIngredientFourth>Choisir le quatrième ingrédient</IP_ChooseIngredientFourth>
+<!-- EN: One of the ingredients has been improperly defined to work with the item processor, contact the mod's author -->
+<IP_IngredientImproperlyDefined>L'un des ingrédients a été mal défini pour fonctionner, contactez l'auteur du mod.</IP_IngredientImproperlyDefined>
+<!-- EN: {0} needs to be powered to start working -->
+<IP_NoPowerDestroysWarning>{0} doit être alimenté pour fonctionner.</IP_NoPowerDestroysWarning>
+<!-- EN: {0} needs to be fueled to start working -->
+<IP_NoFuelDestroysWarning>{0} doit être alimenté en carburant pour fonctionner.</IP_NoFuelDestroysWarning>
+<!-- EN: {0} needs to have an adequate light level to start working -->
+<IP_LightDestroysWarning>{0} doit disposer d'un niveau de lumière adéquat pour fonctionner.</IP_LightDestroysWarning>
+<!-- EN: {0} needs to not be raining to start working -->
+<IP_RainDestroysWarning>{0} doit arrêter de pleuvoir pour fonctionner.</IP_RainDestroysWarning>
+<!-- EN: {0} needs to have an adequate temperature ({1} - {2}) to start working -->
+<IP_TemperatureDestroysWarning>{0} doit avoir une température adéquate ({1} - {2}) pour fonctionner.</IP_TemperatureDestroysWarning>
+<!-- EN: The result is spoiling due to a power failure in the item processor -->
+<IP_NoPowerDestroysInitialWarning>Le résultat s'est détérioré à cause d’une panne d'électricité dans le processus.</IP_NoPowerDestroysInitialWarning>
+<!-- EN: The result has spoiled due to a power failure in the item processor -->
+<IP_NoPowerDestroysMessage>Le résultat a pourri à cause d'une panne d'électricité dans le processus.</IP_NoPowerDestroysMessage>
+<!-- EN: A product has finished processing and is waiting for pickup -->
+<IP_GenericProductFinished>La transformation du produit est terminée et celle-ci est en attente d’être retirée.</IP_GenericProductFinished>
+<!-- EN: {0} is empty -->
+<IP_IsEmpty>{0} est actuellement vide.</IP_IsEmpty>
+<!-- EN: {0} is filled with {1} -->
+<IP_FilledWith>{0} est rempli : {1}</IP_FilledWith>
+<!-- EN: {0}'s 2nd slot is filled with {1} -->
+<IP_FilledWithSecond>{0} est rempli : {1}</IP_FilledWithSecond>
+<!-- EN: {0}'s 3rd slot is filled with {1} -->
+<IP_FilledWithThird>{0} est rempli : {1}</IP_FilledWithThird>
+<!-- EN: {0}'s 4th slot is filled with {1} -->
+<IP_FilledWithFourth>{0} est rempli : {1}</IP_FilledWithFourth>
+<!-- EN:  (filled at {0} of {1}) -->
+<IP_IngredientPercentage> {0} / {1}</IP_IngredientPercentage>
+<!-- EN: {0} is working:  -->
+<IP_ProcessorWorking>{0} en fonctionnement : </IP_ProcessorWorking>
+<!-- EN: {0} is paused:  -->
+<IP_ProcessorPaused>{0} en pause : </IP_ProcessorPaused>
+<!-- EN: {0} is processing {1}. {2} will be ready with {3} quality in {4} -->
+<IP_ProcessingInProgress>{0} transforme {1} en {2} et sera prêt avec une qualité {3} dans {4}.</IP_ProcessingInProgress>
+<!-- EN: {0} is processing {1}. {2} will be ready in {3} -->
+<IP_ProcessingInProgressNoQuality>{0} transforme {1} en {2} et sera prêt dans {3}.</IP_ProcessingInProgressNoQuality>
+<!-- EN: Remove {0} ({1}) -->
+<IP_RemoveProduct>Retirer {0} ({1})</IP_RemoveProduct>
+<!-- EN: Remove {0} from the {1}. The product will be ready at the present quality level ({2}) -->
+<IP_RemoveProductDesc>Retirer {0} du {1}. Le produit sera prêt au niveau de la qualité actuel ({2}).</IP_RemoveProductDesc>
+<!-- EN: Reset Recipes -->
+<IP_ResetSemiautomatic>Réinitialiser la recette</IP_ResetSemiautomatic>
+<!-- EN: This will reset the building after the current product is finished, so a new input ingredient can be chosen -->
+<IP_ResetSemiautomaticDesc>Si activé, cela réinitialisera la recette une fois le produit actuel terminé. Un nouvel ingrédient devra être choisi.</IP_ResetSemiautomaticDesc>
+<!-- EN: No combination found for these ingredients -->
+<IP_NoCombination>Aucune combinaison trouvée pour ces ingrédients</IP_NoCombination>
+<!-- EN: Set quality for product extraction. When the product reaches this quality, a colonist will automatically retrieve it and carry it to an stockpile if available. If not set, products will be extracted manually, or at Legendary quality. -->
+<IP_SetAutoQuality>Définir la qualité pour l'extraction du produit. Lorsque le produit atteint cette qualité, un colon le récupérera automatiquement et le transportera vers un stockage, s'il est disponible.\nSi aucun paramètre n'est défini, le produit devra être extrait manuellement, ou à une qualité légendaire.</IP_SetAutoQuality>
+<!-- EN: Choose Auto Quality -->
+<IP_ChooseQualityAuto>Choisir la qualité</IP_ChooseQualityAuto>
+<!-- EN: Auto Quality: {0} -->
+<IP_QualityAutoIs>Qualité : {0}</IP_QualityAutoIs>
+<!-- EN: Disable Auto Quality -->
+<IP_QualityAutoNot>Désactiver la qualité</IP_QualityAutoNot>
+<!-- EN: Auto Quality, product will be extracted at quality level: {0} -->
+<IP_QualityAutoEstablished>Qualité choisie, le produit sera extrait à la qualité : {0}</IP_QualityAutoEstablished>
+<!-- EN: Auto Ingredient Acquiring -->
+<IP_ToggleAuto>Acquisition d'ingrédients auto</IP_ToggleAuto>
+<!-- EN: If set to active, this building will automatically grab ingredients from adjacent hoppers, and automatically start working again once the product is removed. If not, colonists will haul the ingredients to the building, and it will need to be activated manually once refilled -->
+<IP_ToggleAutoDesc>Si activé, ce bâtiment prendra automatiquement les ingrédients des trémies adjacentes et fonctionnera automatiquement, il fonctionnera de nouveau quand les produits seront retirés. Sinon, les colons devront transporter les ingrédients jusqu'au bâtiment, et ils devront activer manuellement le bâtiment une fois rempli.</IP_ToggleAutoDesc>
+<!-- EN: Reset Machine -->
+<IP_ResetFullAuto>Réinitialiser le plan</IP_ResetFullAuto>
+<!-- EN: Fully resets the machine and makes it stop. Warning, it will destroy the process and the input items -->
+<IP_ResetFullAutoDesc>Réinitialise le plan de la machine. Attention, le processus en cours sera détruit.</IP_ResetFullAutoDesc>
+<!-- EN: Waiting for pickup -->
+<IP_ProductWaiting>En attente d'être retiré</IP_ProductWaiting>
+<!-- EN: The process in this machine is being interrupted due to an inadequate level of light and will be spoiled soon -->
+<IP_OutsideLightRange>Le processus de cette machine est interrompu en raison d'un niveau de lumière inadéquat et le produit sera détérioré.</IP_OutsideLightRange>
+<!-- EN: The product in this machine has spoiled due to an inadequate level of light -->
+<IP_SpoiledDueToLight>Le produit de cette machine s'est détérioré à cause d'un niveau de lumière inadéquat.</IP_SpoiledDueToLight>
+<!-- EN: The process in this machine is being interrupted due to inclement weather and will be spoiled soon -->
+<IP_ItRains>Le processus de cette machine est interrompu en raison du mauvais temps et le produit sera détérioré.</IP_ItRains>
+<!-- EN: The product in this machine has spoiled due to inclement weather -->
+<IP_SpoiledDueToRain>Le produit de cette machine s'est détérioré à cause du mauvais temps.</IP_SpoiledDueToRain>
+<!-- EN: The process in this machine is being interrupted due to an unsuitable temperature and will be spoiled soon -->
+<IP_WrongTemp>Le processus de cette machine est interrompu en raison d'une température inadaptée et le produit sera détérioré.</IP_WrongTemp>
+<!-- EN: The product has spoiled due to an unsuitable temperature. Needs between {0} and {1} ºC -->
+<IP_SpoiledDueToWrongTemp>Le produit s'est détérioré en raison d'une température inadaptée. Besoins entre {0} et {1} ºC.</IP_SpoiledDueToWrongTemp>
+<!-- EN: . This fermenter needs a temperature between {0} and {1} ºC -->
+<IP_TempRangeInThisMachine>\nTempérature idéale de fermentation : {0} ~ {1}</IP_TempRangeInThisMachine>
+<!-- EN: Pause / Restart -->
+<IP_TogglePause>Pause / Démarrer</IP_TogglePause>
+<!-- EN: Pause / Restart this machine's processing -->
+<IP_TogglePauseDesc>Pause / Démarrer le processus de cette machine</IP_TogglePauseDesc>
+<!-- EN:  Waiting for output to clear. Output limit is {0} -->
+<IP_OverThreshold> Sortie pleine, en attente du retrait des objets. La limite est de {0}.</IP_OverThreshold>
+<!-- EN: No modded recipes found for this factory -->
+<IP_NoRecipesHere>Aucune recette modifiée trouvée pour cette usine</IP_NoRecipesHere>
+
+
+</LanguageData>

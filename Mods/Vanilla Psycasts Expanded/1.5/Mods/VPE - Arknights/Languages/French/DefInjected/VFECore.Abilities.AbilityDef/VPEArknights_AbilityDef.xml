@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Armor Breaker - Spread -->
+<VPE_ArmorbreakerBSTNL.label>brise-armure (propagation)</VPE_ArmorbreakerBSTNL.label>
+<!-- EN: Target: +35% Incoming DMG. Stacks with the previous skill. -->
+<VPE_ArmorbreakerBSTNL.description>Cible : +35% de dégâts entrants. S'empile avec la capacité précédente.</VPE_ArmorbreakerBSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ArmorbreakerBSTNL.jobReportString>Utilise la capacité : {0}</VPE_ArmorbreakerBSTNL.jobReportString>
+<!-- EN: Armor Breaker - Spread -->
+<VPE_ArmorbreakerBSTNL.verbProperties.label>brise-armure (propagation)</VPE_ArmorbreakerBSTNL.verbProperties.label>
+
+<!-- EN: Armor Breaker -->
+<VPE_ArmorbreakerSTNL.label>brise-armure</VPE_ArmorbreakerSTNL.label>
+<!-- EN: Target: +30% Incoming DMG. -->
+<VPE_ArmorbreakerSTNL.description>Cible : +30% de dégâts entrants.</VPE_ArmorbreakerSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ArmorbreakerSTNL.jobReportString>Utilise la capacité : {0}</VPE_ArmorbreakerSTNL.jobReportString>
+<!-- EN: Armor Breaker -->
+<VPE_ArmorbreakerSTNL.verbProperties.label>brise-armure</VPE_ArmorbreakerSTNL.verbProperties.label>
+
+<!-- EN: Descent -->
+<VPE_AscalonDescentSTNL.label>descente</VPE_AscalonDescentSTNL.label>
+<!-- EN: Self: ATK +20%, ATK SPD +50%, +30% Melee dodge chance, slow HP regeneration. -->
+<VPE_AscalonDescentSTNL.description>Psylanceur : +20% d'attaque, +50% de vitesse d'attaque, +30% de chances d'esquive en mêlée, régénération lente des points de vie.</VPE_AscalonDescentSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AscalonDescentSTNL.jobReportString>Utilise la capacité : {0}</VPE_AscalonDescentSTNL.jobReportString>
+<!-- EN: Descent -->
+<VPE_AscalonDescentSTNL.verbProperties.label>descente</VPE_AscalonDescentSTNL.verbProperties.label>
+
+<!-- EN: Endowment -->
+<VPE_AscalonEndowmentSTNL.label>dotation</VPE_AscalonEndowmentSTNL.label>
+<!-- EN: Self: ATK +60%. Enemies: Movement SPD capped to 60% + Damage over time. -->
+<VPE_AscalonEndowmentSTNL.description>Psylanceur : +60% d'attaque.\nEnnemis : Vitesse de déplacement limitée à 60% + dégâts sur la durée.</VPE_AscalonEndowmentSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AscalonEndowmentSTNL.jobReportString>Utilise la capacité : {0}</VPE_AscalonEndowmentSTNL.jobReportString>
+<!-- EN: Endowment -->
+<VPE_AscalonEndowmentSTNL.verbProperties.label>dotation</VPE_AscalonEndowmentSTNL.verbProperties.label>
+
+<!-- EN: Pursuit -->
+<VPE_AscalonPursuitSTNL.label>poursuite</VPE_AscalonPursuitSTNL.label>
+<!-- EN: Enemies in range will suffer from 70% max movement speed and damage over time. -->
+<VPE_AscalonPursuitSTNL.description>Les ennemis à portée subissent une vitesse de déplacement limitée à 70% et des dégâts sur la durée.</VPE_AscalonPursuitSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_AscalonPursuitSTNL.jobReportString>Utilise la capacité : {0}</VPE_AscalonPursuitSTNL.jobReportString>
+<!-- EN: Pursuit -->
+<VPE_AscalonPursuitSTNL.verbProperties.label>poursuite</VPE_AscalonPursuitSTNL.verbProperties.label>
+
+<!-- EN: Glorious Banner -->
+<VPE_BannerSlowSTNL.label>bannière glorieuse</VPE_BannerSlowSTNL.label>
+<!-- EN: Inflict enemies within the area of effect with a movement speed debuff which caps their SPD to 70%, additionally x2 stagger duration for 3 hours. -->
+<VPE_BannerSlowSTNL.description>Inflige aux ennemis situés dans la zone d'effet un malus à la vitesse de déplacement limité à 70%, ainsi qu'une durée d'échelonnement doublée pendant 3 heures.</VPE_BannerSlowSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BannerSlowSTNL.jobReportString>Utilise la capacité : {0}</VPE_BannerSlowSTNL.jobReportString>
+<!-- EN: Glorious Banner -->
+<VPE_BannerSlowSTNL.verbProperties.label>bannière glorieuse</VPE_BannerSlowSTNL.verbProperties.label>
+
+<!-- EN: Inheritance of Faith -->
+<VPE_BannerSupportSTNL.label>héritage de la foi</VPE_BannerSupportSTNL.label>
+<!-- EN: Allow targets in the area of effect to regenerate psyfocus and heal slightly for 2 hours. -->
+<VPE_BannerSupportSTNL.description>Permet aux cibles dans la zone d'effet de régénérer la concentration psychique et de se soigner légèrement pendant 2 heures.</VPE_BannerSupportSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BannerSupportSTNL.jobReportString>Utilise la capacité : {0}</VPE_BannerSupportSTNL.jobReportString>
+<!-- EN: Inheritance of Faith -->
+<VPE_BannerSupportSTNL.verbProperties.label>héritage de la foi</VPE_BannerSupportSTNL.verbProperties.label>
+
+<!-- EN: Bloodline of Desecrated Earth -->
+<VPE_BloodlineSTNL.label>lignée de la terre profanée</VPE_BloodlineSTNL.label>
+<!-- EN: Upon skill activation, this pawn does not take damage for 30 seconds and caps the movement speed of surrounding enemies to 20% for that duration. -->
+<VPE_BloodlineSTNL.description>Lors de l'activation de la capacité, cette personne ne subit pas de dégâts pendant 30 secondes et limite la vitesse de déplacement des ennemis environnants à 20% pendant cette durée.</VPE_BloodlineSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_BloodlineSTNL.jobReportString>Utilise la capacité : {0}</VPE_BloodlineSTNL.jobReportString>
+<!-- EN: Bloodline of Desecrated Earth -->
+<VPE_BloodlineSTNL.verbProperties.label>lignée de la terre profanée</VPE_BloodlineSTNL.verbProperties.label>
+
+<!-- EN: Smokebomb Blast -->
+<VPE_bombCrownSTNL.label>explosion de fumigènes</VPE_bombCrownSTNL.label>
+<!-- EN: Render any nearby ally invisible, including yourself for two hours. -->
+<VPE_bombCrownSTNL.description>Rend invisible tout allié proche, y compris le psylanceur, pendant 2 heures.</VPE_bombCrownSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_bombCrownSTNL.jobReportString>Utilise la capacité : {0}</VPE_bombCrownSTNL.jobReportString>
+<!-- EN: Smokebomb Blast -->
+<VPE_bombCrownSTNL.verbProperties.label>explosion de fumigènes</VPE_bombCrownSTNL.verbProperties.label>
+
+<!-- EN: Crag Splitter -->
+<VPE_CragSplitterSTNL.label>fendeur de roche</VPE_CragSplitterSTNL.label>
+<!-- EN: The next attack will temporarily grant regeneration to the caster and deal 50 damage to the target. -->
+<VPE_CragSplitterSTNL.description>La prochaine attaque accordera temporairement la régénération au psylanceur et infligera 50 points de dégâts à la cible.</VPE_CragSplitterSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_CragSplitterSTNL.jobReportString>Utilise la capacité : {0}</VPE_CragSplitterSTNL.jobReportString>
+<!-- EN: Crag Splitter -->
+<VPE_CragSplitterSTNL.verbProperties.label>fendeur de roche</VPE_CragSplitterSTNL.verbProperties.label>
+
+<!-- EN: DEF Up -->
+<VPE_DefupmudrockSTNL.label>défense augmentée</VPE_DefupmudrockSTNL.label>
+<!-- EN: x0.40% incoming damage for an hour. -->
+<VPE_DefupmudrockSTNL.description>x0,40% de dégâts entrants pendant une heure.</VPE_DefupmudrockSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_DefupmudrockSTNL.jobReportString>Utilise la capacité : {0}</VPE_DefupmudrockSTNL.jobReportString>
+<!-- EN: DEF Up -->
+<VPE_DefupmudrockSTNL.verbProperties.label>défense augmentée</VPE_DefupmudrockSTNL.verbProperties.label>
+
+<!-- EN: Smokescreen Execution -->
+<VPE_ExeCrownSTNL.label>exécution par écran de fumée</VPE_ExeCrownSTNL.label>
+<!-- EN: Melee ATK +500%, SPD +25% and invisible until an attack is used or the duration runs out. -->
+<VPE_ExeCrownSTNL.description>+500% d'attaque en mêlée, +25% de vitesse et invisibilité jusqu'à une attaque soit effectuée ou que la durée s'achève.</VPE_ExeCrownSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ExeCrownSTNL.jobReportString>Utilise la capacité : {0}</VPE_ExeCrownSTNL.jobReportString>
+<!-- EN: Smokescreen Execution -->
+<VPE_ExeCrownSTNL.verbProperties.label>exécution par écran de fumée</VPE_ExeCrownSTNL.verbProperties.label>
+
+<!-- EN: Explosive Dawn -->
+<VPE_ExplosiveDawnSTNL.label>aube explosive</VPE_ExplosiveDawnSTNL.label>
+<!-- EN: Immediatly shoot an explosive projectile at the target. -->
+<VPE_ExplosiveDawnSTNL.description>Tire instantanément un projectile explosif sur la cible.</VPE_ExplosiveDawnSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ExplosiveDawnSTNL.jobReportString>Utilise la capacité : {0}</VPE_ExplosiveDawnSTNL.jobReportString>
+<!-- EN: Explosive Dawn -->
+<VPE_ExplosiveDawnSTNL.verbProperties.label>aube explosive</VPE_ExplosiveDawnSTNL.verbProperties.label>
+
+<!-- EN: Focus Support -->
+<VPE_FocusSupportSTNL.label>soutien de concentration</VPE_FocusSupportSTNL.label>
+<!-- EN: Restores the target's psyfocus for 2 hours. -->
+<VPE_FocusSupportSTNL.description>Restaure la concentration psychique de la cible pendant 2 heures.</VPE_FocusSupportSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FocusSupportSTNL.jobReportString>Utilise la capacité : {0}</VPE_FocusSupportSTNL.jobReportString>
+<!-- EN: Focus Support -->
+<VPE_FocusSupportSTNL.verbProperties.label>soutien de concentration</VPE_FocusSupportSTNL.verbProperties.label>
+
+<!-- EN: The Future Elusive -->
+<VPE_FutureelusiveSTNL.label>un avenir insaisissable</VPE_FutureelusiveSTNL.label>
+<!-- EN: All allies in range will obtain the Inspiration hediff granting bonus damage to their attacks (Excluding the caster). Enemies in range will obtain the Discouragement hediff weakening their attacks. -->
+<VPE_FutureelusiveSTNL.description>Tous les alliés à portée obtiennent l'état de santé "inspiration" qui confère un bonus de dégâts à leurs attaques (à l'exception du psylanceur). Les ennemis à portée obtiennent l'état de santé "découragement" qui affaiblit leurs attaques.</VPE_FutureelusiveSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_FutureelusiveSTNL.jobReportString>Utilise la capacité : {0}</VPE_FutureelusiveSTNL.jobReportString>
+<!-- EN: The Future Elusive -->
+<VPE_FutureelusiveSTNL.verbProperties.label>un avenir insaisissable</VPE_FutureelusiveSTNL.verbProperties.label>
+
+<!-- EN: Command: Tactical Coordination -->
+<VPE_KalCoordinationSTNL.label>commandement : Coordination tactique</VPE_KalCoordinationSTNL.label>
+<!-- EN: Self: +60% ATK SPD, Mon3tr: +25% ATK. -->
+<VPE_KalCoordinationSTNL.description>Psylanceur : +60% de vitesse d'attaque.\nMon3tr : +25% d'attaque.</VPE_KalCoordinationSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_KalCoordinationSTNL.jobReportString>Utilise la capacité : {0}</VPE_KalCoordinationSTNL.jobReportString>
+<!-- EN: Command: Tactical Coordination -->
+<VPE_KalCoordinationSTNL.verbProperties.label>commandement : Coordination tactique</VPE_KalCoordinationSTNL.verbProperties.label>
+
+<!-- EN: Command: Structural Fortification -->
+<VPE_KalFortificationSTNL.label>commandement : Fortification structurelle</VPE_KalFortificationSTNL.label>
+<!-- EN: Self: +50% DEF. Mon3tr: +30% DEF. -->
+<VPE_KalFortificationSTNL.description>Psylanceur : +50% de défense.\nMon3tr : +30% de défense.</VPE_KalFortificationSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_KalFortificationSTNL.jobReportString>Utilise la capacité : {0}</VPE_KalFortificationSTNL.jobReportString>
+<!-- EN: Command: Structural Fortification -->
+<VPE_KalFortificationSTNL.verbProperties.label>commandement : Fortification structurelle</VPE_KalFortificationSTNL.verbProperties.label>
+
+<!-- EN: Command: Meltdown -->
+<VPE_KalMeltdownSTNL.label>commandement : Fusion</VPE_KalMeltdownSTNL.label>
+<!-- EN: Mon3tr: ATK x2, DEF +60%, HP Regen over time. -->
+<VPE_KalMeltdownSTNL.description>Mon3tr : Attaque x2, +60% de défense, régénération des points de vie sur la durée.</VPE_KalMeltdownSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_KalMeltdownSTNL.jobReportString>Utilise la capacité : {0}</VPE_KalMeltdownSTNL.jobReportString>
+<!-- EN: Command: Meltdown -->
+<VPE_KalMeltdownSTNL.verbProperties.label>commandement : Fusion</VPE_KalMeltdownSTNL.verbProperties.label>
+
+<!-- EN: King of hearts -->
+<VPE_KingofheartsSTNL.label>roi des cœurs</VPE_KingofheartsSTNL.label>
+<!-- EN: Immediatly launch a grenade dealing 50 points of damage and ignoring 50% of the target's armor. -->
+<VPE_KingofheartsSTNL.description>Lance instantanément une grenade infligeant 50 points de dégâts et ignore 50% de l'armure de la cible.</VPE_KingofheartsSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_KingofheartsSTNL.jobReportString>Utilise la capacité : {0}</VPE_KingofheartsSTNL.jobReportString>
+<!-- EN: King of hearts -->
+<VPE_KingofheartsSTNL.verbProperties.label>roi des cœurs</VPE_KingofheartsSTNL.verbProperties.label>
+
+<!-- EN: Medical Drone -->
+<VPE_MedicalDroneSTNL.label>drone médical</VPE_MedicalDroneSTNL.label>
+<!-- EN: Deploy a Medical Drone to a location of your choosing, the drone will heal anyone nearby and will last for a duration of 6 hours. -->
+<VPE_MedicalDroneSTNL.description>Déploie un drone médical à l'endroit ciblé, le drone soigne toute personne à proximité pendant une durée de 6 heures.</VPE_MedicalDroneSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MedicalDroneSTNL.jobReportString>Utilise la capacité : {0}</VPE_MedicalDroneSTNL.jobReportString>
+<!-- EN: Medical Drone -->
+<VPE_MedicalDroneSTNL.verbProperties.label>drone médical</VPE_MedicalDroneSTNL.verbProperties.label>
+
+<!-- EN: Marksman's proficiency -->
+<VPE_MeteorMarksmanSTNL.label>maîtrise du tireur d'élite</VPE_MeteorMarksmanSTNL.label>
+<!-- EN: Ranged ATK SPD +70%. -->
+<VPE_MeteorMarksmanSTNL.description>+70% de vitesse d'attaque à distance.</VPE_MeteorMarksmanSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MeteorMarksmanSTNL.jobReportString>Utilise la capacité : {0}</VPE_MeteorMarksmanSTNL.jobReportString>
+<!-- EN: Marksman's proficiency -->
+<VPE_MeteorMarksmanSTNL.verbProperties.label>maîtrise du tireur d'élite</VPE_MeteorMarksmanSTNL.verbProperties.label>
+
+<!-- EN: Summon: Mon3tr -->
+<VPE_Mon3trSMNSTNL.label>invoquer : Mon3tr</VPE_Mon3trSMNSTNL.label>
+<!-- EN: Summon Mon3tr. -->
+<VPE_Mon3trSMNSTNL.description>Invoque un Mon3tr.</VPE_Mon3trSMNSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_Mon3trSMNSTNL.jobReportString>Utilise la capacité : {0}</VPE_Mon3trSMNSTNL.jobReportString>
+<!-- EN: Summon: Mon3tr -->
+<VPE_Mon3trSMNSTNL.verbProperties.label>invoquer : Mon3tr</VPE_Mon3trSMNSTNL.verbProperties.label>
+
+<!-- EN: Murky Night -->
+<VPE_MurkyNightSTNL.label>nuit obscure</VPE_MurkyNightSTNL.label>
+<!-- EN: +50% ATK SPD, gain invisiblity for an hour. -->
+<VPE_MurkyNightSTNL.description>+50% de vitesse d'attaque et invisibilité pendant 1 heure.</VPE_MurkyNightSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_MurkyNightSTNL.jobReportString>Utilise la capacité : {0}</VPE_MurkyNightSTNL.jobReportString>
+<!-- EN: Murky Night -->
+<VPE_MurkyNightSTNL.verbProperties.label>nuit obscure</VPE_MurkyNightSTNL.verbProperties.label>
+
+<!-- EN: The Past Lingering -->
+<VPE_PastLingeringSTNL.label>le passé perdure</VPE_PastLingeringSTNL.label>
+<!-- EN: Grants additional defensive capabilities to nearby allies, excluding self. -->
+<VPE_PastLingeringSTNL.description>Accorde des capacités défensives supplémentaires aux alliés proches, à l'exception du psylanceur.</VPE_PastLingeringSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PastLingeringSTNL.jobReportString>Utilise la capacité : {0}</VPE_PastLingeringSTNL.jobReportString>
+<!-- EN: The Past Lingering -->
+<VPE_PastLingeringSTNL.verbProperties.label>le passé perdure</VPE_PastLingeringSTNL.verbProperties.label>
+
+<!-- EN: The Present Reconstructed -->
+<VPE_PresentreconstructedSTNL.label>le présent reconstruit</VPE_PresentreconstructedSTNL.label>
+<!-- EN: All allies in range will obtain the Regeneration hediff granting them increased healing (Caster Included). Enemies in range will obtain the Stagnation hediff, nullifying their ability to heal from wounds. -->
+<VPE_PresentreconstructedSTNL.description>Tous les alliés à portée obtiennent l'état de santé "régénération" qui leur confère une augmentation de guérison (psylanceur inclus). Les ennemis à portée obtiennent l'état de santé "stagnation", qui annule leur capacité à guérir des blessures.</VPE_PresentreconstructedSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_PresentreconstructedSTNL.jobReportString>Utilise la capacité : {0}</VPE_PresentreconstructedSTNL.jobReportString>
+<!-- EN: The Present Reconstructed -->
+<VPE_PresentreconstructedSTNL.verbProperties.label>le présent reconstruit</VPE_PresentreconstructedSTNL.verbProperties.label>
+
+<!-- EN: Revenant Shadow -->
+<VPE_RevenantTurretSTNL.label>ombre du revenant</VPE_RevenantTurretSTNL.label>
+<!-- EN: Summon a revenant shadow, the caster will become invisible for 5 hours, the shadow lasting for that duration. -->
+<VPE_RevenantTurretSTNL.description>Invoque l'ombre d'un revenant, le psylanceur devient invisible pendant 5 heures, l'ombre perdurant pendant cette durée.</VPE_RevenantTurretSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_RevenantTurretSTNL.jobReportString>Utilise la capacité : {0}</VPE_RevenantTurretSTNL.jobReportString>
+<!-- EN: Revenant Shadow -->
+<VPE_RevenantTurretSTNL.verbProperties.label>ombre du revenant</VPE_RevenantTurretSTNL.verbProperties.label>
+
+<!-- EN: Shadow Raid -->
+<VPE_ShadowRaidSTNL.label>raid des ombres</VPE_ShadowRaidSTNL.label>
+<!-- EN: This attack deals Arts DOT to the target for a short time. -->
+<VPE_ShadowRaidSTNL.description>Cette attaque inflige des dégâts d'Arts sur la durée à la cible pendant une courte durée.</VPE_ShadowRaidSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShadowRaidSTNL.jobReportString>Utilise la capacité : {0}</VPE_ShadowRaidSTNL.jobReportString>
+<!-- EN: Shadow Raid -->
+<VPE_ShadowRaidSTNL.verbProperties.label>raid des ombres</VPE_ShadowRaidSTNL.verbProperties.label>
+
+<!-- EN: Auto Protect -->
+<VPE_ShiningAutoprotectSTNL.label>auto-protection</VPE_ShiningAutoprotectSTNL.label>
+<!-- EN: This ability will slowly heal the target and grant them a barrier that lasts for 3 hours, the barrier will reduce incoming damage by 35%. -->
+<VPE_ShiningAutoprotectSTNL.description>Cette capacité soigne lentement la cible et lui confère une barrière qui dure 3 heures. La barrière réduit les dégâts de 35%.</VPE_ShiningAutoprotectSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShiningAutoprotectSTNL.jobReportString>Utilise la capacité : {0}</VPE_ShiningAutoprotectSTNL.jobReportString>
+<!-- EN: Auto Protect -->
+<VPE_ShiningAutoprotectSTNL.verbProperties.label>auto-protection</VPE_ShiningAutoprotectSTNL.verbProperties.label>
+
+<!-- EN: Creed Field -->
+<VPE_ShiningCreedFieldSTNL.label>champ de credo</VPE_ShiningCreedFieldSTNL.label>
+<!-- EN: Caster: ATK +40%. Allies: DEF +30%. Duration: 3 Hours. -->
+<VPE_ShiningCreedFieldSTNL.description>Psylanceur : +40% d'attaque.\nAlliés : +30% de défense.\nDurée : 3 Heures.</VPE_ShiningCreedFieldSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShiningCreedFieldSTNL.jobReportString>Utilise la capacité : {0}</VPE_ShiningCreedFieldSTNL.jobReportString>
+<!-- EN: Creed Field -->
+<VPE_ShiningCreedFieldSTNL.verbProperties.label>champ de credo</VPE_ShiningCreedFieldSTNL.verbProperties.label>
+
+<!-- EN: Creed -->
+<VPE_ShiningCreedSTNL.label>credo</VPE_ShiningCreedSTNL.label>
+<!-- EN: ATK +67%; ATK SPD +20% to self. -->
+<VPE_ShiningCreedSTNL.description>Psylanceur : +67% d'attaque et +20% de vitesse d'attaque.</VPE_ShiningCreedSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ShiningCreedSTNL.jobReportString>Utilise la capacité : {0}</VPE_ShiningCreedSTNL.jobReportString>
+<!-- EN: Creed -->
+<VPE_ShiningCreedSTNL.verbProperties.label>credo</VPE_ShiningCreedSTNL.verbProperties.label>
+
+<!-- EN: Healing Up -->
+<VPE_SilenceMedUpSTNL.label>guérison</VPE_SilenceMedUpSTNL.label>
+<!-- EN: Grant increased healing factor to the target for 12 Hours. -->
+<VPE_SilenceMedUpSTNL.description>Accorde un facteur de guérison accru à la cible pendant 12 heures.</VPE_SilenceMedUpSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SilenceMedUpSTNL.jobReportString>Utilise la capacité : {0}</VPE_SilenceMedUpSTNL.jobReportString>
+<!-- EN: Healing Up -->
+<VPE_SilenceMedUpSTNL.verbProperties.label>guérison</VPE_SilenceMedUpSTNL.verbProperties.label>
+
+<!-- EN: Passive (Self): Booster Injection -->
+<VPE_SilencePassiveSTNL.label>injection d'un stimulant</VPE_SilencePassiveSTNL.label>
+<!-- EN: Obtain faster immunity gain and healing speed. -->
+<VPE_SilencePassiveSTNL.description>Psylanceur : Obtient un gain d'immunité et une vitesse de guérison plus rapides.</VPE_SilencePassiveSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SilencePassiveSTNL.jobReportString>Utilise la capacité : {0}</VPE_SilencePassiveSTNL.jobReportString>
+<!-- EN: Passive (Self): Booster Injection -->
+<VPE_SilencePassiveSTNL.verbProperties.label>injection d'un stimulant</VPE_SilencePassiveSTNL.verbProperties.label>
+
+<!-- EN: Smoke and Mirrors -->
+<VPE_SmokeCrownSTNL.label>fumée et miroir</VPE_SmokeCrownSTNL.label>
+<!-- EN: ATK +50%, 40% Melee dodge chance increase. -->
+<VPE_SmokeCrownSTNL.description>+50% d'attaque et +40% d'augmentation des chances d'esquive en mêlée.</VPE_SmokeCrownSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SmokeCrownSTNL.jobReportString>Utilise la capacité : {0}</VPE_SmokeCrownSTNL.jobReportString>
+<!-- EN: Smoke and Mirrors -->
+<VPE_SmokeCrownSTNL.verbProperties.label>fumée et miroir</VPE_SmokeCrownSTNL.verbProperties.label>
+
+<!-- EN: Solitary Return -->
+<VPE_SolitaryReturnSTNL.label>retour solitaire</VPE_SolitaryReturnSTNL.label>
+<!-- EN: Deploy a Shadow Sentry to a location of your choosing, the sentry will slow down anyone passing nearby and will last for 2 hours. Additionally obtain 110% ATK bonus for a duration of 1 hour. -->
+<VPE_SolitaryReturnSTNL.description>Déploie une sentinelle de l'ombre à l'endroit ciblé, la sentinelle ralentira toute personne passant à proximité et durera 2 heures. De plus, vous obtenez un bonus de 110% d'attaque pour une durée de 1 heure.</VPE_SolitaryReturnSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SolitaryReturnSTNL.jobReportString>Utilise la capacité : {0}</VPE_SolitaryReturnSTNL.jobReportString>
+<!-- EN: Solitary Return -->
+<VPE_SolitaryReturnSTNL.verbProperties.label>retour solitaire</VPE_SolitaryReturnSTNL.verbProperties.label>
+
+<!-- EN: D12 -->
+<VPE_WD12STNL.label>D12</VPE_WD12STNL.label>
+<!-- EN: Places bombs on enemies within AOE range of this psycast, the bombs will detonate instantly. -->
+<VPE_WD12STNL.description>Place des bombes sous les ennemis à portée de la zone d'effet de ce psysort, les bombes explosent instantanément.</VPE_WD12STNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WD12STNL.jobReportString>Utilise la capacité : {0}</VPE_WD12STNL.jobReportString>
+<!-- EN: D12 -->
+<VPE_WD12STNL.verbProperties.label>D12</VPE_WD12STNL.verbProperties.label>
+
+<!-- EN: Jack in the box -->
+<VPE_WMineSpawnSTNL.label>diable en boîte</VPE_WMineSpawnSTNL.label>
+<!-- EN: Buries a mine (lasts forever) in a walkable tile within 8 tiles of the user the mine will detonate when an enemy steps over it. -->
+<VPE_WMineSpawnSTNL.description>Enfouit une mine (qui dure éternellement) dans une case franchissable située à moins de 8 cases de l'utilisateur. La mine explosera lorsqu'un ennemi marchera dessus.</VPE_WMineSpawnSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WMineSpawnSTNL.jobReportString>Utilise la capacité : {0}</VPE_WMineSpawnSTNL.jobReportString>
+<!-- EN: Jack in the box -->
+<VPE_WMineSpawnSTNL.verbProperties.label>diable en boîte</VPE_WMineSpawnSTNL.verbProperties.label>
+
+<!-- EN: Wrathful Cerulean Flame -->
+<VPE_WrathfulceruleanflameSTNL.label>flamme céruléenne courroucée</VPE_WrathfulceruleanflameSTNL.label>
+<!-- EN: All allied units on the battlefield gain +14% ATK and will take -14% incoming damage. -->
+<VPE_WrathfulceruleanflameSTNL.description>Toutes les unités alliées sur le champ de bataille gagnent +14% d'attaque et subissent -14% de dégâts entrants.</VPE_WrathfulceruleanflameSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_WrathfulceruleanflameSTNL.jobReportString>Utilise la capacité : {0}</VPE_WrathfulceruleanflameSTNL.jobReportString>
+<!-- EN: Wrathful Cerulean Flame -->
+<VPE_WrathfulceruleanflameSTNL.verbProperties.label>flamme céruléenne courroucée</VPE_WrathfulceruleanflameSTNL.verbProperties.label>
+
+<!-- EN: Ying Xiao - Fleeting Night -->
+<VPE_YingASTNL.label>Ying Xiao - Nuit fugace</VPE_YingASTNL.label>
+<!-- EN: ATK +50%, -10% Incoming damage, ATK speed x2. -->
+<VPE_YingASTNL.description>+50% d'attaque, -10% de dégâts entrants, vitesse d'attaque x2.</VPE_YingASTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_YingASTNL.jobReportString>Utilise la capacité : {0}</VPE_YingASTNL.jobReportString>
+<!-- EN: Ying Xiao - Fleeting Night -->
+<VPE_YingASTNL.verbProperties.label>Ying Xiao - Nuit fugace</VPE_YingASTNL.verbProperties.label>
+
+<!-- EN: Ying Xiao - Shadowless -->
+<VPE_YingBSTNL.label>Ying Xiao - Sans ombre</VPE_YingBSTNL.label>
+<!-- EN: Immediately attacks the target in front of the caster 10 times for 30 damage per slash. Afterwards, this pawn will deal double melee damage for 6 hours. -->
+<VPE_YingBSTNL.description>Attaque instantanément la cible devant le psylanceur 10 fois pour 30 points de dégâts par coup. Ensuite, ce psylanceur double ses dégâts en mêlée pendant 6 heures.</VPE_YingBSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_YingBSTNL.jobReportString>Utilise la capacité : {0}</VPE_YingBSTNL.jobReportString>
+<!-- EN: Ying Xiao - Shadowless -->
+<VPE_YingBSTNL.verbProperties.label>Ying Xiao - Sans ombre</VPE_YingBSTNL.verbProperties.label>
+
+<!-- EN: Explosive Shock -->
+<WisadelBasicAttackSTNL.label>choc explosif</WisadelBasicAttackSTNL.label>
+<!-- EN: Immediatly shoot an explosive projectile at the target. -->
+<WisadelBasicAttackSTNL.description>Tire instantanément un projectile explosif sur la cible.</WisadelBasicAttackSTNL.description>
+<!-- EN: Using ability: {0} -->
+<WisadelBasicAttackSTNL.jobReportString>Utilise la capacité : {0}</WisadelBasicAttackSTNL.jobReportString>
+<!-- EN: Explosive Shock -->
+<WisadelBasicAttackSTNL.verbProperties.label>choc explosif</WisadelBasicAttackSTNL.verbProperties.label>
+
+
+</LanguageData>

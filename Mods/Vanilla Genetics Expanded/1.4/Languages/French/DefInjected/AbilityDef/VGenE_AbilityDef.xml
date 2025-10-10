@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<GR_DeathRay.label>rayon thermique orbital</GR_DeathRay.label>
+<GR_DeathRay.description>Redirige un satellite orbitale mécanoïde pour tirer sur un endroit sélectionné.</GR_DeathRay.description>
+
+<GR_SetTrap.label>piège à chemfuel</GR_SetTrap.label>
+<GR_SetTrap.description>Placer un piège explosif. L'hommalope ne le déclenchera pas.</GR_SetTrap.description>
+
+<GR_DetonateBomb.label>chemfuel</GR_DetonateBomb.label>
+<GR_DetonateBomb.description>Faites exploser à distance les réservoirs de chemfuel de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateBomb.description>
+
+<GR_VentHeatedExhaust.label>évacuation d'air chaud</GR_VentHeatedExhaust.label>
+<GR_VentHeatedExhaust.description>Évacue les gaz chauds produits par les processus internes de cet hybride mécanoïde. Cela crée une vague d'air surchauffé qui affecte les cases environnantes. Elle n'affectera pas l'hybride.</GR_VentHeatedExhaust.description>
+
+<GR_DetonateAcid.label>chemfuel acide</GR_DetonateAcid.label>
+<GR_DetonateAcid.description>Faites exploser à distance les réservoirs de chemfuel acide de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateAcid.description>
+
+<GR_PoisonousCloud.label>nuage venimeux</GR_PoisonousCloud.label>
+<GR_PoisonousCloud.description>Libère un nuage de gaz toxique de cette créature. L'animal ne sera PAS affecté ni endommagé par ce gaz.</GR_PoisonousCloud.description>
+
+<GR_DetonatePoison.label>chemfuel venimeux</GR_DetonatePoison.label>
+<GR_DetonatePoison.description>Faites exploser à distance les réservoirs de chemfuel venimeux de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonatePoison.description>
+
+<GR_DetonateFrost.label>chemfuel cryo</GR_DetonateFrost.label>
+<GR_DetonateFrost.description>Faites exploser à distance les réservoirs de chemfuel cryogénique de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateFrost.description>
+
+<GR_DetonateStun.label>chemfuel étourdissant</GR_DetonateStun.label>
+<GR_DetonateStun.description>Faites exploser à distance les réservoirs de chemfuel étourdissants de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_DetonateStun.description>
+
+<GR_ChemfuelDischarge.label>décharge chemfuel</GR_ChemfuelDischarge.label>
+<GR_ChemfuelDischarge.description>Faites exploser à distance les réservoirs de chemfuel de cette créature. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_ChemfuelDischarge.description>
+
+<GR_FragEggs.label>œuf explosif</GR_FragEggs.label>
+<GR_FragEggs.description>Pondre plusieurs œufs explosifs. L'animal sera affecté et endommagé par l'explosion qui en résultera.</GR_FragEggs.description>
+
+<GR_AdrenalineRush.label>montée d'adrénaline</GR_AdrenalineRush.label>
+<GR_AdrenalineRush.description>Permet à la créature de se déplacer beaucoup plus rapidement pendant un certain temps, au prix d'être fatiguée ensuite pendant près d'une demi-journée.</GR_AdrenalineRush.description>
+
+<GR_CatReflexes.label>réflexes de chat</GR_CatReflexes.label>
+<GR_CatReflexes.description>Rend la créature beaucoup plus agile, améliorant encore ses chances d'esquiver les attaques de mêlée.</GR_CatReflexes.description>
+
+<GR_InsectClouds.label>nuée d'insectes</GR_InsectClouds.label>
+<GR_InsectClouds.description>Engendre une nuée de drones autour de cet animal qui découpe n'importe quelle créature, à l'exception des parangons insectoïdes.</GR_InsectClouds.description>
+
+<GR_Burrow.label>enterrer</GR_Burrow.label>
+<GR_Burrow.description>Fait passer la créature sous terre en mode terrier, ce qui la rend très résistante aux dégâts pendant un certain temps.</GR_Burrow.description>
+
+<GR_StampedeClouds.label>ruée</GR_StampedeClouds.label>
+<GR_StampedeClouds.description>La créature piétine, se déplace plus rapidement et crée des nuages de poussière qui bloquent la ligne de visée des armes à projectiles. La créature se fatigue au bout d'un moment.</GR_StampedeClouds.description>
+
+<GR_KeenSenses.label>sens aiguisés</GR_KeenSenses.label>
+<GR_KeenSenses.description>Rend la créature plus consciente de son environnement, augmentant ses capacités de mêlée (affecte la vue, les chances de toucher et la conscience).</GR_KeenSenses.description>
+
+<GR_PackTactics.label>tactique de meute</GR_PackTactics.label>
+<GR_PackTactics.description>Collaborez avec d'autres loups-muffalos à proximité pour abattre des proies.</GR_PackTactics.description>
+
+<GR_ResearchDrive.label>effort de recherche</GR_ResearchDrive.label>
+<GR_ResearchDrive.description>Offrez des perspectives d'investigation aux chercheurs à proximité, leur permettant ainsi de faire plus facilement une découverte.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; "Cher scientifique, avez-vous envisagé de rejeter l'humanité, et de retourner au stade de singe ? Matière à réflexion".</GR_ResearchDrive.description>
+
+
+</LanguageData>

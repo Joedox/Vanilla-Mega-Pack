@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VPE_EltexMeteor.questDescriptionRules.rulesStrings.0>questDescription->Une grosse météorite a touché le sol à proximité. Elle a laissé derrière elle un morceau d'eltex. L'eltex peut être utilisé pour créer un équipement améliorant la concentration psychique, ou vendu à l'Empire pour gagner de l'honneur.\nVous pouvez envoyer une équipe de mineurs pour le récupérer, mais il est fort probable que si vous attendez trop longtemps, quelqu'un d'autre le revendiquera.</VPE_EltexMeteor.questDescriptionRules.rulesStrings.0>
+<VPE_EltexMeteor.questNameRules.rulesStrings.0>questName->Météorite d'Eltex</VPE_EltexMeteor.questNameRules.rulesStrings.0>
+<VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>D'autres personnes ont exploité la météorite d'Eltex. La quête [resolvedQuestName] a expiré.</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+
+</LanguageData>

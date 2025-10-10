@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pickaxe -->
+
+  <VWE_MeleeWeapon_Pickaxe.label>pioche</VWE_MeleeWeapon_Pickaxe.label>
+  <VWE_MeleeWeapon_Pickaxe.description>Cette invention de base est efficace comme arme, tout en étant un outil en même temps. Elle nécessite quelques muscles pour être utilisée, mais permet de creuser dans les montagnes de manière plus efficace.\n\nLa forme de la tête permet de percer des armures plus épaisses.</VWE_MeleeWeapon_Pickaxe.description>
+  <VWE_MeleeWeapon_Pickaxe.tools.handle.label>poignée</VWE_MeleeWeapon_Pickaxe.tools.handle.label>
+  <VWE_MeleeWeapon_Pickaxe.tools.point.label>pointe</VWE_MeleeWeapon_Pickaxe.tools.point.label>
+
+
+  <!-- Hammer -->
+
+  <VWE_MeleeWeapon_Hammer.label>marteau</VWE_MeleeWeapon_Hammer.label>
+  <VWE_MeleeWeapon_Hammer.description>Un marteau est un outil constitué d'une lourde pièce de métal ou de pierre à l'extrémité d'un manche. Il est utilisé, par exemple, pour enfoncer des clous dans un morceau de bois ou un mur.\n\nCette invention de base est efficace comme arme, tout en étant un outil en même temps. Elle nécessite un peu de muscles pour être utilisée, mais permet de construire plus facilement.</VWE_MeleeWeapon_Hammer.description>
+  <VWE_MeleeWeapon_Hammer.tools.handle.label>poignée</VWE_MeleeWeapon_Hammer.tools.handle.label>
+  <VWE_MeleeWeapon_Hammer.tools.head.label>tête</VWE_MeleeWeapon_Hammer.tools.head.label>
+
+
+  <!-- Battle Axe -->
+
+  <VWE_MeleeWeapon_BattleAxe.label>hache de guerre</VWE_MeleeWeapon_BattleAxe.label>
+  <VWE_MeleeWeapon_BattleAxe.description>Une arme puissante sur le champ de bataille dans les bonnes mains. Elle est faite pour couper la chair et les os.\n\nFavorisée par les clans Berserker, la hache de guerre est une arme généralement utilisée par les chevaliers médiévaux. Avec un coup puissant, elle est capable d'éliminer la plupart des ennemis au corps à corps.</VWE_MeleeWeapon_BattleAxe.description>
+  <VWE_MeleeWeapon_BattleAxe.tools.handle.label>poignée</VWE_MeleeWeapon_BattleAxe.tools.handle.label>
+  <VWE_MeleeWeapon_BattleAxe.tools.blade.label>lame</VWE_MeleeWeapon_BattleAxe.tools.blade.label>
+
+
+  <!-- Halberd -->
+
+  <VWE_MeleeWeapon_Halberd.label>hallebarde</VWE_MeleeWeapon_Halberd.label>
+  <VWE_MeleeWeapon_Halberd.description>La hallebarde est une pique munie d'une tête de hache légère. Grâce à sa pointe acérée comme une lance, c'est un excellent outil contre les ennemis en armure.\n\nUtilisée pour abattre les guerriers à cheval à l'époque médiévale grâce à sa longueur extraordinaire.</VWE_MeleeWeapon_Halberd.description>
+  <VWE_MeleeWeapon_Halberd.tools.handle.label>poignée</VWE_MeleeWeapon_Halberd.tools.handle.label>
+  <VWE_MeleeWeapon_Halberd.tools.blade.label>lame</VWE_MeleeWeapon_Halberd.tools.blade.label>
+  <VWE_MeleeWeapon_Halberd.tools.point.label>pointe</VWE_MeleeWeapon_Halberd.tools.point.label>
+  
+
+</LanguageData>

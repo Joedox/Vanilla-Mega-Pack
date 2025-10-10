@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEE.OR>; ou </VFEE.OR>
+<VFEE.StartBestower.NoThrone>Impossible de commencer car {0} n'a pas un trône digne.</VFEE.StartBestower.NoThrone>
+<VFEE.StartBestower.NoTarget>Impossible de commencer en raison de l'absence de salle du trône valide pour conférer le titre.</VFEE.StartBestower.NoTarget>
+<VFEE.StartBestower.HigherTitle>Impossible de commencer car la cible possède déjà un titre supérieur.</VFEE.StartBestower.HigherTitle>
+<VFEE.StartBestower.DisabledExistingRitual>Impossible de commencer alors qu'un rituel est déjà en cours.</VFEE.StartBestower.DisabledExistingRitual>
+<VFEE.GalleryRequirements>Exigences de la galerie d'art</VFEE.GalleryRequirements>
+<VFEE.GalleryRequirements.Unmet>Exigences de la galerie d'art non satisfaites : {0}</VFEE.GalleryRequirements.Unmet>
+<VFEE.BallroomRequirements>Exigences pour la salle de bal</VFEE.BallroomRequirements>
+<VFEE.BallroomRequirements.Unmet>Exigences de la salle de bal non satisfaites : {0}</VFEE.BallroomRequirements.Unmet>
+<VFEE.BallroomRequirements.DanceFloorToSmall>La salle de bal n'a pas une piste de danse assez grande pour les invités ! Ils voudraient un espace ouvert de {0} devant un instrument.</VFEE.BallroomRequirements.DanceFloorToSmall>
+<VFEE.CourtRequirements>Exigences de la cour des nobles</VFEE.CourtRequirements>
+<VFEE.GrandBall.Begin>Organiser un grand bal</VFEE.GrandBall.Begin>
+<VFEE.GrandBall.Label>Grand bal</VFEE.GrandBall.Label>
+<VFEE.GrandBall.Leave.label>Quitter le grand bal</VFEE.GrandBall.Leave.label>
+<VFEE.GrandBall.Leave.Desc>Ce colon quittera le grand bal, et ne pourra pas rejoindre les festivités plus tard.</VFEE.GrandBall.Leave.Desc>
+<VFEE.GrandBall.Cancel.Label>Annuler le grand bal</VFEE.GrandBall.Cancel.Label>
+<VFEE.GrandBall.Cancel.Desc>Annule le grand bal en renvoyant tout le monde chez eux et en échouant la quête.</VFEE.GrandBall.Cancel.Desc>
+<VFEE.GrandBall.Cancel.Confirm>Vous n'aurez pas la possibilité de recommencer ce rituel, vos invités rentreront chez eux mécontents et la quête sera un échec.</VFEE.GrandBall.Cancel.Confirm>
+<VFEE.GrandBall.Waiting>Vos invités attendent que vous débutiez le grand bal. Mais ils n'attendront pas longtemps.</VFEE.GrandBall.Waiting>
+<VFEE.GrandBall.Description>Un bal exclusif auquel ne peuvent assister que les personnes ayant un titre royal, et quelques personnes sachant jouer un instrument.</VFEE.GrandBall.Description>
+<VFEE.GrandBall.ChooseParticipants>Participants</VFEE.GrandBall.ChooseParticipants>
+<VFEE.ArtExhibit.Begin>Organiser une exposition d'art</VFEE.ArtExhibit.Begin>
+<VFEE.ArtExhibit.Label>Exposition d'art</VFEE.ArtExhibit.Label>
+<VFEE.ArtExhibit.Leave.label>Quitter l'exposition</VFEE.ArtExhibit.Leave.label>
+<VFEE.ArtExhibit.Leave.Desc>Ce colon quittera l'exposition d'art, et ne pourra pas rejoindre les festivités plus tard.</VFEE.ArtExhibit.Leave.Desc>
+<VFEE.ArtExhibit.Cancel.Label>Annuler l'exposition</VFEE.ArtExhibit.Cancel.Label>
+<VFEE.ArtExhibit.Cancel.Desc>Annule l'exposition d'art en renvoyant tout le monde chez eux et en échouant la quête.</VFEE.ArtExhibit.Cancel.Desc>
+<VFEE.ArtExhibit.Cancel.Confirm>Vous n'aurez pas la possibilité de recommencer ce rituel, vos invités rentreront chez eux mécontents et la quête sera un échec.</VFEE.ArtExhibit.Cancel.Confirm>
+<VFEE.ArtExhibit.Waiting>Vos invités attendent que vous débutiez l'exposition d'art. Mais ils n'attendront pas longtemps.</VFEE.ArtExhibit.Waiting>
+<VFEE.ArtExhibit.Description>Une exposition d'art à laquelle ne peuvent assister que les personnes ayant un titre royal, pour admirer votre galerie et commérer entre eux.</VFEE.ArtExhibit.Description>
+<VFEE.ArtExhibit.ChooseParticipants>Participants</VFEE.ArtExhibit.ChooseParticipants>
+<VFEE.Parade.Begin>Organiser un défilé</VFEE.Parade.Begin>
+<VFEE.Parade.Murder>Poussé par la jalousie, {0} tente d'assassiner le stellaire !</VFEE.Parade.Murder>
+<VFEE.Parade.Label>Défilé</VFEE.Parade.Label>
+<VFEE.Parade.Leave.label>Quitter le défilé</VFEE.Parade.Leave.label>
+<VFEE.Parade.Leave.Desc>Ce colon quittera le défilé, et ne pourra pas rejoindre les festivités par la suite.</VFEE.Parade.Leave.Desc>
+<VFEE.Parade.Cancel.Label>Annuler le défilé</VFEE.Parade.Cancel.Label>
+<VFEE.Parade.Cancel.Desc>Annule le défilé en renvoyant tout le monde chez eux et en échouant la quête.</VFEE.Parade.Cancel.Desc>
+<VFEE.Parade.Cancel.Confirm>Vous n'aurez pas la possibilité de recommencer ce rituel, vos invités rentreront chez eux mécontents et la quête sera un échec.</VFEE.Parade.Cancel.Confirm>
+<VFEE.Parade.Waiting>Vos invités attendent que vous lanciez le défilé. Mais ils n'attendront pas longtemps.</VFEE.Parade.Waiting>
+<VFEE.Parade.Description>Un défilé traditionnel d'ascension pour envoyer le stellaire !</VFEE.Parade.Description>
+<VFEE.Parade.InvalidGuard>Le stellaire ne fait pas assez confiance à {0}.</VFEE.Parade.InvalidGuard>
+<VFEE.Parade.ChooseParticipants>Participants</VFEE.Parade.ChooseParticipants>
+<VFEE.Parade.LandingAreaUnmet>Impossible de trouver une balise d'atterrissage appropriée pour que les invités puissent atterrir avec leur navette à</VFEE.Parade.LandingAreaUnmet>
+<VFEE.Parade.Reward.Label>Ascension du Stellaire</VFEE.Parade.Reward.Label>
+<VFEE.Parade.Reward.Description>Votre Stellaire atteindra l'ascension et pourra quitter le monde pour progresser dans la grande hiérarchie, en servant directement auprès de l'empereur.</VFEE.Parade.Reward.Description>
+<VFEE.DefuseBomb>Désamorcer la bombe</VFEE.DefuseBomb>
+<VFEE.AssassinationSuccess>Les déserteurs partent car ils ont éliminé leur cible.</VFEE.AssassinationSuccess>
+	<VFEE.Discard>Discard</VFEE.Discard>
+<VFEE.RoyaltyDead>Les déserteurs partent car ils ont éliminé tous les détenteurs de titres impériaux dans la région.</VFEE.RoyaltyDead>
+<VFEE.GotDrug>{0} vous a envoyé un colis d'apéritif pour les festivités !</VFEE.GotDrug>
+<VFEE.TitheArrived>La dîme de {0} est arrivée à {1}.</VFEE.TitheArrived>
+<VFEE.HonorGainedTitle>1 Honneur gagné par {0} grâce à {1}</VFEE.HonorGainedTitle>
+
+
+</LanguageData>

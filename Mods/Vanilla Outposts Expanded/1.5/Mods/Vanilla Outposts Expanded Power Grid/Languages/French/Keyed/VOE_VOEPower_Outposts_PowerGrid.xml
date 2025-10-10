@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<VOEPowerGrid.Construct.Label>Construire</VOEPowerGrid.Construct.Label>
+<VOEPowerGrid.Construct.Desc>Construire un nouveau bâtiment.</VOEPowerGrid.Construct.Desc>
+<VOEPowerGrid.Construct.Reason>Nombre de bâtiment max. atteint</VOEPowerGrid.Construct.Reason>
+<VOEPowerGrid.Deconstruct.Label>Démolir</VOEPowerGrid.Deconstruct.Label>
+<VOEPowerGrid.Deconstruct.Desc>Démolir un bâtiment existant.</VOEPowerGrid.Deconstruct.Desc>
+<VOEPowerGrid.Deconstruct.Reason>Aucun bâtiment à démolir</VOEPowerGrid.Deconstruct.Reason>
+<VOEPowerGrid.Base.ProductionString>{0}Capacité bâtiment : {1} / {2}  |  Portée des pylônes : {3} [{4}]\nÉnergie produite : {5}</VOEPowerGrid.Base.ProductionString>
+<VOEPowerGrid.Base.ConstructionString>\nConstruction :\n{0}</VOEPowerGrid.Base.ConstructionString>
+<VOEPowerGrid.Base.DeconstructionString>\nDémolition :\n{0}</VOEPowerGrid.Base.DeconstructionString>
+<VOEPowerGrid.MaxSkillTooLow>Aucun colon n'a la compétence suffisante. Nécessite {0}. Actuel {1}</VOEPowerGrid.MaxSkillTooLow>
+<VOEPowerGrid.ConstructionSkillCostTooHigh>Capacité bâtiment faible, coût {0}</VOEPowerGrid.ConstructionSkillCostTooHigh>
+<VOEPowerGrid.ConstructionMaterialCostTooHigh>Construction indisponible, nécessite :\n{0}</VOEPowerGrid.ConstructionMaterialCostTooHigh>
+<VOEPowerGrid.ResearchNotFinished>Indisponible, recherche nécessaire</VOEPowerGrid.ResearchNotFinished>
+<VOEPowerGrid.PowerRange>portée</VOEPowerGrid.PowerRange>
+<VOEPowerGrid.AllPowerTransmissionTowerUsed>Les pylônes électriques sont déjà tous utilisés</VOEPowerGrid.AllPowerTransmissionTowerUsed>
+
+<VOEPowerGrid.Settings.Title>VOE: Power Grid</VOEPowerGrid.Settings.Title>
+<VOEPowerGrid.Settings.PowerMultiplier>Multiplicateur d'énergie </VOEPowerGrid.Settings.PowerMultiplier>
+<VOEPowerGrid.Settings.BuildingCapacityPerSkill>Nombre de bâtiment par point de compétence : {0}</VOEPowerGrid.Settings.BuildingCapacityPerSkill>
+<VOEPowerGrid.Settings.BaseBuildingCapacity>Capacité du nombre de bâtiment de base : {0}</VOEPowerGrid.Settings.BaseBuildingCapacity>
+<VOEPowerGrid.Settings.PowerLossPerTiles>1% de perte d'énergie toutes les {0} tuile</VOEPowerGrid.Settings.PowerLossPerTiles>
+<VOEPowerGrid.Settings.TransmissionTowerRange>Un pylône électrique couvre {0} tuile</VOEPowerGrid.Settings.TransmissionTowerRange>
+
+<VOEPowerGrid.Outlet.Connected>Connecté à {0}\n</VOEPowerGrid.Outlet.Connected>
+<VOEPowerGrid.Outlet.PowerLoss>Perte d'énergie : {0}\n</VOEPowerGrid.Outlet.PowerLoss>
+<VOEPowerGrid.Outlet.NotConnected>Non connecté\n</VOEPowerGrid.Outlet.NotConnected>
+<VOEPowerGrid.Outlet.Disconnect>Déconnecté de {0}\n</VOEPowerGrid.Outlet.Disconnect>
+<VOEPowerGrid.Outlet.Connect.Label>Connecter</VOEPowerGrid.Outlet.Connect.Label>
+<VOEPowerGrid.Outlet.Connect.Desc>Connecter un avant-poste électrique à cette sortie.</VOEPowerGrid.Outlet.Connect.Desc>
+<VOEPowerGrid.Outlet.AlreadyConnected>L'avant-poste {0} est déjà connecté à une sortie</VOEPowerGrid.Outlet.AlreadyConnected>
+<VOEPowerGrid.Outlet.PowerRangeNotEnough>L'avant-poste {0} manque de pylônes électriques {1}/{2}</VOEPowerGrid.Outlet.PowerRangeNotEnough>
+<VOEPowerGrid.Outlet.Connect.Reason>Aucun réseau électrique à connecter</VOEPowerGrid.Outlet.Connect.Reason>
+
+<VOEPowerGrid.MustBeMade.River>Doit être sur une rivière</VOEPowerGrid.MustBeMade.River>
+<VOEPowerGrid.MustBeMade.Coast>Doit être sur un littoral</VOEPowerGrid.MustBeMade.Coast>
+
+
+</LanguageData>

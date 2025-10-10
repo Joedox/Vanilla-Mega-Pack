@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Allow stun and paralize damage to affect entities -->
+<VQE_MakeStunAndParalizeAffectAnomalies>Autoriser les dégâts d'étourdissement et de paralysie d'affecter les entités</VQE_MakeStunAndParalizeAffectAnomalies>
+<!-- EN: If disabled, stun and paralize damage from this mod will NOT affect entities from the Anomaly DLC -->
+<VQE_MakeStunAndParalizeAffectAnomaliesDesc>Si désactivé, les dégâts d'étourdissement et de paralysie de ce mod n'affecteront PAS les entités du DLC Anomaly.</VQE_MakeStunAndParalizeAffectAnomaliesDesc>
+<!-- EN: Allow stun and paralize damage to affect insectoid bosses -->
+<VQE_MakeStunAndParalizeAffectInsectoidBosses>Autoriser les dégâts d'étourdissement et de paralysie d'affecter les boss insectoïdes</VQE_MakeStunAndParalizeAffectInsectoidBosses>
+<!-- EN: If disabled, stun and paralize damage from this mod will NOT affect insectoid bosses from Vanilla Factions Expanded - Insectoids 2 -->
+<VQE_MakeStunAndParalizeAffectInsectoidBossesDesc>Si désactivé, les dégâts d'étourdissement et de paralysie de ce mod n'affecteront PAS les boss insectoïdes de Vanilla Factions Expanded - Insectoids 2.</VQE_MakeStunAndParalizeAffectInsectoidBossesDesc>
+<!-- EN: Allow stun and paralize damage to affect specific creatures -->
+<VQE_MakeStunAndParalizeAffectXMLDefined>Autoriser les dégâts d'étourdissement et de paralysie d'affecter des créatures spécifiques</VQE_MakeStunAndParalizeAffectXMLDefined>
+<!-- EN: If disabled, stun and paralize damage from this mod will NOT affect specific creatures that are defined via XML. These can be defined by other modders. Dy default this affects the Gallatross, Behemoth, Summit Crab, Fungal Husk and Archotech Centipede. -->
+<VQE_MakeStunAndParalizeAffectXMLDefinedDesc>Si désactivé, les dégâts d'étourdissement et de paralysie de ce mod n'affecteront PAS les créatures spécifiques définies par XML. Ces créatures peuvent être définies par d'autres moddeurs. Par défaut, cela affecte le gallatross, le béhémoth, le pagure montagne, la carcasse fongique et l'archocentipède.</VQE_MakeStunAndParalizeAffectXMLDefinedDesc>
+
+	
+</LanguageData>

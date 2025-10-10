@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VRE_ProgressiveAttunementOffset>Gène d'harmonisation progressive</VRE_ProgressiveAttunementOffset>
+<VRE_SaplingBirthReady>Enfant jeune pousse</VRE_SaplingBirthReady>
+<VRE_SaplingBirthReadyDesc>Lorsqu'un colon porteur du gène arbrenaissance tombe enceinte, elle doit désigner un endroit où planter sa progéniture. Si elle ne le fait pas avant le début du deuxième trimestre (6 jours), la grossesse sera interrompue.</VRE_SaplingBirthReadyDesc>
+<VRE_PlantSaplingchild>Planter une jeune pousse</VRE_PlantSaplingchild>
+<VRE_PlantSaplingchildDesc>Plante une jeune pousse. Si cela n'est pas fait avant le début du second semestre (6 jours de grossesse), cela sera considéré comme une fausse couche. La jeune pousse devra être protégée.</VRE_PlantSaplingchildDesc>
+<VRE_SaplingNeedsSoil>La jeune pousse doit être plantée dans la terre</VRE_SaplingNeedsSoil>
+<VRE_SaplingchildNeedsToBePlanted>La jeune pousse a besoin d'être plantée</VRE_SaplingchildNeedsToBePlanted>
+<VRE_SaplingchildNeedsToBePlantedDesc>Lorsqu'un colon porteur du gène arbrenaissance tombe enceinte, elle doit désigner un endroit où planter sa progéniture. Si elle ne le fait pas avant le début du deuxième trimestre (6 jours), la grossesse sera interrompue. Ces colons doivent planter leur jeune pousse :\n\n{0}</VRE_SaplingchildNeedsToBePlantedDesc>
+<VRE_MotherXenotype>Xénotype de la mère : {0}</VRE_MotherXenotype>
+<VRE_DestroyedByTemp> a été détruite par la température.</VRE_DestroyedByTemp>
+<VRE_SaplingHatched>{0} a éclos d'une jeune pousse !</VRE_SaplingHatched>
+<VRE_SaplingHatchedLabel>{0} a éclos !</VRE_SaplingHatchedLabel>
+<VRE_TimeToHatch>Temps avant la naissance : {0}</VRE_TimeToHatch>
+<VRE_UnlockedByGeneAnima>Déverrouillé par le gène affinité anima</VRE_UnlockedByGeneAnima>
+<VRE_UnlockedByGeneGau>Déverrouillé par le gène affinité gauranlen</VRE_UnlockedByGeneGau>
+<VRE_CanOnlyBeUsedOnAnimaTree>Cette capacité doit être utilisée sur un arbre anima.</VRE_CanOnlyBeUsedOnAnimaTree>
+<VRE_CanOnlyBePlantedOnFertile>Cette capacité doit être utilisée sur des terrains dont la fertilité est d'au moins 0,05.</VRE_CanOnlyBePlantedOnFertile>
+<VRE_TwoPreviousDryadsMustBeDead>Un maximum de deux dryades par colon ayant affinité gauranlen peuvent être en vie en même temps.</VRE_TwoPreviousDryadsMustBeDead>
+<VRE_RitualPredictedOutcomeDescAffinityGeneCount>Gène d'affinité anima</VRE_RitualPredictedOutcomeDescAffinityGeneCount>
+<VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>Gène d'affinité gauranlen</VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>
+
+
+</LanguageData>

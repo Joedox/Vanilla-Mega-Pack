@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: hemogen amplified, weak -->
+<VRE_HemogenAmplifiedWeak.label>hémogène amplifié, faible</VRE_HemogenAmplifiedWeak.label>
+<!-- EN: All hemogen gains are multiplied up because this person used a small hemogen amplifier while deathresting. This effect lasts until the next deathrest. -->
+<VRE_HemogenAmplifiedWeak.description>Tous les gains d'hémogène sont multipliés car cette personne a utilisé un petit amplificateur d'hémogène pendant son repos de torpeur. Cet effet dure jusqu'au prochain repos de torpeur.</VRE_HemogenAmplifiedWeak.description>
+<!-- EN: Lasts until the next deathrest. -->
+<VRE_HemogenAmplifiedWeak.extraTooltip>Dure jusqu'au prochain repos de torpeur.</VRE_HemogenAmplifiedWeak.extraTooltip>
+
+<!-- EN: solidified hemogen -->
+<VRE_SolidifiedHemogen.label>durcisseur d'hémogène</VRE_SolidifiedHemogen.label>
+<!-- EN: Armor is enhanced because this person used a hemogen solidifier while deathresting. This effect lasts until the next deathrest. -->
+<VRE_SolidifiedHemogen.description>L'armure est améliorée car cette personne a utilisé du durcisseur d'hémogène lors de son repos de torpeur. Cet effet dure jusqu'au prochain repos de torpeur.</VRE_SolidifiedHemogen.description>
+<!-- EN: Lasts until the next deathrest. -->
+<VRE_SolidifiedHemogen.extraTooltip>Dure jusqu'au prochain repos de torpeur.</VRE_SolidifiedHemogen.extraTooltip>
+
+
+<!-- EN: consumed animal hemogen -->
+<VRE_ConsumedAnimalHemogen.label>hémogène animal consommé</VRE_ConsumedAnimalHemogen.label>
+<!-- EN: Animal hemogen increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others. -->
+<VRE_ConsumedAnimalHemogen.description>L'hémogène animal augmente les capacités de régénération et de combat de l'utilisateur, mais diminue fortement sa capacité à communiquer avec les autres.</VRE_ConsumedAnimalHemogen.description>
+
+<!-- EN: consumed corpse hemogen -->
+<VRE_ConsumedCorpseHemogen.label>hémogène cadavérique consommé</VRE_ConsumedCorpseHemogen.label>
+<!-- EN: Corpse hemogen greatly weakens the carrier of this hemogen type, but increases consciousness and blood filtration significantly. -->
+<VRE_ConsumedCorpseHemogen.description>L'hémogène cadavérique affaiblit considérablement le porteur, mais augmente considérablement la filtration du sang.</VRE_ConsumedCorpseHemogen.description>
+
+<!-- EN: consumed sanguophage hemogen -->
+<VRE_ConsumedSanguophageHemogen.label>hémogène sanguophage consommé</VRE_ConsumedSanguophageHemogen.label>
+<!-- EN: Sanguophage hemogen gives the carrier a powerful boost to all capacities. -->
+<VRE_ConsumedSanguophageHemogen.description>L'hémogène sanguophage donne au porteur une puissante amélioration à toutes ses capacités.</VRE_ConsumedSanguophageHemogen.description>
+
+<!-- EN: draincasket sickness -->
+<VRE_DraincasketSickness.label>maladie cercueil de drainage</VRE_DraincasketSickness.label>
+<!-- EN: After-effects of using a draincasket. Symptoms of draincasket sickness typically include localized pain, swelling, and redness at the site of the draincasket tubes' connection. Victims may experience increasing fatigue, weakness, and a general feeling of malaise. -->
+<VRE_DraincasketSickness.description>Les séquelles de l'utilisation d'un cercueil de drainage. Les symptômes de la maladie du cercueil de drainage comprennent généralement une douleur localisée, un gonflement et une rougeur à l'endroit où les tubes du cercueil de drainage sont raccordés. Les victimes peuvent ressentir une fatigue croissante, une faiblesse et une sensation générale de malaise.</VRE_DraincasketSickness.description>
+<!-- EN: After-effects of using a draincasket. Victims may experience increasing fatigue, weakness, and a general feeling of malaise. -->
+<VRE_DraincasketSickness.descriptionShort>Les séquelles de l'utilisation d'un cercueil de drainage. Les victimes peuvent ressentir une fatigue croissante, une faiblesse et un sentiment général de malaise.</VRE_DraincasketSickness.descriptionShort>
+
+<!-- EN: dangerous UV sensitivity -->
+<VRE_Sensitivity_Dangerous_Hediff.label>sensibilité dangereuse aux UV</VRE_Sensitivity_Dangerous_Hediff.label>
+<!-- EN: This is a hidden hediff that modifies the pawn's Sight depending on sunlight. -->
+<VRE_Sensitivity_Dangerous_Hediff.description>Il s'agit d'un hediff caché qui modifie la vue du colon en fonction de la lumière du soleil.</VRE_Sensitivity_Dangerous_Hediff.description>
+
+<!-- EN: sharp talons -->
+<VRE_SharpTalons.label>serres acérées</VRE_SharpTalons.label>
+<!-- EN: Sharp talons which can be used in melee combat. -->
+<VRE_SharpTalons.description>Serres acérées pouvant être utilisées en combat de mêlée.</VRE_SharpTalons.description>
+<!-- EN: talons -->
+<VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>serres</VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>
+
+
+</LanguageData>

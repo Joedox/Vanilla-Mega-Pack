@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Off Road Tires -->
+<VVE_BangBus_UpgradeTree.nodes.0.label>Pneus tout-terrain</VVE_BangBus_UpgradeTree.nodes.0.label>
+<!-- EN: Replace the tires with deep treaded tires that provide more traction and will allow the vehicle to move significantly faster offroad. -->
+<VVE_BangBus_UpgradeTree.nodes.0.description>Remplacer les pneus par des pneus à rainures profondes qui offrent une meilleure traction et permettent au véhicule de se déplacer beaucoup plus rapidement en dehors des routes.</VVE_BangBus_UpgradeTree.nodes.0.description>
+<!-- EN: Expanded Cargo Space -->
+<VVE_BangBus_UpgradeTree.nodes.1.label>Espace cargo étendu</VVE_BangBus_UpgradeTree.nodes.1.label>
+<!-- EN: Increase the amount of cargo that can be hauled by this vehicle. -->
+<VVE_BangBus_UpgradeTree.nodes.1.description>Augmenter le volume de chargement pouvant être transporté par ce véhicule.</VVE_BangBus_UpgradeTree.nodes.1.description>
+<!-- EN: Reinforced Armor -->
+<VVE_BangBus_UpgradeTree.nodes.2.label>Armure renforcée</VVE_BangBus_UpgradeTree.nodes.2.label>
+<!-- EN: Weld a layer of reinforced steel plating to the vehicle, increasing its armor value at the cost of increasing vehicle mass and lowering acceleration. -->
+<VVE_BangBus_UpgradeTree.nodes.2.description>Souder une couche d'acier renforcé sur le véhicule, ce qui augmente sa valeur de blindage au prix d'une augmentation de la masse du véhicule et d'une diminution de l'accélération.</VVE_BangBus_UpgradeTree.nodes.2.description>
+<!-- EN: Improved Exhaust -->
+<VVE_BangBus_UpgradeTree.nodes.3.label>Pot d'échappement</VVE_BangBus_UpgradeTree.nodes.3.label>
+<!-- EN: Change the exhaust system of the vehicle into a more efficient one, decreasing the visibility of the vehicle and improving fuel efficiency. -->
+<VVE_BangBus_UpgradeTree.nodes.3.description>Remplacer le système d'échappement du véhicule par un système plus efficace, réduisant la visibilité du véhicule et améliorant le rendement énergétique.</VVE_BangBus_UpgradeTree.nodes.3.description>
+<!-- EN: Extended Engine -->
+<VVE_BangBus_UpgradeTree.nodes.4.label>Moteur amélioré</VVE_BangBus_UpgradeTree.nodes.4.label>
+<!-- EN: Improve the engine to significantly improve acceleration rate of the vehicle. -->
+<VVE_BangBus_UpgradeTree.nodes.4.description>Améliorer le moteur afin d'améliorer de manière significative le taux d'accélération du véhicule.</VVE_BangBus_UpgradeTree.nodes.4.description>
+<!-- EN: Cargo Capacity -->
+<VVE_BangBus_UpgradeTree.nodes.5.label>Capacité de chargement</VVE_BangBus_UpgradeTree.nodes.5.label>
+<!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+<VVE_BangBus_UpgradeTree.nodes.5.description>Améliorer légèrement la capacité de chargement du véhicule.</VVE_BangBus_UpgradeTree.nodes.5.description>
+<!-- EN: Armor -->
+<VVE_BangBus_UpgradeTree.nodes.6.label>Armure</VVE_BangBus_UpgradeTree.nodes.6.label>
+<!-- EN: Reinforce the armor of the vehicle slightly. -->
+<VVE_BangBus_UpgradeTree.nodes.6.description>Renforcer légèrement le blindage du véhicule.</VVE_BangBus_UpgradeTree.nodes.6.description>
+<!-- EN: Speed -->
+<VVE_BangBus_UpgradeTree.nodes.7.label>Vitesse</VVE_BangBus_UpgradeTree.nodes.7.label>
+<!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+<VVE_BangBus_UpgradeTree.nodes.7.description>Améliorer le moteur du véhicule, lui permettant d'atteindre une vitesse maximale plus élevée.</VVE_BangBus_UpgradeTree.nodes.7.description>
+<!-- EN: Acceleration -->
+<VVE_BangBus_UpgradeTree.nodes.8.label>Accélération</VVE_BangBus_UpgradeTree.nodes.8.label>
+<!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+<VVE_BangBus_UpgradeTree.nodes.8.description>Améliorer les capacités de changement de vitesse de la transmission afin d'augmenter légèrement la vitesse d'accélération du véhicule.</VVE_BangBus_UpgradeTree.nodes.8.description>
+<!-- EN: Fuel Consumption -->
+<VVE_BangBus_UpgradeTree.nodes.9.label>Consommation de carburant</VVE_BangBus_UpgradeTree.nodes.9.label>
+<!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+<VVE_BangBus_UpgradeTree.nodes.9.description>Améliorer le système d'échappement du véhicule, ce qui améliore légèrement le rendement énergétique.</VVE_BangBus_UpgradeTree.nodes.9.description>
+<!-- EN: Fuel Capacity -->
+<VVE_BangBus_UpgradeTree.nodes.10.label>Capacité du réservoir</VVE_BangBus_UpgradeTree.nodes.10.label>
+<!-- EN: Increase the size of the chemtank slightly. -->
+<VVE_BangBus_UpgradeTree.nodes.10.description>Augmenter légèrement la taille du réservoir.</VVE_BangBus_UpgradeTree.nodes.10.description>
+
+
+<!-- EN: Engine Cover -->
+<VVE_Bunsen_UpgradeTree.nodes.0.label>Capot moteur</VVE_Bunsen_UpgradeTree.nodes.0.label>
+<!-- EN: Cover the engine with extended armor plating, protecting it from gunfire. -->
+<VVE_Bunsen_UpgradeTree.nodes.0.description>Le moteur est recouvert d'un blindage supplémentaire qui le protège des tirs d'armes à feu.</VVE_Bunsen_UpgradeTree.nodes.0.description>
+<!-- EN: Reinforced Armor -->
+<VVE_Bunsen_UpgradeTree.nodes.1.label>Armure renforcée</VVE_Bunsen_UpgradeTree.nodes.1.label>
+<!-- EN: Weld a layer of reinforced steel plating to the vehicle, increasing its armor value at the cost of increasing vehicle mass and lowering acceleration. -->
+<VVE_Bunsen_UpgradeTree.nodes.1.description>Souder une couche d'acier renforcé sur le véhicule, ce qui augmente sa valeur de blindage au prix d'une augmentation de la masse du véhicule et d'une diminution de l'accélération.</VVE_Bunsen_UpgradeTree.nodes.1.description>
+<!-- EN: Armored Treads -->
+<VVE_Bunsen_UpgradeTree.nodes.2.label>Chenilles blindées</VVE_Bunsen_UpgradeTree.nodes.2.label>
+<!-- EN: Improve the armor of the treads by covering them in thick steel plating. -->
+<VVE_Bunsen_UpgradeTree.nodes.2.description>Améliorer le blindage des chenilles en les recouvrant d'une épaisse tôle d'acier.</VVE_Bunsen_UpgradeTree.nodes.2.description>
+<!-- EN: Long Barrel -->
+<VVE_Bunsen_UpgradeTree.nodes.3.label>Canon long</VVE_Bunsen_UpgradeTree.nodes.3.label>
+<!-- EN: Increase the length of the tank barrel, allowing for more precise shots over significantly longer distance, but decreasing the rotation speed of the cannon. -->
+<VVE_Bunsen_UpgradeTree.nodes.3.description>Augmenter la longueur du canon du char, ce qui permet des tirs plus précis sur une plus grande distance, mais diminue la vitesse de rotation de la tourelle.</VVE_Bunsen_UpgradeTree.nodes.3.description>
+<!-- EN: Main Turret -->
+<VVE_Bunsen_UpgradeTree.nodes.3.upgrades.0.turrets.0.gizmoLabel>Tourelle</VVE_Bunsen_UpgradeTree.nodes.3.upgrades.0.turrets.0.gizmoLabel>
+<!-- EN: Launcher Barrel -->
+<VVE_Bunsen_UpgradeTree.nodes.4.label>Canon lanceur</VVE_Bunsen_UpgradeTree.nodes.4.label>
+<!-- EN: Change the fuel injection system and install a barrel choke to allow the tank to fire long range explosive flame projectiles instead of a stream of fire. -->
+<VVE_Bunsen_UpgradeTree.nodes.4.description>Modifier le système d'injection de carburant et installer un étranglement à barillet pour permettre au char de tirer des projectiles explosifs à longue portée au lieu d'un jet de flammes.</VVE_Bunsen_UpgradeTree.nodes.4.description>
+<!-- EN: Main Turret -->
+<VVE_Bunsen_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>Tourelle</VVE_Bunsen_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>
+<!-- EN: Short Barrel -->
+<VVE_Bunsen_UpgradeTree.nodes.5.label>Canon court</VVE_Bunsen_UpgradeTree.nodes.5.label>
+<!-- EN: Decrease the length of the tank barrel, allowing for more rapid shots at the cost of precision and range. The reduced weight of the turret allows for faster rotation speed. -->
+<VVE_Bunsen_UpgradeTree.nodes.5.description>Diminuer la longueur du canon du char, ce qui permet des tirs plus rapides au détriment de la précision et de la portée. Le poids réduit de la tourelle permet une vitesse de rotation plus rapide.</VVE_Bunsen_UpgradeTree.nodes.5.description>
+<!-- EN: Main Turret -->
+<VVE_Bunsen_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>Tourelle</VVE_Bunsen_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>
+<!-- EN: Cargo Capacity -->
+<VVE_Bunsen_UpgradeTree.nodes.6.label>Capacité de chargement</VVE_Bunsen_UpgradeTree.nodes.6.label>
+<!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+<VVE_Bunsen_UpgradeTree.nodes.6.description>Améliorer légèrement la capacité de chargement du véhicule.</VVE_Bunsen_UpgradeTree.nodes.6.description>
+<!-- EN: Armor -->
+<VVE_Bunsen_UpgradeTree.nodes.7.label>Armure</VVE_Bunsen_UpgradeTree.nodes.7.label>
+<!-- EN: Reinforce the armor of the vehicle slightly. -->
+<VVE_Bunsen_UpgradeTree.nodes.7.description>Renforcer légèrement le blindage du véhicule.</VVE_Bunsen_UpgradeTree.nodes.7.description>
+<!-- EN: Speed -->
+<VVE_Bunsen_UpgradeTree.nodes.8.label>Vitesse</VVE_Bunsen_UpgradeTree.nodes.8.label>
+<!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+<VVE_Bunsen_UpgradeTree.nodes.8.description>Améliorer le moteur du véhicule, lui permettant d'atteindre une vitesse maximale plus élevée.</VVE_Bunsen_UpgradeTree.nodes.8.description>
+<!-- EN: Acceleration -->
+<VVE_Bunsen_UpgradeTree.nodes.9.label>Accélération</VVE_Bunsen_UpgradeTree.nodes.9.label>
+<!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+<VVE_Bunsen_UpgradeTree.nodes.9.description>Améliorer les capacités de changement de vitesse de la transmission afin d'augmenter légèrement la vitesse d'accélération du véhicule.</VVE_Bunsen_UpgradeTree.nodes.9.description>
+<!-- EN: Fuel Consumption -->
+<VVE_Bunsen_UpgradeTree.nodes.10.label>Consommation de carburant</VVE_Bunsen_UpgradeTree.nodes.10.label>
+<!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+<VVE_Bunsen_UpgradeTree.nodes.10.description>Améliorer le système d'échappement du véhicule, ce qui améliore légèrement le rendement énergétique.</VVE_Bunsen_UpgradeTree.nodes.10.description>
+<!-- EN: Fuel Capacity -->
+<VVE_Bunsen_UpgradeTree.nodes.11.label>Capacité du réservoir</VVE_Bunsen_UpgradeTree.nodes.11.label>
+<!-- EN: Increase the size of the chemtank slightly. -->
+<VVE_Bunsen_UpgradeTree.nodes.11.description>Augmenter légèrement la taille du réservoir.</VVE_Bunsen_UpgradeTree.nodes.11.description>
+
+
+<!-- EN: Engine Cover -->
+<VVE_Highwayman_UpgradeTree.nodes.0.label>Capot moteur</VVE_Highwayman_UpgradeTree.nodes.0.label>
+<!-- EN: Cover the engine with extended armor plating, protecting it from gunfire. -->
+<VVE_Highwayman_UpgradeTree.nodes.0.description>Le moteur est recouvert d'un blindage supplémentaire qui le protège des tirs d'armes à feu.</VVE_Highwayman_UpgradeTree.nodes.0.description>
+<!-- EN: Reinforced Bumper -->
+<VVE_Highwayman_UpgradeTree.nodes.1.label>Pare-chocs renforcé</VVE_Highwayman_UpgradeTree.nodes.1.label>
+<!-- EN: Reinforce the front bumper to allow this vehicle to deal more damage during collisions. -->
+<VVE_Highwayman_UpgradeTree.nodes.1.description>Renforcer le pare-chocs avant pour permettre à ce véhicule d'infliger plus de dégâts en cas de collision.</VVE_Highwayman_UpgradeTree.nodes.1.description>
+<!-- EN: Larger Cabin -->
+<VVE_Highwayman_UpgradeTree.nodes.2.label>Grande cabine</VVE_Highwayman_UpgradeTree.nodes.2.label>
+<!-- EN: Extend the cabin by adding space for an additional passenger. -->
+<VVE_Highwayman_UpgradeTree.nodes.2.description>Agrandir la cabine en ajoutant de l'espace pour un passager supplémentaire.</VVE_Highwayman_UpgradeTree.nodes.2.description>
+<!-- EN: Off Road Tires -->
+<VVE_Highwayman_UpgradeTree.nodes.3.label>Pneus tout-terrain</VVE_Highwayman_UpgradeTree.nodes.3.label>
+<!-- EN: Replace the tires with deep treaded tires that provide more traction and will allow the vehicle to move significantly faster offroad. -->
+<VVE_Highwayman_UpgradeTree.nodes.3.description>Remplacer les pneus par des pneus à rainures profondes qui offrent une meilleure traction et permettent au véhicule de se déplacer beaucoup plus rapidement en dehors des routes.</VVE_Highwayman_UpgradeTree.nodes.3.description>
+<!-- EN: Improved Turret -->
+<VVE_Highwayman_UpgradeTree.nodes.4.label>Tourelle améliorée</VVE_Highwayman_UpgradeTree.nodes.4.label>
+<!-- EN: Improve the turret with more efficient firing mechanism and ammo feeding system, allowing it to fire more rapidly and with higher accuracy. Additionally, install smokepop canisters on a turret, allowing the vehicle to eject a smoke screen. -->
+<VVE_Highwayman_UpgradeTree.nodes.4.description>Améliorer la tourelle en la dotant d'un mécanisme de tir et d'un système d'alimentation en munitions plus efficaces, ce qui lui permet de tirer plus rapidement et avec une plus grande précision. En outre, installer des cartouches fumigènes sur la tourelle, ce qui permet au véhicule de projeter un écran de fumée.</VVE_Highwayman_UpgradeTree.nodes.4.description>
+<!-- EN: smokepop -->
+<VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>fumigènes</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>
+<!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. Right click to reload. -->
+<VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.commandDescriptions.0>Un écran de fumée défensif. Lorsqu'il est activé, il libère un nuage de fumée qui masque les tirs entrants et empêche les tourelles de se verrouiller. Il dispose de trois charges et doit être rechargé en chemfuel une fois qu'elles sont épuisées. Clic droit pour recharger.</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.commandDescriptions.0>
+<!-- EN: on cooldown -->
+<VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>en recharge</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>
+<!-- EN: pop smoke -->
+<VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.verbs.pop_smoke.label>fumée</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.verbs.pop_smoke.label>
+<!-- EN: Main Turret -->
+<VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>Tourelle</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>
+<!-- EN: Cargo Capacity -->
+<VVE_Highwayman_UpgradeTree.nodes.5.label>Capacité de chargement</VVE_Highwayman_UpgradeTree.nodes.5.label>
+<!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+<VVE_Highwayman_UpgradeTree.nodes.5.description>Améliorer légèrement la capacité de chargement du véhicule.</VVE_Highwayman_UpgradeTree.nodes.5.description>
+<!-- EN: Armor -->
+<VVE_Highwayman_UpgradeTree.nodes.6.label>Armure</VVE_Highwayman_UpgradeTree.nodes.6.label>
+<!-- EN: Reinforce the armor of the vehicle slightly. -->
+<VVE_Highwayman_UpgradeTree.nodes.6.description>Renforcer légèrement le blindage du véhicule.</VVE_Highwayman_UpgradeTree.nodes.6.description>
+<!-- EN: Speed -->
+<VVE_Highwayman_UpgradeTree.nodes.7.label>Vitesse</VVE_Highwayman_UpgradeTree.nodes.7.label>
+<!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+<VVE_Highwayman_UpgradeTree.nodes.7.description>Améliorer le moteur du véhicule, lui permettant d'atteindre une vitesse maximale plus élevée.</VVE_Highwayman_UpgradeTree.nodes.7.description>
+<!-- EN: Acceleration -->
+<VVE_Highwayman_UpgradeTree.nodes.8.label>Accélération</VVE_Highwayman_UpgradeTree.nodes.8.label>
+<!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+<VVE_Highwayman_UpgradeTree.nodes.8.description>Améliorer les capacités de changement de vitesse de la transmission afin d'augmenter légèrement la vitesse d'accélération du véhicule.</VVE_Highwayman_UpgradeTree.nodes.8.description>
+<!-- EN: Fuel Consumption -->
+<VVE_Highwayman_UpgradeTree.nodes.9.label>Consommation de carburant</VVE_Highwayman_UpgradeTree.nodes.9.label>
+<!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+<VVE_Highwayman_UpgradeTree.nodes.9.description>Améliorer le système d'échappement du véhicule, ce qui améliore légèrement le rendement énergétique.</VVE_Highwayman_UpgradeTree.nodes.9.description>
+<!-- EN: Fuel Capacity -->
+<VVE_Highwayman_UpgradeTree.nodes.10.label>Capacité du réservoir</VVE_Highwayman_UpgradeTree.nodes.10.label>
+<!-- EN: Increase the size of the chemtank slightly. -->
+<VVE_Highwayman_UpgradeTree.nodes.10.description>Augmenter légèrement la taille du réservoir.</VVE_Highwayman_UpgradeTree.nodes.10.description>
+
+
+<!-- EN: Big Chemtanks -->
+<VVE_Mule_UpgradeTree.nodes.0.label>Gros réservoirs</VVE_Mule_UpgradeTree.nodes.0.label>
+<!-- EN: Attach two big chemfuel canisters to the bottom of the vehicle to allow it to travel greater distances without the risk of running out of fuel. -->
+<VVE_Mule_UpgradeTree.nodes.0.description>Fixer deux gros bidons de chemfuel à la base du véhicule pour lui permettre de parcourir de plus grandes distances sans risquer de tomber en panne sèche.</VVE_Mule_UpgradeTree.nodes.0.description>
+<!-- EN: Expanded Cargo Space -->
+<VVE_Mule_UpgradeTree.nodes.1.label>Espace cargo étendu</VVE_Mule_UpgradeTree.nodes.1.label>
+<!-- EN: Increase the amount of cargo that can be hauled by this vehicle, and add two additional passenger slots. -->
+<VVE_Mule_UpgradeTree.nodes.1.description>Augmenter la quantité de marchandises pouvant être transportées par ce véhicule et ajouter deux places supplémentaires pour les passagers.</VVE_Mule_UpgradeTree.nodes.1.description>
+<!-- EN: Reinforced Armor -->
+<VVE_Mule_UpgradeTree.nodes.2.label>Armure renforcée</VVE_Mule_UpgradeTree.nodes.2.label>
+<!-- EN: Weld a layer of reinforced steel plating to the vehicle, increasing its armor value at the cost of increasing vehicle mass and lowering acceleration. -->
+<VVE_Mule_UpgradeTree.nodes.2.description>Souder une couche d'acier renforcé sur le véhicule, ce qui augmente sa valeur de blindage au prix d'une augmentation de la masse du véhicule et d'une diminution de l'accélération.</VVE_Mule_UpgradeTree.nodes.2.description>
+<!-- EN: Offroad Tires -->
+<VVE_Mule_UpgradeTree.nodes.3.label>Pneus tout-terrain</VVE_Mule_UpgradeTree.nodes.3.label>
+<!-- EN: Replace the tires with deep threaded tires that provide more traction and will allow the vehicle to move significantly faster offroad. -->
+<VVE_Mule_UpgradeTree.nodes.3.description>Remplacer les pneus par des pneus rainurés profonds qui offrent une meilleure traction et permettent au véhicule de se déplacer beaucoup plus rapidement en dehors des sentiers battus.</VVE_Mule_UpgradeTree.nodes.3.description>
+<!-- EN: Exterior Engine -->
+<VVE_Mule_UpgradeTree.nodes.4.label>Moteur externe</VVE_Mule_UpgradeTree.nodes.4.label>
+<!-- EN: Elevate the engine to improve its efficiency at the cost of exposing it to damage. -->
+<VVE_Mule_UpgradeTree.nodes.4.description>Surélever le moteur pour améliorer son efficacité au risque de l'endommager.</VVE_Mule_UpgradeTree.nodes.4.description>
+<!-- EN: Cargo Capacity -->
+<VVE_Mule_UpgradeTree.nodes.5.label>Capacité de chargement</VVE_Mule_UpgradeTree.nodes.5.label>
+<!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+<VVE_Mule_UpgradeTree.nodes.5.description>Améliorer légèrement la capacité de chargement du véhicule.</VVE_Mule_UpgradeTree.nodes.5.description>
+<!-- EN: Armor -->
+<VVE_Mule_UpgradeTree.nodes.6.label>Armure</VVE_Mule_UpgradeTree.nodes.6.label>
+<!-- EN: Reinforce the armor of the vehicle slightly. -->
+<VVE_Mule_UpgradeTree.nodes.6.description>Renforcer légèrement le blindage du véhicule.</VVE_Mule_UpgradeTree.nodes.6.description>
+<!-- EN: Speed -->
+<VVE_Mule_UpgradeTree.nodes.7.label>Vitesse</VVE_Mule_UpgradeTree.nodes.7.label>
+<!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+<VVE_Mule_UpgradeTree.nodes.7.description>Améliorer le moteur du véhicule, lui permettant d'atteindre une vitesse maximale plus élevée.</VVE_Mule_UpgradeTree.nodes.7.description>
+<!-- EN: Acceleration -->
+<VVE_Mule_UpgradeTree.nodes.8.label>Accélération</VVE_Mule_UpgradeTree.nodes.8.label>
+<!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+<VVE_Mule_UpgradeTree.nodes.8.description>Améliorer les capacités de changement de vitesse de la transmission afin d'augmenter légèrement la vitesse d'accélération du véhicule.</VVE_Mule_UpgradeTree.nodes.8.description>
+<!-- EN: Fuel Consumption -->
+<VVE_Mule_UpgradeTree.nodes.9.label>Consommation de carburant</VVE_Mule_UpgradeTree.nodes.9.label>
+<!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+<VVE_Mule_UpgradeTree.nodes.9.description>Améliorer le système d'échappement du véhicule, ce qui améliore légèrement le rendement énergétique.</VVE_Mule_UpgradeTree.nodes.9.description>
+<!-- EN: Fuel Capacity -->
+<VVE_Mule_UpgradeTree.nodes.10.label>Capacité du réservoir</VVE_Mule_UpgradeTree.nodes.10.label>
+<!-- EN: Increase the size of the chemtank slightly. -->
+<VVE_Mule_UpgradeTree.nodes.10.description>Augmenter légèrement la taille du réservoir.</VVE_Mule_UpgradeTree.nodes.10.description>
+
+
+<!-- EN: Reinforced Armor -->
+<VVE_Prowler_UpgradeTree.nodes.0.label>Armure renforcée</VVE_Prowler_UpgradeTree.nodes.0.label>
+<!-- EN: Weld a layer of reinforced steel plating to the vehicle, increasing its armor value at the cost of increasing vehicle mass and lowering acceleration. -->
+<VVE_Prowler_UpgradeTree.nodes.0.description>Souder une couche d'acier renforcé sur le véhicule, ce qui augmente sa valeur de blindage au prix d'une augmentation de la masse du véhicule et d'une diminution de l'accélération.</VVE_Prowler_UpgradeTree.nodes.0.description>
+<!-- EN: Off Road Tires -->
+<VVE_Prowler_UpgradeTree.nodes.1.label>Pneus tout-terrain</VVE_Prowler_UpgradeTree.nodes.1.label>
+<!-- EN: Replace the tires with deep treaded tires that provide more traction and will allow the vehicle to move significantly faster offroad. -->
+<VVE_Prowler_UpgradeTree.nodes.1.description>Remplacer les pneus par des pneus à rainures profondes qui offrent une meilleure traction et permettent au véhicule de se déplacer beaucoup plus rapidement en dehors des routes.</VVE_Prowler_UpgradeTree.nodes.1.description>
+<!-- EN: Chained Tires -->
+<VVE_Prowler_UpgradeTree.nodes.2.label>Pneus chaînés</VVE_Prowler_UpgradeTree.nodes.2.label>
+<!-- EN: Mount thick steel chains around tires, preventing them from slipping on icy surfaces and greatly improving winter travel speed. The additional grip slightly increases acceleration. -->
+<VVE_Prowler_UpgradeTree.nodes.2.description>Les chaînes en acier épais sont montées autour des pneus, les empêchant de glisser sur les surfaces verglacées et améliorant considérablement la vitesse de déplacement en hiver. L'adhérence supplémentaire augmente légèrement l'accélération.</VVE_Prowler_UpgradeTree.nodes.2.description>
+<!-- EN: Spoiler -->
+<VVE_Prowler_UpgradeTree.nodes.3.label>Aileron</VVE_Prowler_UpgradeTree.nodes.3.label>
+<!-- EN: Install a spoiler to boost the maximum speed of the vehicle slightly. -->
+<VVE_Prowler_UpgradeTree.nodes.3.description>Installer un becquet pour augmenter légèrement la vitesse maximale du véhicule.</VVE_Prowler_UpgradeTree.nodes.3.description>
+<!-- EN: Mini Turret -->
+<VVE_Prowler_UpgradeTree.nodes.4.label>Mini-tourelle</VVE_Prowler_UpgradeTree.nodes.4.label>
+<!-- EN: Install an autonomous miniturret at the front of the vehicle. Requires steel to refurbish -->
+<VVE_Prowler_UpgradeTree.nodes.4.description>Installer une mini-tourelle autonome à l'avant du véhicule. Nécessite de l'acier pour la remise en état.</VVE_Prowler_UpgradeTree.nodes.4.description>
+<!-- EN: Main Turret -->
+<VVE_Prowler_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>Tourelle</VVE_Prowler_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>
+<!-- EN: Cargo Capacity -->
+<VVE_Prowler_UpgradeTree.nodes.5.label>Capacité de chargement</VVE_Prowler_UpgradeTree.nodes.5.label>
+<!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+<VVE_Prowler_UpgradeTree.nodes.5.description>Améliorer légèrement la capacité de chargement du véhicule.</VVE_Prowler_UpgradeTree.nodes.5.description>
+<!-- EN: Armor -->
+<VVE_Prowler_UpgradeTree.nodes.6.label>Armure</VVE_Prowler_UpgradeTree.nodes.6.label>
+<!-- EN: Reinforce the armor of the vehicle slightly. -->
+<VVE_Prowler_UpgradeTree.nodes.6.description>Renforcer légèrement le blindage du véhicule.</VVE_Prowler_UpgradeTree.nodes.6.description>
+<!-- EN: Speed -->
+<VVE_Prowler_UpgradeTree.nodes.7.label>Vitesse</VVE_Prowler_UpgradeTree.nodes.7.label>
+<!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+<VVE_Prowler_UpgradeTree.nodes.7.description>Améliorer le moteur du véhicule, lui permettant d'atteindre une vitesse maximale plus élevée.</VVE_Prowler_UpgradeTree.nodes.7.description>
+<!-- EN: Acceleration -->
+<VVE_Prowler_UpgradeTree.nodes.8.label>Accélération</VVE_Prowler_UpgradeTree.nodes.8.label>
+<!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+<VVE_Prowler_UpgradeTree.nodes.8.description>Améliorer les capacités de changement de vitesse de la transmission afin d'augmenter légèrement la vitesse d'accélération du véhicule.</VVE_Prowler_UpgradeTree.nodes.8.description>
+<!-- EN: Fuel Consumption -->
+<VVE_Prowler_UpgradeTree.nodes.9.label>Consommation de carburant</VVE_Prowler_UpgradeTree.nodes.9.label>
+<!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+<VVE_Prowler_UpgradeTree.nodes.9.description>Améliorer le système d'échappement du véhicule, ce qui améliore légèrement le rendement énergétique.</VVE_Prowler_UpgradeTree.nodes.9.description>
+<!-- EN: Fuel Capacity -->
+<VVE_Prowler_UpgradeTree.nodes.10.label>Capacité du réservoir</VVE_Prowler_UpgradeTree.nodes.10.label>
+<!-- EN: Increase the size of the chemtank slightly. -->
+<VVE_Prowler_UpgradeTree.nodes.10.description>Augmenter légèrement la taille du réservoir.</VVE_Prowler_UpgradeTree.nodes.10.description>
+
+
+<!-- EN: Engine Cover -->
+<VVE_Roadkill_UpgradeTree.nodes.0.label>Capot moteur</VVE_Roadkill_UpgradeTree.nodes.0.label>
+<!-- EN: Cover the engine with extended armor plating, protecting it from gunfire. -->
+<VVE_Roadkill_UpgradeTree.nodes.0.description>Le moteur est recouvert d'un blindage supplémentaire qui le protège des tirs d'armes à feu.</VVE_Roadkill_UpgradeTree.nodes.0.description>
+<!-- EN: Reinforced Armor -->
+<VVE_Roadkill_UpgradeTree.nodes.1.label>Armure renforcée</VVE_Roadkill_UpgradeTree.nodes.1.label>
+<!-- EN: Weld a layer of reinforced steel plating to the vehicle, increasing its armor value at the cost of increasing vehicle mass and lowering acceleration. -->
+<VVE_Roadkill_UpgradeTree.nodes.1.description>Souder une couche d'acier renforcé sur le véhicule, ce qui augmente sa valeur de blindage au prix d'une augmentation de la masse du véhicule et d'une diminution de l'accélération.</VVE_Roadkill_UpgradeTree.nodes.1.description>
+<!-- EN: Gunner Seat -->
+<VVE_Roadkill_UpgradeTree.nodes.2.label>Siège de tireur</VVE_Roadkill_UpgradeTree.nodes.2.label>
+<!-- EN: Extend the cabin by adding space for an additional gunner, with all the required apparatus. -->
+<VVE_Roadkill_UpgradeTree.nodes.2.description>Agrandir la cabine en ajoutant de la place pour un tireur supplémentaire, avec tout l'équipement nécessaire.</VVE_Roadkill_UpgradeTree.nodes.2.description>
+<!-- EN: Armored Treads -->
+<VVE_Roadkill_UpgradeTree.nodes.3.label>Chenilles blindées</VVE_Roadkill_UpgradeTree.nodes.3.label>
+<!-- EN: Improve the armor of the treads by covering them in thick steel plating. -->
+<VVE_Roadkill_UpgradeTree.nodes.3.description>Améliorer le blindage des chenilles en les recouvrant d'une épaisse tôle d'acier.</VVE_Roadkill_UpgradeTree.nodes.3.description>
+<!-- EN: Long Barrel -->
+<VVE_Roadkill_UpgradeTree.nodes.4.label>Canon long</VVE_Roadkill_UpgradeTree.nodes.4.label>
+<!-- EN: Increase the length of the tank barrel, allowing for more precise shots over significantly longer distance, but decreasing the rotation speed of the cannon. -->
+<VVE_Roadkill_UpgradeTree.nodes.4.description>Augmenter la longueur du canon du char, ce qui permet des tirs plus précis sur une plus grande distance, mais diminue la vitesse de rotation de la tourelle.</VVE_Roadkill_UpgradeTree.nodes.4.description>
+<!-- EN: Main Turret -->
+<VVE_Roadkill_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>Tourelle</VVE_Roadkill_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>
+<!-- EN: Short Barrel -->
+<VVE_Roadkill_UpgradeTree.nodes.5.label>Canon court</VVE_Roadkill_UpgradeTree.nodes.5.label>
+<!-- EN: Decrease the length of the tank barrel, allowing for more rapid shots at the cost of precision and range. The reduced weight of the turret allows for faster rotation speed. -->
+<VVE_Roadkill_UpgradeTree.nodes.5.description>Diminuer la longueur du canon du char, ce qui permet des tirs plus rapides au détriment de la précision et de la portée. Le poids réduit de la tourelle permet une vitesse de rotation plus rapide.</VVE_Roadkill_UpgradeTree.nodes.5.description>
+<!-- EN: Main Turret -->
+<VVE_Roadkill_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>Tourelle</VVE_Roadkill_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>
+<!-- EN: Cargo Capacity -->
+<VVE_Roadkill_UpgradeTree.nodes.6.label>Capacité de chargement</VVE_Roadkill_UpgradeTree.nodes.6.label>
+<!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+<VVE_Roadkill_UpgradeTree.nodes.6.description>Améliorer légèrement la capacité de chargement du véhicule.</VVE_Roadkill_UpgradeTree.nodes.6.description>
+<!-- EN: Armor -->
+<VVE_Roadkill_UpgradeTree.nodes.7.label>Armure</VVE_Roadkill_UpgradeTree.nodes.7.label>
+<!-- EN: Reinforce the armor of the vehicle slightly. -->
+<VVE_Roadkill_UpgradeTree.nodes.7.description>Renforcer légèrement le blindage du véhicule.</VVE_Roadkill_UpgradeTree.nodes.7.description>
+<!-- EN: Speed -->
+<VVE_Roadkill_UpgradeTree.nodes.8.label>Vitesse</VVE_Roadkill_UpgradeTree.nodes.8.label>
+<!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+<VVE_Roadkill_UpgradeTree.nodes.8.description>Améliorer le moteur du véhicule, lui permettant d'atteindre une vitesse maximale plus élevée.</VVE_Roadkill_UpgradeTree.nodes.8.description>
+<!-- EN: Acceleration -->
+<VVE_Roadkill_UpgradeTree.nodes.9.label>Accélération</VVE_Roadkill_UpgradeTree.nodes.9.label>
+<!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+<VVE_Roadkill_UpgradeTree.nodes.9.description>Améliorer les capacités de changement de vitesse de la transmission afin d'augmenter légèrement la vitesse d'accélération du véhicule.</VVE_Roadkill_UpgradeTree.nodes.9.description>
+<!-- EN: Fuel Consumption -->
+<VVE_Roadkill_UpgradeTree.nodes.10.label>Consommation de carburant</VVE_Roadkill_UpgradeTree.nodes.10.label>
+<!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+<VVE_Roadkill_UpgradeTree.nodes.10.description>Améliorer le système d'échappement du véhicule, ce qui améliore légèrement le rendement énergétique.</VVE_Roadkill_UpgradeTree.nodes.10.description>
+<!-- EN: Fuel Capacity -->
+<VVE_Roadkill_UpgradeTree.nodes.11.label>Capacité du réservoir</VVE_Roadkill_UpgradeTree.nodes.11.label>
+<!-- EN: Increase the size of the chemtank slightly. -->
+<VVE_Roadkill_UpgradeTree.nodes.11.description>Augmenter légèrement la taille du réservoir.</VVE_Roadkill_UpgradeTree.nodes.11.description>
+
+
+<!-- EN: Reinforced Bumper -->
+<VVE_Traveller_UpgradeTree.nodes.0.label>Pare-chocs renforcé</VVE_Traveller_UpgradeTree.nodes.0.label>
+<!-- EN: Reinforce the front bumper to allow this vehicle to deal more damage during collisions. -->
+<VVE_Traveller_UpgradeTree.nodes.0.description>Renforcer le pare-chocs avant pour permettre à ce véhicule d'infliger plus de dégâts en cas de collision.</VVE_Traveller_UpgradeTree.nodes.0.description>
+<!-- EN: Cargo Rack -->
+<VVE_Traveller_UpgradeTree.nodes.1.label>Porte-bagages</VVE_Traveller_UpgradeTree.nodes.1.label>
+<!-- EN: Construct a steel, lightweight cargo rack on the roof of the vehicle to increase the cargo capacity. -->
+<VVE_Traveller_UpgradeTree.nodes.1.description>Construire un porte-bagages léger en acier sur le toit du véhicule pour augmenter la capacité de chargement.</VVE_Traveller_UpgradeTree.nodes.1.description>
+<!-- EN: Reinforced Armor -->
+<VVE_Traveller_UpgradeTree.nodes.2.label>Armure renforcée</VVE_Traveller_UpgradeTree.nodes.2.label>
+<!-- EN: Weld a layer of reinforced steel plating to the vehicle, increasing its armor value at the cost of increasing vehicle mass and lowering acceleration. -->
+<VVE_Traveller_UpgradeTree.nodes.2.description>Souder une couche d'acier renforcé sur le véhicule, ce qui augmente sa valeur de blindage au prix d'une augmentation de la masse du véhicule et d'une diminution de l'accélération.</VVE_Traveller_UpgradeTree.nodes.2.description>
+<!-- EN: Off Road Tires -->
+<VVE_Traveller_UpgradeTree.nodes.3.label>Pneus tout-terrain</VVE_Traveller_UpgradeTree.nodes.3.label>
+<!-- EN: Replace the tires with deep threaded tires that provide more traction and will allow the vehicle to move significantly faster offroad. -->
+<VVE_Traveller_UpgradeTree.nodes.3.description>Remplacer les pneus par des pneus à rainures profondes qui offrent une meilleure traction et permettent au véhicule de se déplacer beaucoup plus rapidement en tout-terrain.</VVE_Traveller_UpgradeTree.nodes.3.description>
+<!-- EN: Spoiler -->
+<VVE_Traveller_UpgradeTree.nodes.4.label>Aileron</VVE_Traveller_UpgradeTree.nodes.4.label>
+<!-- EN: Install a spoiler to boost the maximum speed of the vehicle slightly. -->
+<VVE_Traveller_UpgradeTree.nodes.4.description>Installer un becquet pour augmenter légèrement la vitesse maximale du véhicule.</VVE_Traveller_UpgradeTree.nodes.4.description>
+<!-- EN: Supercar Engine -->
+<VVE_Traveller_UpgradeTree.nodes.5.label>Moteur de supercar</VVE_Traveller_UpgradeTree.nodes.5.label>
+<!-- EN: Install a supercar engine, greatly increasing movement speed and acceleration of the vehicle at the cost of fuel efficiency. -->
+<VVE_Traveller_UpgradeTree.nodes.5.description>Installer un moteur de supercar, augmentant considérablement la vitesse de déplacement et l'accélération du véhicule au détriment de l'efficacité énergétique.</VVE_Traveller_UpgradeTree.nodes.5.description>
+<!-- EN: Cargo Capacity -->
+<VVE_Traveller_UpgradeTree.nodes.6.label>Capacité de chargement</VVE_Traveller_UpgradeTree.nodes.6.label>
+<!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+<VVE_Traveller_UpgradeTree.nodes.6.description>Améliorer légèrement la capacité de chargement du véhicule.</VVE_Traveller_UpgradeTree.nodes.6.description>
+<!-- EN: Armor -->
+<VVE_Traveller_UpgradeTree.nodes.7.label>Armure</VVE_Traveller_UpgradeTree.nodes.7.label>
+<!-- EN: Reinforce the armor of the vehicle slightly. -->
+<VVE_Traveller_UpgradeTree.nodes.7.description>Renforcer légèrement le blindage du véhicule.</VVE_Traveller_UpgradeTree.nodes.7.description>
+<!-- EN: Speed -->
+<VVE_Traveller_UpgradeTree.nodes.8.label>Vitesse</VVE_Traveller_UpgradeTree.nodes.8.label>
+<!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+<VVE_Traveller_UpgradeTree.nodes.8.description>Améliorer le moteur du véhicule, lui permettant d'atteindre une vitesse maximale plus élevée.</VVE_Traveller_UpgradeTree.nodes.8.description>
+<!-- EN: Acceleration -->
+<VVE_Traveller_UpgradeTree.nodes.9.label>Accélération</VVE_Traveller_UpgradeTree.nodes.9.label>
+<!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+<VVE_Traveller_UpgradeTree.nodes.9.description>Améliorer les capacités de changement de vitesse de la transmission afin d'augmenter légèrement la vitesse d'accélération du véhicule.</VVE_Traveller_UpgradeTree.nodes.9.description>
+<!-- EN: Fuel Consumption -->
+<VVE_Traveller_UpgradeTree.nodes.10.label>Consommation de carburant</VVE_Traveller_UpgradeTree.nodes.10.label>
+<!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+<VVE_Traveller_UpgradeTree.nodes.10.description>Améliorer le système d'échappement du véhicule, ce qui améliore légèrement le rendement énergétique.</VVE_Traveller_UpgradeTree.nodes.10.description>
+<!-- EN: Fuel Capacity -->
+<VVE_Traveller_UpgradeTree.nodes.11.label>Capacité du réservoir</VVE_Traveller_UpgradeTree.nodes.11.label>
+<!-- EN: Increase the size of the chemtank slightly. -->
+<VVE_Traveller_UpgradeTree.nodes.11.description>Augmenter légèrement la taille du réservoir.</VVE_Traveller_UpgradeTree.nodes.11.description>
+
+
+</LanguageData>

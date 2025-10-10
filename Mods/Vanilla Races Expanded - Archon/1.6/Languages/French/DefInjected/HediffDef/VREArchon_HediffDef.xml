@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: sear -->
+<VREA_Sear.label>brûlure</VREA_Sear.label>
+<!-- EN: A sear. -->
+<VREA_Sear.description>Une brûlure.</VREA_Sear.description>
+<!-- EN: sear scar -->
+<VREA_Sear.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de brûlure</VREA_Sear.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- EN: Seared off -->
+<VREA_Sear.injuryProps.destroyedLabel>Brûlé(e)</VREA_Sear.injuryProps.destroyedLabel>
+<!-- EN: Seared out -->
+<VREA_Sear.injuryProps.destroyedOutLabel>Calciné(e)</VREA_Sear.injuryProps.destroyedOutLabel>
+<!-- EN: a sear -->
+<VREA_Sear.labelNoun>une brûlure</VREA_Sear.labelNoun>
+<!-- EN: {0} in the {1} -->
+<VREA_Sear.labelNounPretty>une {0} au/à la {1}</VREA_Sear.labelNounPretty>
+
+
+<!-- EN: transcendent -->
+<VRE_Transcendent.label>transcendance</VRE_Transcendent.label>
+<!-- EN: This person has a direct link to a distant archotech, and part of their essence exists outside of our dimension. They are capable of using archon equipment, and in the event of death, they will skip back to another dimension only to return unscathed after some time has passed. -->
+<VRE_Transcendent.description>Cette personne a un lien direct avec un archotech lointain, et une partie de son essence existe en dehors de notre dimension. Elle est capable d'utiliser l'équipement des archons et, en cas de décès, elle bascule dans une autre dimension pour revenir indemne au bout d'un certain temps.</VRE_Transcendent.description>
+
+<!-- EN: psychically warped -->
+<VREA_PsychicallyWarped.label>distorsion psychique</VREA_PsychicallyWarped.label>
+<!-- EN: Armor is psychically stripped to 0. Upon an impact of psychic throw, this character will detonate in a small radius. -->
+<VREA_PsychicallyWarped.description>L'armure est psychiquement réduite à 0. En cas d'impact avec "jet psychique", la créature explose dans un petit rayon.</VREA_PsychicallyWarped.description>
+
+
+</LanguageData>

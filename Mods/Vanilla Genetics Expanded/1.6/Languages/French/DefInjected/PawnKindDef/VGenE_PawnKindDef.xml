@@ -1,0 +1,928 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: archocentipede -->
+<GR_ArchotechCentipede.label>archocentipède</GR_ArchotechCentipede.label>
+<GR_ArchotechCentipede.labelPlural>archocentipèdes</GR_ArchotechCentipede.labelPlural>
+
+
+<!-- EN: chickenbear -->
+<GR_Chickenbear.label>poulet-ours</GR_Chickenbear.label>
+<GR_Chickenbear.labelPlural>poulets-ours</GR_Chickenbear.labelPlural>
+<!-- EN: chickenbear hen -->
+<GR_Chickenbear.labelFemale>poule-ourse</GR_Chickenbear.labelFemale>
+<GR_Chickenbear.labelFemalePlural>poules-ourses</GR_Chickenbear.labelFemalePlural>
+<!-- EN: chickenbear rooster -->
+<GR_Chickenbear.labelMale>coq-ours</GR_Chickenbear.labelMale>
+<GR_Chickenbear.labelMalePlural>coqs-ours</GR_Chickenbear.labelMalePlural>
+<!-- EN: chickenbear chick -->
+<GR_Chickenbear.lifeStages.chickenbear_chick.label>poussin-ours</GR_Chickenbear.lifeStages.chickenbear_chick.label>
+<GR_Chickenbear.lifeStages.chickenbear_chick.labelPlural>poussins-ours</GR_Chickenbear.lifeStages.chickenbear_chick.labelPlural>
+<!-- EN: chickenbear cockerel -->
+<GR_Chickenbear.lifeStages.chickenbear_cockerel.labelMale>coquelet-ours</GR_Chickenbear.lifeStages.chickenbear_cockerel.labelMale>
+<GR_Chickenbear.lifeStages.chickenbear_cockerel.labelMalePlural>coquelets-ours</GR_Chickenbear.lifeStages.chickenbear_cockerel.labelMalePlural>
+
+<!-- EN: chickencat -->
+<GR_Chickencat.label>poulet-chat</GR_Chickencat.label>
+<GR_Chickencat.labelPlural>poulets-chats</GR_Chickencat.labelPlural>
+<!-- EN: chickencat hen -->
+<GR_Chickencat.labelFemale>poule-chat</GR_Chickencat.labelFemale>
+<!-- EN: chickencat rooster -->
+<GR_Chickencat.labelMale>coq-chat</GR_Chickencat.labelMale>
+<!-- EN: chickencat chick -->
+<GR_Chickencat.lifeStages.chickencat_chick.label>poussin-chat</GR_Chickencat.lifeStages.chickencat_chick.label>
+<!-- EN: chickencat cockerel -->
+<GR_Chickencat.lifeStages.chickencat_cockerel.labelMale>coquelet-chat</GR_Chickencat.lifeStages.chickencat_cockerel.labelMale>
+
+<!-- EN: chickenffalo -->
+<GR_Chickenffalo.label>poulet-muffalo</GR_Chickenffalo.label>
+<GR_Chickenffalo.labelPlural>poulets-muffalos</GR_Chickenffalo.labelPlural>
+<!-- EN: chickenffalo hen -->
+<GR_Chickenffalo.labelFemale>poule-muffalo</GR_Chickenffalo.labelFemale>
+<!-- EN: chickenffalo rooster -->
+<GR_Chickenffalo.labelMale>coq-muffalo</GR_Chickenffalo.labelMale>
+<!-- EN: chickenffalo chick -->
+<GR_Chickenffalo.lifeStages.chickenffalo_chick.label>poussin-muffalo</GR_Chickenffalo.lifeStages.chickenffalo_chick.label>
+<!-- EN: chickenffalo cockerel -->
+<GR_Chickenffalo.lifeStages.chickenffalo_cockerel.labelMale>coquelet-muffalo</GR_Chickenffalo.lifeStages.chickenffalo_cockerel.labelMale>
+
+<!-- EN: chickenlope -->
+<GR_Chickenlope.label>pouletlope</GR_Chickenlope.label>
+<GR_Chickenlope.labelPlural>pouletlopes</GR_Chickenlope.labelPlural>
+<!-- EN: chickenlope hen -->
+<GR_Chickenlope.labelFemale>poulelope</GR_Chickenlope.labelFemale>
+<!-- EN: chickenlope rooster -->
+<GR_Chickenlope.labelMale>coqlope</GR_Chickenlope.labelMale>
+<!-- EN: chickenlope chick -->
+<GR_Chickenlope.lifeStages.chickenlope_chick.label>poussinlope</GR_Chickenlope.lifeStages.chickenlope_chick.label>
+<!-- EN: chickenlope cockerel -->
+<GR_Chickenlope.lifeStages.chickenlope_cockerel.labelMale>coqueletlope</GR_Chickenlope.lifeStages.chickenlope_cockerel.labelMale>
+
+<!-- EN: chickenrabbit -->
+<GR_Chickenrabbit.label>poulet-lapin</GR_Chickenrabbit.label>
+<GR_Chickenrabbit.labelPlural>poulets-lapins</GR_Chickenrabbit.labelPlural>
+<!-- EN: chickenrabbit hen -->
+<GR_Chickenrabbit.labelFemale>poule-lapine</GR_Chickenrabbit.labelFemale>
+<!-- EN: chickenrabbit rooster -->
+<GR_Chickenrabbit.labelMale>coq-lapin</GR_Chickenrabbit.labelMale>
+<!-- EN: chickenrabbit chick -->
+<GR_Chickenrabbit.lifeStages.chickenrabbit_chick.label>poussin-lapin</GR_Chickenrabbit.lifeStages.chickenrabbit_chick.label>
+
+<!-- EN: chickenwolf -->
+<GR_Chickenwolf.label>poulet-loup</GR_Chickenwolf.label>
+<GR_Chickenwolf.labelPlural>poulets-loups</GR_Chickenwolf.labelPlural>
+<!-- EN: chickenwolf hen -->
+<GR_Chickenwolf.labelFemale>poule-louve</GR_Chickenwolf.labelFemale>
+<!-- EN: chickenwolf rooster -->
+<GR_Chickenwolf.labelMale>coq-loup</GR_Chickenwolf.labelMale>
+<!-- EN: chickenwolf chick -->
+<GR_Chickenwolf.lifeStages.chickenwolf_chick.label>poussin-loup</GR_Chickenwolf.lifeStages.chickenwolf_chick.label>
+<!-- EN: chickenwolf cockerel -->
+<GR_Chickenwolf.lifeStages.chickenwolf_cockerel.labelMale>coquelet-loup</GR_Chickenwolf.lifeStages.chickenwolf_cockerel.labelMale>
+
+<!-- EN: turkeyman -->
+<GR_Turkeyman.label>homme-dinde</GR_Turkeyman.label>
+<GR_Turkeyman.labelPlural>hommes-dindes</GR_Turkeyman.labelPlural>
+<!-- EN: turkeywoman -->
+<GR_Turkeyman.labelFemale>femme-dinde</GR_Turkeyman.labelFemale>
+<!-- EN: turkeywomen -->
+<GR_Turkeyman.labelFemalePlural>femmes-dindes</GR_Turkeyman.labelFemalePlural>
+<!-- EN: turkeyman -->
+<GR_Turkeyman.labelMale>homme-dinde</GR_Turkeyman.labelMale>
+<!-- EN: turkeymen -->
+<GR_Turkeyman.labelMalePlural>hommes-dindes</GR_Turkeyman.labelMalePlural>
+<!-- EN: turkeybaby -->
+<GR_Turkeyman.lifeStages.turkeybaby.label>bébé-dinde</GR_Turkeyman.lifeStages.turkeybaby.label>
+<!-- EN: turkeybabies -->
+<GR_Turkeyman.lifeStages.turkeybaby.labelPlural>bébés-dindes</GR_Turkeyman.lifeStages.turkeybaby.labelPlural>
+
+
+<!-- EN: boomabear -->
+<GR_Boomabear.label>boomours</GR_Boomabear.label>
+<GR_Boomabear.labelPlural>boomours</GR_Boomabear.labelPlural>
+<!-- EN: boomabear calf -->
+<GR_Boomabear.lifeStages.boomabear_calf.label>veau boomours</GR_Boomabear.lifeStages.boomabear_calf.label>
+<!-- EN: boomabear calves -->
+<GR_Boomabear.lifeStages.boomabear_calf.labelPlural>veaux boomours</GR_Boomabear.lifeStages.boomabear_calf.labelPlural>
+
+<!-- EN: boomachicken -->
+<GR_Boomachicken.label>boomapoulet</GR_Boomachicken.label>
+<GR_Boomachicken.labelPlural>boomapoulets</GR_Boomachicken.labelPlural>
+<!-- EN: boomachicken calf -->
+<GR_Boomachicken.lifeStages.boomachicken_calf.label>veau boomapoulet</GR_Boomachicken.lifeStages.boomachicken_calf.label>
+<!-- EN: boomachicken calves -->
+<GR_Boomachicken.lifeStages.boomachicken_calf.labelPlural>veaux boomapoulet</GR_Boomachicken.lifeStages.boomachicken_calf.labelPlural>
+
+<!-- EN: booman -->
+<GR_Booman.label>boomumain</GR_Booman.label>
+<GR_Booman.labelPlural>boomumains</GR_Booman.labelPlural>
+<!-- EN: wooman -->
+<GR_Booman.labelFemale>boomfemme</GR_Booman.labelFemale>
+<!-- EN: woomen -->
+<GR_Booman.labelFemalePlural>boomfemmes</GR_Booman.labelFemalePlural>
+<!-- EN: booman -->
+<GR_Booman.labelMale>boomhomme</GR_Booman.labelMale>
+<!-- EN: boomen -->
+<GR_Booman.labelMalePlural>boomhommes</GR_Booman.labelMalePlural>
+<!-- EN: boombaby -->
+<GR_Booman.lifeStages.boombaby.label>boombébé</GR_Booman.lifeStages.boombaby.label>
+<!-- EN: boombabies -->
+<GR_Booman.lifeStages.boombaby.labelPlural>boombébés</GR_Booman.lifeStages.boombaby.labelPlural>
+
+<!-- EN: boomcat -->
+<GR_Boomcat.label>boomchat</GR_Boomcat.label>
+<GR_Boomcat.labelPlural>boomchats</GR_Boomcat.labelPlural>
+<!-- EN: boomcat kitten -->
+<GR_Boomcat.lifeStages.boomcat_kitten.label>veau boomchat</GR_Boomcat.lifeStages.boomcat_kitten.label>
+<!-- EN: boomcat kittens -->
+<GR_Boomcat.lifeStages.boomcat_kitten.labelPlural>veaux boomchat</GR_Boomcat.lifeStages.boomcat_kitten.labelPlural>
+
+<!-- EN: boomffalo -->
+<GR_Boomffalo.label>boomffalo</GR_Boomffalo.label>
+<GR_Boomffalo.labelPlural>boomffalos</GR_Boomffalo.labelPlural>
+<!-- EN: boomffalo calf -->
+<GR_Boomffalo.lifeStages.boomffalo_calf.label>veau boomffalo</GR_Boomffalo.lifeStages.boomffalo_calf.label>
+<!-- EN: boomffalo calves -->
+<GR_Boomffalo.lifeStages.boomffalo_calf.labelPlural>veaux boomffalo</GR_Boomffalo.lifeStages.boomffalo_calf.labelPlural>
+
+<!-- EN: boomsquirrel -->
+<GR_Boomsquirrel.label>boomécureuil</GR_Boomsquirrel.label>
+<GR_Boomsquirrel.labelPlural>boomécureuils</GR_Boomsquirrel.labelPlural>
+
+<!-- EN: boomwolf -->
+<GR_Boomwolf.label>boomffalo</GR_Boomwolf.label>
+<GR_Boomwolf.labelPlural>boomffalos</GR_Boomwolf.labelPlural>
+<!-- EN: boomwolf calf -->
+<GR_Boomwolf.lifeStages.boomwolf_calf.label>veau boomffalo</GR_Boomwolf.lifeStages.boomwolf_calf.label>
+<!-- EN: boomwolf calves -->
+<GR_Boomwolf.lifeStages.boomwolf_calf.labelPlural>veaux boomffalo</GR_Boomwolf.lifeStages.boomwolf_calf.labelPlural>
+
+
+<!-- EN: dogman -->
+<GR_Dogman.label>chien-homme</GR_Dogman.label>
+<GR_Dogman.labelPlural>chien-homme</GR_Dogman.labelPlural>
+<!-- EN: dogwoman -->
+<GR_Dogman.labelFemale>chien-femme</GR_Dogman.labelFemale>
+<!-- EN: dogwomen -->
+<GR_Dogman.labelFemalePlural>chien-femmes</GR_Dogman.labelFemalePlural>
+<!-- EN: dogman -->
+<GR_Dogman.labelMale>chien-homme</GR_Dogman.labelMale>
+<!-- EN: dogmen -->
+<GR_Dogman.labelMalePlural>chien-hommes</GR_Dogman.labelMalePlural>
+<!-- EN: dogman puppy-baby -->
+<GR_Dogman.lifeStages.dogman_puppybaby.label>chiot-homme bébé</GR_Dogman.lifeStages.dogman_puppybaby.label>
+<!-- EN: dogman puppy-babies -->
+<GR_Dogman.lifeStages.dogman_puppybaby.labelPlural>chiots-hommes bébés</GR_Dogman.lifeStages.dogman_puppybaby.labelPlural>
+
+<!-- EN: wolfalope -->
+<GR_Wolfalope.label>loupalope</GR_Wolfalope.label>
+<GR_Wolfalope.labelPlural>loupalopes</GR_Wolfalope.labelPlural>
+<!-- EN: wolfalope puppy -->
+<GR_Wolfalope.lifeStages.wolfalope_puppy.label>louveteaualope</GR_Wolfalope.lifeStages.wolfalope_puppy.label>
+<!-- EN: wolfalope puppies -->
+<GR_Wolfalope.lifeStages.wolfalope_puppy.labelPlural>louveteauxalope</GR_Wolfalope.lifeStages.wolfalope_puppy.labelPlural>
+
+<!-- EN: wolfbear -->
+<GR_Wolfbear.label>loup-ours</GR_Wolfbear.label>
+<GR_Wolfbear.labelPlural>loups-ours</GR_Wolfbear.labelPlural>
+<!-- EN: wolfbear puppy -->
+<GR_Wolfbear.lifeStages.wolfbear_puppy.label>louveteau-ours</GR_Wolfbear.lifeStages.wolfbear_puppy.label>
+<!-- EN: wolfbear puppies -->
+<GR_Wolfbear.lifeStages.wolfbear_puppy.labelPlural>louveteaux-ours</GR_Wolfbear.lifeStages.wolfbear_puppy.labelPlural>
+
+<!-- EN: wolfbeaver -->
+<GR_Wolfbeaver.label>loup-castor</GR_Wolfbeaver.label>
+<GR_Wolfbeaver.labelPlural>loups-castors</GR_Wolfbeaver.labelPlural>
+<!-- EN: wolfbeaver puppy -->
+<GR_Wolfbeaver.lifeStages.wolfbeaver_puppy.label>louveteau-castor</GR_Wolfbeaver.lifeStages.wolfbeaver_puppy.label>
+<!-- EN: wolfbeaver puppies -->
+<GR_Wolfbeaver.lifeStages.wolfbeaver_puppy.labelPlural>louveteaux-castor</GR_Wolfbeaver.lifeStages.wolfbeaver_puppy.labelPlural>
+
+<!-- EN: wolfcat -->
+<GR_Wolfcat.label>loup-chat</GR_Wolfcat.label>
+<GR_Wolfcat.labelPlural>loups-chats</GR_Wolfcat.labelPlural>
+<!-- EN: wolfcat puppy -->
+<GR_Wolfcat.lifeStages.wolfcat_puppy.label>louveteau-chat</GR_Wolfcat.lifeStages.wolfcat_puppy.label>
+<!-- EN: wolfcat puppies -->
+<GR_Wolfcat.lifeStages.wolfcat_puppy.labelPlural>louveteaux-chat</GR_Wolfcat.lifeStages.wolfcat_puppy.labelPlural>
+
+<!-- EN: wolfchicken -->
+<GR_Wolfchicken.label>loup-poulet</GR_Wolfchicken.label>
+<GR_Wolfchicken.labelPlural>loups-poulets</GR_Wolfchicken.labelPlural>
+<!-- EN: wolfchicken puppy -->
+<GR_Wolfchicken.lifeStages.wolfchicken_puppy.label>louveteau-poulet</GR_Wolfchicken.lifeStages.wolfchicken_puppy.label>
+<!-- EN: wolfchicken puppies -->
+<GR_Wolfchicken.lifeStages.wolfchicken_puppy.labelPlural>louveteaux-poulet</GR_Wolfchicken.lifeStages.wolfchicken_puppy.labelPlural>
+
+<!-- EN: wolffalo -->
+<GR_Wolffalo.label>louffalo</GR_Wolffalo.label>
+<GR_Wolffalo.labelPlural>louffalos</GR_Wolffalo.labelPlural>
+<!-- EN: wolffalo puppy -->
+<GR_Wolffalo.lifeStages.wolffalo_puppy.label>louveteauffalo</GR_Wolffalo.lifeStages.wolffalo_puppy.label>
+<!-- EN: wolffalo puppies -->
+<GR_Wolffalo.lifeStages.wolffalo_puppy.labelPlural>louveteauxffalo</GR_Wolffalo.lifeStages.wolffalo_puppy.labelPlural>
+
+
+<!-- EN: thrumbalope -->
+<GR_Thrumbalope.label>thrumbalope</GR_Thrumbalope.label>
+<GR_Thrumbalope.labelPlural>thrumbalopes</GR_Thrumbalope.labelPlural>
+<!-- EN: thrumbalope calf -->
+<GR_Thrumbalope.lifeStages.thrumbalope_calf.label>bébé thrumbalope</GR_Thrumbalope.lifeStages.thrumbalope_calf.label>
+<!-- EN: thrumbalope calves -->
+<GR_Thrumbalope.lifeStages.thrumbalope_calf.labelPlural>bébés thrumbalope</GR_Thrumbalope.lifeStages.thrumbalope_calf.labelPlural>
+
+<!-- EN: thrumbear -->
+<GR_Thrumbear.label>thrumbours</GR_Thrumbear.label>
+<GR_Thrumbear.labelPlural>thrumbours</GR_Thrumbear.labelPlural>
+<!-- EN: thrumbear calf -->
+<GR_Thrumbear.lifeStages.thrumbear_calf.label>bébé thrumbours</GR_Thrumbear.lifeStages.thrumbear_calf.label>
+<!-- EN: thrumbear calves -->
+<GR_Thrumbear.lifeStages.thrumbear_calf.labelPlural>bébés thrumbours</GR_Thrumbear.lifeStages.thrumbear_calf.labelPlural>
+
+<!-- EN: thrumbocat -->
+<GR_Thrumbocat.label>thrumbo-chat</GR_Thrumbocat.label>
+<GR_Thrumbocat.labelPlural>thrumbos-chats</GR_Thrumbocat.labelPlural>
+<!-- EN: thrumbocat kitten -->
+<GR_Thrumbocat.lifeStages.thrumbocat_kitten.label>bébé thrumbo-chat</GR_Thrumbocat.lifeStages.thrumbocat_kitten.label>
+<!-- EN: thrumbocat kittens -->
+<GR_Thrumbocat.lifeStages.thrumbocat_kitten.labelPlural>bébés thrumbo-chat</GR_Thrumbocat.lifeStages.thrumbocat_kitten.labelPlural>
+
+<!-- EN: thrumbochicken -->
+<GR_Thrumbochicken.label>thrumbo-poulet</GR_Thrumbochicken.label>
+<GR_Thrumbochicken.labelPlural>thrumbos-poulets</GR_Thrumbochicken.labelPlural>
+<!-- EN: thrumbochicken chick -->
+<GR_Thrumbochicken.lifeStages.thrumbochicken_chick.label>bébé thrumbo-poulet</GR_Thrumbochicken.lifeStages.thrumbochicken_chick.label>
+<!-- EN: thrumbochicken chicks -->
+<GR_Thrumbochicken.lifeStages.thrumbochicken_chick.labelPlural>bébés thrumbo-poulet</GR_Thrumbochicken.lifeStages.thrumbochicken_chick.labelPlural>
+
+<!-- EN: thrumbolizard -->
+<GR_Thrumbolizard.label>thrumbo-lézard</GR_Thrumbolizard.label>
+<GR_Thrumbolizard.labelPlural>thrumbos-lézards</GR_Thrumbolizard.labelPlural>
+<!-- EN: thrumbolizard calf -->
+<GR_Thrumbolizard.lifeStages.thrumbolizard_calf.label>bébé thrumbo-lézard</GR_Thrumbolizard.lifeStages.thrumbolizard_calf.label>
+<!-- EN: thrumbolizard calves -->
+<GR_Thrumbolizard.lifeStages.thrumbolizard_calf.labelPlural>bébés thrumbo-lézard</GR_Thrumbolizard.lifeStages.thrumbolizard_calf.labelPlural>
+
+<!-- EN: thrumboman -->
+<GR_Thrumboman.label>homme-thrumbo</GR_Thrumboman.label>
+<GR_Thrumboman.labelPlural>hommes-thrumbos</GR_Thrumboman.labelPlural>
+<!-- EN: thrumwoman -->
+<GR_Thrumboman.labelFemale>femme-thrumbo</GR_Thrumboman.labelFemale>
+<!-- EN: thrumwomen -->
+<GR_Thrumboman.labelFemalePlural>femmes-thrumbos</GR_Thrumboman.labelFemalePlural>
+<!-- EN: thrumboman -->
+<GR_Thrumboman.labelMale>homme-thrumbo</GR_Thrumboman.labelMale>
+<!-- EN: thrumbomen -->
+<GR_Thrumboman.labelMalePlural>hommes-thrumbos</GR_Thrumboman.labelMalePlural>
+<!-- EN: thrumbaby -->
+<GR_Thrumboman.lifeStages.thrumbaby.label>bébé-thrumbo</GR_Thrumboman.lifeStages.thrumbaby.label>
+<!-- EN: thrumbabies -->
+<GR_Thrumboman.lifeStages.thrumbaby.labelPlural>bébés-thrumbos</GR_Thrumboman.lifeStages.thrumbaby.labelPlural>
+
+<!-- EN: thrumborat -->
+<GR_Thrumborat.label>thrumbo-rat</GR_Thrumborat.label>
+<GR_Thrumborat.labelPlural>thrumbos-rats</GR_Thrumborat.labelPlural>
+<!-- EN: thrumborat calf -->
+<GR_Thrumborat.lifeStages.thrumborat_calf.label>bébé thrumbo-rat</GR_Thrumborat.lifeStages.thrumborat_calf.label>
+<!-- EN: thrumborat calves -->
+<GR_Thrumborat.lifeStages.thrumborat_calf.labelPlural>bébés thrumbo-rat</GR_Thrumborat.lifeStages.thrumborat_calf.labelPlural>
+
+<!-- EN: thrumbospider -->
+<GR_Thrumbospider.label>thrumbo-araignée</GR_Thrumbospider.label>
+<GR_Thrumbospider.labelPlural>thrumbos-araignées</GR_Thrumbospider.labelPlural>
+
+<!-- EN: thrumffalo -->
+<GR_Thrumffalo.label>thrumffalo</GR_Thrumffalo.label>
+<GR_Thrumffalo.labelPlural>thrumffalos</GR_Thrumffalo.labelPlural>
+<!-- EN: thrumffalo calf -->
+<GR_Thrumffalo.lifeStages.thrumffalo_calf.label>bébé thrumffalo</GR_Thrumffalo.lifeStages.thrumffalo_calf.label>
+<!-- EN: thrumffalo calves -->
+<GR_Thrumffalo.lifeStages.thrumffalo_calf.labelPlural>bébés thrumffalo</GR_Thrumffalo.lifeStages.thrumffalo_calf.labelPlural>
+
+<!-- EN: thrumhorse -->
+<GR_Thrumhorse.label>thrumbo-cheval</GR_Thrumhorse.label>
+<GR_Thrumhorse.labelPlural>thrumbos-chevaux</GR_Thrumhorse.labelPlural>
+<!-- EN: thrumhorse mare -->
+<GR_Thrumhorse.labelFemale>thrumbo-jument</GR_Thrumhorse.labelFemale>
+<!-- EN: thrumhorse stallion -->
+<GR_Thrumhorse.labelMale>thrumbo-étalon</GR_Thrumhorse.labelMale>
+<!-- EN: foal -->
+<GR_Thrumhorse.lifeStages.foal.label>thrumbo-poulain</GR_Thrumhorse.lifeStages.foal.label>
+
+<!-- EN: thrumwolf -->
+<GR_Thrumwolf.label>thrumbo-loup</GR_Thrumwolf.label>
+<GR_Thrumwolf.labelPlural>thrumbos-loups</GR_Thrumwolf.labelPlural>
+<!-- EN: thrumwolf pup -->
+<GR_Thrumwolf.lifeStages.thrumwolf_pup.label>bébé thrumbo-loup</GR_Thrumwolf.lifeStages.thrumwolf_pup.label>
+<!-- EN: thrumwolf puppies -->
+<GR_Thrumwolf.lifeStages.thrumwolf_pup.labelPlural>bébés thrumbo-loup</GR_Thrumwolf.lifeStages.thrumwolf_pup.labelPlural>
+
+
+<!-- EN: bearhorse -->
+<GR_Bearhorse.label>ours-cheval</GR_Bearhorse.label>
+<GR_Bearhorse.labelPlural>ours-chevaux</GR_Bearhorse.labelPlural>
+<!-- EN: bearhorse mare -->
+<GR_Bearhorse.labelFemale>ours-jument</GR_Bearhorse.labelFemale>
+<!-- EN: bearhorse stallion -->
+<GR_Bearhorse.labelMale>ours-étalon</GR_Bearhorse.labelMale>
+<!-- EN: bearhorse foal -->
+<GR_Bearhorse.lifeStages.bearhorse_foal.label>ours-poulain</GR_Bearhorse.lifeStages.bearhorse_foal.label>
+
+<!-- EN: boomhorse -->
+<GR_Boomhorse.label>boomacheval</GR_Boomhorse.label>
+<GR_Boomhorse.labelPlural>boomachevaux</GR_Boomhorse.labelPlural>
+<!-- EN: boomhorse mare -->
+<GR_Boomhorse.labelFemale>boomajument</GR_Boomhorse.labelFemale>
+<!-- EN: boomhorse stallion -->
+<GR_Boomhorse.labelMale>boomaétalon</GR_Boomhorse.labelMale>
+<!-- EN: boomhorse foal -->
+<GR_Boomhorse.lifeStages.boomhorse_foal.label>boomapoulain</GR_Boomhorse.lifeStages.boomhorse_foal.label>
+
+<!-- EN: cathorse -->
+<GR_Cathorse.label>chat-cheval</GR_Cathorse.label>
+<GR_Cathorse.labelPlural>chats-chevaux</GR_Cathorse.labelPlural>
+<!-- EN: cathorse mare -->
+<GR_Cathorse.labelFemale>chat-jument</GR_Cathorse.labelFemale>
+<!-- EN: cathorse stallion -->
+<GR_Cathorse.labelMale>chat-étalon</GR_Cathorse.labelMale>
+<!-- EN: cathorse foal -->
+<GR_Cathorse.lifeStages.cathorse_foal.label>chat-poulain</GR_Cathorse.lifeStages.cathorse_foal.label>
+
+<!-- EN: chickenhorse -->
+<GR_Chickenhorse.label>poulet-cheval</GR_Chickenhorse.label>
+<GR_Chickenhorse.labelPlural>poulets-chevaux</GR_Chickenhorse.labelPlural>
+<!-- EN: chickenhorse mare -->
+<GR_Chickenhorse.labelFemale>poulet-jument</GR_Chickenhorse.labelFemale>
+<!-- EN: chickenhorse stallion -->
+<GR_Chickenhorse.labelMale>poulet-étalon</GR_Chickenhorse.labelMale>
+<!-- EN: chickenhorse foal -->
+<GR_Chickenhorse.lifeStages.chickenhorse_foal.label>poulet-poulain</GR_Chickenhorse.lifeStages.chickenhorse_foal.label>
+
+<!-- EN: crocorse -->
+<GR_Crocorse.label>croco-cheval</GR_Crocorse.label>
+<GR_Crocorse.labelPlural>crocos-chevaux</GR_Crocorse.labelPlural>
+<!-- EN: crocorse mare -->
+<GR_Crocorse.labelFemale>croco-jument</GR_Crocorse.labelFemale>
+<!-- EN: crocorse stallion -->
+<GR_Crocorse.labelMale>croco-étalon</GR_Crocorse.labelMale>
+<!-- EN: crocorse foal -->
+<GR_Crocorse.lifeStages.crocorse_foal.label>croco-poulain</GR_Crocorse.lifeStages.crocorse_foal.label>
+
+<!-- EN: hurseman -->
+<GR_Hurseman.label>homme-cheval</GR_Hurseman.label>
+<GR_Hurseman.labelPlural>hommes-chevaux</GR_Hurseman.labelPlural>
+<!-- EN: hurseman mare -->
+<GR_Hurseman.labelFemale>homme-jument</GR_Hurseman.labelFemale>
+<!-- EN: hurseman stallion -->
+<GR_Hurseman.labelMale>homme-étalon</GR_Hurseman.labelMale>
+<!-- EN: hurseman foal -->
+<GR_Hurseman.lifeStages.hurseman_foal.label>homme-poulain</GR_Hurseman.lifeStages.hurseman_foal.label>
+
+<!-- EN: molehorse -->
+<GR_Molehorse.label>taupe-cheval</GR_Molehorse.label>
+<GR_Molehorse.labelPlural>taupes-chevaux</GR_Molehorse.labelPlural>
+<!-- EN: molehorse mare -->
+<GR_Molehorse.labelFemale>taupe-jument</GR_Molehorse.labelFemale>
+<!-- EN: molehorse stallion -->
+<GR_Molehorse.labelMale>taupe-étalon</GR_Molehorse.labelMale>
+<!-- EN: molehorse foal -->
+<GR_Molehorse.lifeStages.molehorse_foal.label>taupe-poulain</GR_Molehorse.lifeStages.molehorse_foal.label>
+
+<!-- EN: muffalohorse -->
+<GR_Muffalohorse.label>muffalo-cheval</GR_Muffalohorse.label>
+<GR_Muffalohorse.labelPlural>muffalos-chevaux</GR_Muffalohorse.labelPlural>
+<!-- EN: muffalohorse mare -->
+<GR_Muffalohorse.labelFemale>muffalo-jument</GR_Muffalohorse.labelFemale>
+<!-- EN: muffalohorse stallion -->
+<GR_Muffalohorse.labelMale>muffalo-étalon</GR_Muffalohorse.labelMale>
+<!-- EN: muffalohorse foal -->
+<GR_Muffalohorse.lifeStages.muffalohorse_foal.label>muffalo-poulain</GR_Muffalohorse.lifeStages.muffalohorse_foal.label>
+
+<!-- EN: spiderhorse -->
+<GR_Spiderhorse.label>araignée-cheval</GR_Spiderhorse.label>
+<GR_Spiderhorse.labelPlural>araignées-chevaux</GR_Spiderhorse.labelPlural>
+<!-- EN: spiderhorse mare -->
+<GR_Spiderhorse.labelFemale>araignée-jument</GR_Spiderhorse.labelFemale>
+<!-- EN: spiderhorse stallion -->
+<GR_Spiderhorse.labelMale>araignée-étalon</GR_Spiderhorse.labelMale>
+
+<!-- EN: wolfhorse -->
+<GR_Wolfhorse.label>loup-cheval</GR_Wolfhorse.label>
+<GR_Wolfhorse.labelPlural>loups-chevaux</GR_Wolfhorse.labelPlural>
+<!-- EN: wolfhorse mare -->
+<GR_Wolfhorse.labelFemale>loup-jument</GR_Wolfhorse.labelFemale>
+<!-- EN: wolfhorse stallion -->
+<GR_Wolfhorse.labelMale>loup-étalon</GR_Wolfhorse.labelMale>
+<!-- EN: wolfhorse foal -->
+<GR_Wolfhorse.lifeStages.wolfhorse_foal.label>loup-poulain</GR_Wolfhorse.lifeStages.wolfhorse_foal.label>
+
+
+<!-- EN: aberrant fleshbeast -->
+<GR_AberrantFleshbeast.label>bête de chair aberrante</GR_AberrantFleshbeast.label>
+<GR_AberrantFleshbeast.labelPlural>bêtes de chair aberrante</GR_AberrantFleshbeast.labelPlural>
+
+<!-- EN: flesh flies -->
+<GR_FleshFlies.label>mouches à viande</GR_FleshFlies.label>
+<GR_FleshFlies.labelPlural>mouches à viande</GR_FleshFlies.labelPlural>
+
+<!-- EN: flesh growth -->
+<GR_FleshGrowth.label>croissance de chair</GR_FleshGrowth.label>
+<GR_FleshGrowth.labelPlural>croissances de chair</GR_FleshGrowth.labelPlural>
+
+<!-- EN: fleshling -->
+<GR_Fleshling.label>chairling</GR_Fleshling.label>
+<GR_Fleshling.labelPlural>chairlings</GR_Fleshling.labelPlural>
+
+<!-- EN: flesh monstrosity -->
+<GR_FleshMonstrosity.label>monstruosité de chair</GR_FleshMonstrosity.label>
+<GR_FleshMonstrosity.labelPlural>monstruosités de chair</GR_FleshMonstrosity.labelPlural>
+
+
+<!-- EN: catalope -->
+<GR_Catalope.label>chatalope</GR_Catalope.label>
+<GR_Catalope.labelPlural>chatalopes</GR_Catalope.labelPlural>
+<!-- EN: catalope kitten -->
+<GR_Catalope.lifeStages.catalope_kitten.label>chatonalope</GR_Catalope.lifeStages.catalope_kitten.label>
+
+<!-- EN: catbear -->
+<GR_Catbear.label>chat-ours</GR_Catbear.label>
+<GR_Catbear.labelPlural>chats-ours</GR_Catbear.labelPlural>
+<!-- EN: catbear kitten -->
+<GR_Catbear.lifeStages.catbear_kitten.label>chaton-ours</GR_Catbear.lifeStages.catbear_kitten.label>
+
+<!-- EN: catchicken -->
+<GR_Catchicken.label>chat-poulet</GR_Catchicken.label>
+<GR_Catchicken.labelPlural>chats-poulets</GR_Catchicken.labelPlural>
+<!-- EN: catchicken kitten -->
+<GR_Catchicken.lifeStages.catchicken_kitten.label>chaton-poulet</GR_Catchicken.lifeStages.catchicken_kitten.label>
+
+<!-- EN: catffalo -->
+<GR_Catffalo.label>chatuffalo</GR_Catffalo.label>
+<GR_Catffalo.labelPlural>chatuffalos</GR_Catffalo.labelPlural>
+<!-- EN: catffalo kitten -->
+<GR_Catffalo.lifeStages.catffalo_kitten.label>chatonuffalo</GR_Catffalo.lifeStages.catffalo_kitten.label>
+
+<!-- EN: catman -->
+<GR_Catman.label>homme-chat</GR_Catman.label>
+<GR_Catman.labelPlural>hommes-chats</GR_Catman.labelPlural>
+<!-- EN: catgirl -->
+<GR_Catman.labelFemale>femme-chat</GR_Catman.labelFemale>
+<!-- EN: catgirls -->
+<GR_Catman.labelFemalePlural>femmes-chats</GR_Catman.labelFemalePlural>
+<!-- EN: catman -->
+<GR_Catman.labelMale>homme-chat</GR_Catman.labelMale>
+<!-- EN: catmen -->
+<GR_Catman.labelMalePlural>hommes-chats</GR_Catman.labelMalePlural>
+<!-- EN: catbaby -->
+<GR_Catman.lifeStages.catbaby.label>bébé-chat</GR_Catman.lifeStages.catbaby.label>
+<!-- EN: catbabies -->
+<GR_Catman.lifeStages.catbaby.labelPlural>bébés-chats</GR_Catman.lifeStages.catbaby.labelPlural>
+
+<!-- EN: catrabbit -->
+<GR_Catrabbit.label>chat-lapin</GR_Catrabbit.label>
+<GR_Catrabbit.labelPlural>chats-lapins</GR_Catrabbit.labelPlural>
+<!-- EN: catrabbit kitten -->
+<GR_Catrabbit.lifeStages.catrabbit_kitten.label>chaton-lapin</GR_Catrabbit.lifeStages.catrabbit_kitten.label>
+
+<!-- EN: catwolf -->
+<GR_Catwolf.label>chat-loup</GR_Catwolf.label>
+<GR_Catwolf.labelPlural>chats-loups</GR_Catwolf.labelPlural>
+<!-- EN: catwolf kitten -->
+<GR_Catwolf.lifeStages.catwolf_kitten.label>chaton-loup</GR_Catwolf.lifeStages.catwolf_kitten.label>
+
+
+<!-- EN: manalope -->
+<GR_Manalope.label>hommalope</GR_Manalope.label>
+<GR_Manalope.labelPlural>hommalopes</GR_Manalope.labelPlural>
+<!-- EN: womanlope -->
+<GR_Manalope.labelFemale>femmalope</GR_Manalope.labelFemale>
+<!-- EN: manalope -->
+<GR_Manalope.labelMale>hommalope</GR_Manalope.labelMale>
+<!-- EN: babylope -->
+<GR_Manalope.lifeStages.babylope.label>bébéalope</GR_Manalope.lifeStages.babylope.label>
+
+<!-- EN: manbear -->
+<GR_Manbear.label>homme-ours</GR_Manbear.label>
+<GR_Manbear.labelPlural>hommes-ours</GR_Manbear.labelPlural>
+<!-- EN: womanbear -->
+<GR_Manbear.labelFemale>femme-ours</GR_Manbear.labelFemale>
+<!-- EN: manbear -->
+<GR_Manbear.labelMale>homme-ours</GR_Manbear.labelMale>
+<!-- EN: babybear -->
+<GR_Manbear.lifeStages.babybear.label>bébé-ours</GR_Manbear.lifeStages.babybear.label>
+
+<!-- EN: mancat -->
+<GR_Mancat.label>homme-chat</GR_Mancat.label>
+<GR_Mancat.labelPlural>hommes-chats</GR_Mancat.labelPlural>
+<!-- EN: womancat -->
+<GR_Mancat.labelFemale>femme-chat</GR_Mancat.labelFemale>
+<!-- EN: mancat -->
+<GR_Mancat.labelMale>homme-chat</GR_Mancat.labelMale>
+<!-- EN: babycat -->
+<GR_Mancat.lifeStages.babycat.label>bébé-chat</GR_Mancat.lifeStages.babycat.label>
+
+<!-- EN: manchicken -->
+<GR_Manchicken.label>homme-poulet</GR_Manchicken.label>
+<GR_Manchicken.labelPlural>hommes-poulets</GR_Manchicken.labelPlural>
+<!-- EN: womanchicken -->
+<GR_Manchicken.labelFemale>femme-poulet</GR_Manchicken.labelFemale>
+<!-- EN: manchicken -->
+<GR_Manchicken.labelMale>homme-poulet</GR_Manchicken.labelMale>
+<!-- EN: babychicken -->
+<GR_Manchicken.lifeStages.babychicken.label>bébé-poulet</GR_Manchicken.lifeStages.babychicken.label>
+
+<!-- EN: manffalo -->
+<GR_Manffalo.label>hommuffalo</GR_Manffalo.label>
+<GR_Manffalo.labelPlural>hommuffalos</GR_Manffalo.labelPlural>
+<!-- EN: womanffalo -->
+<GR_Manffalo.labelFemale>femmuffalo</GR_Manffalo.labelFemale>
+<!-- EN: manffalo -->
+<GR_Manffalo.labelMale>hommuffalo</GR_Manffalo.labelMale>
+<!-- EN: babyffalo -->
+<GR_Manffalo.lifeStages.babyffalo.label>bébéuffalo</GR_Manffalo.lifeStages.babyffalo.label>
+
+<!-- EN: mansquirrel -->
+<GR_Mansquirrel.label>homme-écureuil</GR_Mansquirrel.label>
+<GR_Mansquirrel.labelPlural>hommes-écureuils</GR_Mansquirrel.labelPlural>
+<!-- EN: womansquirrel -->
+<GR_Mansquirrel.labelFemale>femme-écureuil</GR_Mansquirrel.labelFemale>
+<!-- EN: mansquirrel -->
+<GR_Mansquirrel.labelMale>homme-écureuil</GR_Mansquirrel.labelMale>
+<!-- EN: babysquirrel -->
+<GR_Mansquirrel.lifeStages.babysquirrel.label>bébé-écureuil</GR_Mansquirrel.lifeStages.babysquirrel.label>
+
+<!-- EN: manwolf -->
+<GR_Manwolf.label>homme-loup</GR_Manwolf.label>
+<GR_Manwolf.labelPlural>hommes-loups</GR_Manwolf.labelPlural>
+<!-- EN: womanwolf -->
+<GR_Manwolf.labelFemale>femme-loup</GR_Manwolf.labelFemale>
+<!-- EN: manwolf -->
+<GR_Manwolf.labelMale>homme-loup</GR_Manwolf.labelMale>
+<!-- EN: babywolf -->
+<GR_Manwolf.lifeStages.babywolf.label>bébé-loup</GR_Manwolf.lifeStages.babywolf.label>
+
+
+<!-- EN: bearscarab -->
+<GR_Bearscarab.label>ours-scarabée</GR_Bearscarab.label>
+<GR_Bearscarab.labelPlural>ours-scarabées</GR_Bearscarab.labelPlural>
+
+<!-- EN: boombeetle -->
+<GR_Boombeetle.label>boomaléoptère</GR_Boombeetle.label>
+<GR_Boombeetle.labelPlural>boomaléoptères</GR_Boombeetle.labelPlural>
+
+<!-- EN: chickenspider -->
+<GR_Chickenspider.label>poulet-araignée</GR_Chickenspider.label>
+<GR_Chickenspider.labelPlural>poulets-araignées</GR_Chickenspider.labelPlural>
+
+<!-- EN: manscarab -->
+<GR_Manscarab.label>homme-scarabée</GR_Manscarab.label>
+<GR_Manscarab.labelPlural>hommes-scarabées</GR_Manscarab.labelPlural>
+<!-- EN: womanscarab -->
+<GR_Manscarab.labelFemale>femme-scarabée</GR_Manscarab.labelFemale>
+<!-- EN: womenscarab -->
+<GR_Manscarab.labelFemalePlural>femmes-scarabées</GR_Manscarab.labelFemalePlural>
+<!-- EN: manscarab -->
+<GR_Manscarab.labelMale>homme-scarabée</GR_Manscarab.labelMale>
+<!-- EN: menscarab -->
+<GR_Manscarab.labelMalePlural>hommes-scarabées</GR_Manscarab.labelMalePlural>
+
+<!-- EN: muffalopede -->
+<GR_Muffalopede.label>muffalopède</GR_Muffalopede.label>
+<GR_Muffalopede.labelPlural>muffalopèdes</GR_Muffalopede.labelPlural>
+
+<!-- EN: spidercat -->
+<GR_Spidercat.label>chat-araignée</GR_Spidercat.label>
+<GR_Spidercat.labelPlural>chats-araignées</GR_Spidercat.labelPlural>
+
+<!-- EN: wolfscarab -->
+<GR_Wolfscarab.label>loup-scarabée</GR_Wolfscarab.label>
+<GR_Wolfscarab.labelPlural>loups-scarabées</GR_Wolfscarab.labelPlural>
+
+
+<!-- EN: mechabear -->
+<GR_Mechabear.label>méca-ours</GR_Mechabear.label>
+<GR_Mechabear.labelPlural>méca-ours</GR_Mechabear.labelPlural>
+
+<!-- EN: mechacat -->
+<GR_Mechacat.label>méca-chat</GR_Mechacat.label>
+<GR_Mechacat.labelPlural>méca-chats</GR_Mechacat.labelPlural>
+
+<!-- EN: mecha-chicken -->
+<GR_Mechachicken.label>méca-poulet</GR_Mechachicken.label>
+<GR_Mechachicken.labelPlural>méca-poulets</GR_Mechachicken.labelPlural>
+
+<!-- EN: mecha-horse -->
+<GR_Mechahorse.label>méca-cheval</GR_Mechahorse.label>
+<GR_Mechahorse.labelPlural>méca-chevaux</GR_Mechahorse.labelPlural>
+
+<!-- EN: mechalope -->
+<GR_Mechalope.label>mécalope</GR_Mechalope.label>
+<GR_Mechalope.labelPlural>mécalopes</GR_Mechalope.labelPlural>
+
+<!-- EN: mecha-mime -->
+<GR_Mechamime.label>méca-mime</GR_Mechamime.label>
+<GR_Mechamime.labelPlural>méca-mimes</GR_Mechamime.labelPlural>
+
+<!-- EN: mecha-muffalo -->
+<GR_Mechamuffalo.label>méca-muffalo</GR_Mechamuffalo.label>
+<GR_Mechamuffalo.labelPlural>méca-muffalos</GR_Mechamuffalo.labelPlural>
+
+<!-- EN: mecha-rat -->
+<GR_Mecharat.label>méca-rat</GR_Mecharat.label>
+<GR_Mecharat.labelPlural>méca-rats</GR_Mecharat.labelPlural>
+
+<!-- EN: mechaspider -->
+<GR_Mechaspider.label>mécaraignée</GR_Mechaspider.label>
+<GR_Mechaspider.labelPlural>mécaraignées</GR_Mechaspider.labelPlural>
+
+<!-- EN: mechathrumbo -->
+<GR_Mechathrumbo.label>méca-thrumbo</GR_Mechathrumbo.label>
+<GR_Mechathrumbo.labelPlural>méca-thrumbos</GR_Mechathrumbo.labelPlural>
+
+<!-- EN: mechaturtle -->
+<GR_Mechaturtle.label>méca-tortue</GR_Mechaturtle.label>
+<GR_Mechaturtle.labelPlural>méca-tortues</GR_Mechaturtle.labelPlural>
+
+<!-- EN: mechawolf -->
+<GR_Mechawolf.label>méca-loup</GR_Mechawolf.label>
+<GR_Mechawolf.labelPlural>méca-loups</GR_Mechawolf.labelPlural>
+
+
+<!-- EN: muffalobear -->
+<GR_Muffalobear.label>muffalours</GR_Muffalobear.label>
+<GR_Muffalobear.labelPlural>muffalours</GR_Muffalobear.labelPlural>
+<!-- EN: muffalobear calf -->
+<GR_Muffalobear.lifeStages.muffalobear_calf.label>veau muffalours</GR_Muffalobear.lifeStages.muffalobear_calf.label>
+<!-- EN: muffalobear calves -->
+<GR_Muffalobear.lifeStages.muffalobear_calf.labelPlural>veaux muffalours</GR_Muffalobear.lifeStages.muffalobear_calf.labelPlural>
+
+<!-- EN: muffalocat -->
+<GR_Muffalocat.label>muffalo-chat</GR_Muffalocat.label>
+<GR_Muffalocat.labelPlural>muffalos-chats</GR_Muffalocat.labelPlural>
+<!-- EN: muffalocat calf -->
+<GR_Muffalocat.lifeStages.muffalocat_calf.label>veau muffalo-chat</GR_Muffalocat.lifeStages.muffalocat_calf.label>
+<!-- EN: muffalocat calves -->
+<GR_Muffalocat.lifeStages.muffalocat_calf.labelPlural>veaux muffalo-chat</GR_Muffalocat.lifeStages.muffalocat_calf.labelPlural>
+
+<!-- EN: muffalochicken -->
+<GR_Muffalochicken.label>muffalo-poulet</GR_Muffalochicken.label>
+<GR_Muffalochicken.labelPlural>muffalos-poulets</GR_Muffalochicken.labelPlural>
+<!-- EN: muffalochicken calf -->
+<GR_Muffalochicken.lifeStages.muffalochicken_calf.label>veau muffalo-poulet</GR_Muffalochicken.lifeStages.muffalochicken_calf.label>
+<!-- EN: muffalochicken calves -->
+<GR_Muffalochicken.lifeStages.muffalochicken_calf.labelPlural>veaux muffalo-poulet</GR_Muffalochicken.lifeStages.muffalochicken_calf.labelPlural>
+
+<!-- EN: muffaloman -->
+<GR_Muffaloman.label>homme-muffalo</GR_Muffaloman.label>
+<GR_Muffaloman.labelPlural>hommes-muffalos</GR_Muffaloman.labelPlural>
+<!-- EN: muffalowoman -->
+<GR_Muffaloman.labelFemale>femme-muffalo</GR_Muffaloman.labelFemale>
+<!-- EN: muffalowomen -->
+<GR_Muffaloman.labelFemalePlural>femmes-muffalos</GR_Muffaloman.labelFemalePlural>
+<!-- EN: muffaloman -->
+<GR_Muffaloman.labelMale>homme-muffalo</GR_Muffaloman.labelMale>
+<!-- EN: muffalomen -->
+<GR_Muffaloman.labelMalePlural>hommes-muffalos</GR_Muffaloman.labelMalePlural>
+<!-- EN: muffalobaby -->
+<GR_Muffaloman.lifeStages.muffalobaby.label>bébé-muffalo</GR_Muffaloman.lifeStages.muffalobaby.label>
+<!-- EN: muffalobabies -->
+<GR_Muffaloman.lifeStages.muffalobaby.labelPlural>bébés-muffalos</GR_Muffaloman.lifeStages.muffalobaby.labelPlural>
+
+<!-- EN: muffalope -->
+<GR_Muffalope.label>muffalope</GR_Muffalope.label>
+<GR_Muffalope.labelPlural>muffalopes</GR_Muffalope.labelPlural>
+<!-- EN: muffalope calf -->
+<GR_Muffalope.lifeStages.muffalope_calf.label>veau muffalope</GR_Muffalope.lifeStages.muffalope_calf.label>
+<!-- EN: muffalope calves -->
+<GR_Muffalope.lifeStages.muffalope_calf.labelPlural>veaux muffalope</GR_Muffalope.lifeStages.muffalope_calf.labelPlural>
+
+<!-- EN: muffalorat -->
+<GR_Muffalorat.label>muffalo-rat</GR_Muffalorat.label>
+<GR_Muffalorat.labelPlural>muffalos-rats</GR_Muffalorat.labelPlural>
+<!-- EN: muffalorat calf -->
+<GR_Muffalorat.lifeStages.muffalorat_calf.label>veau muffalo-rat</GR_Muffalorat.lifeStages.muffalorat_calf.label>
+<!-- EN: muffalorat calves -->
+<GR_Muffalorat.lifeStages.muffalorat_calf.labelPlural>veaux muffalo-rat</GR_Muffalorat.lifeStages.muffalorat_calf.labelPlural>
+
+<!-- EN: muffalowolf -->
+<GR_Muffalowolf.label>muffalo-loup</GR_Muffalowolf.label>
+<GR_Muffalowolf.labelPlural>muffalos-loups</GR_Muffalowolf.labelPlural>
+<!-- EN: muffalowolf calf -->
+<GR_Muffalowolf.lifeStages.muffalowolf_calf.label>veau muffalo-loup</GR_Muffalowolf.lifeStages.muffalowolf_calf.label>
+<!-- EN: muffalowolf calves -->
+<GR_Muffalowolf.lifeStages.muffalowolf_calf.labelPlural>veaux muffalo-loup</GR_Muffalowolf.lifeStages.muffalowolf_calf.labelPlural>
+
+
+<!-- EN: ursine paragon -->
+<GR_ParagonBear.label>parangon ursidé</GR_ParagonBear.label>
+<GR_ParagonBear.labelPlural>parangons ursidés</GR_ParagonBear.labelPlural>
+
+<!-- EN: boomalope paragon -->
+<GR_ParagonBoomalope.label>parangon boomalope</GR_ParagonBoomalope.label>
+<GR_ParagonBoomalope.labelPlural>parangons boomalopes</GR_ParagonBoomalope.labelPlural>
+<!-- EN: paragon boomalope calf -->
+<GR_ParagonBoomalope.lifeStages.paragon_boomalope_calf.label>veau parangon boomalope</GR_ParagonBoomalope.lifeStages.paragon_boomalope_calf.label>
+<!-- EN: paragon boomalope calves -->
+<GR_ParagonBoomalope.lifeStages.paragon_boomalope_calf.labelPlural>veaux parangon boomalope</GR_ParagonBoomalope.lifeStages.paragon_boomalope_calf.labelPlural>
+
+<!-- EN: avian paragon -->
+<GR_ParagonChicken.label>parangon aviaire</GR_ParagonChicken.label>
+<GR_ParagonChicken.labelPlural>parangons aviaires</GR_ParagonChicken.labelPlural>
+<!-- EN: avian paragon hen -->
+<GR_ParagonChicken.labelFemale>poule parangon aviaire</GR_ParagonChicken.labelFemale>
+<!-- EN: avian paragon rooster -->
+<GR_ParagonChicken.labelMale>coq parangon aviaire</GR_ParagonChicken.labelMale>
+<!-- EN: avian paragon chick -->
+<GR_ParagonChicken.lifeStages.avian_paragon_chick.label>poussin parangon aviaire</GR_ParagonChicken.lifeStages.avian_paragon_chick.label>
+<!-- EN: avian paragon cockerel -->
+<GR_ParagonChicken.lifeStages.avian_paragon_cockerel.labelMale>coquelet parangon aviaire</GR_ParagonChicken.lifeStages.avian_paragon_cockerel.labelMale>
+
+<!-- EN: feline paragon -->
+<GR_ParagonFeline.label>parangon félin</GR_ParagonFeline.label>
+<GR_ParagonFeline.labelPlural>parangons félins</GR_ParagonFeline.labelPlural>
+
+<!-- EN: equine paragon -->
+<GR_ParagonHorse.label>parangon équidé</GR_ParagonHorse.label>
+<GR_ParagonHorse.labelPlural>parangons équidés</GR_ParagonHorse.labelPlural>
+
+<!-- EN: humanoid paragon -->
+<GR_ParagonHumanoid.label>parangon humanoïde</GR_ParagonHumanoid.label>
+<GR_ParagonHumanoid.labelPlural>parangons humanoïdes</GR_ParagonHumanoid.labelPlural>
+
+<!-- EN: reptile paragon -->
+<GR_ParagonIguana.label>parangon reptilien</GR_ParagonIguana.label>
+<GR_ParagonIguana.labelPlural>parangons reptiliens</GR_ParagonIguana.labelPlural>
+
+<!-- EN: insectoid paragon -->
+<GR_ParagonInsectoid.label>parangon insectoïde</GR_ParagonInsectoid.label>
+<GR_ParagonInsectoid.labelPlural>parangons insectoïdes</GR_ParagonInsectoid.labelPlural>
+
+<!-- EN: muffalo paragon -->
+<GR_ParagonMuffalo.label>parangon muffalo</GR_ParagonMuffalo.label>
+<GR_ParagonMuffalo.labelPlural>parangons muffalos</GR_ParagonMuffalo.labelPlural>
+<!-- EN: muffalo paragon calf -->
+<GR_ParagonMuffalo.lifeStages.muffalo_paragon_calf.label>veau parangon muffalo</GR_ParagonMuffalo.lifeStages.muffalo_paragon_calf.label>
+<!-- EN: muffalo paragon calves -->
+<GR_ParagonMuffalo.lifeStages.muffalo_paragon_calf.labelPlural>veaux parangon muffalo</GR_ParagonMuffalo.lifeStages.muffalo_paragon_calf.labelPlural>
+
+<!-- EN: rodent paragon -->
+<GR_ParagonRat.label>parangon rongeur</GR_ParagonRat.label>
+<GR_ParagonRat.labelPlural>parangons rongeurs</GR_ParagonRat.labelPlural>
+
+<!-- EN: colossal paragon -->
+<GR_ParagonThrumbo.label>parangon colossal</GR_ParagonThrumbo.label>
+<GR_ParagonThrumbo.labelPlural>parangons colossaux</GR_ParagonThrumbo.labelPlural>
+<!-- EN: colossal paragon calf -->
+<GR_ParagonThrumbo.lifeStages.colossal_paragon_calf.label>veau parangon colossal</GR_ParagonThrumbo.lifeStages.colossal_paragon_calf.label>
+<!-- EN: colossal paragon calves -->
+<GR_ParagonThrumbo.lifeStages.colossal_paragon_calf.labelPlural>veaux parangon colossal</GR_ParagonThrumbo.lifeStages.colossal_paragon_calf.labelPlural>
+
+<!-- EN: canine paragon -->
+<GR_ParagonWolf.label>parangon canin</GR_ParagonWolf.label>
+<GR_ParagonWolf.labelPlural>parangons canins</GR_ParagonWolf.labelPlural>
+<!-- EN: canine paragon puppy -->
+<GR_ParagonWolf.lifeStages.canine_paragon_puppy.label>louveteau parangon canin</GR_ParagonWolf.lifeStages.canine_paragon_puppy.label>
+<!-- EN: paragon timber wolf puppies -->
+<GR_ParagonWolf.lifeStages.canine_paragon_puppy.labelPlural>louveteaux paragon canin</GR_ParagonWolf.lifeStages.canine_paragon_puppy.labelPlural>
+
+
+<!-- EN: bearodile -->
+<GR_Bearodile.label>oursodile</GR_Bearodile.label>
+<GR_Bearodile.labelPlural>oursodiles</GR_Bearodile.labelPlural>
+
+<!-- EN: boomsnake -->
+<GR_Boomsnake.label>boomserpent</GR_Boomsnake.label>
+<GR_Boomsnake.labelPlural>boomserpents</GR_Boomsnake.labelPlural>
+
+<!-- EN: chickenlizard -->
+<GR_Chickenlizard.label>poulet-lézard</GR_Chickenlizard.label>
+<GR_Chickenlizard.labelPlural>poulets-lézards</GR_Chickenlizard.labelPlural>
+
+<!-- EN: lizardman -->
+<GR_Lizardman.label>homme-lézard</GR_Lizardman.label>
+<GR_Lizardman.labelPlural>hommes-lézards</GR_Lizardman.labelPlural>
+<!-- EN: lizardwoman -->
+<GR_Lizardman.labelFemale>femme-lézard</GR_Lizardman.labelFemale>
+<!-- EN: lizardwomen -->
+<GR_Lizardman.labelFemalePlural>femmes-lézards</GR_Lizardman.labelFemalePlural>
+<!-- EN: lizardman -->
+<GR_Lizardman.labelMale>homme-lézard</GR_Lizardman.labelMale>
+<!-- EN: lizardmen -->
+<GR_Lizardman.labelMalePlural>hommes-lézards</GR_Lizardman.labelMalePlural>
+
+<!-- EN: muffalokomodo -->
+<GR_Muffalokomodo.label>muffalo-komodo</GR_Muffalokomodo.label>
+<GR_Muffalokomodo.labelPlural>muffalos-komodos</GR_Muffalokomodo.labelPlural>
+
+<!-- EN: snakecat -->
+<GR_Snakecat.label>serpent-chat</GR_Snakecat.label>
+<GR_Snakecat.labelPlural>serpents-chats</GR_Snakecat.labelPlural>
+
+<!-- EN: spidersnake -->
+<GR_Spidersnake.label>araignée-serpent</GR_Spidersnake.label>
+<GR_Spidersnake.labelPlural>araignées-serpents</GR_Spidersnake.labelPlural>
+
+<!-- EN: wolfsnake -->
+<GR_Wolfsnake.label>loup-serpent</GR_Wolfsnake.label>
+<GR_Wolfsnake.labelPlural>loups-serpents</GR_Wolfsnake.labelPlural>
+<!-- EN: wolfsnake puppy -->
+<GR_Wolfsnake.lifeStages.wolfsnake_puppy.label>louveteau-serpent</GR_Wolfsnake.lifeStages.wolfsnake_puppy.label>
+<!-- EN: wolfsnake puppies -->
+<GR_Wolfsnake.lifeStages.wolfsnake_puppy.labelPlural>louveteaux-serpents</GR_Wolfsnake.lifeStages.wolfsnake_puppy.labelPlural>
+
+
+<!-- EN: beaverwolf -->
+<GR_Beaverwolf.label>castor-loup</GR_Beaverwolf.label>
+<GR_Beaverwolf.labelPlural>castors-loups</GR_Beaverwolf.labelPlural>
+<!-- EN: beaverwolf puppy -->
+<GR_Beaverwolf.lifeStages.beaverwolf_puppy.label>castor-louveteau</GR_Beaverwolf.lifeStages.beaverwolf_puppy.label>
+<!-- EN: beaverwolf puppies -->
+<GR_Beaverwolf.lifeStages.beaverwolf_puppy.labelPlural>castor-louveteaux</GR_Beaverwolf.lifeStages.beaverwolf_puppy.labelPlural>
+
+<!-- EN: molebear -->
+<GR_Molebear.label>taupe-ours</GR_Molebear.label>
+<GR_Molebear.labelPlural>taupes-ours</GR_Molebear.labelPlural>
+
+<!-- EN: moleman -->
+<GR_Moleman.label>homme-taupe</GR_Moleman.label>
+<GR_Moleman.labelPlural>hommes-taupes</GR_Moleman.labelPlural>
+<!-- EN: molewoman -->
+<GR_Moleman.labelFemale>femme-taupe</GR_Moleman.labelFemale>
+<!-- EN: molewomen -->
+<GR_Moleman.labelFemalePlural>femmes-taupes</GR_Moleman.labelFemalePlural>
+<!-- EN: moleman -->
+<GR_Moleman.labelMale>homme-taupe</GR_Moleman.labelMale>
+<!-- EN: molemen -->
+<GR_Moleman.labelMalePlural>hommes-taupes</GR_Moleman.labelMalePlural>
+<!-- EN: molebaby -->
+<GR_Moleman.lifeStages.molebaby.label>bébé-taupe</GR_Moleman.lifeStages.molebaby.label>
+<!-- EN: molebabies -->
+<GR_Moleman.lifeStages.molebaby.labelPlural>bébés-taupes</GR_Moleman.lifeStages.molebaby.labelPlural>
+
+<!-- EN: rabbitcat -->
+<GR_Rabbitcat.label>lapin-chat</GR_Rabbitcat.label>
+<GR_Rabbitcat.labelPlural>lapins-chats</GR_Rabbitcat.labelPlural>
+<!-- EN: rabbitcat kitten -->
+<GR_Rabbitcat.lifeStages.rabbitcat_kitten.label>lapin-chaton</GR_Rabbitcat.lifeStages.rabbitcat_kitten.label>
+<!-- EN: rabbitcat kittens -->
+<GR_Rabbitcat.lifeStages.rabbitcat_kitten.labelPlural>lapin-chatons</GR_Rabbitcat.lifeStages.rabbitcat_kitten.labelPlural>
+
+<!-- EN: rabbitchicken -->
+<GR_Rabbitchicken.label>lapin-poulet</GR_Rabbitchicken.label>
+<GR_Rabbitchicken.labelPlural>lapins-poulets</GR_Rabbitchicken.labelPlural>
+
+<!-- EN: ratffalo -->
+<GR_Ratffalo.label>ratuffalo</GR_Ratffalo.label>
+<GR_Ratffalo.labelPlural>ratuffalos</GR_Ratffalo.labelPlural>
+
+<!-- EN: squirralope -->
+<GR_Squirralope.label>écureuilalope</GR_Squirralope.label>
+<GR_Squirralope.labelPlural>écureuilalopes</GR_Squirralope.labelPlural>
+
+
+<!-- EN: bearalope -->
+<GR_Bearalope.label>oursalope</GR_Bearalope.label>
+<GR_Bearalope.labelPlural>oursalopes</GR_Bearalope.labelPlural>
+
+<!-- EN: bearcat -->
+<GR_Bearcat.label>ours-chat</GR_Bearcat.label>
+<GR_Bearcat.labelPlural>ours-chats</GR_Bearcat.labelPlural>
+
+<!-- EN: bearchicken -->
+<GR_Bearchicken.label>ours-poulet</GR_Bearchicken.label>
+<GR_Bearchicken.labelPlural>ours-poulets</GR_Bearchicken.labelPlural>
+<!-- EN: bearchicken hen -->
+<GR_Bearchicken.labelFemale>ours-poule</GR_Bearchicken.labelFemale>
+<!-- EN: bearchicken rooster -->
+<GR_Bearchicken.labelMale>ours-coq</GR_Bearchicken.labelMale>
+
+<!-- EN: bearffalo -->
+<GR_Bearffalo.label>oursuffalo</GR_Bearffalo.label>
+<GR_Bearffalo.labelPlural>oursuffalos</GR_Bearffalo.labelPlural>
+
+<!-- EN: bearman -->
+<GR_Bearman.label>homme-ours</GR_Bearman.label>
+<GR_Bearman.labelPlural>hommes-ours</GR_Bearman.labelPlural>
+<!-- EN: bearwoman -->
+<GR_Bearman.labelFemale>femme-ours</GR_Bearman.labelFemale>
+<!-- EN: bearwomen -->
+<GR_Bearman.labelFemalePlural>femmes-ours</GR_Bearman.labelFemalePlural>
+<!-- EN: bearman -->
+<GR_Bearman.labelMale>homme-ours</GR_Bearman.labelMale>
+<!-- EN: bearmen -->
+<GR_Bearman.labelMalePlural>hommes-ours</GR_Bearman.labelMalePlural>
+<!-- EN: bearbaby -->
+<GR_Bearman.lifeStages.bearbaby.label>bébé-ours</GR_Bearman.lifeStages.bearbaby.label>
+<!-- EN: bearbabies -->
+<GR_Bearman.lifeStages.bearbaby.labelPlural>bébés-ours</GR_Bearman.lifeStages.bearbaby.labelPlural>
+
+<!-- EN: bearmole -->
+<GR_Bearmole.label>ours-taupe</GR_Bearmole.label>
+<GR_Bearmole.labelPlural>ours-taupes</GR_Bearmole.labelPlural>
+
+<!-- EN: bearwolf -->
+<GR_Bearwolf.label>ours-loup</GR_Bearwolf.label>
+<GR_Bearwolf.labelPlural>ours-loups</GR_Bearwolf.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFEC.Letters.SenatorJoins>Le sénateur se joint à nous : {0}</VFEC.Letters.SenatorJoins>
+<VFEC.Letters.SenatorJoins.Desc>{0}, un sénateur de la {1}, a accepté de vous rejoindre. Cela a débloqué l'avantage {2}.</VFEC.Letters.SenatorJoins.Desc>
+<VFEC.Letters.SenatorJoins.Desc.Research>Il a également partagé certaines connaissances avec vous, en débloquant automatiquement la recherche : {0}</VFEC.Letters.SenatorJoins.Desc.Research>
+<VFEC.Letters.SenatorJoins.Desc.All>\n\nPuisque vous avez maintenant tous les sénateurs de la {0}, vous avez maintenant débloqué l'avantage {1}. De plus, ces avantages ne seront plus perdus si un sénateur meurt.</VFEC.Letters.SenatorJoins.Desc.All>
+<VFEC.Letters.SenatorJoins.Desc.All.Research>\n\nEnfin, en combinant les connaissances des {0} sénateurs, vous avez automatiquement acquis la recherche {1}.</VFEC.Letters.SenatorJoins.Desc.All.Research>
+<VFEC.Letters.SenatorLost>Mort du Sénateur : {0}</VFEC.Letters.SenatorLost>
+<VFEC.Letters.SenatorLost.Desc>{0}, un sénateur de la {1}, est mort sous votre responsabilité. {1} n'élira pas de nouveau sénateur, dont vous devrez gagner le soutien. En conséquence, l'avantage {2} a été perdu.</VFEC.Letters.SenatorLost.Desc>
+<VFEC.Letters.Donation>Soutien reçu de {0}</VFEC.Letters.Donation>
+<VFEC.Letters.Donation.Desc>{0} a accordé son soutien à {1}.</VFEC.Letters.Donation.Desc>
+<VFEC.Letters.Researched>Technologie acquise : {0}</VFEC.Letters.Researched>
+<VFEC.Letters.Researched.Desc>{1} a récemment fait une percée dans ses avancées technologiques, et ils ont partagé cette technologie avec nous.
+Technologie débloquée :
+{0}</VFEC.Letters.Researched.Desc>
+
+
+</LanguageData>

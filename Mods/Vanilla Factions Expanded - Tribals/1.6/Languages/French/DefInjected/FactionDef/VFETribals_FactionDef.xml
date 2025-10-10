@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: wild men -->
+<VFET_WildMen.label>hommes sauvages</VFET_WildMen.label>
+<!-- EN: A player-controlled gathering of wild men. -->
+<VFET_WildMen.description>Un rassemblement d'hommes sauvages contrôlé par le joueur.</VFET_WildMen.description>
+<!-- EN: leader -->
+<VFET_WildMen.leaderTitle>chef</VFET_WildMen.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFET_WildMen.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFET_WildMen.messageDefendersAttacking>
+<!-- EN: native -->
+<VFET_WildMen.pawnSingular>autochtone</VFET_WildMen.pawnSingular>
+<!-- EN: natives -->
+<VFET_WildMen.pawnsPlural>autochtones</VFET_WildMen.pawnsPlural>
+
+
+<!-- EN: chief -->
+<VFET_WildMenGroup.leaderTitle>chef</VFET_WildMenGroup.leaderTitle>
+<!-- EN: {0} from {1} are attacking your {2}. -->
+<VFET_WildMenGroup.messageDefendersAttacking>Les {0} de {1} attaquent vos {2}.</VFET_WildMenGroup.messageDefendersAttacking>
+<!-- EN: wild man -->
+<VFET_WildMenGroup.pawnSingular>homme sauvage</VFET_WildMenGroup.pawnSingular>
+<!-- EN: wild men -->
+<VFET_WildMenGroup.pawnsPlural>hommes sauvages</VFET_WildMenGroup.pawnsPlural>
+
+
+</LanguageData>

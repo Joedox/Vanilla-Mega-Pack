@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: shortskip -->
+<VPEA_Shortskip.label>saut bref</VPEA_Shortskip.label>
+<!-- EN: Teleport the target to a desired position not too far from his starting point. Caster does not need line of sight to destination. Range increases with psychic sensitivity of the caster. -->
+<VPEA_Shortskip.description>Téléporte la cible vers une position souhaitée, pas trop éloignée de son point de départ. Le psylanceur n'a pas besoin de ligne de vue pour se rendre à destination. La portée augmente avec la sensibilité psychique du psylanceur.</VPEA_Shortskip.description>
+<!-- EN: Using ability: {0} -->
+<VPEA_Shortskip.jobReportString>Utilise la capacité : {0}</VPEA_Shortskip.jobReportString>
+<!-- EN: saut bref -->
+<VPEA_Shortskip.verbProperties.label>saut bref</VPEA_Shortskip.verbProperties.label>
+
+<!-- EN: psychic lance -->
+<VREA_PsychicLance.label>lance psychique</VREA_PsychicLance.label>
+<!-- EN: Toss a large siege lance of psychic energy which generates a chaos skip sphere wherever it hits, skipping everyone under the effect to random nearby locations, inflicting deep cut wounds. Radius of the skip effect increases with Psychic sensitivity of the caster. -->
+<VREA_PsychicLance.description>Lance un grand projectile de siège d'énergie psychique qui génère une sphère de saut du chaos partout où il touche, sautant tous ceux qui subissent l'effet vers des endroits proches aléatoires, infligeant de profondes blessures par coupure. Le rayon de l'effet de saut augmente avec la sensibilité psychique du psylanceur.</VREA_PsychicLance.description>
+<!-- EN: Using ability: {0} -->
+<VREA_PsychicLance.jobReportString>Utilise la capacité : {0}</VREA_PsychicLance.jobReportString>
+<!-- EN: lance psychique -->
+<VREA_PsychicLance.verbProperties.label>lance psychique</VREA_PsychicLance.verbProperties.label>
+
+<!-- EN: psychic throw -->
+<VREA_PsychicThrow.label>jet psychique</VREA_PsychicThrow.label>
+<!-- EN: Throw a focused payload of psychic energy, dealing blunt trauma to anything hit by it. Psychic sensitivity increases the amount of projectiles fired in a single burst, hitting several enemies. -->
+<VREA_PsychicThrow.description>Lance une charge d'énergie psychique concentrée, infligeant un traumatisme contondant à tout ce qui est touché. La sensibilité psychique augmente le nombre de projectiles tirés en une seule rafale, touchant ainsi plusieurs ennemis.</VREA_PsychicThrow.description>
+<!-- EN: Using ability: {0} -->
+<VREA_PsychicThrow.jobReportString>Utilise la capacité : {0}</VREA_PsychicThrow.jobReportString>
+<!-- EN: jet psychique -->
+<VREA_PsychicThrow.verbProperties.label>jet psychique</VREA_PsychicThrow.verbProperties.label>
+
+<!-- EN: psychic warp -->
+<VREA_PsychicWarp.label>distorsion psychique</VREA_PsychicWarp.label>
+<!-- EN: Hurl a microscoping multi-dimensional skipgate at a target, nullifying any armor they might have. Warped entities hit by psychic throw will detonate. Psychic sensitivity increases the amount of projectiles fired in a single burst, hitting several enemies. -->
+<VREA_PsychicWarp.description>Projette une bombe multidimensionnelle microscopique sur une cible, réduisant à néant toute armure qu'elle pourrait avoir. Les entités avec "distorsion psychique" qui sont touchées par "jet psychique" explosent. La sensibilité psychique augmente le nombre de projectiles tirés en une seule rafale, touchant ainsi plusieurs ennemis.</VREA_PsychicWarp.description>
+<!-- EN: Using ability: {0} -->
+<VREA_PsychicWarp.jobReportString>Utilise la capacité : {0}</VREA_PsychicWarp.jobReportString>
+<!-- EN: distorsion psychique -->
+<VREA_PsychicWarp.verbProperties.label>distorsion psychique</VREA_PsychicWarp.verbProperties.label>
+
+
+</LanguageData>

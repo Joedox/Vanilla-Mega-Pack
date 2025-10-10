@@ -1,0 +1,1620 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+<v1.3>
+	<!-- +++++ Vanilla Expanded +++++ -->
+	<li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VAEAS">Mods/Vanilla Animals Expanded - Arid Shrubland/1.3</li>
+	<li IfModActive="VanillaExpanded.VAEAU">Mods/Vanilla Animals Expanded - Australia/1.3</li>
+	<li IfModActive="VanillaExpanded.VAEBF">Mods/Vanilla Animals Expanded - Boreal Forest/1.3</li>
+	<li IfModActive="VanillaExpanded.VAECD">Mods/Vanilla Animals Expanded - Cats and Dogs/1.3</li>
+	<li IfModActive="VanillaExpanded.VAECaves">Mods/Vanilla Animals Expanded - Caves/1.3</li>
+	<li IfModActive="VanillaExpanded.VAED">Mods/Vanilla Animals Expanded - Desert/1.3</li>
+	<li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered/1.3</li>
+	<li IfModActive="VanillaExpanded.VAEED">Mods/Vanilla Animals Expanded - Extreme Desert/1.3</li>
+	<li IfModActive="VanillaExpanded.VAEIS">Mods/Vanilla Animals Expanded - Ice Sheet/1.3</li>
+	<li IfModActive="VanillaExpanded.VAETF">Mods/Vanilla Animals Expanded - Temperate Forest/1.3</li>
+	<li IfModActive="VanillaExpanded.VAETR">Mods/Vanilla Animals Expanded - Tropical Rainforest/1.3</li>
+	<li IfModActive="VanillaExpanded.VAETS">Mods/Vanilla Animals Expanded - Tropical Swamp/1.3</li>
+	<li IfModActive="VanillaExpanded.VAET">Mods/Vanilla Animals Expanded - Tundra/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded/1.3</li>
+	<li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/1.3</li>
+
+	<li IfModActive="vanillaexpanded.backgrounds">Mods/Vanilla Backgrounds Expanded/1.3</li>
+
+	<!--<li IfModActive="VanillaExpanded.BaseGeneration">Mods/Vanilla Base Generation Expanded/1.3</li>-->	<!-- Actuellement rien à traduire -->
+
+	<li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/1.3</li>
+	<li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/1.3</li>
+	<li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews/1.3</li>
+	<li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded/1.3</li>
+
+	<!--<li IfModActive="OskarPotocki.VanillaExpanded.IdeologyPatches">Mods/Vanilla Expanded - Ideology Patches/1.3</li>-->	<!-- Actuellement rien à traduire que des Patches-->
+	<li IfModActive="OskarPotocki.VanillaExpanded.RoyaltyPatches">Mods/Vanilla Expanded - Royalty Patches/1.3</li>
+
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/1.3</li>
+
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Mods/Vanilla Factions Expanded - Medieval/1.3</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers/1.3</li>
+	<li IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Factions Expanded - Insectoids/1.3</li>
+	<li IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Vikings/1.3</li>
+	<li IfModActive="OskarPotocki.VFE.Mechanoid">Mods/Vanilla Factions Expanded - Mechanoids/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Factions Expanded - Ancients/1.3</li>
+	<li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/1.3</li>
+	<li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Fishing Expanded/1.3</li>
+	<!--li IfModActive="VanillaExpanded.VCEFAddon">Mods/Vanilla Fishing Expanded - Fishing Treasures AddOn/1.3</li>--> <!-- Actuellement rien à traduire -->
+
+	<li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production/1.3</li>
+	<li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props and Decor/1.3</li>
+	<li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security/1.3</li>
+	<li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/1.3</li>
+	<li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Genetics Expanded - More Lab Stuff/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads/1.3</li>
+	<li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme/1.3</li><!-- Posera problème si chargé avant VIE Dryads -->
+	<li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags/1.3</li>
+	<li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.3</li>
+	<!--<li IfModActive="VanillaExpanded.Ideo.IconsandSymbols">Mods/Vanilla Ideology Expanded - Icons and Symbols/1.3</li>-->	<!-- Actuellement rien à traduire -->
+	<li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts/1.3</li>
+	<li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms/1.3</li>
+
+	<li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded/1.3</li>
+	<li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants/1.3</li>
+	<li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents/1.3</li>
+
+	<li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded/1.3</li>
+
+	<li IfModActive="VSE.DiegoIndustrial">Mods/Vanilla Storytellers Expanded - Diego Industrial/1.3</li>
+	<li IfModActive="VSE.EmpressEvil">Mods/Vanilla Storytellers Expanded - Empress Evil/1.3</li>
+	<li IfModActive="VSE.FreyaFierce">Mods/Vanilla Storytellers Expanded - Freya Fierce/1.3</li>
+	<li IfModActive="VSE.IgorInvader">Mods/Vanilla Storytellers Expanded - Igor Invader/1.3</li>
+	<li IfModActive="VSE.MaynardMedieval">Mods/Vanilla Storytellers Expanded - Maynard Medieval/1.3</li>
+	<li IfModActive="VSE.NeronNeolithic">Mods/Vanilla Storytellers Expanded - Neron Neolithic/1.3</li>
+	<li IfModActive="VSE.OskarObnoxious">Mods/Vanilla Storytellers Expanded - Oskar Obnoxious/1.3</li>
+	<li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent/1.3</li>
+	<li IfModActive="vanillaexpanded.storytellers.rick">Mods/Vanilla Storytellers Expanded - RimWorld Rick/1.3</li>
+	<li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Mods/Vanilla Traits Expanded/1.3</li>
+
+	<li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/1.3</li>
+	<li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns/1.3</li>
+	<li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/1.3</li>
+	<li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades/1.3</li>
+	<li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons/1.3</li>
+	<li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser/1.3</li>
+	<li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift/1.3</li>
+	<li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal/1.3</li>
+	<li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Quickdraw/1.3</li>
+	<li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal/1.3</li>
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Achievements Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VARME">Mods/Vanilla Achievements Expanded/1.3/Mods/Vanilla Armour Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Achievements Expanded/1.3/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Achievements Expanded/1.3/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Achievements Expanded/1.3/Mods/Vanilla Weapons Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Achievements Expanded/1.3/Mods/Vanilla Apparel Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="kikohi.jewelry">Mods/Vanilla Achievements Expanded/1.3/Mods/Jewelry</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sarg.alphaanimals">Mods/Vanilla Achievements Expanded/1.3/Mods/Alpha Animals</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sargoskar.witcherhunt">Mods/Vanilla Achievements Expanded/1.3/Mods/RimWorld - Witcher Monster Hunt</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="Mlie.SpartanFoundryWarcraft">Mods/Vanilla Achievements Expanded/1.3/Mods/Spartan Foundry Warcraft (Continued)</li>
+
+	<!-- Fin Mod : Vanilla Achievements Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Medieval +++++ -->
+		<li MayRequire="OskarPotocki.VanillaFactionsExpanded.MedievalModule" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Factions Expanded - Medieval/1.3/Mods/Vanilla Fishing Expanded</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Medieval -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Mechanoids +++++ -->
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Factions Expanded - Mechanoids/1.3/Mods/Vanilla Brewing Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Factions Expanded - Mechanoids/1.3/Mods/Vanilla Brewing Expanded - Coffees and Teas</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Factions Expanded - Mechanoids/1.3/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Mechanoids/1.3/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Factions Expanded - Mechanoids/1.3/Mods/Vanilla Fishing Expanded</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Mechanoids -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Grenades +++++ -->
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Weapons Expanded - Grenades/1.3/Mods/Vanilla Factions Expanded - Settlers</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Grenades/1.3/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded - Grenades/1.3/Mods/Vanilla Weapons Expanded</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Grenades -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Frontier +++++ -->
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Frontier/1.3/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Frontier/1.3/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Frontier/1.3/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Frontier/1.3/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Frontier -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/1.3/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/1.3/Mods/Vanilla Plants Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Brewing Expanded/1.3/Mods/Vanilla Factions Expanded - Settlers</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded - Coffees and Teas +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.3/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.3/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded - Coffees and Teas -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Cooking Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphaanimals">Mods/Vanilla Cooking Expanded/1.3/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphabiomes">Mods/Vanilla Cooking Expanded/1.3/Mods/Alpha Biomes</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Cooking Expanded/1.3/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/1.3/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/1.3/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Cooking Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Outposts Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.outposts" IfModActive="vanillaexpanded.vcef">Mods/Vanilla Outposts Expanded/1.3/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="vanillaexpanded.outposts" IfModActive="oskarpotocki.vfe.mechanoid">Mods/Vanilla Outposts Expanded/1.3/Mods/Vanilla Factions Expanded - Mechanoids</li>
+
+	<!-- Fin Mod : Vanilla Outposts Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Traits Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VanillaTraitsExpanded" IfModActive="consolidatedtraits.kv.rw">Mods/Vanilla Traits Expanded/1.3/Mods/[KV] Consolidated Traits</li>
+		<li MayRequire="VanillaExpanded.VanillaTraitsExpanded" IfModActive="syrchalis.individuality">Mods/Vanilla Traits Expanded/1.3/Mods/[SYR] Individuality</li>
+
+	<!-- Fin Mod : Vanilla Traits Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Expanded - Ideology Patches +++++ -->
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Expanded - Ideology Patches/1.3/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Mods/Vanilla Expanded - Ideology Patches/1.3/Mods/Vanilla Factions Expanded - Medieval</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Expanded - Ideology Patches/1.3/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Expanded - Ideology Patches/1.3/Mods/Vanilla Furniture Expanded</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Expanded - Ideology Patches/1.3/Mods/Vanilla Furniture Expanded - Spacer Module</li>
+
+	<!-- Fin Mod : Vanilla Expanded - Ideology Patches -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Anima Theme +++++ -->
+		<li MayRequire="VanillaExpanded.VIEAT" IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Anima Theme/1.3/Mods/Vanilla Ideology Expanded - Dryads</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Anima Theme -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Pirates +++++ -->
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/1.3/Mods/Ideology</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Factions Expanded - Pirates/1.3/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Pirates/1.3/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Factions Expanded - Pirates/1.3/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Factions Expanded - Pirates/1.3/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Factions Expanded - Pirates/1.3/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Factions Expanded - Pirates/1.3/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Pirates -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Furniture Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VFECore" IfModNotActive="OskarPotocki.VanillaExpanded.RoyaltyPatches">Mods/Vanilla Furniture Expanded/1.3/Mods/No Vanilla Expanded - Royalty Patches</li>
+
+	<!-- Fin Mod : Vanilla Furniture Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Storytellers Expanded - Winston Wave +++++ -->
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="OskarPotocki.VFE.Mechanoid">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Vanilla Factions Expanded - Mechanoids</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="sarg.alphaanimals">Mods/Vanilla Storytellers Expanded - Winston Waves/1.3/Mods/Alpha Animals</li>
+
+	<!-- Fin Mod : Vanilla Storytellers Expanded - Winston Wave -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Plants Expanded - More Plants +++++ -->
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/1.3/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Plants Expanded - More Plants/1.3/Mods/Vanilla Cooking Expanded - Sushi</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Plants Expanded - More Plants/1.3/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="dismarzero.VGP.VGPVegetableGarden">Mods/Vanilla Plants Expanded - More Plants/1.3/Mods/VGP Vegetable Garden</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - More Plants/1.3/Mods/Vanilla Plants Expanded - Succulents</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Plants Expanded - More Plants/1.3/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Plants Expanded - More Plants -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Memes and Structures +++++ -->
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="sarg.alphaanimals">Mods/Vanilla Ideology Expanded - Memes and Structures/1.3/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="Ludeon.RimWorld.Royalty">Mods/Vanilla Ideology Expanded - Memes and Structures/1.3/Mods/Royalty</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.3/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.3/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Ideology Expanded - Memes and Structures/1.3/Mods/Vanilla Fishing Expanded</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Memes and Structures -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Backgrounds Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.backgrounds" IfModActive="kentington.saveourship2">Mods/Vanilla Backgrounds Expanded/1.3/Mods/Save our Ship 2</li>
+		<li MayRequire="vanillaexpanded.backgrounds" IfModActive="RimEffect.Core">Mods/Vanilla Backgrounds Expanded/1.3/Mods/Rim-Effect Core</li>
+
+	<!-- Fin Mod : Vanilla Backgrounds Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Genetics Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Genetics Expanded/1.3/Mods/Ideology</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="vanillaexpanded.achievements">Mods/Vanilla Genetics Expanded/1.3/Mods/Vanilla Achievements Expanded</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/1.3/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Genetics Expanded/1.3/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="sarg.alphaanimals">Mods/Vanilla Genetics Expanded/1.3/Mods/Alpha Animals</li>
+
+	<!-- Fin Mod : Vanilla Genetics Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Skills Expanded +++++ -->
+		<li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/1.3/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Skills Expanded -->
+
+</v1.3>
+<v1.4>
+	<!-- +++++ Vanilla Expanded +++++ -->
+
+	<li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Animals Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VAECaves">Mods/Vanilla Animals Expanded - Caves/1.4</li>
+	<li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered/1.4</li>
+	<li IfModActive="VanillaExpanded.VAERoy">Mods/Vanilla Animals Expanded - Royal Animals/1.4</li>
+	<li IfModActive="vanillaexpanded.vaewaste">Mods/Vanilla Animals Expanded - Waste Animals/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/1.4</li>
+
+	<li IfModActive="vanillaexpanded.backgrounds">Mods/Vanilla Backgrounds Expanded/1.4</li>
+
+	<li IfModActive="vanillaexpanded.vanillabackstoriesexpanded">Mods/Vanilla Backstories Expanded/1.4</li>
+
+	<!--<li IfModActive="VanillaExpanded.BaseGeneration">Mods/Vanilla Base Generation Expanded/1.4</li>-->	<!-- Actuellement rien à traduire -->
+
+	<li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews/1.4</li>
+	<li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded/1.4</li>
+
+	<!--<li IfModActive="OskarPotocki.VanillaExpanded.IdeologyPatches">Mods/Vanilla Expanded - Ideology Patches/1.4</li>-->	<!-- Actuellement rien à traduire que des Patches-->
+	<li IfModActive="OskarPotocki.VanillaExpanded.RoyaltyPatches">Mods/Vanilla Expanded - Royalty Patches/1.4</li>
+
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/1.4</li>
+
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Mods/Vanilla Factions Expanded - Medieval/1.4</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers/1.4</li>
+	<li IfModActive="oskarpotocki.vfe.tribals">Mods/Vanilla Factions Expanded - Tribals/1.4</li>
+	<li IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Factions Expanded - Insectoids/1.4</li>
+	<li IfModActive="oskarpotocki.vfe.empire">Mods/Vanilla Factions Expanded - Empire/1.4</li>
+	<li IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Vikings/1.4</li>
+	<li IfModActive="OskarPotocki.VFE.Mechanoid">Mods/Vanilla Factions Expanded - Mechanoids/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Factions Expanded - Ancients/1.4</li>
+	<li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/1.4</li>
+	<li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical/1.4</li>
+	<li IfModActive="oskarpotocki.vfe.deserters">Mods/Vanilla Factions Expanded - Deserters/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Fishing Expanded/1.4</li>
+	<!--li IfModActive="VanillaExpanded.VCEFAddon">Mods/Vanilla Fishing Expanded - Fishing Treasures AddOn/1.4</li>--> <!-- Actuellement rien à traduire -->
+
+	<li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production/1.4</li>
+	<li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props and Decor/1.4</li>
+	<li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security/1.4</li>
+	<li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Genetics Expanded - More Lab Stuff/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads/1.4</li>
+	<li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme/1.4</li><!-- Posera problème si chargé avant VIE Dryads -->
+	<li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags/1.4</li>
+	<li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.4</li>
+	<!--<li IfModActive="VanillaExpanded.Ideo.IconsandSymbols">Mods/Vanilla Ideology Expanded - Icons and Symbols/1.4</li>-->	<!-- Actuellement rien à traduire -->
+	<li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts/1.4</li>
+	<li IfModActive="vanillaexpanded.ideo.sophianstyle">Mods/Vanilla Ideology Expanded - Sophian Style/1.4</li>
+	<li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms/1.4</li>
+
+	<li IfModActive="vanillaexpanded.vnutriente">Mods/Vanilla Nutrient Paste Expanded/1.4</li>
+
+	<li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants/1.4</li>
+	<li IfModActive="vanillaexpanded.vplantsemushrooms">Mods/Vanilla Plants Expanded - Mushrooms/1.4</li>
+	<li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VPsycastsE">Mods/Vanilla Psycasts Expanded/1.4</li>
+	<li IfModActive="vanillaexpanded.vpe.hemosage">Mods/Vanilla Psycasts Expanded - Hemosage/1.4</li>
+	<li IfModActive="vanillaexpanded.vpe.puppeteer">Mods/Vanilla Psycasts Expanded - Puppeteer/1.4</li>
+
+	<li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android/1.4</li>
+	<li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Races Expanded - Archon/1.4</li>
+	<!--li IfModActive="vanillaracesexpanded.customicons">Mods/Vanilla Races Expanded - Custom Icons/1.4</li-->	<!-- Actuellement rien à traduire -->
+	<li IfModActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Fungoid/1.4</li>
+	<li IfModActive="vanillaracesexpanded.genie">Mods/Vanilla Races Expanded - Genie/1.4</li>
+	<li IfModActive="vanillaracesexpanded.highmate">Mods/Vanilla Races Expanded - Highmate/1.4</li>
+	<li IfModActive="vanillaracesexpanded.hussar">Mods/Vanilla Races Expanded - Hussar/1.4</li>
+	<li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope/1.4</li>
+	<li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin/1.4</li>
+	<li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin/1.4</li>
+	<li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage/1.4</li>
+	<li IfModActive="vanillaracesexpanded.saurid">Mods/Vanilla Races Expanded - Saurid/1.4</li>
+	<li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster/1.4</li>
+
+	<li IfModActive="vanillaexpanded.recycling">Mods/Vanilla Recycling Expanded/1.4</li>
+
+	<li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded/1.4</li>
+
+	<li IfModActive="VSE.DiegoIndustrial">Mods/Vanilla Storytellers Expanded - Diego Industrial/1.4</li>
+	<li IfModActive="VSE.EmpressEvil">Mods/Vanilla Storytellers Expanded - Empress Evil/1.4</li>
+	<li IfModActive="VSE.FreyaFierce">Mods/Vanilla Storytellers Expanded - Freya Fierce/1.4</li>
+	<li IfModActive="VSE.IgorInvader">Mods/Vanilla Storytellers Expanded - Igor Invader/1.4</li>
+	<li IfModActive="VSE.MaynardMedieval">Mods/Vanilla Storytellers Expanded - Maynard Medieval/1.4</li>
+	<li IfModActive="VSE.NeronNeolithic">Mods/Vanilla Storytellers Expanded - Neron Neolithic/1.4</li>
+	<li IfModActive="VSE.OskarObnoxious">Mods/Vanilla Storytellers Expanded - Oskar Obnoxious/1.4</li>
+	<li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent/1.4</li>
+	<li IfModActive="vanillaexpanded.storytellers.rick">Mods/Vanilla Storytellers Expanded - RimWorld Rick/1.4</li>
+	<li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Mods/Vanilla Traits Expanded/1.4</li>
+
+	<li IfModActive="oskarpotocki.vanillavehiclesexpanded">Mods/Vanilla Vehicles Expanded/1.4</li>
+	<li IfModActive="oskarpotocki.vanillavehiclesexpandedtier3">Mods/Vanilla Vehicles Expanded - Tier 3/1.4</li>
+
+	<li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/1.4</li>
+	<li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns/1.4</li>
+	<li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/1.4</li>
+	<li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades/1.4</li>
+	<li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons/1.4</li>
+	<li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser/1.4</li>
+	<li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift/1.4</li>
+	<li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal/1.4</li>
+	<li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Quickdraw/1.4</li>
+	<li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal/1.4</li>
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Achievements Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VARME">Mods/Vanilla Achievements Expanded/1.4/Mods/Vanilla Armour Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Achievements Expanded/1.4/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Achievements Expanded/1.4/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="vanillaexpanded.vgeneticse">Mods/Vanilla Achievements Expanded/1.4/Mods/Vanilla Genetics Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Achievements Expanded/1.4/Mods/Vanilla Weapons Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Achievements Expanded/1.4/Mods/Vanilla Apparel Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="kikohi.jewelry">Mods/Vanilla Achievements Expanded/1.4/Mods/Jewelry</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sarg.alphaanimals">Mods/Vanilla Achievements Expanded/1.4/Mods/Alpha Animals</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sargoskar.witcherhunt">Mods/Vanilla Achievements Expanded/1.4/Mods/RimWorld - Witcher Monster Hunt</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="Mlie.SpartanFoundryWarcraft">Mods/Vanilla Achievements Expanded/1.4/Mods/Spartan Foundry Warcraft (Continued)</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sarg.magicalmenagerie">Mods/Vanilla Achievements Expanded/1.4/Mods/Alpha Mythology</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="novacube.cubee">Mods/Vanilla Achievements Expanded/1.4/Mods/Novacube Cubee</li>
+		<li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded/1.4/Mods/Vanilla Achievements Expanded</li><!-- Ajout de HF -->
+
+	<!-- Fin Mod : Vanilla Achievements Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Medieval +++++ -->
+		<li MayRequire="OskarPotocki.VanillaFactionsExpanded.MedievalModule" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Factions Expanded - Medieval/1.4/Mods/Vanilla Fishing Expanded</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Medieval -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Mechanoids +++++ -->
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/Biotech</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/Vanilla Brewing Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/Vanilla Brewing Expanded - Coffees and Teas</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="punkyroo.biotechmechvfemechanoid">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/Biotech - VFE Mechanoid Patch</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="seos.vfe.mechanoids.tab">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/VFE - Mechanoids Tab</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="seos.vfe.mechanoids.drones">Mods/Vanilla Factions Expanded - Mechanoids/1.4/Mods/VFE - Mechanoids Drones</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Mechanoids -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Grenades +++++ -->
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Weapons Expanded - Grenades/1.4/Mods/Vanilla Factions Expanded - Settlers</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Grenades/1.4/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded - Grenades/1.4/Mods/Vanilla Weapons Expanded</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Grenades -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Frontier +++++ -->
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Frontier/1.4/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Frontier/1.4/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Frontier/1.4/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Frontier/1.4/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Frontier -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/1.4/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/1.4/Mods/Vanilla Plants Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Brewing Expanded/1.4/Mods/Vanilla Factions Expanded - Settlers</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded - Coffees and Teas +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.4/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.4/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded - Coffees and Teas -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Cooking Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphaanimals">Mods/Vanilla Cooking Expanded/1.4/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphabiomes">Mods/Vanilla Cooking Expanded/1.4/Mods/Alpha Biomes</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Cooking Expanded/1.4/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/1.4/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/1.4/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Cooking Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Outposts Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.outposts" IfModActive="vanillaexpanded.vcef">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="vanillaexpanded.outposts" IfModActive="oskarpotocki.vfe.mechanoid">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Factions Expanded - Mechanoids</li>
+		<li IfModActive="mlie.vanillaoutpostsexpandedexpandedranch">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Outposts Expanded Expanded Ranch (Continued)</li>
+		<li IfModActive="mrhydralisk.voeadditionaloutposts">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Outposts Expanded Additional Outposts</li>
+		<!--li IfModActive="mrhydralisk.voedeliverylogistics">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Outposts Expanded: Delivery Logistics</li> Rien à traduire -->
+		<li IfModActive="mrhydralisk.voepowergrid">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Outposts Expanded Power Grid</li>
+		<li IfModActive="mrhydralisk.voeprisonerpatch">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Outposts Expanded Prisoner Patch</li>
+		<!--li IfModActive="kuhlyus.modpatch.vanillaoutpost">Mods/Vanilla Outposts Expanded/1.4/Mods/Vanilla Mining Outpost Patch</li> Rien à traduire -->
+
+	<!-- Fin Mod : Vanilla Outposts Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Traits Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VanillaTraitsExpanded" IfModActive="consolidatedtraits.kv.rw">Mods/Vanilla Traits Expanded/1.4/Mods/[KV] Consolidated Traits</li>
+		<li MayRequire="VanillaExpanded.VanillaTraitsExpanded" IfModActive="syrchalis.individuality">Mods/Vanilla Traits Expanded/1.4/Mods/[SYR] Individuality</li>
+
+	<!-- Fin Mod : Vanilla Traits Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Expanded - Ideology Patches +++++ -->
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Expanded - Ideology Patches/1.4/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Mods/Vanilla Expanded - Ideology Patches/1.4/Mods/Vanilla Factions Expanded - Medieval</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Expanded - Ideology Patches/1.4/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Expanded - Ideology Patches/1.4/Mods/Vanilla Furniture Expanded</li>
+		<li MayRequire="OskarPotocki.VanillaExpanded.IdeologyPatches" IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Expanded - Ideology Patches/1.4/Mods/Vanilla Furniture Expanded - Spacer Module</li>
+
+	<!-- Fin Mod : Vanilla Expanded - Ideology Patches -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Anima Theme +++++ -->
+		<li MayRequire="VanillaExpanded.VIEAT" IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Anima Theme/1.4/Mods/Vanilla Ideology Expanded - Dryads</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Anima Theme -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Pirates +++++ -->
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Ideology</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="ia.royalwarcasket.rw">Mods/Vanilla Factions Expanded - Pirates/1.4/Mods/Imperial Arsenal Royal Warcasket</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Pirates -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Furniture Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VFECore" IfModNotActive="OskarPotocki.VanillaExpanded.RoyaltyPatches">Mods/Vanilla Furniture Expanded/1.4/Mods/No Vanilla Expanded - Royalty Patches</li>
+
+	<!-- Fin Mod : Vanilla Furniture Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Fishing Expanded +++++ -->
+		<li IfModNotActive="sierra.rt.vanillatraitcolors">Mods/Vanilla Fishing Expanded/1.4/Mods/Vanilla Fishing Expanded</li>  <!-- Si le mod "RimTraits - Vanilla Trait Colors" n'est pas présent alors il change ce dossier -->
+
+	<!-- Fin Mod : Vanilla Fishing Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Traits Expanded +++++ -->
+		<li IfModNotActive="sierra.rt.vanillatraitcolors">Mods/Vanilla Traits Expanded/1.4/Mods/Vanilla Traits Expanded</li>  <!-- Si le mod "RimTraits - Vanilla Trait Colors" n'est pas présent alors il change ce dossier -->
+
+	<!-- Fin Mod : Vanilla Traits Expanded -->
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Storytellers Expanded - Winston Wave +++++ -->
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="OskarPotocki.VFE.Mechanoid">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Vanilla Factions Expanded - Mechanoids</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="VanillaStorytellersExpanded.WinstonWave" IfModActive="sarg.alphaanimals">Mods/Vanilla Storytellers Expanded - Winston Waves/1.4/Mods/Alpha Animals</li>
+
+	<!-- Fin Mod : Vanilla Storytellers Expanded - Winston Wave -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Plants Expanded - More Plants +++++ -->
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/1.4/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Plants Expanded - More Plants/1.4/Mods/Vanilla Cooking Expanded - Sushi</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="OskarPotocki.VFE.Vikings">Mods/Vanilla Plants Expanded - More Plants/1.4/Mods/Vanilla Factions Expanded - Vikings</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="dismarzero.VGP.VGPVegetableGarden">Mods/Vanilla Plants Expanded - More Plants/1.4/Mods/VGP Vegetable Garden</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - More Plants/1.4/Mods/Vanilla Plants Expanded - Succulents</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Plants Expanded - More Plants/1.4/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Plants Expanded - More Plants -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Memes and Structures +++++ -->
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="sarg.alphaanimals">Mods/Vanilla Ideology Expanded - Memes and Structures/1.4/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="Ludeon.RimWorld.Royalty">Mods/Vanilla Ideology Expanded - Memes and Structures/1.4/Mods/Royalty</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.4/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.4/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Ideology Expanded - Memes and Structures/1.4/Mods/Vanilla Fishing Expanded</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Memes and Structures -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Backgrounds Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.backgrounds" IfModActive="kentington.saveourship2">Mods/Vanilla Backgrounds Expanded/1.4/Mods/Save our Ship 2</li>
+		<li MayRequire="vanillaexpanded.backgrounds" IfModActive="RimEffect.Core">Mods/Vanilla Backgrounds Expanded/1.4/Mods/Rim-Effect Core</li>
+
+	<!-- Fin Mod : Vanilla Backgrounds Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Genetics Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Genetics Expanded/1.4/Mods/Ideology</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/1.4/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="OskarPotocki.VFE.Insectoid">Mods/Vanilla Genetics Expanded/1.4/Mods/Vanilla Factions Expanded - Insectoids</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="sarg.alphaanimals">Mods/Vanilla Genetics Expanded/1.4/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModNotActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Genetics Expanded/1.4/Mods/Vanilla Chemfuel Expanded NOT</li>
+
+	<!-- Fin Mod : Vanilla Genetics Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Skills Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.skills" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Skills Expanded/1.4/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Skills Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Psycasts Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="sarg.alphaanimals">Mods/Vanilla Psycasts Expanded/1.4/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vfea">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="oskarpotocki.vfe.mechanoid">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Factions Expanded - Mechanoids</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="oskarpotocki.vfe.pirates">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Factions Expanded - Pirates</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vfesecurity">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Furniture Expanded - Security</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vgeneticse">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Genetics Expanded</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vwec">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vwehw">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li IfModActive="wzx.protoss.psycasts">Mods/Vanilla Psycasts Expanded/1.4/Mods/Protoss's Psycasts</li>
+		<li IfModActive="aranmaho.rangerclass">Mods/Vanilla Psycasts Expanded/1.4/Mods/VPE - Ranger</li>
+		<li IfModActive="aranmaho.ravenouseye.wildhunter.psycast">Mods/Vanilla Psycasts Expanded/1.4/Mods/Wildheart Psycast</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Psycasts Expanded/1.4/Mods/Vanilla Races Expanded - Archon</li>
+
+	<!-- Fin Mod : Vanilla Psycasts Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Helixien Gas Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.HelixienGas" IfModActive="vanillaexpanded.vfepower">Mods/Vanilla Helixien Gas Expanded/1.4/Mods/Vanilla Furniture Expanded - Power</li>
+
+	<!-- Fin Mod : Vanilla Helixien Gas Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Phytokin +++++ -->
+		<li MayRequire="vanillaracesexpanded.phytokin" IfModActive="ludeon.rimworld.royalty">Mods/Vanilla Races Expanded - Phytokin/1.4/Mods/Royalty</li>
+		<li MayRequire="vanillaracesexpanded.phytokin" IfModActive="ludeon.rimworld.ideology">Mods/Vanilla Races Expanded - Phytokin/1.4/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Phytokin -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Sanguophage +++++ -->
+		<li IfModActive="vanillaracesexpanded.sanguophage" MayRequire="ludeon.rimworld.royalty">Mods/Vanilla Races Expanded - Sanguophage/1.4/Mods/Royalty</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Sanguophage -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Persona Weapons Expanded +++++ -->
+		<li IfModActive="VanillaExpanded.VPersonaWeaponsE" MayRequire="oskarpotocki.vfe.empire">Mods/Vanilla Persona Weapons Expanded/1.4/Mods/Vanilla Factions Expanded - Empire</li>
+
+	<!-- Fin Mod : Vanilla Persona Weapons Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Android +++++ -->
+		<li IfModActive="vanillaracesexpanded.android" MayRequire="Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Android/1.4/Mods/Ideology</li>
+		<li IfModActive="noisykoi.mechandroids">Mods/Vanilla Races Expanded - Android/1.4/Mods/Koi's Mech-Androids</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Android -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Ancients +++++ -->
+		<li IfModActive="VanillaExpanded.VFEA" MayRequire="sflegion.vfeea.powerextract">Mods/Vanilla Factions Expanded - Ancients/1.4/Mods/VFEEA - Extract Super-Nanites</li>
+		<li IfModActive="VanillaExpanded.VFEA" MayRequire="scorpio.ancientscraftable">Mods/Vanilla Factions Expanded - Ancients/1.4/Mods/Ancients Craftable</li>
+		<li IfModActive="VanillaExpanded.VFEA" MayRequire="seos.m.vfea.vault.wnd">Mods/Vanilla Factions Expanded - Ancients/1.4/Mods/VFE - Ancients Vault Wall and Door</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Ancients -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Social Interactions Expanded +++++ -->
+		<li IfModActive="stagz.vsierationaltraitdevelopment">Mods/Vanilla Social Interactions Expanded/1.4/Mods/VSIE - Rational Trait Development</li>
+
+	<!-- Fin Mod : Vanilla Social Interactions Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Plants Expanded - Mushrooms +++++ -->
+		<li IfModActive="vanillaexpanded.vplantsemushrooms" MayRequire="Ludeon.RimWorld.Biotech">Mods/Vanilla Plants Expanded - Mushrooms/1.4/Mods/Biotech</li>
+
+	<!-- Fin Mod : Vanilla Plants Expanded - Mushrooms -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Books Expanded +++++ -->
+		<li IfModActive="cedaro.readingbill">Mods/Vanilla Books Expanded/1.4/Mods/Reading Bill</li>
+
+	<!-- Fin Mod : Vanilla Books Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Insectoids +++++ -->
+		<li IfModActive="turnovus.submod.extendedbioengineering">Mods/Vanilla Factions Expanded - Insectoids/1.4/Mods/Extended Bioengineering</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Insectoids -->
+
+</v1.4>
+<v1.5>
+
+	<!-- Ajoute des options de mod via mes mods de traduction. -->
+		<li>Option</li>
+
+	<!-- +++++ Vanilla Expanded +++++ -->
+
+	<li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Animals Expanded/1.5</li>
+	<li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered/1.5</li>
+	<li IfModActive="VanillaExpanded.VAERoy">Mods/Vanilla Animals Expanded - Royal Animals/1.5</li>
+	<li IfModActive="vanillaexpanded.vaewaste">Mods/Vanilla Animals Expanded - Waste Animals/1.5</li>
+
+	<li IfModActive="vanillaexpanded.vanomalyeinsanity">Mods/Vanilla Anomaly Expanded - Insanity/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded/1.5</li>
+	<li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/1.5</li>
+
+	<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded">Mods/Vanilla Aspirations Expanded/1.5</li>
+
+	<li IfModActive="vanillaexpanded.backgrounds">Mods/Vanilla Backgrounds Expanded/1.5</li>
+
+	<li IfModActive="vanillaexpanded.vanillabackstoriesexpanded">Mods/Vanilla Backstories Expanded/1.5</li>
+
+	<!--<li IfModActive="VanillaExpanded.BaseGeneration">Mods/Vanilla Base Generation Expanded/1.5</li>--><!-- Actuellement rien à traduire -->
+
+	<li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/1.5</li>
+	<li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded/1.5</li>
+
+	<li IfModActive="ve.vanillachristmasexpanded">Mods/Vanilla Christmas Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/1.5</li>
+	<li IfModActive="vanillaexpanded.vcookehaute">Mods/Vanilla Cooking Expanded - Haute/1.5</li>
+	<li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews/1.5</li>
+	<li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded/1.5</li>
+
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Factions Expanded - Ancients/1.5</li>
+	<li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical/1.5</li>
+	<li IfModActive="oskarpotocki.vfe.deserters">Mods/Vanilla Factions Expanded - Deserters/1.5</li>
+	<li IfModActive="oskarpotocki.vfe.empire">Mods/Vanilla Factions Expanded - Empire/1.5</li>
+	<li IfModActive="oskarpotocki.vfe.insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2/1.5</li>
+	<li IfModActive="OskarPotocki.VFE.Mechanoid">Mods/Vanilla Factions Expanded - Mechanoids/1.5</li>
+	<li IfModActive="oskarpotocki.vfe.medieval2">Mods/Vanilla Factions Expanded - Medieval 2/1.5</li>
+	<li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/1.5</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers/1.5</li>
+	<li IfModActive="oskarpotocki.vfe.tribals">Mods/Vanilla Factions Expanded - Tribals/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Fishing Expanded/1.5</li>
+	<!--li IfModActive="VanillaExpanded.VCEFAddon">Mods/Vanilla Fishing Expanded - Fishing Treasures AddOn/1.5</li>--> <!-- Actuellement rien à traduire -->
+
+	<li IfModActive="vanillaexpanded.vanillafoodvarietyexpanded">Mods/Vanilla Food Variety Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded/1.5</li>
+	<li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect/1.5</li>
+	<li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art/1.5</li>
+	<li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming/1.5</li>
+	<li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module/1.5</li>
+	<li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power/1.5</li>
+	<li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production/1.5</li>
+	<li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props and Decor/1.5</li>
+	<li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security/1.5</li>
+	<li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/1.5</li>
+	<li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Genetics Expanded - More Lab Stuff/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads/1.5</li>
+	<li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme/1.5</li><!-- Posera problème si chargé avant VIE Dryads -->
+	<li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags/1.5</li>
+	<li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.5</li>
+	<!--<li IfModActive="VanillaExpanded.Ideo.IconsandSymbols">Mods/Vanilla Ideology Expanded - Icons and Symbols/1.5</li>-->	<!-- Actuellement rien à traduire -->
+	<li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts/1.5</li>
+	<li IfModActive="vanillaexpanded.ideo.sophianstyle">Mods/Vanilla Ideology Expanded - Sophian Style/1.5</li>
+	<li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms/1.5</li>
+
+	<li IfModActive="vanillaexpanded.vnutriente">Mods/Vanilla Nutrient Paste Expanded/1.5</li>
+
+	<li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded/1.5</li>
+	<li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants/1.5</li>
+	<li IfModActive="vanillaexpanded.vplantsemushrooms">Mods/Vanilla Plants Expanded - Mushrooms/1.5</li>
+	<li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VPsycastsE">Mods/Vanilla Psycasts Expanded/1.5</li>
+	<li IfModActive="vanillaexpanded.vpe.hemosage">Mods/Vanilla Psycasts Expanded - Hemosage/1.5</li>
+	<li IfModActive="vanillaexpanded.vpe.puppeteer">Mods/Vanilla Psycasts Expanded - Puppeteer/1.5</li>
+
+	<li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge/1.5</li>
+	<li IfModActive="vanillaquestsexpanded.deadlife">Mods/Vanilla Quests Expanded - Deadlife/1.5</li>
+	<li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator/1.5</li>
+
+	<li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android/1.5</li>
+	<li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Races Expanded - Archon/1.5</li>
+	<!--li IfModActive="vanillaracesexpanded.customicons">Mods/Vanilla Races Expanded - Custom Icons/1.5</li-->	<!-- Actuellement rien à traduire -->
+	<li IfModActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Fungoid/1.5</li>
+	<li IfModActive="vanillaracesexpanded.genie">Mods/Vanilla Races Expanded - Genie/1.5</li>
+	<li IfModActive="vanillaracesexpanded.highmate">Mods/Vanilla Races Expanded - Highmate/1.5</li>
+	<li IfModActive="vanillaracesexpanded.hussar">Mods/Vanilla Races Expanded - Hussar/1.5</li>
+	<li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector/1.5</li>
+	<li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope/1.5</li>
+	<li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin/1.5</li>
+	<li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin/1.5</li>
+	<li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage/1.5</li>
+	<li IfModActive="vanillaracesexpanded.saurid">Mods/Vanilla Races Expanded - Saurid/1.5</li>
+	<li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster/1.5</li>
+
+	<li IfModActive="vanillaexpanded.recycling">Mods/Vanilla Recycling Expanded/1.5</li>
+
+	<li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded/1.5</li>
+
+	<li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent/1.5</li>
+	<li IfModActive="vanillastorytellersexpanded.winstonwaves">Mods/Vanilla Storytellers Expanded - Winston Waves/1.5</li>
+
+	<li IfModActive="vanillaexpanded.temperature">Mods/Vanilla Temperature Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Mods/Vanilla Traits Expanded/1.5</li>
+
+	<li IfModActive="oskarpotocki.vanillavehiclesexpanded">Mods/Vanilla Vehicles Expanded/1.5</li>
+	<li IfModActive="oskarpotocki.vanillavehiclesexpandedtier3">Mods/Vanilla Vehicles Expanded - Tier 3/1.5</li>
+	<li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades/1.5</li>
+
+	<li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/1.5</li>
+	<li IfModActive="vanillaexpanded.vwebf">Mods/Vanilla Weapons Expanded - Bioferrite/1.5</li>
+	<li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns/1.5</li>
+	<li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/1.5</li>
+	<li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades/1.5</li>
+	<li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons/1.5</li>
+	<li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser/1.5</li>
+	<li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift/1.5</li>
+	<li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal/1.5</li>
+	<li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Quickdraw/1.5</li>
+	<li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal/1.5</li>
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Achievements Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VARME">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Armour Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="vanillaexpanded.vgeneticse">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Genetics Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Weapons Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Apparel Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="kikohi.jewelry">Mods/Vanilla Achievements Expanded/1.5/Mods/Jewelry</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sarg.alphaanimals">Mods/Vanilla Achievements Expanded/1.5/Mods/Alpha Animals</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sarg.magicalmenagerie">Mods/Vanilla Achievements Expanded/1.5/Mods/Alpha Mythology</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="novacube.cubee">Mods/Vanilla Achievements Expanded/1.5/Mods/Novacube Cubee</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="farxmai2.vanillaitemsexpandedpack">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Items Expanded Pack</li>
+		<li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded/1.5/Mods/Vanilla Achievements Expanded</li><!-- Ajout de HF -->
+
+	<!-- Fin Mod : Vanilla Achievements Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Mechanoids +++++ -->
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/Biotech</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/Vanilla Brewing Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/Vanilla Brewing Expanded - Coffees and Teas</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="punkyroo.biotechmechvfemechanoid">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/Biotech - VFE Mechanoid Patch</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="seos.vfe.mechanoids.tab">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/VFE - Mechanoids Tab</li>
+		<li MayRequire="OskarPotocki.VFE.Mechanoid" IfModActive="seos.vfe.mechanoids.drones">Mods/Vanilla Factions Expanded - Mechanoids/1.5/Mods/VFE - Mechanoids Drones</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Mechanoids -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Grenades +++++ -->
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Weapons Expanded - Grenades/1.5/Mods/Vanilla Factions Expanded - Settlers</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Grenades/1.5/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded - Grenades/1.5/Mods/Vanilla Weapons Expanded</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Grenades -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Frontier +++++ -->
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Frontier/1.5/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Frontier/1.5/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Frontier/1.5/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Frontier/1.5/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Frontier -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/1.5/Mods/Vanilla Plants Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Brewing Expanded/1.5/Mods/Vanilla Factions Expanded - Settlers</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded - Coffees and Teas +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.5/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded - Coffees and Teas -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Cooking Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphaanimals">Mods/Vanilla Cooking Expanded/1.5/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphabiomes">Mods/Vanilla Cooking Expanded/1.5/Mods/Alpha Biomes</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/1.5/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/1.5/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Cooking Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Outposts Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.outposts" IfModActive="vanillaexpanded.vcef">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="vanillaexpanded.outposts" IfModActive="oskarpotocki.vfe.mechanoid">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Factions Expanded - Mechanoids</li>
+		<li IfModActive="mlie.vanillaoutpostsexpandedexpandedranch">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Outposts Expanded Expanded Ranch (Continued)</li>
+		<li IfModActive="mrhydralisk.voeadditionaloutposts">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Outposts Expanded Additional Outposts</li>
+		<!--li IfModActive="mrhydralisk.voedeliverylogistics">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Outposts Expanded: Delivery Logistics</li> Rien à traduire -->
+		<li IfModActive="mrhydralisk.voepowergrid">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Outposts Expanded Power Grid</li>
+		<li IfModActive="mrhydralisk.voeprisonerpatch">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Outposts Expanded Prisoner Patch</li>
+		<!--li IfModActive="kuhlyus.modpatch.vanillaoutpost">Mods/Vanilla Outposts Expanded/1.5/Mods/Vanilla Mining Outpost Patch</li> Rien à traduire -->
+
+	<!-- Fin Mod : Vanilla Outposts Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Anima Theme +++++ -->
+		<li MayRequire="VanillaExpanded.VIEAT" IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Anima Theme/1.5/Mods/Vanilla Ideology Expanded - Dryads</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Anima Theme -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Pirates +++++ -->
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/1.5/Mods/Ideology</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Factions Expanded - Pirates/1.5/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Factions Expanded - Pirates/1.5/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Factions Expanded - Pirates/1.5/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Factions Expanded - Pirates/1.5/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="ia.royalwarcasket.rw">Mods/Vanilla Factions Expanded - Pirates/1.5/Mods/Imperial Arsenal Royal Warcasket</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Pirates -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Fishing Expanded +++++ -->
+		<li IfModNotActive="sierra.rt.vanillatraitcolors">Mods/Vanilla Fishing Expanded/1.5/Mods/Vanilla Fishing Expanded</li>  <!-- Si le mod "RimTraits - Vanilla Trait Colors" n'est pas présent alors il change ce dossier -->
+
+	<!-- Fin Mod : Vanilla Fishing Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Traits Expanded +++++ -->
+		<li IfModNotActive="sierra.rt.vanillatraitcolors">Mods/Vanilla Traits Expanded/1.5/Mods/Vanilla Traits Expanded</li>  <!-- Si le mod "RimTraits - Vanilla Trait Colors" n'est pas présent alors il change ce dossier -->
+
+	<!-- Fin Mod : Vanilla Traits Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Storytellers Expanded - Winston Waves +++++ -->
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Storytellers Expanded - Winston Waves/1.5/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="VanillaExpanded.VFEA">Mods/Vanilla Storytellers Expanded - Winston Waves/1.5/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="OskarPotocki.VFE.Mechanoid">Mods/Vanilla Storytellers Expanded - Winston Waves/1.5/Mods/Vanilla Factions Expanded - Mechanoids</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Storytellers Expanded - Winston Waves/1.5/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Storytellers Expanded - Winston Waves/1.5/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="sarg.alphaanimals">Mods/Vanilla Storytellers Expanded - Winston Waves/1.5/Mods/Alpha Animals</li>
+
+	<!-- Fin Mod : Vanilla Storytellers Expanded - Winston Waves -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Plants Expanded - More Plants +++++ -->
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Plants Expanded - More Plants/1.5/Mods/Vanilla Cooking Expanded - Sushi</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="dismarzero.VGP.VGPVegetableGarden">Mods/Vanilla Plants Expanded - More Plants/1.5/Mods/VGP Vegetable Garden</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - More Plants/1.5/Mods/Vanilla Plants Expanded - Succulents</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Plants Expanded - More Plants/1.5/Mods/Ideology</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="oskarpotocki.vfe.medieval2">Mods/Vanilla Plants Expanded - More Plants/1.5/Mods/Vanilla Factions Expanded - Medieval 2</li>
+
+	<!-- Fin Mod : Vanilla Plants Expanded - More Plants -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Memes and Structures +++++ -->
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="sarg.alphaanimals">Mods/Vanilla Ideology Expanded - Memes and Structures/1.5/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.5/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Ideology Expanded - Memes and Structures/1.5/Mods/Vanilla Fishing Expanded</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Memes and Structures -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Backgrounds Expanded +++++ 
+		<li MayRequire="vanillaexpanded.backgrounds" IfModActive="kentington.saveourship2">Mods/Vanilla Backgrounds Expanded/1.5/Mods/Save our Ship 2</li>-->
+
+	<!-- Fin Mod : Vanilla Backgrounds Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Genetics Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Genetics Expanded/1.5/Mods/Ideology</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="sarg.alphaanimals">Mods/Vanilla Genetics Expanded/1.5/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModNotActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Genetics Expanded/1.5/Mods/Vanilla Chemfuel Expanded NOT</li>
+
+	<!-- Fin Mod : Vanilla Genetics Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Psycasts Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="sarg.alphaanimals">Mods/Vanilla Psycasts Expanded/1.5/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vfea">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="oskarpotocki.vfe.mechanoid">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Factions Expanded - Mechanoids</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="oskarpotocki.vfe.pirates">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Factions Expanded - Pirates</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vfesecurity">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Furniture Expanded - Security</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vgeneticse">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Genetics Expanded</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vwec">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaexpanded.vwehw">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li IfModActive="wzx.protoss.psycasts">Mods/Vanilla Psycasts Expanded/1.5/Mods/Protoss's Psycasts</li>
+		<li IfModActive="aranmaho.rangerclass">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Ranger</li>
+		<li IfModActive="aranmaho.ravenouseye.wildhunter.psycast">Mods/Vanilla Psycasts Expanded/1.5/Mods/Wildheart Psycast</li>
+		<li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Races Expanded - Archon</li>
+		<li IfModActive="chairheir.vperunesmith">Mods/Vanilla Psycasts Expanded/1.5/Mods/Vanilla Psycasts Expanded - Runesmith</li>
+		<li IfModActive="vpe.horaxian.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Horaxian</li>
+		<li IfModActive="vpe.mechanitor.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Mechanitor</li>
+		<li IfModActive="vpe.bugmancer.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Bugmancer</li>
+		<li IfModActive="vpe.gauranlen.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Awoken Gauranlen</li>
+		<li IfModActive="vpe.oripathy.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Oripathy</li>
+		<li IfModActive="vpe.anima.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Anima</li>
+		<li IfModActive="vpe.fleshshaper.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Fleshshaper</li>
+		<li IfModActive="vpe.voidweaver.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Voidweaver</li>
+		<li IfModActive="vpe.biohazard.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Biohazard Biosoother</li>
+		<li IfModActive="vpe.deadlife.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Deadlife</li>
+		<li IfModActive="addie.vpesolarhunter">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Solar Hunter</li>
+		<li IfModActive="vpe.arknights.sentinel">Mods/Vanilla Psycasts Expanded/1.5/Mods/VPE - Arknights</li>
+
+	<!-- Fin Mod : Vanilla Psycasts Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Helixien Gas Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.HelixienGas" IfModActive="vanillaexpanded.vfepower">Mods/Vanilla Helixien Gas Expanded/1.5/Mods/Vanilla Furniture Expanded - Power</li>
+
+	<!-- Fin Mod : Vanilla Helixien Gas Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Phytokin +++++ -->
+		<li MayRequire="vanillaracesexpanded.phytokin" IfModActive="ludeon.rimworld.royalty">Mods/Vanilla Races Expanded - Phytokin/1.5/Mods/Royalty</li>
+		<li MayRequire="vanillaracesexpanded.phytokin" IfModActive="ludeon.rimworld.ideology">Mods/Vanilla Races Expanded - Phytokin/1.5/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Phytokin -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Sanguophage +++++ -->
+		<li IfModActive="vanillaracesexpanded.sanguophage" MayRequire="ludeon.rimworld.royalty">Mods/Vanilla Races Expanded - Sanguophage/1.5/Mods/Royalty</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Sanguophage -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Persona Weapons Expanded +++++ -->
+		<li IfModActive="VanillaExpanded.VPersonaWeaponsE" MayRequire="oskarpotocki.vfe.empire">Mods/Vanilla Persona Weapons Expanded/1.5/Mods/Vanilla Factions Expanded - Empire</li>
+
+	<!-- Fin Mod : Vanilla Persona Weapons Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Android +++++ -->
+		<li IfModActive="vanillaracesexpanded.android" MayRequire="Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Android/1.5/Mods/Ideology</li>
+		<li IfModActive="noisykoi.mechandroids">Mods/Vanilla Races Expanded - Android/1.5/Mods/Koi's Mech-Androids</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Android -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Ancients +++++ -->
+		<!--li IfModActive="VanillaExpanded.VFEA" MayRequire="sflegion.vfeea.powerextract">Mods/Vanilla Factions Expanded - Ancients/1.5/Mods/VFEEA - Extract Super-Nanites</li-->
+		<li IfModActive="VanillaExpanded.VFEA" MayRequire="scorpio.ancientscraftable">Mods/Vanilla Factions Expanded - Ancients/1.5/Mods/Ancients Craftable</li>
+		<li IfModActive="VanillaExpanded.VFEA" MayRequire="seos.m.vfea.vault.wnd">Mods/Vanilla Factions Expanded - Ancients/1.5/Mods/VFE - Ancients Vault Wall and Door</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Ancients -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Social Interactions Expanded +++++ -->
+		<li IfModActive="stagz.vsierationaltraitdevelopment">Mods/Vanilla Social Interactions Expanded/1.5/Mods/VSIE - Rational Trait Development</li>
+
+	<!-- Fin Mod : Vanilla Social Interactions Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Plants Expanded - Mushrooms +++++ -->
+		<li IfModActive="vanillaexpanded.vplantsemushrooms" MayRequire="Ludeon.RimWorld.Biotech">Mods/Vanilla Plants Expanded - Mushrooms/1.5/Mods/Biotech</li>
+
+	<!-- Fin Mod : Vanilla Plants Expanded - Mushrooms -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Aspirations Expanded +++++ -->
+		<!-- DLC -->
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Royalty">Mods/Vanilla Aspirations Expanded/1.5/Mods/Royalty</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Ideology">Mods/Vanilla Aspirations Expanded/1.5/Mods/Ideology</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Biotech">Mods/Vanilla Aspirations Expanded/1.5/Mods/Biotech</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Anomaly">Mods/Vanilla Aspirations Expanded/1.5/Mods/Anomaly</li>
+
+		<!-- Alpha -->
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="sarg.alphagenes">Mods/Vanilla Aspirations Expanded/1.5/Mods/Alpha Genes</li>
+
+		<!-- Vanilla Expanded -->
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaexpanded.vaeroy">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Animals Expanded - Royal Animals</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaexpanded.vgeneticse">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Genetics Expanded</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaexpanded.vfea">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Factions Expanded - Ancients</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.classical">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Factions Expanded - Classical</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.deserters">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Factions Expanded - Deserters</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.empire">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Factions Expanded - Empire</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.pirates">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Factions Expanded - Pirates</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.tribals">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Factions Expanded - Tribals</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaracesexpanded.android">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Races Expanded - Android</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaracesexpanded.archon">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Races Expanded - Archon</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaracesexpanded.fungoid">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Races Expanded - Fungoid</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vanillavehiclesexpandedtier3">Mods/Vanilla Aspirations Expanded/1.5/Mods/Vanilla Vehicles Expanded - Tier 3</li>
+
+	<!-- Fin Mod : Vanilla Aspirations Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Bioferrite +++++ -->
+		<li IfModActive="vanillaexpanded.vwebf" MayRequire="vanillaexpanded.vwehw">Mods/Vanilla Weapons Expanded - Bioferrite/1.5/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li IfModActive="vanillaexpanded.vwebf" MayRequire="oskarpotocki.vfe.pirates">Mods/Vanilla Weapons Expanded - Bioferrite/1.5/Mods/Vanilla Factions Expanded - Pirates</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Bioferrite -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Insector +++++ -->
+		<li IfModActive="vanillaracesexpanded.insector" MayRequire="oskarpotocki.vfe.insectoid2">Mods/Vanilla Races Expanded - Insector/1.5/Mods/Vanilla Factions Expanded - Insectoids 2</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Insector -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Medieval 2 +++++ -->
+		<li IfModActive="oskarpotocki.vfe.medieval2" MayRequire="oskarpotocki.vfe.insectoid2">Mods/Vanilla Factions Expanded - Medieval 2/1.5/Mods/Vanilla Factions Expanded - Insectoids 2</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Medieval 2 -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Skills Expanded +++++ -->
+		<!-- Alpha -->
+		<li IfModActive="vanillaexpanded.skills" MayRequire="sarg.rimbees">Mods/Vanilla Skills Expanded/1.5/Mods/Alpha Bees</li>
+		<li IfModActive="vanillaexpanded.skills" MayRequire="sarg.alphacrafts">Mods/Vanilla Skills Expanded/1.5/Mods/Alpha Crafts</li>
+
+		<!-- Vanilla Expanded -->
+		<li IfModActive="vanillaexpanded.skills" MayRequire="vanillaexpanded.vbookse">Mods/Vanilla Skills Expanded/1.5/Mods/Vanilla Books Expanded</li>
+		<li IfModActive="vanillaexpanded.skills" MayRequire="vanillaexpanded.vcooke">Mods/Vanilla Skills Expanded/1.5/Mods/Vanilla Cooking Expanded</li>
+		<li IfModActive="vanillaexpanded.skills" MayRequire="vanillaexpanded.vcef">Mods/Vanilla Skills Expanded/1.5/Mods/Vanilla Fishing Expanded</li>
+		<li IfModActive="vanillaexpanded.skills" MayRequire="vanillaracesexpanded.highmate">Mods/Vanilla Skills Expanded/1.5/Mods/Vanilla Races Expanded - Highmate</li>
+
+	<!-- Fin Mod : Vanilla Skills Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Quests Expanded - Cryptoforge +++++ -->
+		<li IfModActive="smxrez.cryptorestored">Mods/Vanilla Quests Expanded - Cryptoforge/1.5/Mods/Crypto Weapons Restored</li>
+
+	<!-- Fin Mod : Vanilla Quests Expanded - Cryptoforge -->
+
+
+</v1.5>
+<v1.6>
+
+	<!-- Ajoute des options de mod via mes mods de traduction. -->
+		<li>Option</li>
+
+	<!-- +++++ Vanilla Expanded +++++ -->
+
+	<li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Animals Expanded/1.6</li>
+	<li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered/1.6</li>
+	<li IfModActive="VanillaExpanded.VAERoy">Mods/Vanilla Animals Expanded - Royal Animals/1.6</li>
+	<li IfModActive="vanillaexpanded.vaewaste">Mods/Vanilla Animals Expanded - Waste Animals/1.6</li>
+
+	<li IfModActive="vanillaexpanded.vanomalyeinsanity">Mods/Vanilla Anomaly Expanded - Insanity/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded/1.6</li>
+	<li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/1.6</li>
+
+	<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded">Mods/Vanilla Aspirations Expanded/1.6</li>
+
+	<li IfModActive="vanillaexpanded.backgrounds">Mods/Vanilla Backgrounds Expanded/1.6</li>
+
+	<li IfModActive="vanillaexpanded.vanillabackstoriesexpanded">Mods/Vanilla Backstories Expanded/1.6</li>
+
+	<!--<li IfModActive="VanillaExpanded.BaseGeneration">Mods/Vanilla Base Generation Expanded/1.6</li>--><!-- Actuellement rien à traduire -->
+
+	<li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/1.6</li>
+	<li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded/1.6</li>
+
+	<li IfModActive="ve.vanillachristmasexpanded">Mods/Vanilla Christmas Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/1.6</li>
+	<li IfModActive="vanillaexpanded.vcookehaute">Mods/Vanilla Cooking Expanded - Haute/1.6</li>
+	<li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews/1.6</li>
+	<li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded/1.6</li>
+
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/1.6</li>
+
+	<li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical/1.6</li>
+	<li IfModActive="oskarpotocki.vfe.deserters">Mods/Vanilla Factions Expanded - Deserters/1.6</li>
+	<li IfModActive="oskarpotocki.vfe.empire">Mods/Vanilla Factions Expanded - Empire/1.6</li>
+	<li IfModActive="oskarpotocki.vfe.insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2/1.6</li>
+	<li IfModActive="oskarpotocki.vfe.medieval2">Mods/Vanilla Factions Expanded - Medieval 2/1.6</li>
+	<li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/1.6</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers/1.6</li>
+	<li IfModActive="oskarpotocki.vfe.tribals">Mods/Vanilla Factions Expanded - Tribals/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Fishing Expanded/1.6</li>
+	<!--li IfModActive="VanillaExpanded.VCEFAddon">Mods/Vanilla Fishing Expanded - Fishing Treasures AddOn/1.6</li>--> <!-- Actuellement rien à traduire -->
+
+	<li IfModActive="vanillaexpanded.vanillafoodvarietyexpanded">Mods/Vanilla Food Variety Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded/1.6</li>
+	<li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect/1.6</li>
+	<li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art/1.6</li>
+	<li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming/1.6</li>
+	<li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module/1.6</li>
+	<li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power/1.6</li>
+	<li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production/1.6</li>
+	<li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props and Decor/1.6</li>
+	<li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/1.6</li>
+	<li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Genetics Expanded - More Lab Stuff/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads/1.6</li>
+	<li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme/1.6</li><!-- Posera problème si chargé avant VIE Dryads -->
+	<li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags/1.6</li>
+	<li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.6</li>
+	<!--<li IfModActive="VanillaExpanded.Ideo.IconsandSymbols">Mods/Vanilla Ideology Expanded - Icons and Symbols/1.6</li>-->	<!-- Actuellement rien à traduire -->
+	<li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts/1.6</li>
+	<li IfModActive="vanillaexpanded.ideo.sophianstyle">Mods/Vanilla Ideology Expanded - Sophian Style/1.6</li>
+	<li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms/1.6</li>
+
+	<li IfModActive="vanillaexpanded.vnutriente">Mods/Vanilla Nutrient Paste Expanded/1.6</li>
+
+	<li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded/1.6</li>
+	<li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants/1.6</li>
+	<li IfModActive="vanillaexpanded.vplantsemushrooms">Mods/Vanilla Plants Expanded - Mushrooms/1.6</li>
+	<li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VPsycastsE">Mods/Vanilla Psycasts Expanded/1.6</li>
+	<li IfModActive="vanillaexpanded.vpe.hemosage">Mods/Vanilla Psycasts Expanded - Hemosage/1.6</li>
+	<li IfModActive="vanillaexpanded.vpe.puppeteer">Mods/Vanilla Psycasts Expanded - Puppeteer/1.6</li>
+
+	<li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge/1.6</li>
+	<li IfModActive="vanillaquestsexpanded.deadlife">Mods/Vanilla Quests Expanded - Deadlife/1.6</li>
+	<li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator/1.6</li>
+
+	<li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android/1.6</li>
+	<li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Races Expanded - Archon/1.6</li>
+	<!--li IfModActive="vanillaracesexpanded.customicons">Mods/Vanilla Races Expanded - Custom Icons/1.6</li-->	<!-- Actuellement rien à traduire -->
+	<li IfModActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Fungoid/1.6</li>
+	<li IfModActive="vanillaracesexpanded.genie">Mods/Vanilla Races Expanded - Genie/1.6</li>
+	<li IfModActive="vanillaracesexpanded.highmate">Mods/Vanilla Races Expanded - Highmate/1.6</li>
+	<li IfModActive="vanillaracesexpanded.hussar">Mods/Vanilla Races Expanded - Hussar/1.6</li>
+	<li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector/1.6</li>
+	<li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope/1.6</li>
+	<li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin/1.6</li>
+	<li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin/1.6</li>
+	<li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage/1.6</li>
+	<li IfModActive="vanillaracesexpanded.saurid">Mods/Vanilla Races Expanded - Saurid/1.6</li>
+	<li IfModActive="vanillaracesexpanded.starjack">Mods/Vanilla Races Expanded - Starjack/1.6</li>
+	<li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster/1.6</li>
+
+	<li IfModActive="vanillaexpanded.recycling">Mods/Vanilla Recycling Expanded/1.6</li>
+
+	<li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded/1.6</li>
+
+	<li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent/1.6</li>
+	<li IfModActive="vanillastorytellersexpanded.winstonwaves">Mods/Vanilla Storytellers Expanded - Winston Waves/1.6</li>
+
+	<li IfModActive="vanillaexpanded.temperature">Mods/Vanilla Temperature Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded/1.6</li>
+	<li IfModActive="vanillaexpanded.vtexvariations">Mods/Vanilla Textures Expanded - Variations/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Mods/Vanilla Traits Expanded/1.6</li>
+
+	<li IfModActive="oskarpotocki.vanillavehiclesexpanded">Mods/Vanilla Vehicles Expanded/1.6</li>
+	<li IfModActive="oskarpotocki.vanillavehiclesexpandedtier3">Mods/Vanilla Vehicles Expanded - Tier 3/1.6</li>
+	<li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades/1.6</li>
+
+	<li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/1.6</li>
+	<li IfModActive="vanillaexpanded.vwebf">Mods/Vanilla Weapons Expanded - Bioferrite/1.6</li>
+	<li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns/1.6</li>
+	<li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/1.6</li>
+	<li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades/1.6</li>
+	<li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons/1.6</li>
+	<li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser/1.6</li>
+	<li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift/1.6</li>
+	<li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal/1.6</li>
+	<li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Quickdraw/1.6</li>
+	<li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal/1.6</li>
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Achievements Expanded +++++ -->
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VARME">Mods/Vanilla Achievements Expanded/1.6/Mods/Vanilla Armour Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Achievements Expanded/1.6/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="vanillaexpanded.vgeneticse">Mods/Vanilla Achievements Expanded/1.6/Mods/Vanilla Genetics Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Achievements Expanded/1.6/Mods/Vanilla Weapons Expanded</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="kikohi.jewelry">Mods/Vanilla Achievements Expanded/1.6/Mods/Jewelry</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="sarg.alphaanimals">Mods/Vanilla Achievements Expanded/1.6/Mods/Alpha Animals</li>
+		<li MayRequire="vanillaexpanded.achievements" IfModActive="novacube.cubee">Mods/Vanilla Achievements Expanded/1.6/Mods/Novacube Cubee</li>
+		<li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded/1.6/Mods/Vanilla Achievements Expanded</li><!-- Ajout de HF -->
+
+	<!-- Fin Mod : Vanilla Achievements Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Aspirations Expanded +++++ -->
+		<!-- DLC -->
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Royalty">Mods/Vanilla Aspirations Expanded/1.6/Mods/Royalty</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Ideology">Mods/Vanilla Aspirations Expanded/1.6/Mods/Ideology</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Biotech">Mods/Vanilla Aspirations Expanded/1.6/Mods/Biotech</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="Ludeon.RimWorld.Anomaly">Mods/Vanilla Aspirations Expanded/1.6/Mods/Anomaly</li>
+
+		<!-- Alpha -->
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="sarg.alphagenes">Mods/Vanilla Aspirations Expanded/1.6/Mods/Alpha Genes</li>
+
+		<!-- Vanilla Expanded -->
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaexpanded.vaeroy">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Animals Expanded - Royal Animals</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaexpanded.vgeneticse">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Genetics Expanded</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.classical">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Factions Expanded - Classical</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.deserters">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Factions Expanded - Deserters</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.empire">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Factions Expanded - Empire</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.pirates">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Factions Expanded - Pirates</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vfe.tribals">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Factions Expanded - Tribals</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaracesexpanded.android">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Races Expanded - Android</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaracesexpanded.archon">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Races Expanded - Archon</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="vanillaracesexpanded.fungoid">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Races Expanded - Fungoid</li>
+		<li IfModActive="vanillaexpanded.vanillaaspirationsexpanded" MayRequire="oskarpotocki.vanillavehiclesexpandedtier3">Mods/Vanilla Aspirations Expanded/1.6/Mods/Vanilla Vehicles Expanded - Tier 3</li>
+
+	<!-- Fin Mod : Vanilla Aspirations Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Backgrounds Expanded +++++ 
+		<li MayRequire="vanillaexpanded.backgrounds" IfModActive="kentington.saveourship2">Mods/Vanilla Backgrounds Expanded/1.6/Mods/Save our Ship 2</li>-->
+
+	<!-- Fin Mod : Vanilla Backgrounds Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/1.6/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/1.6/Mods/Vanilla Plants Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewE" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Brewing Expanded/1.6/Mods/Vanilla Factions Expanded - Settlers</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Brewing Expanded - Coffees and Teas +++++ -->
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.6/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VBrewECandT" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/1.6/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Brewing Expanded - Coffees and Teas -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Cooking Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphaanimals">Mods/Vanilla Cooking Expanded/1.6/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="sarg.alphabiomes">Mods/Vanilla Cooking Expanded/1.6/Mods/Alpha Biomes</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/1.6/Mods/Vanilla Fishing Expanded</li>
+		<li MayRequire="VanillaExpanded.VCookE" IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/1.6/Mods/Vanilla Plants Expanded</li>
+
+	<!-- Fin Mod : Vanilla Cooking Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Medieval 2 +++++ -->
+		<li IfModActive="oskarpotocki.vfe.medieval2" MayRequire="oskarpotocki.vfe.insectoid2">Mods/Vanilla Factions Expanded - Medieval 2/1.6/Mods/Vanilla Factions Expanded - Insectoids 2</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Medieval 2 -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Factions Expanded - Pirates +++++ -->
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/1.6/Mods/Ideology</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Factions Expanded - Pirates/1.6/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Factions Expanded - Pirates/1.6/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Factions Expanded - Pirates/1.6/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="OskarPotocki.VFE.Pirates" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Factions Expanded - Pirates/1.6/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+
+	<!-- Fin Mod : Vanilla Factions Expanded - Pirates -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Fishing Expanded +++++ -->
+		<li IfModNotActive="sierra.rt.vanillatraitcolors">Mods/Vanilla Fishing Expanded/1.6/Mods/Vanilla Fishing Expanded</li>  <!-- Si le mod "RimTraits - Vanilla Trait Colors" n'est pas présent alors il change ce dossier -->
+
+	<!-- Fin Mod : Vanilla Fishing Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Genetics Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Genetics Expanded/1.6/Mods/Ideology</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/1.6/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModActive="sarg.alphaanimals">Mods/Vanilla Genetics Expanded/1.6/Mods/Alpha Animals</li>
+		<li MayRequire="VanillaExpanded.VGeneticsE" IfModNotActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Genetics Expanded/1.6/Mods/Vanilla Chemfuel Expanded NOT</li>
+
+	<!-- Fin Mod : Vanilla Genetics Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Helixien Gas Expanded +++++ -->
+		<li MayRequire="VanillaExpanded.HelixienGas" IfModActive="vanillaexpanded.vfepower">Mods/Vanilla Helixien Gas Expanded/1.6/Mods/Vanilla Furniture Expanded - Power</li>
+
+	<!-- Fin Mod : Vanilla Helixien Gas Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Anima Theme +++++ -->
+		<li MayRequire="VanillaExpanded.VIEAT" IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Anima Theme/1.6/Mods/Vanilla Ideology Expanded - Dryads</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Anima Theme -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Ideology Expanded - Memes and Structures +++++ -->
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="sarg.alphamemes">Mods/Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/Alpha Memes</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/Vanilla Fishing Expanded</li>
+
+	<!-- Fin Mod : Vanilla Ideology Expanded - Memes and Structures -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Outposts Expanded +++++ -->
+		<li IfModActive="mlie.vanillaoutpostsexpandedexpandedranch">Mods/Vanilla Outposts Expanded/1.6/Mods/Vanilla Outposts Expanded Expanded Ranch (Continued)</li>
+		<li IfModActive="mrhydralisk.voeadditionaloutposts">Mods/Vanilla Outposts Expanded/1.6/Mods/Vanilla Outposts Expanded Additional Outposts</li>
+		<!--li IfModActive="mrhydralisk.voedeliverylogistics">Mods/Vanilla Outposts Expanded/1.6/Mods/Vanilla Outposts Expanded: Delivery Logistics</li> Rien à traduire -->
+		<li IfModActive="mrhydralisk.voepowergrid">Mods/Vanilla Outposts Expanded/1.6/Mods/Vanilla Outposts Expanded Power Grid</li>
+		<li IfModActive="mrhydralisk.voeprisonerpatch">Mods/Vanilla Outposts Expanded/1.6/Mods/Vanilla Outposts Expanded Prisoner Patch</li>
+		<!--li IfModActive="kuhlyus.modpatch.vanillaoutpost">Mods/Vanilla Outposts Expanded/1.6/Mods/Vanilla Mining Outpost Patch</li> Rien à traduire -->
+
+	<!-- Fin Mod : Vanilla Outposts Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Persona Weapons Expanded +++++ -->
+		<li IfModActive="VanillaExpanded.VPersonaWeaponsE" MayRequire="oskarpotocki.vfe.empire">Mods/Vanilla Persona Weapons Expanded/1.6/Mods/Vanilla Factions Expanded - Empire</li>
+
+	<!-- Fin Mod : Vanilla Persona Weapons Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Plants Expanded - More Plants +++++ -->
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/1.6/Mods/Vanilla Cooking Expanded</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="dismarzero.VGP.VGPVegetableGarden">Mods/Vanilla Plants Expanded - More Plants/1.6/Mods/VGP Vegetable Garden</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - More Plants/1.6/Mods/Vanilla Plants Expanded - Succulents</li>
+		<li MayRequire="VanillaExpanded.VPlantsEMore" IfModActive="Ludeon.RimWorld.Ideology">Mods/Vanilla Plants Expanded - More Plants/1.6/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Plants Expanded - More Plants -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Plants Expanded - Mushrooms +++++ -->
+		<li IfModActive="vanillaexpanded.vplantsemushrooms" MayRequire="Ludeon.RimWorld.Biotech">Mods/Vanilla Plants Expanded - Mushrooms/1.6/Mods/Biotech</li>
+
+	<!-- Fin Mod : Vanilla Plants Expanded - Mushrooms -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Psycasts Expanded +++++ -->
+        <li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="sarg.alphaanimals">Mods/Vanilla Psycasts Expanded/1.6/Mods/Alpha Animals</li>
+        <li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="oskarpotocki.vfe.empire">Mods/Vanilla Psycasts Expanded/1.6/Mods/Vanilla Factions Expanded - Empire</li>
+        <li MayRequire="VanillaExpanded.VPsycastsE" IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Psycasts Expanded/1.6/Mods/Vanilla Races Expanded - Archon</li>
+        <li IfModActive="chairheir.vperunesmith">Mods/Vanilla Psycasts Expanded/1.6/Mods/Vanilla Psycasts Expanded - Runesmith</li>
+        <li IfModActive="vpe.anima.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Anima</li>
+        <li IfModActive="vpe.arknights.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Arknights</li>
+        <li IfModActive="vpe.gauranlen.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Awoken Gauranlen</li>
+        <li IfModActive="vpe.biohazard.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Biohazard Biosoother</li>
+        <li IfModActive="vpe.bugmancer.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Bugmancer</li>
+        <li IfModActive="vpe.deadlife.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Deadlife</li>
+        <li IfModActive="vpe.fleshshaper.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Fleshshaper</li>
+        <li IfModActive="vpe.horaxian.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Horaxian</li>
+        <li IfModActive="vpe.mechanitor.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Mechanitor</li>
+        <li IfModActive="vpe.oripathy.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Oripathy</li>
+        <li IfModActive="vpe.voidweaver.sentinel">Mods/Vanilla Psycasts Expanded/1.6/Mods/VPE - Voidweaver</li>
+
+	<!-- Fin Mod : Vanilla Psycasts Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Quests Expanded - Cryptoforge +++++ -->
+		<li IfModActive="smxrez.cryptorestored">Mods/Vanilla Quests Expanded - Cryptoforge/1.6/Mods/Crypto Weapons Restored</li>
+
+	<!-- Fin Mod : Vanilla Quests Expanded - Cryptoforge -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Android +++++ -->
+		<li IfModActive="vanillaracesexpanded.android" MayRequire="Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Android/1.6/Mods/Ideology</li>
+		<li IfModActive="noisykoi.mechandroids">Mods/Vanilla Races Expanded - Android/1.6/Mods/Koi's Mech-Androids</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Android -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Insector +++++ -->
+		<li IfModActive="vanillaracesexpanded.insector" MayRequire="oskarpotocki.vfe.insectoid2">Mods/Vanilla Races Expanded - Insector/1.6/Mods/Vanilla Factions Expanded - Insectoids 2</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Insector -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Phytokin +++++ -->
+		<li MayRequire="vanillaracesexpanded.phytokin" IfModActive="ludeon.rimworld.royalty">Mods/Vanilla Races Expanded - Phytokin/1.6/Mods/Royalty</li>
+		<li MayRequire="vanillaracesexpanded.phytokin" IfModActive="ludeon.rimworld.ideology">Mods/Vanilla Races Expanded - Phytokin/1.6/Mods/Ideology</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Phytokin -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Races Expanded - Sanguophage +++++ -->
+		<li IfModActive="vanillaracesexpanded.sanguophage" MayRequire="ludeon.rimworld.royalty">Mods/Vanilla Races Expanded - Sanguophage/1.6/Mods/Royalty</li>
+
+	<!-- Fin Mod : Vanilla Races Expanded - Sanguophage -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Skills Expanded +++++ -->
+		<!-- Alpha -->
+		<li IfModActive="vanillaexpanded.skills" MayRequire="sarg.rimbees">Mods/Vanilla Skills Expanded/1.6/Mods/Alpha Bees</li>
+		<li IfModActive="vanillaexpanded.skills" MayRequire="sarg.alphacrafts">Mods/Vanilla Skills Expanded/1.6/Mods/Alpha Crafts</li>
+		<!-- Vanilla Expanded -->
+		<li IfModActive="vanillaexpanded.skills" MayRequire="vanillaexpanded.vbookse">Mods/Vanilla Skills Expanded/1.6/Mods/Vanilla Books Expanded</li>
+		<li IfModActive="vanillaexpanded.skills" MayRequire="vanillaexpanded.vcooke">Mods/Vanilla Skills Expanded/1.6/Mods/Vanilla Cooking Expanded</li>
+
+	<!-- Fin Mod : Vanilla Skills Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Social Interactions Expanded +++++ -->
+		<li IfModActive="stagz.vsierationaltraitdevelopment">Mods/Vanilla Social Interactions Expanded/1.6/Mods/VSIE - Rational Trait Development</li>
+
+	<!-- Fin Mod : Vanilla Social Interactions Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Storytellers Expanded - Winston Waves +++++ -->
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Storytellers Expanded - Winston Waves/1.6/Mods/Vanilla Books Expanded</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Storytellers Expanded - Winston Waves/1.6/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Storytellers Expanded - Winston Waves/1.6/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="vanillastorytellersexpanded.winstonwaves" IfModActive="sarg.alphaanimals">Mods/Vanilla Storytellers Expanded - Winston Waves/1.6/Mods/Alpha Animals</li>
+
+	<!-- Fin Mod : Vanilla Storytellers Expanded - Winston Waves -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Traits Expanded +++++ -->
+		<li IfModNotActive="sierra.rt.vanillatraitcolors">Mods/Vanilla Traits Expanded/1.6/Mods/Vanilla Traits Expanded</li>  <!-- Si le mod "RimTraits - Vanilla Trait Colors" n'est pas présent alors il change ce dossier -->
+
+	<!-- Fin Mod : Vanilla Traits Expanded -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Bioferrite +++++ -->
+		<li IfModActive="vanillaexpanded.vwebf" MayRequire="vanillaexpanded.vwehw">Mods/Vanilla Weapons Expanded - Bioferrite/1.6/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li IfModActive="vanillaexpanded.vwebf" MayRequire="oskarpotocki.vfe.pirates">Mods/Vanilla Weapons Expanded - Bioferrite/1.6/Mods/Vanilla Factions Expanded - Pirates</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Bioferrite -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Frontier +++++ -->
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Frontier/1.6/Mods/Vanilla Weapons Expanded - Coilguns</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Frontier/1.6/Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Frontier/1.6/Mods/Vanilla Weapons Expanded - Laser</li>
+		<li MayRequire="VanillaExpanded.VWEFT" IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Frontier/1.6/Mods/Vanilla Weapons Expanded - Quickdraw</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Frontier -->
+
+
+	<!-- +++++ Ajouté par le Mod : Vanilla Weapons Expanded - Grenades +++++ -->
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Weapons Expanded - Grenades/1.6/Mods/Vanilla Factions Expanded - Settlers</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Grenades/1.6/Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+		<li MayRequire="VanillaExpanded.VWEG" IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded - Grenades/1.6/Mods/Vanilla Weapons Expanded</li>
+
+	<!-- Fin Mod : Vanilla Weapons Expanded - Grenades -->
+
+
+</v1.6>
+</loadFolders>

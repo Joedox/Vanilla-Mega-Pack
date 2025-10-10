@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VPWE.GainedPersonaWeaponTitle>Arme consciente pour {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
+<VPWE.GainedPersonaWeaponDesc>En atteignant le rang {1} dans l'Empire, {PAWN_nameDef} peut désormais se voir attribuer une arme consciente ultratech qui lui est liée.
+Vous pouvez sélectionner le type d'arme, ainsi que personnaliser entièrement son apparence et sa consciente. Vous pouvez également fermer cette notification et y revenir plus tard.
+L'arme arrivera immédiatement par capsule et sera liée à {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+<VPWE.ClaimWeapon>Réclamer {0}</VPWE.ClaimWeapon>
+<VPWE.Postpone>Reporter</VPWE.Postpone>
+<VPWE.ClaimFor>Réclamer pour {PAWN_nameDef}</VPWE.ClaimFor>
+<VPWE.Persona>Conscience : </VPWE.Persona>
+<VPWE.AlreadyBondedWarning>{PAWN_nameDef} est déjà lié à {1}. Etes-vous sûr de vouloir réclamer une nouvelle arme consciente ?</VPWE.AlreadyBondedWarning>
+<VPWE.ReceivedWeaponTitle>Capsule de transport (arme consciente)</VPWE.ReceivedWeaponTitle>
+<VPWE.ReceivedWeaponDesc>{0} pour {PAWN_nameDef} est arrivé à proximité.</VPWE.ReceivedWeaponDesc>
+<VPWE.Psycast>Psysort : </VPWE.Psycast>
+
+
+</LanguageData>

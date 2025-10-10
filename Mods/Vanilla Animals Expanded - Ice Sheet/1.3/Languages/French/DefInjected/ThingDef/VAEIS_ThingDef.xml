@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<AEXP_WalrusTusk.label>défense de morse</AEXP_WalrusTusk.label>
+<AEXP_WalrusTusk.description>Une défense de morse. Elle a une grande valeur, mais elle est peu maniable comme arme de mêlée.</AEXP_WalrusTusk.description>
+<AEXP_WalrusTusk.tools.point.label>pointe</AEXP_WalrusTusk.tools.point.label>
+<AEXP_WalrusTusk.tools.base.label>base</AEXP_WalrusTusk.tools.base.label>
+
+<AEXP_EggPenguinFertilized.label>œuf de manchot (fécondé)</AEXP_EggPenguinFertilized.label>
+<AEXP_EggPenguinFertilized.description>Un œuf de manchot fécondé. Si tout se passe bien, il devrait éclore en un bébé manchot. Peut être mangé cru, mais c’est meilleur lorsqu’il est cuit.</AEXP_EggPenguinFertilized.description>
+
+<AEXP_RawFish.label>poisson cru</AEXP_RawFish.label>
+<AEXP_RawFish.description>Du poisson cru. Un manchot débrouillard a pêché ça.</AEXP_RawFish.description>
+<AEXP_RawFish.tools.raw_fish.label>poisson cru</AEXP_RawFish.tools.raw_fish.label>
+
+<AEXP_Leather_Pinniped.label>cuir de pinnipède</AEXP_Leather_Pinniped.label>
+<AEXP_Leather_Pinniped.description>Cuir tanné et séché provenant d'un pinnipède. Il est d'une résistance moyenne mais isole bien de la chaleur.</AEXP_Leather_Pinniped.description>
+
+<AEXP_Penguin.label>manchot</AEXP_Penguin.label>
+<AEXP_Penguin.description>Un oiseau aquatique, incapable de voler, que l'on ne trouve que dans les régions Antarctiques. Souvent observés en bandes massives, les manchots sont féroces lorsqu'ils sont acculés, et peuvent rapidement écraser tout chasseur assez imprudent s'approchant d'eux.</AEXP_Penguin.description>
+<AEXP_Penguin.tools.claws.label>griffes</AEXP_Penguin.tools.claws.label>
+<AEXP_Penguin.tools.beak.label>bec</AEXP_Penguin.tools.beak.label>
+<AEXP_Penguin.tools.head.label>tête</AEXP_Penguin.tools.head.label>
+
+<AEXP_Seal.label>phoque</AEXP_Seal.label>
+<AEXP_Seal.description>Mammifère semi-aquatique de taille moyenne, qui ne vient sur le rivage que pour se nourrir, s'accoupler et échapper aux prédateurs. Chasseurs agressifs, les phoques sont capables de s'attaquer à des proies beaucoup plus grosses et sont connus pour pratiquer le cannibalisme si la nourriture est rare.</AEXP_Seal.description>
+<AEXP_Seal.race.meatLabel>viande de pinnipède</AEXP_Seal.race.meatLabel>
+<AEXP_Seal.tools.left_foreflipper.label>nageoire avant gauche</AEXP_Seal.tools.left_foreflipper.label>
+<AEXP_Seal.tools.right_foreflipper.label>nageoire avant droite</AEXP_Seal.tools.right_foreflipper.label>
+<AEXP_Seal.tools.head.label>tête</AEXP_Seal.tools.head.label>
+
+<AEXP_Walrus.label>morse</AEXP_Walrus.label>
+<AEXP_Walrus.description>Grand animal marin que l'on ne trouve que dans les régions arctiques de la planète, le morse possède des défenses proéminentes qui sont un bien de luxe précieux sur toute la planète.</AEXP_Walrus.description>
+<AEXP_Walrus.tools.head.label>tête</AEXP_Walrus.tools.head.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: blood moon -->
+<VRE_BloodMoonCondition.label>lune de sang</VRE_BloodMoonCondition.label>
+<!-- EN: One of the moons of this planet has orbited into the rimworld’s umbra, making sanguophages go mad with hunger. -->
+<VRE_BloodMoonCondition.description>L'une des lunes de cette planète s'est placée en orbite dans l'ombre du rimworld, ce qui a rendu les sanguophages fous et assoiffés.</VRE_BloodMoonCondition.description>
+<!-- EN: The blood moon has ended. -->
+<VRE_BloodMoonCondition.endMessage>La lune de sang disparaît.</VRE_BloodMoonCondition.endMessage>
+<!-- EN: One of the moons of this planet has orbited into the rimworld’s umbra, blocking all direct sunlight from illuminating the moon’s surface. This resulted in the moon taking on a crimson color - a phenomena known as the blood moon.\n\nDuring this time, sanguophage mechanites will go into overdrive, driving hemogen-starved bloodfeeders out of their caves. Any bloodfeeder sanguophage with less than half hemogen supply gone will enter the hemohunter mental state. Hemogen will drain significantly quicker during blood moon. -->
+<VRE_BloodMoonCondition.letterText>L'une des lunes de cette planète est entrée en orbite dans l'ombre du Rimworld, empêchant la lumière directe du soleil d'éclairer la surface de la lune. La lune prend alors une couleur cramoisie, un phénomène connu sous le nom de "lune de sang".\n\nPendant cette période, les mécanites sanguophages s'emballent, chassant de leurs cavernes les hémogéniques qui se nourrissent de sang. Tout sanguophage se nourrissant de sang et dont la réserve d'hémogène est épuisée à plus de la moitié entre dans l'état mental "chasseur d'hémogène". L'hémogène se vide beaucoup plus rapidement pendant une lune de sang.\n\nLes sanguophages fous et assoiffés peuvent choisir ce moment pour attaquer votre colonie.</VRE_BloodMoonCondition.letterText>
+
+
+</LanguageData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ PawnKinds_Player +++++ -->
+<VFEV_Member.label>membre</VFEV_Member.label>
+<VFEV_Member.labelPlural>membres</VFEV_Member.labelPlural>
+
+		<!-- +++++ PawnKinds_Special +++++ -->
+<VFEV_Slave.label>esclave</VFEV_Slave.label>
+<VFEV_Slave.labelPlural>esclaves</VFEV_Slave.labelPlural>
+
+<VFEV_VikingHero.label>héros</VFEV_VikingHero.label>
+<VFEV_VikingHero.labelFemale>héroïne</VFEV_VikingHero.labelFemale>
+<VFEV_VikingHero.labelPlural>héros</VFEV_VikingHero.labelPlural>
+
+<VFEV_VikingLegend.label>légende</VFEV_VikingLegend.label>
+<VFEV_VikingLegend.labelPlural>légendes</VFEV_VikingLegend.labelPlural>
+		
+		<!-- +++++ PawnKinds_Viking +++++ -->
+<VFEV_Viking_Peasant.label>paysan</VFEV_Viking_Peasant.label>
+<VFEV_Viking_Peasant.labelFemale>paysanne</VFEV_Viking_Peasant.labelFemale>
+<VFEV_Viking_Peasant.labelPlural>paysans</VFEV_Viking_Peasant.labelPlural>
+
+<VFEV_Viking_Merchant.label>marchand</VFEV_Viking_Merchant.label>
+<VFEV_Viking_Merchant.labelFemale>marchande</VFEV_Viking_Merchant.labelFemale>
+<VFEV_Viking_Merchant.labelPlural>marchands</VFEV_Viking_Merchant.labelPlural>
+
+<VFEV_Viking_Slaver.label>marchand d'esclave</VFEV_Viking_Slaver.label>
+<VFEV_Viking_Slaver.labelFemale>marchande d'esclave</VFEV_Viking_Slaver.labelFemale>
+<VFEV_Viking_Slaver.labelPlural>marchands d'esclaves</VFEV_Viking_Slaver.labelPlural>
+
+<VFEV_Raider.label>maraudeur</VFEV_Raider.label>
+<VFEV_Raider.labelFemale>maraudeuse</VFEV_Raider.labelFemale>
+<VFEV_Raider.labelPlural>maraudeurs</VFEV_Raider.labelPlural>
+
+<VFEV_Guardian.label>gardien</VFEV_Guardian.label>
+<VFEV_Guardian.labelFemale>gardienne</VFEV_Guardian.labelFemale>
+<VFEV_Guardian.labelPlural>gardiens</VFEV_Guardian.labelPlural>
+
+<VFEV_Ravager.label>ravageur</VFEV_Ravager.label>
+<VFEV_Ravager.labelFemale>ravageuse</VFEV_Ravager.labelFemale>
+<VFEV_Ravager.labelPlural>ravageurs</VFEV_Ravager.labelPlural>
+
+<VFEV_Berserker.label>berserker</VFEV_Berserker.label>
+<VFEV_Berserker.labelPlural>berserkers</VFEV_Berserker.labelPlural>
+
+<VFEV_Archer.label>archer</VFEV_Archer.label>
+<VFEV_Archer.labelFemale>archère</VFEV_Archer.labelFemale>
+<VFEV_Archer.labelPlural>archers</VFEV_Archer.labelPlural>
+
+<VFEV_Shieldbearer.label>porteur de bouclier</VFEV_Shieldbearer.label>
+<VFEV_Shieldbearer.labelFemale>porteuse de bouclier</VFEV_Shieldbearer.labelFemale>
+<VFEV_Shieldbearer.labelPlural>porteurs de bouclier</VFEV_Shieldbearer.labelPlural>
+
+<VFEV_ShieldedGuardian.label>protecteur</VFEV_ShieldedGuardian.label>
+<VFEV_ShieldedGuardian.labelFemale>protectrice</VFEV_ShieldedGuardian.labelFemale>
+<VFEV_ShieldedGuardian.labelPlural>protecteurs</VFEV_ShieldedGuardian.labelPlural>
+
+<VFEV_ShieldedRavager.label>dévastateur</VFEV_ShieldedRavager.label>
+<VFEV_ShieldedRavager.labelFemale>dévastatrice</VFEV_ShieldedRavager.labelFemale>
+<VFEV_ShieldedRavager.labelPlural>dévastateurs</VFEV_ShieldedRavager.labelPlural>
+
+<VFEV_HousecarlMelee.label>huscarl</VFEV_HousecarlMelee.label>
+<VFEV_HousecarlMelee.labelPlural>huscarls</VFEV_HousecarlMelee.labelPlural>
+
+<VFEV_HousecarlRanged.label>huscarl</VFEV_HousecarlRanged.label>
+<VFEV_HousecarlRanged.labelPlural>huscarls</VFEV_HousecarlRanged.labelPlural>
+
+		<!-- +++++ Animal_Farm +++++ -->
+<VFEV_WoolyCow.label>vache laineuse</VFEV_WoolyCow.label>
+<VFEV_WoolyCow.labelPlural>vaches laineuse</VFEV_WoolyCow.labelPlural>
+<VFEV_WoolyCow.labelMale>taureau laineux</VFEV_WoolyCow.labelMale>
+<VFEV_WoolyCow.labelMalePlural>taureaux laineux</VFEV_WoolyCow.labelMalePlural>
+<VFEV_WoolyCow.lifeStages.calf.label>veau</VFEV_WoolyCow.lifeStages.calf.label>
+<VFEV_WoolyCow.lifeStages.calf.labelPlural>veaux</VFEV_WoolyCow.lifeStages.calf.labelPlural>
+
+		<!-- +++++ Animal_Giant +++++ -->
+<VFEV_Fenrir.label>Fenrir</VFEV_Fenrir.label>
+<VFEV_Fenrir.lifeStages.fenri_puppy.label>louveteau Fenrir</VFEV_Fenrir.lifeStages.fenri_puppy.label>
+<VFEV_Fenrir.lifeStages.fenri_puppy.labelPlural>louveteaux Fenrir</VFEV_Fenrir.lifeStages.fenri_puppy.labelPlural>
+
+<VFEV_Lothurr.label>Lothurr</VFEV_Lothurr.label>
+<VFEV_Lothurr.lifeStages.lothurr_calf.label>bébé Lothurr</VFEV_Lothurr.lifeStages.lothurr_calf.label>
+<VFEV_Lothurr.lifeStages.lothurr_calf.labelPlural>bébés Lothurr</VFEV_Lothurr.lifeStages.lothurr_calf.labelPlural>
+
+<VFEV_Njorun.label>Njörun</VFEV_Njorun.label>
+<VFEV_Njorun.lifeStages.njorun_calf.label>veau Njörun</VFEV_Njorun.lifeStages.njorun_calf.label>
+<VFEV_Njorun.lifeStages.njorun_calf.labelPlural>veaux Njörun</VFEV_Njorun.lifeStages.njorun_calf.labelPlural>
+
+		<!-- +++++ Animal_Pet +++++ -->
+<VFEV_Wolfhound.label>lévrier irlandais</VFEV_Wolfhound.label>
+<VFEV_Wolfhound.lifeStages.wolfhound_puppy.label>chiot lévrier irlandais</VFEV_Wolfhound.lifeStages.wolfhound_puppy.label>
+<VFEV_Wolfhound.lifeStages.wolfhound_puppy.labelPlural>chiots lévrier irlandais</VFEV_Wolfhound.lifeStages.wolfhound_puppy.labelPlural>
+
+		<!-- +++++ Mechanoid +++++ -->
+<VFEV_Mech_Odin.label>Odin</VFEV_Mech_Odin.label>
+
+
+</LanguageData>

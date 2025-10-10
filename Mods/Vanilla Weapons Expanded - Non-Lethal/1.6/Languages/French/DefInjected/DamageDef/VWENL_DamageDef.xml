@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: anasthetic dart -->
+<VWE_AnestheticDart.label>fléchette anesthésiante</VWE_AnestheticDart.label>
+<!-- EN: {0} has been shot to death by an anesthetic dart. -->
+<VWE_AnestheticDart.deathMessage>{0} a été tué par une fléchette anesthésiante.</VWE_AnestheticDart.deathMessage>
+
+<!-- EN: stun -->
+<VWE_ConditionalStun.label>étourdissement</VWE_ConditionalStun.label>
+<!-- EN: {0} has been stunned to death. -->
+<VWE_ConditionalStun.deathMessage>{0} a été assommé à mort.</VWE_ConditionalStun.deathMessage>
+
+<!-- EN: tear gas -->
+<VWENL_TearGas.label>gaz lacrymogène</VWENL_TearGas.label>
+<!-- EN: {0} has been killed. -->
+<VWENL_TearGas.deathMessage>{0} a été tué.</VWENL_TearGas.deathMessage>
+
+
+</LanguageData>

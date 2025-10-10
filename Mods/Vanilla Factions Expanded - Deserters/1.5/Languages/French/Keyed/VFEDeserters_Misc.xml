@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<VFED.Detonate>Déclencher</VFED.Detonate>
+<VFED.IntelOutOfDate>Renseignement obsolète dans : {0}</VFED.IntelOutOfDate>
+<VFED.IntelOutOfDateNow>{0} n'est plus d'actualité. Pensez à utiliser les renseignements que vous avez recueillies avant qu'elles ne soient obsolètes.</VFED.IntelOutOfDateNow>
+<VFED.SwitchTo>Cliquer pour modifier en mode de {0}</VFED.SwitchTo>
+<VFED.SurveillancePillarActivated>Vous avez activé un pilier de surveillance impérial. La visibilité de votre faction a augmenté de {1}. Elle est désormais à {0}.</VFED.SurveillancePillarActivated>
+<VFED.IntelFromTitle>{0} a été déchu de son titre de {1}. Grace à son titre vous recevez {2} de renseignement{2_multiple ? s : }.</VFED.IntelFromTitle>
+<VFED.ResponseComing>Réponse impériale</VFED.ResponseComing>
+<VFED.ResponseComingDesc>Une {0} impériale est en route pour cet endroit. Elle arrivera dans {1}s.</VFED.ResponseComingDesc>
+<VFED.ResponseMessage>En raison du déclenchement d'une réponse impériale, votre visibilité a augmenté de {0}. Elle est désormais à {1}. À l'avenir, pour éviter d'augmenter votre visibilité, terminez la mission avant que la réponse n'arrive.</VFED.ResponseMessage>
+<VFED.Detonate.BombPack>Déclencher la bombe</VFED.Detonate.BombPack>
+<VFED.Detonate.BombPack.Desc>Déclenche la bombe à distance pour provoquer une grande explosion.\nAVERTISSEMENT : Appuyer sur ce bouton déclenche instantanément l'explosion de la bombe.</VFED.Detonate.BombPack.Desc>
+<VFED.Deploy>Déployer</VFED.Deploy>
+<VFED.Deploy.Desc>Déploie la {0} pour créer une {1} à cet emplacement.</VFED.Deploy.Desc>
+<VFED.EnableInvisibility>Activer l'invisibilité</VFED.EnableInvisibility>
+<VFED.EnableInvisibility.Desc>Rend ce colon invisible pendant 1 heure. Si le colon attaque quelqu'un, l'invisibilité prend fin.</VFED.EnableInvisibility.Desc>
+<VFED.OnCooldown>En recharge</VFED.OnCooldown>
+<VFED.AlreadyInvisibile>Déjà invisible</VFED.AlreadyInvisibile>
+<VFED.MustHavePsylink>Doit avoir un lien physique</VFED.MustHavePsylink>
+<VFED.ExtractIntel>Extraire rens.</VFED.ExtractIntel>
+<VFED.ExtractIntel.Desc>Extrait les renseignements du cerveau d'un noble. Qu'il soit vivant, mort ou à terre, le cerveau doit être présent. Détruit le cerveau.</VFED.ExtractIntel.Desc>
+<VFED.ImperialPatrol>{0} en patrouille</VFED.ImperialPatrol>
+<VFED.ImperialPatrol.Desc>{0} a rencontré une patrouille impériale de {1}. Ils ont été repérés ! {0} peut essayer de s'échapper, mais cela augmentera inévitablement votre visibilité de {2}. Combattre la patrouille peut s'avérer difficile, mais cela permettra à {2} de rester en sécurité. La patrouille est composée de :\n\n{3}</VFED.ImperialPatrol.Desc>
+<VFED.ImperialPatrol.Escape>Échapper à la patrouille.</VFED.ImperialPatrol.Escape>
+<VFED.ImperialPatrol.Attack>Attaquer la patrouille.</VFED.ImperialPatrol.Attack>
+<VFED.ImperialPatrol.GiveUp>Céder {0}.</VFED.ImperialPatrol.GiveUp>
+<VFED.ImperialPatrol.GaveUp>{0} a cédé {1} à l'Empire. Il est peu probable que vous les revoyiez un jour. L'Empire n'aime pas les saboteurs.</VFED.ImperialPatrol.GaveUp>
+<VFED.AerodroneBombardment>Bombardement d'aérodrone</VFED.AerodroneBombardment>
+<VFED.AerodroneBombardment.Desc>La {0} a envoyé un certain nombre d'aérodrones à votre emplacement. Ils vous soupçonnent d'abriter des déserteurs mal intentionnés à l'égard de la Grande Hiérarchie.\nUn aérodrone est un drone atmosphérique sans pilote conçu à des fins militaires. Contrôlé par des programmeurs de guerre hautement qualifiés des installations impériales, l'aérodrone est un outil très efficace pour éliminer les ennemis de l'Empire. Équipé de capteurs et de systèmes de ciblage avancés, l'aérodrone peut détecter et suivre des cibles à grande distance. Une fois la cible identifiée, l'aérodrone déclenche une salve dévastatrice de roquettes de précision, chacune conçue pour causer un maximum de dégâts et de destruction.\nL'Empire a localisé l'emplacement de vos infrastructures critiques et les aérodrones vont bientôt commencer leur bombardement. L'évacuation est conseillée.</VFED.AerodroneBombardment.Desc>
+    <VFED.GlassingDate>Glassing date</VFED.GlassingDate><!-- TODO -->
+<VFED.DivineInferno.Init>Enfer divin initialisé</VFED.DivineInferno.Init>
+<VFED.DivineInferno.Desc>Les satellites du rayon trancheur orbital ont fini de s'agencer en une magnifique fleur au-dessus de votre colonie. La suite ne peut être décrite que comme une destruction totale. Les faisceaux trancheurs descendent du ciel, créant un réseau d'énergie qui détruit systématiquement tout ce qui se trouve sur son passage. Le terrain lui-même semble se déformer et se soulever à mesure que les faisceaux tranchent la terre, laissant derrière eux de profondes crevasses et des cratères remplis de gravats. Les personnes, les véhicules et même les bâtiments sont réduits à l'état de poussière et de cendres en l'espace de quelques secondes. L'air lui-même est surchauffé par l'énergie intense des rayons, créant une onde de choc qui peut parcourir des kilomètres.\nIl n'y a pas d'échappatoire à l'Enfer divin. Ceux qui se trouvent sur son chemin sont instantanément vaporisés, ne laissant derrière eux que des restes carbonisés de ce qui était là auparavant. Même les abris souterrains ne font pas le poids face à la puissance destructrice des rayons tranchants, qui transpercent la terre comme un couteau chaud le ferait dans du beurre.\nLes conséquences de l'Enfer divin ne sont que destruction. Le paysage est méconnaissable, il n'y a plus que des décombres et des cendres à perte de vue. L'air est encore imprégné de l'odeur âcre de la chair brûlée et du métal en fusion. La colonie, autrefois florissante, n'est plus qu'une enveloppe calcinée et sans vie.</VFED.DivineInferno.Desc>
+<VFED.GoodwillDropVisibility>En raison de la désinformation impériale, vos relations avec {0} ont diminué de 10.</VFED.GoodwillDropVisibility>
+<VFED.ShotsFiredLeft>{0} faisceau{0_multiple ? x : } tiré{0_multiple ? s : }, {1} faisceau{1_multiple ? x : } restant{1_multiple ? s : }</VFED.ShotsFiredLeft>
+<VFED.VisibilityIncreases>La visibilité augmente de {0}</VFED.VisibilityIncreases>
+<VFED.VisibilityDecreases>La visibilité diminue de {0}</VFED.VisibilityDecreases>
+<VFED.VisibilityIncreases.Desc>Votre visibilité augmentera de {0}. Cela peut conduire à des réponses impériales plus nombreuses et plus fortes.</VFED.VisibilityIncreases.Desc>
+<VFED.VisibilityDecreases.Desc>Votre visibilité diminuera de {0}. Cela peut réduire les réponses impériales.</VFED.VisibilityDecreases.Desc>
+<VFED.BiosecuredCrateWarning>Les caisses biosécurisées ne peuvent être ouvertes que par des personnages ayant une histoire noble.</VFED.BiosecuredCrateWarning>
+<VFED.CantOpenBiosecured>nécessite une histoire noble</VFED.CantOpenBiosecured>
+<VFED.ServiceIncreasedGoodwill>Votre relation avec {0} s'est améliorée de 5 grâce aux rumeurs positives des déserteurs impériaux.</VFED.ServiceIncreasedGoodwill>
+<VFED.DetectedWarning>Vous avez été détecté par la sécurité. La garnison se déploie contre vous.</VFED.DetectedWarning>
+<VFED.HighAlertWarning>Les défenseurs passent en état d'alerte.</VFED.HighAlertWarning>
+<VFED.FleeWarning>{0} tente de s'échapper !</VFED.FleeWarning>
+<VFED.NobleKilledRevenge>{0} de {1} tentent de venger {2}.</VFED.NobleKilledRevenge>
+<VFED.ContrabandArrived>Vos marchandises de contrebande sont arrivées.</VFED.ContrabandArrived>
+<VFED.VisibilityChange>Visibilité : {0}</VFED.VisibilityChange>
+<VFED.VisibilityChange.Desc>Votre niveau de visibilité a changé. Elle est maintenant à {0}.</VFED.VisibilityChange.Desc>
+<VFED.VisibilityEffectsActive>Les effets suivants ont été activés :</VFED.VisibilityEffectsActive>
+<VFED.VisibilityEffectsInactive>Les effets suivants ont été désactivés :</VFED.VisibilityEffectsInactive>
+<VFED.TimeToNextPulse>Prochaine impulsion dans : {0}</VFED.TimeToNextPulse>
+<VFED.PulsesBeforeOut>Impulsion{0_multiple ? s : } avant autodestruction : {0}</VFED.PulsesBeforeOut>
+<VFED.BurnoutWarning>La construction d'un dérobeur de renseignements sera considérée comme une déclaration de guerre à l'Empire.</VFED.BurnoutWarning>
+<VFED.ActivateScraper>Activer</VFED.ActivateScraper>
+<VFED.ActivateScraper.Desc>Active le compte à rebours du dérobeur de renseignements, qui émettra une impulsion toutes les 60 secondes, vous donnant une chance d'obtenir des renseignements précieux au risque de déclencher une investigation impériale.</VFED.ActivateScraper.Desc>
+<VFED.DeactivateScraper>Désactiver</VFED.DeactivateScraper>
+<VFED.DeactivateScraper.Desc>Désactive le dérobeur de renseignements, arrêtant le compte à rebours de la prochaine impulsion.</VFED.DeactivateScraper.Desc>
+<VFED.Exhausted>Épuisé</VFED.Exhausted>
+<VFED.BurnoutIntelGained>Le dérobeur a intercepté une communication impériale et a généré {0} de renseignement{0_multiple ? s : }.</VFED.BurnoutIntelGained>
+<VFED.BurnoutCriticalIntelGained>Le dérobeur a intercepté une communication impériale de grande importance et a généré {0} de renseignement{0_multiple ? s : } critique{0_multiple ? s : }.</VFED.BurnoutCriticalIntelGained>
+<VFED.BurnoutVisibilityIncreased>Le dérobeur a attiré l'attention impériale et a augmenté votre visibilité de {0}. (Visibilité actuelle {1})</VFED.BurnoutVisibilityIncreased>
+<VFED.BurnoutRaid>Le dérobeur a été intercepté par une patrouille impériale à proximité. Ils se rapprochent pour engager le combat.</VFED.BurnoutRaid>
+
+
+</LanguageData>

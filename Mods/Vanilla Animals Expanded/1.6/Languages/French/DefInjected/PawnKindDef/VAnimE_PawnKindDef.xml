@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+<!-- EN: cheetah -->
+<AEXP_Cheetah.label>guépard</AEXP_Cheetah.label>
+<AEXP_Cheetah.labelFemale>guéparde</AEXP_Cheetah.labelFemale>
+<AEXP_Cheetah.labelFemalePlural>guépardes</AEXP_Cheetah.labelFemalePlural>
+<AEXP_Cheetah.labelMale>guépard</AEXP_Cheetah.labelMale>
+<AEXP_Cheetah.labelMalePlural>guépards</AEXP_Cheetah.labelMalePlural>
+<AEXP_Cheetah.labelPlural>guépards</AEXP_Cheetah.labelPlural>
+
+<!-- EN: coyote -->
+<AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+<!-- EN: coyotes -->
+<AEXP_Coyote.labelPlural>coyotes</AEXP_Coyote.labelPlural>
+<!-- EN: coyote puppy -->
+<AEXP_Coyote.lifeStages.coyote_puppy.label>chiot coyote</AEXP_Coyote.lifeStages.coyote_puppy.label>
+<!-- EN: coyote puppies -->
+<AEXP_Coyote.lifeStages.coyote_puppy.labelPlural>chiots coyotes</AEXP_Coyote.lifeStages.coyote_puppy.labelPlural>
+
+<!-- EN: crocodile -->
+<AEXP_Crocodile.label>crocodile</AEXP_Crocodile.label>
+<AEXP_Crocodile.labelPlural>crocodiles</AEXP_Crocodile.labelPlural>
+
+<!-- EN: giraffe -->
+<AEXP_Giraffe.label>girafe</AEXP_Giraffe.label>
+<!-- EN: giraffes -->
+<AEXP_Giraffe.labelPlural>girafes</AEXP_Giraffe.labelPlural>
+<!-- EN: giraffe calf -->
+<AEXP_Giraffe.lifeStages.giraffe_calf.label>girafon</AEXP_Giraffe.lifeStages.giraffe_calf.label>
+<!-- EN: giraffe calves -->
+<AEXP_Giraffe.lifeStages.giraffe_calf.labelPlural>girafons</AEXP_Giraffe.lifeStages.giraffe_calf.labelPlural>
+
+<!-- EN: wildebeest -->
+<AEXP_Wildebeest.label>gnou</AEXP_Wildebeest.label>
+<!-- EN: wildebeest cow -->
+<AEXP_Wildebeest.labelFemale>maroufle</AEXP_Wildebeest.labelFemale>
+<AEXP_Wildebeest.labelFemalePlural>maroufles</AEXP_Wildebeest.labelFemalePlural>
+<!-- EN: wildebeest bull -->
+<AEXP_Wildebeest.labelMale>gnou</AEXP_Wildebeest.labelMale>
+<AEXP_Wildebeest.labelMalePlural>gnous</AEXP_Wildebeest.labelMalePlural>
+<AEXP_Wildebeest.labelPlural>gnous</AEXP_Wildebeest.labelPlural>
+<!-- EN: wildebeest calf -->
+<AEXP_Wildebeest.lifeStages.wildebeest_calf.label>gaou</AEXP_Wildebeest.lifeStages.wildebeest_calf.label>
+<!-- EN: wildebeest calves -->
+<AEXP_Wildebeest.lifeStages.wildebeest_calf.labelPlural>gaous</AEXP_Wildebeest.lifeStages.wildebeest_calf.labelPlural>
+
+<!-- EN: zebra -->
+<AEXP_Zebra.label>zèbre</AEXP_Zebra.label>
+<AEXP_Zebra.labelPlural>zèbres</AEXP_Zebra.labelPlural>
+<!-- EN: zebra foal -->
+<AEXP_Zebra.lifeStages.zebra_foal.label>zébron</AEXP_Zebra.lifeStages.zebra_foal.label>
+<!-- EN: zebra foals -->
+<AEXP_Zebra.lifeStages.zebra_foal.labelPlural>zébrons</AEXP_Zebra.lifeStages.zebra_foal.labelPlural>
+
+
+<!-- EN: boombat -->
+<AEXP_Boombat.label>boombat</AEXP_Boombat.label>
+<AEXP_Boombat.labelPlural>boombats</AEXP_Boombat.labelPlural>
+
+<!-- EN: kangaroo -->
+<AEXP_Kangaroo.label>kangourou</AEXP_Kangaroo.label>
+<AEXP_Kangaroo.labelPlural>kangourous</AEXP_Kangaroo.labelPlural>
+
+<!-- EN: koala -->
+<AEXP_Koala.label>koala</AEXP_Koala.label>
+<AEXP_Koala.labelPlural>koalas</AEXP_Koala.labelPlural>
+
+<!-- EN: platypus -->
+<AEXP_Platypus.label>ornithorynque</AEXP_Platypus.label>
+<AEXP_Platypus.labelPlural>ornithorynques</AEXP_Platypus.labelPlural>
+
+
+<!-- EN: arctic coyote -->
+<AEXP_ArcticCoyote.label>coyote arctique</AEXP_ArcticCoyote.label>
+<!-- EN: arctic coyotes -->
+<AEXP_ArcticCoyote.labelPlural>coyotes arctiques</AEXP_ArcticCoyote.labelPlural>
+<!-- EN: arctic coyote puppy -->
+<AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.label>chiot coyote arctique</AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.label>
+<!-- EN: arctic coyote puppies -->
+<AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.labelPlural>chiots coyotes arctiques</AEXP_ArcticCoyote.lifeStages.arctic_coyote_puppy.labelPlural>
+
+<!-- EN: black bear -->
+<AEXP_BlackBear.label>ours noir</AEXP_BlackBear.label>
+<AEXP_BlackBear.labelFemale>ourse noire</AEXP_BlackBear.labelFemale>
+<AEXP_BlackBear.labelFemalePlural>ourse noires</AEXP_BlackBear.labelFemalePlural>
+<AEXP_BlackBear.labelMale>ours noir</AEXP_BlackBear.labelMale>
+<AEXP_BlackBear.labelMalePlural>ours noirs</AEXP_BlackBear.labelMalePlural>
+<AEXP_BlackBear.labelPlural>ours noirs</AEXP_BlackBear.labelPlural>
+
+
+<!-- EN: abyssinian cat -->
+<AEXP_CatAbyssinian.label>chat abyssin</AEXP_CatAbyssinian.label>
+<AEXP_CatAbyssinian.labelFemale>chatte abyssin</AEXP_CatAbyssinian.labelFemale>
+<AEXP_CatAbyssinian.labelFemalePlural>chattes abyssins</AEXP_CatAbyssinian.labelFemalePlural>
+<AEXP_CatAbyssinian.labelMale>chat abyssin</AEXP_CatAbyssinian.labelMale>
+<AEXP_CatAbyssinian.labelMalePlural>chats abyssins</AEXP_CatAbyssinian.labelMalePlural>
+<AEXP_CatAbyssinian.labelPlural>chats abyssins</AEXP_CatAbyssinian.labelPlural>
+<!-- EN: abyssinian kitten -->
+<AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.label>chaton abyssin</AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.label>
+<AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.labelPlural>chatons abyssins</AEXP_CatAbyssinian.lifeStages.abyssinian_kitten.labelPlural>
+
+<!-- EN: bengal cat -->
+<AEXP_CatBengal.label>chat-léopard</AEXP_CatBengal.label>
+<AEXP_CatBengal.labelFemale>chatte-léopard</AEXP_CatBengal.labelFemale>
+<AEXP_CatBengal.labelFemalePlural>chattes-léopards</AEXP_CatBengal.labelFemalePlural>
+<AEXP_CatBengal.labelMale>chat-léopard</AEXP_CatBengal.labelMale>
+<AEXP_CatBengal.labelMalePlural>chats-léopards</AEXP_CatBengal.labelMalePlural>
+<AEXP_CatBengal.labelPlural>chats-léopards</AEXP_CatBengal.labelPlural>
+<!-- EN: bengal kitten -->
+<AEXP_CatBengal.lifeStages.bengal_kitten.label>chaton-léopard</AEXP_CatBengal.lifeStages.bengal_kitten.label>
+<AEXP_CatBengal.lifeStages.bengal_kitten.labelPlural>chatons-léopards</AEXP_CatBengal.lifeStages.bengal_kitten.labelPlural>
+
+<!-- EN: british shorthair cat -->
+<AEXP_CatBritishShorthair.label>chat british à poil court</AEXP_CatBritishShorthair.label>
+<AEXP_CatBritishShorthair.labelFemale>chatte british à poil court</AEXP_CatBritishShorthair.labelFemale>
+<AEXP_CatBritishShorthair.labelFemalePlural>chattes british à poil court</AEXP_CatBritishShorthair.labelFemalePlural>
+<AEXP_CatBritishShorthair.labelMale>chat british à poil court</AEXP_CatBritishShorthair.labelMale>
+<AEXP_CatBritishShorthair.labelMalePlural>chats british à poil court</AEXP_CatBritishShorthair.labelMalePlural>
+<AEXP_CatBritishShorthair.labelPlural>chats british à poil court</AEXP_CatBritishShorthair.labelPlural>
+<!-- EN: british shorthair kitten -->
+<AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.label>chaton british à poil court</AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.label>
+<AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.labelPlural>chatons british à poil court</AEXP_CatBritishShorthair.lifeStages.british_shorthair_kitten.labelPlural>
+
+<!-- EN: maine coon -->
+<AEXP_CatMaineCoon.label>chat maine coon</AEXP_CatMaineCoon.label>
+<AEXP_CatMaineCoon.labelFemale>chatte maine coon</AEXP_CatMaineCoon.labelFemale>
+<AEXP_CatMaineCoon.labelFemalePlural>chattes maine coons</AEXP_CatMaineCoon.labelFemalePlural>
+<AEXP_CatMaineCoon.labelMale>chat maine coon</AEXP_CatMaineCoon.labelMale>
+<AEXP_CatMaineCoon.labelMalePlural>chats maine coons</AEXP_CatMaineCoon.labelMalePlural>
+<AEXP_CatMaineCoon.labelPlural>chats maine coons</AEXP_CatMaineCoon.labelPlural>
+<!-- EN: maine coon kitten -->
+<AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.label>chaton maine coon</AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.label>
+<AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.labelPlural>chatons maine coons</AEXP_CatMaineCoon.lifeStages.maine_coon_kitten.labelPlural>
+
+<!-- EN: munchkin cat -->
+<AEXP_CatMunchkin.label>chat munchkin</AEXP_CatMunchkin.label>
+<AEXP_CatMunchkin.labelFemale>chatte munchkin</AEXP_CatMunchkin.labelFemale>
+<AEXP_CatMunchkin.labelFemalePlural>chattes munchkins</AEXP_CatMunchkin.labelFemalePlural>
+<AEXP_CatMunchkin.labelMale>chat munchkin</AEXP_CatMunchkin.labelMale>
+<AEXP_CatMunchkin.labelMalePlural>chats munchkins</AEXP_CatMunchkin.labelMalePlural>
+<AEXP_CatMunchkin.labelPlural>chats munchkins</AEXP_CatMunchkin.labelPlural>
+<!-- EN: munchkin kitten -->
+<AEXP_CatMunchkin.lifeStages.munchkin_kitten.label>chaton munchkin</AEXP_CatMunchkin.lifeStages.munchkin_kitten.label>
+<AEXP_CatMunchkin.lifeStages.munchkin_kitten.labelPlural>chatons munchkins</AEXP_CatMunchkin.lifeStages.munchkin_kitten.labelPlural>
+
+<!-- EN: norwegian forest cat -->
+<AEXP_CatNorwegianForest.label>chat norvégien</AEXP_CatNorwegianForest.label>
+<AEXP_CatNorwegianForest.labelFemale>chatte norvégienne</AEXP_CatNorwegianForest.labelFemale>
+<AEXP_CatNorwegianForest.labelFemalePlural>chattes norvégiennes</AEXP_CatNorwegianForest.labelFemalePlural>
+<AEXP_CatNorwegianForest.labelMale>chat norvégien</AEXP_CatNorwegianForest.labelMale>
+<AEXP_CatNorwegianForest.labelMalePlural>chats norvégiens</AEXP_CatNorwegianForest.labelMalePlural>
+<AEXP_CatNorwegianForest.labelPlural>chats norvégiens</AEXP_CatNorwegianForest.labelPlural>
+<!-- EN: norwegian forest kitten -->
+<AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.label>chaton norvégien</AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.label>
+<AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.labelPlural>chatons norvégiens</AEXP_CatNorwegianForest.lifeStages.norwegian_forest_kitten.labelPlural>
+
+<!-- EN: persian cat -->
+<AEXP_CatPersian.label>chat persan</AEXP_CatPersian.label>
+<AEXP_CatPersian.labelFemale>chatte persane</AEXP_CatPersian.labelFemale>
+<AEXP_CatPersian.labelFemalePlural>chattes persanes</AEXP_CatPersian.labelFemalePlural>
+<AEXP_CatPersian.labelMale>chat persan</AEXP_CatPersian.labelMale>
+<AEXP_CatPersian.labelMalePlural>chats persans</AEXP_CatPersian.labelMalePlural>
+<AEXP_CatPersian.labelPlural>chats persans</AEXP_CatPersian.labelPlural>
+<!-- EN: persian kitten -->
+<AEXP_CatPersian.lifeStages.persian_kitten.label>chaton persan</AEXP_CatPersian.lifeStages.persian_kitten.label>
+<AEXP_CatPersian.lifeStages.persian_kitten.labelPlural>chatons persans</AEXP_CatPersian.lifeStages.persian_kitten.labelPlural>
+
+<!-- EN: siamese cat -->
+<AEXP_CatSiamese.label>chat siamois</AEXP_CatSiamese.label>
+<AEXP_CatSiamese.labelFemale>chatte siamoise</AEXP_CatSiamese.labelFemale>
+<AEXP_CatSiamese.labelFemalePlural>chattes siamoises</AEXP_CatSiamese.labelFemalePlural>
+<AEXP_CatSiamese.labelMale>chat siamois</AEXP_CatSiamese.labelMale>
+<AEXP_CatSiamese.labelMalePlural>chats siamois</AEXP_CatSiamese.labelMalePlural>
+<AEXP_CatSiamese.labelPlural>chats siamois</AEXP_CatSiamese.labelPlural>
+<!-- EN: siamese kitten -->
+<AEXP_CatSiamese.lifeStages.siamese_kitten.label>chaton siamois</AEXP_CatSiamese.lifeStages.siamese_kitten.label>
+<AEXP_CatSiamese.lifeStages.siamese_kitten.labelPlural>chatons siamois</AEXP_CatSiamese.lifeStages.siamese_kitten.labelPlural>
+
+<!-- EN: somali cat -->
+<AEXP_CatSomali.label>chat somali</AEXP_CatSomali.label>
+<AEXP_CatSomali.labelFemale>chatte somali</AEXP_CatSomali.labelFemale>
+<AEXP_CatSomali.labelFemalePlural>chattes somalis</AEXP_CatSomali.labelFemalePlural>
+<AEXP_CatSomali.labelMale>chat somali</AEXP_CatSomali.labelMale>
+<AEXP_CatSomali.labelMalePlural>chats somalis</AEXP_CatSomali.labelMalePlural>
+<AEXP_CatSomali.labelPlural>chats somalis</AEXP_CatSomali.labelPlural>
+<!-- EN: somali kitten -->
+<AEXP_CatSomali.lifeStages.somali_kitten.label>chaton somali</AEXP_CatSomali.lifeStages.somali_kitten.label>
+<AEXP_CatSomali.lifeStages.somali_kitten.labelPlural>chatons somali</AEXP_CatSomali.lifeStages.somali_kitten.labelPlural>
+
+<!-- EN: sphynx cat -->
+<AEXP_CatSphynx.label>chat sphynx</AEXP_CatSphynx.label>
+<AEXP_CatSphynx.labelFemale>chatte sphynx</AEXP_CatSphynx.labelFemale>
+<AEXP_CatSphynx.labelFemalePlural>chatte sphynx</AEXP_CatSphynx.labelFemalePlural>
+<AEXP_CatSphynx.labelMale>chat sphynx</AEXP_CatSphynx.labelMale>
+<AEXP_CatSphynx.labelMalePlural>chats sphynx</AEXP_CatSphynx.labelMalePlural>
+<AEXP_CatSphynx.labelPlural>chats sphynx</AEXP_CatSphynx.labelPlural>
+<!-- EN: sphynx kitten -->
+<AEXP_CatSphynx.lifeStages.sphynx_kitten.label>chaton sphynx</AEXP_CatSphynx.lifeStages.sphynx_kitten.label>
+<AEXP_CatSphynx.lifeStages.sphynx_kitten.labelPlural>chatons sphynx</AEXP_CatSphynx.lifeStages.sphynx_kitten.labelPlural>
+
+
+<!-- EN: desert tortoise -->
+<AEXP_DesertTortoise.label>tortue du désert</AEXP_DesertTortoise.label>
+<AEXP_DesertTortoise.labelPlural>tortues du désert</AEXP_DesertTortoise.labelPlural>
+
+<!-- EN: gila monster -->
+<AEXP_GilaMonster.label>monstre de gila</AEXP_GilaMonster.label>
+<AEXP_GilaMonster.labelPlural>monstres de gila</AEXP_GilaMonster.labelPlural>
+
+<!-- EN: hyena -->
+<AEXP_Hyena.label>hyène</AEXP_Hyena.label>
+<!-- EN: hyenas -->
+<AEXP_Hyena.labelPlural>hyènes</AEXP_Hyena.labelPlural>
+<!-- EN: hyena cub -->
+<AEXP_Hyena.lifeStages.hyena_cub.label>bébé hyène</AEXP_Hyena.lifeStages.hyena_cub.label>
+<!-- EN: hyena cubs -->
+<AEXP_Hyena.lifeStages.hyena_cub.labelPlural>bébés hyènes</AEXP_Hyena.lifeStages.hyena_cub.labelPlural>
+
+<!-- EN: lion -->
+<AEXP_Lion.label>lion</AEXP_Lion.label>
+<AEXP_Lion.labelFemale>lionne</AEXP_Lion.labelFemale>
+<AEXP_Lion.labelFemalePlural>lionnes</AEXP_Lion.labelFemalePlural>
+<AEXP_Lion.labelMale>lion</AEXP_Lion.labelMale>
+<AEXP_Lion.labelMalePlural>lions</AEXP_Lion.labelMalePlural>
+<!-- EN: lions -->
+<AEXP_Lion.labelPlural>lions</AEXP_Lion.labelPlural>
+<!-- EN: lion cub -->
+<AEXP_Lion.lifeStages.lion_cub.label>lionceau</AEXP_Lion.lifeStages.lion_cub.label>
+<!-- EN: lion cubs -->
+<AEXP_Lion.lifeStages.lion_cub.labelPlural>lionceaux</AEXP_Lion.lifeStages.lion_cub.labelPlural>
+
+
+<!-- EN: beagle -->
+<AEXP_Beagle.label>beagle</AEXP_Beagle.label>
+<!-- EN: beagles -->
+<AEXP_Beagle.labelPlural>beagles</AEXP_Beagle.labelPlural>
+<!-- EN: beagle puppy -->
+<AEXP_Beagle.lifeStages.beagle_puppy.label>chiot beagle</AEXP_Beagle.lifeStages.beagle_puppy.label>
+<!-- EN: beagle puppies -->
+<AEXP_Beagle.lifeStages.beagle_puppy.labelPlural>chiots beagle</AEXP_Beagle.lifeStages.beagle_puppy.labelPlural>
+
+<!-- EN: chihuahua -->
+<AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
+<!-- EN: chihuahuas -->
+<AEXP_Chihuahua.labelPlural>chihuahuas</AEXP_Chihuahua.labelPlural>
+<!-- EN: chihuahua puppy -->
+<AEXP_Chihuahua.lifeStages.chihuahua_puppy.label>chiot chihuahua</AEXP_Chihuahua.lifeStages.chihuahua_puppy.label>
+<!-- EN: chihuahua puppies -->
+<AEXP_Chihuahua.lifeStages.chihuahua_puppy.labelPlural>chiots chihuahua</AEXP_Chihuahua.lifeStages.chihuahua_puppy.labelPlural>
+
+<!-- EN: corgi -->
+<AEXP_Corgi.label>corgi</AEXP_Corgi.label>
+<!-- EN: corgis -->
+<AEXP_Corgi.labelPlural>corgis</AEXP_Corgi.labelPlural>
+<!-- EN: corgi puppy -->
+<AEXP_Corgi.lifeStages.corgi_puppy.label>chiot corgi</AEXP_Corgi.lifeStages.corgi_puppy.label>
+<!-- EN: corgi puppies -->
+<AEXP_Corgi.lifeStages.corgi_puppy.labelPlural>chiots corgis</AEXP_Corgi.lifeStages.corgi_puppy.labelPlural>
+
+<!-- EN: french bulldog -->
+<AEXP_FrenchBulldog.label>bouledogue français</AEXP_FrenchBulldog.label>
+<!-- EN: french bulldogs -->
+<AEXP_FrenchBulldog.labelPlural>bouledogues français</AEXP_FrenchBulldog.labelPlural>
+<!-- EN: french bulldog puppy -->
+<AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.label>chiot bouledogue français</AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.label>
+<!-- EN: french bulldog puppies -->
+<AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.labelPlural>chiots bouledogues français</AEXP_FrenchBulldog.lifeStages.french_bulldog_puppy.labelPlural>
+
+<!-- EN: german shepherd -->
+<AEXP_GermanShepherd.label>berger allemand</AEXP_GermanShepherd.label>
+<AEXP_GermanShepherd.labelPlural>bergers allemands</AEXP_GermanShepherd.labelPlural>
+<!-- EN: german shepherd puppy -->
+<AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.label>chiot berger allemand</AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.label>
+<!-- EN: german shepherd puppies -->
+<AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.labelPlural>chiots bergers allemands</AEXP_GermanShepherd.lifeStages.german_shepherd_puppy.labelPlural>
+
+<!-- EN: great dane -->
+<AEXP_GreatDane.label>dogue allemand</AEXP_GreatDane.label>
+<AEXP_GreatDane.labelPlural>dogues allemands</AEXP_GreatDane.labelPlural>
+<!-- EN: great dane puppy -->
+<AEXP_GreatDane.lifeStages.great_dane_puppy.label>chiot dogue allemand</AEXP_GreatDane.lifeStages.great_dane_puppy.label>
+<!-- EN: great dane puppies -->
+<AEXP_GreatDane.lifeStages.great_dane_puppy.labelPlural>chiots dogues allemands</AEXP_GreatDane.lifeStages.great_dane_puppy.labelPlural>
+
+<!-- EN: poodle -->
+<AEXP_Poodle.label>caniche</AEXP_Poodle.label>
+<AEXP_Poodle.labelPlural>caniches</AEXP_Poodle.labelPlural>
+<!-- EN: poodle puppy -->
+<AEXP_Poodle.lifeStages.poodle_puppy.label>chiot caniche</AEXP_Poodle.lifeStages.poodle_puppy.label>
+<!-- EN: poodle puppies -->
+<AEXP_Poodle.lifeStages.poodle_puppy.labelPlural>chiots caniches</AEXP_Poodle.lifeStages.poodle_puppy.labelPlural>
+
+<!-- EN: pug -->
+<AEXP_Pug.label>carlin</AEXP_Pug.label>
+<!-- EN: pugs -->
+<AEXP_Pug.labelPlural>carlins</AEXP_Pug.labelPlural>
+<!-- EN: pug puppy -->
+<AEXP_Pug.lifeStages.pug_puppy.label>chiot carlin</AEXP_Pug.lifeStages.pug_puppy.label>
+<!-- EN: pug puppies -->
+<AEXP_Pug.lifeStages.pug_puppy.labelPlural>chiots carlins</AEXP_Pug.lifeStages.pug_puppy.labelPlural>
+
+<!-- EN: rottweiler -->
+<AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
+<AEXP_Rottweiler.labelPlural>rottweilers</AEXP_Rottweiler.labelPlural>
+<!-- EN: rottweiler puppy -->
+<AEXP_Rottweiler.lifeStages.rottweiler_puppy.label>chiot rottweiler</AEXP_Rottweiler.lifeStages.rottweiler_puppy.label>
+<!-- EN: rottweiler puppies -->
+<AEXP_Rottweiler.lifeStages.rottweiler_puppy.labelPlural>chiots rottweilers</AEXP_Rottweiler.lifeStages.rottweiler_puppy.labelPlural>
+
+<!-- EN: shih-tzu -->
+<AEXP_Shih-Tzu.label>shih tzu</AEXP_Shih-Tzu.label>
+<!-- EN: shih-tzus -->
+<AEXP_Shih-Tzu.labelPlural>shih tzus</AEXP_Shih-Tzu.labelPlural>
+<!-- EN: shih-tzu puppy -->
+<AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.label>chiot shih tzu</AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.label>
+<!-- EN: shih-tzu puppies -->
+<AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.labelPlural>chiots shih tzus</AEXP_Shih-Tzu.lifeStages.shihtzu_puppy.labelPlural>
+
+<!-- EN: welsh terrier -->
+<AEXP_WelshTerrier.label>welsh terrier</AEXP_WelshTerrier.label>
+<!-- EN: welsh terriers -->
+<AEXP_WelshTerrier.labelPlural>welsh terriers</AEXP_WelshTerrier.labelPlural>
+<!-- EN: welsh terrier puppy -->
+<AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.label>chiot welsh terrier</AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.label>
+<!-- EN: welsh terrier puppies -->
+<AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.labelPlural>chiots welsh terriers</AEXP_WelshTerrier.lifeStages.welsh_terrier_puppy.labelPlural>
+
+
+<!-- EN: camel -->
+<AEXP_Camel.label>chameau</AEXP_Camel.label>
+<AEXP_Camel.labelFemale>chamelle</AEXP_Camel.labelFemale>
+<AEXP_Camel.labelFemalePlural>chamelles</AEXP_Camel.labelFemalePlural>
+<AEXP_Camel.labelMale>chameau</AEXP_Camel.labelMale>
+<AEXP_Camel.labelMalePlural>chameaux</AEXP_Camel.labelMalePlural>
+<!-- EN: camels -->
+<AEXP_Camel.labelPlural>chameaux</AEXP_Camel.labelPlural>
+<!-- EN: camel calf -->
+<AEXP_Camel.lifeStages.camel_calf.label>chamelon</AEXP_Camel.lifeStages.camel_calf.label>
+<!-- EN: camel calves -->
+<AEXP_Camel.lifeStages.camel_calf.labelPlural>chamelons</AEXP_Camel.lifeStages.camel_calf.labelPlural>
+
+<!-- EN: megascorpion -->
+<AEXP_Megascorpion.label>mégascorpion</AEXP_Megascorpion.label>
+<AEXP_Megascorpion.labelPlural>mégascorpions</AEXP_Megascorpion.labelPlural>
+
+<!-- EN: rattlesnake -->
+<AEXP_Rattlesnake.label>serpent à sonnette</AEXP_Rattlesnake.label>
+<AEXP_Rattlesnake.labelPlural>serpents à sonnette</AEXP_Rattlesnake.labelPlural>
+
+
+<!-- EN: beaver -->
+<AEXP_Beaver.label>castor</AEXP_Beaver.label>
+<AEXP_Beaver.labelPlural>castors</AEXP_Beaver.labelPlural>
+
+<!-- EN: hedgehog -->
+<AEXP_Hedgehog.label>hérisson</AEXP_Hedgehog.label>
+<AEXP_Hedgehog.labelPlural>hérissons</AEXP_Hedgehog.labelPlural>
+
+<!-- EN: red panda -->
+<AEXP_RedPanda.label>panda roux</AEXP_RedPanda.label>
+<AEXP_RedPanda.labelPlural>pandas roux</AEXP_RedPanda.labelPlural>
+
+<!-- EN: wild goose -->
+<AEXP_WildGoose.label>oie sauvage</AEXP_WildGoose.label>
+<AEXP_WildGoose.labelFemale>oie sauvage</AEXP_WildGoose.labelFemale>
+<AEXP_WildGoose.labelFemalePlural>oies sauvages</AEXP_WildGoose.labelFemalePlural>
+<!-- EN: wild gander -->
+<AEXP_WildGoose.labelMale>jars sauvage</AEXP_WildGoose.labelMale>
+<AEXP_WildGoose.labelMalePlural>jars sauvages</AEXP_WildGoose.labelMalePlural>
+<AEXP_WildGoose.labelPlural>oies sauvages</AEXP_WildGoose.labelPlural>
+<!-- EN: gosling -->
+<AEXP_WildGoose.lifeStages.gosling.label>oison sauvage</AEXP_WildGoose.lifeStages.gosling.label>
+<AEXP_WildGoose.lifeStages.gosling.labelPlural>oisons sauvages</AEXP_WildGoose.lifeStages.gosling.labelPlural>
+
+
+<!-- EN: jaguar -->
+<AEXP_Jaguar.label>jaguar</AEXP_Jaguar.label>
+<AEXP_Jaguar.labelPlural>jaguars</AEXP_Jaguar.labelPlural>
+
+<!-- EN: lemur -->
+<AEXP_Lemur.label>lémurien</AEXP_Lemur.label>
+<AEXP_Lemur.labelPlural>lémuriens</AEXP_Lemur.labelPlural>
+
+<!-- EN: mandrill -->
+<AEXP_Mandrill.label>mandrill</AEXP_Mandrill.label>
+<AEXP_Mandrill.labelPlural>mandrills</AEXP_Mandrill.labelPlural>
+
+<!-- EN: tapir -->
+<AEXP_Tapir.label>tapir</AEXP_Tapir.label>
+<AEXP_Tapir.labelPlural>tapirs</AEXP_Tapir.labelPlural>
+
+
+<!-- EN: anaconda -->
+<AEXP_Anaconda.label>anaconda</AEXP_Anaconda.label>
+<AEXP_Anaconda.labelPlural>anacondas</AEXP_Anaconda.labelPlural>
+
+<!-- EN: indian elephant -->
+<AEXP_IndianElephant.label>éléphant d'Asie</AEXP_IndianElephant.label>
+<AEXP_IndianElephant.labelPlural>éléphants d'Asie</AEXP_IndianElephant.labelPlural>
+<!-- EN: indian elephant calf -->
+<AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>éléphanteau d'Asie</AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>
+<AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelPlural>éléphanteaux d'Asie</AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelPlural>
+
+
+<!-- EN: megawolverine -->
+<AEXP_MegaWolverine.label>mégacarcajou</AEXP_MegaWolverine.label>
+<AEXP_MegaWolverine.labelPlural>mégacarcajous</AEXP_MegaWolverine.labelPlural>
+
+
+</LanguageData>

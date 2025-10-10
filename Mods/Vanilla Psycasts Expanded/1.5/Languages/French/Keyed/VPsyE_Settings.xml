@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Vanilla Psycasts Expanded -->
+<VanillaPsycastsExpanded>Vanilla Psycasts Expanded </VanillaPsycastsExpanded>
+<!-- EN: Psycaster XP per Psyfocus % gained -->
+<VPE.XPPerPercent>XP que gagne les Psylanceurs par % de Concentration psychique obtenue </VPE.XPPerPercent>
+<!-- EN: Basilicus Bestower Psycaster spawn chance -->
+<VPE.PsycasterSpawnBaseChance>Basilicus Dispensateur, Chance d'invoquer des Psylanceurs </VPE.PsycasterSpawnBaseChance>
+<!-- EN: Basilicus Bestower Psycaster strength factor -->
+<VPE.PsycasterSpawnAdditional>Basilicus Dispensateur, Facteur de force des Psylanceurs </VPE.PsycasterSpawnAdditional>
+<!-- EN: Allow shrinking? -->
+<VPE.AllowShrink>Permettre de réduire les psysets ?</VPE.AllowShrink>
+<!-- EN: Allow psycast gizmos to be shrunken to half size when there are a lot of them. -->
+<VPE.AllowShrink.Desc>Permet de réduire de moitié la taille des gadgets des psysets lorsqu'il y en a beaucoup.</VPE.AllowShrink.Desc>
+<!-- EN: UI small mode -->
+<VPE.SmallMode>Mode réduit de l'IU</VPE.SmallMode>
+<!-- EN: In small mode, the stats are moved to a tooltip and the psysets are moved to a separate dialog. If checked, this will force small mode. If X'ed, this will ban small mode. If partial (yellow line), this will allow default behavior (small mode will be active if your vertical resolution is less than 1080). -->
+<VPE.SmallMode.Desc>En mode petit, les statistiques sont déplacées vers une infobulle et les PsySets sont déplacés vers une fenêtre de dialogue.\n\n  - Si activé (V vert), ceci forcera le mode petit.\n  - Si désactivé (X rouge), ceci interdira le petit mode.\n  - Si partiel (~ jaune), il autorise le comportement par défaut (le mode réduit sera actif si votre résolution verticale est inférieure à 1080).</VPE.SmallMode.Desc>
+<!-- EN: Mute Skipdoor Sound -->
+<VPE.MuteSkipdoor>Couper le son de la porte de saut</VPE.MuteSkipdoor>
+<!-- EN: Maximum psycaster level -->
+<VPE.MaxLevel>Niveau maximum des psylanceurs</VPE.MaxLevel>
+<!-- EN: Scale base psyfocus gain with stat points? -->
+<VPE.ChangeFocusGain>Le gain de base de la concentration psychique est-elle proportionnelle au nombre de points de stat ?</VPE.ChangeFocusGain>
+<!-- EN: If enabled, then the base psyfocus gain before any foci can be increased by spending stat points. -->
+<VPE.ChangeFocusGain.Desc>Si activé, le gain de base de la concentration psychique avant tout focus peut être augmenté en dépensant des points de stat.</VPE.ChangeFocusGain.Desc>
+
+
+</LanguageData>

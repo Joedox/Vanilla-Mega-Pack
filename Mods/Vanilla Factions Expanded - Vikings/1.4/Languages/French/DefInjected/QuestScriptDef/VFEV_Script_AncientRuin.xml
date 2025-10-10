@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->Nous avons intercepté des messages concernant la localisation d'un vieux complexe de ruines près de [map_definite]. Ces ruines peuvent contenir tout et n'importe quoi, des capsules d'hypersommeil, des artefacts Archotech ou des armes et armures rares.\n\nSoyez prudents, car ces anciennes ruines sont certainement défendues par un certain nombre de dangers. Nous devons être prêts à tout.</VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings.0>
+<VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings.1>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] a signalé l'emplacement d'un vieux complexe de ruines près de [map_definite]. Ces ruines peuvent contenir tout et n'importe quoi, des capsules d'hypersommeil, des artefacts Archotech ou des armes et armures rares.\n\nSoyez prudents, car ces anciennes ruines sont certainement défendues par un certain nombre de dangers. Nous devons être prêts à tout.</VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings.1>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.0>questName(priority=1)->[ruins] [ancient] de [asker_nameDef]</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.0>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.1>questName->[ruins] [ancient]</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.1>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.2>ancient->antique</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.2>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.3>ancient->légendaire</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.3>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.4>ancient->jadis oublié</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.4>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.5>ancient->ancienne</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.5>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.6>ruins->Ruine</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.6>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.7>ruins->Complexe de ruines</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.7>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.8>ruins->Danger</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.8>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.9>ruins->Cachette</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.9>
+<VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.10>ruins->Tombe</VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings.10>
+<VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Les anciennes ruines ont été trouvées par d'autres personnes. La quête [resolvedQuestName] a expiré.</VFEV_OpportunitySite_AncientRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+
+</LanguageData>

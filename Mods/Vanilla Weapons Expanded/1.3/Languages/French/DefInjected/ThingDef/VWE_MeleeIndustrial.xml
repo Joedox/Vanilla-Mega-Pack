@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shovel -->
+
+  <VWE_MeleeWeapon_Shovel.label>pelle</VWE_MeleeWeapon_Shovel.label>
+  <VWE_MeleeWeapon_Shovel.description>Couramment utilisée sur le champ de bataille pour creuser des tranchées, cette petite pelle portable est également une excellente arme de mêlée.</VWE_MeleeWeapon_Shovel.description>
+  <VWE_MeleeWeapon_Shovel.tools.handle.label>poignée</VWE_MeleeWeapon_Shovel.tools.handle.label>
+  <VWE_MeleeWeapon_Shovel.tools.head.label>tête</VWE_MeleeWeapon_Shovel.tools.head.label>
+
+
+  <!-- Baton -->
+
+  <VWE_MeleeWeapon_Baton.label>matraque</VWE_MeleeWeapon_Baton.label>
+  <VWE_MeleeWeapon_Baton.description>Un bâton court de maintien de la paix couramment utilisé par les gardiens de prison et la milice d'urbworld.</VWE_MeleeWeapon_Baton.description>
+  <VWE_MeleeWeapon_Baton.tools.handle.label>poignée</VWE_MeleeWeapon_Baton.tools.handle.label>
+  <VWE_MeleeWeapon_Baton.tools.head.label>bâton</VWE_MeleeWeapon_Baton.tools.head.label>
+
+
+  <!-- Combat Knife -->
+
+  <VWE_MeleeWeapon_CombatKnife.label>couteau de combat</VWE_MeleeWeapon_CombatKnife.label>
+  <VWE_MeleeWeapon_CombatKnife.description>L'un des plus anciens objets fabriqués par l'humanité. Le couteau a pris de nombreuses formes, mais le concept est toujours resté le même : un manche pour le tenir et un tranchant pour couper.\n\nLe couteau de combat est une arme de mêlée standard pour la plupart des forces militaires.</VWE_MeleeWeapon_CombatKnife.description>
+  <VWE_MeleeWeapon_CombatKnife.tools.handle.label>poignée</VWE_MeleeWeapon_CombatKnife.tools.handle.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.blade.label>lame</VWE_MeleeWeapon_CombatKnife.tools.blade.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.point.label>pointe</VWE_MeleeWeapon_CombatKnife.tools.point.label>
+
+
+  <!-- Wrench -->
+
+  <VWE_MeleeWeapon_Wrench.label>clé à molette</VWE_MeleeWeapon_Wrench.label>
+  <VWE_MeleeWeapon_Wrench.description>Un instrument universel pour faire fonctionner même les choses les plus complexes.\n\Aide à la construction et au démantèlement des constructions mécanoïdes.</VWE_MeleeWeapon_Wrench.description>
+  <VWE_MeleeWeapon_Wrench.tools.handle.label>poignée</VWE_MeleeWeapon_Wrench.tools.handle.label>
+  <VWE_MeleeWeapon_Wrench.tools.head.label>tête</VWE_MeleeWeapon_Wrench.tools.head.label>
+
+
+  <!-- Cleaver -->
+
+  <VWE_MeleeWeapon_Cleaver.label>hachoir</VWE_MeleeWeapon_Cleaver.label>
+  <VWE_MeleeWeapon_Cleaver.description>L'un des plus anciens objets fabriqués par l'humanité. Le couteau a pris de nombreuses formes, mais le concept est toujours resté le même : un manche pour le tenir et un tranchant pour couper.\n\nCe type de couteau est couramment utilisé par les chefs pour couper la viande et les os.</VWE_MeleeWeapon_Cleaver.description>
+  <VWE_MeleeWeapon_Cleaver.tools.handle.label>poignée</VWE_MeleeWeapon_Cleaver.tools.handle.label>
+  <VWE_MeleeWeapon_Cleaver.tools.blade.label>lame</VWE_MeleeWeapon_Cleaver.tools.blade.label>
+
+
+  <!-- Scalpel -->
+
+  <VWE_MeleeWeapon_Scalpel.label>scalpel</VWE_MeleeWeapon_Scalpel.label>
+  <VWE_MeleeWeapon_Scalpel.description>L'un des plus anciens objets fabriqués par l'humanité. Le couteau a pris de nombreuses formes, mais le concept est toujours resté le même : un manche pour le tenir et un bord tranchant pour couper.\n\nCette lame est couramment utilisée par les chirurgiens en raison de son tranchant extrême.</VWE_MeleeWeapon_Scalpel.description>
+  <VWE_MeleeWeapon_Scalpel.tools.blade.label>lame</VWE_MeleeWeapon_Scalpel.tools.blade.label>
+  <VWE_MeleeWeapon_Scalpel.tools.point.label>pointe</VWE_MeleeWeapon_Scalpel.tools.point.label>
+
+
+</LanguageData>

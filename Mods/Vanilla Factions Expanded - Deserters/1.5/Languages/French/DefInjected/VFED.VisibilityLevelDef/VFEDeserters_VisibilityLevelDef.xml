@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFED_Hidden.label>invisible</VFED_Hidden.label>
+<VFED_Hidden.description>Vous opérez en secret, et l'Empire ne sait pas que vous avez prêté allégeance aux déserteurs. Ils ne répondront pas à vos attaques sur leurs installations et ne vous chercheront généralement pas dans le monde.</VFED_Hidden.description>
+
+<VFED_Whispers.label>discrète</VFED_Whispers.label>
+<VFED_Whispers.description>La nouvelle de votre activité a commencé à se répandre dans la haute noblesse, mais l'Empire vous considère toujours comme un ennui mineur et rare. Vous pouvez vous attendre à ce que des patrouilles soient envoyées dans toutes les installations impériales attaquées, mais vous devriez avoir suffisamment de temps pour entrer et sortir avant qu'elles n'arrivent. Les vérifications d'inventaire font désormais partie du briefing actualisé, ce qui rend l'acquisition de produits de contrebande un peu plus difficile.</VFED_Whispers.description>
+
+<VFED_Rumors.label>rumeur</VFED_Rumors.label>
+<VFED_Rumors.description>Des rumeurs concernant l'activité des déserteurs commencent à circuler parmi les officiers et soldats de rang inférieur de l'Empire. Bien que l'Empire n'ait pas encore de preuves concrètes de votre implication, il commence à prendre ces rumeurs au sérieux et a renforcé ses mesures de sécurité. Attendez-vous à rencontrer une sécurité accrue sur les installations impériales, ainsi qu'une force de réaction janissaire dès que l'installation sera alertée de votre présence. Les patrouilles impériales sont désormais très présentes et inspectent toutes les caravanes qu'elles rencontrent.</VFED_Rumors.description>
+<VFED_Rumors.specialEffects.0.label>L'événement caravane de la patrouille impériale devient actif.</VFED_Rumors.specialEffects.0.label>
+<VFED_Rumors.specialEffects.1.label>L'armée impériale sur les lieux de quête où l'Empire est présent est 20% plus grande.</VFED_Rumors.specialEffects.1.label>
+
+<VFED_News.label>actualité</VFED_News.label>
+<VFED_News.description>Vos actions ont été rendues publiques et ont fait l'objet d'une véritable tempête sur les chaînes d'information impériales. L'Empire vous considère désormais comme une menace sérieuse et s'est donné pour priorité de vous retrouver. Les mesures de sécurité dans toutes les installations ont été considérablement renforcées. En outre, l'Empire enverra désormais davantage de groupes de raiders dans les colonies soupçonnées d'abriter des déserteurs. Il sera plus difficile d'obtenir de la contrebande et du soutien de la part des habitants, car la campagne de propagande de l'Empire prend de l'ampleur.</VFED_News.description>
+<VFED_News.specialEffects.0.label>Les raids de la faction Empire sont deux fois plus fréquents.</VFED_News.specialEffects.0.label>
+<VFED_News.specialEffects.1.label>L'armée impériale sur les lieux de quête où l'Empire est présent est 50% plus grande.</VFED_News.specialEffects.1.label>
+<VFED_News.specialEffects.2.label>La propagande impériale peut désormais être largagée.</VFED_News.specialEffects.2.label>
+<VFED_News.specialEffects.3.label>La quête du déserteur pourchassé ne se produit plus.</VFED_News.specialEffects.3.label>
+
+<VFED_PublicEnemy.label>ennemi public</VFED_PublicEnemy.label>
+<VFED_PublicEnemy.description>Vous êtes désormais connu de tous et l'Empire vous considère comme son ennemi numéro un. Il utilise toutes ses ressources pour vous retrouver et vous éliminer, vous et vos partisans. L'Empire peut également utiliser la tactique dite "terre brûlée", en bombardant ou en pilonnant des zones entières soupçonnées d'aider les déserteurs. Ils sont prêts à sacrifier leurs installations pour éliminer les déserteurs et répondront à toute agression par un bombardement aveugle d'aérodrones. La plupart des opérations de contrebande cessent et la contrebande devient incroyablement difficile à trouver. Les guildes d'espionnage impériales diffusent de la désinformation pour monter les autres factions contre vous, ce qui rend difficile la distinction entre amis et ennemis. C'est une véritable guerre dont l'issue déterminera votre sort et celui de l'Empire. Préparez-vous à un combat difficile, car la survie est désormais la seule option possible.</VFED_PublicEnemy.description>
+<VFED_PublicEnemy.specialEffects.0.label>Les raids de la faction Empire sont trois fois plus fréquents.</VFED_PublicEnemy.specialEffects.0.label>
+<VFED_PublicEnemy.specialEffects.1.label>L'armée impériale sur les lieux de quête où l'Empire est présent est 100% plus grande.</VFED_PublicEnemy.specialEffects.1.label>
+<VFED_PublicEnemy.specialEffects.2.label>L'événement bombardement aérodrone devient actif.</VFED_PublicEnemy.specialEffects.2.label>
+<VFED_PublicEnemy.specialEffects.3.label>Le raid des absolutions peut désormais se produire.</VFED_PublicEnemy.specialEffects.3.label>
+<VFED_PublicEnemy.specialEffects.4.label>Les relations baissent de -10 par jour avec une faction aléatoire. </VFED_PublicEnemy.specialEffects.4.label>
+
+<VFED_DivineInferno.label>enfer divin</VFED_DivineInferno.label>
+<VFED_DivineInferno.description>L'Empire a lancé le protocole Enfer divin sur votre position. Puissiez-vous trouver du réconfort dans les flammes purificatrices. Vous avez 30 jours avant que l'Empire ne mette en place tous les satellites à rayon tranchant orbital nécessaires. Si vous ne parvenez pas à ramener à temps la visibilité à un niveau invisible, votre colonie sera recouverte de nombreux piliers de feu.</VFED_DivineInferno.description>
+<VFED_DivineInferno.specialEffects.0.label>Dès que le joueur atteint 100 de visibilité, le compte à rebours d'Enfer divin se déclenche.</VFED_DivineInferno.specialEffects.0.label>
+
+
+</LanguageData>

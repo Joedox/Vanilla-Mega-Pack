@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: 拦截机射线 -->
+<PTA_Interceptor_Beam.label>canon intercepteur</PTA_Interceptor_Beam.label>
+<!-- EN: 拦截机自带的附属武器。 -->
+<PTA_Interceptor_Beam.description>L'intercepteur est livré avec sa propre arme.</PTA_Interceptor_Beam.description>
+<!-- EN: barrel -->
+<PTA_Interceptor_Beam.tools.barrel.label>canon</PTA_Interceptor_Beam.tools.barrel.label>
+<!-- EN: 拦截机射线 -->
+<PTA_Interceptor_Beam.verbs.Verb_Shoot.label>canon intercepteur</PTA_Interceptor_Beam.verbs.Verb_Shoot.label>
+
+<!-- EN: 拦截机 -->
+<PTA_Interceptor_Race.label>intercepteur</PTA_Interceptor_Race.label>
+<!-- EN: 拦截机自带护盾并可以远程攻击，拦截机存在时会持续消耗施法者的灵能熵。 -->
+<PTA_Interceptor_Race.description>Les intercepteurs sont équipés de boucliers et peuvent effectuer des attaques à distance. Lorsqu'ils sont actifs, les intercepteurs consomment en permanence l'entropie psionique du psylanceur.</PTA_Interceptor_Race.description>
+<!-- EN: head -->
+<PTA_Interceptor_Race.tools.head.label>tête</PTA_Interceptor_Race.tools.head.label>
+
+<!-- EN: 相位碎裂炮 -->
+<PTA_Phasedisruptors.label>canon disruption de phase</PTA_Phasedisruptors.label>
+<!-- EN: 破坏力十足的能量弹，会对机械单位造成巨量伤害。 -->
+<PTA_Phasedisruptors.description>Une explosion d'énergie dévastatrice qui inflige d'énormes dégâts aux unités mécaniques.</PTA_Phasedisruptors.description>
+
+<!-- EN: 灵能冲击波 -->
+<PTA_PsionicShockwave.label>onde de choc psionique</PTA_PsionicShockwave.label>
+
+<!-- EN: Mote -->
+<PTA_PsychicInvisibility.label>Mote</PTA_PsychicInvisibility.label>
+
+<!-- EN: 净化新星 -->
+<PTA_PurificationNova.label>disrupteur</PTA_PurificationNova.label>
+<!-- EN: 净化新星持续2小时，死亡时会释放强力的能量爆炸，对附近的单位造成大量伤害。 -->
+<PTA_PurificationNova.description>Les disrupteurs durent 2 heures et libèrent une puissante nova purificatrice à leur mort, infligeant des dégâts massifs aux unités proches.</PTA_PurificationNova.description>
+<!-- EN: head -->
+<PTA_PurificationNova.tools.head.label>tête</PTA_PurificationNova.tools.head.label>
+
+<!-- EN: Mote -->
+<PTA_PurificationNova_Mote.label>Mote</PTA_PurificationNova_Mote.label>
+
+<!-- EN: 动能过载 -->
+<PTA_ResonanceCoil.label>sphère de particules</PTA_ResonanceCoil.label>
+<!-- EN: 破坏力十足的能量弹，会对建筑及不可逾越物体造成巨量伤害。 -->
+<PTA_ResonanceCoil.description>Un projectile énergétique d'une force destructrice qui inflige des dégâts massifs aux bâtiments et aux objets infranchissables.</PTA_ResonanceCoil.description>
+
+<!-- EN: Mote -->
+<PTA_SparksBlue.label>Mote</PTA_SparksBlue.label>
+
+<!-- EN: 时空陷阱 -->
+<PTA_TimeWarp.label>distorsion temporelle</PTA_TimeWarp.label>
+
+
+</LanguageData>

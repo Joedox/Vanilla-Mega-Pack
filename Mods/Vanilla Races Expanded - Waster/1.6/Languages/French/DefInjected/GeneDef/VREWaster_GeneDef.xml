@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Instability_Mild.label>instabilité cellulaire légère</Instability_Mild.label> <!-- Pour rendre cohérant avec les autres instabilités cellulaires -->
+
+
+<!-- EN: extreme cell instability -->
+<VRE_Instability_Extreme.label>instabilité cellulaire extrême</VRE_Instability_Extreme.label>
+<!-- EN: Carriers of this gene need very little metabolic energy to stay alive, at the cost of extremely-reduced stability in their cell-replication machinery. -->
+<VRE_Instability_Extreme.description>Les porteurs de ce gène ont besoin de très peu d'énergie métabolique pour rester en vie, au prix d'une stabilité extrêmement réduite de leur mécanisme de réplication cellulaire.</VRE_Instability_Extreme.description>
+
+<!-- EN: nominal cell instability -->
+<VRE_Instability_Nominal.label>instabilité cellulaire nominale</VRE_Instability_Nominal.label>
+<!-- EN: Carriers of this gene need slightly less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery. -->
+<VRE_Instability_Nominal.description>Les porteurs de ce gène ont besoin d'un peu moins d'énergie métabolique pour rester en vie, au prix d'une stabilité réduite de leur mécanisme de réplication cellulaire.</VRE_Instability_Nominal.description>
+
+<!-- EN: progressive cell instability -->
+<VRE_Instability_Progressive.label>instabilité cellulaire progressive</VRE_Instability_Progressive.label>
+<!-- EN: Carriers of this gene have their genetic code becoming progressively more unstable with every new generation. -->
+<VRE_Instability_Progressive.description>Les porteurs de ce gène voient leur code génétique devenir progressivement plus instable à chaque nouvelle génération.</VRE_Instability_Progressive.description>
+
+<!-- EN: tox absorption -->
+<VRE_ToxAbsorption.label>absorption toxique</VRE_ToxAbsorption.label>
+<!-- EN: Carriers of this gene have the extraordinary ability to directly absorb toxic gases through their skin. This gene does not have any effect in itself, but it does increase the speed at which pollution is satisfied for various pollution-related genes. -->
+<VRE_ToxAbsorption.description>Les porteurs de ce gène ont la capacité extraordinaire d'absorber directement les gaz toxiques par la peau. Ce gène n'a pas d'effet en soi, mais il augmente la vitesse à laquelle la pollution est satisfaite pour divers gènes liés à la pollution.</VRE_ToxAbsorption.description>
+<!-- EN: Pawns with this gene benefit from inhaling tox gas. If the pawn is standing on a cell with tox gas, Every 60 ticks (1 sec), pawn with the gene will increase in stimulus severity of any Pollution genes by additional +2.22%. This is separate from the increase based on standing on polluted terrain when having the pollution stimulus mutation / gene. -->
+<VRE_ToxAbsorption.customEffectDescriptions.0>Les colons avec ce gène bénéficient de l'inhalation de gaz toxiques. Si le colon se trouve sur une case contenant du gaz toxique, tous les 60 ticks (1 sec), il augmentera la sévérité du stimulation de tous les gènes de pollution de +2,22%. Cette augmentation est distincte de l'augmentation basée sur le fait de se tenir sur un sol pollué lorsque l'on possède la mutation / gène de stimulation de la pollution.</VRE_ToxAbsorption.customEffectDescriptions.0>
+
+
+<!-- EN: randomizer -->
+<VREW_Mutation_Randomizer.label>aléatoire</VREW_Mutation_Randomizer.label>
+<!-- EN: Once a pawn receives this gene, it will transform itself into 1-3 random mutations. -->
+<VREW_Mutation_Randomizer.description>Lorsqu'un colon reçoit ce gène, il se transforme en 1 à 3 mutations aléatoires.</VREW_Mutation_Randomizer.description>
+
+<!-- EN: pollution accuracy -->
+<VREW_PollutionAccuracy.label>précision de pollution</VREW_PollutionAccuracy.label>
+<!-- EN: Carriers of this gene achieve improved steadiness and precision in polluted environments. As pollution levels rise, their aiming capabilities are enhanced, allowing them to target and strike with remarkable accuracy. -->
+<VREW_PollutionAccuracy.description>Les porteurs de ce gène bénéficient d'une stabilité et d'une précision accrues dans les environnements pollués. À mesure que le niveau de pollution augmente, leurs capacités de visée sont améliorées, ce qui leur permet de cibler et de tirer avec une précision remarquable.</VREW_PollutionAccuracy.description>
+
+<!-- EN: pollution cognition -->
+<VREW_PollutionCognition.label>cognition de pollution</VREW_PollutionCognition.label>
+<!-- EN: Carriers of this gene exhibit enhanced focus and learning abilities in polluted environments. As pollution levels rise, their capacity to acquire new skills and retain knowledge expands. -->
+<VREW_PollutionCognition.description>Les porteurs de ce gène font preuve d'une concentration et de capacités d'apprentissage accrues dans les environnements pollués. À mesure que le niveau de pollution augmente, leur capacité à acquérir de nouvelles compétences et à retenir les connaissances s'accroît.</VREW_PollutionCognition.description>
+
+<!-- EN: pollution fertility -->
+<VREW_PollutionFertility.label>fertilité de pollution</VREW_PollutionFertility.label>
+<!-- EN: Carriers of this gene have a boost to fertility in polluted environments, allowing for increased offspring production and faster lineage expansion in hazardous conditions. -->
+<VREW_PollutionFertility.description>Les porteurs de ce gène ont une fertilité accrue dans les environnements pollués, ce qui permet d'augmenter la natalité et d'accélérer l'expansion de la lignée dans des conditions dangereuses.</VREW_PollutionFertility.description>
+
+<!-- EN: pollution happiness -->
+<VREW_PollutionHappiness.label>bonheur de pollution</VREW_PollutionHappiness.label>
+<!-- EN: Carriers of this gene enjoy heightened levels of happiness in polluted environments, experiencing increased joy and contentment as pollution levels rise, making them thrive in otherwise gloomy conditions. -->
+<VREW_PollutionHappiness.description>Les porteurs de ce gène sont plus heureux dans les environnements pollués. Ils ressentent une joie et un contentement accrus à mesure que le niveau de pollution augmente, ce qui leur permet de s'épanouir dans des conditions habituellement moroses.</VREW_PollutionHappiness.description>
+
+<!-- EN: pollution numbness -->
+<VREW_PollutionNumbness.label>engourdissement de pollution</VREW_PollutionNumbness.label>
+<!-- EN: Carriers of this gene experience reduced pain sensations in polluted environments as pollution levels increase. -->
+<VREW_PollutionNumbness.description>Les porteurs de ce gène ressentent moins de douleur dans les environnements pollués à mesure que le niveau de pollution augmente.</VREW_PollutionNumbness.description>
+
+<!-- EN: pollution productivity -->
+<VREW_PollutionProductivity.label>productivité de pollution</VREW_PollutionProductivity.label>
+<!-- EN: Carriers of this gene find their work speed significantly improved in polluted environments, allowing them to complete tasks more efficiently and swiftly as pollution levels increase. -->
+<VREW_PollutionProductivity.description>Les porteurs de ce gène voient leur vitesse de travail considérablement améliorée dans les environnements pollués, ce qui leur permet d'accomplir des tâches plus efficacement et plus rapidement lorsque le niveau de pollution augmente.</VREW_PollutionProductivity.description>
+
+<!-- EN: pollution psy-sensitivity -->
+<VREW_PollutionPsySensitivity.label>sensibilité psychique de pollution</VREW_PollutionPsySensitivity.label>
+<!-- EN: Carriers of this gene experience amplified psychic sensitivity in polluted environments, leading to stronger intuition and telepathic skills as pollution levels increase. -->
+<VREW_PollutionPsySensitivity.description>Les porteurs de ce gène ont une sensibilité psychique amplifiée dans les environnements pollués, ce qui se traduit par une intuition et des capacités télépathiques plus fortes à mesure que le niveau de pollution augmente.</VREW_PollutionPsySensitivity.description>
+
+<!-- EN: pollution rage -->
+<VREW_PollutionRage.label>rage de pollution</VREW_PollutionRage.label>
+<!-- EN: Carriers of this gene experience amplified close-quarters damage output in polluted environments. As pollution levels escalate, their ferocity and strength intensify, allowing them to inflict greater harm on their adversaries. -->
+<VREW_PollutionRage.description>Les porteurs de ce gène obtiennent des dégâts plus importants au corps à corps dans les environnements pollués. À mesure que le niveau de pollution augmente, leur férocité et leur force s'intensifient, ce qui leur permet d'infliger des dégâts plus importants à leurs adversaires.</VREW_PollutionRage.description>
+
+<!-- EN: pollution regeneration -->
+<VREW_PollutionRegeneration.label>régénération de pollution</VREW_PollutionRegeneration.label>
+<!-- EN: Carriers of this gene benefit from accelerated natural healing in polluted environments. As pollution levels increase, their regenerative abilities are boosted, enabling them to recover from injuries and restore their vitality more rapidly. -->
+<VREW_PollutionRegeneration.description>Les porteurs de ce gène bénéficient d'une guérison naturelle accélérée dans les environnements pollués. À mesure que les niveaux de pollution augmentent, leurs capacités de régénération sont renforcées, ce qui leur permet de se remettre des blessures et de retrouver leur vitalité plus rapidement.</VREW_PollutionRegeneration.description>
+
+<!-- EN: pollution stimulus -->
+<VREW_PollutionRush.label>stimulation de pollution</VREW_PollutionRush.label>
+<!-- EN: Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects. -->
+<VREW_PollutionRush.description>Les porteurs de ce gène bénéficient d'une stimulation chimique lorsqu'ils sont exposés à la pollution. Cela leur permet de se déplacer plus rapidement et d'avoir les idées plus claires. Un gène similaire est présent chez les méga-insectes issus de l'ingénierie de combat.</VREW_PollutionRush.description>
+<!-- EN: Gain stat bonuses when exposed to pollution. -->
+<VREW_PollutionRush.customEffectDescriptions.0>Gagne des bonus de statistiques lorsqu'il est exposé à la pollution.</VREW_PollutionRush.customEffectDescriptions.0>
+
+<!-- EN: pollution sustenance -->
+<VREW_PollutionSustenance.label>subsistance de pollution</VREW_PollutionSustenance.label>
+<!-- EN: Carriers of this gene possess the remarkable ability to derive nutrition from pollution. In polluted environments, they can absorb vital nutrients from the air, slowing down their hunger rate. -->
+<VREW_PollutionSustenance.description>Les porteurs de ce gène possèdent la remarquable capacité de tirer des nutriments de la pollution. Dans les environnements pollués, ils peuvent absorber les nutriments vitaux de l'air, ce qui ralentit leur rythme de consommation.</VREW_PollutionSustenance.description>
+
+
+<!-- Si Alpha Genes n'est pas présent. -->
+<!-- EN: gaunt body -->
+<VRE_GauntBody.label>corps décharné</VRE_GauntBody.label>
+<!-- EN: Carriers of this gene have a pinched, gaunt appearance in their body. -->
+<VRE_GauntBody.description>Les porteurs de ce gène présentent un aspect pincé et décharné de leur corps.</VRE_GauntBody.description>
+<!-- EN: gaunt -->
+<VRE_GauntBody.labelShortAdj>décharné</VRE_GauntBody.labelShortAdj>
+<!-- EN: gaunt -->
+<VRE_GauntBody.symbolPack.prefixSymbols.0.symbol>décharné</VRE_GauntBody.symbolPack.prefixSymbols.0.symbol>
+<!-- EN: zomb -->
+<VRE_GauntBody.symbolPack.prefixSymbols.1.symbol>zomb</VRE_GauntBody.symbolPack.prefixSymbols.1.symbol>
+<!-- EN: dead -->
+<VRE_GauntBody.symbolPack.prefixSymbols.2.symbol>mort</VRE_GauntBody.symbolPack.prefixSymbols.2.symbol>
+<!-- EN: bone -->
+<VRE_GauntBody.symbolPack.prefixSymbols.3.symbol>os</VRE_GauntBody.symbolPack.prefixSymbols.3.symbol>
+
+
+</LanguageData>

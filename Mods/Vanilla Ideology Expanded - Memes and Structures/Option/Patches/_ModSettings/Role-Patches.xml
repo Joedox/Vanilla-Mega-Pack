@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<!-- ================ Rôles ================ -->
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Désactiver les restrictions des rôles</label>
+		<tooltip>Désactive les restrictions des tâches de vos colons pour les rôles :\n - Pompier\n - Dompteur d'insectoïdes\n - Infirmier\n - Majordome\n(Par défaut : désactivé)\n\nNécessite le redémarrage du jeu.</tooltip>
+		<id>Vmemese_RolesOff</id>
+		<category>Vmemese_Roles</category>
+		<order>0</order>
+		<operations>
+			<li Class="PatchOperationRemove">
+				<xpath>Defs/PreceptDef[defName="VME_IdeoRole_FireKeeper"]/roleDisabledWorkTags</xpath>
+			</li>
+
+			<li Class="PatchOperationRemove">
+				<xpath>Defs/PreceptDef[defName="VME_IdeoRole_InsectoidHerder"]/roleDisabledWorkTags</xpath>
+			</li>
+
+			<li Class="PatchOperationRemove">
+				<xpath>Defs/PreceptDef[defName="VME_IdeoRole_Nurse"]/roleDisabledWorkTags</xpath>
+			</li>
+
+			<li Class="PatchOperationRemove">
+				<xpath>Defs/PreceptDef[defName="VME_IdeoRole_Majordomo"]/roleDisabledWorkTags</xpath>
+			</li>
+		</operations>
+	</Operation>
+
+
+</Patch>

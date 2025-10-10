@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Compound Bow -->
+
+  <VWE_Arrow_Compound.label>flèche d'arc à poulies</VWE_Arrow_Compound.label>
+
+  <VWE_Bow_Compound.label>arc à poulies</VWE_Bow_Compound.label>
+  <VWE_Bow_Compound.description>Un arc moderne utilisant un système de leviers pour tirer une flèche sur de longues distances.\n\nGrâce à son mécanisme silencieux, cet arc n'émet pas de son considérable lors du tir, ce qui le rend utile pour la chasse.</VWE_Bow_Compound.description>
+  <VWE_Bow_Compound.tools.limb.label>cadre de l'arc</VWE_Bow_Compound.tools.limb.label>
+  <VWE_Bow_Compound.verbs.Verb_Shoot.label>arc à poulies</VWE_Bow_Compound.verbs.Verb_Shoot.label>
+
+
+  <!-- Hand Cannon -->
+
+  <VWE_Bullet_HandCannon.label>balle canon à main</VWE_Bullet_HandCannon.label>
+
+  <VWE_Gun_HandCannon.label>canon à main</VWE_Gun_HandCannon.label>
+  <VWE_Gun_HandCannon.description>Revolver avec un tir lent mais de gros calibre afin de tirer sur de longues distances.</VWE_Gun_HandCannon.description>
+  <VWE_Gun_HandCannon.tools.grip.label>poignée</VWE_Gun_HandCannon.tools.grip.label>
+  <VWE_Gun_HandCannon.tools.barrel.label>crosse</VWE_Gun_HandCannon.tools.barrel.label>
+  <VWE_Gun_HandCannon.verbs.Verb_Shoot.label>canon à main</VWE_Gun_HandCannon.verbs.Verb_Shoot.label>
+
+
+  <!-- Combat Handgun -->
+
+  <VWE_Bullet_CombatHandgun.label>balle arme de poing de combat</VWE_Bullet_CombatHandgun.label>
+
+  <VWE_CombatHandgun.label>arme de poing de combat</VWE_CombatHandgun.label>
+  <VWE_CombatHandgun.description>Pistolet semi-automatique pour l'autodéfense. Le système avancé de contre-recul permet à cette arme de tirer beaucoup plus rapidement qu'un pistolet automatique standard.</VWE_CombatHandgun.description>
+  <VWE_CombatHandgun.tools.grip.label>poignée</VWE_CombatHandgun.tools.grip.label>
+  <VWE_CombatHandgun.tools.barrel.label>crosse</VWE_CombatHandgun.tools.barrel.label>
+  <VWE_CombatHandgun.verbs.Verb_Shoot.label>arme de poing de combat</VWE_CombatHandgun.verbs.Verb_Shoot.label>
+
+
+  <!-- Sawed-off Shotgun -->
+
+  <VWE_Bullet_SawedOffShotgun.label>balle fusil à canon scié</VWE_Bullet_SawedOffShotgun.label>
+
+  <VWE_SawedOffShotgun.label>fusil à canon scié</VWE_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.description>Fusil de chasse court à double canon. Bien que sa portée ne soit pas la même que celle d'un fusil à pompe standard, cette arme tire deux cartouches successivement et rapidement.</VWE_SawedOffShotgun.description>
+  <VWE_SawedOffShotgun.tools.grip.label>poignée</VWE_SawedOffShotgun.tools.grip.label>
+  <VWE_SawedOffShotgun.tools.barrel.label>crosse</VWE_SawedOffShotgun.tools.barrel.label>
+  <VWE_SawedOffShotgun.verbs.Verb_Shoot.label>fusil à canon scié</VWE_SawedOffShotgun.verbs.Verb_Shoot.label>
+
+
+  <!-- Grenade Launcher -->
+
+  <VWE_Bullet_GrenadeLauncher.label>grenade</VWE_Bullet_GrenadeLauncher.label>
+
+  <VWE_Gun_GrenadeLauncher.label>lance-grenades</VWE_Gun_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.description>Un lance-grenades de type militaire pour l’usage anti-infanterie.</VWE_Gun_GrenadeLauncher.description>
+  <VWE_Gun_GrenadeLauncher.tools.stock.label>canon</VWE_Gun_GrenadeLauncher.tools.stock.label>
+  <VWE_Gun_GrenadeLauncher.tools.barrel.label>chargeur</VWE_Gun_GrenadeLauncher.tools.barrel.label>
+  <VWE_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>lance-grenades</VWE_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>
+
+
+  <!-- Flamethrower -->
+
+  <VWE_Bullet_Flamethrower.label>flamme</VWE_Bullet_Flamethrower.label>
+
+  <VWE_Gun_Flamethrower.label>lance-flammes</VWE_Gun_Flamethrower.label>
+  <VWE_Gun_Flamethrower.description>Arme incendiaire mécanique pour libérer des jaillissements de feu sur les ennemis.</VWE_Gun_Flamethrower.description>
+  <VWE_Gun_Flamethrower.tools.stock.label>canon</VWE_Gun_Flamethrower.tools.stock.label>
+  <VWE_Gun_Flamethrower.tools.barrel.label>chargeur</VWE_Gun_Flamethrower.tools.barrel.label>
+  <VWE_Gun_Flamethrower.verbs.Verb_Shoot.label>lance-flammes</VWE_Gun_Flamethrower.verbs.Verb_Shoot.label>
+
+
+  <!-- Fire Extinguisher -->
+
+  <VWE_Bullet_FireExtinguisher.label>mousse d'extincteur</VWE_Bullet_FireExtinguisher.label>
+
+  <VWE_Gun_FireExtinguisher.label>extincteur</VWE_Gun_FireExtinguisher.label>
+  <VWE_Gun_FireExtinguisher.description>Rempli de mousse et additif qui peut être utilisée pour éteindre tout type d'incendie sur le terrain.</VWE_Gun_FireExtinguisher.description>
+  <VWE_Gun_FireExtinguisher.tools.canister.label>cuve</VWE_Gun_FireExtinguisher.tools.canister.label>
+  <VWE_Gun_FireExtinguisher.verbs.Verb_Shoot.label>extincteur</VWE_Gun_FireExtinguisher.verbs.Verb_Shoot.label>
+
+
+  <!-- Semi-Automatic Rifle -->
+
+  <VWE_Bullet_SemiAutomaticRifle.label>balle fusil semi-automatique</VWE_Bullet_SemiAutomaticRifle.label>
+
+  <VWE_Gun_SemiAutomaticRifle.label>fusil semi-automatique</VWE_Gun_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.description>Modèle semi-automatique d'un fusil à verrou standard. Bien qu'il ne soit pas aussi précis et puissant que son prédécesseur, il compense par sa vitesse de tir.</VWE_Gun_SemiAutomaticRifle.description>
+  <VWE_Gun_SemiAutomaticRifle.tools.stock.label>canon</VWE_Gun_SemiAutomaticRifle.tools.stock.label>
+  <VWE_Gun_SemiAutomaticRifle.tools.barrel.label>chargeur</VWE_Gun_SemiAutomaticRifle.tools.barrel.label>
+  <VWE_Gun_SemiAutomaticRifle.verbs.Verb_Shoot.label>fusil semi-automatique</VWE_Gun_SemiAutomaticRifle.verbs.Verb_Shoot.label>
+
+
+  <!-- Lever-Action Rifle -->
+
+  <VWE_Bullet_LeverActionRifle.label>balle fusil à verrou</VWE_Bullet_LeverActionRifle.label>
+
+  <VWE_Gun_LeverActionRifle.label>fusil à verrou</VWE_Gun_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.description>Un fusil qui utilise un levier situé autour de la zone du pontet pour charger de nouvelles cartouches. Bien qu'elle ne soit pas aussi puissante que d'autres fusils, cette arme permet un rechargement rapide.\n\nLargement utilisé dans les pays occidentaux pour sa capacité à être utilisé à dos de cheval.</VWE_Gun_LeverActionRifle.description>
+  <VWE_Gun_LeverActionRifle.tools.stock.label>canon</VWE_Gun_LeverActionRifle.tools.stock.label>
+  <VWE_Gun_LeverActionRifle.tools.barrel.label>chargeur</VWE_Gun_LeverActionRifle.tools.barrel.label>
+  <VWE_Gun_LeverActionRifle.verbs.Verb_Shoot.label>Fusil à verrou</VWE_Gun_LeverActionRifle.verbs.Verb_Shoot.label>
+
+
+  <!-- Light SMG -->
+
+  <VWE_Bullet_LightSMG.label>balle SMG léger</VWE_Bullet_LightSMG.label>
+
+  <VWE_Gun_LightSMG.label>SMG léger</VWE_Gun_LightSMG.label>
+  <VWE_Gun_LightSMG.description>Mitraillette légère à culasse ouverte avec refroidissement amélioré, permettant des rafales plus longues avant que l'arme ne surchauffe.</VWE_Gun_LightSMG.description>
+  <VWE_Gun_LightSMG.tools.grip.label>poignée</VWE_Gun_LightSMG.tools.grip.label>
+  <VWE_Gun_LightSMG.tools.barrel.label>chargeur</VWE_Gun_LightSMG.tools.barrel.label>
+  <VWE_Gun_LightSMG.verbs.Verb_Shoot.label>SMG léger</VWE_Gun_LightSMG.verbs.Verb_Shoot.label>
+
+
+  <!-- SMG -->
+
+  <VWE_Bullet_SMG.label>balle SMG</VWE_Bullet_SMG.label>
+
+  <VWE_Gun_SMG.label>SMG</VWE_Gun_SMG.label>
+  <VWE_Gun_SMG.description>Une mitraillette compacte. Bien qu'elle n'ait pas une longue portée de tir, elle inflige des dégâts importants à courte distance.</VWE_Gun_SMG.description>
+  <VWE_Gun_SMG.tools.grip.label>poignée</VWE_Gun_SMG.tools.grip.label>
+  <VWE_Gun_SMG.tools.barrel.label>chargeur</VWE_Gun_SMG.tools.barrel.label>
+  <VWE_Gun_SMG.verbs.Verb_Shoot.label>SMG</VWE_Gun_SMG.verbs.Verb_Shoot.label>
+
+
+  <!-- HMG -->
+
+  <VWE_Bullet_HMG.label>balle HMG</VWE_Bullet_HMG.label>
+
+  <VWE_Gun_HMG.label>HMG</VWE_Gun_HMG.label>
+  <VWE_Gun_HMG.description>Un fusil d'assaut polyvalent et robuste largement utilisé dans la galaxie par les milices et les mercenaires.\n\nIl n'est pas aussi puissant qu'un fusil d'assaut, mais permet de tirer des rafales de 4 coups.</VWE_Gun_HMG.description>
+  <VWE_Gun_HMG.tools.stock.label>canon</VWE_Gun_HMG.tools.stock.label>
+  <VWE_Gun_HMG.tools.barrel.label>chargeur</VWE_Gun_HMG.tools.barrel.label>
+  <VWE_Gun_HMG.verbs.Verb_Shoot.label>HMG</VWE_Gun_HMG.verbs.Verb_Shoot.label>
+
+
+  <!-- Service Rifle -->
+
+  <VWE_Bullet_ServiceRifle.label>balle fusil de service</VWE_Bullet_ServiceRifle.label>
+
+  <VWE_Gun_ServiceRifle.label>fusil de service</VWE_Gun_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.description>Un fusil d'assaut polyvalent et robuste largement utilisé dans la galaxie par les milices et les mercenaires.\n\nIl n'est pas aussi puissant qu'un fusil d'assaut, mais permet de tirer des rafales de 4 coups.</VWE_Gun_ServiceRifle.description>
+  <VWE_Gun_ServiceRifle.tools.stock.label>canon</VWE_Gun_ServiceRifle.tools.stock.label>
+  <VWE_Gun_ServiceRifle.tools.barrel.label>chargeur</VWE_Gun_ServiceRifle.tools.barrel.label>
+  <VWE_Gun_ServiceRifle.verbs.Verb_Shoot.label>fusil de service</VWE_Gun_ServiceRifle.verbs.Verb_Shoot.label>
+
+
+  <!-- Battle Rifle -->
+
+  <VWE_Bullet_BattleRifle.label>balle fusil de combat</VWE_Bullet_BattleRifle.label>
+
+  <VWE_Gun_BattleRifle.label>fusil de combat</VWE_Gun_BattleRifle.label>
+  <VWE_Gun_BattleRifle.description>Un fusil semi-automatique couramment utilisé par les forces spéciales en raison de sa portée et de sa précision.\n\nSa portée et ses dégâts sont légèrement supérieurs à ceux d'un fusil d'assaut, mais il ne tire que des rafales de 2 balles.</VWE_Gun_BattleRifle.description>
+  <VWE_Gun_BattleRifle.tools.stock.label>canon</VWE_Gun_BattleRifle.tools.stock.label>
+  <VWE_Gun_BattleRifle.tools.barrel.label>chargeur</VWE_Gun_BattleRifle.tools.barrel.label>
+  <VWE_Gun_BattleRifle.verbs.Verb_Shoot.label>fusil de combat</VWE_Gun_BattleRifle.verbs.Verb_Shoot.label>
+
+
+  <!-- Carbine -->
+
+  <VWE_Bullet_Carbine.label>balle fusil bullpup</VWE_Bullet_Carbine.label>
+
+  <VWE_Gun_Carbine.label>fusil bullpup</VWE_Gun_Carbine.label>
+  <VWE_Gun_Carbine.description>Fusil bullpup, utilisé souvent en combat urbain rapproché.\n\nBien que sa précision soit bonne à courte distance, il est incapable de tirer avec précision à longue portée en raison de sa crosse courte.</VWE_Gun_Carbine.description>
+  <VWE_Gun_Carbine.tools.stock.label>canon</VWE_Gun_Carbine.tools.stock.label>
+  <VWE_Gun_Carbine.tools.barrel.label>chargeur</VWE_Gun_Carbine.tools.barrel.label>
+  <VWE_Gun_Carbine.verbs.Verb_Shoot.label>fusil bullpup</VWE_Gun_Carbine.verbs.Verb_Shoot.label>
+
+
+  <!-- Marksman Rifle -->
+
+  <Bullet_MarksmanRifle.label>balle fusil de tireur d'élite</Bullet_MarksmanRifle.label>
+
+  <VWE_Gun_MarksmanRifle.label>fusil de tireur d'élite</VWE_Gun_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.description>Un fusil de tireur d'élite désigné.\n\nBien qu'il présente des similitudes avec un fusil à verrou standard, il sacrifie ses dégâts pour tirer deux coups successifs.</VWE_Gun_MarksmanRifle.description>
+  <VWE_Gun_MarksmanRifle.tools.stock.label>canon</VWE_Gun_MarksmanRifle.tools.stock.label>
+  <VWE_Gun_MarksmanRifle.tools.barrel.label>chargeur</VWE_Gun_MarksmanRifle.tools.barrel.label>
+  <VWE_Gun_MarksmanRifle.verbs.Verb_Shoot.label>fusil de tireur d'élite</VWE_Gun_MarksmanRifle.verbs.Verb_Shoot.label>
+
+
+  <!-- Anti-Materiel Rifle -->
+
+  <Bullet_AntiMaterialRifle.label>balle fusil anti-matériel</Bullet_AntiMaterialRifle.label>
+
+  <VWE_Gun_AntiMaterialRifle.label>fusil anti-matériel</VWE_Gun_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.description>Étant un fusil de calibre .50, cette arme a été conçue pour combattre les équipements blindés ennemis.\n\nLargement utilisée dans les zones de guerre mécanoïdes, cette arme est également utile contre l'infanterie, permettant de tuer en un coup.</VWE_Gun_AntiMaterialRifle.description>
+  <VWE_Gun_AntiMaterialRifle.tools.stock.label>canon</VWE_Gun_AntiMaterialRifle.tools.stock.label>
+  <VWE_Gun_AntiMaterialRifle.tools.barrel.label>chargeur</VWE_Gun_AntiMaterialRifle.tools.barrel.label>
+  <VWE_Gun_AntiMaterialRifle.verbs.Verb_Shoot.label>fusil anti-matériel</VWE_Gun_AntiMaterialRifle.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

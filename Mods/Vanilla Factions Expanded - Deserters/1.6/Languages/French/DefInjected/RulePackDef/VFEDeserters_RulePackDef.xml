@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: operationName->Operation [AdjectiveAny] [NounAny] -->
+<VFED_OperationName.rulePack.rulesStrings.0>operationName->Opération [NounAny] [AdjectiveAny]</VFED_OperationName.rulePack.rulesStrings.0>
+<!-- EN: NounAny->[ConceptAny] -->
+<VFED_OperationName.rulePack.rulesStrings.1>NounAny->[ConceptAny]</VFED_OperationName.rulePack.rulesStrings.1>
+<!-- EN: NounAny->[ColorAny] -->
+<VFED_OperationName.rulePack.rulesStrings.2>NounAny->[ColorAny]</VFED_OperationName.rulePack.rulesStrings.2>
+<!-- EN: NounAny->[Vegetable] -->
+<VFED_OperationName.rulePack.rulesStrings.3>NounAny->[Vegetable]</VFED_OperationName.rulePack.rulesStrings.3>
+<!-- EN: NounAny->[Game] -->
+<VFED_OperationName.rulePack.rulesStrings.4>NounAny->[Game]</VFED_OperationName.rulePack.rulesStrings.4>
+<!-- EN: NounAny->[AnimalAny] -->
+<VFED_OperationName.rulePack.rulesStrings.5>NounAny->[AnimalAny]</VFED_OperationName.rulePack.rulesStrings.5>
+<!-- EN: NounAny->[Weapon] -->
+<VFED_OperationName.rulePack.rulesStrings.6>NounAny->[Weapon]</VFED_OperationName.rulePack.rulesStrings.6>
+<!-- EN: NounAny->[TerrainFeature] -->
+<VFED_OperationName.rulePack.rulesStrings.7>NounAny->[TerrainFeature]</VFED_OperationName.rulePack.rulesStrings.7>
+<!-- EN: NounAny->[NaturalObject] -->
+<VFED_OperationName.rulePack.rulesStrings.8>NounAny->[NaturalObject]</VFED_OperationName.rulePack.rulesStrings.8>
+<!-- EN: NounAny->[TreeType] -->
+<VFED_OperationName.rulePack.rulesStrings.9>NounAny->[TreeType]</VFED_OperationName.rulePack.rulesStrings.9>
+<!-- EN: NounAny->[Enemy] -->
+<VFED_OperationName.rulePack.rulesStrings.10>NounAny->[Enemy]</VFED_OperationName.rulePack.rulesStrings.10>
+<!-- EN: NounAny->[Apparel] -->
+<VFED_OperationName.rulePack.rulesStrings.11>NounAny->[Apparel]</VFED_OperationName.rulePack.rulesStrings.11>
+<!-- EN: NounAny->[Gore] -->
+<VFED_OperationName.rulePack.rulesStrings.12>NounAny->[Gore]</VFED_OperationName.rulePack.rulesStrings.12>
+<!-- EN: NounAny->[BodyPart] -->
+<VFED_OperationName.rulePack.rulesStrings.13>NounAny->[BodyPart]</VFED_OperationName.rulePack.rulesStrings.13>
+<!-- EN: ColorAny->[Color] -->
+<VFED_OperationName.rulePack.rulesStrings.14>ColorAny->[Color]</VFED_OperationName.rulePack.rulesStrings.14>
+<!-- EN: ColorAny->[ColorBadass] -->
+<VFED_OperationName.rulePack.rulesStrings.15>ColorAny->[ColorBadass]</VFED_OperationName.rulePack.rulesStrings.15>
+<!-- EN: AnimalAny->[Animal] -->
+<VFED_OperationName.rulePack.rulesStrings.16>AnimalAny->[Animal]</VFED_OperationName.rulePack.rulesStrings.16>
+<!-- EN: AnimalAny->[AnimalBadass] -->
+<VFED_OperationName.rulePack.rulesStrings.17>AnimalAny->[AnimalBadass]</VFED_OperationName.rulePack.rulesStrings.17>
+
+<!-- EN: plotName(nobleTitle==Knight)->Kindless knight -->
+<VFED_PlotName.rulePack.rulesStrings.0>plotName(nobleTitle==Knight)->Chevalier sans pitié</VFED_PlotName.rulePack.rulesStrings.0>
+<!-- EN: plotName(nobleTitle==Praetor)->Petty praetor -->
+<VFED_PlotName.rulePack.rulesStrings.1>plotName(nobleTitle==Praetor)->Préteur mesquin</VFED_PlotName.rulePack.rulesStrings.1>
+<!-- EN: plotName(nobleTitle==Baron)->Bigoted baron -->
+<VFED_PlotName.rulePack.rulesStrings.2>plotName(nobleTitle==Baron)->Baron intolérant</VFED_PlotName.rulePack.rulesStrings.2>
+<!-- EN: plotName(nobleTitle==Count)->Crooked count -->
+<VFED_PlotName.rulePack.rulesStrings.3>plotName(nobleTitle==Count)->Comte malhonnête</VFED_PlotName.rulePack.rulesStrings.3>
+<!-- EN: plotName(nobleTitle==VFEE_Archcount)->Abusive archcount -->
+<VFED_PlotName.rulePack.rulesStrings.4>plotName(nobleTitle==VFEE_Archcount)->Archicomte abusif</VFED_PlotName.rulePack.rulesStrings.4>
+<!-- EN: plotName(nobleTitle==VFEE_Marquess)->Militant marquess -->
+<VFED_PlotName.rulePack.rulesStrings.5>plotName(nobleTitle==VFEE_Marquess)->Marquis militant</VFED_PlotName.rulePack.rulesStrings.5>
+<!-- EN: plotName(nobleTitle==Duke)->Depraved duke -->
+<VFED_PlotName.rulePack.rulesStrings.6>plotName(nobleTitle==Duke)->Duc dépravé</VFED_PlotName.rulePack.rulesStrings.6>
+<!-- EN: plotName(nobleTitle==VFEE_Archduke)->Arrogant archduke -->
+<VFED_PlotName.rulePack.rulesStrings.7>plotName(nobleTitle==VFEE_Archduke)->Archiduc arrogant</VFED_PlotName.rulePack.rulesStrings.7>
+<!-- EN: plotName(nobleTitle==Consul)->Corrupted consul -->
+<VFED_PlotName.rulePack.rulesStrings.8>plotName(nobleTitle==Consul)->Consul corrompu</VFED_PlotName.rulePack.rulesStrings.8>
+<!-- EN: plotName(nobleTitle==VFEE_Magister)->Malevolent magister -->
+<VFED_PlotName.rulePack.rulesStrings.9>plotName(nobleTitle==VFEE_Magister)->Magistère malveillant</VFED_PlotName.rulePack.rulesStrings.9>
+<!-- EN: plotName(nobleTitle==VFEE_Despot)->Deranged despot -->
+<VFED_PlotName.rulePack.rulesStrings.10>plotName(nobleTitle==VFEE_Despot)->Despote dérangé</VFED_PlotName.rulePack.rulesStrings.10>
+<!-- EN: plotName(nobleTitle==Stellarch)->Sickening stellarch -->
+<VFED_PlotName.rulePack.rulesStrings.11>plotName(nobleTitle==Stellarch)->Gouverneur stellaire répugnant</VFED_PlotName.rulePack.rulesStrings.11>
+<!-- EN: plotName(nobleTitle==VFEE_HighStellarch)->Heinous high stellarch -->
+<VFED_PlotName.rulePack.rulesStrings.12>plotName(nobleTitle==VFEE_HighStellarch)->Haut stellaire odieux</VFED_PlotName.rulePack.rulesStrings.12>
+<!-- EN: plotName(nobleTitle==Emperor)->Egocentric emperor -->
+<VFED_PlotName.rulePack.rulesStrings.13>plotName(nobleTitle==Emperor)->Empereur égocentrique</VFED_PlotName.rulePack.rulesStrings.13>
+
+
+</LanguageData>

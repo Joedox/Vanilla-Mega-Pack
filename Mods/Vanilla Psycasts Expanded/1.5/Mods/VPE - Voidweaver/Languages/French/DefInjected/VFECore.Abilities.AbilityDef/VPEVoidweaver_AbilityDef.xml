@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Weave Protolith -->
+<VPE_NoctolithSTNL.label>protolithe</VPE_NoctolithSTNL.label>
+<!-- EN: Manifest a structure capable of producing bioferrite. -->
+<VPE_NoctolithSTNL.description>Manifeste une structure pouvant produire de la bioferrite.</VPE_NoctolithSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_NoctolithSTNL.jobReportString>Utilise la capacité : {0}</VPE_NoctolithSTNL.jobReportString>
+<!-- EN: Weave Protolith -->
+<VPE_NoctolithSTNL.verbProperties.label>tisser un protolithe</VPE_NoctolithSTNL.verbProperties.label>
+
+<!-- EN: Proto-Horror -->
+<VPE_ProtohorrorSTNL.label>proto-horreur</VPE_ProtohorrorSTNL.label>
+<!-- EN: Turns the target into an half metalhorror and half human. reducing their feeling of pain and the amount of damage taken at the cost of movement speed. -->
+<VPE_ProtohorrorSTNL.description>Transforme la cible en un être mi-humain mi-métallique, réduisant sa sensation de douleur et la quantité de dégâts subis au prix d'une réduction de sa vitesse de déplacement.</VPE_ProtohorrorSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_ProtohorrorSTNL.jobReportString>Utilise la capacité : {0}</VPE_ProtohorrorSTNL.jobReportString>
+<!-- EN: Proto-Horror -->
+<VPE_ProtohorrorSTNL.verbProperties.label>proto-horreur</VPE_ProtohorrorSTNL.verbProperties.label>
+
+<!-- EN: Void Snare -->
+<VPE_SnareSTNL.label>piège du néant</VPE_SnareSTNL.label>
+<!-- EN: Ensnare the targets with void tentacles, massively slowing them down. -->
+<VPE_SnareSTNL.description>Piége les cibles avec des tentacules du néant, ce qui les ralentit considérablement.</VPE_SnareSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_SnareSTNL.jobReportString>Utilise la capacité : {0}</VPE_SnareSTNL.jobReportString>
+<!-- EN: Void Snare -->
+<VPE_SnareSTNL.verbProperties.label>piège du néant</VPE_SnareSTNL.verbProperties.label>
+
+<!-- EN: Weave Unstable Deadlife Dust Node -->
+<VPE_VoiddeadmineSTNL.label>nœud instable</VPE_VoiddeadmineSTNL.label>
+<!-- EN: Weave a node portal out of void energy, this portal is unstable and will explode upon taking the slightest amount of damage. Releasing deadlife dust in the process. -->
+<VPE_VoiddeadmineSTNL.description>Tisse un portail de nœuds à partir de l'énergie du néant. Ce portail est instable et explosera au moindre dégât. Il libère alors de la poussière de résurrection.</VPE_VoiddeadmineSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoiddeadmineSTNL.jobReportString>Utilise la capacité : {0}</VPE_VoiddeadmineSTNL.jobReportString>
+<!-- EN: Weave Unstable Deadlife Dust Node -->
+<VPE_VoiddeadmineSTNL.verbProperties.label>nœud instable</VPE_VoiddeadmineSTNL.verbProperties.label>
+
+<!-- EN: Weave Void Gate -->
+<VPE_VoidgateSTNL.label>portail du néant</VPE_VoidgateSTNL.label>
+<!-- EN: Weave a Void Gate, A stronger link to the Void allowing armies of entities to enter this realm, the leak will cause a planet-wide unnatural darkness. -->
+<VPE_VoidgateSTNL.description>Tisse un portail du néant, un lien plus fort avec le néant permettant à des armées d'entités d'entrer dans ce royaume, la brèche provoquera des ténèbres artificielles à l'échelle de la planète.</VPE_VoidgateSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidgateSTNL.jobReportString>Utilise la capacité : {0}</VPE_VoidgateSTNL.jobReportString>
+<!-- EN: Weave Void Gate -->
+<VPE_VoidgateSTNL.verbProperties.label>tisser un portail du néant</VPE_VoidgateSTNL.verbProperties.label>
+
+<!-- EN: Weave Small Void Mass -->
+<VPE_VoidmassSTNL.label>masse du néant</VPE_VoidmassSTNL.label>
+<!-- EN: Manipulate the fabric of the void to manifest a mass of void metal. -->
+<VPE_VoidmassSTNL.description>Manipule le tissu du néant pour manifester une masse métallique du néant.</VPE_VoidmassSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidmassSTNL.jobReportString>Utilise la capacité : {0}</VPE_VoidmassSTNL.jobReportString>
+<!-- EN: Weave Small Void Mass -->
+<VPE_VoidmassSTNL.verbProperties.label>tisser une masse du néant</VPE_VoidmassSTNL.verbProperties.label>
+
+<!-- EN: Weave Void Portal (Metalhorror) -->
+<VPE_VoidportalmetalSTNL.label>portail (horreur métallique)</VPE_VoidportalmetalSTNL.label>
+<!-- EN: Weave a portal made out of void energy, allowing Metalhorrors to enter this realm. -->
+<VPE_VoidportalmetalSTNL.description>Tisse un portail fait d'énergie du néant, permettant aux horreurs métalliques d'entrer dans ce royaume.</VPE_VoidportalmetalSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidportalmetalSTNL.jobReportString>Utilise la capacité : {0}</VPE_VoidportalmetalSTNL.jobReportString>
+<!-- EN: Weave Void Portal (Metalhorror) -->
+<VPE_VoidportalmetalSTNL.verbProperties.label>portail du néant (horreur métallique)</VPE_VoidportalmetalSTNL.verbProperties.label>
+
+<!-- EN: Weave Void Portal (Revenant) -->
+<VPE_VoidportalRevSTNL.label>portail (revenant)</VPE_VoidportalRevSTNL.label>
+<!-- EN: Weave a portal made out of void energy, allowing Revenants to enter this realm. -->
+<VPE_VoidportalRevSTNL.description>Tisse un portail fait d'énergie du néant, permettant aux revenants d'entrer dans ce royaume.</VPE_VoidportalRevSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidportalRevSTNL.jobReportString>Utilise la capacité : {0}</VPE_VoidportalRevSTNL.jobReportString>
+<!-- EN: Weave Void Portal (Revenant) -->
+<VPE_VoidportalRevSTNL.verbProperties.label>portail du néant (revenant)</VPE_VoidportalRevSTNL.verbProperties.label>
+
+<!-- EN: Weave Void Structure -->
+<VPE_VoidstructureSTNL.label>structure du néant</VPE_VoidstructureSTNL.label>
+<!-- EN: Manifest a void structure, it appears to lose fragments over time. These fragments are similar to shards. -->
+<VPE_VoidstructureSTNL.description>Manifeste d'une structure du néant, il semble perdre des fragments au fil du temps. Ces fragments sont semblables à des éclats.</VPE_VoidstructureSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidstructureSTNL.jobReportString>Utilise la capacité : {0}</VPE_VoidstructureSTNL.jobReportString>
+<!-- EN: Weave Void Structure -->
+<VPE_VoidstructureSTNL.verbProperties.label>tisser une structure du néant</VPE_VoidstructureSTNL.verbProperties.label>
+
+<!-- EN: Weave Void Metal Wall -->
+<VPE_VoidwallSTNL.label>mur du néant</VPE_VoidwallSTNL.label>
+<!-- EN: Manipulate the fabric of the void to manifest a wall made out of void metal. -->
+<VPE_VoidwallSTNL.description>Manipule le tissu du néant pour faire apparaître un mur fait de métal du néant.</VPE_VoidwallSTNL.description>
+<!-- EN: Using ability: {0} -->
+<VPE_VoidwallSTNL.jobReportString>Utilise la capacité : {0}</VPE_VoidwallSTNL.jobReportString>
+<!-- EN: Weave Void Metal Wall -->
+<VPE_VoidwallSTNL.verbProperties.label>tisser un mur métallique du néant</VPE_VoidwallSTNL.verbProperties.label>
+
+
+</LanguageData>

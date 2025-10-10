@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<!-- ================ Son de transformation du lycan ================ -->
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Modifier le son de la métamorphose</label>
+		<tooltip>Modifie le son de la métamorphose d’humain à lycan ou homme-loup et inversement.\n(Par défaut : désactivé)\n\nNécessite le redémarrage du jeu.</tooltip>
+		<id>Lycanthrope_Son</id>
+		<category>VRE_Lycanthrope</category>
+		<order>0</order>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/SoundDef[defName="VRE_WarHowl_Cast"]/subSounds/li/grains</xpath>
+				<value>
+					<grains>
+						<li Class="AudioGrain_Folder">
+							<clipFolderPath>Warhowl_M</clipFolderPath>
+						</li>
+					</grains>
+				</value>
+			</li>
+
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/SoundDef[defName="VRE_MorphSound"]/subSounds/li/grains</xpath>
+				<value>
+					<grains>
+						<li Class="AudioGrain_Folder">
+							<clipFolderPath>Morph_M</clipFolderPath>
+						</li>
+					</grains>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+
+</Patch>

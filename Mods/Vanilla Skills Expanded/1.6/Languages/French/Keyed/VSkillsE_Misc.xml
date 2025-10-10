@@ -1,0 +1,120 @@
+<LanguageData>
+<!-- EN: Interested in it -->
+<VSE.Expertise0>Intéressé</VSE.Expertise0>
+<!-- EN: Hobbyist -->
+<VSE.Expertise1>Amateur</VSE.Expertise1>
+<!-- EN: Aspiring Apprentice -->
+<VSE.Expertise2>Amateur doué</VSE.Expertise2>
+<!-- EN: Apprentice -->
+<VSE.Expertise3>Apprenti</VSE.Expertise3>
+<!-- EN: Excellent Apprentice -->
+<VSE.Expertise4>Apprenti doué</VSE.Expertise4>
+<!-- EN: Weak Professional -->
+<VSE.Expertise5>Pratiquant</VSE.Expertise5>
+<!-- EN: Professional -->
+<VSE.Expertise6>Pratiquant compétent</VSE.Expertise6>
+<!-- EN: Employable Professional -->
+<VSE.Expertise7>Professionnel</VSE.Expertise7>
+<!-- EN: Solid Professional -->
+<VSE.Expertise8>Professionnel compétent</VSE.Expertise8>
+<!-- EN: Skilled Professional -->
+<VSE.Expertise9>Spécialiste</VSE.Expertise9>
+<!-- EN: Very Skilled Professional -->
+<VSE.Expertise10>Spécialiste de haut niveau</VSE.Expertise10>
+<!-- EN: Almost Expert -->
+<VSE.Expertise11>Expert débutant</VSE.Expertise11>
+<!-- EN: Self-Proclaimed Expert -->
+<VSE.Expertise12>Expert autoproclamé</VSE.Expertise12>
+<!-- EN: Expert -->
+<VSE.Expertise13>Expert</VSE.Expertise13>
+<!-- EN: Strong Expert -->
+<VSE.Expertise14>Expert renommé</VSE.Expertise14>
+<!-- EN: Very Strong Expert -->
+<VSE.Expertise15>Très grand Expert</VSE.Expertise15>
+<!-- EN: Colony-Known Expert -->
+<VSE.Expertise16>Expert de classe coloniale</VSE.Expertise16>
+<!-- EN: Region-Known Expert -->
+<VSE.Expertise17>Expert de classe régionale</VSE.Expertise17>
+<!-- EN: Region-Leading Expert -->
+<VSE.Expertise18>Grand Expert régional</VSE.Expertise18>
+<!-- EN: Planet-Known Expert -->
+<VSE.Expertise19>Grand Expert planétaire</VSE.Expertise19>
+<!-- EN: Legendary Expert -->
+<VSE.Expertise20>Légendaire</VSE.Expertise20>
+<!-- EN: Expertise -->
+<VSE.Expertise>Expertise</VSE.Expertise>
+<!-- EN: Forgetting Speed -->
+<VSE.ForgetSpeed>Vitesse d'oubli</VSE.ForgetSpeed>
+<!-- EN: Effects: -->
+<VSE.Effects>Effets :</VSE.Effects>
+<!-- EN: Effects (per level): -->
+<VSE.Effects.PerLevel>Effets (par niveau) :</VSE.Effects.PerLevel>
+<!-- EN: Colonist can gain expertise -->
+<VSE.ExpertiseAvailable>Expertise disponible</VSE.ExpertiseAvailable>
+<!-- EN: Colonists can gain expertise -->
+<VSE.ExpertiseAvailableMultiple>Expertises disponibles</VSE.ExpertiseAvailableMultiple>
+<!-- EN: Select expertise -->
+<VSE.SelectExpertise>Choisir expertise</VSE.SelectExpertise>
+<!-- EN: Selecting an expertise will unlock a new skill that your pawn will level up, granting them powerful, but very specific bonuses.\nYou can only select {0} expertise, and only in skills your pawns is passionate about. -->
+<VSE.ExpertiseDesc>Le choix d'une expertise débloque une nouvelle compétence qui donne des bonus puissants, mais très spécifiques.\nVous pouvez choisir {0} expertise{0_multiple ? s : }, uniquement dans les compétences qui passionnent le colon.</VSE.ExpertiseDesc>
+<!-- EN: Your colonist has reached high enough level in a skill they are passionate about that they can gain expertise.\n\nConsider picking an expertise for them to gain new bonuses to the work type they are good at.\n\nColonists that can get expertise:\n\n -->
+<VSE.ExpertiseAvailableDesc>Votre colon a atteint un niveau suffisamment élevé dans une compétence qui le passionne pour pouvoir acquérir une expertise.\n\nVous pouvez envisager de choisir une expertise pour qu'il obtienne de nouveaux bonus dans le type de travail pour lequel il est doué.\n\nCes colons peuvent obtenir une expertise :\n\n</VSE.ExpertiseAvailableDesc>
+<!-- EN: \n   - Learns {0}\n   - Forgets {1} -->
+<VSE.LearnsForgets>\n   - Apprendre {0}\n   - Oublier {1}</VSE.LearnsForgets>
+<!-- EN: \n   - Learns Others {0} -->
+<VSE.LearnOther>\n   - Apprendre les autres {0}</VSE.LearnOther>
+<!-- EN: No passion -->
+<VSE.NoPassion>Aucune passion</VSE.NoPassion>
+<!-- EN: Insufficient skill -->
+<VSE.SkillTooLow>Comp. insuffisante</VSE.SkillTooLow>
+<!-- EN: At max expertise -->
+<VSE.AtMaxExpertise>Expertise max.</VSE.AtMaxExpertise>
+<!-- EN: Expertise overlap -->
+<VSE.ExpertiseOverlap>Chevauchement d'expertise</VSE.ExpertiseOverlap>
+<!-- EN: Vanilla Skills Expanded -->
+<VSE>Vanilla Skills Expanded </VSE>
+<!-- EN: Maximum expertise per colonist: -->
+<VSE.MaxExpertise>Expertise maximum par colon :</VSE.MaxExpertise>
+<!-- EN: Allow multiple critical passions -->
+<VSE.AllowMultiCritical>Autoriser plusieurs passions critiques</VSE.AllowMultiCritical>
+<!-- EN: If false, will ensure that only one Critical passion will generate per pawn, to avoid them overlapping and causing them both to be useless. -->
+<VSE.AllowMultiCritical.Desc>Si désactivé, cette option garantit que seule une passion critique sera générée par colon, afin d'éviter le chevauchent et que les passions soient toutes les deux inutiles.</VSE.AllowMultiCritical.Desc>
+<!-- EN: Critical affects passions -->
+<VSE.CriticalEffectPassions>Effets des passions critiques</VSE.CriticalEffectPassions>
+<!-- EN: If false, the learn rate factor debuff on other skills from Critical will not effect other skills the pawn is passionate about. -->
+<VSE.CriticalEffectPassions.Desc>Si désactivé, supprime la pénalité de la vitesse d’apprentissage de la passion critique sur les autres compétences avec une "passion positive".\nN’affecte pas les compétences pour lesquelles le colon à une "passion négative".</VSE.CriticalEffectPassions.Desc>
+<!-- EN: Edit passion commonalities, groups are separate -->
+<VSE.Commonalities>Éditer les points communs des passions (ensembles séparés)</VSE.Commonalities>
+<!-- EN: Reset to default -->
+<VSE.Reset>Réinitialiser par défaut</VSE.Reset>
+<!-- EN: Bad: -->
+<VSE.Bad>&lt;color=#FF0000&gt;Passion négative&lt;/color&gt; :</VSE.Bad>
+<!-- EN: Good: -->
+<VSE.Good>&lt;color=#00FF00&gt;Passion positive&lt;/color&gt; :</VSE.Good>
+<!-- EN: Allow expertise overlap -->
+<VSE.AllowExpertiseOverlap>Permettre le chevauchement des compétences</VSE.AllowExpertiseOverlap>
+<!-- EN: If false, then only 1 expertise can be chosen per skill, regardless of max expertise setting. -->
+<VSE.AllowExpertiseOverlap.Desc>Si désactivé, une seule expertise peut être choisie par compétence, indépendamment du paramètre d'expertise maximum.</VSE.AllowExpertiseOverlap.Desc>
+<!-- EN: Re-enable skill loss -->
+<VSE.EnableSkillLoss>Réactiver la perte de compétences</VSE.EnableSkillLoss>
+<!-- EN: Enable "Expertise Available" alert -->
+<VSE.EnableAlert>Activer l'alerte "Expertise disponible"</VSE.EnableAlert>
+<!-- EN: By default, Ducks' Insane Skills disables all skill loss. By selecting this option, this mod will override Ducks and enable it again. Use this if you still want to be able to take advantage of the forget speed changes in the new passions. -->
+<VSE.EnableSkillsLoss.Desc>Par défaut, le mod Ducks' Insane Skills désactive toutes les pertes de compétences. En sélectionnant cette option, ce mod va remplacer Ducks et l'activer à nouveau. Utilisez cette option si vous voulez toujours être en mesure de profiter des changements de vitesse d'oubli dans les nouvelles passions.</VSE.EnableSkillsLoss.Desc>
+<!-- EN: Minimum skill to get an expertise -->
+<VSE.MinSkillForExpertise>Compétences minimales pour obtenir une expertise</VSE.MinSkillForExpertise>
+<!-- EN: The colonist will need to reach this skill level before being offered an expertise. -->
+<VSE.MinSkillForExpertiseDesc>Le colon devra atteindre ce niveau de compétence avant de se voir proposer une expertise.</VSE.MinSkillForExpertiseDesc>
+<!-- EN: Expertise stat factor / offset multiplier -->
+<VSE.StatMultiplier>Facteur de stat d'expertise / multiplicateur</VSE.StatMultiplier>
+<!-- EN: Is our balance too easy? Too hard? Go bitch on Reddit! Errrr... I mean, change it with this slider! The effects expertise have on stats will be multiplied by this number, so 0.1 will make expertise super weak, while 5 will make them incredibly overpowered. -->
+<VSE.StatMultiplierDesc>Notre équilibrage est-il trop facile ? Trop dur ? Allez râler sur Reddit ! Errrr... Je veux dire, modifiez-le avec ce curseur ! Les effets de l'expertise sur les stats seront multipliés par ce chiffre. Ainsi, 0,1 rendra l'expertise super faible, tandis que 5 la rendra incroyablement surpuissante.</VSE.StatMultiplierDesc>
+<!-- EN: Random passion chance in growth moments -->
+<VSE.GrowthMomentRandomPassions>Passion aléatoire des poussées de croissance</VSE.GrowthMomentRandomPassions>
+<!-- EN: By default, 5% of the time a growth moment will select one of the skills that have no passions and assign either a Natural or an Apathy passion. -->
+<VSE.GrowthMomentRandomPassionsDesc>Par défaut, dans 5% des cas, une poussée de croissance sélectionnera l'une des compétences qui n'ont pas de passion et lui attribuera une passion Naturelle ou Indifférente.</VSE.GrowthMomentRandomPassionsDesc>
+<!-- EN: Passion: {0} -->
+<VSE_Passion></VSE_Passion><!-- Pour éviter la redondance avec le dossier "DefInjected\VSE.Passions.PassionDef" -->
+
+
+</LanguageData>

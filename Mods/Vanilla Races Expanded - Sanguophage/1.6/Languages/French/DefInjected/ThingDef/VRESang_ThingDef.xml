@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: draincasket -->
+<VRE_Draincasket.label>cercueil de drainage</VRE_Draincasket.label>
+<!-- EN: A sinister contraption designed to extract hemogen from an individual while maintaining their life force at the barest minimum. This dark and foreboding casket houses its occupant in a twilight state of existence with their body slowly drained of precious hemogen. Bound to their Draincasket, the occupant's survival depends on being fed regularly, as they can still starve to death.\n\nProduces 2 hemogen packs a day as long as the occupant has food and the casket is connected to a hemogen network. If deprived of food, the casket will kill its occupant in around 2 days.\n\nIf you have Vanilla Nutrient Paste Expanded it will draw nutrients from that network, as long as there is more than 1 meal unit available. -->
+<VRE_Draincasket.description>Un sinistre appareil conçu pour extraire l'hémogène d'un individu tout en maintenant sa force vitale au strict minimum. Ce cercueil sombre et inquiétant abrite son occupant dans un état crépusculaire, son corps étant lentement vidé de son précieux hémogène. Lié à son cercueil de drainage, l'occupant ne peut survivre que s'il est nourri régulièrement, car il peut toujours mourir de faim.\n\nIl produit un pack d'hémogène par jour tant que l'occupant a de la nourriture et que le cercueil est relié à un réseau d'hémogène. S'il est privé de nourriture, le cercueil tuera son occupant au bout de 2 jours environ.\n\nSi vous disposez de Vanilla Nutrient Paste Expanded, il puisera des nutriments dans ce réseau, tant qu'il y a plus d'une unité de repas disponible.</VRE_Draincasket.description>
+
+<!-- EN: hemogen drain -->
+<VRE_HemogenDrain.label>vidange d'hémogène</VRE_HemogenDrain.label>
+<!-- EN: A hopper-like storage basin meant to input hemogen into the network, filling up connected vats. -->
+<VRE_HemogenDrain.description>Un bassin de stockage en forme de trémie destiné à introduire de l'hémogène dans le réseau, remplissant les cuves connectées.</VRE_HemogenDrain.description>
+
+<!-- EN: hemogen pipe -->
+<VRE_HemogenPipe.label>conduit d'hémogène</VRE_HemogenPipe.label>
+<!-- EN: A pipe that’s used to transport hemogen between taps, drains, vats and hemogen-fueled structures. -->
+<VRE_HemogenPipe.description>Tuyau utilisé pour transporter l'hémogène entre les robinets, les vidanges, les cuves et les structures alimentées en hémogène.</VRE_HemogenPipe.description>
+
+<!-- EN: hemogen tap -->
+<VRE_HemogenTap.label>robinet d'hémogène</VRE_HemogenTap.label>
+<!-- EN: A hopper-like storage basin meant to dispense hemogen for later use. -->
+<VRE_HemogenTap.description>Un bassin de stockage en forme de trémie destiné à distribuer de l'hémogène pour une utilisation ultérieure.</VRE_HemogenTap.description>
+
+<!-- EN: hemogen valve -->
+<VRE_HemogenValve.label>valve d'hémogène</VRE_HemogenValve.label>
+<!-- EN: Switches hemogen flow on/off. -->
+<VRE_HemogenValve.description>Permet d'activer ou de désactiver le flux d'hémogène.</VRE_HemogenValve.description>
+
+<!-- EN: hemogen vat -->
+<VRE_HemogenVat.label>cuve d'hémogène</VRE_HemogenVat.label>
+<!-- EN: An industrial liquid storage vat meant for storing hemogen delivered via hemogen pipe network. Vats can be designated to be siphoned for usable hemogen as needed. -->
+<VRE_HemogenVat.description>Une cuve de stockage de liquide industriel destinée à stocker l'hémogène fourni par le réseau de tuyaux d'hémogène. Les cuves peuvent être désignées pour être siphonnées afin d'obtenir de l'hémogène utilisable en cas de besoin.</VRE_HemogenVat.description>
+
+<!-- EN: hidden hemogen pipe -->
+<VRE_UndergroundHemogenPipe.label>conduit d'hémogène enterré</VRE_UndergroundHemogenPipe.label>
+<!-- EN: Hidden steel pipes designed to transport hemogen between taps, drains, vats and hemogen-fueled structures. -->
+<VRE_UndergroundHemogenPipe.description>Tuyaux d'acier enterrés conçus pour transporter l'hémogène entre les robinets, les vidanges, les cuves et les structures alimentées en l'hémogène.</VRE_UndergroundHemogenPipe.description>
+
+
+<!-- EN: hemodynamic accelerator -->
+<VRE_HemodynamicAccelerator.label>accélérateur hémodynamique</VRE_HemodynamicAccelerator.label>
+<!-- EN: An advanced device designed to expedite the deathrest process at the cost of blood consumption. By connecting with a deathresting person, this apparatus employs intricate blood analysis and potent sanguine stimulants to maximize the efficiency of the deathrest casket. As it hastens the character's recovery, the Hemodynamic Accelerator demands a continuous supply of hemogen to fuel its powerful operation. To function, it must be connected to a deathrest casket, ensuring the swift rejuvenation of its occupant. -->
+<VRE_HemodynamicAccelerator.description>Un appareil de pointe conçu pour accélérer le processus du repos de torpeur au prix d'une consommation de sang. En se connectant à une personne en train de mourir, cet appareil utilise des analyses sanguines complexes et de puissants stimulants sanguins pour maximiser l'efficacité du cercueil médicalisé. Alors qu'il accélère la guérison du personnage, l'Accélérateur Hémodynamique nécessite un apport continu d'hémogène pour alimenter son puissant fonctionnement. Pour fonctionner, il doit être connecté à un cercueil médicalisé, ce qui garantit la régénération rapide de son occupant.</VRE_HemodynamicAccelerator.description>
+<!-- EN: Hemogen -->
+<VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Hémogène</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
+
+<!-- EN: hemogen solidifier -->
+<VRE_HemogenSolidifier.label>durcisseur d'hémogène</VRE_HemogenSolidifier.label>
+<!-- EN: A device specifically engineered to enhance the durability of deathresting characters by manipulating the molecular structure of their skin. Utilizing an array of bioresonant projectors and blood-based nano-agents, the solidifier targets the hemogen within the character's body, fortifying and thickening skin molecules. As the deathresting individual slumbers, the Hemogen Solidifier weaves a dense, protective layer around them, rendering their skin more resilient and damage-resistant. The device must be connected to a deathrest casket to operate, ensuring its occupant emerges from their rest with an augmented defensive capacity. -->
+<VRE_HemogenSolidifier.description>Un dispositif spécialement conçu pour améliorer la durabilité des personnes en repos de torpeur en manipulant la structure moléculaire de leur peau. Utilisant un ensemble de projecteurs biorésonants et de nano-agents à base de sang, le durcisseur cible l'hémogène dans le corps du personnage, fortifiant et épaississant les molécules de la peau. Pendant que l'individu en état de torpeur dort, le durcisseur d'hémogène tisse une couche protectrice dense autour de lui, rendant sa peau plus résistante aux dégâts et à l'usure. Le dispositif doit être connecté à un cercueil médicalisé pour fonctionner, garantissant que son occupant émerge de son repos avec une capacité défensive accrue.</VRE_HemogenSolidifier.description>
+<!-- EN: Hemogen -->
+<VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hémogène</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
+
+<!-- EN: invocation matrix -->
+<VRE_InvocationMatrix.label>matrice d'invocation</VRE_InvocationMatrix.label>
+<!-- EN: A sophisticated device that infuses deathresting people with rare and potent sanguophage abilities, tapping into the very essence of their vampiric nature. Employing a complex system of blood conduits and essence resonators, the matrix connects to a deathrest casket and channels the life force of its occupant to unlock hidden potential within their bloodline. As the person slumbers in their deathrest state, the Invocation Matrix bestows upon them a selected, unique power. This building requires a constant supply of hemogen to operate. -->
+<VRE_InvocationMatrix.description>Un dispositif sophistiqué qui insuffle aux personnes en repos de torpeur des capacités rares et puissantes de sanguophage, puisant dans l'essence même de leur nature vampirique. Grâce à un système complexe de conduits de sang et de résonateurs d'essence, la matrice se connecte à un cercueil médicalisé et canalise la force vitale de son occupant pour libérer le potentiel caché de sa lignée. Alors que la personne sommeille dans son état de torpeur, la matrice d'invocation lui confère un pouvoir unique et spécifique. Ce bâtiment nécessite un apport constant d'hémogène pour fonctionner.</VRE_InvocationMatrix.description>
+<!-- EN: Hemogen -->
+<VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Hémogène</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
+
+<!-- EN: small hemogen amplifier -->
+<VRE_SmallHemogenAmplifier.label>petit amplificateur d'hémogène</VRE_SmallHemogenAmplifier.label>
+<!-- EN: This device leaves a deathrester in a hemogen-amplified state so they gain slightly more hemogen from any hemogen source. Using a gland probe and blood analyzer, it links with a deathresting person, stimulating hemogen glands into a more active state. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function. -->
+<VRE_SmallHemogenAmplifier.description>Cet appareil laisse un dormeur de torpeur dans un état hémogénique amplifié afin qu'il obtienne un peu plus d'hémogène depuis n'importe quelle source d'hémogène. À l'aide d'une sonde glandulaire et d'un analyseur de sang, il se connecte à un dormeur de torpeur en sommeil, stimulant les glandes hémogènes pour les rendre plus actives. Il doit être connecté à un cercueil médicalisé pour fonctionner.\n\nCette structure a besoin de consommer de l'hémogène pour fonctionner.</VRE_SmallHemogenAmplifier.description>
+<!-- EN: Hemogen -->
+<VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hémogène</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
+
+<!-- EN: small hemopump -->
+<VRE_SmallHemopump.label>petite hémopompe</VRE_SmallHemopump.label>
+<!-- EN: This small, blood-refining pump increases the amount of hemogen a deathresting person can store in their body. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function. -->
+<VRE_SmallHemopump.description>Cette petite pompe d'affinage du sang augmente la quantité d'hémogène qu'une personne en repos de torpeur peut stocker dans son corps. Elle doit être connectée à un cercueil médicalisé pour fonctionner.\n\nCette structure a besoin de consommer de l'hémogène pour fonctionner.</VRE_SmallHemopump.description>
+<!-- EN: Hemogen -->
+<VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hémogène</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+
+
+<!-- EN: viscuous goo -->
+<VRE_FilthGoo.label>gelée visqueuse</VRE_FilthGoo.label>
+
+
+<!-- EN: hemogen pack (animal) -->
+<VRE_HemogenPack_Animal.label>pack d'hémogène (animal)</VRE_HemogenPack_Animal.label>
+<!-- EN: Animal hemogen. Increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others. -->
+<VRE_HemogenPack_Animal.description>Hémogène d'origine animale. Augmente les capacités de régénération et de combat de l'utilisateur, mais diminue fortement sa capacité à communiquer avec les autres.</VRE_HemogenPack_Animal.description>
+
+<!-- Le jeu corrige le defName et il m'est impossible de le traduire. Je remplace directement le label et la description afin de traduire VRE_HemogenPack_Corpse. -->
+<!-- EN: pack d'hémogène (cadavre) 
+<VRE_HemogenPack_Corpse.label>pack d'hémogène (cadavre)</VRE_HemogenPack_Corpse.label>-->
+<!-- EN: Hémogène vicié et pourri provenant d'un cadavre. Affaiblit considérablement le porteur de ce type d'hémogène, mais augmente considérablement la filtration du sang. 
+<VRE_HemogenPack_Corpse.description>Hémogène vicié et pourri provenant d'un cadavre. Affaiblit considérablement le porteur de ce type d'hémogène, mais augmente considérablement la filtration du sang.</VRE_HemogenPack_Corpse.description>-->
+
+<!-- EN: hemogen pack (sanguophage) -->
+<VRE_HemogenPack_Sanguophage.label>pack d'hémogène (sanguophage)</VRE_HemogenPack_Sanguophage.label>
+<!-- EN: Pure, thick hemogen of another bloodfeeder. The most rare of all hemogens, it gives the carrier a powerful boost to all capacities. -->
+<VRE_HemogenPack_Sanguophage.description>Hémogène pur et épais d'un autre hémogénique. Le plus rare de tous les hémogènes, il donne au porteur une puissante amélioration de toutes ses capacités.</VRE_HemogenPack_Sanguophage.description>
+
+
+<!-- EN: goo -->
+<VRE_Proj_Goo.label>gelée</VRE_Proj_Goo.label>
+
+
+</LanguageData>

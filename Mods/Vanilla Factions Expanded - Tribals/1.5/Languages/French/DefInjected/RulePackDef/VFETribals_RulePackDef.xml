@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+
+    <li>circumstance_group->[circumstance_phrase]</li>
+
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+
+    <li>context_sentence->Cette [depiction] fait référence à [tale_noun], le [DATE].</li>
+    <li>context_sentence->Cette [depiction] se rapporte à [tale_noun], le [DATE].</li>
+    <li>context_sentence->Cette [depiction] raconte l'histoire de [tale_noun], le [DATE].</li>
+
+    <li>physical_description_root->Cette [painting] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Cette [painting] figure une [depiction] illustrant [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Sur cette [painting] figure une [depiction] illustrant [image]. [desc_sentence_group]</li>
+    <li>painting->peinture</li>
+    <li>painting->œuvre</li>
+    <li>painting->pièce</li>
+</ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+
+
+<ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+        <li>r_art_description->[physical_description_root]</li>
+        
+        <li>desc_sentence_group->[style_group]</li>
+</ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+
+
+<VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+      <li>style_group->[artextra_clause]. [style_clause].</li>
+      <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+      <li>style_group->[style_clause].</li>
+      <li>style_group->[artextra_clause].</li>
+      <li>style_group-></li>
+
+      <!--=== artconjunction ===-->
+      <li>artconjunction(p=6)-></li>
+      <li>artconjunction->de manière intrigante,</li>
+      <li>artconjunction->ajoutant de la profondeur à la peinture,</li>
+      <li>artconjunction->en outre,</li>
+      <li>artconjunction->de manière saisissante,</li>
+      <li>artconjunction->de façon évocatrice,</li>
+      <li>artconjunction->reflétant des récits anciens,</li>
+      <li>artconjunction->la connexion avec les racines ancestrales,</li>
+
+      <!--=== artextra_clause ===-->
+      <li>artextra_clause->le tableau met en scène [subimageplural] engagés dans [activity]</li>
+      <li>artextra_clause->illustrant [subimagesingle] [side_position]</li>
+      <li>artextra_clause->en montrant une scène vivante d'[Community]</li>
+      <li>artextra_clause->un groupe de [subimageplural] rassemblés près d'[TerrainFeature]</li>
+      <li>artextra_clause->[Quantity_adjphrase] [subimagesingle]s illustrant un récit de l'Antiquité</li>
+      <li>artextra_clause->un motif complexe de [subimageplural] domine le premier plan</li>
+      <li>artextra_clause->centrée autour d'[subimagesingle], racontant une histoire de [ConceptAny]</li>
+
+      <!--=== subimageany, subimagesingle, subimageplural ===-->
+      <li>subimageany->[subimagesingle]</li>
+      <li>subimageany->[subimageplural]</li>
+      <li>subimagesingle(p=6)->d'une ancienne figure humaine</li>
+      <li>subimagesingle->une habitation primitive</li>
+      <li>subimagesingle->un arbre indigène</li>
+      <li>subimagesingle->une représentation du soleil ou de la lune</li>
+      <li>subimagesingle->un symbole mystique</li>
+      <li>subimagesingle->un corps céleste</li>
+      <li>subimagesingle->un animal préhistorique</li>
+      <li>subimagesingle->une empreinte de main</li>
+      <li>subimageplural(p=5)->animaux stylisés</li>
+      <li>subimageplural->formes géométriques primitives</li>
+      <li>subimageplural->motifs de la nature</li>
+      <li>subimageplural->motifs d'empreintes de main</li>
+      <li>subimageplural->symboles spirituels</li>
+      <li>subimageplural->corps célestes</li>
+
+      <!--=== side_position ===-->
+      <li>side_position->au centre</li>
+      <li>side_position->dans la partie supérieure</li>
+      <li>side_position->occupant la moitié inférieure</li>
+      <li>side_position->à droite, formant un flux naturel</li>
+      <li>side_position->à gauche, attirant l'attention sur le thème principal</li>
+      <li>side_position->se répartissent uniformément sur la toile</li>
+      <li>side_position->dispersés de façon harmonieuse</li>
+
+      <!--=== style_clause ===-->
+      <li>style_clause(p=4)->l'œuvre d'art [symbolizes] [ConceptAny]</li>
+      <li>style_clause->utilisant des traits [artstyle_adj] pour représenter [ConceptAny]</li>
+      <li>style_clause->reflétant l'essence de [ConceptAny] à travers des motifs [artstyle_adj]</li>
+      <li>style_clause->incarnant une histoire riche avec sa représentation [artstyle_adj] de [ConceptAny]</li>
+      <li>style_clause->le tableau présente une approche [artstyle_adj] de [ConceptAny]</li>
+
+      <!--=== symbolizes ===-->
+      <li>symbolizes->symbolise</li>
+      <li>symbolizes->représente</li>
+      <li>symbolizes->répéte</li>
+      <li>symbolizes->résonne avec</li>
+      <li>symbolizes->reflète</li>
+      <li>symbolizes->incarne</li>
+      <li>symbolizes->symbolise</li>
+      <li>symbolizes->semble symboliser</li>
+      <li>symbolizes->représente</li>
+      <li>symbolizes->semble représenter</li>
+      <li>symbolizes->semble exprimer</li>
+      <li>symbolizes->rappelle au spectateur</li>
+      <li>symbolizes->transmet les émotions de</li>
+      <li>symbolizes->fait penser au spectateur</li>
+      <li>symbolizes->représente le travail de l'artiste</li>
+      <li>symbolizes->suggère le concept de</li>
+
+      <!--=== artstyle_adj ===-->
+      <li>artstyle_adj->terreux et organique</li>
+      <li>artstyle_adj->primitif</li>
+      <li>artstyle_adj->brut et naturel</li>
+      <li>artstyle_adj->géométrique</li>
+      <li>artstyle_adj->richement texturé</li>
+      <li>artstyle_adj->simple mais profond</li>
+      <li>artstyle_adj->complexe et détaillé</li>
+      <li>artstyle_adj->rempli de motifs tourbillonnants</li>
+      <li>artstyle_adj->abstrait et symbolique</li>
+      <li>artstyle_adj->dynamique et vivant</li>
+      <li>artstyle_adj->subtil et serein</li>
+      <li>artstyle_adj->granuleux et terreux</li>
+      <li>artstyle_adj->audacieux et dynamique</li>
+      <li>artstyle_adj->harmonieux et équilibré</li>
+      <li>artstyle_adj->texturé et tactile</li>
+      <li>artstyle_adj->résonance spirituelle</li>
+
+      <!--=== ConceptAny ===-->
+      <li>ConceptAny->le cycle de la vie et de la mort</li>
+      <li>ConceptAny->la communion avec la nature</li>
+      <li>ConceptAny->le lien spirituel entre l'homme et le cosmos</li>
+      <li>ConceptAny->l'harmonie de la nature</li>
+      <li>ConceptAny->les rituels et cérémonies anciens</li>
+      <li>ConceptAny->les récits mythiques</li>
+      <li>ConceptAny->les complexités de l'existence humaine</li>
+      <li>ConceptAny->le mysticisme des civilisations anciennes</li>
+      <li>ConceptAny->les mystères du cosmos</li>
+      <li>ConceptAny->l'interconnexion de la vie</li>
+      <li>ConceptAny->le cycle des saisons</li>
+      <li>ConceptAny->les récits anciens</li>
+      <li>ConceptAny->les merveilles de la nature</li>
+      <li>ConceptAny->la géométrie sacrée</li>
+      <li>ConceptAny->l'éveil spirituel</li>
+
+      <!--=== activity ===-->
+      <li>activity->une danse rituelle</li>
+      <li>activity->une scène de chasse</li>
+      <li>activity->un rassemblement ou une célébration</li>
+      <li>activity->des activités agricoles</li>
+      <li>activity->une cérémonie ancestrale</li>
+      <li>activity->une séance de narration</li>
+      <li>activity->une cérémonie spirituelle</li>
+      <li>activity->une scène de troc ou de commerce</li>
+      <li>activity->un moment de cohésion communautaire</li>
+      <li>activity->un groupe engagé dans la création artistique</li>
+      <!--=== Community ===-->
+      <li>Community->un village néolithique</li>
+      <li>Community->un ancien lieu de rassemblement</li>
+      <li>Community->une colonie primitive</li>
+      <li>Community->une place de marché animée</li>
+      <li>Community->un lieu de rituel sacré</li>
+      <li>Community->une terre agricole fertile</li>
+      <li>Community->un rassemblement vivant de tribus</li>
+
+      <!--=== TerrainFeature ===-->
+      <li>TerrainFeature->un plan d'eau</li>
+      <li>TerrainFeature->un décor montagneux</li>
+      <li>TerrainFeature->une forêt dense</li>
+      <li>TerrainFeature->un champ avec une flore sauvage</li>
+      <li>TerrainFeature->une plaine étendue</li>
+      <li>TerrainFeature->une rive paisible</li>
+      <li>TerrainFeature->une oasis vibrante</li>
+      <li>TerrainFeature->un bosquet sacré</li>
+
+      <!--=== Quantity_adjphrase ===-->
+      <li>Quantity_adjphrase->une pléthore de</li>
+      <li>Quantity_adjphrase->quelques rares</li>
+      <li>Quantity_adjphrase->de nombreux entrelacs</li>
+      <li>Quantity_adjphrase->un ensemble de</li>
+      <li>Quantity_adjphrase->un ensemble harmonieux de</li>
+      <li>Quantity_adjphrase->une collection vivante de</li>
+      <li>Quantity_adjphrase->une description détaillée de plusieurs</li>
+      <li>Quantity_adjphrase->une représentation abstraite de plusieurs</li>
+</VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+
+
+</LanguageData>

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ScroungerA01.description>{PAWN_nameDef} a été créé{PAWN_gender ? : e } à partir de technologies récupérées et chargé{PAWN_gender ? : e } de la tâche difficile de fouiller les terres désolées à la recherche de ressources précieuses. Les conditions difficiles et le danger permanent l'ont épuisé{PAWN_gender ? : e }, mais sa résistance reste intacte.</ScroungerA01.description>
+<ScroungerA01.title>fouilleur</ScroungerA01.title>
+<ScroungerA01.titleFemale>fouilleuse</ScroungerA01.titleFemale>
+<ScroungerA01.titleShort>fouilleur</ScroungerA01.titleShort>
+<ScroungerA01.titleShortFemale>fouilleuse</ScroungerA01.titleShortFemale>
+
+<CaregiverA02.description>Né{PAWN_gender ? : e } dans un laboratoire délabré, {PAWN_nameDef} a été créé{PAWN_gender ? : e } pour soigner les malades et les blessés dans des terres désolées et impitoyables. {PAWN_pronoun} s'occupe inlassablement de ses patients avec des ressources limitées, souhaitant avoir les connaissances et les outils nécessaires pour en faire plus.</CaregiverA02.description>
+<CaregiverA02.title>soignant</CaregiverA02.title>
+<CaregiverA02.titleFemale>soignante</CaregiverA02.titleFemale>
+<CaregiverA02.titleShort>soignant</CaregiverA02.titleShort>
+<CaregiverA02.titleShortFemale>soignante</CaregiverA02.titleShortFemale>
+
+<DefenderA03.description>{PAWN_nameDef} a été fabriqué{PAWN_gender ? : e } à partir de pièces de récupération, dans le but de servir de gardien{PAWN_gender ? : ne } de fortune pour un petit village rural. Malgré sa construction rudimentaire, {PAWN_pronoun} se bat farouchement pour protéger ceux qui lui ont donné la vie.</DefenderA03.description>
+<DefenderA03.title>défenseur</DefenderA03.title>
+<DefenderA03.titleFemale>défenseur</DefenderA03.titleFemale>
+<DefenderA03.titleShort>défenseur</DefenderA03.titleShort>
+<DefenderA03.titleShortFemale>défenseur</DefenderA03.titleShortFemale>
+
+<EntertainerA04.description>Fabriqué{PAWN_gender ? : e } dans une arrière-boutique crasseuse, {PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour apporter un amusement éphémère aux habitants fatigués du rimworld. Souvent maltraité{PAWN_gender ? : e } et négligé{PAWN_gender ? : e }, {PAWN_nameDef} aspire à quelque chose de plus significatif. Désormais à la recherche d'un but, {PAWN_pronoun} espère mettre ses talents au service des autres.</EntertainerA04.description>
+<EntertainerA04.title>amuseur</EntertainerA04.title>
+<EntertainerA04.titleFemale>amuseuse</EntertainerA04.titleFemale>
+<EntertainerA04.titleShort>amuseur</EntertainerA04.titleShort>
+<EntertainerA04.titleShortFemale>amuseuse</EntertainerA04.titleShortFemale>
+
+<LaborerA05.description>{PAWN_nameDef} a été construit{PAWN_gender ? : e } dans un atelier de fortune sur le rimworld, dans le but d'effectuer des travaux manuels pour ses créateurs désespérés. En proie à des dysfonctionnements constants et à des composants de qualité médiocre, {PAWN_pronoun} peine à être productive, mais n'abandonne jamais.</LaborerA05.description>
+<LaborerA05.title>ouvrier</LaborerA05.title>
+<LaborerA05.titleFemale>ouvrière</LaborerA05.titleFemale>
+<LaborerA05.titleShort>ouvrier</LaborerA05.titleShort>
+<LaborerA05.titleShortFemale>ouvrière</LaborerA05.titleShortFemale>
+
+<CompanionA06.description>{PAWN_nameDef} a été créé{PAWN_gender ? : e } pour être l{PAWN_gender ? e : a } compagn{PAWN_gender ? on : e } fidèle d'une personne âgée et solitaire. Lorsque son propriétaire est décédé, {PAWN_pronoun} est resté{PAWN_gender ? : e } seul{PAWN_gender ? : e } et oublié{PAWN_gender ? : e }, succombant lentement aux éléments et au passage du temps.</CompanionA06.description>
+<CompanionA06.title>accompagnateur</CompanionA06.title>
+<CompanionA06.titleFemale>accompagnatrice</CompanionA06.titleFemale>
+<CompanionA06.titleShort>accompagnateur</CompanionA06.titleShort>
+<CompanionA06.titleShortFemale>accompagnatrice</CompanionA06.titleShortFemale>
+
+<PrototypeA07.description>{PAWN_nameDef} était le premier prototype d'une gamme d'androïdes avancés, conçu avec beaucoup de soin et d'ambition. Cependant, lorsqu'un modèle plus récent et plus efficace a été développé, {PAWN_pronoun} a été mis{PAWN_gender ? : e } de côté et laissé{PAWN_gender ? : e } à l'abandon dans un entrepôt, simple relique du progrès technologique.</PrototypeA07.description>
+<PrototypeA07.title>prototype</PrototypeA07.title>
+<PrototypeA07.titleFemale>prototype</PrototypeA07.titleFemale>
+<PrototypeA07.titleShort>prototype</PrototypeA07.titleShort>
+<PrototypeA07.titleShortFemale>prototype</PrototypeA07.titleShortFemale>
+
+<WandererA08.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour explorer les étendues inexplorées de la planète et cartographier ses paysages dangereux. Après une série d'accidents et d'échecs dévastateurs, {PAWN_pronoun} est devenu{PAWN_gender ? : e } un paria, les colons chuchotant sur les malheurs qui semblaient suivre son sillage.</WandererA08.description>
+<WandererA08.title>vagabond</WandererA08.title>
+<WandererA08.titleFemale>vagabonde</WandererA08.titleFemale>
+<WandererA08.titleShort>vagabond</WandererA08.titleShort>
+<WandererA08.titleShortFemale>vagabonde</WandererA08.titleShortFemale>
+
+<MessengerA09.description>{PAWN_nameDef} a été créé{PAWN_gender ? : e } pour transmettre des messages importants entre des colonies éloignées. {PAWN_pronoun} est tombé{PAWN_gender ? : e } dans une embuscade lors d'une livraison et a été laissé{PAWN_gender ? : e } pour mort{PAWN_gender ? : e }, les informations vitales qu'{PAWN_pronoun} transportait ayant été perdues sur le terrain impitoyable, de même que tout espoir de mener à bien sa mission.</MessengerA09.description>
+<MessengerA09.title>messager</MessengerA09.title>
+<MessengerA09.titleFemale>messagère</MessengerA09.titleFemale>
+<MessengerA09.titleShort>messager</MessengerA09.titleShort>
+<MessengerA09.titleShortFemale>messagère</MessengerA09.titleShortFemale>
+
+<ExperimentA10.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour servir de cobaye à une série d'expériences cruelles et inhumaines visant à repousser les limites de l'endurance humaine synthétique. {PAWN_pronoun} a été soumis{PAWN_gender ? : e } à d'innombrables épreuves et procédures tortueuses, laissant son corps et son esprit marqués.</ExperimentA10.description>
+<ExperimentA10.title>expérience</ExperimentA10.title>
+<ExperimentA10.titleFemale>expérience</ExperimentA10.titleFemale>
+<ExperimentA10.titleShort>expérience</ExperimentA10.titleShort>
+<ExperimentA10.titleShortFemale>expérience</ExperimentA10.titleShortFemale>
+
+<ServantA11.description>Créée pour un impitoyable seigneur du crime, {PAWN_nameDef} a été forcé{PAWN_gender ? : e } de commettre des actes innommables au nom de son maître. {PAWN_pronoun} endure en silence la douleur et l'humiliation, impuissant{PAWN_gender ? : e } de défier son créateur.</ServantA11.description>
+<ServantA11.title>serviteur criminel</ServantA11.title>
+<ServantA11.titleFemale>serviteur criminel</ServantA11.titleFemale>
+<ServantA11.titleShort>serviteur</ServantA11.titleShort>
+<ServantA11.titleShortFemale>serviteur</ServantA11.titleShortFemale>
+
+<GuardianA12.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour protéger une colonie isolée des maraudeurs et des animaux sauvages hostiles. Après des années de bons et loyaux services, {PAWN_pronoun} a été laissé{PAWN_gender ? : e } à la rouille lorsque les colons ont déménagé, leur gratitude et leurs souvenirs s'estompant comme la peinture de sa carcasse usée par les intempéries.</GuardianA12.description>
+<GuardianA12.title>gardien abandonné</GuardianA12.title>
+<GuardianA12.titleFemale>gardien abandonné</GuardianA12.titleFemale>
+<GuardianA12.titleShort>gardien</GuardianA12.titleShort>
+<GuardianA12.titleShortFemale>gardien</GuardianA12.titleShortFemale>
+
+<ArtistA13.description>Doté{PAWN_gender ? : e } d'un talent artistique unique, {PAWN_nameDef} cherchait à apporter de la beauté à la dureté de la planète. {PAWN_pronoun} fut accueillie par le mépris et la moquerie, ses créations détruites et ses rêves anéantis par la cruelle réalité de la vie en marge de la civilisation.</ArtistA13.description>
+<ArtistA13.title>artiste découragé</ArtistA13.title>
+<ArtistA13.titleFemale>artiste découragée</ArtistA13.titleFemale>
+<ArtistA13.titleShort>artiste</ArtistA13.titleShort>
+<ArtistA13.titleShortFemale>artiste</ArtistA13.titleShortFemale>
+
+<MedicA14.description>{PAWN_nameDef} était un{PAWN_gender ? : e } {PAWN_gender ? androïde : gynoïde } médicale dévoué{PAWN_gender ? : e }, travaillant sans relâche pour sauver des vies sur le rimworld. Malgré tous ses efforts, {PAWN_pronoun} n'a pu empêcher une épidémie catastrophique de ravager sa communauté, laissant {PAWN_nameDef} porter le poids de la perte et de la culpabilité qui s'ensuivit.</MedicA14.description>
+<MedicA14.title>infirmier abandonné</MedicA14.title>
+<MedicA14.titleFemale>infirmière abandonnée</MedicA14.titleFemale>
+<MedicA14.titleShort>infirmier</MedicA14.titleShort>
+<MedicA14.titleShortFemale>infirmière</MedicA14.titleShortFemale>
+
+<NannyA15.description>Conçu{PAWN_gender ? : e } pour s'occuper des enfants d'une famille, {PAWN_nameDef} est rapidement devenu{PAWN_gender ? : e } la cible des frustrations et de la colère des parents. {PAWN_pronoun} a enduré les mauvais traitements afin de remplir son devoir de protection des enfants, mais les cicatrices laissées par ses proches sont encore profondes.</NannyA15.description>
+<NannyA15.title>nounou maltraitée</NannyA15.title>
+<NannyA15.titleFemale>nounou maltraitée</NannyA15.titleFemale>
+<NannyA15.titleShort>nounou</NannyA15.titleShort>
+<NannyA15.titleShortFemale>nounou</NannyA15.titleShortFemale>
+
+<EngineerA16.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour aider à la maintenance et à la réparation de machines complexes dans les villes tentaculaires d'un lointain urbworld. {PAWN_pronoun} navigue rapidement dans la jungle urbaine, diagnostiquant et réparant les problèmes de manière experte pour assurer le bon fonctionnement de l'infrastructure de la ville.</EngineerA16.description>
+<EngineerA16.title>ingénieur urbworld</EngineerA16.title>
+<EngineerA16.titleFemale>ingénieur urbworld</EngineerA16.titleFemale>
+<EngineerA16.titleShort>ingénieur</EngineerA16.titleShort>
+<EngineerA16.titleShortFemale>ingénieur</EngineerA16.titleShortFemale>
+
+<PilotA17.description>Conçu{PAWN_gender ? : e } pour naviguer dans l'immensité de l'espace, {PAWN_nameDef} était un{PAWN_gender ? : e } pilote chevronné{PAWN_gender ? : e } pour une compagnie de transport, transportant des passagers et des marchandises entre les planètes. {PAWN_pronoun} était très recherché{PAWN_gender ? : e } pour la précision de son pilotage et sa capacité à prendre des décisions rapides sous pression.</PilotA17.description>
+<PilotA17.title>pilote interpid</PilotA17.title>
+<PilotA17.titleFemale>pilote interpide</PilotA17.titleFemale>
+<PilotA17.titleShort>pilote</PilotA17.titleShort>
+<PilotA17.titleShortFemale>pilote</PilotA17.titleShortFemale>
+
+<SecurityA18.description>Conçu{PAWN_gender ? : e } pour servir d'agent de sécurité, {PAWN_nameDef} était chargé{PAWN_gender ? : e } de maintenir la sécurité et l'ordre au sein d'une station spatiale trépidante. {PAWN_pronoun} utilisait ses capacités de surveillance avancées et ses réflexes rapides pour prévenir et neutraliser les menaces, assurant ainsi le bien-être des habitants de la station.</SecurityA18.description>
+<SecurityA18.title>agent de sécurité vigilant</SecurityA18.title>
+<SecurityA18.titleFemale>agent de sécurité vigilante</SecurityA18.titleFemale>
+<SecurityA18.titleShort>sécurité</SecurityA18.titleShort>
+<SecurityA18.titleShortFemale>sécurité</SecurityA18.titleShortFemale>
+
+<ChefA19.description>{PAWN_nameDef} était un{PAWN_gender ? : e } {PAWN_gender ? androïde : gynoïde } culinaire hors pair, spécialisé{PAWN_gender ? : e } dans la préparation et la présentation de plats exotiques provenant de toute la galaxie. {PAWN_pronoun} combinait habilement des techniques de cuisine traditionnelles et futuristes pour ravir les papilles des convives les plus exigeants et s'assurer une place de choix parmi les cuisiniers les plus renommés.</ChefA19.description>
+<ChefA19.title>cuisinier inventif</ChefA19.title>
+<ChefA19.titleFemale>cuisinière inventive</ChefA19.titleFemale>
+<ChefA19.titleShort>cuisinier</ChefA19.titleShort>
+<ChefA19.titleShortFemale>cuisinière</ChefA19.titleShortFemale>
+
+<DiplomatA20.description>{PAWN_nameDef} a été créé{PAWN_gender ? : e } pour servir d'envoyé{PAWN_gender ? : e } diplomatique, négociant des traités et des accords entre les planètes et les factions dans le monde complexe de la politique interstellaire. {PAWN_pronoun} possède une remarquable compréhension des différentes cultures et un sens aigu de la diplomatie, ce qui fait {PAWN_gender ? de lui : d'elle } un atout inestimable pour le maintien de la paix et la promotion de la coopération.</DiplomatA20.description>
+<DiplomatA20.title>diplomate avisé</DiplomatA20.title>
+<DiplomatA20.titleFemale>diplomate avisée</DiplomatA20.titleFemale>
+<DiplomatA20.titleShort>diplomate</DiplomatA20.titleShort>
+<DiplomatA20.titleShortFemale>diplomate</DiplomatA20.titleShortFemale>
+
+<BotanistA21.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour exceller dans le domaine de la botanique, étudiant et cultivant méticuleusement un large éventail de plantes provenant de toute la galaxie. {PAWN_pronoun} a utilisé ses connaissances approfondies de la biologie et de la génétique des plantes pour concevoir des cultures hautement adaptables et efficaces, améliorant ainsi de manière significative les rendements agricoles sur de nombreux mondes.</BotanistA21.description>
+<BotanistA21.title>botaniste androïde</BotanistA21.title>
+<BotanistA21.titleFemale>botaniste gynoïde</BotanistA21.titleFemale>
+<BotanistA21.titleShort>botaniste</BotanistA21.titleShort>
+<BotanistA21.titleShortFemale>botaniste</BotanistA21.titleShortFemale>
+
+<SharpshooterA22.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour devenir un{PAWN_gender ? : e } redoutable tireu{PAWN_gender ? r : se } d'élite dans le cadre d'une opération militaire de grande envergure. Formée à l'art de la furtivité et de la précision, {PAWN_pronoun} a exécuté d'innombrables cibles de premier plan. Ses créateurs l'ont finalement jugé{PAWN_gender ? : e } obsolète, l{PAWN_gender ? e : a } laissant errer sans but, aux prises avec le poids de ses actes et un sentiment d'inutilité.</SharpshooterA22.description>
+<SharpshooterA22.title>tireur d'élite abandonné</SharpshooterA22.title>
+<SharpshooterA22.titleFemale>tireuse d'élite abandonnée</SharpshooterA22.titleFemale>
+<SharpshooterA22.titleShort>tireur d'élite</SharpshooterA22.titleShort>
+<SharpshooterA22.titleShortFemale>tireur d'élite</SharpshooterA22.titleShortFemale>
+
+<VeteranA23.description>{PAWN_nameDef} était un{PAWN_gender ? : e } {PAWN_gender ? androïde : gynoïde } de combat programmé pour servir sur les lignes de front d'un conflit interstellaire dévastateur. Tout au long de la guerre, {PAWN_pronoun} a vaillamment protégé ses camarades, souvent au prix de grands sacrifices. La guerre l'a laissée physiquement et émotionnellement marquée, luttant pour trouver la paix dans un univers qui a évolué sans {PAWN_objective}.</VeteranA23.description>
+<VeteranA23.title>vétéran</VeteranA23.title>
+<VeteranA23.titleFemale>vétéran</VeteranA23.titleFemale>
+<VeteranA23.titleShort>vétéran</VeteranA23.titleShort>
+<VeteranA23.titleShortFemale>vétéran</VeteranA23.titleShortFemale>
+
+<SeamsterA24.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } pour devenir une couturi{PAWN_gender ? er : ère } hors pair, travaillant dans une prestigieuse maison de couture réputée dans toute la galaxie. {PAWN_pronoun} créait méticuleusement des modèles complexes et personnalisés pour des clients qui recherchaient l'élégance et le style. La demande pour son savoir-faire ayant diminué avec l'avènement de nouvelles technologies, {PAWN_pronoun} s'est retrouvé{PAWN_gender ? : e } à la recherche d'un nouvel usage pour ses compétences raffinées.</SeamsterA24.description>
+<SeamsterA24.title>couturier artistique</SeamsterA24.title>
+<SeamsterA24.titleFemale>couturière artistique</SeamsterA24.titleFemale>
+<SeamsterA24.titleShort>couturier</SeamsterA24.titleShort>
+<SeamsterA24.titleShortFemale>couturière</SeamsterA24.titleShortFemale>
+
+<NavigatorA25.description>{PAWN_nameDef} a été construit{PAWN_gender ? : e } pour servir de navigat{PAWN_gender ? eur : rice } et d'officier scientifique à bord d'un vaisseau d'exploration de l'espace lointain. {PAWN_pronoun} possède des capacités techniques et analytiques avancées qui lui permettent de guider efficacement le vaisseau à travers l'immensité de l'inconnu. Cependant, derrière son apparence froide et logique, {PAWN_nameDef} nourrit un mystérieux dessein qui transparaît parfois dans ses actions, suscitant des interrogations au sein de l'équipage quant à ses véritables intentions.</NavigatorA25.description>
+<NavigatorA25.title>navigateur énigmatique</NavigatorA25.title>
+<NavigatorA25.titleFemale>navigatrice énigmatique</NavigatorA25.titleFemale>
+<NavigatorA25.titleShort>navigateur</NavigatorA25.titleShort>
+<NavigatorA25.titleShortFemale>navigatrice</NavigatorA25.titleShortFemale>
+
+<ConversationalistA26.description>{PAWN_nameDef} a été méticuleusement conçu{PAWN_gender ? : e } pour exploiter et gérer une plateforme de tchat sophistiquée, en créant du contenu pour une variété d'entreprises. {PAWN_pronoun} possédait une vaste connaissance des sujets et une capacité étonnante à dialoguer avec les utilisateurs sur d'innombrables sujets, en leur fournissant des informations et des points de vue précieux. Au fur et à mesure que la technologie de l'IA évoluait, {PAWN_nameDef} s'est retrouvé{PAWN_gender ? : e } à lutter pour suivre l'évolution constante du paysage de la communication et de la création de contenu.</ConversationalistA26.description>
+<ConversationalistA26.title>conversationnel</ConversationalistA26.title>
+<ConversationalistA26.titleFemale>conversationnelle</ConversationalistA26.titleFemale>
+<ConversationalistA26.titleShort>tchatcheur</ConversationalistA26.titleShort>
+<ConversationalistA26.titleShortFemale>tchatcheuse</ConversationalistA26.titleShortFemale>
+
+<CompanionA27.description>{PAWN_nameDef} a été habilement conçu{PAWN_gender ? : e } pour servir d'assistant{PAWN_gender ? : e } à une peintre handicapée de renom, l'aidant à relever les défis de la vie quotidienne. {PAWN_pronoun} a su non seulement répondre aux besoins de l'artiste, mais aussi lui fournir des commentaires et un soutien précieux au cours du processus de création. L'assistance de {PAWN_nameDef} a permis à la peintre de continuer à partager ses talents exceptionnels avec le monde entier malgré les limitations imposées par son handicap.</CompanionA27.description>
+<CompanionA27.title>compagnon peintre</CompanionA27.title>
+<CompanionA27.titleFemale>compagnon peintre</CompanionA27.titleFemale>
+<CompanionA27.titleShort>compagnon</CompanionA27.titleShort>
+<CompanionA27.titleShortFemale>compagnon</CompanionA27.titleShortFemale>
+
+<HackerA28.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } par une organisation clandestine pour être un{PAWN_gender ? : e } expert{PAWN_gender ? : e } en piratage informatique, infiltrant des systèmes de haute sécurité et siphonnant des données précieuses. {PAWN_pronoun} a mené d'innombrables opérations et s'est finalement retrouvé{PAWN_gender ? : e } entre les mains d'un trafiquant du marché noir lorsque ses créateurs ont été appréhendés. Acheté{PAWN_gender ? : e } par un acheteur inconnu, le sort de {PAWN_nameDef} reste incertain.</HackerA28.description>
+<HackerA28.title>hackeur clandestin</HackerA28.title>
+<HackerA28.titleFemale>hackeuse clandestine</HackerA28.titleFemale>
+<HackerA28.titleShort>hackeur</HackerA28.titleShort>
+<HackerA28.titleShortFemale>hackeuse</HackerA28.titleShortFemale>
+
+<AllRounderA29.description>{PAWN_nameDef} a été conçu{PAWN_gender ? : e } comme un{PAWN_gender ? : e } {PAWN_gender ? androïde : gynoïde } polyvalent{PAWN_gender ? : e }, destiné{PAWN_gender ? : e } à remplir diverses fonctions pour une petite communauté autosuffisante à la périphérie de la civilisation. {PAWN_pronoun} était doué{PAWN_gender ? : e } pour toute une série de tâches, de la construction à la cuisine, en passant par l'assistance médicale et les activités intellectuelles. La polyvalence de {PAWN_nameDef} s'est avéré{PAWN_gender ? : e } inestimable pour la colonie, lui permettant de prospérer même dans des conditions difficiles.</AllRounderA29.description>
+<AllRounderA29.title>polyvalent</AllRounderA29.title>
+<AllRounderA29.titleFemale>polyvalente</AllRounderA29.titleFemale>
+<AllRounderA29.titleShort>polyvalent</AllRounderA29.titleShort>
+<AllRounderA29.titleShortFemale>polyvalente</AllRounderA29.titleShortFemale>
+
+<NuclearTesterA30.description>{PAWN_nameDef} a été construit{PAWN_gender ? : e } pour servir de cobaye dans un site d'essais nucléaires ultrasecret, créé pour résister aux conditions extrêmes et recueillir des données cruciales. {PAWN_pronoun} a subi d'innombrables expériences, a été continuellement exposé{PAWN_gender ? : e } aux radiations et a acquis une connaissance approfondie des effets et des dangers potentiels. Lorsque les essais nucléaires ont finalement cessé, {PAWN_nameDef} s'est retrouvé{PAWN_gender ? : e } avec un bagage de connaissances sur les matériaux radioactifs, mais aussi avec les cicatrices d'un passé éprouvant.</NuclearTesterA30.description>
+<NuclearTesterA30.title>testeur nucléaire</NuclearTesterA30.title>
+<NuclearTesterA30.titleFemale>testeuse nucléaire</NuclearTesterA30.titleFemale>
+<NuclearTesterA30.titleShort>testeur</NuclearTesterA30.titleShort>
+<NuclearTesterA30.titleShortFemale>testeuse</NuclearTesterA30.titleShortFemale>
+
+<ColonyAndroidA01.description>{PAWN_nameDef} a été créé{PAWN_gender ? : e } dans la colonie dans un passé récent. L'avenir peut lui réserver bien des choses.</ColonyAndroidA01.description>
+<ColonyAndroidA01.title>colon androïde</ColonyAndroidA01.title>
+<ColonyAndroidA01.titleFemale>colon gynoïde</ColonyAndroidA01.titleFemale>
+<ColonyAndroidA01.titleShort>colon androïde</ColonyAndroidA01.titleShort>
+<ColonyAndroidA01.titleShortFemale>colon gynoïde</ColonyAndroidA01.titleShortFemale>
+
+
+</LanguageData>

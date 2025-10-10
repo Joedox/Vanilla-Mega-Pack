@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<VESWW.RandomRewardOf>Récompense aléatoire de la catégorie {0}</VESWW.RandomRewardOf>
+<VESWW.RandomApparel>{0} vêtement{0_multiple ? s : } aléatoire{0_multiple ? s : } de qualité {1} avec le tag {3}</VESWW.RandomApparel>
+<VESWW.RandomWeapons>{0} arme{0_multiple ? s : } aléatoire{0_multiple ? s : } de qualité {1} avec le tag {3}</VESWW.RandomWeapons>
+<VESWW.RandomThing>{0} objet{0_multiple ? s : } aléatoire{0_multiple ? s : } de qualité {1} dans la catégorie {3}</VESWW.RandomThing>
+<VESWW.RandomThingMC>{0} objet{0_multiple ? s : } aléatoire{0_multiple ? s : } de qualité {1} dans la catégorie {3}</VESWW.RandomThingMC>
+<VESWW.RandomBlocks>{0} blocs de pierre aléatoires</VESWW.RandomBlocks>
+<VESWW.RandomPawns>{0} colon{0_multiple ? s : } aléatoire{0_multiple ? s : } de {1} intelligence</VESWW.RandomPawns>
+<VESWW.FiringEvent>Événement {0}</VESWW.FiringEvent>
+<VESWW.Item>{0} {1} </VESWW.Item>
+<VESWW.ItemWQuality>{0} {1} de qualité {2}</VESWW.ItemWQuality>
+<VESWW.Pawn>{0} {1} </VESWW.Pawn>
+<VESWW.Research>Débloquer {0} recherches</VESWW.Research>
+<VESWW.SkillBoost>Ajouter {0} points à chaque colon, esclave et prisonnier</VESWW.SkillBoost>
+<VESWW.Delay>La prochaine vague est retardée de {0} jours</VESWW.Delay>
+<VESWW.Weaken>La prochaine vague est affaiblie par {0}</VESWW.Weaken>
+<VESWW.Allies>La prochaine vague fera également apparaître des alliés pour vous aider</VESWW.Allies>
+<VESWW.MassHeal>Guérissez instantanément tous les dégâts subis par les colons, les esclaves et les prisonniers.</VESWW.MassHeal>
+<VESWW.ResearchUnlocked>Recherche terminée : {0}</VESWW.ResearchUnlocked>
+<VESWW.Reward>Récompense {0}</VESWW.Reward>
+<VESWW.SelectReward>Choisir</VESWW.SelectReward>
+<VESWW.WaveNum>Vague {0}</VESWW.WaveNum>
+<VESWW.EnemiesC>Ennemis en approche ({0}) :</VESWW.EnemiesC>
+<VESWW.EnemiesR>Vaincre les ennemis restants :</VESWW.EnemiesR>
+<VESWW.RandRewardOutcome>Vous recevez : {0}</VESWW.RandRewardOutcome>
+<VESWW.RemoveOldDropSpot>Suppression de l'autre lieu des récompenses</VESWW.RemoveOldDropSpot>
+<VESWW.SkipWave>Invoquer</VESWW.SkipWave>
+<VESWW.BossWave>Vague de Boss</VESWW.BossWave>
+<VESWW.NormalWave>Vague normale</VESWW.NormalWave>
+<VESWW.PointUsed>{0} points utilisés</VESWW.PointUsed>
+<VESWW.RewardChance>Qualité de récompense de cette vague :</VESWW.RewardChance>
+<VESWW.MoreRewardChance>{0} de chance d'obtenir une quatrième récompense en invoquant la vague maintenant.</VESWW.MoreRewardChance>
+<VESWW.GameOver>Fin de la partie !</VESWW.GameOver>
+<VESWW.SurvivedX>Vague survécu : {0}</VESWW.SurvivedX>
+<VESWW.SurvivedDaysX>Jour survécu : {0}</VESWW.SurvivedDaysX>
+<VESWW.TotalKill>Total de mort : {0}</VESWW.TotalKill>
+<VESWW.MaxPopEver>Plus grande population : {0}</VESWW.MaxPopEver>
+<VESWW.Reinforcement>Renfort !</VESWW.Reinforcement>
+<VESWW.Score>Score final : {0}</VESWW.Score>
+<VESWW.Locked>Déplaçable :</VESWW.Locked>
+<VESWW.Poor>Médiocre</VESWW.Poor>
+<VESWW.Normal>Normal</VESWW.Normal>
+<VESWW.Good>Bon</VESWW.Good>
+<VESWW.Excellent>Excellent</VESWW.Excellent>
+<VESWW.Legendary>Légendaire</VESWW.Legendary>
+<VESWW.PawnsArriving>Les colons du raid arrivent...</VESWW.PawnsArriving>
+<!-- Settings -->
+<VESWW.ModName>Vanilla Storytellers Expanded - Winston Wave </VESWW.ModName>
+<VESWW.TimeBeforeFirstWave>Temps avant la première vague :</VESWW.TimeBeforeFirstWave>
+<VESWW.TimeBetweenWaves>Temps entre les vagues :</VESWW.TimeBetweenWaves>
+<VESWW.TimeToDefeatWave>Nombre maximum de jours pour éliminer une vague :</VESWW.TimeToDefeatWave>
+<VESWW.MaxPoints>Points de menace maximum utilisés :</VESWW.MaxPoints>
+<VESWW.EnableMaxPoints>Activer un plafond de points de raid :</VESWW.EnableMaxPoints>
+<VESWW.DrawBackground>Dessiner le fond du compteur des vagues :</VESWW.DrawBackground>
+<VESWW.PointMultiplierBefore20>Multiplicateur des points de menace des vague avant la vague 20 :</VESWW.PointMultiplierBefore20>
+<VESWW.PointMultiplierAfter20>Multiplicateur des points de menace des vague après la vague 20 :</VESWW.PointMultiplierAfter20>
+<VESWW.EnableStats>Activer l'augmentation des statistiques :</VESWW.EnableStats>
+<VESWW.DrawBack>Dessiner le fond du compteur des vagues :</VESWW.DrawBack>
+<VESWW.MysteryMod>Activer le mode mystère (les types de modificateurs sont cachés) :</VESWW.MysteryMod>
+<VESWW.RandomRewardMod>Envoyer une récompense aléatoire (au lieu d'en choisir une) :</VESWW.RandomRewardMod>
+<VESWW.Modifiers>Activer ou désactiver les modificateurs des raids :</VESWW.Modifiers>
+<VESWW.RModifiers>Retirer le modificateur des exclus</VESWW.RModifiers>
+<VESWW.AModifiers>Exclure un modificateur</VESWW.AModifiers>
+<VESWW.ExcludedFaction>Exclure une ou plusieurs factions des vagues :</VESWW.ExcludedFaction>
+<VESWW.AddExcludedFaction>Exclure une faction ...</VESWW.AddExcludedFaction>
+<VESWW.RemoveExcludedFaction>Retirer la faction des exclus</VESWW.RemoveExcludedFaction>
+<VESWW.ExcludedStrategy>Exclure certaines stratégies des vagues de boss :</VESWW.ExcludedStrategy>
+<VESWW.AddExcludedStrategy>Exclure une stratégie de raid</VESWW.AddExcludedStrategy>
+<VESWW.RemoveExcludedStrategy>Retirer la stratégie de raid des exclus</VESWW.RemoveExcludedStrategy>
+<VESWW.ShowDraggable>Cacher la case à cocher du compteur des vagues "Déplaçable" :</VESWW.ShowDraggable>
+<VESWW.UseRimworldTime>Le chronomètre utilise l'heure de Rimworld :</VESWW.UseRimworldTime>
+<VESWW.DontShowPawnList>Afficher la liste des colons pillards et leur faction :</VESWW.DontShowPawnList>
+<VESWW.ResetCounterPos>Réinitialiser la position du compteur des vagues</VESWW.ResetCounterPos>
+<VESWW.LoadToReset>Charger une sauvegarde en choisissant Winston !</VESWW.LoadToReset>
+<VESWW.DisableSteelSlagChunk>Les capsules de récompense laissent également tomber des débris d'acier.</VESWW.DisableSteelSlagChunk>
+<VESWW.GS>Général</VESWW.GS>
+<VESWW.VS>Vagues</VESWW.VS>
+<VESWW.MS>Modificateurs</VESWW.MS>
+<VESWW.WCS>compteur des vagues</VESWW.WCS>
+<!-- Settings tooltips -->
+<VESWW.TimeBeforeFirstWaveTip>Nombre de jours avant l'arrivée de la première vague.</VESWW.TimeBeforeFirstWaveTip>
+<VESWW.TimeBetweenWavesTip>Nombre de jours entre chaque vague.</VESWW.TimeBetweenWavesTip>
+<VESWW.TimeToDefeatWaveTip>Nombre maximum de jours dont dispose le joueur pour vaincre une vague. Si la vague n'est pas vaincue dans ce délai, la prochaine vague est lancée et aucune récompense n'est octroyée.</VESWW.TimeToDefeatWaveTip>
+<VESWW.MaxPointsTip>Quantité maximum de points utilisés dans la génération des raids.</VESWW.MaxPointsTip>
+<VESWW.PointMultiplierBefore20Tip>Multiplicateur de points de raid utilisé avant la vague 20.</VESWW.PointMultiplierBefore20Tip>
+<VESWW.PointMultiplierAfter20Tip>Multiplicateur de points de raid utilisé après la vague 20.</VESWW.PointMultiplierAfter20Tip>
+<VESWW.EnableStatsTip>Les statistiques augmentées sont : 	 \n  -Facteur de guérison des blessures\n  -Vitesse générale de travail\n  -Vitesse de recherche\n  -Temps de croissance des plantes</VESWW.EnableStatsTip>
+<VESWW.RandomRewardModTip>Si activé, la fenêtre de récompense ne sera jamais affichée. Vous obtiendrez toujours une récompense aléatoire.</VESWW.RandomRewardModTip>
+<VESWW.MysteryModTip>Si activé, le modificateur sera toujours masqué. Vous saurez qu'un modificateur a été appliqué, mais pas lequel.</VESWW.MysteryModTip>
+<VESWW.ShowDraggableTip>Si désactivé, vous ne pourrez pas modifier la position du compteur des vagues jusqu'à ce que vous le réactiviez.</VESWW.ShowDraggableTip>
+<VESWW.UseRimworldTimeTip>Si activé, le chronomètre utilise l'heure de Rimworld au lieu de l'heure de la vie réelle.</VESWW.UseRimworldTimeTip>
+
+
+</LanguageData>

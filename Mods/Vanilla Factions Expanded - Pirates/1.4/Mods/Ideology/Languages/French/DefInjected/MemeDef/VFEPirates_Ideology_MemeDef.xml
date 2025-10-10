@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEP_PirateMeme.label>pirate</VFEP_PirateMeme.label>
+<VFEP_PirateMeme.description>Les forts doivent prendre aux faibles, car c'est leur droit, mais la camaraderie et le code doivent être élevés au-dessus de tout.</VFEP_PirateMeme.description>
+<VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_Pirate)        ->[deity0_name] nous a montré que les [memberNamePlural] doivent s'unir en tant qu'équipage pour imposer sa volonté aux plus faibles.</li>
+    <li>episode(uses=1,tag=meme_Pirate)  ->[deity0_name] a crié à tous les [memberNamePlural], "Dans un service honnête, il y a peu de biens communs, de faibles salaires et un travail dur ; dans la piraterie, l'abondance et la satiété, le plaisir et la facilité, la liberté et le pouvoir. Saisissez-les."</li>
+    <!-- theist founder -->
+    <li>intro(tag=meme_Pirate)           ->Sur la [place_summary] [place_name], les [memberNamePlural] avaient créé un havre de paix, où leur butin pouvait être compté pour la gloire de [deity0_name].</li>
+    <li>conflict(tag=meme_Pirate)           ->Un [foeLeader] lâche regardait cela avec mépris, car [foeLeader_pronoun] désirait toutes les richesses pour [foeLeader_objective]-même.</li>
+    <li>founderJoin(tag=meme_Pirate)        ->Le plus fidèle partisan de [deity0_name], le capitaine [founderName], a capturé le [foeLeader] lors d'un raid audacieux.</li>
+    <li>victory(tag=meme_Pirate)            ->Les camarades de [founderName] ont incarcéré le [foeLeader], , qui a été exécuté quelques jours plus tard pour la gloire de [deity0_name].</li>
+    <!-- ideological founder -->
+    <li>setup(tag=meme_Pirate)           ->[founderName] était le plus grand capitaine, un vrai leader. Des milliers de pirates se sont unis sous sa terrifiante bannière.</li>
+    <li>story(uses=1,tag=meme_Pirate)    ->[founderName] nous a fait comprendre que les épreuves, les souffrances et les sacrifices doivent être affrontés ensemble, en tant qu'équipage. Nous avons appris à apprécier la camaraderie et le respect mutuel.</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_Pirate)         ->J'ai parlé au plus grand pirate qui ait jamais vécu, une légende parmi les hommes. Il m'a montré que</li>
+    <li>lesson(tag=meme_Pirate)              ->les difficultés, les souffrances et les sacrifices doivent être affrontés ensemble, en tant qu'équipage</li>
+    <li>lessonReinforcement(tag=meme_Pirate) ->Il m'a appris à apprécier la camaraderie et l'esprit d'équipe, ainsi que les mérites du respect mutuel.</li>
+    <!-- archist -->
+    <li>archistBasis(tag=meme_Pirate)    ->Les Archontechs ne respectent pas ceux qui ne peuvent pas se défendre : nous affronterons ceux qui sont plus faibles que nous en tant qu'équipage.</li>
+    <li>archistFact(tag=meme_Pirate)     ->Nous prouverons aux archotechs que la camaraderie et l'entraide sont les valeurs qui nous rendent forts.</li>
+    <li>archistProphecy(tag=meme_Pirate) ->Ce n'est qu'en se dressant fièrement ensemble que nous pouvons devenir dignes de la transcendance.</li>
+    <!-- animist -->
+    <li>animistBasis(tag=meme_Pirate)    ->Les esprits ne respectent pas ceux qui ne peuvent pas se défendre : nous affronterons ceux qui sont plus faibles que nous en tant qu'équipage.</li>
+    <li>animistFact(tag=meme_Pirate)     ->Nous prouverons aux esprits que la camaraderie et l'esprit d'équipe sont les valeurs qui nous rendent forts.</li>
+    <li>animistProphecy(tag=meme_Pirate) ->[itIsSaid] ce n'est qu'en se dressant fièrement ensemble que nous pourrons faire en sorte que les esprits nous écoutent vraiment.</li>
+    <!-- serketist -->
+    <li>serketistProphecy(tag=meme_Pirate)->[itIsSaid] nous prouverons que la camaraderie et l'esprit d'équipe sont les valeurs qui nous rendent forts.</li>
+    <!-- eldritch / chthonian -->
+    <li>chthonianProphecy(tag=meme_Pirate)->Ces entités eldritch chercheraient à nous détruire, mais nous ferons front ensemble contre elles. Notre camaraderie ne peut être ébranlée par rien, pas même par eux.</li>
+    <!-- esoteric -->
+    <li>esotericismProphecy(tag=meme_Pirate)->De telles connaissances occultes requièrent une volonté unifiée. Nous nous tiendrons ensemble comme un équipage, notre camaraderie nous permettant d'embrasser ces secrets obscurs avec facilité.</li>
+    <!-- eschatologism -->
+    <li>eschatologismFact(tag=meme_Pirate)->Nous allons piller et saccager ceux qui sont plus faibles que nous, car le monde qu'ils ont créé doit être détruit, et seul notre équipage mérite ses réalisations.</li>
+    <!-- corporate -->
+    <li>introMemo(tag=meme_Pirate)->En tant que membre de notre Bureau de Récupération et de Réappropriation, permettez-nous de vous rappeler que toutes les ressources trouvées sur cette planète sont la propriété de la Compagnie, et en tant que tel, toute faction hostile essayant de prendre possession de nos biens doit être éliminée avec un préjudice EXTRÊME. Nous ne permettrons pas aux autres de prendre ce qui nous revient de droit.</li>
+    <!-- alienist -->
+    <li>alienistProphecy(tag=meme_Pirate)->Ces créatures rebelles sont à nous et nous pouvons en faire ce que nous voulons.</li>
+</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+<VFEP_PirateMeme.generalRules.rulesStrings>
+    <li>memeAdjective->boucanier</li>
+    <li>memeAdjective->criminel</li>
+    <li>memeAdjective->pillage</li>
+    <li>memeAdjective->déprédation</li>
+    <li>memeAdjective->rebelle</li>
+    <li>memeAdjective->pirate</li>				
+
+    <li>memeLeaderNoun->capitaine</li>
+    <li>memeLeaderNoun->commandant</li>
+    <li>memeLeaderNoun->boss</li>				
+    <li>memeLeaderAdjective->courageux</li>
+    <li>memeLeaderAdjective->draconien</li>
+    <li>memeLeaderAdjective->calleux</li>
+    <li>memeLeaderAdjective->brave</li>
+    <li>memeLeaderAdjective->impitoyable</li>
+    <li>memeLeaderAdjective->audacieux</li>
+    <li>memeMoralist->chapelain</li>
+    <li>memeMoralist->premier lieutenant</li>
+    <li>memeMoralist->premier officier</li>
+</VFEP_PirateMeme.generalRules.rulesStrings>
+<VFEP_PirateMeme.symbolPacks.0.adjective>pirate</VFEP_PirateMeme.symbolPacks.0.adjective>
+<VFEP_PirateMeme.symbolPacks.0.ideoName>Piraterie</VFEP_PirateMeme.symbolPacks.0.ideoName>
+<VFEP_PirateMeme.symbolPacks.0.member>membre d'équipage</VFEP_PirateMeme.symbolPacks.0.member>
+<VFEP_PirateMeme.symbolPacks.0.theme>piraterie</VFEP_PirateMeme.symbolPacks.0.theme>
+
+
+</LanguageData>

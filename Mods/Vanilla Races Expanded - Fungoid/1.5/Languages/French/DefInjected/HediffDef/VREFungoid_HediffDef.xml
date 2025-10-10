@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_InfectorMouth.label>bouche infectieuse</VRE_InfectorMouth.label>
+<VRE_InfectorMouth.description>Les attaques de mêlée de cette personne ont 20% de chances de propager une infection de gènes.</VRE_InfectorMouth.description>
+<VRE_InfectorMouth.comps.HediffComp_VerbGiver.tools.infector_mouth.label>bouche infectieuse</VRE_InfectorMouth.comps.HediffComp_VerbGiver.tools.infector_mouth.label>
+
+<VRE_InfectorHands.label>main infectieuse</VRE_InfectorHands.label>
+<VRE_InfectorHands.description>Les attaques de mêlée de cette personne ont 20% de chances de propager une infection de gènes.</VRE_InfectorHands.description>
+<VRE_InfectorHands.comps.HediffComp_VerbGiver.tools.infector_hand.label>main infectieuse</VRE_InfectorHands.comps.HediffComp_VerbGiver.tools.infector_hand.label>
+
+<VRE_FungalArmor.label>armure fongique</VRE_FungalArmor.label>
+<VRE_FungalArmor.description>Cette personne a une trame fongique dans sa peau, ce qui réduit considérablement les dommages subis. L'effet augmente avec le temps.</VRE_FungalArmor.description>
+
+<VRE_FungalRegeneration.label>régénération fongique</VRE_FungalRegeneration.label>
+<VRE_FungalRegeneration.description>Cette personne a la capacité de se régénérer par voie fongique. L'effet augmente avec le temps.</VRE_FungalRegeneration.description>
+
+<VRE_GeneInfection.label>infection de gènes</VRE_GeneInfection.label>
+<VRE_GeneInfection.description>Cette personne s'est vue implanter une copie d'un xénogerme lors d'une attaque au corps à corps. Cela a déclenché une infection progressive qui, si elle n'est pas traitée, lui appliquera ce xénogerme.</VRE_GeneInfection.description>
+<VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0} est atteint{0_gender ? : e } d'une infection de gènes ! Si l'infection n'est pas traitée avec succès, les gènes seront douloureusement transformés en xénotype de la personne qui l'a infecté.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
+<VRE_GeneInfection.labelNoun>une infection de gènes</VRE_GeneInfection.labelNoun>
+<VRE_GeneInfection.stages.minor.label>mineure</VRE_GeneInfection.stages.minor.label>
+<VRE_GeneInfection.stages.major.label>majeure</VRE_GeneInfection.stages.major.label>
+<VRE_GeneInfection.stages.extreme-0.label>extrême</VRE_GeneInfection.stages.extreme-0.label>
+<VRE_GeneInfection.stages.extreme-1.label>extrême</VRE_GeneInfection.stages.extreme-1.label>
+
+<VRE_GeneInfected.label>gène infecté</VRE_GeneInfected.label>
+<VRE_GeneInfected.description>Cette personne a été victime d'une infection de gènes qui a modifié son xénotype. Cela ne peut pas être guéri.</VRE_GeneInfected.description>
+
+
+</LanguageData>

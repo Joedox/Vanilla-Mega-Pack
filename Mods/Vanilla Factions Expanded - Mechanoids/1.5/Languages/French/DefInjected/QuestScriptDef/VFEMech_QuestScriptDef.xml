@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Script_AbandonedFactory +++++ -->
+<VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+	<li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nous a envoyé un message. Apparemment, les [siteFaction_pawnsPlural] basés dans une usine abandonnée voisine ont fait des raids sur leurs caravanes. Le site de l'usine est contrôlé par [siteFaction_name]. Il peut s'agir d'une excellente occasion d'obtenir des éléments d'usine et des composants mécanoïdes.\n\n[asker_nameDef] nous demande d'éliminer la menace et qu’[asker_pronoun] n’est pas intéressé par des vieilles machines. [asker_label] a précisé qu'[sitePart0_description].</li>
+</VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+	<li>questName->Une [factory] [abandoned]</li>
+	<li>questName->[factory] [abandoned]</li>
+	<li>questName->[asker_nameDef] et une [factory] [abandoned]</li>
+	<li>abandoned->abandonnée</li>
+	<li>abandoned->ancienne</li>
+	<li>abandoned->désaffectée</li>
+	<li>abandoned->en ruine</li>
+	<li>factory->usine</li>
+	<li>factory->ligne de production</li>
+	<li>factory->usine automatisée</li>
+	<li>factory->zone de production</li>
+</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Des bandits ont pillé la zone et sont partis. La quête [resolvedQuestName] a expiré.</VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Quête échouée : [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Après avoir été découvert, les bandits se sont dispersés. La quête [resolvedQuestName] est terminée.</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Paiement arrivé</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Vous avez vaincu les bandits !\n\nLe paiement de [asker_faction_name] est arrivé.</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Ces colons ont participé à la victoire de la quête [resolvedQuestName]. [asker_definite] vous demande qui doit recevoir [royalFavorReward_amount] [asker_faction_royalFavorLabel] pour ce service.</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+
+		<!-- +++++ Script_BroadcastingStation +++++ -->
+<VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+	<li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nous a envoyé un message. D'après [asker_objective], les [siteFaction_pawnsPlural] utilisent la station de radio voisine comme base d'opérations. Le site est contrôlé par [siteFaction_name]. Il est évident qu'il contient des superordinateurs encore en état de fonctionnement.\n\n[asker_nameDef] nous demande d’éliminer la menace et qu’[asker_pronoun] n’est pas intéressé par des vieux appareils électroniques. [asker_label] a précisé qu’[sitePart0_description].</li>
+</VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+<VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+	<li>questName->Une [station] [broadcasting] [abandoned]</li>
+	<li>questName->[station] [broadcasting] [abandoned]</li>
+	<li>questName->[asker_nameDef] et une [station] [broadcasting] [abandoned]</li>
+	<li>abandoned->abandonnée</li>
+	<li>abandoned->ancienne</li>
+	<li>abandoned->désaffectée</li>
+	<li>abandoned->en ruine</li>
+	<li>broadcasting->de diffusion</li>
+	<li>broadcasting->radar</li>
+	<li>broadcasting->de calcul</li>
+	<li>broadcasting->de supercalculateurs</li>
+	<li>station->station</li>
+	<li>station->installation</li>
+	<li>station->antenne</li>
+	<li>station->base</li>
+</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Des bandits ont pillé la zone et sont partis. La quête [resolvedQuestName] a expiré.</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Quête échouée : [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Après avoir été découvert, les bandits se sont dispersés. La quête [resolvedQuestName] est terminée.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Paiement arrivé</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Vous avez vaincu les bandits !\n\nLe paiement de [asker_faction_name] est arrivé.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+<VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Ces colons ont participé à la victoire de la quête [resolvedQuestName]. [asker_definite] vous demande qui doit recevoir [royalFavorReward_amount] [asker_faction_royalFavorLabel] pour ce service.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+
+		<!-- +++++ Script_MechanoidAttackParty +++++ -->
+<VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+	<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], explique que son avant-poste est attaqué par des mécanoïdes.\n[asker_nameDef] n'a pas de renfort de disponible pour les aider, mais [asker_pronoun] ajoute que si vous arrivez à l'avant-poste à temps, les personnes que vous avez sauvés pourront choisir de vous rejoindre.\n\nVous pouvez vous attendre à ce que les défenseurs soient grandement surpassés en nombre et également blessés.</li>
+</VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+<VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+	<li>questName->Sauver le peuple de [asker_faction_name]</li>
+	<li>questName->Les Mécanoïdes assiègent [asker_faction_name]</li>
+	<li>questName->[asker_faction_name] assiégé</li>
+	<li>questName->[asker_faction_name] attaqué</li>
+</VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+<VFE_OpportunitySite_MechanoidAttackParty.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_MechanoidAttackParty.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>L'avant-poste a succombé à la force d'attaque des mécanoïdes. La quête [resolvedQuestName] a expiré.</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_MechanoidAttackParty.root.nodes.siteAllMechsDefeated.node.nodes.Letter.label.slateRef>Mécanoïdes vaincus</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.siteAllMechsDefeated.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_MechanoidAttackParty.root.nodes.siteAllMechsDefeated.node.nodes.Letter.text.slateRef>Tous les mécanoïdes de la zone ont été vaincus.</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.siteAllMechsDefeated.node.nodes.Letter.text.slateRef>
+
+
+		<!-- +++++ Script_MechanoidShipLandingLocation +++++ -->
+<VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+	<li>questDescription(askerIsNull==true)->Nous avons obtenu des informations cryptées sur un vaisseau mécanoïde en approche, il prévoit de se poser non loin de [map_definite]. Le protocole de ce vaisseau ne permet pas d'atterrir si l’emplacement comporte une menace. Ce site est gardé par des forces mécanoïdes, la destruction des quatre balises d'atterrissage sera suffisante pour empêcher le vaisseau de se poser.\n\nSi vous n'y parvenez pas, le vaisseau mécanoïde atterrira à la surface, augmentant ainsi la présence des mécanoïdes dans la région.</li>
+	<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nous a signalé qu'un vaisseau mécanoïde avait l'intention d'atterrir non loin de notre secteur. Le protocole de ce vaisseau ne permet pas d'atterrir si l’emplacement comporte une menace. Ce site est gardé par des forces mécanoïdes, la destruction des quatre balises d'atterrissage sera suffisante pour empêcher le vaisseau de se poser.\n\nSi vous n'y parvenez pas, le vaisseau mécanoïde atterrira à la surface, augmentant ainsi la présence des mécanoïdes dans la région.</li>
+</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+<VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+	<li>questName(priority=1)->Les [intel] de [asker_nameDef] sur [landing] Mécanoïde</li>
+	<li>questName->[landing] Mécanoïde</li>
+	<li>intel->infos</li>
+	<li>intel->indices</li>
+	<li>intel->conseils</li>
+	<li>intel->informations</li>
+	<li>landing->la zone d'atterrissage</li>
+	<li>landing->la piste d'atterrissage</li>
+	<li>landing->l'atterrissage imminent du vaisseau</li>
+	<li>landing->le site d'atterrissage</li>
+	<li>landing->l'arrivée d'un vaisseau</li>
+</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.label.slateRef>Balises d’atterrissages Détruites</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>Toutes les balises d'atterrissage ont été détruites.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée (échec de la destruction des balises 1) : [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Le vaisseau mécanoïde a atterri. La quête [resolvedQuestName] a expiré.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>Quête expirée (échec de la destruction des balises 2) : [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>Le vaisseau mécanoïde a atterri. La quête [resolvedQuestName] a expiré.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>
+
+
+		<!-- +++++ Script_MechanoidStorage +++++ -->
+<VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+	<li>questDescription(askerIsNull==true)->Nous avons intercepté une communication cryptée concernant une grande quantité de ressources brutes d'une valeur de [itemStashContentsValue] prêtes à être ramassées non loin de [map_definite]. Les ressources sont :\n\n[itemStashContents]\n\nIl semblerait que des mécanoïdes gardent les lieux avant d’expédier les ressources en orbite.</li>
+	<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nous a signalé l'existence de ressources mécanoïde d'une valeur de [itemStashContentsValue] non loin de vous. Les ressources sont :\n\n[itemStashContents]\n\n[asker_label] nous informe que des mécanoïdes gardent les lieux avant d’expédier les ressources en orbite.</li>
+</VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+<VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+	<li>questName(priority=1)->Les [intel] de [asker_nameDef] sur [storage] Mécanoïde</li>
+	<li>questName->[storage] Mécanoïde</li>
+	<li>intel->infos</li>
+	<li>intel->indices</li>
+	<li>intel->conseils</li>
+	<li>intel->informations</li>
+	<li>storage->le site de stockage</li>
+	<li>storage->le site de recyclage</li>
+	<li>storage->les coordonnées du chargement</li>
+	<li>storage->le trésor</li>
+	<li>storage->les stocks</li>
+</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+<VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Les communications interceptées indiquent que les objets ont été envoyés en orbite. La quête [resolvedQuestName] a expiré.</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+
+</LanguageData>

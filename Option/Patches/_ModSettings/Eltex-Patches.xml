@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<!-- ================ Eltex scanner géologique ================ -->
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Ajouter l'Eltex au scanner géologique</label>
+		<tooltip>Ajoute la possibilité de trouver de l'eltex via le scanner géologique.\n(Par défaut : désactivé)\n\nNécessite le redémarrage du jeu.</tooltip>
+		<id>VPsyE_EltexLocal</id>
+		<category>VPsyE_Eltex</category>
+		<order>0</order>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="VPE_Eltex"]</xpath>
+				<value>
+					<deepCommonality>0.5</deepCommonality>
+					<deepCountPerPortion>3</deepCountPerPortion>
+					<deepLumpSizeRange>1~4</deepLumpSizeRange>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+	<!-- ================ Eltex scanner géologique à longue portée ================ -->
+	<Operation Class="ModSettingsFramework.PatchOperationModOption">
+		<defaultValue>False</defaultValue>
+		<label>Ajouter l'Eltex au scanner géologique à longue portée</label>
+		<tooltip>Ajoute la possibilité de trouver de l'eltex via le scanner géologique à longue portée.\n(Par défaut : désactivé)\n\nNécessite le redémarrage du jeu.</tooltip>
+		<id>VPsyE_EltexMonde</id>
+		<category>VPsyE_Eltex</category>
+		<order>1</order>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/GenStepDef[defName="PreciousLump"]/genStep[@Class="GenStep_PreciousLump"]/mineables</xpath>
+				<value>
+					<li>VPE_EltexOre</li>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+</Patch>

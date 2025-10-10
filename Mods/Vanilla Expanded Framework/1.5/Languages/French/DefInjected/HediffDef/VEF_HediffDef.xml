@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: acid burn -->
+<VEF_AcidBuildup.label>brûlure acide</VEF_AcidBuildup.label>
+<!-- EN: A splash of acid that continues to cause burn wounds for quite some time after the initial attack. -->
+<VEF_AcidBuildup.description>Une projection d'acide qui continue à causer des brûlures pendant un certain temps après l'attaque initiale.</VEF_AcidBuildup.description>
+<!-- EN: minor, receiving burns -->
+<VEF_AcidBuildup.stages.minor_receiving_burns.label>mineur, subit des brûlures</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+<!-- EN: moderate, receiving burns -->
+<VEF_AcidBuildup.stages.moderate_receiving_burns.label>moyen, subit des brûlures</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+<!-- EN: serious, receiving burns -->
+<VEF_AcidBuildup.stages.serious_receiving_burns.label>sévère, subit des brûlures</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+
+<!-- EN: acid burn -->
+<VEF_AcidBurn.label>brûlure d'acide</VEF_AcidBurn.label>
+<!-- EN: An acid burn. -->
+<VEF_AcidBurn.description>Une brûlure d'acide.</VEF_AcidBurn.description>
+<!-- EN: acid burn scar -->
+<VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de brûlure d'acide</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- EN: an acid burn -->
+<VEF_AcidBurn.labelNoun>une brûlure d'acide</VEF_AcidBurn.labelNoun>
+<!-- EN: {0} in the {1} -->
+<VEF_AcidBurn.labelNounPretty>une {0} au/à la {1}</VEF_AcidBurn.labelNounPretty>
+
+<!-- EN: level of sunlight -->
+<VEF_LightSustenance.label>niveau d'ensoleillement</VEF_LightSustenance.label>
+<!-- EN: This creature feeds on sunlight. Inadequate levels of light will kill it. -->
+<VEF_LightSustenance.description>Cette créature se nourrit de la lumière du soleil. Un niveau de lumière inadéquat la tuera.</VEF_LightSustenance.description>
+<!-- EN: adequate light -->
+<VEF_LightSustenance.stages.adequate_light.label>luminosité adéquate</VEF_LightSustenance.stages.adequate_light.label>
+<!-- EN: poor light levels -->
+<VEF_LightSustenance.stages.poor_light_levels.label>faible luminosité</VEF_LightSustenance.stages.poor_light_levels.label>
+<!-- EN: very low light levels -->
+<VEF_LightSustenance.stages.very_low_light_levels.label>très faible luminosité</VEF_LightSustenance.stages.very_low_light_levels.label>
+<!-- EN: lack of sunlight -->
+<VEF_LightSustenance.stages.lack_of_sunlight.label>manque de luminosité</VEF_LightSustenance.stages.lack_of_sunlight.label>
+<!-- EN: extreme lack of sustenance -->
+<VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>manque extrême de luminosité</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+
+<!-- EN: permanent burn -->
+<VEF_PermanentBurn.label>brûlure permanente</VEF_PermanentBurn.label>
+<!-- EN: A permanent burn scar that cannot be treated. -->
+<VEF_PermanentBurn.description>Une cicatrice de brûlure permanente qui ne peut être soignée.</VEF_PermanentBurn.description>
+<!-- EN: permanent burn -->
+<VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>brûlure permanente</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- EN: Burned off -->
+<VEF_PermanentBurn.injuryProps.destroyedLabel>Brûlé(e)</VEF_PermanentBurn.injuryProps.destroyedLabel>
+<!-- EN: Burned out -->
+<VEF_PermanentBurn.injuryProps.destroyedOutLabel>Calciné(e)</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+<!-- EN: a permanent burn -->
+<VEF_PermanentBurn.labelNoun>une brûlure permanente</VEF_PermanentBurn.labelNoun>
+<!-- EN: {0} in the {1} -->
+<VEF_PermanentBurn.labelNounPretty>une {0} au/à la {1}</VEF_PermanentBurn.labelNounPretty>
+
+<!-- EN: toxic buildup -->
+<VEF_ToxicBuildup.label>accumulation toxique</VEF_ToxicBuildup.label>
+<!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+<VEF_ToxicBuildup.description>Présence de toxines dans le sang. Elles peuvent provenir de diverses sources, notamment de toxines environnementales, de morsures venimeuses ou d'armes empoisonnées.\n\nÀ haute dose, l'accumulation de toxines est mortelle. Même à faible dose, elle peut générer des cancers.\n\nContrairement à l’empoissonnement du jeu de base, les créatures qui meurent avec ces dommages toxiques peuvent être mangées.</VEF_ToxicBuildup.description>
+<!-- EN: initial -->
+<VEF_ToxicBuildup.stages.initial-0.label>début</VEF_ToxicBuildup.stages.initial-0.label>
+<!-- EN: initial -->
+<VEF_ToxicBuildup.stages.initial-1.label>début</VEF_ToxicBuildup.stages.initial-1.label>
+<!-- EN: minor -->
+<VEF_ToxicBuildup.stages.minor.label>mineur</VEF_ToxicBuildup.stages.minor.label>
+<!-- EN: moderate -->
+<VEF_ToxicBuildup.stages.moderate.label>moyen</VEF_ToxicBuildup.stages.moderate.label>
+<!-- EN: serious -->
+<VEF_ToxicBuildup.stages.serious.label>sévère</VEF_ToxicBuildup.stages.serious.label>
+<!-- EN: extreme -->
+<VEF_ToxicBuildup.stages.extreme.label>extrême</VEF_ToxicBuildup.stages.extreme.label>
+
+<!-- EN: hypothermic slowdown -->
+<VFEP_HypothermicSlowdown.label>ralentissement hypothermique</VFEP_HypothermicSlowdown.label>
+<!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed. -->
+<VFEP_HypothermicSlowdown.description>Température corporelle dangereusement basse. À moins d'être réchauffé, le ralentissement hypothermique s'aggrave et se conclut par la mort. La récupération est rapide une fois que la victime a été réchauffée.</VFEP_HypothermicSlowdown.description>
+<!-- EN: minor -->
+<VFEP_HypothermicSlowdown.stages.minor-0.label>mineur</VFEP_HypothermicSlowdown.stages.minor-0.label>
+<!-- EN: minor -->
+<VFEP_HypothermicSlowdown.stages.minor-1.label>mineur</VFEP_HypothermicSlowdown.stages.minor-1.label>
+<!-- EN: moderate -->
+<VFEP_HypothermicSlowdown.stages.moderate.label>moyen</VFEP_HypothermicSlowdown.stages.moderate.label>
+<!-- EN: serious -->
+<VFEP_HypothermicSlowdown.stages.serious.label>sévère</VFEP_HypothermicSlowdown.stages.serious.label>
+<!-- EN: extreme -->
+<VFEP_HypothermicSlowdown.stages.extreme.label>extrême</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+
+</LanguageData>

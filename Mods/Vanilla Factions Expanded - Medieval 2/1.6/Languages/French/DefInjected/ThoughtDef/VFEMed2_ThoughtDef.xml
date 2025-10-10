@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: alcohol warmth -->
+<VFEM2_Inebriated.stages.alcohol_warmth.label>ébriété (cachée)</VFEM2_Inebriated.stages.alcohol_warmth.label>
+<!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+<VFEM2_Inebriated.stages.alcohol_warmth.description>Je me sens un peu plus détendu{PAWN_gender ? : e} après ce verre. Ça fait du bien.</VFEM2_Inebriated.stages.alcohol_warmth.description>
+<!-- EN: quite inebriated -->
+<VFEM2_Inebriated.stages.quite_inebriated.label>ébriété : réchauffé{PAWN_gender ? : e}</VFEM2_Inebriated.stages.quite_inebriated.label>
+<!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+<VFEM2_Inebriated.stages.quite_inebriated.description>J'ai un peu la tête qui tourne ! C'est vraiment agréable.</VFEM2_Inebriated.stages.quite_inebriated.description>
+<!-- EN: drunk -->
+<VFEM2_Inebriated.stages.drunk.label>ébriété : pompette</VFEM2_Inebriated.stages.drunk.label>
+<!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+<VFEM2_Inebriated.stages.drunk.description>Je me sens invincible, libre ! Je passe un super moment !</VFEM2_Inebriated.stages.drunk.description>
+<!-- EN: hammered -->
+<VFEM2_Inebriated.stages.hammered.label>ébriété : ivre</VFEM2_Inebriated.stages.hammered.label>
+<!-- EN: Wooo! What's going on? -->
+<VFEM2_Inebriated.stages.hammered.description>Woua ! Il se passe quoi là ?</VFEM2_Inebriated.stages.hammered.description>
+
+
+<!-- EN: drank awful wine -->
+<VFEM2_DrankWine_Awful.stages.drank_awful_wine.label>a bu du vin horrible</VFEM2_DrankWine_Awful.stages.drank_awful_wine.label>
+<!-- EN: I can't believe I just drank that. The sour taste still lingers, and my stomach feels unsettled. What was that supposed to be, vinegar? -->
+<VFEM2_DrankWine_Awful.stages.drank_awful_wine.description>Je n'arrive pas à croire que j'ai bu ça. Le goût aigre persiste et mon estomac est retourné. C'était censé être du vinaigre ?</VFEM2_DrankWine_Awful.stages.drank_awful_wine.description>
+
+<!-- EN: drank poor wine -->
+<VFEM2_DrankWine_Poor.stages.drank_poor_wine.label>a bu du vin médiocre</VFEM2_DrankWine_Poor.stages.drank_poor_wine.label>
+<!-- EN: Not the best I’ve had. It’s bitter and barely drinkable. I guess it'll do if nothing else is around, but I can feel a headache coming on already. -->
+<VFEM2_DrankWine_Poor.stages.drank_poor_wine.description>Ce n'est pas le meilleur que j'ai eu. C'est amer et à peine buvable. Je suppose qu'il fera l'affaire s'il n'y a rien d'autre, mais je sens déjà venir le mal de tête.</VFEM2_DrankWine_Poor.stages.drank_poor_wine.description>
+
+<!-- EN: drank wine -->
+<VFEM2_DrankWine_Normal.stages.drank_wine.label>a bu du vin</VFEM2_DrankWine_Normal.stages.drank_wine.label>
+<!-- EN: This is passable. It doesn’t excite the senses, but it’s smooth enough to enjoy. -->
+<VFEM2_DrankWine_Normal.stages.drank_wine.description>Il est passable. Il n'excite pas mes sens, mais il est suffisamment doux pour que je l'apprécie.</VFEM2_DrankWine_Normal.stages.drank_wine.description>
+
+<!-- EN: drank good wine -->
+<VFEM2_DrankWine_Good.stages.drank_good_wine.label>a bu du vin bon</VFEM2_DrankWine_Good.stages.drank_good_wine.label>
+<!-- EN: Ah, this wine is quite pleasant. The flavors blend nicely, and I can feel a comfortable buzz setting in. -->
+<VFEM2_DrankWine_Good.stages.drank_good_wine.description>Ah, ce vin est très agréable. Les saveurs se mélangent bien, et je sens une agréable sensation de bien-être s'installer.</VFEM2_DrankWine_Good.stages.drank_good_wine.description>
+
+<!-- EN: drank excellent wine -->
+<VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.label>a bu un vin excellent</VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.label>
+<!-- EN: Now this is what wine is supposed to taste like! Each sip is a delight. I feel my mind clearing, and everything seems just a little more vibrant. -->
+<VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.description>Voilà ce que le vin est censé goûter ! Chaque gorgée est un délice. Je sens que mon esprit s'éclaircit et que tout semble un peu plus vivant.</VFEM2_DrankWine_Excellent.stages.drank_excellent_wine.description>
+
+<!-- EN: drank masterwork wine -->
+<VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.label>a bu du vin merveille</VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.label>
+<!-- EN: Absolutely exquisite. The depth of flavor is extraordinary, and I can feel my body relaxing, as if every worry is drifting away. -->
+<VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.description>Absolument exquis. La profondeur des saveurs est extraordinaire et je sens mon corps se détendre, comme si tous les soucis se dissipaient.</VFEM2_DrankWine_Masterwork.stages.drank_masterwork_wine.description>
+
+<!-- EN: drank legendary wine -->
+<VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.label>a bu un vin légendaire</VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.label>
+<!-- EN: I've never tasted anything like this before. It’s as though the very essence of joy has been captured in liquid form. -->
+<VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.description>Je n'ai jamais rien goûté de tel auparavant. C'est comme si l'essence même de la joie avait été capturée sous forme liquide.</VFEM2_DrankWine_Legendary.stages.drank_legendary_wine.description>
+
+<!-- EN: twisting pain -->
+<VFEM2_TorturerDraught.stages.twisting_pain.label>douleur de torsion</VFEM2_TorturerDraught.stages.twisting_pain.label>
+<!-- EN: This wicked concoction set my insides on fire! It hurts all over! -->
+<VFEM2_TorturerDraught.stages.twisting_pain.description>Ce mélange diabolique a mis le feu à mes entrailles ! J'ai mal partout !</VFEM2_TorturerDraught.stages.twisting_pain.description>
+
+
+<!-- EN: Stung by bees -->
+<VFEM2_StingMoodDebuff.stages.Stung_by_bees.label>piqué par une abeille</VFEM2_StingMoodDebuff.stages.Stung_by_bees.label>
+<!-- EN: I was stung, and it hurt! -->
+<VFEM2_StingMoodDebuff.stages.Stung_by_bees.description>J'ai été piqué, et ça fait mal !</VFEM2_StingMoodDebuff.stages.Stung_by_bees.description>
+
+
+<!-- EN: clarity buzz -->
+<VFEM2_ClarityDraught.stages.clarity_buzz.label>bourdonnement de clarté</VFEM2_ClarityDraught.stages.clarity_buzz.label>
+<!-- EN: My mind is racing. I can’t stop all the thoughts. -->
+<VFEM2_ClarityDraught.stages.clarity_buzz.description>Mon esprit s'emballe. Je n'arrive pas à arrêter toutes ces pensées.</VFEM2_ClarityDraught.stages.clarity_buzz.description>
+
+
+</LanguageData>

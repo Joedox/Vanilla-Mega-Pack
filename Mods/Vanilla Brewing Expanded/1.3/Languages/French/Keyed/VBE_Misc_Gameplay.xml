@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VBE_InsertSyrupDesc>Sirop à insérer</VBE_InsertSyrupDesc>
+<VBE_StartInsertion>Apporter du sirop</VBE_StartInsertion>
+<VBE_StartInsertionDesc>Apporter du sirop à la fontaine à soda pour commencer le processus.</VBE_StartInsertionDesc>
+<VBE_CancelBringingSyrup>Annuler</VBE_CancelBringingSyrup>
+<VBE_CancelBringingSyrupDesc>Annuler l'apport de sirop à la fontaine à soda.</VBE_CancelBringingSyrupDesc>
+<VBE_SyrupFailurePower>Le soda s'est détérioré en raison d'une panne de courant dans la fontaine à soda.</VBE_SyrupFailurePower>
+
+<VBE_InsertAmbMustDesc>Moût à insérer</VBE_InsertAmbMustDesc>
+<VBE_StartInsertionAmbMust>Apporter du moût</VBE_StartInsertionAmbMust>
+<VBE_StartInsertionAmbMustDesc>Apporter le moût d'ambrandie à la distillerie d'ambrandie pour commencer la fermentation.</VBE_StartInsertionAmbMustDesc>
+<VBE_CancelBringingAmbMust>Annuler</VBE_CancelBringingAmbMust>
+<VBE_CancelBringingAmbMustDesc>Annuler l'apport du moût d'ambrandie à la distillerie d'ambrandie.</VBE_CancelBringingAmbMustDesc>
+<VBE_AmbrandyFailurePower>L'ambrandie s'est détérioré à cause d'une panne d'électricité dans la distillerie d'ambrandie.</VBE_AmbrandyFailurePower>
+<VBE_RemoveAmbrandy>Retirer l'ambrandie ({0})</VBE_RemoveAmbrandy>
+<VBE_RemoveAmbrandyDesc>Retirer l'ambrandie de la distillerie d'ambrandie. L'ambrandie sera obtenu au niveau de qualité actuel ({0})</VBE_RemoveAmbrandyDesc>
+
+<VBE_InsertMustOrWhiskeyDesc>Moût ou Whisky à insérer</VBE_InsertMustOrWhiskeyDesc>
+<VBE_StartInsertionMustOrWhiskey>Apporter du Moût ou Whisky</VBE_StartInsertionMustOrWhiskey>
+<VBE_StartInsertionMustOrWhiskeyDesc>Apporter le moût dans le fût à whisky pour commencer la fermentation ou le whisky pour commencer le processus de double vieillissement.</VBE_StartInsertionMustOrWhiskeyDesc>
+<VBE_CancelBringingMustOrWhiskey>Annuler l'apport du moût ou du whisky au fût à whisky.</VBE_CancelBringingMustOrWhiskey>
+
+<VBE_InsertTequilaMustDesc>Moût à insérer</VBE_InsertTequilaMustDesc>
+<VBE_StartInsertionTequilaMust>Apporter du moût</VBE_StartInsertionTequilaMust>
+<VBE_StartInsertionTequilaMustDesc>Apporter le moût de tequila dans le baril pour commencer le processus de fermentation.</VBE_StartInsertionTequilaMustDesc>
+<VBE_CancelBringingTequilaMust>Annuler</VBE_CancelBringingTequilaMust>
+<VBE_CancelBringingTequilaMustDesc>Annuler l'apport du moût dans le baril de tequila.</VBE_CancelBringingTequilaMustDesc>
+
+<VBE_InsertVodkaMustDesc>Moût à insérer</VBE_InsertVodkaMustDesc>
+<VBE_StartInsertionVodkaMust>Apporter du moût</VBE_StartInsertionVodkaMust>
+<VBE_StartInsertionVodkaMustDesc>Apporter le moût de vodka dans la cuve pour commencer le processus de fermentation.</VBE_StartInsertionVodkaMustDesc>
+<VBE_CancelBringingVodkaMust>Annuler</VBE_CancelBringingVodkaMust>
+<VBE_CancelBringingVodkaMustDesc>Annuler l'apport du moût dans la cuve de vodka.</VBE_CancelBringingVodkaMustDesc>
+
+<VBE_InsertGinMushDesc>Moût à insérer</VBE_InsertGinMushDesc>
+<VBE_StartInsertionGinMush>Apporter du moût</VBE_StartInsertionGinMush>
+<VBE_StartInsertionGinMushDesc>Apporter le moût de gin dans l'alambic pour commencer le processus de fermentation.</VBE_StartInsertionGinMushDesc>
+<VBE_CancelBringingGinMush>Annuler</VBE_CancelBringingGinMush>
+<VBE_CancelBringingGinMushDesc>Annuler l'apport du moût dans l'alambic à gin.</VBE_CancelBringingGinMushDesc>
+
+
+<VBE_MushRipening>Maturation en moût</VBE_MushRipening>
+<VBE_MushCurrentlyFrozen>Cette bouillie est congelée et ne se transformera pas en moût d'ambrandie</VBE_MushCurrentlyFrozen>
+<VBE_MushCurrentlyRefrigerated>Cette bouillie est réfrigéré et ne se transformera pas en moût d'ambrandie aussi rapidement qu'elle le pourrait (maturation dans {0})</VBE_MushCurrentlyRefrigerated>
+<VBE_MushDryingCorrectly>Cette bouillie d'ambroisie est en train de mûrir correctement en moût d'ambrandie (maturation dans {0})</VBE_MushDryingCorrectly>
+
+<VBE_CiderMaturing>Maturation en cidre</VBE_CiderMaturing>
+<VBE_CiderCurrentlyFrozen>Ce cidre non fermenté est gelé et ne mûrira pas en cidre</VBE_CiderCurrentlyFrozen>
+<VBE_CiderCurrentlyRefrigerated>Ce cidre non fermenté est réfrigéré et ne se transformera pas en cidre aussi rapidement qu'il le pourrait (maturation dans {0})</VBE_CiderCurrentlyRefrigerated>
+<VBE_CiderMaturingCorrectly>Ce cidre non fermenté est en train de mûrir correctement (maturation dans {0})</VBE_CiderMaturingCorrectly>
+
+</LanguageData>

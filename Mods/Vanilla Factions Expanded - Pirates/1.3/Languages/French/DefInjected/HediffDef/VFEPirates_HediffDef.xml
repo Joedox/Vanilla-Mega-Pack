@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEP_SiegeMode.label>mode siège</VFEP_SiegeMode.label>
+<VFEP_SiegeMode.description>mode siège.</VFEP_SiegeMode.description>
+<VFEP_SiegeMode.labelNoun>mode siège</VFEP_SiegeMode.labelNoun>
+
+<VFEP_RumAsIngredient.label>a bu un cocktail à base de rhum</VFEP_RumAsIngredient.label>
+<VFEP_RumAsIngredient.description>Ce colon a bu un cocktail dont l'un des ingrédients était du rhum. Réduit le taux de faim de 15%.</VFEP_RumAsIngredient.description>
+
+<VFEP_HypothermicSlowdown.label>ralentissement hypothermique</VFEP_HypothermicSlowdown.label>
+<VFEP_HypothermicSlowdown.description>Température corporelle interne dangereusement basse. À moins d'être réchauffé, le ralentissement hypothermique s'aggrave et se termine par la mort. La récupération est rapide une fois que la victime est réchauffée.</VFEP_HypothermicSlowdown.description>
+<VFEP_HypothermicSlowdown.stages.minor-0.label>début</VFEP_HypothermicSlowdown.stages.minor-0.label>
+<VFEP_HypothermicSlowdown.stages.minor-1.label>mineur</VFEP_HypothermicSlowdown.stages.minor-1.label>
+<VFEP_HypothermicSlowdown.stages.moderate.label>moyen</VFEP_HypothermicSlowdown.stages.moderate.label>
+<VFEP_HypothermicSlowdown.stages.serious.label>sévère</VFEP_HypothermicSlowdown.stages.serious.label>
+<VFEP_HypothermicSlowdown.stages.extreme.label>extrême</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+<VFEP_KillItself.label>se tuer</VFEP_KillItself.label>
+<VFEP_KillItself.description>.</VFEP_KillItself.description>
+<VFEP_KillItself.stages.minor.label>mineur</VFEP_KillItself.stages.minor.label>
+
+
+</LanguageData>

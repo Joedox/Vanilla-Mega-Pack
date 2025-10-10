@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VWE_NonLethal.label>armes non létales</VWE_NonLethal.label>
+<VWE_NonLethal.description>Vous permet de fabriquer une sélection d'armes non létales, notamment des lanceurs de gaz lacrymogène et des tasers.</VWE_NonLethal.description>
+<VWE_NonLethal.generalRules.rulesStrings>
+    <li>subject->l'art de la retenue</li>
+    <li>subject_story->a été le premier à mettre au point des armes conçues pour neutraliser plutôt que pour tuer, en mettant l'accent sur la valeur de la vie et l'engagement éthique</li>
+    <li>subject_story->a conçu des outils tels que des lanceurs de gaz lacrymogène et des pistolets à impulsion électrique, offrant ainsi des possibilités de contrôle et de défense sans issue fatale</li>
+    <li>subject_gerund->la résolution des conflits avec humanité et compassion par des moyens non létaux</li>
+</VWE_NonLethal.generalRules.rulesStrings>
+
+
+</LanguageData>

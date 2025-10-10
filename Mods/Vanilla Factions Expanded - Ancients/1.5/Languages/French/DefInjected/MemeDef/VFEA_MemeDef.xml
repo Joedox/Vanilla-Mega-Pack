@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEA_Isolationist.label>isolationniste</VFEA_Isolationist.label>
+<VFEA_Isolationist.description>La confiance est une ressource rare, car tous ceux que nous rencontrons sont des ennemis.</VFEA_Isolationist.description>
+<VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+        <li>creation(tag=meme_Isolationist)        ->Le peuple de [place_summary] [place_name] se disputaient sans cesse entre eux, [deity0_name] s'est lassé de la discorde et a désigné les [memberNamePlural] comme les seuls souverains légitimes de tout être vivant.</li>
+        <li>episode(uses=1,tag=meme_Isolationist)  ->Les fidèles ont combattu les non-croyants, [deity0_name] a dit : "Combattez-les, partout, car ils sont vos ennemis, et la paix avec eux n'a jamais été une option."</li>
+    <!-- theist founder -->
+        <li>intro(tag=meme_Isolationist)           ->Le peuple de [place_summary] [place_name] vénéraient [deity0_name]. [deity0_pronoun] a vu qu'ils étaient faits pour [memeConcept], et a ordonné qu'ils soient la seule faction digne de l'ascension.</li>
+        <li>conflict(tag=meme_Isolationist)        ->[foeLeader] a fait passer une loi interdisant aux [memberNamePlural] d'accéder aux classes dirigeantes de [place_name]. Ainsi, [memberNamePlural] ont commencé à conspirer et à créer des alliances secrètes.</li>
+        <li>founderJoin(tag=meme_Isolationist)     ->Un guerrier nommé [founderName] a utilisé [place_massWeapon] pour détruire [place_community]. [deity0_name] a vu le caractère impitoyable de [founderName] et [founder_objective] a dit de mener une vie d'isolement et de secret.</li>
+        <li>victory(tag=meme_Isolationist)         ->[founderName] a détruit la capitale de [place_name] avec [place_massWeapon], en tuant le [foeLeader]. [founder_pronoun] n'a pas pris sa place en tant que dirigeant de [place_name] - au lieu de cela, [founderName] s'est caché.</li>
+    <!-- ideological founder -->
+        <li>setup(tag=meme_Isolationist)           ->[founderName] a construit une armée qui a répandu sa puissance et sa gloire à travers le pays, plaçant au bout de son couteau ceux qui refusaient de {founderName_gender ? le : la } suivre à juste titre.</li>
+        <li>story(uses=1,tag=meme_Isolationist)    ->[founderName] a demandé à tous les étrangers de se battre jusqu'à la mort, car la paix n'était pas une option. Lorsque la première ville a refusé et supplié de se joindre à [founder_objective], [founder_pronoun] a utilisé [place_massWeapon] pour tuer tous ceux qui se trouvaient à l'intérieur.</li>
+    <!-- ideological lesson -->
+        <li>lessonIntro(tag=meme_Isolationist)         ->J'ai regardé ce [foeLeader], avec ses pitoyables [foeSoldiers], tout ce potentiel inexploité. J'ai essayé de le convaincre que [foeLeader_objective]</li>
+        <li>lesson(tag=meme_Isolationist)              ->nous avons depuis longtemps prouvé que nous avons la force de frapper dans l'ombre, isolés mais pas affaiblis</li>
+        <li>lessonReinforcement(tag=meme_Isolationist) ->C'est pourquoi nous sommes fiers d'exprimer la force de nos cœurs en utilisant le tranchant de nos lames et la tête de nos marteaux.</li>
+    <!-- archist -->
+        <li>archistBasis(tag=meme_Isolationist)    ->Il a fallu les humains les plus supérieurs pour créer les Archotech. En étant aussi puissant qu'eux, il est normal que nous nous cachions dans l'ombre.</li>
+        <li>archistFact(tag=meme_Isolationist)     ->Les Archotechs peuvent nous anéantir sans hésiter - tout comme nous devrions anéantir nos ennemis.</li>
+        <li>archistProphecy(tag=meme_Isolationist) ->Les Archotechs ne nous prendront jamais pour les rejoindre - et nous ne devrions jamais donner cette opportunité à nos ennemis.</li>
+    <!-- animist -->
+        <li>animistFact(tag=meme_Isolationist)     ->De puissants esprits du [spiritElement] décident de qui est apte à régner, et prêtent leur pouvoir à leurs élus lorsqu'ils tuent les autres.</li>
+        <li>animistProphecy(tag=meme_Isolationist) ->[itIsSaid] qu'un nouvel ordre sera créé lorsqu'un dirigeant suprême sortira de l'ombre sur une planète remplie à ras bord de sang et de viscères.</li>
+</VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
+
+<VFEA_Isolationist.generalRules.rulesStrings>
+    <li>memeAdjective->isolé</li>
+    <li>memeAdjective->caché</li>
+    <li>memeAdjective->solitaire</li>
+    <li>memeAdjective->retiré</li>
+    <li>memeAdjective->exceptionnel</li>
+    <li>memeAdjective->supérieur</li>
+    <li>memeAdjective->détaché</li>
+    <li>memeCreed->armée</li>
+    <li>memeCreed->nation</li>
+    <li>memeHyphenPrefix->caché</li>
+    <li>memeConcept->la guerre</li>
+    <li>memeConcept->l'isolement</li>
+    <li>memeConcept->la solitude</li>
+    <li>memeLeaderNoun->général</li>
+    <li>memeLeaderNoun->commandant</li>
+    <li>memeLeaderNoun->lieutenant</li>
+    <li>memeLeaderNoun->capitaine</li>
+    <li>memeLeaderNoun->sergent</li>
+    <li>memeLeaderNoun->dictateur</li>
+    <li>memeLeaderNoun->président</li>
+    <li>memeLeaderNoun->dirigeant</li>
+</VFEA_Isolationist.generalRules.rulesStrings>
+
+<VFEA_Isolationist.symbolPacks.0.adjective>isolé</VFEA_Isolationist.symbolPacks.0.adjective>
+<VFEA_Isolationist.symbolPacks.0.member>isolateur</VFEA_Isolationist.symbolPacks.0.member>
+<VFEA_Isolationist.symbolPacks.0.theme>isolement</VFEA_Isolationist.symbolPacks.0.theme>
+<VFEA_Isolationist.symbolPacks.1.adjective>secluded</VFEA_Isolationist.symbolPacks.1.adjective>
+<VFEA_Isolationist.symbolPacks.1.member>secludist</VFEA_Isolationist.symbolPacks.1.member>
+<VFEA_Isolationist.symbolPacks.1.theme>seclusion</VFEA_Isolationist.symbolPacks.1.theme>
+<VFEA_Isolationist.symbolPacks.2.adjective>secret</VFEA_Isolationist.symbolPacks.2.adjective>
+<VFEA_Isolationist.symbolPacks.2.member>secret</VFEA_Isolationist.symbolPacks.2.member>
+<VFEA_Isolationist.symbolPacks.2.theme>secret</VFEA_Isolationist.symbolPacks.2.theme>
+
+
+</LanguageData>

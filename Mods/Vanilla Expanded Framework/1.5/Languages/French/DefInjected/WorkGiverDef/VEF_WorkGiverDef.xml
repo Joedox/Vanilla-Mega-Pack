@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EN: gather animal resource -->
+<VEF_AnimalResource.label>récolter les ressources animales</VEF_AnimalResource.label>
+<!-- EN: gathering animal resource from -->
+<VEF_AnimalResource.gerund>récolte des ressources animales</VEF_AnimalResource.gerund>
+<!-- EN: gather animal resource from -->
+<VEF_AnimalResource.verb>récolter les ressources animales</VEF_AnimalResource.verb>
+
+<!-- EN: destroy items -->
+<VEF_DestroyItems.label>détruire des objets</VEF_DestroyItems.label>
+<!-- EN: destroying items -->
+<VEF_DestroyItems.gerund>destruction de l'objet</VEF_DestroyItems.gerund>
+<!-- EN: destroy items -->
+<VEF_DestroyItems.verb>détruire l'objet</VEF_DestroyItems.verb>
+
+
+<!-- EN: deliver resources to blueprints -->
+<VEF_Art_ConstructDeliverResourcesToBlueprints.label>livrer les ressources pour le plan</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+<!-- EN: working on -->
+<VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>livraison des ressources à</VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>
+<!-- EN: work on -->
+<VEF_Art_ConstructDeliverResourcesToBlueprints.verb>livrer les ressources au plan</VEF_Art_ConstructDeliverResourcesToBlueprints.verb>
+
+<!-- EN: deliver resources to frames -->
+<VEF_Art_ConstructDeliverResourcesToFrames.label>livrer les ressources pour la structure</VEF_Art_ConstructDeliverResourcesToFrames.label>
+<!-- EN: working on -->
+<VEF_Art_ConstructDeliverResourcesToFrames.gerund>livraison des ressources à</VEF_Art_ConstructDeliverResourcesToFrames.gerund>
+<!-- EN: work on -->
+<VEF_Art_ConstructDeliverResourcesToFrames.verb>livrer les ressources à la structure</VEF_Art_ConstructDeliverResourcesToFrames.verb>
+
+<!-- EN: construct placed frames -->
+<VEF_Art_ConstructFinishFrames.label>construire une structure</VEF_Art_ConstructFinishFrames.label>
+<!-- EN: working on -->
+<VEF_Art_ConstructFinishFrames.gerund>construction de</VEF_Art_ConstructFinishFrames.gerund>
+<!-- EN: work on -->
+<VEF_Art_ConstructFinishFrames.verb>construire la structure</VEF_Art_ConstructFinishFrames.verb>
+
+
+<!-- EN: bringing ingredient -->
+<IP_InsertFirstIngredient.label>apporter l'ingrédient n°1</IP_InsertFirstIngredient.label>
+<!-- EN: bringing ingredient to -->
+<IP_InsertFirstIngredient.gerund>apporte de l'ingrédient</IP_InsertFirstIngredient.gerund>
+<!-- EN: bring ingredient to -->
+<IP_InsertFirstIngredient.verb>apporter l'ingrédient n°1</IP_InsertFirstIngredient.verb>
+
+<!-- EN: bringing ingredient -->
+<IP_InsertSecondIngredient.label>apporter l'ingrédient n°2</IP_InsertSecondIngredient.label>
+<!-- EN: bringing ingredient to -->
+<IP_InsertSecondIngredient.gerund>apporte de l'ingrédient</IP_InsertSecondIngredient.gerund>
+<!-- EN: bring ingredient to -->
+<IP_InsertSecondIngredient.verb>apporter l'ingrédient n°2</IP_InsertSecondIngredient.verb>
+
+<!-- EN: bringing ingredient -->
+<IP_InsertThirdIngredient.label>apporter l'ingrédient n°3</IP_InsertThirdIngredient.label>
+<!-- EN: bringing ingredient to -->
+<IP_InsertThirdIngredient.gerund>apporte de l'ingrédient</IP_InsertThirdIngredient.gerund>
+<!-- EN: bring ingredient to -->
+<IP_InsertThirdIngredient.verb>apporter l'ingrédient n°3</IP_InsertThirdIngredient.verb>
+
+<!-- EN: removing finished product -->
+<IP_RemoveProduct.label>retirer le produit fini</IP_RemoveProduct.label>
+<!-- EN: removing finished product from -->
+<IP_RemoveProduct.gerund>retrait du produit fini</IP_RemoveProduct.gerund>
+<!-- EN: remove finished product from -->
+<IP_RemoveProduct.verb>retirer le produit fini</IP_RemoveProduct.verb>
+
+
+<!-- EN: loot objects -->
+<VFE_Loot.label>piller des objets</VFE_Loot.label>
+<!-- EN: looting -->
+<VFE_Loot.gerund>pillage</VFE_Loot.gerund>
+<!-- EN: loot -->
+<VFE_Loot.verb>piller</VFE_Loot.verb>
+
+<!-- EN: study a building -->
+<VFE_StudyBuilding.label>étudier un bâtiment</VFE_StudyBuilding.label>
+<!-- EN: studying -->
+<VFE_StudyBuilding.gerund>étude</VFE_StudyBuilding.gerund>
+<!-- EN: study -->
+<VFE_StudyBuilding.verb>étudier</VFE_StudyBuilding.verb>
+
+
+<!-- EN: bring ingredient to processor -->
+<PS_BringToProcessor.label>apporter l'ingrédient au processus</PS_BringToProcessor.label>
+<!-- EN: bringing ingredient -->
+<PS_BringToProcessor.gerund>apporte de l'ingrédient</PS_BringToProcessor.gerund>
+<!-- EN: bring ingredient -->
+<PS_BringToProcessor.verb>apporter l'ingrédient</PS_BringToProcessor.verb>
+
+<!-- EN: drain out of storage -->
+<PS_DrainOutOfStorage.label>vidanger le stockage</PS_DrainOutOfStorage.label>
+<!-- EN: draining out of storage -->
+<PS_DrainOutOfStorage.gerund>vidange du stockage</PS_DrainOutOfStorage.gerund>
+<!-- EN: drain out of storage -->
+<PS_DrainOutOfStorage.verb>vidanger le stockage</PS_DrainOutOfStorage.verb>
+
+<!-- EN: fill storage -->
+<PS_FillStorage.label>remplir le stockage</PS_FillStorage.label>
+<!-- EN: filling storage -->
+<PS_FillStorage.gerund>remplissage du stockage</PS_FillStorage.gerund>
+<!-- EN: fill storage -->
+<PS_FillStorage.verb>remplir le stockage</PS_FillStorage.verb>
+
+<!-- EN: pick up result from processor -->
+<PS_PickUpProcessor.label>récupérer le résultat du processus</PS_PickUpProcessor.label>
+<!-- EN: picking up result -->
+<PS_PickUpProcessor.gerund>récupération du résultat</PS_PickUpProcessor.gerund>
+<!-- EN: pick up result -->
+<PS_PickUpProcessor.verb>récupérer le résultat</PS_PickUpProcessor.verb>
+
+
+</LanguageData>

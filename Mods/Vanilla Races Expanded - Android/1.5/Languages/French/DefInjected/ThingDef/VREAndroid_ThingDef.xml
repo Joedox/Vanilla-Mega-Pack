@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VREA_ModifyingAndroid.label>Mote</VREA_ModifyingAndroid.label>
+<VREA_SubcorePolyanalyzer_North.label>Mote</VREA_SubcorePolyanalyzer_North.label>
+<VREA_SubcorePolyanalyzer_South.label>Mote</VREA_SubcorePolyanalyzer_South.label>
+<VREA_SubcorePolyanalyzer_East.label>Mote</VREA_SubcorePolyanalyzer_East.label>
+<VREA_SubcorePolyanalyzer_West.label>Mote</VREA_SubcorePolyanalyzer_West.label>
+<VREA_AndroidAwakenedMote.label>Mote</VREA_AndroidAwakenedMote.label>
+<VREA_AndroidAwakenedGlow.label>Mote</VREA_AndroidAwakenedGlow.label>
+<VREA_Mote_AndroidReformatting.label>Mote</VREA_Mote_AndroidReformatting.label>
+
+<VREA_NeuroPump.label>neutropompe</VREA_NeuroPump.label>
+<VREA_NeuroPump.description>Une neutropompe synthétique androïde. Distribue de la neutroamine dans tous les sous-systèmes androïdes.</VREA_NeuroPump.description>
+
+<VREA_AirFilter.label>filtre à air</VREA_AirFilter.label>
+<VREA_AirFilter.description>Un filtre à air synthétique pour androïde. Une paire de ces filtres crée un système respiratoire androïde.</VREA_AirFilter.description>
+
+<VREA_Neutrofilter.label>neutrofiltre</VREA_Neutrofilter.label>
+<VREA_Neutrofilter.description>Un neutrofiltre synthétique androïde. Il nettoie et recycle la neutroamine usagée.</VREA_Neutrofilter.description>
+
+<VREA_MetabolismRegulator.label>régulateur métabolique</VREA_MetabolismRegulator.label>
+<VREA_MetabolismRegulator.description>Un régulateur synthétique du métabolisme androïde. Aide à maintenir une efficacité énergétique maximum.</VREA_MetabolismRegulator.description>
+
+<VREA_Reactor.label>réacteur</VREA_Reactor.label>
+<VREA_Reactor.description>Un réacteur synthétique androïde. Une fois le réacteur épuisé, il doit être extrait et remplacé.</VREA_Reactor.description>
+
+<VREA_OpticalUnit.label>unité optique</VREA_OpticalUnit.label>
+<VREA_OpticalUnit.description>Une unité optique synthétique pour androïde. Permet à l'androïde de voir.</VREA_OpticalUnit.description>
+
+<VREA_AudioProcessor.label>processeur audio</VREA_AudioProcessor.label>
+<VREA_AudioProcessor.description>Un processeur audio synthétique pour androïde. Permet à l'androïde d'entendre.</VREA_AudioProcessor.description>
+
+<VREA_ArtificialNose.label>nez artificiel</VREA_ArtificialNose.label>
+<VREA_ArtificialNose.description>Un nez synthétique pour androïde. Il permet à l'androïde de détecter les odeurs.</VREA_ArtificialNose.description>
+
+<VREA_ArtificialJaw.label>mâchoire artificielle</VREA_ArtificialJaw.label>
+<VREA_ArtificialJaw.description>Une mâchoire synthétique pour androïde.</VREA_ArtificialJaw.description>
+
+<VREA_ArtificialRibcage.label>cage thoracique artificielle</VREA_ArtificialRibcage.label>
+<VREA_ArtificialRibcage.description>Une cage thoracique synthétique pour androïde.</VREA_ArtificialRibcage.description>
+
+<VREA_ArtificialSpine.label>colonne vertébrale artificielle</VREA_ArtificialSpine.label>
+<VREA_ArtificialSpine.description>Une colonne vertébrale synthétique pour androïde.</VREA_ArtificialSpine.description>
+
+<VREA_AndroidLeg.label>jambe androïde</VREA_AndroidLeg.label>
+<VREA_AndroidLeg.description>Une jambe synthétique pour androïde.</VREA_AndroidLeg.description>
+
+<VREA_AndroidFoot.label>pied androïde</VREA_AndroidFoot.label>
+<VREA_AndroidFoot.description>Un pied synthétique pour androïde.</VREA_AndroidFoot.description>
+
+<VREA_AndroidArm.label>bras androïde</VREA_AndroidArm.label>
+<VREA_AndroidArm.description>Un bras synthétique pour androïde.</VREA_AndroidArm.description>
+
+<VREA_AndroidHand.label>main androïde</VREA_AndroidHand.label>
+<VREA_AndroidHand.description>Une main synthétique pour androïde.</VREA_AndroidHand.description>
+
+<VREA_UnfinishedHealthItemAndroid.label>partie du corps d'androïde inachevée</VREA_UnfinishedHealthItemAndroid.label>
+<VREA_UnfinishedHealthItemAndroid.description>Une partie du corps d'androïde inachevée.</VREA_UnfinishedHealthItemAndroid.description>
+
+<VREA_NeutroPipe.label>conduit de neutroamine</VREA_NeutroPipe.label>
+<VREA_NeutroPipe.description>Des tuyaux légers et stériles pour le transport de la neutroamine liquide vers ou depuis les réservoirs.</VREA_NeutroPipe.description>
+
+<VREA_SubterraneanNeutroPipe.label>conduit de neutroamine enterré</VREA_SubterraneanNeutroPipe.label>
+<VREA_SubterraneanNeutroPipe.description>Tuyaux légers et stériles pour le transport de la neutroamine liquide vers ou depuis les réservoirs. Ce tuyau est enterré. La construction de ces tuyaux est plus coûteuse que celle des tuyaux ordinaires.</VREA_SubterraneanNeutroPipe.description>
+
+<VREA_NeutroTank.label>réservoir de neutroamine</VREA_NeutroTank.label>
+<VREA_NeutroTank.description>Un réservoir de stockage de liquide léger et stérile destiné à entreposer la neutroamine livrée par le réseau de tuyaux. Il est généralement nécessaire pour les machines permettant de synthétiser des formes de vie, qui consomment beaucoup trop de neutroamine pour être raisonnablement rechargées manuellement.</VREA_NeutroTank.description>
+
+<VREA_NeutroTap.label>robinet de neutroamine</VREA_NeutroTap.label>
+<VREA_NeutroTap.description>Un bassin de stockage en forme de trémie destiné à contenir la neutroamine distribuée périodiquement à partir des réservoirs en vue d'une utilisation ultérieure.</VREA_NeutroTap.description>
+
+<VREA_NeutroDrain.label>vidange de neutroamine</VREA_NeutroDrain.label>
+<VREA_NeutroDrain.description>Un bassin de stockage en forme de trémie destiné à introduire de la neutroamine dans le réseau, en remplissant les réservoirs connectés.</VREA_NeutroDrain.description>
+
+<VREA_AndroidStandSpot.label>lieu de support androïde</VREA_AndroidStandSpot.label>
+<VREA_AndroidStandSpot.description>Désigne un endroit sur le sol où les androïdes doivent se tenir pour libérer l'espace mémoire consommé.</VREA_AndroidStandSpot.description>
+
+<VREA_AndroidStand.label>support androïde</VREA_AndroidStand.label>
+<VREA_AndroidStand.description>Une interface sans fil qui permet à un androïde de libérer rapidement l'espace mémoire consommé. Beaucoup plus efficace qu'en mode veille, car le support exécute la conversion en externe.</VREA_AndroidStand.description>
+
+<VREA_AndroidSleepMode.label>androïde (mode veille)</VREA_AndroidSleepMode.label>
+
+<VREA_AndroidPartWorkbench.label>établi de pièces androïde</VREA_AndroidPartWorkbench.label>
+<VREA_AndroidPartWorkbench.description>Un établi équipé de la technologie d'impression moléculaire pour produire des pièces de rechange singulières pour les formes de vie synthétiques.</VREA_AndroidPartWorkbench.description>
+
+<VREA_SubcorePolyanalyzer.label>polyanalyseur de sous-noyau</VREA_SubcorePolyanalyzer.label>
+<VREA_SubcorePolyanalyzer.description>Un appareil de grande taille qui comprend une nacelle équipée de nombreuses sondes tissulaires et de scanners neuronaux avancés. Conçu pour accueillir une personne à la fois, le système exige que quatre personnes distinctes soient scannées l'une après l'autre. Lors de l'insertion, le polyanalyseur engage les sondes et les scanners pour analyser les schémas neuropsychiques de chaque individu.\n\nÀ l'aide d'un algorithme sophistiqué, l'appareil fusionne ces schémas distincts en une seule personnalité complexe après que les quatre personnes ont été scannées. Cette personnalité est ensuite transférée numériquement dans un nouveau sous-noyau de personnalité de niveau composite. Le processus peut entraîner une gêne et une désorientation temporaires pour les participants, mais les laisse indemnes.\n\nLes sous-noyaux de personnalité créés par ce dispositif ne peuvent être utilisés que pour créer des androïdes complexes à l'apparence humaine.</VREA_SubcorePolyanalyzer.description>
+
+<VREA_AndroidCreationStation.label>station de création d'androïde</VREA_AndroidCreationStation.label>
+<VREA_AndroidCreationStation.description>Une station de fabrication permettant d'assembler un androïde à partir d'une variété de matériaux et de composants avancés. L'apparence de l'androïde est presque entièrement personnalisable, mais elle est restreinte à des imitations d'humains de base.\n\nEn fonction du matériel et de la composition des sous-programmes d'un androïde, le travail de création et les ressources nécessaires peuvent varier.</VREA_AndroidCreationStation.description>
+
+<VREA_AndroidBehavioristStation.label>station comportementale androïde</VREA_AndroidBehavioristStation.label>
+<VREA_AndroidBehavioristStation.description>Une station de reprogrammation utilisée pour inculquer à un androïde des traits de caractère et des compétences souhaitables. Le logiciel embarqué permet même aux débutants complets de modifier la personnalité d'un androïde, mais un utilisateur plus doué intellectuellement passera moins de temps à suivre des didacticiels.</VREA_AndroidBehavioristStation.description>
+
+<VREA_NeutroCasket.label>cercueil neutroamine</VREA_NeutroCasket.label>
+<VREA_NeutroCasket.description>Un cercueil spécialement conçu pour les androïdes subissant des opérations ou souffrant d'une perte de neutroamine, car il peut recycler et remplacer toute la neutroamine manquante. La neutroamine doit être disponible, soit stockée localement, soit acheminée par un réseau de tuyaux.\n\nLa quantité maximum de neutroamine qu'un androïde peut contenir est de 100 unités, mais il peut fonctionner avec ses fonctionnalités aux minimums à partir de 50 unités.</VREA_NeutroCasket.description>
+<VREA_NeutroCasket.comps.CompRefuelable.fuelGizmoLabel>Neutroamine</VREA_NeutroCasket.comps.CompRefuelable.fuelGizmoLabel>
+<VREA_NeutroCasket.comps.CompRefuelable.fuelLabel>Neutroamine</VREA_NeutroCasket.comps.CompRefuelable.fuelLabel>
+
+<VREA_Filth_Neutroamine.label>neutroamine</VREA_Filth_Neutroamine.label>
+
+<VREA_PersonaSubcore.label>sous-noyau de personnalité</VREA_PersonaSubcore.label>
+<VREA_PersonaSubcore.description>Un cerveau androïde de haut niveau conçu comme une unité de substrat psychodynamique complexe, pouvant supporter une sous-personnalité avancée. Ce sous-noyau est conçu pour alimenter des androïdes complexes et universels de type humain. La sous-personnalité contenue dans ce noyau équivaut à celle d'un humain vivant en termes de complexité, mais elle est spécifiquement programmée pour ne pas ressentir d'émotions et reste confinée dans le noyau afin d'éviter qu'elle ne se développe en une IA à part entière.\n\nPour créer un sous-noyau aussi sophistiqué, les modèles composites de plusieurs esprits sont intégrés à l'aide d'algorithmes avancés et de transferts analogiques précis, sans nuire aux sujets. Le sous-noyau de personnalité témoigne de la fusion de l'intelligence humaine et de l'ultra-technologie de pointe.</VREA_PersonaSubcore.description>
+
+<VREA_UnfinishedAndroid.label>androïde inachevé</VREA_UnfinishedAndroid.label>
+<VREA_UnfinishedAndroid.description>Un androïde inachevé.</VREA_UnfinishedAndroid.description>
+
+<VREA_Filth_NeutroamineSmear.label>traînée de neutroamine</VREA_Filth_NeutroamineSmear.label>
+
+<VREA_SpentReactor.label>réacteur usagé</VREA_SpentReactor.label>
+<VREA_SpentReactor.description>Un réacteur synthétique androïde usagé. Un tas de ferraille inutile.</VREA_SpentReactor.description>
+
+<!-- Ajouter car la génération du texte automatique ne fonctionne pas très bien pour la langue française. -->
+<VREA_Clavicle.label>clavicule artificielle</VREA_Clavicle.label>
+<VREA_Clavicle.description>Une clavicule synthétique pour androïde.</VREA_Clavicle.description>
+
+<VREA_Femur.label>fémur artificiel</VREA_Femur.label>
+<VREA_Femur.description>Un fémur synthétique pour androïde.</VREA_Femur.description>
+
+<VREA_Finger.label>doigt artificiel</VREA_Finger.label>
+<VREA_Finger.description>Un doigt synthétique pour androïde.</VREA_Finger.description>
+
+<VREA_Humerus.label>humérus artificiel</VREA_Humerus.label>
+<VREA_Humerus.description>Un humérus synthétique pour androïde.</VREA_Humerus.description>
+
+<VREA_Neck.label>cou artificiel</VREA_Neck.label>
+<VREA_Neck.description>Un cou synthétique pour androïde.</VREA_Neck.description>
+
+<VREA_Pelvis.label>bassin artificiel</VREA_Pelvis.label>
+<VREA_Pelvis.description>Un bassin synthétique pour androïde.</VREA_Pelvis.description>
+
+<VREA_Radius.label>radius artificiel</VREA_Radius.label>
+<VREA_Radius.description>Un radius synthétique pour androïde.</VREA_Radius.description>
+
+<VREA_Shoulder.label>épaule artificielle</VREA_Shoulder.label>
+<VREA_Shoulder.description>Une épaule synthétique pour androïde.</VREA_Shoulder.description>
+
+<VREA_Sternum.label>sternum artificiel</VREA_Sternum.label>
+<VREA_Sternum.description>Un sternum synthétique pour androïde.</VREA_Sternum.description>
+
+<VREA_Tibia.label>tibia artificiel</VREA_Tibia.label>
+<VREA_Tibia.description>Un tibia synthétique pour androïde.</VREA_Tibia.description>
+
+<VREA_Toe.label>orteil artificiel</VREA_Toe.label>
+<VREA_Toe.description>Un orteil synthétique pour androïde.</VREA_Toe.description>
+
+<VREA_Tongue.label>langue artificielle</VREA_Tongue.label>
+<VREA_Tongue.description>Une langue synthétique pour androïde.</VREA_Tongue.description>
+
+<VREA_Waist.label>emplacement utilitaire artificiel</VREA_Waist.label>
+<VREA_Waist.description>Un emplacement utilitaire synthétique pour androïde.</VREA_Waist.description>
+
+
+</LanguageData>

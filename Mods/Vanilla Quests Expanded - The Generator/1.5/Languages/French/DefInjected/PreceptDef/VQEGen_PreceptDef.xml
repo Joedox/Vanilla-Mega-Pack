@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: abhorrent -->
+<VQE_ARCGenerators_Abhorrent.label>exécré</VQE_ARCGenerators_Abhorrent.label>
+<!-- EN: ARCs are dangerous abominations, symbols of humanity’s reckless reliance on technology. Their existence brings unease, and their use risks inviting catastrophe.\n\n&lt;color=#E5E54C&gt;Gameplay effects:&lt;/color&gt;\n - Tantrum mental breaks will target the ARC if it is reachable. -->
+<VQE_ARCGenerators_Abhorrent.description>Les ARC sont de dangereuses abominations, symboles de la confiance inconsidérée de l'humanité dans la technologie. Leur existence est source de malaise, et leur utilisation risque d'entraîner une catastrophe.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - L'état mental "crise de colère" ciblera l'ARC s'il est atteignable.</VQE_ARCGenerators_Abhorrent.description>
+
+<!-- EN: exalted -->
+<VQE_ARCGenerators_Exalted.label>exalté</VQE_ARCGenerators_Exalted.label>
+<!-- EN: ARCs are humanity's greatest achievement, a symbol of progress and survival. To damage or neglect an ARC is sacrilege, while their presence inspires hope and purpose in all. -->
+<VQE_ARCGenerators_Exalted.description>Les ARC sont la plus grande réalisation de l'humanité, un symbole de progrès et de survie. Endommager ou négliger un ARC est un sacrilège, tandis que leur présence inspire l'espoir et le but à tous.</VQE_ARCGenerators_Exalted.description>
+
+<!-- EN: rejected -->
+<VQE_Technology_Rejected.label>rejeté</VQE_Technology_Rejected.label>
+<!-- EN: Modern technology is a corrupting force that separates humanity from its natural path. Using it is shameful and leads only to ruin and discord.\n\n&lt;color=#E5E54C&gt;Gameplay effects:&lt;/color&gt;\n - Colonists will refuse to equip or wear items that are industrial tech level or higher.\n - Tantrum mental breaks will target items and buildings that are industrial tech level or higher. -->
+<VQE_Technology_Rejected.description>La technologie moderne est une force corruptrice qui sépare l'humanité de son chemin naturel. Son utilisation est honteuse et ne mène qu'à la ruine et à la discorde.\n\n&lt;color=#E5E54C&gt;Effet en jeu :&lt;/color&gt;\n - Les colons refuseront d'équiper ou de porter des objets de niveau technologique industriel ou supérieur.\n - L'état mental "crise de colère" ciblera les objets et les bâtiments de niveau technologique industriel ou supérieur.</VQE_Technology_Rejected.description>
+
+
+</LanguageData>

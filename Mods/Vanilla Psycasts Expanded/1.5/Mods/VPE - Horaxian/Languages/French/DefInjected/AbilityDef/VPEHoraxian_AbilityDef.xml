@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: warped obelisk summon -->
+<Obelisk1STNL.label>invoquer un obélisque dénaturé</Obelisk1STNL.label>
+<!-- EN: Order the void to manifest an obelisk. -->
+<Obelisk1STNL.description>Ordonne au néant de manifester un obélisque dénaturé.</Obelisk1STNL.description>
+
+<!-- EN: corrupted obelisk summon -->
+<Obelisk2STNL.label>invoquer un obélisque corrompu</Obelisk2STNL.label>
+<!-- EN: Order the void to manifest an obelisk. -->
+<Obelisk2STNL.description>Ordonne au néant de manifester un obélisque corrompu.</Obelisk2STNL.description>
+
+<!-- EN: twisted obelisk summon -->
+<Obelisk3STNL.label>invoquer un obélisque difforme</Obelisk3STNL.label>
+<!-- EN: Order the void to manifest an obelisk. -->
+<Obelisk3STNL.description>Ordonne au néant de manifester un obélisque difforme.</Obelisk3STNL.description>
+
+<!-- EN: transmute bioferrite -->
+<TransmuteBioferriteSTNL.label>transmuter la bioferrite</TransmuteBioferriteSTNL.label>
+<!-- EN: Reconfigure bioferrite at the atomic level, turning it into a highly valuable material. Can target a stack of bioferrite. -->
+<TransmuteBioferriteSTNL.description>Reconfigure la bioferrite au niveau atomique, la transformant en un matériau de grande valeur. Peut cibler une pile de bioferrite.</TransmuteBioferriteSTNL.description>
+<!-- EN: Must target bioferrite. -->
+<TransmuteBioferriteSTNL.comps.CompAbilityEffect_Transmute.failedMessage>Doit cibler de la bioferrite.</TransmuteBioferriteSTNL.comps.CompAbilityEffect_Transmute.failedMessage>
+
+
+</LanguageData>

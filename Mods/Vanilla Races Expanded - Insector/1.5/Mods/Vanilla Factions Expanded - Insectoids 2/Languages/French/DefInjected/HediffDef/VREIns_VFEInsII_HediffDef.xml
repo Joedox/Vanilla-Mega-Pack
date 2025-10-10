@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_InsectRostrum.label>rostre d'insecte</VRE_InsectRostrum.label>
+<VRE_InsectRostrum.description>Une structure large et pointue ressemblant à un proboscis d'abeille. Cette adaptation quadruple leur vitesse de consommation et leur confère une puissante attaque de morsure en mêlée, qui inflige d'importants dégâts coupants avec un temps de recharge rapide.</VRE_InsectRostrum.description>
+<VRE_InsectRostrum.comps.HediffComp_VerbGiver.tools.insect_rostrum.label>rostre d'insecte</VRE_InsectRostrum.comps.HediffComp_VerbGiver.tools.insect_rostrum.label>
+
+<VRE_Microsized.label>minuscule</VRE_Microsized.label>
+<VRE_Microsized.description>La réduction de la taille des gènes entraîne une diminution de la fréquence de la faim.</VRE_Microsized.description>
+
+<VRE_Colossal.label>colossal</VRE_Colossal.label>
+<VRE_Colossal.description>L'augmentation de la taille des gènes entraîne une augmentation de la fréquence de la faim.</VRE_Colossal.description>
+
+<VRE_ChemfuelSacks.label>sacs de chemfuel</VRE_ChemfuelSacks.label>
+<VRE_ChemfuelSacks.description>Les sacs de chemfuel rendent cette personne très volatile. S'ils sont enflammés et que le feu a une taille d'au moins 35, ils explosent dans une explosion de feu. Après l'explosion, ils n'explosent plus pendant 24 heures.\n\nLes sacs produisent 30 chemfuel tous les 10 jours.</VRE_ChemfuelSacks.description>
+
+<VRE_AcidBurstSack.label>jaillissement d'acide</VRE_AcidBurstSack.label>
+<VRE_AcidBurstSack.description>Lorsqu'elle subit des dégâts importants en une seule fois, cette personne subit une explosion d'acide, qui recouvre d'acide corrosif tout ce qui se trouve dans un rayon de 4,9 cases, ce qui l'endommage au fil du temps.</VRE_AcidBurstSack.description>
+
+<VRE_MineralRichInsectskin.label>peau riche en minéraux</VRE_MineralRichInsectskin.label>
+<VRE_MineralRichInsectskin.description>Peau d'insecte riche en minéraux formant un épais placage protecteur. Cette armure naturelle offre une protection importante jusqu'à ce qu'elle soit suffisamment endommagée pour la briser.</VRE_MineralRichInsectskin.description>
+
+
+</LanguageData>

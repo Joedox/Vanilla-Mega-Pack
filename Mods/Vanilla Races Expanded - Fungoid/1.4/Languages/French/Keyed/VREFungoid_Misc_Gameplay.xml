@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+<VRE_InfectionLabel>Infecteur de gènes ({0}), {1}</VRE_InfectionLabel>
+<VRE_InfectionDescription>Infection causée par le contact avec un {0}. Lorsqu'il atteint 100%, le colon se transforme en {0}.</VRE_InfectionDescription>
+<VRE_InfectedLabel>Gène infecté ({0} jour{0_multiple ? s : })</VRE_InfectedLabel>
+
+
+</LanguageData>

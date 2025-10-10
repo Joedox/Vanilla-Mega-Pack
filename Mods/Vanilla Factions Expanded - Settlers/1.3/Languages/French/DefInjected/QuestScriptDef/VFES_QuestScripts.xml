@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Wanted +++++ -->
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>questName->Prime : [nameFull] [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>questName->Recherché, mort ou vif : [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>questName->Le brigand [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name] nous salue. Apparemment, le tristement célèbre [criminal_nameFull] de [siteFaction_name] se cache dans notre région.\n[asker_nameDef] nous demande d'apporter [nickname] à l'un de leurs campements pour [bounty] d'argent, le double s’il est vivante. Il se cache dans une planque et celle-ci est probablement gardée.\nSi nous vidons leur camp, [allRewardsDescriptions]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quête expirée : [resolvedQuestName]</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[criminal_nameFull] ont entendu parler de leur position compromise et ont donc décidé de quitter la région. La quête [resolvedQuestName] a expiré.</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Quête échouée : [resolvedQuestName]</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Les brigands ont fait leurs bagages et sont partis.</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Paiement arrivé</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Vous avez vaincu [criminal_nameFull] et détruit le camp !\n\nLa récompense bonus de [asker_faction_name] est arrivée.</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+
+
+		<!-- +++++ Caravan +++++ -->
+<VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nous a envoyé un message. Apparemment, [siteFaction_name] se reposent avec leurs bêtes avant de reprendre la route.\n            \n[asker_nameDef] nous a donné leur localisation, si nous le voulons, nous pouvons aller les attaquer.</VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>
+<VFES_CaravanRaid.questNameRules.rulesStrings.0>questName->[raid] de la caravane</VFES_CaravanRaid.questNameRules.rulesStrings.0>
+<VFES_CaravanRaid.questNameRules.rulesStrings.1>questName->[asker_nameDef] et [raid] de la caravane</VFES_CaravanRaid.questNameRules.rulesStrings.1>
+<VFES_CaravanRaid.questNameRules.rulesStrings.2>raid->le raid</VFES_CaravanRaid.questNameRules.rulesStrings.2>
+<VFES_CaravanRaid.questNameRules.rulesStrings.3>raid->l'attaque</VFES_CaravanRaid.questNameRules.rulesStrings.3>
+<VFES_CaravanRaid.questNameRules.rulesStrings.4>raid->l'embuscade</VFES_CaravanRaid.questNameRules.rulesStrings.4>
+<VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>Quête expirée : [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>
+<VFES_CaravanRaid.LetterTextQuestExpired.slateRef>Les [siteFaction_pawnsPlural] ont fait leurs bagages et sont partis. La quête [resolvedQuestName] a expiré.</VFES_CaravanRaid.LetterTextQuestExpired.slateRef>
+<VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>Quête échouée : [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>
+<VFES_CaravanRaid.LetterTextQuestFailed.slateRef>Après avoir été repérés, les [siteFaction_pawnsPlural] sont partis. La quête [resolvedQuestName] est terminée.</VFES_CaravanRaid.LetterTextQuestFailed.slateRef>
+
+
+</LanguageData>

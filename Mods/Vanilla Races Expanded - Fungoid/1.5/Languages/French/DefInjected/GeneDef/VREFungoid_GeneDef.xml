@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VRE_MindCoalescence.label>coalescence de l'esprit</VRE_MindCoalescence.label>
+<VRE_MindCoalescence.description>Les porteurs de ce gène ont un lien psychique avec les autres porteurs, ce qui leur permet de partager certaines émotions avec eux. Une partie du bonheur moyen est partagée avec les individus coalescents. De ce fait, ils partagent également tous des états mentaux et en souffrent en même temps.</VRE_MindCoalescence.description>
+<VRE_MindCoalescence.customEffectDescriptions.0>Cet effet est mis à jour deux fois par jour dans le jeu, pour éviter les latences.</VRE_MindCoalescence.customEffectDescriptions.0>
+<VRE_MindCoalescence.labelShortAdj>coalescent</VRE_MindCoalescence.labelShortAdj>
+
+<VRE_GeneInfector.label>infecteur de gènes</VRE_GeneInfector.label>
+<VRE_GeneInfector.description>Les porteurs de ce gène implantent une copie de leur xénogerme dans une autre personne en l'attaquant avec leurs griffes ou leurs dents. Cela déclenche une infection progressive chez la victime qui, si elle n'est pas traitée, appliquera le xénogerme du porteur sur elle.</VRE_GeneInfector.description>
+<VRE_GeneInfector.customEffectDescriptions.0>N'affectera pas les personnes déjà porteuses de ce gène.</VRE_GeneInfector.customEffectDescriptions.0>
+<VRE_GeneInfector.customEffectDescriptions.1>L'infecteur de gènes ne transmet que des xénogènes. Les germinaux ne sont pas transmis.</VRE_GeneInfector.customEffectDescriptions.1>
+
+<VRE_RotBlood.label>sang pourri</VRE_RotBlood.label>
+<VRE_RotBlood.description>Les porteurs de ce gène saignent du sang pourri nauséabond.</VRE_RotBlood.description>
+<VRE_RotBlood.symbolPack.prefixSymbols.0.symbol>pourri</VRE_RotBlood.symbolPack.prefixSymbols.0.symbol>
+<VRE_RotBlood.symbolPack.prefixSymbols.1.symbol>puant</VRE_RotBlood.symbolPack.prefixSymbols.1.symbol>
+<VRE_RotBlood.symbolPack.wholeNameSymbols.0.symbol>purgeur de pourriture</VRE_RotBlood.symbolPack.wholeNameSymbols.0.symbol>
+
+<VRE_FungalCrest.label>crête fongique</VRE_FungalCrest.label>
+<VRE_FungalCrest.description>Les porteurs de ce gène développent une grande crête fongique colorée qui dépasse du sommet de leur tête.</VRE_FungalCrest.description>
+
+<VRE_HairMushroom.label>cheveux fongiques</VRE_HairMushroom.label>
+<VRE_HairMushroom.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_HairMushroom.description>
+
+<VRE_Fungoid_Hair_DarkTan.label>cheveux beige foncé</VRE_Fungoid_Hair_DarkTan.label>
+<VRE_Fungoid_Hair_DarkTan.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_Fungoid_Hair_DarkTan.description>
+
+<VRE_Fungoid_Hair_SwampGreen.label>cheveux vert marécage</VRE_Fungoid_Hair_SwampGreen.label>
+<VRE_Fungoid_Hair_SwampGreen.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_Fungoid_Hair_SwampGreen.description>
+
+<VRE_Fungoid_Hair_Salmon.label>cheveux saumon</VRE_Fungoid_Hair_Salmon.label>
+<VRE_Fungoid_Hair_Salmon.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_Fungoid_Hair_Salmon.description>
+
+<VRE_Fungoid_Hair_Wenge.label>cheveux wengé</VRE_Fungoid_Hair_Wenge.label>
+<VRE_Fungoid_Hair_Wenge.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_Fungoid_Hair_Wenge.description>
+
+<VRE_Fungoid_Hair_Tumbleweed.label>cheveux broussaille</VRE_Fungoid_Hair_Tumbleweed.label>
+<VRE_Fungoid_Hair_Tumbleweed.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_Fungoid_Hair_Tumbleweed.description>
+
+<VRE_Fungoid_Hair_RoseTaupe.label>cheveux rose taupe</VRE_Fungoid_Hair_RoseTaupe.label>
+<VRE_Fungoid_Hair_RoseTaupe.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_Fungoid_Hair_RoseTaupe.description>
+
+<VRE_Fungoid_Hair_MistyMoss.label>cheveux mousse</VRE_Fungoid_Hair_MistyMoss.label>
+<VRE_Fungoid_Hair_MistyMoss.description>Les porteurs de ce gène ont une couleur de cheveux blond clair. Avec plusieurs gènes de couleur de cheveux, un gène est sélectionné au hasard.</VRE_Fungoid_Hair_MistyMoss.description>
+
+<VRE_FungalArmor.label>armure fongique</VRE_FungalArmor.label>
+<VRE_FungalArmor.description>Les porteurs de ce gène ont un tissage fongique dans leur peau, ce qui diminue considérablement les dégâts entrants. L'effet augmente avec le temps.</VRE_FungalArmor.description>
+
+<VRE_FungalRegeneration.label>régénération fongique</VRE_FungalRegeneration.label>
+<VRE_FungalRegeneration.description>Les porteurs de ce gène se régénèrent par voie fongique. L'effet s'accentue avec le temps.</VRE_FungalRegeneration.description>
+
+<VRE_TotalAntirotLungs.label>poumons anti-pourriture totale</VRE_TotalAntirotLungs.label>
+<VRE_TotalAntirotLungs.description>Les porteurs de ce gène sont immunisés contre l'exposition à la pourriture pulmonaire.</VRE_TotalAntirotLungs.description>
+
+<VRE_PartialAntirotLungs.label>poumons anti-pourriture partielle</VRE_PartialAntirotLungs.label>
+<VRE_PartialAntirotLungs.description>Les porteurs de ce gène développent plus lentement une exposition à la pourriture pulmonaire.</VRE_PartialAntirotLungs.description>
+
+<VRE_FungalFlesh.label>chair fongique</VRE_FungalFlesh.label>
+<VRE_FungalFlesh.description>Les porteurs de ce gène ont de la matière fongique dans leur chair. La consommation de tout champignon par ces personnes est considérée comme du cannibalisme.</VRE_FungalFlesh.description>
+<VRE_FungalFlesh.labelShortAdj>fongique</VRE_FungalFlesh.labelShortAdj>
+
+<VRE_Telepathy.label>télépathie</VRE_Telepathy.label>
+<VRE_Telepathy.description>Les porteurs de ce gène peuvent communiquer avec d'autres porteurs de ce gène par télépathie psychique. La proximité n'est pas nécessaire pour les interactions sociales.</VRE_Telepathy.description>
+<VRE_Telepathy.labelShortAdj>télépathe</VRE_Telepathy.labelShortAdj>
+
+<VRE_ExtremeSkillLoss.label>perte extrême de compétences</VRE_ExtremeSkillLoss.label>
+<VRE_ExtremeSkillLoss.description>Les porteurs de ce gène oublient leurs compétences deux fois plus vite.</VRE_ExtremeSkillLoss.description>
+
+<VRE_SevereSkillLoss.label>perte sévère de compétences</VRE_SevereSkillLoss.label>
+<VRE_SevereSkillLoss.description>Les porteurs de ce gène oublient leurs compétences 50% plus vite.</VRE_SevereSkillLoss.description>
+
+<VRE_MinorSkillLoss.label>perte mineure de compétences</VRE_MinorSkillLoss.label>
+<VRE_MinorSkillLoss.description>Les porteurs de ce gène oublient leurs compétences deux fois moins vite.</VRE_MinorSkillLoss.description>
+
+<VRE_NoSkillLoss.label>aucune perte de compétences</VRE_NoSkillLoss.label>
+<VRE_NoSkillLoss.description>Les porteurs de ce gène ne souffrent pas de perte de compétences.</VRE_NoSkillLoss.description>
+
+<VRE_SkillDegradation.label>dégradation de compétences</VRE_SkillDegradation.label>
+<VRE_SkillDegradation.description>Les porteurs de ce gène souffrent d'oubli de compétences, quel que soit leur niveau de compétence actuel.</VRE_SkillDegradation.description>
+
+<VRE_NoStudy.label>pas d'étude</VRE_NoStudy.label>
+<VRE_NoStudy.description>Les porteurs de ce gène sont incapables d'acquérir de nouvelles compétences.</VRE_NoStudy.description>
+
+<VRE_DeadVoice.label>voix morte</VRE_DeadVoice.label>
+<VRE_DeadVoice.description>Les porteurs de ce gène ont une voix rauque et maladive.</VRE_DeadVoice.description>
+
+
+</LanguageData>

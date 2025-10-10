@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Revenant shell -->
+<Bullet_RevenantShot.label>obus de revenant</Bullet_RevenantShot.label>
+
+<!-- EN: Revenant Shadow -->
+<Gun_RevenantTurretSTNL.label>ombre du revenant</Gun_RevenantTurretSTNL.label>
+<!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
+<Gun_RevenantTurretSTNL.description>Canon de gros calibre à chargement automatique conçu pour être fixé sur une tourelle.</Gun_RevenantTurretSTNL.description>
+<!-- EN: Revenant Shadow -->
+<Gun_RevenantTurretSTNL.verbs.Verb_Shoot.label>ombre du revenant</Gun_RevenantTurretSTNL.verbs.Verb_Shoot.label>
+
+<!-- EN: Medical Drone -->
+<MedicaldroneSilenceSTNL.label>drone médical</MedicaldroneSilenceSTNL.label>
+<!-- EN: A remote medical device. Anyone passing nearby will get healed. -->
+<MedicaldroneSilenceSTNL.description>Un appareil médical à distance. Toute personne passant à proximité sera soignée.</MedicaldroneSilenceSTNL.description>
+
+<!-- EN: Shadow Sentry -->
+<ShadowSentrySTNL.label>sentinelle d'ombre</ShadowSentrySTNL.label>
+<!-- EN: A shadow sentry, it will slow down anyone passing nearby. -->
+<ShadowSentrySTNL.description>Une sentinelle d'ombre, qui ralentit toute personne passant à proximité.</ShadowSentrySTNL.description>
+
+<!-- EN: Mine -->
+<TrapIED_WSTNL.label>mine</TrapIED_WSTNL.label>
+<!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+<TrapIED_WSTNL.description>Une paire d'obus d'artillerie reliés à un déclencheur par contact ou à l'impact d'une balle. Comme il est camouflé dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges. Les animaux peuvent le repérer lorsqu'ils sont calmes.</TrapIED_WSTNL.description>
+
+<!-- EN: Revenant Shadow -->
+<Turret_RevenantSTNL.label>ombre du revenant</Turret_RevenantSTNL.label>
+<!-- EN: A shadow summoned by a Wis'adel psycast user, will disappear after 5 hours. -->
+<Turret_RevenantSTNL.description>Une ombre invoquée par un psylanceur de Wis'adel, disparaît au bout de 5 heures.</Turret_RevenantSTNL.description>
+
+
+<!-- EN: Mon3tr -->
+<VPE_MontrSTNL.label>mon3tr</VPE_MontrSTNL.label>
+<!-- EN: Mon3tr -->
+<VPE_MontrSTNL.description>Un mon3tr.</VPE_MontrSTNL.description>
+<!-- EN: head -->
+<VPE_MontrSTNL.tools.head.label>tête</VPE_MontrSTNL.tools.head.label>
+
+
+<!-- EN: crag splitter -->
+<BluntSTNL.label>fendeur de roche</BluntSTNL.label>
+
+<!-- EN: frag grenade -->
+<Proj_WGrenadeFragSTNL.label>grenade à fragmentation</Proj_WGrenadeFragSTNL.label>
+
+<!-- EN: Slash -->
+<SlashSTNL.label>entaille</SlashSTNL.label>
+
+<!-- EN: Explosive Dawn Shot -->
+<VPE_Explodawnshot.label>tir d'aube explosif</VPE_Explodawnshot.label>
+<!-- EN: A ball of flame launched by a conflagrator -->
+<VPE_Explodawnshot.description>Une boule de flammes lancée par un conflagrateur.</VPE_Explodawnshot.description>
+
+<!-- EN: Explosive Dawn Shot -->
+<VPE_Wisadelshot.label>tir d'aube explosif</VPE_Wisadelshot.label>
+<!-- EN: A ball of flame launched by a conflagrator -->
+<VPE_Wisadelshot.description>Une boule de flammes lancée par un conflagrateur.</VPE_Wisadelshot.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: food variety -->
+<VCEV_FoodVariety.label>variété alimentaire</VCEV_FoodVariety.label>
+<!-- EN: Represents the assortment of different foods in a colonist's diet, reflecting their ability to access and consume a wide range of nutrients and flavors, calculated as an average of the variety in meals and the variety in ingredients in those meals.\n\nLow values will cause a mood penalty, while higher values will cause a mood bonus. -->
+<VCEV_FoodVariety.description>Représente l'assortiment de différents aliments dans le régime alimentaire d'un colon, reflétant sa capacité à accéder et à consommer une large gamme de nutriments et de saveurs, calculée comme une moyenne de la variété des repas et de la variété des ingrédients dans ces repas.\n\nLes valeurs faibles entraînent une pénalité à l'humeur, tandis que les valeurs élevées entraînent un bonus à l'humeur.</VCEV_FoodVariety.description>
+
+
+</LanguageData>

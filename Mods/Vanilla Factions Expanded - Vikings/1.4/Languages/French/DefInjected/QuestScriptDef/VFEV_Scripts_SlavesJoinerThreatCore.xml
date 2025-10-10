@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings.0>rewardDescription->[joiner_title] de [joiner_age] ans nommé [joiner_nameDef] nous contacte depuis les environs. [joiner_relationInfo]</VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings.0>
+
+<VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings.0>questDescription->[joiner_title] de [joiner_age] ans nommé [joiner_nameDef] nous contacte depuis les environs. [joiner_relationInfo] [joiner_pronoun] est esclave, pourchassé par les [enemyFaction_pawnsPlural] ; [enemyFaction_name] !\n\n[joiner_pronoun] vous supplie de faire preuve de compassion et vous demande de rejoindre [map_definite].[joiner_relationInfo]\n\nSi vous acceptez, vous devrez combattre les [enemyFaction_pawnsPlural] à ses trousses. Le groupe de [enemyFaction_pawnsPlural] est composé de : \n[raid/raidPawnKinds]\n\n[joiner_nameDef] est trop paniqué pour vous fournir plus d'informations.</VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings.0>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.0>questName->Sauver [runnerIndef]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.0>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.1>questName->Le sauvetage de [runnerIndef]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.1>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.2>questName->Aider [runnerIndef]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.2>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.3>questName->Accepter [runnerIndef]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.3>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.4>questName->Les [enemyFaction_pawnsPlural] chassent [runnerIndef]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.4>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.5>questName->[runnerIndef] en cavale</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.5>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.6>questName->[runnerIndef] cherche un foyer</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.6>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.7>questName->[runnerIndef] poursuivi par les [enemyFaction_pawnsPlural]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.7>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.8>questName->[runnerIndef] et les [enemyFaction_pawnsPlural]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.8>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.9>runnerIndef->[joiner_titleIndef]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.9>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.10>runnerIndef->[joiner_nameIndef]</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.10>
+<VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.11>runnerIndef->un esclave</VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings.11>
+<VFEV_ThreatReward_Raid_SlavesJoiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL} chasse [../joiner_nameDef]</VFEV_ThreatReward_Raid_SlavesJoiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+<VFEV_ThreatReward_Raid_SlavesJoiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n              \nLes [enemyFaction_pawnsPlural] sont venus chercher [../joiner_nameDef].</VFEV_ThreatReward_Raid_SlavesJoiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+
+
+</LanguageData>

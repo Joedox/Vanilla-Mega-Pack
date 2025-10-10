@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: bipedal lizard -->
+<VAEWaste_BipedalLizard.label>lézard bipède</VAEWaste_BipedalLizard.label>
+<!-- EN: left lung -->
+<VAEWaste_BipedalLizard.corePart.parts.left_lung.customLabel>poumon gauche</VAEWaste_BipedalLizard.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<VAEWaste_BipedalLizard.corePart.parts.right_lung.customLabel>poumon droit</VAEWaste_BipedalLizard.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<VAEWaste_BipedalLizard.corePart.parts.left_kidney.customLabel>rein gauche</VAEWaste_BipedalLizard.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<VAEWaste_BipedalLizard.corePart.parts.right_kidney.customLabel>rein droit</VAEWaste_BipedalLizard.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: left ear -->
+<VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</VAEWaste_BipedalLizard.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: left arm -->
+<VAEWaste_BipedalLizard.corePart.parts.left_arm.customLabel>bras gauche</VAEWaste_BipedalLizard.corePart.parts.left_arm.customLabel>
+<!-- EN: left arm first claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_first_claw.customLabel>bras gauche première griffe</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_first_claw.customLabel>
+<!-- EN: left arm second claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_second_claw.customLabel>bras gauche deuxième griffe</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_second_claw.customLabel>
+<!-- EN: left arm third claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_third_claw.customLabel>bras gauche troisième griffe</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_third_claw.customLabel>
+<!-- EN: left arm fourth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fourth_claw.customLabel>bras gauche quatrième griffe</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fourth_claw.customLabel>
+<!-- EN: left arm fifth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fifth_claw.customLabel>bras gauche cinquième griffe</VAEWaste_BipedalLizard.corePart.parts.left_arm.parts.left_arm_fifth_claw.customLabel>
+<!-- EN: right arm -->
+<VAEWaste_BipedalLizard.corePart.parts.right_arm.customLabel>bras droit</VAEWaste_BipedalLizard.corePart.parts.right_arm.customLabel>
+<!-- EN: right arm first claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_first_claw.customLabel>bras droit première griffe</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_first_claw.customLabel>
+<!-- EN: right arm second claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_second_claw.customLabel>bras droit deuxième griffe</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_second_claw.customLabel>
+<!-- EN: right arm third claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_third_claw.customLabel>bras droit troisième griffe</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_third_claw.customLabel>
+<!-- EN: right arm fourth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fourth_claw.customLabel>bras droit quatrième griffe</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fourth_claw.customLabel>
+<!-- EN: right arm fifth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fifth_claw.customLabel>bras droit cinquième griffe</VAEWaste_BipedalLizard.corePart.parts.right_arm.parts.right_arm_fifth_claw.customLabel>
+<!-- EN: left leg -->
+<VAEWaste_BipedalLizard.corePart.parts.left_leg.customLabel>jambe gauche</VAEWaste_BipedalLizard.corePart.parts.left_leg.customLabel>
+<!-- EN: left leg first claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_first_claw.customLabel>jambe gauche première griffe</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_first_claw.customLabel>
+<!-- EN: left leg second claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_second_claw.customLabel>jambe gauche deuxième griffe</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_second_claw.customLabel>
+<!-- EN: left leg third claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_third_claw.customLabel>jambe gauche troisième griffe</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_third_claw.customLabel>
+<!-- EN: left leg fourth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fourth_claw.customLabel>jambe gauche quatrième griffe</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fourth_claw.customLabel>
+<!-- EN: left leg fifth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fifth_claw.customLabel>jambe gauche cinquième griffe</VAEWaste_BipedalLizard.corePart.parts.left_leg.parts.left_leg_fifth_claw.customLabel>
+<!-- EN: right leg -->
+<VAEWaste_BipedalLizard.corePart.parts.right_leg.customLabel>jambe droite</VAEWaste_BipedalLizard.corePart.parts.right_leg.customLabel>
+<!-- EN: right leg first claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_first_claw.customLabel>jambe droite première griffe</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_first_claw.customLabel>
+<!-- EN: right leg second claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_second_claw.customLabel>jambe droite deuxième griffe</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_second_claw.customLabel>
+<!-- EN: right leg third claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_third_claw.customLabel>jambe droite troisième griffe</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_third_claw.customLabel>
+<!-- EN: right leg fourth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fourth_claw.customLabel>jambe droite quatrième griffe</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fourth_claw.customLabel>
+<!-- EN: right leg fifth claw -->
+<VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fifth_claw.customLabel>jambe droite cinquième griffe</VAEWaste_BipedalLizard.corePart.parts.right_leg.parts.right_leg_fifth_claw.customLabel>
+
+
+<!-- EN: hydra -->
+<VAEWaste_Hydra.label>hydre</VAEWaste_Hydra.label>
+<!-- EN: left lung -->
+<VAEWaste_Hydra.corePart.parts.left_lung.customLabel>poumon gauche</VAEWaste_Hydra.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<VAEWaste_Hydra.corePart.parts.right_lung.customLabel>poumon droit</VAEWaste_Hydra.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<VAEWaste_Hydra.corePart.parts.left_kidney.customLabel>rein gauche</VAEWaste_Hydra.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<VAEWaste_Hydra.corePart.parts.right_kidney.customLabel>rein droit</VAEWaste_Hydra.corePart.parts.right_kidney.customLabel>
+<!-- EN: first head -->
+<VAEWaste_Hydra.corePart.parts.first_head.customLabel>première tête</VAEWaste_Hydra.corePart.parts.first_head.customLabel>
+<!-- EN: first brain -->
+<VAEWaste_Hydra.corePart.parts.first_head.parts.Skull.parts.first_brain.customLabel>premier cerveau</VAEWaste_Hydra.corePart.parts.first_head.parts.Skull.parts.first_brain.customLabel>
+<!-- EN: first left eye -->
+<VAEWaste_Hydra.corePart.parts.first_head.parts.first_left_eye.customLabel>premier œil gauche</VAEWaste_Hydra.corePart.parts.first_head.parts.first_left_eye.customLabel>
+<!-- EN: first right eye -->
+<VAEWaste_Hydra.corePart.parts.first_head.parts.first_right_eye.customLabel>premier œil droit</VAEWaste_Hydra.corePart.parts.first_head.parts.first_right_eye.customLabel>
+<!-- EN: first nose -->
+<VAEWaste_Hydra.corePart.parts.first_head.parts.first_nose.customLabel>premier nez</VAEWaste_Hydra.corePart.parts.first_head.parts.first_nose.customLabel>
+<!-- EN: first mouth -->
+<VAEWaste_Hydra.corePart.parts.first_head.parts.first_mouth.customLabel>première gueule</VAEWaste_Hydra.corePart.parts.first_head.parts.first_mouth.customLabel>
+<!-- EN: second head -->
+<VAEWaste_Hydra.corePart.parts.second_head.customLabel>deuxième tête</VAEWaste_Hydra.corePart.parts.second_head.customLabel>
+<!-- EN: second brain -->
+<VAEWaste_Hydra.corePart.parts.second_head.parts.Skull.parts.second_brain.customLabel>deuxième cerveau</VAEWaste_Hydra.corePart.parts.second_head.parts.Skull.parts.second_brain.customLabel>
+<!-- EN: second left eye -->
+<VAEWaste_Hydra.corePart.parts.second_head.parts.second_left_eye.customLabel>deuxième œil gauche</VAEWaste_Hydra.corePart.parts.second_head.parts.second_left_eye.customLabel>
+<!-- EN: second right eye -->
+<VAEWaste_Hydra.corePart.parts.second_head.parts.second_right_eye.customLabel>deuxième œil droit</VAEWaste_Hydra.corePart.parts.second_head.parts.second_right_eye.customLabel>
+<!-- EN: second nose -->
+<VAEWaste_Hydra.corePart.parts.second_head.parts.second_nose.customLabel>deuxième nez</VAEWaste_Hydra.corePart.parts.second_head.parts.second_nose.customLabel>
+<!-- EN: second mouth -->
+<VAEWaste_Hydra.corePart.parts.second_head.parts.second_mouth.customLabel>deuxième gueule</VAEWaste_Hydra.corePart.parts.second_head.parts.second_mouth.customLabel>
+<!-- EN: third head -->
+<VAEWaste_Hydra.corePart.parts.third_head.customLabel>troisième tête</VAEWaste_Hydra.corePart.parts.third_head.customLabel>
+<!-- EN: third brain -->
+<VAEWaste_Hydra.corePart.parts.third_head.parts.Skull.parts.third_brain.customLabel>troisième cerveau</VAEWaste_Hydra.corePart.parts.third_head.parts.Skull.parts.third_brain.customLabel>
+<!-- EN: third left eye -->
+<VAEWaste_Hydra.corePart.parts.third_head.parts.third_left_eye.customLabel>troisième œil gauche</VAEWaste_Hydra.corePart.parts.third_head.parts.third_left_eye.customLabel>
+<!-- EN: third right eye -->
+<VAEWaste_Hydra.corePart.parts.third_head.parts.third_right_eye.customLabel>troisième œil droit</VAEWaste_Hydra.corePart.parts.third_head.parts.third_right_eye.customLabel>
+<!-- EN: third nose -->
+<VAEWaste_Hydra.corePart.parts.third_head.parts.third_nose.customLabel>troisième nez</VAEWaste_Hydra.corePart.parts.third_head.parts.third_nose.customLabel>
+<!-- EN: third mouth -->
+<VAEWaste_Hydra.corePart.parts.third_head.parts.third_mouth.customLabel>troisième gueule</VAEWaste_Hydra.corePart.parts.third_head.parts.third_mouth.customLabel>
+
+
+<!-- EN: large lizardlike -->
+<VAEWaste_LargeLizardlike.label>grand lézard</VAEWaste_LargeLizardlike.label>
+<!-- EN: left lung -->
+<VAEWaste_LargeLizardlike.corePart.parts.left_lung.customLabel>poumon gauche</VAEWaste_LargeLizardlike.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<VAEWaste_LargeLizardlike.corePart.parts.right_lung.customLabel>poumon droit</VAEWaste_LargeLizardlike.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<VAEWaste_LargeLizardlike.corePart.parts.left_kidney.customLabel>rein gauche</VAEWaste_LargeLizardlike.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<VAEWaste_LargeLizardlike.corePart.parts.right_kidney.customLabel>rein droit</VAEWaste_LargeLizardlike.corePart.parts.right_kidney.customLabel>
+<!-- EN: left eye -->
+<VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>œil gauche</VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>œil droit</VAEWaste_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+<!-- EN: front left leg -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.customLabel>jambe avant gauche</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left leg first claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>jambe avant gauche première griffe</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+<!-- EN: front left leg second claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>jambe avant gauche deuxième griffe</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+<!-- EN: front left leg third claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>jambe avant gauche troisième griffe</VAEWaste_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+<!-- EN: front right leg -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.customLabel>jambe avant droite</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right leg first claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>jambe avant droite première griffe</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+<!-- EN: front right leg second claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>jambe avant droite deuxième griffe</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+<!-- EN: front right leg third claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>jambe avant droite troisième griffe</VAEWaste_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+<!-- EN: rear left leg -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left leg first claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>jambe arrière gauche première griffe</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+<!-- EN: rear left leg second claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>jambe arrière gauche deuxième griffe</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+<!-- EN: rear left leg third claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>jambe arrière gauche troisième griffe</VAEWaste_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+<!-- EN: rear right leg -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right leg first claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>jambe arrière droite première griffe</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+<!-- EN: rear right leg second claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>jambe arrière droite deuxième griffe</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+<!-- EN: rear right leg third claw -->
+<VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>jambe arrière droite troisième griffe</VAEWaste_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+
+
+<!-- EN: megatardi -->
+<VAEWaste_Megatardi.label>megatardi</VAEWaste_Megatardi.label>
+<!-- EN: left elytra -->
+<VAEWaste_Megatardi.corePart.parts.left_elytra.customLabel>élytre gauche</VAEWaste_Megatardi.corePart.parts.left_elytra.customLabel>
+<!-- EN: right elytra -->
+<VAEWaste_Megatardi.corePart.parts.right_elytra.customLabel>élytre droit</VAEWaste_Megatardi.corePart.parts.right_elytra.customLabel>
+<!-- EN: left antenna -->
+<VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>antenne gauche</VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+<!-- EN: right antenna -->
+<VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>antenne droite</VAEWaste_Megatardi.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+<!-- EN: front left leg -->
+<VAEWaste_Megatardi.corePart.parts.front_left_leg.customLabel>jambe avant gauche</VAEWaste_Megatardi.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front right leg -->
+<VAEWaste_Megatardi.corePart.parts.front_right_leg.customLabel>jambe avant droite</VAEWaste_Megatardi.corePart.parts.front_right_leg.customLabel>
+<!-- EN: middle left leg -->
+<VAEWaste_Megatardi.corePart.parts.middle_left_leg.customLabel>jambe milieu gauche</VAEWaste_Megatardi.corePart.parts.middle_left_leg.customLabel>
+<!-- EN: middle right leg -->
+<VAEWaste_Megatardi.corePart.parts.middle_right_leg.customLabel>jambe milieu droite</VAEWaste_Megatardi.corePart.parts.middle_right_leg.customLabel>
+<!-- EN: rear left leg -->
+<VAEWaste_Megatardi.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</VAEWaste_Megatardi.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear right leg -->
+<VAEWaste_Megatardi.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</VAEWaste_Megatardi.corePart.parts.rear_right_leg.customLabel>
+
+
+<!-- EN: double headed quadruped animal -->
+<VAEWaste_Wasteffalo_Body.label>animal quadrupède à deux têtes</VAEWaste_Wasteffalo_Body.label>
+<!-- EN: left lung -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_lung.customLabel>poumon gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_lung.customLabel>poumon droit</VAEWaste_Wasteffalo_Body.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_kidney.customLabel>rein gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_kidney.customLabel>rein droit</VAEWaste_Wasteffalo_Body.corePart.parts.right_kidney.customLabel>
+<!-- EN: right neck -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.customLabel>cou droit</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.customLabel>
+<!-- EN: right head -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.customLabel>tête droite</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.customLabel>
+<!-- EN: right skull -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.customLabel>crâne droit</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.customLabel>
+<!-- EN: right brain -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.parts.right_brain.customLabel>cerveau droit</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_skull.parts.right_brain.customLabel>
+<!-- EN: right-left eye -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_eye.customLabel>œil droit-gauche</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_eye.customLabel>
+<!-- EN: right-right eye -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_eye.customLabel>œil droit-droit</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_eye.customLabel>
+<!-- EN: right-left ear -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_ear.customLabel>oreille droite-gauche</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightleft_ear.customLabel>
+<!-- EN: right-right ear -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_ear.customLabel>oreille droite-droite</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.rightright_ear.customLabel>
+<!-- EN: right nose -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_nose.customLabel>nez droit</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_nose.customLabel>
+<!-- EN: right jaw -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_jaw.customLabel>mâchoire droite</VAEWaste_Wasteffalo_Body.corePart.parts.right_neck.parts.right_head.parts.right_jaw.customLabel>
+<!-- EN: left neck -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.customLabel>cou gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.customLabel>
+<!-- EN: left head -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.customLabel>tête gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.customLabel>
+<!-- EN: left skull -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.customLabel>crâne gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.customLabel>
+<!-- EN: left brain -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.parts.left_brain.customLabel>cerveau gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_skull.parts.left_brain.customLabel>
+<!-- EN: left-left eye -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_eye.customLabel>œil gauche-gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_eye.customLabel>
+<!-- EN: left-right eye -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_eye.customLabel>œil gauche-droit</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_eye.customLabel>
+<!-- EN: left-left ear -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_ear.customLabel>oreille gauche-gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftleft_ear.customLabel>
+<!-- EN: left-right ear -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_ear.customLabel>oreille gauche-droite</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.leftright_ear.customLabel>
+<!-- EN: left nose -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_nose.customLabel>nez gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_nose.customLabel>
+<!-- EN: left jaw -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_jaw.customLabel>mâchoire gauche</VAEWaste_Wasteffalo_Body.corePart.parts.left_neck.parts.left_head.parts.left_jaw.customLabel>
+<!-- EN: front left leg -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.customLabel>jambe avant gauche</VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left hoof -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>sabot avant gauche</VAEWaste_Wasteffalo_Body.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+<!-- EN: front right leg -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.customLabel>jambe avant droite</VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right hoof -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>sabot avant droit</VAEWaste_Wasteffalo_Body.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+<!-- EN: rear left leg -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left hoof -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>sabot arrière gauche</VAEWaste_Wasteffalo_Body.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+<!-- EN: rear right leg -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right hoof -->
+<VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>sabot arrière droit</VAEWaste_Wasteffalo_Body.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+
+
+<!-- EN: wasteboar -->
+<VAEWaste_Wasteboar.label>sanglier pestilent</VAEWaste_Wasteboar.label>
+<!-- EN: left lung -->
+<VAEWaste_Wasteboar.corePart.parts.left_lung.customLabel>poumon gauche</VAEWaste_Wasteboar.corePart.parts.left_lung.customLabel>
+<!-- EN: right lung -->
+<VAEWaste_Wasteboar.corePart.parts.right_lung.customLabel>poumon droit</VAEWaste_Wasteboar.corePart.parts.right_lung.customLabel>
+<!-- EN: left kidney -->
+<VAEWaste_Wasteboar.corePart.parts.left_kidney.customLabel>rein gauche</VAEWaste_Wasteboar.corePart.parts.left_kidney.customLabel>
+<!-- EN: right kidney -->
+<VAEWaste_Wasteboar.corePart.parts.right_kidney.customLabel>rein droit</VAEWaste_Wasteboar.corePart.parts.right_kidney.customLabel>
+<!-- EN: first left eye -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>premier œil gauche</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_left_eye.customLabel>
+<!-- EN: first right eye -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>premier œil droit</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.first_right_eye.customLabel>
+<!-- EN: second left eye -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>deuxième œil gauche</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_left_eye.customLabel>
+<!-- EN: second right eye -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>deuxième œil droit</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.second_right_eye.customLabel>
+<!-- EN: left ear -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+<!-- EN: right ear -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+<!-- EN: first left tusk -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_left_tusk.customLabel>première défense gauche</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_left_tusk.customLabel>
+<!-- EN: first right tusk -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_right_tusk.customLabel>première défense droite</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.first_right_tusk.customLabel>
+<!-- EN: second left tusk -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_left_tusk.customLabel>deuxième défense gauche</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_left_tusk.customLabel>
+<!-- EN: second right tusk -->
+<VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_right_tusk.customLabel>deuxième défense droite</VAEWaste_Wasteboar.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.second_right_tusk.customLabel>
+<!-- EN: front left leg -->
+<VAEWaste_Wasteboar.corePart.parts.front_left_leg.customLabel>jambe avant gauche</VAEWaste_Wasteboar.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front left hoof -->
+<VAEWaste_Wasteboar.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>sabot avant gauche</VAEWaste_Wasteboar.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+<!-- EN: front right leg -->
+<VAEWaste_Wasteboar.corePart.parts.front_right_leg.customLabel>jambe avant droite</VAEWaste_Wasteboar.corePart.parts.front_right_leg.customLabel>
+<!-- EN: front right hoof -->
+<VAEWaste_Wasteboar.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>sabot avant droit</VAEWaste_Wasteboar.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+<!-- EN: rear left leg -->
+<VAEWaste_Wasteboar.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</VAEWaste_Wasteboar.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear left hoof -->
+<VAEWaste_Wasteboar.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>sabot arrière gauche</VAEWaste_Wasteboar.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+<!-- EN: rear right leg -->
+<VAEWaste_Wasteboar.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</VAEWaste_Wasteboar.corePart.parts.rear_right_leg.customLabel>
+<!-- EN: rear right hoof -->
+<VAEWaste_Wasteboar.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>sabot arrière droit</VAEWaste_Wasteboar.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+
+
+<!-- EN: scorpionlike body -->
+<VAEWaste_ScorpionLike.label>corps de scorpion</VAEWaste_ScorpionLike.label>
+<!-- EN: left eye -->
+<VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>œil gauche</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+<!-- EN: right eye -->
+<VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>œil droit</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+<!-- EN: left antenna -->
+<VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>antenne gauche</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+<!-- EN: right antenna -->
+<VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>antenne droite</VAEWaste_ScorpionLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+<!-- EN: front left leg -->
+<VAEWaste_ScorpionLike.corePart.parts.front_left_leg.customLabel>jambe avant gauche</VAEWaste_ScorpionLike.corePart.parts.front_left_leg.customLabel>
+<!-- EN: front right leg -->
+<VAEWaste_ScorpionLike.corePart.parts.front_right_leg.customLabel>jambe avant droite</VAEWaste_ScorpionLike.corePart.parts.front_right_leg.customLabel>
+<!-- EN: middle left leg -->
+<VAEWaste_ScorpionLike.corePart.parts.middle_left_leg.customLabel>jambe milieu gauche</VAEWaste_ScorpionLike.corePart.parts.middle_left_leg.customLabel>
+<!-- EN: middle right leg -->
+<VAEWaste_ScorpionLike.corePart.parts.middle_right_leg.customLabel>jambe milieu droite</VAEWaste_ScorpionLike.corePart.parts.middle_right_leg.customLabel>
+<!-- EN: rear left leg -->
+<VAEWaste_ScorpionLike.corePart.parts.rear_left_leg.customLabel>jambe arrière gauche</VAEWaste_ScorpionLike.corePart.parts.rear_left_leg.customLabel>
+<!-- EN: rear right leg -->
+<VAEWaste_ScorpionLike.corePart.parts.rear_right_leg.customLabel>jambe arrière droite</VAEWaste_ScorpionLike.corePart.parts.rear_right_leg.customLabel>
+
+
+</LanguageData>

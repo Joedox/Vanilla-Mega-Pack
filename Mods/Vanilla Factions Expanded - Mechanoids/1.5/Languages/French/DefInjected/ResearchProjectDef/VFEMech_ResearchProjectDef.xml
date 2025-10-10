@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFE_FactoryBasics.label>usine basique</VFE_FactoryBasics.label>
+<VFE_FactoryBasics.description>Vous apprend la compréhension fondamentale de l'utilisation des usines, débloque les trémies d'usine et les sols capables de supporter des machines lourdes.</VFE_FactoryBasics.description>
+<VFE_FactoryBasics.generalRules.rulesStrings>
+    <li>subject->l'efficacité industrielle</li>
+    <li>subject_story->a été le pionnier des premières lignes de production intégrées</li>
+    <li>subject_story->a transformé un petit atelier en une pierre angulaire de la révolution industrielle</li>
+    <li>subject_story->a vu au-delà du chaos des ateliers la beauté des machines synchronisées</li>
+    <li>subject_gerund->les bases d'une fabrication moderne</li>
+</VFE_FactoryBasics.generalRules.rulesStrings>
+
+<VFE_ElectronicsFabricationFactory.label>usine de fabrication électronique</VFE_ElectronicsFabricationFactory.label>
+<VFE_ElectronicsFabricationFactory.description>Vous apprend à fabriquer une série de machines capables d'extraire automatiquement de petites quantités d'acier à partir de morceaux de roches, de forger des composants mécaniques simples et des composants électroniques de haute technologie.</VFE_ElectronicsFabricationFactory.description>
+<VFE_ElectronicsFabricationFactory.generalRules.rulesStrings>
+    <li>subject->la fabrication automatisée de composants</li>
+    <li>subject_story->a dévoilé le potentiel des machines autonomes dans la production électronique</li>
+    <li>subject_story->a comblé le fossé entre les matières premières et les technologies de pointe</li>
+    <li>subject_story->a révolutionné la production de composants de haute technologie en les rendant accessibles à tous</li>
+    <li>subject_gerund->la rationalisation de la création de produits électroniques</li>
+</VFE_ElectronicsFabricationFactory.generalRules.rulesStrings>
+
+<VFE_MasonryandMetallicsFactory.label>usine de maçonnerie et métallurgie</VFE_MasonryandMetallicsFactory.label>
+<VFE_MasonryandMetallicsFactory.description>Vous apprend à fabriquer une série de machines capables d'extraire automatiquement des morceaux de roches au niveau de la surface, de les transformer en blocs et de les raffiner en un matériau avancé similaire à du plastacier.</VFE_MasonryandMetallicsFactory.description>
+<VFE_MasonryandMetallicsFactory.generalRules.rulesStrings>
+    <li>subject->le traitement des matériaux avancés</li>
+    <li>subject_story->a mis au point une méthode permettant d'extraire le maximum de valeur d'une pierre commune</li>
+    <li>subject_story->a transformé des roches ordinaires en épine dorsale des structures les plus solides</li>
+    <li>subject_story->a trouvé le moyen d'imiter les propriétés de matériaux rares grâce à son ingéniosité et à la pression</li>
+    <li>subject_gerund->la redéfinition de la science des matériaux</li>
+</VFE_MasonryandMetallicsFactory.generalRules.rulesStrings>
+
+<VFE_MunitionsandArmamentsFactory.label>usine de munitions et d'armement</VFE_MunitionsandArmamentsFactory.label>
+<VFE_MunitionsandArmamentsFactory.description>Vous apprend à fabriquer une série de machines permettant de raffiner et de purifier automatiquement le carburant chimique à partir de matières organiques et de le transformer en armes ou en obus de mortier à grande échelle.</VFE_MunitionsandArmamentsFactory.description>
+<VFE_MunitionsandArmamentsFactory.generalRules.rulesStrings>
+    <li>subject->la fabrication d'armes</li>
+    <li>subject_story->est passé maître dans l'art de transformer la nature en puissance de feu</li>
+    <li>subject_story->a équipé une colonie sans défense pour en faire une formidable forteresse</li>
+    <li>subject_story->a créé des munitions qui ont changé le cours d'innombrables batailles</li>
+    <li>subject_gerund->l'armement du futur</li>
+</VFE_MunitionsandArmamentsFactory.generalRules.rulesStrings>
+
+<VFE_WearablesandTextilesFactory.label>usine de textiles et de vêtements</VFE_WearablesandTextilesFactory.label>
+<VFE_WearablesandTextilesFactory.description>Vous apprend à fabriquer une série de machines permettant de recycler automatiquement les vieux vêtements en chutes et d'assembler de nouveaux vêtements à partir desdites chutes. En outre, il débloque une machine capable de reconfigurer moléculairement les vêtements pour imiter les propriétés du synthé.</VFE_WearablesandTextilesFactory.description>
+<VFE_WearablesandTextilesFactory.generalRules.rulesStrings>
+    <li>subject->la production de mode durable</li>
+    <li>subject_story->a révolutionné l'industrie de l'habillement en introduisant le recyclage en boucle fermée</li>
+    <li>subject_story->a créé des vêtements qui combinent les techniques de tissage anciennes et la technologie moderne</li>
+    <li>subject_story->a mis au point une méthode pour imiter les textiles de luxe et les rendre accessibles à tous</li>
+    <li>subject_gerund->la réinvention de la fabrication textile</li>
+</VFE_WearablesandTextilesFactory.generalRules.rulesStrings>
+
+<VFE_ProvisionsPackagingFactory.label>usine de conditionnement de provisions</VFE_ProvisionsPackagingFactory.label>
+<VFE_ProvisionsPackagingFactory.description>Vous apprend à fabriquer une série de machines permettant de récolter automatiquement et efficacement les morceaux de viande animale, de le cuire et enfin, de le conditionner en ration de survie ou en croquettes.</VFE_ProvisionsPackagingFactory.description>
+<VFE_ProvisionsPackagingFactory.generalRules.rulesStrings>
+    <li>subject->la transformation efficace des aliments</li>
+    <li>subject_story->a transformé les récoltes excédentaires en provisions vitales pour les colonies éloignées</li>
+    <li>subject_story->a inventé un système zéro déchet qui a transformé le mode de conservation des aliments</li>
+    <li>subject_story->a été le pionnier des techniques de conservation des saveurs, changeant ainsi le monde culinaire</li>
+    <li>subject_gerund->la maîtrise de l'art de la conservation des aliments</li>
+</VFE_ProvisionsPackagingFactory.generalRules.rulesStrings>
+
+<VFE_MedicinalCompoundingFactory.label>usine de préparation de médicaments</VFE_MedicinalCompoundingFactory.label>
+<VFE_MedicinalCompoundingFactory.description>Vous apprend à fabriquer une série de machines qui confèrent la capacité de raffiner automatiquement un glycérol épais extrêmement similaire à celui de la neutroamine, permet également le raffinage ultérieur en une variété de médicaments ou de drogues illicites.</VFE_MedicinalCompoundingFactory.description>
+<VFE_MedicinalCompoundingFactory.generalRules.rulesStrings>
+    <li>subject->l'innovation pharmaceutique</li>
+    <li>subject_story->a découvert une formule qui rend les maladies courantes impuissantes</li>
+    <li>subject_story->a brouillé les frontières entre les remèdes traditionnels à base de plantes et la médecine moderne</li>
+    <li>subject_story->a créé un médicament qui est devenu une pierre angulaire dans la lutte contre les épidémies</li>
+    <li>subject_gerund->l'avancement de la science médicale</li>
+</VFE_MedicinalCompoundingFactory.generalRules.rulesStrings>
+
+<VFE_BasicDroneAssembly.label>assembleur de drone basique</VFE_BasicDroneAssembly.label>
+<VFE_BasicDroneAssembly.description>Vous apprend à fabriquer une machine permettant d'assembler des drones rechargeables automatisés rudimentaires capables de transporter, d'exploiter et de nettoyer.</VFE_BasicDroneAssembly.description>
+<VFE_BasicDroneAssembly.generalRules.rulesStrings>
+    <li>subject->les pionniers de l'automatisation</li>
+    <li>subject_story->a lancé l'ère de la maintenance sans main-d'œuvre avec son premier drone</li>
+    <li>subject_story->a rêvé d'un monde où la technologie permettrait à personne de travailler dur</li>
+    <li>subject_story->a introduit les drones qui sont devenus l'épine dorsale de l'expansion industrielle</li>
+    <li>subject_gerund->l'entrée dans l'ère de l'automatisation</li>
+</VFE_BasicDroneAssembly.generalRules.rulesStrings>
+
+<VFE_AutomatedDefensiveMeasures.label>mesures défensives automatisées</VFE_AutomatedDefensiveMeasures.label>
+<VFE_AutomatedDefensiveMeasures.description>Vous apprend la capacité d'armer les drones automatisés à des fins diverses, y compris les plateformes de tourelles mobiles, les mortiers, le contrôle des émeutes et autres contre-mesures défensives.</VFE_AutomatedDefensiveMeasures.description>
+<VFE_AutomatedDefensiveMeasures.generalRules.rulesStrings>
+    <li>subject->les technologies défensives</li>
+    <li>subject_story->a conçu des drones qui surveillent les maisons et défendent les frontières</li>
+    <li>subject_story->a renversé le cours des sièges avec leurs forteresses automatisées</li>
+    <li>subject_story->a été le premier à utiliser l'IA dans les stratégies de maintien de la paix et de défense</li>
+    <li>subject_gerund->le renforcement de la sécurité par l'innovation</li>
+</VFE_AutomatedDefensiveMeasures.generalRules.rulesStrings>
+
+<VFE_MechanoidStructures.label>structures mécanoïdes</VFE_MechanoidStructures.label>
+<VFE_MechanoidStructures.description>Vous apprend la capacité d'utiliser la technologie des mécanoïdes dans différents types de structures, avec un coût élevé.</VFE_MechanoidStructures.description>
+<VFE_MechanoidStructures.generalRules.rulesStrings>
+    <li>subject->l'architecture mécanoïde</li>
+    <li>subject_story->a construit les premières structures capables de se réparer et de se modifier elles-mêmes</li>
+    <li>subject_story->a combiné des technologies extraterrestres pour créer des bâtiments vivants</li>
+    <li>subject_story->a imaginé des villes capables de s'adapter aux besoins de leurs habitants</li>
+    <li>subject_gerund->la fusion de la construction et de la technologie extraterrestre</li>
+</VFE_MechanoidStructures.generalRules.rulesStrings>
+
+<VFE_AdvancedDroneAssembly.label>assembleur de drone avancé</VFE_AdvancedDroneAssembly.label>
+<VFE_AdvancedDroneAssembly.description>Vous apprend à fabriquer des drones plus avancés, capables d'analyser et de traiter des informations complexes.</VFE_AdvancedDroneAssembly.description>
+<VFE_AdvancedDroneAssembly.generalRules.rulesStrings>
+    <li>subject->l'évolution des machines cognitives</li>
+    <li>subject_story->a développé des drones capables de penser de manière indépendante et de résoudre des problèmes</li>
+    <li>subject_story->a surmonté les barrières entre l'intelligence artificielle et la véritable conscience</li>
+    <li>subject_story->a conçu des drones capables d'apprendre, de s'adapter et d'innover par eux-mêmes</li>
+    <li>subject_gerund->la dernière frontière de l'IA</li>
+</VFE_AdvancedDroneAssembly.generalRules.rulesStrings>
+
+
+</LanguageData>

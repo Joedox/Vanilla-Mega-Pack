@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Airlock jammed shut. Must be forced open. -->
+<VQE_AirlockJammed>Sas bloqué. Doit être forcé pour l'ouvrir.</VQE_AirlockJammed>
+<!-- EN: Clean up the {0} while searching for valuable materials. -->
+<VQE_ScavengeDesc>Déblaye le {0} tout en recherchant des matériaux précieux.</VQE_ScavengeDesc>
+<!-- EN: Scavenge {0} -->
+<VQE_Scavenge>Récupérer {0}</VQE_Scavenge>
+<!-- EN: Cancel -->
+<VQE_CancelScavenge>Annuler</VQE_CancelScavenge>
+<!-- EN: Cancel scavenging this object. -->
+<VQE_CancelScavengeDesc>Annule la récupération de cet objet.</VQE_CancelScavengeDesc>
+<!-- EN: Study ancient blueprints -->
+<VQE_StudyBlueprints>Étudier les anciens plans</VQE_StudyBlueprints>
+<!-- EN: Study the ancient blueprints and diagrams to gain inspiration for the next crafting project. -->
+<VQE_StudyBlueprintsDesc>Étudie les anciens plans et diagrammes pour trouver l'inspiration pour votre prochain projet d'artisanat.</VQE_StudyBlueprintsDesc>
+<!-- EN: Study ancient black box -->
+<VQE_StudyBlackBox>Analyser l'ancienne boîte noire</VQE_StudyBlackBox>
+<!-- EN: Access the data on the black box to find out what transpired. -->
+<VQE_StudyBlackBoxDesc>Accéde aux données de la boîte noire pour savoir ce qui s'est passé.</VQE_StudyBlackBoxDesc>
+<!-- EN: Initiate scan -->
+<VQE_InitiateScan>Initialiser le balayage</VQE_InitiateScan>
+<!-- EN: Initiate the proximity scan to find large signatures in the area. The scan is bound to generate enough of an energy signature to attract a mechanoid hive. -->
+<VQE_InitiateScanDesc>Initialise le balayage de proximité pour trouver de grandes signatures dans la zone. Le balayage devrait générer une signature énergétique suffisante pour attirer une ruche de mécanoïdes.</VQE_InitiateScanDesc>
+<!-- EN: Restart generator -->
+<VQE_RestartGenerator>Redémarrer le générateur</VQE_RestartGenerator>
+<!-- EN: Restart the cryptogenerator. It has enough fuel to run continuously for three days, after which it will critically meltdown. The strong energy signature is bound to attract the mechanoid hive. -->
+<VQE_RestartGeneratorDesc>Redémarre le cryptogénérateur. Possède assez de carburant pour fonctionner en continu pendant trois jours, après quoi il fondra de façon critique. La forte signature énergétique attirera certainement une ruche de mécanoïdes.</VQE_RestartGeneratorDesc>
+<!-- EN: Restarting the cryptogenerator will cause continuous mechanoid attacks. -->
+<VQE_RestartWarning>Le redémarrage du cryptogénérateur entraînera des attaques continues de mécanoïdes.</VQE_RestartWarning>
+<!-- EN: Scavenge -->
+<VQE_LootChunk>Récupérer</VQE_LootChunk>
+<!-- EN: The scan will take some time to complete. Leaving the site will cancel the scan. -->
+<VQE_ScanStarted>Le balayage prend un certain temps. Le fait de quitter le site annulera le balayage.</VQE_ScanStarted>
+<!-- EN: The scan has completed. -->
+<VQE_ScanComplete>Le balayage est terminé.</VQE_ScanComplete>
+
+<!-- EN: Cryptogenerator running low -->
+<VQE_Alert_CriticalCryptoGenerators>Cryptogénérateur à court d'énergie</VQE_Alert_CriticalCryptoGenerators>
+<!-- EN: A cryptogenerator only has enough fuel left for less than a day. When fuel runs out, it will meltdown, destroying everything in radius. -->
+<VQE_Alert_CriticalCryptoGenerators_Desc>Un cryptogénérateur contient du carburant pour moins d'une journée. Lorsque le carburant sera épuisé, il fondra, détruisant tout ce qui se trouve dans son rayon.</VQE_Alert_CriticalCryptoGenerators_Desc>
+<!-- EN: This is the only opportunity to craft more legendary crypto gear, provided you have the resources to do so. You can secure the site and send more resources in, but once you leave it, you will never be able to find it again. -->
+<VQE_QuestCompletedMessage>C'est la seule possibilité de fabriquer des crypto-équipements légendaires, à condition d'avoir les ressources nécessaires. Vous pouvez sécuriser le site et y envoyer plus de ressources, mais une fois que vous l'aurez quitté, vous ne pourrez plus jamais y revenir.</VQE_QuestCompletedMessage>
+<!-- EN: {PAWN_nameDef} joins -->
+<VQE_HeroJoins>{PAWN_nameDef} se joint</VQE_HeroJoins>
+<!-- EN: The {PAWN_title} known as {PAWN_nameDef} has emerged from a cryptosleep casket in a daze. Once they regain their bearings, they will join your colony.\n\n{PAWN_nameFull} is the legendary blacksmith of a renowned spacefaring civilization, famed for their mastery of cryptoparticle technology. A gifted crafter and battle-hardened warrior, {PAWN_labelShort} wears a set of cryptotech armor from their lost people. But beneath their skill and strength lies a heavy burden of guilt, a unique psychological condition born from the crushing sorrow of being the last living member of their civilization. This grief gnaws at {PAWN_possessive} mind over time, slowly deepening into despair. However, engaging in work that aligns with their passions: especially crafting, can slow the progression. If managed carefully, the guilt will eventually transform into acceptance, and with time, begin to fade. -->
+<VQE_HeroJoinsDesc>{PAWN_title} connu sous le nom de {PAWN_nameDef} a émergé d'une capsule crypto-sommeil dans un état d'hébétude. Une fois qu'{PAWN_pronoun} aura retrouvé ses esprits, {PAWN_pronoun} rejoindra votre colonie.\n\n{PAWN_nameFull} est l{PAWN_gender ? e : a } forgeron{PAWN_gender ? : ne } légendaire d'une civilisation spatiale réputée pour sa maîtrise de la technologie des cryptoparticules. Artisan doué et guerri{PAWN_gender ? er : ère } aguerri{PAWN_gender ? : e }, {PAWN_labelShort} porte une crypto-armure de son peuple disparu. Mais sous ses compétences et sa force se cache un lourd fardeau de culpabilité, un état psychologique unique né du chagrin écrasant d'être le dernier membre vivant de leur civilisation. Ce chagrin ronge son esprit au fil du temps, se transformant lentement en désespoir. Cependant, le fait de s'engager dans un travail qui correspond à ses passions, en particulier l'artisanat, peut ralentir la progression. Si elle est gérée avec soin, la culpabilité finira par se transformer en acceptation et, avec le temps, commencera à s'estomper.</VQE_HeroJoinsDesc>
+
+
+</LanguageData>
