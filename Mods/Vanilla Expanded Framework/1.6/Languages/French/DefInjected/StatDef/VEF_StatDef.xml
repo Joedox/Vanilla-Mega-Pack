@@ -156,12 +156,12 @@
 <!-- EN: Chance to dodge a ranged attack that would've otherwise hit. -->
 <VEF_RangedDodgeChance.description>Probabilité d'esquiver une attaque à distance qui aurait dû atteindre sa cible.</VEF_RangedDodgeChance.description>
 
-<!-- EN: ranged weapon cooldown factor -->
-<VEF_VerbCooldownFactor.label>facteur de cadence de tir</VEF_VerbCooldownFactor.label>
-<!-- EN: The cooldown on weapons is multiplied by this value. -->
-<VEF_VerbCooldownFactor.description>La cadence de tir des armes du porteur est multiplié par cette valeur.</VEF_VerbCooldownFactor.description>
-<!-- EN: weapon cooldown factor (people) -->
-<VEF_VerbCooldownFactor.labelForFullStatList>facteur de cadence de tir (personnes)</VEF_VerbCooldownFactor.labelForFullStatList>
+<!-- EN: ranged weapon cooldown factor 
+<VEF_VerbCooldownFactor.label>facteur de cadence de tir</VEF_VerbCooldownFactor.label>-->
+<!-- EN: The cooldown on weapons is multiplied by this value. 
+<VEF_VerbCooldownFactor.description>La cadence de tir des armes du porteur est multiplié par cette valeur.</VEF_VerbCooldownFactor.description>-->
+<!-- EN: weapon cooldown factor (people) 
+<VEF_VerbCooldownFactor.labelForFullStatList>facteur de cadence de tir (personnes)</VEF_VerbCooldownFactor.labelForFullStatList>-->
 
 <!-- EN: weapon range factor -->
 <VEF_VerbRangeFactor.label>facteur de portée</VEF_VerbRangeFactor.label>
