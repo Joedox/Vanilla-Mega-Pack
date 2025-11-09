@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: The confections have spoiled due to a lack of fuel or power in the bakery oven -->
+<VCE_OvenFailurePower>Les confiseries se sont gâtées en raison d'un manque de combustible ou d'électricité dans le four boulangerie.</VCE_OvenFailurePower>
+<!-- EN: The confections are spoiling fast due to a lack of fuel or power in the bakery oven -->
+<VCE_OvenFailurePowerWarning>Les confiseries se gâtent rapidement en raison du manque de combustible ou d'électricité dans le four boulangerie.</VCE_OvenFailurePowerWarning>
+<!-- EN: This bakery oven is not working at the moment -->
+<VCE_BakeryOvenNotWorking>Ce four boulangerie ne fonctionne pas pour le moment.</VCE_BakeryOvenNotWorking>
+<!-- EN: Reset -->
+<VCE_Reset>Réinitialiser</VCE_Reset>
+<!-- EN: Max negative memory removed by simple confections -->
+<VCE_SimpleMealMood>Confiserie simple retire un souvenir négatif maximum de </VCE_SimpleMealMood>
+<!-- EN: Ingesting a simple confection will remove a negative memory up to this severity. -3 by default. 0 will disable the mechanic for that meal. -->
+<VCE_SimpleMealMoodDesc>La consommation d'une confiserie simple supprimera un souvenir négatif jusqu'à cette gravité.\n\nPar défaut : -3\n0 désactive le mécanisme pour ce repas.</VCE_SimpleMealMoodDesc>
+<!-- EN: Max negative memory removed by fine confections -->
+<VCE_FineMealMood>Confiserie raffinée retire un souvenir négatif maximum de </VCE_FineMealMood>
+<!-- EN: Ingesting a fine confection will remove a negative memory up to this severity. -5 by default. 0 will disable the mechanic for that meal. -->
+<VCE_FineMealMoodDesc>La consommation d'une confiserie raffinée supprimera un souvenir négatif jusqu'à cette gravité.\n\nPar défaut : -5\n0 désactive le mécanisme pour ce repas.</VCE_FineMealMoodDesc>
+<!-- EN: Max negative memory removed by lavish confections -->
+<VCE_LavishMealMood>Confiserie gastronomique retire un souvenir négatif maximum de </VCE_LavishMealMood>
+<!-- EN: Ingesting a lavish confection will remove a negative memory up to this severity. -10 by default. 0 will disable the mechanic for that meal. -->
+<VCE_LavishMealMoodDesc>La consommation d'une confiserie gastronomique supprimera un souvenir négatif jusqu'à cette gravité.\n\nPar défaut : -10\n0 désactive le mécanisme pour ce repas.</VCE_LavishMealMoodDesc>
+<!-- EN: Max negative memory removed by gourmet confections -->
+<VCE_GourmetMealMood>Confiserie de gourmet retire un souvenir négatif maximum de </VCE_GourmetMealMood>
+<!-- EN: Ingesting a gourmet confection will remove a negative memory up to this severity. -15 by default. 0 will disable the mechanic for that meal. -->
+<VCE_GourmetMealMoodDesc>La consommation d'une confiserie de gourmet supprimera un souvenir négatif jusqu'à cette gravité.\n\nPar défaut : -15\n0 désactive le mécanisme pour ce repas.</VCE_GourmetMealMoodDesc>
+<!-- EN: Period before the "consumed confection" effect wanes -->
+<VCE_TicksForEffect>Durée de l'effet "confiserie consommée" </VCE_TicksForEffect>
+<!-- EN: By default, consuming a confection gives a 3 day period where consuming other confections doesn't make them nullify any negative memories. -->
+<VCE_TicksForEffectDesc>Par défaut, l'effet "confiserie consommée" dure 3 jours pendant laquelle la consommation d'autres confiseries n'annule pas les souvenirs négatifs.</VCE_TicksForEffectDesc>
+
+
+</LanguageData>
